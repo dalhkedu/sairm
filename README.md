@@ -1,4 +1,59 @@
-# Relatório de Inteligência Estratégica: O Ciclo de Investimento em Inteligência Artificial, Riscos Sistêmicos de Bolha e Vetores de Desempenho no Mercado Acionário dos EUA
+# Prompt usado para geração da pagina
+
+[Systemic AI Risk Monitor](https://dalhkedu.github.io/sairm/)
+
+---
+
+# Role
+Aja como um Engenheiro de Software Sênior e Especialista em Visualização de Dados Financeiros.
+
+# Goal
+Crie o código completo para uma aplicação web (single page) pronta para ser hospedada no GitHub Pages. O site deve funcionar como um "Painel de Risco Sistêmico de IA (SAIRM)", baseado no relatório estratégico fornecido abaixo.
+
+# Tech Stack
+- HTML5 (Semântico)
+- CSS3 (Variáveis, Flexbox/Grid, responsivo).
+- JavaScript (Vanilla, ES6+).
+- Chart.js (via CDN) para gráficos.
+- Font Awesome (via CDN) para ícones.
+- NENHUM framework pesado (React/Vue) para manter a simplicidade de edição.
+
+# Visual Style & UI
+- Estética "Bloomberg Terminal / TradingView": Fundo escuro (#0a0e17), fontes monoespaçadas para números, cores de contraste alto para dados (Verde Neon, Vermelho, Amarelo Amber).
+- Layout denso em informações, mas organizado em "Cards".
+
+# Estrutura da Página (Features)
+
+1. **Header Ticker (Marquee):**
+   - Uma faixa no topo correndo horizontalmente com os Tickers mencionados no texto (NVDA, AMD, MSFT, CEG, VST) simulando cotações em tempo real (use dados mockados/fictícios por enquanto).
+
+2. **Hero Section (Resumo Executivo):**
+   - Título: "SAIRM - Systemic AI Risk Monitor".
+   - Subtítulo: "Monitoramento de Risco do Ciclo de Investimento em IA e Bolha Especulativa".
+   - Um card destacando o "Diagnóstico Atual": "Fase de Euforia (Relógio de Minsky)" (Baseado na seção 1.1).
+
+3. **Dashboard Principal (O Core):**
+   Crie 4 "Gauges" (Medidores) ou Gráficos baseados na seção 4.2 do texto. Como não temos API real conectada ainda, crie uma função JavaScript `generateMockData()` que simule esses valores para demonstrar a UI:
+   - **Indicador A (CER):** Capex Efficiency Ratio. Se < 0.5, mostrar alerta Amarelo.
+   - **Indicador B (RCI):** Revenue Circularity Index. Se correlação > 0.85, alerta Vermelho.
+   - **Indicador C (HSD):** Hardware-Software Divergence. Gráfico de linha comparando duas linhas (Hardware subindo, Software estagnado).
+   - **Indicador D (Energy Stress):** Vacância de Data Centers vs Preço MWh.
+
+4. **News Feed (Estilo Twitter):**
+   - Uma coluna lateral ou seção inferior que "posta" automaticamente trechos do relatório como se fossem notícias de última hora ("Breaking News").
+   - Exemplo: "ALERTA: HSBC reporta potencial buraco de financiamento na OpenAI de $207bi até 2030."
+
+5. **Tabela de Oportunidades e Riscos:**
+   - Renderize a "Tabela A: Matriz de Beneficiários e Vítimas" do texto em HTML estilizado. Use cores nas linhas: Verde para Infraestrutura/Energia, Vermelho para EdTech/BPO.
+
+# Lógica JavaScript
+- Crie um array de objetos JSON com o conteúdo das notícias do texto.
+- Faça um `setInterval` que adiciona uma nova "notícia" ao feed a cada 5 segundos para simular um mercado vivo.
+- Implemente a lógica matemática descrita na seção 4.2 (fórmulas do CER e HSD) como funções JS, mesmo que usando dados simulados.
+
+# Conteúdo Base
+# Relatório de Inteligência Estratégica: O Ciclo de Investimento em Inteligência Artificial, Riscos 
+Sistêmicos de Bolha e Vetores de Desempenho no Mercado Acionário dos EUA
 
 ## Resumo Executivo
 
