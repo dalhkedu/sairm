@@ -21,7 +21,12 @@ jobs:
         with:
           python-version: '3.9'
 
+      - name: Instalar dependencias
+        run: pip install yfinance requests
+
       - name: Rodar script de atualização
+        env:
+            ALPHA_VANTAGE_KEY: ${{ secrets.ALPHA_VANTAGE_KEY }}
         run: python updater.py
 
       - name: Commit e Push das mudanças
