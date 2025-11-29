@@ -1,83 +1,89 @@
 {
     "metadata": {
-        "last_updated": "2025-11-29 17:21:45 UTC",
-        "status": "MARKET OPEN"
+        "last_updated": "2025-11-29 17:36 UTC",
+        "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 891.7812930709264,
-            "change": "+2.4%"
+            "price": 177.0,
+            "change": "-2.72%"
         },
         {
             "symbol": "AMD",
-            "price": 171.5486831988975,
-            "change": "-0.5%"
+            "price": 217.53,
+            "change": "-0.13%"
         },
         {
             "symbol": "MSFT",
-            "price": 413.3909011121205,
-            "change": "+1.1%"
+            "price": 492.01,
+            "change": "-0.54%"
         },
         {
             "symbol": "CEG",
-            "price": 180.07358652240057,
-            "change": "+3.2%"
+            "price": 364.36,
+            "change": "+0.42%"
         },
         {
             "symbol": "VST",
-            "price": 65.5591406891744,
-            "change": "+4.0%"
+            "price": 178.86,
+            "change": "+3.0%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
-        "rci_current": 0.85,
-        "hsd_current": 16.4,
-        "energy_price": 84.68,
+        "cer_current": 0.49,
+        "rci_current": 0.18,
+        "hsd_current": 24.5,
+        "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.47,
-            0.46,
-            0.47,
             0.48,
-            0.46,
-            0.47,
+            0.48,
             0.49,
-            0.48,
-            0.47
+            0.5,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            11.69,
-            12.49,
-            12.49,
-            13.13,
-            12.54,
-            13.74,
-            15.12,
-            13.93,
-            14.95,
-            15.54
+            26.21,
+            26.04,
+            25.81,
+            25.71,
+            25.32,
+            24.91,
+            25.01,
+            24.69,
+            24.44,
+            24.62,
+            24.83,
+            24.86
         ],
         "hsd_history_software": [
-            2.35,
-            2.36,
-            2.52,
-            2.6,
-            2.35,
-            2.49,
-            2.86,
-            2.65,
-            2.31,
-            1.84
+            9.93,
+            9.78,
+            9.75,
+            9.56,
+            9.62,
+            9.66,
+            9.61,
+            9.69,
+            9.75,
+            9.92,
+            10.01,
+            9.82
         ],
         "rci_data": [
-            88.1,
-            0
+            85.0,
+            17.7
         ],
         "energy_data": [
-            1.3,
-            84.68
+            1.2,
+            128.4
         ]
     },
     "market_matrix": [
@@ -87,13 +93,13 @@
             "cat": "Infra",
             "impact": "Critical",
             "impact_class": "text-green",
-            "risk": "High (Valuation)",
+            "risk": "High",
             "risk_class": "risk-high"
         },
         {
             "ticker": "MSFT",
             "company": "Microsoft",
-            "cat": "Cloud/AI",
+            "cat": "Cloud",
             "impact": "High",
             "impact_class": "text-green",
             "risk": "Medium",
@@ -116,32 +122,13 @@
             "impact_class": "text-red",
             "risk": "Extreme",
             "risk_class": "risk-high"
-        },
-        {
-            "ticker": "FVRR",
-            "company": "Fiverr",
-            "cat": "Gig Econ",
-            "impact": "Disruptive",
-            "impact_class": "text-red",
-            "risk": "High",
-            "risk_class": "risk-high"
         }
     ],
     "news_feed": [
         {
-            "time": "14:05",
-            "tag": "ALERTA",
-            "text": "Volume de op\u00e7\u00f5es de venda (Puts) em SMH atinge n\u00edvel cr\u00edtico."
-        },
-        {
-            "time": "13:45",
-            "tag": "CAPEX",
-            "text": "Microsoft anuncia expans\u00e3o de data center nuclear na Virg\u00ednia."
-        },
-        {
-            "time": "12:30",
-            "tag": "MERCADO",
-            "text": "Nvidia mant\u00e9m margem bruta acima de 75% no Q3."
+            "time": "INFO",
+            "tag": "LIMIT",
+            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
         }
     ]
 }
