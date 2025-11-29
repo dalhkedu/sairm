@@ -1,0 +1,147 @@
+{
+    "metadata": {
+        "last_updated": "2025-11-29 13:39:48 UTC",
+        "status": "MARKET OPEN"
+    },
+    "market_ticker": [
+        {
+            "symbol": "NVDA",
+            "price": 891.8049296565431,
+            "change": "+2.4%"
+        },
+        {
+            "symbol": "AMD",
+            "price": 169.98354767141794,
+            "change": "-0.5%"
+        },
+        {
+            "symbol": "MSFT",
+            "price": 417.01643980026824,
+            "change": "+1.1%"
+        },
+        {
+            "symbol": "CEG",
+            "price": 181.89266493983507,
+            "change": "+3.2%"
+        },
+        {
+            "symbol": "VST",
+            "price": 66.00249305966561,
+            "change": "+4.0%"
+        }
+    ],
+    "dashboard_metrics": {
+        "cer_current": 0.61,
+        "rci_current": 0.71,
+        "hsd_current": 23.9,
+        "energy_price": 137.6,
+        "cer_history": [
+            0.61,
+            0.63,
+            0.64,
+            0.64,
+            0.62,
+            0.63,
+            0.62,
+            0.62,
+            0.63,
+            0.61
+        ],
+        "hsd_history_hardware": [
+            24.28,
+            25.49,
+            26.5,
+            25.09,
+            24.34,
+            23.02,
+            23.6,
+            23.12,
+            23.73,
+            23.69
+        ],
+        "hsd_history_software": [
+            9.62,
+            9.27,
+            8.89,
+            9.29,
+            9.44,
+            9.03,
+            8.69,
+            8.55,
+            8.75,
+            8.78
+        ],
+        "rci_data": [
+            90.0,
+            0
+        ],
+        "energy_data": [
+            2.9,
+            137.6
+        ]
+    },
+    "market_matrix": [
+        {
+            "ticker": "NVDA",
+            "company": "Nvidia Corp",
+            "cat": "Infra",
+            "impact": "Critical",
+            "impact_class": "text-green",
+            "risk": "High (Valuation)",
+            "risk_class": "risk-high"
+        },
+        {
+            "ticker": "MSFT",
+            "company": "Microsoft",
+            "cat": "Cloud/AI",
+            "impact": "High",
+            "impact_class": "text-green",
+            "risk": "Medium",
+            "risk_class": "risk-med"
+        },
+        {
+            "ticker": "CEG",
+            "company": "Constellation",
+            "cat": "Energy",
+            "impact": "Structural",
+            "impact_class": "text-green",
+            "risk": "Low",
+            "risk_class": "risk-low"
+        },
+        {
+            "ticker": "CHGG",
+            "company": "Chegg Inc",
+            "cat": "EdTech",
+            "impact": "Negative",
+            "impact_class": "text-red",
+            "risk": "Extreme",
+            "risk_class": "risk-high"
+        },
+        {
+            "ticker": "FVRR",
+            "company": "Fiverr",
+            "cat": "Gig Econ",
+            "impact": "Disruptive",
+            "impact_class": "text-red",
+            "risk": "High",
+            "risk_class": "risk-high"
+        }
+    ],
+    "news_feed": [
+        {
+            "time": "14:05",
+            "tag": "ALERTA",
+            "text": "Volume de op\u00e7\u00f5es de venda (Puts) em SMH atinge n\u00edvel cr\u00edtico."
+        },
+        {
+            "time": "13:45",
+            "tag": "CAPEX",
+            "text": "Microsoft anuncia expans\u00e3o de data center nuclear na Virg\u00ednia."
+        },
+        {
+            "time": "12:30",
+            "tag": "MERCADO",
+            "text": "Nvidia mant\u00e9m margem bruta acima de 75% no Q3."
+        }
+    ]
+}

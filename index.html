@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SAIRM - Systemic AI Risk Monitor</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+
+    <!-- Header Ticker -->
+    <div class="ticker-wrap">
+        <div class="ticker" id="ticker-content">
+            <!-- Ticker items will be injected by JS -->
+        </div>
+    </div>
+
+    <div class="container">
+
+        <!-- Hero Section -->
+        <section class="hero">
+            <div class="hero-title">
+                <h1><i class="fas fa-radiation-alt"></i> SAIRM Dashboard</h1>
+                <p>Systemic AI Risk Monitor // Investment Cycle & Speculative Bubble Tracker</p>
+            </div>
+            <div class="minsky-clock">
+                <div style="color: var(--text-muted); font-size: 0.8rem;">CURRENT DIAGNOSIS (MINSKY CLOCK)</div>
+                <div class="clock-phase">EUPHORIA PHASE</div>
+                <div style="margin-top: 5px; font-size: 0.7rem; color: var(--text-muted);">
+                    Data Updated: <span id="last-updated">--</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Main Dashboard -->
+        <main class="dashboard-grid">
+
+            <!-- Indicator A: CER -->
+            <div class="card">
+                <div class="card-header">
+                    <span class="card-title">CAPEX EFFICIENCY RATIO (CER)</span>
+                    <span class="card-value text-amber" id="cer-value">0.48</span>
+                </div>
+                <canvas id="chart-cer"></canvas>
+                <div style="margin-top: 10px; font-size: 0.8rem; color: var(--text-muted);">
+                    <i class="fas fa-exclamation-triangle text-amber"></i> Alert: Value < 0.5 indicates diminishing
+                        returns on AI Hardware investment. </div>
+                </div>
+
+                <!-- Indicator B: RCI -->
+                <div class="card">
+                    <div class="card-header">
+                        <span class="card-title">REVENUE CIRCULARITY (RCI)</span>
+                        <span class="card-value text-red" id="rci-value">0.89</span>
+                    </div>
+                    <canvas id="chart-rci"></canvas>
+                    <div style="margin-top: 10px; font-size: 0.8rem; color: var(--text-muted);">
+                        <i class="fas fa-circle-notch fa-spin text-red"></i> High Correlation: Cloud revenue highly
+                        dependent on VC funding flows.
+                    </div>
+                </div>
+
+                <!-- Indicator C: HSD -->
+                <div class="card">
+                    <div class="card-header">
+                        <span class="card-title">HARDWARE-SOFTWARE DIVERGENCE</span>
+                        <span class="card-value text-red">+24.5%</span>
+                    </div>
+                    <canvas id="chart-hsd"></canvas>
+                </div>
+
+                <!-- Indicator D: Energy Stress -->
+                <div class="card">
+                    <div class="card-header">
+                        <span class="card-title">ENERGY STRESS MONITOR</span>
+                        <span class="card-value text-green">CRITICAL</span>
+                    </div>
+                    <canvas id="chart-energy"></canvas>
+                </div>
+
+        </main>
+
+        <!-- News Feed -->
+        <aside class="news-feed">
+            <div class="news-header">
+                <i class="fas fa-satellite-dish"></i> INTELLIGENCE FEED
+            </div>
+            <div id="news-container">
+                <!-- News items injected by JS -->
+            </div>
+        </aside>
+
+        <!-- Opportunities Table -->
+        <section class="table-section">
+            <div class="card-header" style="border:none;">
+                <span class="card-title" style="color: var(--neon-green);">MARKET MATRIX: BENEFICIARIES VS
+                    VICTIMS</span>
+            </div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Ticker</th>
+                        <th>Company</th>
+                        <th>Category</th>
+                        <th>AI Impact</th>
+                        <th>Risk Level</th>
+                    </tr>
+                </thead>
+                <tbody id="table-body">
+                    <!-- Table rows injected by JS -->
+                </tbody>
+            </table>
+        </section>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

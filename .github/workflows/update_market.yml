@@ -1,0 +1,33 @@
+name: Update SAIRM Data
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Rodar script de atualização
+        run: python updater.py
+
+      - name: Commit e Push das mudanças
+        run: |
+          git config --global user.name 'SAIRM Bot'
+          git config --global user.email 'desenvolvimento@sousenior.dev.br'
+          git add dashboard_data.json
+          git commit -m "Atualização automática de mercado: $(date)" || exit 0
+          git push
