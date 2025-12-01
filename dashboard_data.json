@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-01 17:24 UTC",
+        "last_updated": "2025-12-01 18:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 179.82,
-            "change": "-0.73%"
+            "price": 179.62,
+            "change": "-3.09%"
         },
         {
             "symbol": "AMD",
-            "price": 218.5,
-            "change": "-2.85%"
+            "price": 220.07,
+            "change": "+2.74%"
         },
         {
             "symbol": "MSFT",
-            "price": 488.48,
-            "change": "+0.68%"
+            "price": 488.58,
+            "change": "+1.61%"
         },
         {
             "symbol": "CEG",
-            "price": 358.51,
-            "change": "-0.13%"
+            "price": 359.36,
+            "change": "-2.24%"
         },
         {
             "symbol": "VST",
-            "price": 174.15,
-            "change": "-2.67%"
+            "price": 175.43,
+            "change": "+0.33%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.46,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
             0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            25.86,
+            25.39,
+            25.56,
+            25.08,
+            25.49,
+            25.38,
+            25.33,
+            25.4,
+            25.7,
             25.46,
-            25.3,
-            25.16,
-            25.24,
-            25.12,
-            25.07,
-            24.93,
-            24.68,
-            24.55,
-            24.81,
-            25.03
+            25.21,
+            25.59,
+            25.25
         ],
         "hsd_history_software": [
-            9.98,
-            9.9,
+            9.82,
+            9.89,
             9.81,
-            9.94,
-            9.84,
-            10.02,
-            10.01,
-            10.08,
+            9.9,
+            9.76,
             9.93,
-            10.09,
-            9.94,
-            10.05
+            10.07,
+            10.0,
+            10.2,
+            10.06,
+            10.25,
+            10.09
         ],
         "rci_data": [
             85.0,
-            17.982
+            17.962
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:13",
-            "tag": "MERCADO",
-            "text": "SA analyst upgrades/downgrades: AMD, VEEV, GRAB, INTC"
-        },
-        {
-            "time": "16:06",
-            "tag": "MERCADO",
-            "text": "McKesson\u2019s Advancing Community Oncology Report Charts a New Era of Innovation for Biopharma and Community Care"
-        },
-        {
-            "time": "16:06",
-            "tag": "RESULTADOS",
-            "text": "HPE to Post Q4 Earnings: Time to Buy, Sell or Hold the Stock?"
-        },
-        {
-            "time": "16:06",
+            "time": "18:22",
             "tag": "AI",
-            "text": "AI Pushes Black Friday E-Commerce Sales to a Record-High: 5 Picks"
+            "text": "\u2018Big Short\u2019 investor Michael Burry targets \u2018ridiculously overvalued\u2019 Tesla after slamming AI valuations"
         },
         {
-            "time": "15:51",
+            "time": "17:23",
             "tag": "MERCADO",
-            "text": " Palmetto Grain Brokerage -"
+            "text": "Top Stock Movers Now: Coinbase, Robinhood, Moderna, Synopsys, and More"
+        },
+        {
+            "time": "17:11",
+            "tag": "MERCADO",
+            "text": "Synopsys, Moderna, Strategy, Q32 Bio, Wolfspeed: Stocks Making The Biggest Moves Today"
+        },
+        {
+            "time": "17:06",
+            "tag": "AI",
+            "text": "S&P Global (NYSE: SPGI) links MCP servers with AWS Quick Suite for AI agents"
+        },
+        {
+            "time": "17:05",
+            "tag": "MERCADO",
+            "text": "Can IBM's Tie-Up With Cisco for Quantum Network Aid Its Shares?"
         }
     ]
 }
