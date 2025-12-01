@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-01 21:20 UTC",
+        "last_updated": "2025-12-01 22:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 179.92,
-            "change": "+3.23%"
+            "change": "+1.58%"
         },
         {
             "symbol": "AMD",
             "price": 219.76,
-            "change": "+0.4%"
+            "change": "+3.31%"
         },
         {
             "symbol": "MSFT",
             "price": 486.74,
-            "change": "+2.76%"
+            "change": "-3.38%"
         },
         {
             "symbol": "CEG",
             "price": 359.05,
-            "change": "-0.89%"
+            "change": "+1.74%"
         },
         {
             "symbol": "VST",
             "price": 173.64,
-            "change": "+2.77%"
+            "change": "+2.2%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.66,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            25.9,
-            25.46,
-            25.29,
-            25.38,
-            25.27,
-            24.91,
+            24.26,
+            24.49,
+            24.43,
+            24.85,
             24.58,
-            24.7,
-            24.94,
-            25.18,
-            25.58,
-            25.25
+            25.01,
+            24.6,
+            24.79,
+            24.85,
+            25.17,
+            24.96,
+            24.93
         ],
         "hsd_history_software": [
-            10.62,
-            10.6,
-            10.54,
-            10.51,
-            10.33,
-            10.38,
-            10.39,
-            10.43,
-            10.44,
-            10.27,
-            10.12,
-            10.17
+            9.76,
+            9.62,
+            9.67,
+            9.81,
+            9.71,
+            9.81,
+            9.95,
+            9.85,
+            9.71,
+            9.54,
+            9.63,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:49",
+            "time": "22:00",
             "tag": "MERCADO",
-            "text": "AVGO Stock: Broadcom Inc (AVGO) Shares Drop 3.17% on December 1"
+            "text": "Jack Henry Study Uncovers Gaps in Consumer Financial Confidence and Digital Experience"
         },
         {
-            "time": "20:21",
+            "time": "21:36",
             "tag": "MERCADO",
-            "text": "Larry Ellison: Oracle co-founder and one of the world's richest people"
+            "text": "Competition Is Heating Up, But Bank of America Still Thinks AMD Stock Is a Buy Here"
         },
         {
-            "time": "20:21",
+            "time": "21:24",
             "tag": "MERCADO",
-            "text": "Key facts: Keysight execs file Form 144; analysts discuss wireless tech growth"
+            "text": "Akamai Technologies Announces Acquisition of Function-as-a-Service Company Fermyon"
         },
         {
-            "time": "20:21",
+            "time": "21:21",
             "tag": "MERCADO",
-            "text": "New Agentic Capabilities in AWS Transform Enable Rapid Modernization of Any Code or Application"
+            "text": "Best Buy Appoints Dylan Jadeja to Board of Directors"
         },
         {
-            "time": "20:00",
+            "time": "21:15",
             "tag": "MERCADO",
-            "text": "PPG: To Navigate Road Ahead, Suppliers and Customers Must Drive Digital Together"
+            "text": "Crown Castle to Present at the UBS Global Media and Communications Conference"
         }
     ]
 }
