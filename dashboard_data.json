@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-01 11:21 UTC",
+        "last_updated": "2025-12-01 12:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.0,
-            "change": "+0.94%"
+            "change": "+1.49%"
         },
         {
             "symbol": "AMD",
             "price": 217.53,
-            "change": "+1.84%"
+            "change": "+3.44%"
         },
         {
             "symbol": "MSFT",
-            "price": 492.01,
-            "change": "-0.66%"
+            "price": NaN,
+            "change": "-3.47%"
         },
         {
             "symbol": "CEG",
             "price": 364.36,
-            "change": "-2.61%"
+            "change": "-0.4%"
         },
         {
             "symbol": "VST",
             "price": 178.86,
-            "change": "+0.78%"
+            "change": "+0.49%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.56,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
             0.51,
             0.52,
+            0.53,
             0.52,
             0.51,
             0.51,
             0.5,
-            0.51,
-            0.51,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            24.28,
-            24.49,
-            24.45,
-            24.67,
-            25.1,
-            25.07,
-            25.45,
-            25.09,
-            24.74,
-            25.07,
-            24.77,
-            25.15
+            26.2,
+            26.13,
+            25.65,
+            25.85,
+            25.56,
+            25.23,
+            24.94,
+            24.56,
+            24.2,
+            24.53,
+            24.58,
+            24.97
         ],
         "hsd_history_software": [
-            9.44,
-            9.45,
-            9.54,
-            9.54,
-            9.56,
-            9.63,
-            9.79,
-            9.63,
-            9.47,
-            9.5,
-            9.66,
-            9.82
+            9.85,
+            9.92,
+            9.86,
+            9.95,
+            10.15,
+            10.06,
+            10.22,
+            10.19,
+            10.15,
+            10.01,
+            10.0,
+            10.08
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "12:21",
+            "tag": "MERCADO",
+            "text": "InnovestX Securities Selects ICE to Enhance Pricing, Trading and Risk Analytics, Powering a More Efficient and Scalable Investment Platform"
+        },
+        {
+            "time": "12:06",
+            "tag": "MERCADO",
+            "text": "CRWD - Crowdstrike Holdings Inc Stock Price and Quote"
+        },
+        {
+            "time": "11:21",
+            "tag": "MERCADO",
+            "text": "Is Automatic Data Processing Stock Underperforming the S&P 500?"
+        },
+        {
             "time": "10:51",
             "tag": "MERCADO",
             "text": "How Is KLA Corporation\u2019s Stock Performance Compared to Other Semiconductor Stocks?"
@@ -134,21 +149,6 @@
             "time": "08:51",
             "tag": "MERCADO",
             "text": "Unusual Activity in Oracle Corp Put Options Highlights ORCL Stock's Value"
-        },
-        {
-            "time": "08:45",
-            "tag": "MERCADO",
-            "text": "Wayland Additive announces Autodesk Fusion integration for Calibur3 metal 3D printing system"
-        },
-        {
-            "time": "08:36",
-            "tag": "MERCADO",
-            "text": "Wells Fargo Downgrades Crown Castle (CCI)"
-        },
-        {
-            "time": "08:00",
-            "tag": "MERCADO",
-            "text": "Rockwell Automation Showcases the Future of Industrial Operations at Industrial Transformation Saudi Arabia 2025"
         }
     ]
 }
