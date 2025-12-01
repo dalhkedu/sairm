@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-01 19:24 UTC",
+        "last_updated": "2025-12-01 20:24 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 178.93,
-            "change": "-3.23%"
+            "price": 179.29,
+            "change": "+2.19%"
         },
         {
             "symbol": "AMD",
-            "price": 219.38,
-            "change": "-2.78%"
+            "price": 219.57,
+            "change": "-2.04%"
         },
         {
             "symbol": "MSFT",
-            "price": 488.24,
-            "change": "+1.53%"
+            "price": 487.44,
+            "change": "-0.16%"
         },
         {
             "symbol": "CEG",
-            "price": 360.06,
-            "change": "+1.56%"
+            "price": 358.89,
+            "change": "+2.54%"
         },
         {
             "symbol": "VST",
-            "price": 175.35,
-            "change": "+3.32%"
+            "price": 174.11,
+            "change": "+2.85%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.53,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.53,
+            0.54,
+            0.53,
+            0.52,
+            0.51,
+            0.51,
             0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            23.47,
-            23.72,
-            23.68,
-            23.31,
-            23.38,
-            23.68,
-            23.86,
-            24.28,
-            24.2,
-            24.65,
-            24.39,
-            24.62
+            25.21,
+            24.97,
+            25.02,
+            24.55,
+            25.0,
+            24.75,
+            25.09,
+            25.33,
+            25.81,
+            25.37,
+            25.11,
+            25.08
         ],
         "hsd_history_software": [
-            9.99,
-            10.11,
-            10.0,
-            10.13,
-            9.98,
-            9.79,
-            9.62,
-            9.64,
-            9.46,
-            9.62,
-            9.7,
-            9.8
+            10.43,
+            10.27,
+            10.15,
+            10.07,
+            10.05,
+            9.89,
+            9.88,
+            9.84,
+            9.91,
+            10.07,
+            9.95,
+            9.93
         ],
         "rci_data": [
             85.0,
-            17.893
+            17.929000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "19:06",
+            "tag": "AI",
+            "text": "Microsoft Up 16.7% YTD: Will OpenAI Partnership Drive Stock Further?"
+        },
+        {
             "time": "18:52",
             "tag": "MERCADO",
             "text": "Teledyne MEMS: Strategic Investment Raised For C2MI Expansion"
@@ -144,11 +149,6 @@
             "time": "17:11",
             "tag": "MERCADO",
             "text": "Synopsys, Moderna, Strategy, Q32 Bio, Wolfspeed: Stocks Making The Biggest Moves Today"
-        },
-        {
-            "time": "17:06",
-            "tag": "AI",
-            "text": "S&P Global (NYSE: SPGI) links MCP servers with AWS Quick Suite for AI agents"
         }
     ]
 }
