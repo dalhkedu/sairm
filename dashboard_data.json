@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-01 20:24 UTC",
+        "last_updated": "2025-12-01 21:20 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 179.29,
-            "change": "+2.19%"
+            "price": 179.92,
+            "change": "+3.23%"
         },
         {
             "symbol": "AMD",
-            "price": 219.57,
-            "change": "-2.04%"
+            "price": 219.76,
+            "change": "+0.4%"
         },
         {
             "symbol": "MSFT",
-            "price": 487.44,
-            "change": "-0.16%"
+            "price": 486.74,
+            "change": "+2.76%"
         },
         {
             "symbol": "CEG",
-            "price": 358.89,
-            "change": "+2.54%"
+            "price": 359.05,
+            "change": "-0.89%"
         },
         {
             "symbol": "VST",
-            "price": 174.11,
-            "change": "+2.85%"
+            "price": 173.64,
+            "change": "+2.77%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
+        "cer_current": 0.44,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
+            0.52,
+            0.52,
             0.51,
             0.52,
-            0.52,
-            0.53,
-            0.54,
-            0.53,
-            0.52,
-            0.51,
             0.51,
             0.5,
+            0.51,
+            0.5,
+            0.51,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.21,
-            24.97,
-            25.02,
-            24.55,
-            25.0,
-            24.75,
-            25.09,
-            25.33,
-            25.81,
-            25.37,
-            25.11,
-            25.08
+            25.9,
+            25.46,
+            25.29,
+            25.38,
+            25.27,
+            24.91,
+            24.58,
+            24.7,
+            24.94,
+            25.18,
+            25.58,
+            25.25
         ],
         "hsd_history_software": [
+            10.62,
+            10.6,
+            10.54,
+            10.51,
+            10.33,
+            10.38,
+            10.39,
             10.43,
+            10.44,
             10.27,
-            10.15,
-            10.07,
-            10.05,
-            9.89,
-            9.88,
-            9.84,
-            9.91,
-            10.07,
-            9.95,
-            9.93
+            10.12,
+            10.17
         ],
         "rci_data": [
             85.0,
-            17.929000000000002
+            17.992
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:06",
-            "tag": "AI",
-            "text": "Microsoft Up 16.7% YTD: Will OpenAI Partnership Drive Stock Further?"
-        },
-        {
-            "time": "18:52",
+            "time": "20:49",
             "tag": "MERCADO",
-            "text": "Teledyne MEMS: Strategic Investment Raised For C2MI Expansion"
+            "text": "AVGO Stock: Broadcom Inc (AVGO) Shares Drop 3.17% on December 1"
         },
         {
-            "time": "18:22",
-            "tag": "AI",
-            "text": "\u2018Big Short\u2019 investor Michael Burry targets \u2018ridiculously overvalued\u2019 Tesla after slamming AI valuations"
-        },
-        {
-            "time": "17:23",
+            "time": "20:21",
             "tag": "MERCADO",
-            "text": "Top Stock Movers Now: Coinbase, Robinhood, Moderna, Synopsys, and More"
+            "text": "Larry Ellison: Oracle co-founder and one of the world's richest people"
         },
         {
-            "time": "17:11",
+            "time": "20:21",
             "tag": "MERCADO",
-            "text": "Synopsys, Moderna, Strategy, Q32 Bio, Wolfspeed: Stocks Making The Biggest Moves Today"
+            "text": "Key facts: Keysight execs file Form 144; analysts discuss wireless tech growth"
+        },
+        {
+            "time": "20:21",
+            "tag": "MERCADO",
+            "text": "New Agentic Capabilities in AWS Transform Enable Rapid Modernization of Any Code or Application"
+        },
+        {
+            "time": "20:00",
+            "tag": "MERCADO",
+            "text": "PPG: To Navigate Road Ahead, Suppliers and Customers Must Drive Digital Together"
         }
     ]
 }
