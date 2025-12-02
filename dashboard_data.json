@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-02 08:34 UTC",
+        "last_updated": "2025-12-02 09:29 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 179.92,
-            "change": "-0.71%"
+            "change": "+1.4%"
         },
         {
             "symbol": "AMD",
             "price": 219.76,
-            "change": "+1.44%"
+            "change": "+0.23%"
         },
         {
             "symbol": "MSFT",
             "price": 486.74,
-            "change": "+0.86%"
+            "change": "+0.95%"
         },
         {
             "symbol": "CEG",
             "price": 359.05,
-            "change": "-0.46%"
+            "change": "-2.39%"
         },
         {
             "symbol": "VST",
             "price": 173.64,
-            "change": "-0.56%"
+            "change": "+0.02%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.58,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.5,
-            0.49,
-            0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.5,
             0.49,
             0.49,
             0.49,
-            0.5
+            0.49,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.39,
-            24.64,
-            25.14,
-            25.21,
-            25.3,
-            24.97,
-            24.87,
+            24.02,
+            24.44,
+            24.72,
+            24.98,
+            25.2,
             25.22,
-            25.06,
-            25.49,
-            25.74,
-            25.39
+            25.24,
+            25.07,
+            25.4,
+            25.14,
+            24.92,
+            24.53
         ],
         "hsd_history_software": [
-            9.69,
-            9.67,
-            9.82,
+            9.99,
+            10.04,
             9.96,
-            10.0,
-            9.88,
-            10.01,
-            9.99,
-            9.99,
-            10.01,
-            9.98,
-            9.83
+            9.93,
+            9.86,
+            9.7,
+            9.53,
+            9.63,
+            9.8,
+            9.93,
+            10.08,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "08:38",
+            "tag": "MERCADO",
+            "text": "Is Microchip Technology Stock Underperforming the Dow?"
+        },
+        {
             "time": "08:08",
             "tag": "MERCADO",
             "text": "Intermede Investment Partners Ltd Reduces Stake in Alphabet Inc."
@@ -144,11 +149,6 @@
             "time": "06:40",
             "tag": "MERCADO",
             "text": "BlackRock's Fink and Goldstein Say Tokenization Could Redraw Market Plumbing"
-        },
-        {
-            "time": "06:21",
-            "tag": "MERCADO",
-            "text": "Is American Tower (AMT) One of the Best Dividend Stocks to Buy?"
         }
     ]
 }
