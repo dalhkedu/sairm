@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-02 13:39 UTC",
+        "last_updated": "2025-12-02 14:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 179.92,
-            "change": "+1.96%"
+            "change": "-2.13%"
         },
         {
             "symbol": "AMD",
             "price": 219.76,
-            "change": "-3.33%"
+            "change": "+3.25%"
         },
         {
             "symbol": "MSFT",
             "price": 486.74,
-            "change": "+2.49%"
+            "change": "-0.44%"
         },
         {
             "symbol": "CEG",
             "price": 359.05,
-            "change": "+2.91%"
+            "change": "-1.42%"
         },
         {
             "symbol": "VST",
             "price": 173.64,
-            "change": "-3.03%"
+            "change": "+0.11%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.42,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.53,
+            0.52,
+            0.52,
+            0.53,
+            0.54,
+            0.52,
+            0.53,
+            0.53,
+            0.52,
             0.51,
-            0.51,
-            0.51,
             0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.5,
-            0.49,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            22.8,
-            23.04,
-            23.41,
-            23.35,
-            23.61,
-            24.02,
-            23.93,
-            23.79,
-            24.11,
-            24.44,
-            24.67,
-            24.8
+            25.64,
+            25.23,
+            25.52,
+            25.23,
+            25.47,
+            25.19,
+            25.55,
+            25.94,
+            25.74,
+            25.37,
+            25.27,
+            24.81
         ],
         "hsd_history_software": [
-            9.97,
-            9.89,
-            9.95,
+            9.76,
+            9.9,
+            10.07,
+            10.11,
             10.01,
-            10.06,
-            9.88,
-            9.7,
-            9.75,
-            9.92,
-            10.08,
-            10.19,
-            10.16
+            10.16,
+            10.09,
+            10.26,
+            10.38,
+            10.25,
+            10.2,
+            10.06
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "13:40",
+            "tag": "MERCADO",
+            "text": "Truist Financial (NYSE: TFC) adds 9 experts to equity research, sales, trading"
+        },
+        {
+            "time": "13:30",
+            "tag": "AI",
+            "text": "AMD-Backed Vultr to Build $1 Billion Chip Cluster in Ohio for AI"
+        },
+        {
             "time": "13:21",
             "tag": "MERCADO",
             "text": "BAFS Announces Integration with Portico from Fiserv"
@@ -139,16 +149,6 @@
             "time": "13:15",
             "tag": "AI",
             "text": "Cadence to Present at UBS Global Technology and AI Conference"
-        },
-        {
-            "time": "13:00",
-            "tag": "RESULTADOS",
-            "text": "Oracle Sets the Date for its Second Quarter Fiscal Year 2026 Earnings Announcement"
-        },
-        {
-            "time": "13:00",
-            "tag": "MERCADO",
-            "text": "Enphase Energy Introduces PowerMatch Technology in Europe to Deliver More Usable Battery Energy and Savings"
         }
     ]
 }
