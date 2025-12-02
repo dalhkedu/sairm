@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-02 19:21 UTC",
+        "last_updated": "2025-12-02 20:29 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 181.07,
-            "change": "+1.91%"
+            "price": 181.41,
+            "change": "+2.97%"
         },
         {
             "symbol": "AMD",
-            "price": 215.45,
-            "change": "+0.49%"
+            "price": 215.99,
+            "change": "-1.34%"
         },
         {
             "symbol": "MSFT",
-            "price": 489.37,
-            "change": "+3.35%"
+            "price": 490.17,
+            "change": "-1.84%"
         },
         {
             "symbol": "CEG",
-            "price": 364.13,
-            "change": "+1.27%"
+            "price": 362.49,
+            "change": "-1.38%"
         },
         {
             "symbol": "VST",
-            "price": 173.79,
-            "change": "+1.25%"
+            "price": 173.58,
+            "change": "-0.38%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
+        "cer_current": 0.49,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.53,
+            0.53,
+            0.52,
             0.51,
-            0.5,
+            0.51,
             0.51,
             0.52,
             0.51,
-            0.5,
-            0.5,
             0.51,
             0.5,
-            0.5,
-            0.5,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            25.3,
-            24.88,
-            25.14,
-            24.86,
-            24.96,
-            25.4,
-            25.0,
-            24.87,
-            24.66,
-            25.1,
-            24.69,
-            25.13
+            25.95,
+            25.73,
+            25.62,
+            26.0,
+            26.38,
+            26.33,
+            26.11,
+            25.62,
+            25.21,
+            25.09,
+            25.06,
+            25.24
         ],
         "hsd_history_software": [
-            10.49,
-            10.35,
-            10.38,
-            10.45,
-            10.5,
-            10.48,
-            10.28,
-            10.23,
-            10.23,
-            10.22,
+            10.27,
             10.19,
-            10.15
+            10.0,
+            9.91,
+            9.74,
+            9.65,
+            9.46,
+            9.3,
+            9.41,
+            9.5,
+            9.66,
+            9.84
         ],
         "rci_data": [
             85.0,
-            18.107
+            18.141
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:51",
+            "time": "19:51",
             "tag": "AI",
-            "text": "Nvidia\u2019s $100-billion deal with OpenAI not finalized, chip maker\u2019s CFO says"
+            "text": "Apple\u2019s AI chief paid the price for the company\u2019s stalled progress"
         },
         {
-            "time": "18:51",
-            "tag": "RESULTADOS",
-            "text": "5 Insightful Analyst Questions From NetApp\u2019s Q3 Earnings Call"
-        },
-        {
-            "time": "18:51",
-            "tag": "MERCADO",
-            "text": "Is Johnson Controls International Stock Outperforming the Nasdaq?"
-        },
-        {
-            "time": "18:36",
-            "tag": "MERCADO",
-            "text": "INTC: Intel Shares Slide as Apple Bonanza Talk Faces Reality Check"
-        },
-        {
-            "time": "18:36",
+            "time": "19:36",
             "tag": "AI",
-            "text": "New Amazon Bedrock AgentCore Capabilities Power the Next Wave of Agentic AI Development"
+            "text": " BlackRock experts remain bullish on AI trend in 2026, but caution investors on rising financial leverage"
+        },
+        {
+            "time": "19:23",
+            "tag": "MERCADO",
+            "text": "AMAZON COM INC : JP Morgan reaffirms its Buy rating"
+        },
+        {
+            "time": "19:08",
+            "tag": "MERCADO",
+            "text": "Microchip Technology Navigates Turbulent Waters Amidst Global Supply Chain Reshaping"
+        },
+        {
+            "time": "19:06",
+            "tag": "MERCADO",
+            "text": "4 Accident & Health Insurers to Watch Amid Rising Medical Costs"
         }
     ]
 }
