@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-02 14:26 UTC",
+        "last_updated": "2025-12-02 15:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 179.92,
-            "change": "-2.13%"
+            "price": 184.0,
+            "change": "+2.62%"
         },
         {
             "symbol": "AMD",
-            "price": 219.76,
-            "change": "+3.25%"
+            "price": 223.06,
+            "change": "+1.45%"
         },
         {
             "symbol": "MSFT",
-            "price": 486.74,
-            "change": "-0.44%"
+            "price": 490.87,
+            "change": "-1.85%"
         },
         {
             "symbol": "CEG",
-            "price": 359.05,
-            "change": "-1.42%"
+            "price": 363.82,
+            "change": "+0.42%"
         },
         {
             "symbol": "VST",
-            "price": 173.64,
-            "change": "+0.11%"
+            "price": 173.62,
+            "change": "-1.96%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.69,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.53,
-            0.52,
-            0.52,
-            0.53,
-            0.54,
-            0.52,
             0.53,
             0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
             0.52,
             0.51,
             0.5,
-            0.49
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.64,
-            25.23,
-            25.52,
-            25.23,
-            25.47,
-            25.19,
-            25.55,
-            25.94,
-            25.74,
-            25.37,
-            25.27,
-            24.81
+            25.17,
+            24.72,
+            24.3,
+            24.43,
+            24.3,
+            23.9,
+            23.81,
+            23.79,
+            24.06,
+            24.24,
+            24.53,
+            24.95
         ],
         "hsd_history_software": [
-            9.76,
-            9.9,
-            10.07,
-            10.11,
             10.01,
-            10.16,
-            10.09,
-            10.26,
-            10.38,
-            10.25,
-            10.2,
-            10.06
+            9.85,
+            10.02,
+            9.88,
+            9.74,
+            9.67,
+            9.8,
+            9.82,
+            9.89,
+            9.99,
+            9.79,
+            9.96
         ],
         "rci_data": [
             85.0,
-            17.992
+            18.4
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:40",
-            "tag": "MERCADO",
-            "text": "Truist Financial (NYSE: TFC) adds 9 experts to equity research, sales, trading"
-        },
-        {
-            "time": "13:30",
+            "time": "14:51",
             "tag": "AI",
-            "text": "AMD-Backed Vultr to Build $1 Billion Chip Cluster in Ohio for AI"
+            "text": "Google Has OpenAI Rattled. Oracle Stock Pays the Price."
         },
         {
-            "time": "13:21",
+            "time": "14:35",
             "tag": "MERCADO",
-            "text": "BAFS Announces Integration with Portico from Fiserv"
+            "text": "Wayland Additive Integrates Calibur3 into Autodesk Fusion Machine Library"
         },
         {
-            "time": "13:21",
+            "time": "14:28",
             "tag": "MERCADO",
-            "text": "Applied Materials (AMAT): New Buy Recommendation for This Technology Giant"
+            "text": "ServiceNow to acquire identity security provider Veza"
         },
         {
-            "time": "13:15",
-            "tag": "AI",
-            "text": "Cadence to Present at UBS Global Technology and AI Conference"
+            "time": "14:21",
+            "tag": "MERCADO",
+            "text": "\u2018It\u2019s Not Even Close,\u2019 Says Morgan Stanley About Nvidia Stock"
+        },
+        {
+            "time": "14:21",
+            "tag": "MERCADO",
+            "text": "Bear Of The Day: F5 (FFIV)"
         }
     ]
 }
