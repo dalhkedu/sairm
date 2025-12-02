@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-02 12:51 UTC",
+        "last_updated": "2025-12-02 13:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 179.92,
-            "change": "+0.64%"
+            "change": "+1.96%"
         },
         {
             "symbol": "AMD",
             "price": 219.76,
-            "change": "-2.55%"
+            "change": "-3.33%"
         },
         {
             "symbol": "MSFT",
             "price": 486.74,
-            "change": "+0.87%"
+            "change": "+2.49%"
         },
         {
             "symbol": "CEG",
             "price": 359.05,
-            "change": "-0.07%"
+            "change": "+2.91%"
         },
         {
             "symbol": "VST",
             "price": 173.64,
-            "change": "+0.78%"
+            "change": "-3.03%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.58,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.47,
-            0.47,
-            0.48,
-            0.49
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.5,
+            0.49,
+            0.5,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.16,
-            24.59,
-            24.55,
-            24.31,
-            24.17,
-            24.45,
-            24.0,
-            24.2,
-            24.47,
-            24.53,
-            24.96,
-            24.83
+            22.8,
+            23.04,
+            23.41,
+            23.35,
+            23.61,
+            24.02,
+            23.93,
+            23.79,
+            24.11,
+            24.44,
+            24.67,
+            24.8
         ],
         "hsd_history_software": [
-            9.83,
-            9.65,
-            9.65,
-            9.65,
-            9.76,
-            9.78,
-            9.83,
-            9.82,
-            10.0,
-            10.14,
-            10.02,
-            9.89
+            9.97,
+            9.89,
+            9.95,
+            10.01,
+            10.06,
+            9.88,
+            9.7,
+            9.75,
+            9.92,
+            10.08,
+            10.19,
+            10.16
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:14",
+            "time": "13:21",
             "tag": "MERCADO",
-            "text": "'Big Short' Michael Burry Warns Tesla Is 'Ridiculously Overvalued' \u2014 Says 'Elon Cult' Remains Bullish Until Competition Shows Up"
+            "text": "BAFS Announces Integration with Portico from Fiserv"
         },
         {
-            "time": "11:59",
+            "time": "13:21",
             "tag": "MERCADO",
-            "text": "Garmin (NYSE: GRMN) debuts inReach Mini 3 Plus communicator with voice, text, photos"
+            "text": "Applied Materials (AMAT): New Buy Recommendation for This Technology Giant"
         },
         {
-            "time": "11:52",
+            "time": "13:15",
             "tag": "AI",
-            "text": "Google Has OpenAI Rattled. Why That\u2019s a Problem for Oracle and Microsoft."
+            "text": "Cadence to Present at UBS Global Technology and AI Conference"
         },
         {
-            "time": "11:36",
-            "tag": "MERCADO",
-            "text": " |Scotia Capital Inc. Sells 2,407 Shares of Garmin Ltd. $GRMN"
+            "time": "13:00",
+            "tag": "RESULTADOS",
+            "text": "Oracle Sets the Date for its Second Quarter Fiscal Year 2026 Earnings Announcement"
         },
         {
-            "time": "11:04",
+            "time": "13:00",
             "tag": "MERCADO",
-            "text": "Citigroup Adjusts Price Target on Seagate Technology to $320 From $275, Maintains Buy Rating"
+            "text": "Enphase Energy Introduces PowerMatch Technology in Europe to Deliver More Usable Battery Energy and Savings"
         }
     ]
 }
