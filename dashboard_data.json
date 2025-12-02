@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-02 01:51 UTC",
+        "last_updated": "2025-12-02 03:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 179.92,
-            "change": "+2.09%"
+            "change": "+2.17%"
         },
         {
             "symbol": "AMD",
             "price": 219.76,
-            "change": "-0.79%"
+            "change": "+0.68%"
         },
         {
             "symbol": "MSFT",
             "price": 486.74,
-            "change": "+1.43%"
+            "change": "+1.06%"
         },
         {
             "symbol": "CEG",
             "price": 359.05,
-            "change": "+1.98%"
+            "change": "-1.02%"
         },
         {
             "symbol": "VST",
             "price": 173.64,
-            "change": "+0.72%"
+            "change": "+2.3%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.41,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.5
+            0.53,
+            0.54,
+            0.53,
+            0.52,
+            0.53,
+            0.52,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.49,
-            25.01,
-            25.17,
-            24.71,
-            24.8,
-            24.94,
-            24.77,
-            25.19,
-            24.93,
-            24.89,
-            24.7,
-            24.85
+            26.8,
+            27.24,
+            27.23,
+            26.8,
+            26.31,
+            25.95,
+            25.93,
+            25.75,
+            25.26,
+            25.11,
+            25.18,
+            24.79
         ],
         "hsd_history_software": [
-            9.58,
-            9.51,
-            9.41,
-            9.59,
-            9.64,
-            9.68,
-            9.81,
-            9.74,
-            9.68,
-            9.78,
-            9.96,
-            10.03
+            10.03,
+            10.09,
+            9.93,
+            9.8,
+            9.94,
+            10.07,
+            10.16,
+            10.02,
+            9.92,
+            9.85,
+            10.03,
+            10.13
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "01:52",
+            "tag": "MERCADO",
+            "text": "Iron Mountain Balances Recurring Cash With Digital Ambitions"
+        },
+        {
+            "time": "01:52",
+            "tag": "MERCADO",
+            "text": "Trump Administration to Take Equity Stake in Former Intel CEO\u2019s Chip Startup"
+        },
+        {
+            "time": "01:37",
+            "tag": "MERCADO",
+            "text": "Michael Burry Trashes Tesla\u2019s Lofty Valuation Again"
+        },
+        {
             "time": "01:08",
             "tag": "MERCADO",
             "text": "Super Micro Computer Director Sells Shares"
@@ -134,21 +149,6 @@
             "time": "00:00",
             "tag": "RESULTADOS",
             "text": "Ecolab (ECL) Stock Outlook on December 1, 2025: Earnings Momentum, AI-Driven Water Tech and Wall Street Forecasts"
-        },
-        {
-            "time": "00:00",
-            "tag": "MERCADO",
-            "text": "Climb Announces United States Partnership with Fortinet"
-        },
-        {
-            "time": "23:23",
-            "tag": "AI",
-            "text": "Apple's AI chief abruptly steps down"
-        },
-        {
-            "time": "22:51",
-            "tag": "MERCADO",
-            "text": "Dear Walmart Stock Fans, Mark Your Calendars for December 9"
         }
     ]
 }
