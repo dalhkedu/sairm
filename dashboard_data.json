@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-02 05:23 UTC",
+        "last_updated": "2025-12-02 06:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 179.92,
-            "change": "+3.09%"
+            "change": "+0.49%"
         },
         {
             "symbol": "AMD",
             "price": 219.76,
-            "change": "+3.38%"
+            "change": "+0.26%"
         },
         {
             "symbol": "MSFT",
             "price": 486.74,
-            "change": "+0.43%"
+            "change": "+1.89%"
         },
         {
             "symbol": "CEG",
             "price": 359.05,
-            "change": "-1.36%"
+            "change": "-2.58%"
         },
         {
             "symbol": "VST",
             "price": 173.64,
-            "change": "+0.12%"
+            "change": "+1.1%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.57,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.53,
+            0.52,
+            0.53,
+            0.52,
+            0.51,
             0.5,
             0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
             0.5,
-            0.49
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.56,
+            23.55,
+            23.74,
+            23.57,
+            23.82,
+            24.06,
+            24.46,
+            24.6,
+            24.32,
+            24.4,
+            24.73,
             24.57,
-            24.62,
-            24.38,
-            24.19,
-            24.59,
-            24.72,
-            25.21,
-            25.16,
-            25.59,
-            25.29,
-            25.49
+            24.72
         ],
         "hsd_history_software": [
-            10.37,
-            10.28,
-            10.41,
-            10.42,
+            10.26,
             10.27,
-            10.14,
-            10.25,
             10.09,
-            9.97,
+            10.03,
+            10.23,
+            10.12,
+            10.32,
+            10.17,
             10.01,
-            9.89,
-            9.95
+            10.17,
+            10.0,
+            10.17
         ],
         "rci_data": [
             85.0,
@@ -126,9 +126,19 @@
     ],
     "news_feed": [
         {
+            "time": "05:17",
+            "tag": "MERCADO",
+            "text": "Crown Castle to Present at the UBS Global Media and Communications Conference"
+        },
+        {
             "time": "04:22",
             "tag": "MERCADO",
             "text": "Working capital per share of Alphabet Inc (Google) Class A \u2013 BMV:GOOGL"
+        },
+        {
+            "time": "04:12",
+            "tag": "MERCADO",
+            "text": "'Warren Buffett of tech' admits the real reason he sold his $15B stake in world's biggest company after sale sent panic through Wall Street"
         },
         {
             "time": "03:53",
@@ -139,16 +149,6 @@
             "time": "03:37",
             "tag": "MERCADO",
             "text": "Score last-chance Amazon Cyber Monday lightning deals from 50% off \u26a1\ufe0f"
-        },
-        {
-            "time": "03:36",
-            "tag": "MERCADO",
-            "text": "IQVIA Holdings stock rating assumed at Overweight by Morgan Stanley"
-        },
-        {
-            "time": "03:07",
-            "tag": "RESULTADOS",
-            "text": "Q3 Earnings Season: 3 Companies That Crushed Expectations"
         }
     ]
 }
