@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-02 07:25 UTC",
+        "last_updated": "2025-12-02 08:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 179.92,
-            "change": "+0.78%"
+            "change": "-0.71%"
         },
         {
             "symbol": "AMD",
-            "price": NaN,
-            "change": "-0.52%"
+            "price": 219.76,
+            "change": "+1.44%"
         },
         {
             "symbol": "MSFT",
             "price": 486.74,
-            "change": "+3.2%"
+            "change": "+0.86%"
         },
         {
             "symbol": "CEG",
             "price": 359.05,
-            "change": "+3.24%"
+            "change": "-0.46%"
         },
         {
             "symbol": "VST",
             "price": 173.64,
-            "change": "-1.23%"
+            "change": "-0.56%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.42,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
+            0.51,
             0.5,
             0.49,
             0.5,
+            0.51,
             0.5,
+            0.51,
             0.5,
-            0.5,
+            0.49,
+            0.49,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.41,
-            24.13,
-            24.43,
-            24.36,
-            24.63,
-            24.2,
-            23.78,
-            24.23,
-            24.45,
-            24.81,
+            24.39,
+            24.64,
+            25.14,
+            25.21,
             25.3,
-            24.9
+            24.97,
+            24.87,
+            25.22,
+            25.06,
+            25.49,
+            25.74,
+            25.39
         ],
         "hsd_history_software": [
+            9.69,
+            9.67,
             9.82,
-            9.88,
-            10.03,
-            10.22,
-            10.35,
-            10.21,
-            10.3,
-            10.15,
-            10.1,
             9.96,
-            10.09,
-            9.94
+            10.0,
+            9.88,
+            10.01,
+            9.99,
+            9.99,
+            10.01,
+            9.98,
+            9.83
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "08:08",
+            "tag": "MERCADO",
+            "text": "Intermede Investment Partners Ltd Reduces Stake in Alphabet Inc."
+        },
+        {
             "time": "06:52",
             "tag": "AI",
             "text": "Tyler Technologies Bets Big On Government Cloud And AI"
@@ -136,19 +141,14 @@
             "text": "Analog Devices Stock Rockets 18% With 5-Day Winning Streak"
         },
         {
+            "time": "06:40",
+            "tag": "MERCADO",
+            "text": "BlackRock's Fink and Goldstein Say Tokenization Could Redraw Market Plumbing"
+        },
+        {
             "time": "06:21",
             "tag": "MERCADO",
             "text": "Is American Tower (AMT) One of the Best Dividend Stocks to Buy?"
-        },
-        {
-            "time": "05:17",
-            "tag": "MERCADO",
-            "text": "Crown Castle to Present at the UBS Global Media and Communications Conference"
-        },
-        {
-            "time": "04:22",
-            "tag": "MERCADO",
-            "text": "Working capital per share of Alphabet Inc (Google) Class A \u2013 BMV:GOOGL"
         }
     ]
 }
