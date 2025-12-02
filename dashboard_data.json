@@ -1,80 +1,80 @@
 {
     "metadata": {
-        "last_updated": "2025-12-02 11:22 UTC",
+        "last_updated": "2025-12-02 12:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 179.92,
-            "change": "+0.96%"
+            "change": "+0.64%"
         },
         {
             "symbol": "AMD",
             "price": 219.76,
-            "change": "-1.13%"
+            "change": "-2.55%"
         },
         {
             "symbol": "MSFT",
             "price": 486.74,
-            "change": "-2.7%"
+            "change": "+0.87%"
         },
         {
             "symbol": "CEG",
             "price": 359.05,
-            "change": "-0.17%"
+            "change": "-0.07%"
         },
         {
             "symbol": "VST",
             "price": 173.64,
-            "change": "+0.49%"
+            "change": "+0.78%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.64,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.5,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
+            0.47,
+            0.47,
             0.48,
-            0.49,
-            0.49,
+            0.48,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.47,
+            0.47,
             0.48,
             0.49
         ],
         "hsd_history_hardware": [
-            25.43,
-            25.11,
-            25.36,
-            25.04,
-            24.99,
-            25.11,
-            24.87,
-            24.75,
-            24.71,
-            24.71,
-            24.8,
-            25.06
+            24.16,
+            24.59,
+            24.55,
+            24.31,
+            24.17,
+            24.45,
+            24.0,
+            24.2,
+            24.47,
+            24.53,
+            24.96,
+            24.83
         ],
         "hsd_history_software": [
-            9.8,
-            9.87,
-            9.77,
-            9.59,
-            9.67,
+            9.83,
             9.65,
-            9.69,
-            9.89,
-            9.75,
-            9.88,
-            9.85,
+            9.65,
+            9.65,
+            9.76,
+            9.78,
+            9.83,
+            9.82,
+            10.0,
+            10.14,
+            10.02,
             9.89
         ],
         "rci_data": [
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:44",
+            "time": "12:14",
             "tag": "MERCADO",
-            "text": "Meet Nikesh Arora: Ghaziabad-born changemaker who faced 400 rejections before becoming Palo Alto Networks\u2019 CEO, world\u2019s second highest-paid executive"
+            "text": "'Big Short' Michael Burry Warns Tesla Is 'Ridiculously Overvalued' \u2014 Says 'Elon Cult' Remains Bullish Until Competition Shows Up"
         },
         {
-            "time": "09:52",
+            "time": "11:59",
+            "tag": "MERCADO",
+            "text": "Garmin (NYSE: GRMN) debuts inReach Mini 3 Plus communicator with voice, text, photos"
+        },
+        {
+            "time": "11:52",
             "tag": "AI",
-            "text": "Moody's Chief Economist Sounds Alarm On AI Over-Investment, Soaring Debt \u2014 Says Risks Could Hit Credit Markets, Not Just Investors"
+            "text": "Google Has OpenAI Rattled. Why That\u2019s a Problem for Oracle and Microsoft."
         },
         {
-            "time": "09:51",
+            "time": "11:36",
             "tag": "MERCADO",
-            "text": "From hey Siri to hey Subbu? Apple hires Amar Subramanya, taking a bite out of Google via Microsoft"
+            "text": " |Scotia Capital Inc. Sells 2,407 Shares of Garmin Ltd. $GRMN"
         },
         {
-            "time": "08:38",
+            "time": "11:04",
             "tag": "MERCADO",
-            "text": "Is Microchip Technology Stock Underperforming the Dow?"
-        },
-        {
-            "time": "08:16",
-            "tag": "MERCADO",
-            "text": "Is Microchip Technology Stock Underperforming the Dow?"
+            "text": "Citigroup Adjusts Price Target on Seagate Technology to $320 From $275, Maintains Buy Rating"
         }
     ]
 }
