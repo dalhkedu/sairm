@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-02 17:25 UTC",
+        "last_updated": "2025-12-02 18:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 181.86,
-            "change": "-2.62%"
+            "price": 181.44,
+            "change": "+0.48%"
         },
         {
             "symbol": "AMD",
-            "price": 217.93,
-            "change": "+3.45%"
+            "price": 215.52,
+            "change": "+2.84%"
         },
         {
             "symbol": "MSFT",
-            "price": 492.67,
-            "change": "-0.1%"
+            "price": 489.85,
+            "change": "-0.74%"
         },
         {
             "symbol": "CEG",
-            "price": 363.23,
-            "change": "+2.82%"
+            "price": 364.93,
+            "change": "-1.7%"
         },
         {
             "symbol": "VST",
-            "price": 173.16,
-            "change": "+2.14%"
+            "price": 173.65,
+            "change": "+3.21%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.48,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.53,
-            0.54,
-            0.53,
-            0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            23.6,
-            23.24,
-            23.16,
-            23.5,
-            23.61,
-            23.74,
-            24.11,
-            24.09,
-            24.11,
+            24.13,
+            24.52,
+            24.71,
+            24.31,
+            24.78,
+            24.44,
+            24.72,
             24.36,
-            24.03,
-            24.51
+            24.7,
+            24.99,
+            25.45,
+            25.12
         ],
         "hsd_history_software": [
-            9.73,
-            9.7,
-            9.59,
-            9.69,
-            9.64,
-            9.78,
-            9.78,
-            9.92,
-            9.95,
-            10.11,
-            9.99,
-            9.81
+            10.5,
+            10.46,
+            10.42,
+            10.39,
+            10.23,
+            10.13,
+            10.32,
+            10.18,
+            10.23,
+            10.09,
+            10.01,
+            9.85
         ],
         "rci_data": [
             85.0,
-            18.186000000000003
+            18.144
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:51",
-            "tag": "MERCADO",
-            "text": "Why This T-Mobile Bear Is Throwing in the Towel and Upgrading the Stock"
-        },
-        {
-            "time": "16:16",
-            "tag": "MERCADO",
-            "text": "Tesla just posted rare growth in China. Here\u2019s what sparked the sales momentum."
-        },
-        {
-            "time": "16:06",
-            "tag": "MERCADO",
-            "text": "Dow up 200 points on gains in shares of Boeing, NVIDIA Corp."
-        },
-        {
-            "time": "16:05",
+            "time": "18:22",
             "tag": "AI",
-            "text": "AWS Powers Sony's Enterprise AI and Engagement Platforms"
+            "text": "OpenAI Issues \u2018Code Red\u2019 Warning to Staff. Why That\u2019s Good News for Oracle Stock."
         },
         {
-            "time": "16:00",
+            "time": "18:07",
             "tag": "MERCADO",
-            "text": "Medtronic begins U.S. commercial launch of the MiniMed 780G system with the Instinct sensor, made by Abbott"
+            "text": "RVTY: Life sciences, software, and diagnostics show growth, with China stabilizing and margins set to improve"
+        },
+        {
+            "time": "17:52",
+            "tag": "MERCADO",
+            "text": "Deadline extended to file a claim in AT&T data breach settlement. Are you eligible?"
+        },
+        {
+            "time": "17:51",
+            "tag": "MERCADO",
+            "text": "MSCI Announces Leadership Changes Amid Executive Retirement"
+        },
+        {
+            "time": "17:51",
+            "tag": "MERCADO",
+            "text": "CrowdStrike (CRWD): Analysts See Best-in-Class Execution but Valuation Looks Full"
         }
     ]
 }
