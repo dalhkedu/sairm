@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-02 18:37 UTC",
+        "last_updated": "2025-12-02 19:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 181.44,
-            "change": "+0.48%"
+            "price": 181.07,
+            "change": "+1.91%"
         },
         {
             "symbol": "AMD",
-            "price": 215.52,
-            "change": "+2.84%"
+            "price": 215.45,
+            "change": "+0.49%"
         },
         {
             "symbol": "MSFT",
-            "price": 489.85,
-            "change": "-0.74%"
+            "price": 489.37,
+            "change": "+3.35%"
         },
         {
             "symbol": "CEG",
-            "price": 364.93,
-            "change": "-1.7%"
+            "price": 364.13,
+            "change": "+1.27%"
         },
         {
             "symbol": "VST",
-            "price": 173.65,
-            "change": "+3.21%"
+            "price": 173.79,
+            "change": "+1.25%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.53,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
+            0.51,
+            0.5,
+            0.51,
+            0.52,
+            0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.13,
-            24.52,
-            24.71,
-            24.31,
-            24.78,
-            24.44,
-            24.72,
-            24.36,
-            24.7,
-            24.99,
-            25.45,
-            25.12
+            25.3,
+            24.88,
+            25.14,
+            24.86,
+            24.96,
+            25.4,
+            25.0,
+            24.87,
+            24.66,
+            25.1,
+            24.69,
+            25.13
         ],
         "hsd_history_software": [
+            10.49,
+            10.35,
+            10.38,
+            10.45,
             10.5,
-            10.46,
-            10.42,
-            10.39,
+            10.48,
+            10.28,
             10.23,
-            10.13,
-            10.32,
-            10.18,
             10.23,
-            10.09,
-            10.01,
-            9.85
+            10.22,
+            10.19,
+            10.15
         ],
         "rci_data": [
             85.0,
-            18.144
+            18.107
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:22",
+            "time": "18:51",
             "tag": "AI",
-            "text": "OpenAI Issues \u2018Code Red\u2019 Warning to Staff. Why That\u2019s Good News for Oracle Stock."
+            "text": "Nvidia\u2019s $100-billion deal with OpenAI not finalized, chip maker\u2019s CFO says"
         },
         {
-            "time": "18:07",
-            "tag": "MERCADO",
-            "text": "RVTY: Life sciences, software, and diagnostics show growth, with China stabilizing and margins set to improve"
+            "time": "18:51",
+            "tag": "RESULTADOS",
+            "text": "5 Insightful Analyst Questions From NetApp\u2019s Q3 Earnings Call"
         },
         {
-            "time": "17:52",
+            "time": "18:51",
             "tag": "MERCADO",
-            "text": "Deadline extended to file a claim in AT&T data breach settlement. Are you eligible?"
+            "text": "Is Johnson Controls International Stock Outperforming the Nasdaq?"
         },
         {
-            "time": "17:51",
+            "time": "18:36",
             "tag": "MERCADO",
-            "text": "MSCI Announces Leadership Changes Amid Executive Retirement"
+            "text": "INTC: Intel Shares Slide as Apple Bonanza Talk Faces Reality Check"
         },
         {
-            "time": "17:51",
-            "tag": "MERCADO",
-            "text": "CrowdStrike (CRWD): Analysts See Best-in-Class Execution but Valuation Looks Full"
+            "time": "18:36",
+            "tag": "AI",
+            "text": "New Amazon Bedrock AgentCore Capabilities Power the Next Wave of Agentic AI Development"
         }
     ]
 }
