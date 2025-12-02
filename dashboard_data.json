@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-02 16:33 UTC",
+        "last_updated": "2025-12-02 17:25 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 180.47,
-            "change": "-0.72%"
+            "price": 181.86,
+            "change": "-2.62%"
         },
         {
             "symbol": "AMD",
-            "price": 216.81,
-            "change": "-3.43%"
+            "price": 217.93,
+            "change": "+3.45%"
         },
         {
             "symbol": "MSFT",
-            "price": 489.62,
-            "change": "-1.1%"
+            "price": 492.67,
+            "change": "-0.1%"
         },
         {
             "symbol": "CEG",
-            "price": 360.71,
-            "change": "-2.94%"
+            "price": 363.23,
+            "change": "+2.82%"
         },
         {
             "symbol": "VST",
-            "price": 172.32,
-            "change": "-1.78%"
+            "price": 173.16,
+            "change": "+2.14%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.46,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.54,
+            0.53,
+            0.54,
+            0.53,
+            0.52,
+            0.53,
             0.52,
             0.52,
             0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
             0.52,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            23.59,
-            23.21,
-            23.35,
-            23.15,
-            23.45,
-            23.93,
-            24.1,
-            23.82,
-            24.28,
-            24.64,
-            25.11,
-            25.03
+            23.6,
+            23.24,
+            23.16,
+            23.5,
+            23.61,
+            23.74,
+            24.11,
+            24.09,
+            24.11,
+            24.36,
+            24.03,
+            24.51
         ],
         "hsd_history_software": [
+            9.73,
+            9.7,
+            9.59,
+            9.69,
+            9.64,
+            9.78,
+            9.78,
+            9.92,
+            9.95,
+            10.11,
             9.99,
-            10.12,
-            10.28,
-            10.24,
-            10.35,
-            10.34,
-            10.43,
-            10.39,
-            10.28,
-            10.35,
-            10.19,
-            10.0
+            9.81
         ],
         "rci_data": [
             85.0,
-            18.047
+            18.186000000000003
         ],
         "energy_data": [
             1.2,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "16:51",
+            "tag": "MERCADO",
+            "text": "Why This T-Mobile Bear Is Throwing in the Towel and Upgrading the Stock"
+        },
+        {
             "time": "16:16",
             "tag": "MERCADO",
             "text": "Tesla just posted rare growth in China. Here\u2019s what sparked the sales momentum."
@@ -144,11 +149,6 @@
             "time": "16:00",
             "tag": "MERCADO",
             "text": "Medtronic begins U.S. commercial launch of the MiniMed 780G system with the Instinct sensor, made by Abbott"
-        },
-        {
-            "time": "15:30",
-            "tag": "MERCADO",
-            "text": "BlackRock CEO: Tokenization to Trigger Finance\u2019s Biggest Overhaul Since the 1970s \u2014 How?"
         }
     ]
 }
