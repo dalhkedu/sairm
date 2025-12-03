@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-03 16:33 UTC",
+        "last_updated": "2025-12-03 17:25 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 180.92,
-            "change": "-2.22%"
+            "price": 180.58,
+            "change": "-1.74%"
         },
         {
             "symbol": "AMD",
-            "price": 215.97,
-            "change": "+1.68%"
+            "price": 216.12,
+            "change": "+0.62%"
         },
         {
             "symbol": "MSFT",
-            "price": 481.02,
-            "change": "+2.74%"
+            "price": 482.3,
+            "change": "-3.09%"
         },
         {
             "symbol": "CEG",
-            "price": 362.62,
-            "change": "+2.52%"
+            "price": 363.1,
+            "change": "+2.14%"
         },
         {
             "symbol": "VST",
-            "price": 172.74,
-            "change": "-1.04%"
+            "price": 172.47,
+            "change": "-0.52%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.61,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.5,
             0.5,
             0.51,
             0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.65,
-            24.23,
-            24.57,
-            24.59,
-            24.5,
-            24.83,
-            24.92,
-            24.72,
-            25.03,
-            24.59,
+            25.11,
             24.77,
-            25.02
+            25.0,
+            24.77,
+            24.83,
+            24.49,
+            24.59,
+            24.64,
+            24.41,
+            24.34,
+            24.32,
+            24.78
         ],
         "hsd_history_software": [
-            10.31,
-            10.17,
-            10.21,
-            10.33,
-            10.19,
-            10.35,
-            10.47,
-            10.44,
-            10.37,
-            10.22,
-            10.06,
-            9.99
+            10.54,
+            10.59,
+            10.59,
+            10.42,
+            10.41,
+            10.5,
+            10.39,
+            10.27,
+            10.14,
+            10.15,
+            9.95,
+            10.04
         ],
         "rci_data": [
             85.0,
-            18.092
+            18.058000000000003
         ],
         "energy_data": [
             1.2,
@@ -131,6 +131,16 @@
             "text": "Equinix stock rating upgraded to Outperform by BMO Capital on growth outlook"
         },
         {
+            "time": "16:22",
+            "tag": "MERCADO",
+            "text": "KnowBe4 Named a Leader in Gartner\u00ae Magic Quadrant\u2122 for Email Security"
+        },
+        {
+            "time": "16:22",
+            "tag": "MERCADO",
+            "text": "KnowBe4 Named a Leader in Gartner\u00ae Magic Quadrant\u2122 for Email Security"
+        },
+        {
             "time": "16:21",
             "tag": "MERCADO",
             "text": "Darktrace named a Leader in the 2025 Gartner\u00ae Magic Quadrant\u2122 for Email Security Platforms"
@@ -139,16 +149,6 @@
             "time": "16:06",
             "tag": "AI",
             "text": "Terray Therapeutics Achieves AI-Enabled Drug Discovery Milestone in Collaboration with Bristol Myers Squibb"
-        },
-        {
-            "time": "16:06",
-            "tag": "MERCADO",
-            "text": "Supabase and AWS Empower App Developers to Build in a Weekend, Scale to Millions"
-        },
-        {
-            "time": "16:06",
-            "tag": "MERCADO",
-            "text": "Stocks making big moves yesterday: Lam Research, Sweetgreen, Applied Materials, Lattice Semiconductor, and The Pennant Group"
         }
     ]
 }
