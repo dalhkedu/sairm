@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-03 09:28 UTC",
+        "last_updated": "2025-12-03 10:28 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 181.46,
-            "change": "-1.24%"
+            "change": "-0.15%"
         },
         {
             "symbol": "AMD",
             "price": 215.24,
-            "change": "-0.49%"
+            "change": "+2.27%"
         },
         {
             "symbol": "MSFT",
             "price": 490.0,
-            "change": "+1.68%"
+            "change": "+0.02%"
         },
         {
             "symbol": "CEG",
             "price": 363.67,
-            "change": "-1.92%"
+            "change": "+1.05%"
         },
         {
             "symbol": "VST",
             "price": 172.55,
-            "change": "+2.97%"
+            "change": "-2.86%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.65,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.55,
-            0.55,
-            0.54,
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
+            0.48,
+            0.47,
+            0.48,
+            0.49,
+            0.48,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            24.25,
-            24.3,
-            23.83,
-            24.25,
-            24.66,
-            24.74,
-            25.06,
-            25.3,
-            24.9,
-            24.97,
-            25.17,
-            24.72
+            24.31,
+            24.16,
+            24.08,
+            24.52,
+            24.63,
+            24.55,
+            24.26,
+            24.61,
+            24.77,
+            24.94,
+            24.89,
+            25.11
         ],
         "hsd_history_software": [
-            10.64,
-            10.48,
-            10.51,
-            10.32,
-            10.29,
-            10.31,
-            10.13,
+            9.82,
+            9.78,
+            9.92,
+            10.09,
             10.11,
-            10.16,
-            10.06,
-            10.21,
-            10.12
+            10.19,
+            10.04,
+            10.01,
+            10.04,
+            10.2,
+            10.03,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "09:53",
+            "tag": "MERCADO",
+            "text": "Stocks to Watch Wednesday: Marvell, CrowdStrike, Dollar Tree"
+        },
+        {
+            "time": "09:43",
+            "tag": "MERCADO",
+            "text": "ServiceNow expands security portfolio with acquisition of Veza"
+        },
+        {
+            "time": "09:40",
+            "tag": "MERCADO",
+            "text": "The Utility Stock That's Actually Exciting"
+        },
+        {
+            "time": "09:14",
+            "tag": "MERCADO",
+            "text": "How Recent Moves Are Changing What Analysts Think Gives T Mobile The Edge Over Rivals"
+        },
+        {
             "time": "08:54",
             "tag": "MERCADO",
             "text": "CDW to Announce Third Quarter 2025 Results on November 4"
-        },
-        {
-            "time": "07:16",
-            "tag": "MERCADO",
-            "text": "Keysight Technologies stock hits 52-week high at 201.66 USD By Investing.com"
-        },
-        {
-            "time": "07:07",
-            "tag": "MERCADO",
-            "text": "New Bioprocess Design Center In Hyderabad Boosts Thermo Fisher\u2019s Asian Bioprocessing Capabilities"
-        },
-        {
-            "time": "06:51",
-            "tag": "MERCADO",
-            "text": "Apple Inc. (AAPL) Analysts Update Coverage"
-        },
-        {
-            "time": "06:37",
-            "tag": "MERCADO",
-            "text": "What's Going On With Palantir Stock Today?"
         }
     ]
 }
