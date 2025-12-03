@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-03 07:24 UTC",
+        "last_updated": "2025-12-03 08:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 181.46,
-            "change": "-1.3%"
+            "change": "-0.82%"
         },
         {
             "symbol": "AMD",
             "price": 215.24,
-            "change": "+0.31%"
+            "change": "+1.08%"
         },
         {
             "symbol": "MSFT",
             "price": 490.0,
-            "change": "+3.26%"
+            "change": "-0.98%"
         },
         {
             "symbol": "CEG",
             "price": 363.67,
-            "change": "+1.85%"
+            "change": "-1.82%"
         },
         {
             "symbol": "VST",
             "price": 172.55,
-            "change": "-2.82%"
+            "change": "+0.16%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.49,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.54,
-            0.53,
-            0.53,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.51
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            23.26,
-            23.11,
-            22.97,
-            23.39,
-            23.2,
-            22.98,
-            23.4,
-            23.35,
-            23.8,
-            24.14,
-            24.59,
-            24.59
+            25.23,
+            24.94,
+            25.29,
+            25.0,
+            25.09,
+            25.22,
+            24.75,
+            24.76,
+            24.89,
+            24.88,
+            25.02,
+            25.03
         ],
         "hsd_history_software": [
-            10.53,
-            10.66,
-            10.62,
-            10.53,
-            10.48,
-            10.32,
-            10.34,
-            10.52,
-            10.45,
-            10.44,
-            10.3,
-            10.18
+            9.37,
+            9.49,
+            9.65,
+            9.76,
+            9.63,
+            9.82,
+            9.96,
+            10.04,
+            10.02,
+            10.08,
+            10.24,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "07:16",
+            "tag": "MERCADO",
+            "text": "Keysight Technologies stock hits 52-week high at 201.66 USD By Investing.com"
+        },
+        {
+            "time": "07:07",
+            "tag": "MERCADO",
+            "text": "New Bioprocess Design Center In Hyderabad Boosts Thermo Fisher\u2019s Asian Bioprocessing Capabilities"
+        },
+        {
             "time": "06:51",
             "tag": "MERCADO",
             "text": "Apple Inc. (AAPL) Analysts Update Coverage"
@@ -139,16 +149,6 @@
             "time": "06:00",
             "tag": "MERCADO",
             "text": " Lockheed Martin Corporation (LMT.SW): A Closer Look at Its 7.97% Upsurge on the Swiss Exchange"
-        },
-        {
-            "time": "05:22",
-            "tag": "MERCADO",
-            "text": "Analog Devices Stock Rockets 21% With 7-Day Winning Streak"
-        },
-        {
-            "time": "04:45",
-            "tag": "MERCADO",
-            "text": "ASML solidifies position as #1 semiconductor equipment company in 2025 over Applied Materials"
         }
     ]
 }
