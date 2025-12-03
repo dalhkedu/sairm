@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-02 23:21 UTC",
+        "last_updated": "2025-12-03 01:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 181.46,
-            "change": "-2.18%"
+            "change": "-2.5%"
         },
         {
             "symbol": "AMD",
             "price": 215.24,
-            "change": "-0.92%"
+            "change": "-3.26%"
         },
         {
             "symbol": "MSFT",
             "price": 490.0,
-            "change": "+0.24%"
+            "change": "+1.15%"
         },
         {
             "symbol": "CEG",
             "price": 363.67,
-            "change": "+2.87%"
+            "change": "+1.99%"
         },
         {
             "symbol": "VST",
             "price": 172.55,
-            "change": "+1.51%"
+            "change": "+0.36%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.43,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
             0.5,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            24.93,
-            24.73,
-            24.83,
-            24.71,
-            24.3,
-            24.78,
-            24.76,
-            24.78,
-            24.38,
-            24.06,
-            24.24,
-            24.56
+            24.8,
+            25.08,
+            25.38,
+            25.46,
+            25.25,
+            25.44,
+            25.83,
+            26.3,
+            26.01,
+            25.74,
+            25.26,
+            25.08
         ],
         "hsd_history_software": [
-            9.93,
-            10.08,
-            10.28,
-            10.32,
-            10.13,
-            9.96,
-            9.96,
-            10.04,
-            9.91,
-            9.86,
-            10.02,
-            9.83
+            9.71,
+            9.83,
+            9.66,
+            9.62,
+            9.66,
+            9.51,
+            9.47,
+            9.49,
+            9.43,
+            9.59,
+            9.78,
+            9.93
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:52",
+            "time": "00:51",
             "tag": "MERCADO",
-            "text": "Tyler Technologies acquires Edulink to enhance K-12 HR solutions"
+            "text": "New tax proposal targets WA\u2019s largest corporations, including Amazon, Microsoft"
         },
         {
-            "time": "22:51",
+            "time": "00:24",
             "tag": "MERCADO",
-            "text": "Iron Mountain to Present at Financial Conference"
+            "text": "Hologic to present 11 studies on breast cancer test at SABCS"
         },
         {
-            "time": "22:20",
+            "time": "00:00",
             "tag": "MERCADO",
-            "text": "Why Applied Materials (AMAT) Stock Is Up Today"
+            "text": "Infineon GaN Tech Powers Enphase Energy\u2019s Next-gen Solar Microinverters"
         },
         {
-            "time": "21:52",
-            "tag": "MERCADO",
-            "text": "KLA Corp. price target raised to $1,214 from $1,154 at Morgan Stanley"
+            "time": "00:00",
+            "tag": "AI",
+            "text": "Booking Holdings (BKNG) Stock News & Forecast for December 2025: Q3 Beat, AI Tailwinds and a 20% Upside Gap"
         },
         {
-            "time": "21:48",
-            "tag": "MERCADO",
-            "text": "(MCHP) Microchip Technology Now Expects Fiscal Q3 Revenue At High End of Previous Outlook of $1.11B-$1.15B, vs. FactSet Est of $1.13B"
+            "time": "00:00",
+            "tag": "AI",
+            "text": "Eaton (ETN) Stock Outlook on December 2, 2025: Boyd Thermal Deal, AI Data Centers and Analyst Targets"
         }
     ]
 }
