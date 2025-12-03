@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-03 13:38 UTC",
+        "last_updated": "2025-12-03 14:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 181.46,
-            "change": "-0.99%"
+            "change": "+1.4%"
         },
         {
             "symbol": "AMD",
             "price": 215.24,
-            "change": "+3.13%"
+            "change": "+3.14%"
         },
         {
             "symbol": "MSFT",
             "price": 490.0,
-            "change": "+1.53%"
+            "change": "+2.29%"
         },
         {
             "symbol": "CEG",
             "price": 363.67,
-            "change": "-0.5%"
+            "change": "+3.35%"
         },
         {
             "symbol": "VST",
             "price": 172.55,
-            "change": "-1.09%"
+            "change": "+1.52%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.6,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.5,
+            0.5,
             0.5,
             0.51,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            25.83,
-            25.68,
-            25.6,
-            25.55,
-            25.84,
-            26.17,
-            25.8,
-            25.9,
-            25.53,
-            25.59,
-            25.59,
-            25.32
+            25.57,
+            25.46,
+            25.05,
+            24.65,
+            24.45,
+            24.42,
+            24.19,
+            24.53,
+            24.52,
+            24.46,
+            24.48,
+            24.77
         ],
         "hsd_history_software": [
-            10.63,
-            10.74,
-            10.79,
-            10.6,
-            10.78,
-            10.61,
-            10.56,
-            10.4,
-            10.38,
-            10.22,
+            10.19,
+            10.24,
+            10.32,
+            10.13,
+            10.09,
             10.08,
-            10.11
+            9.9,
+            9.98,
+            9.96,
+            10.07,
+            9.89,
+            9.95
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "13:30",
+            "tag": "AI",
+            "text": "Commvault (NASDAQ: CVLT) to Demo AI-Powered Cyber Recovery at Gartner IOCS 2025"
+        },
+        {
             "time": "13:22",
             "tag": "MERCADO",
             "text": "Is Digital Realty Trust Stock Underperforming the Nasdaq?"
@@ -144,11 +149,6 @@
             "time": "12:39",
             "tag": "MERCADO",
             "text": "TJX price tries to gather positive momentum - Forecast today - 03-12-2025"
-        },
-        {
-            "time": "12:36",
-            "tag": "MERCADO",
-            "text": "Pfizer price leans on SMA support - Forecast today - 03-12-2025"
         }
     ]
 }
