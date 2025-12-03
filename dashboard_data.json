@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-03 08:33 UTC",
+        "last_updated": "2025-12-03 09:28 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 181.46,
-            "change": "-0.82%"
+            "change": "-1.24%"
         },
         {
             "symbol": "AMD",
             "price": 215.24,
-            "change": "+1.08%"
+            "change": "-0.49%"
         },
         {
             "symbol": "MSFT",
             "price": 490.0,
-            "change": "-0.98%"
+            "change": "+1.68%"
         },
         {
             "symbol": "CEG",
             "price": 363.67,
-            "change": "-1.82%"
+            "change": "-1.92%"
         },
         {
             "symbol": "VST",
             "price": 172.55,
-            "change": "+0.16%"
+            "change": "+2.97%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.6,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.49
+            0.55,
+            0.55,
+            0.54,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.23,
-            24.94,
-            25.29,
-            25.0,
-            25.09,
-            25.22,
-            24.75,
-            24.76,
-            24.89,
-            24.88,
-            25.02,
-            25.03
+            24.25,
+            24.3,
+            23.83,
+            24.25,
+            24.66,
+            24.74,
+            25.06,
+            25.3,
+            24.9,
+            24.97,
+            25.17,
+            24.72
         ],
         "hsd_history_software": [
-            9.37,
-            9.49,
-            9.65,
-            9.76,
-            9.63,
-            9.82,
-            9.96,
-            10.04,
-            10.02,
-            10.08,
-            10.24,
-            10.05
+            10.64,
+            10.48,
+            10.51,
+            10.32,
+            10.29,
+            10.31,
+            10.13,
+            10.11,
+            10.16,
+            10.06,
+            10.21,
+            10.12
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "08:54",
+            "tag": "MERCADO",
+            "text": "CDW to Announce Third Quarter 2025 Results on November 4"
+        },
+        {
             "time": "07:16",
             "tag": "MERCADO",
             "text": "Keysight Technologies stock hits 52-week high at 201.66 USD By Investing.com"
@@ -144,11 +149,6 @@
             "time": "06:37",
             "tag": "MERCADO",
             "text": "What's Going On With Palantir Stock Today?"
-        },
-        {
-            "time": "06:00",
-            "tag": "MERCADO",
-            "text": " Lockheed Martin Corporation (LMT.SW): A Closer Look at Its 7.97% Upsurge on the Swiss Exchange"
         }
     ]
 }
