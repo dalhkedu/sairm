@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-03 20:28 UTC",
+        "last_updated": "2025-12-03 21:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 180.14,
-            "change": "+2.26%"
+            "price": 179.59,
+            "change": "+3.42%"
         },
         {
             "symbol": "AMD",
-            "price": 216.93,
-            "change": "-2.15%"
+            "price": 217.6,
+            "change": "-2.86%"
         },
         {
             "symbol": "MSFT",
-            "price": 482.36,
-            "change": "-3.45%"
+            "price": 477.73,
+            "change": "-3.25%"
         },
         {
             "symbol": "CEG",
-            "price": 363.32,
-            "change": "+0.68%"
+            "price": 361.26,
+            "change": "+0.75%"
         },
         {
             "symbol": "VST",
-            "price": 172.62,
-            "change": "+1.67%"
+            "price": 171.65,
+            "change": "-2.51%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.44,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
             0.53,
             0.52,
             0.52,
             0.52,
-            0.52,
+            0.53,
+            0.53,
+            0.53,
             0.52,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            26.26,
-            25.76,
-            25.47,
-            25.2,
-            25.05,
-            24.97,
-            25.31,
-            24.96,
-            25.05,
-            24.96,
-            24.61,
-            24.89
+            27.23,
+            27.1,
+            26.66,
+            26.63,
+            26.87,
+            27.26,
+            27.06,
+            26.85,
+            26.43,
+            25.98,
+            25.64,
+            25.35
         ],
         "hsd_history_software": [
-            10.32,
-            10.17,
-            10.36,
-            10.21,
-            10.1,
-            10.15,
-            10.33,
-            10.18,
-            10.25,
-            10.14,
-            10.3,
-            10.2
+            9.59,
+            9.5,
+            9.36,
+            9.47,
+            9.38,
+            9.38,
+            9.41,
+            9.54,
+            9.52,
+            9.56,
+            9.7,
+            9.88
         ],
         "rci_data": [
             85.0,
-            18.014
+            17.959
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:46",
+            "time": "20:52",
+            "tag": "MERCADO",
+            "text": "Insulet Announces Next-Gen Omnipod 6 Coming in 2027"
+        },
+        {
+            "time": "20:46",
             "tag": "MERCADO",
             "text": "Applied Materials stock hits all-time high at 267.1 USD By Investing.com"
         },
         {
-            "time": "19:05",
-            "tag": "AI",
-            "text": "Transcript : Tyler Technologies, Inc. Presents at UBS Global Technology and AI Conference 2025, Dec-03-2025 08"
+            "time": "20:22",
+            "tag": "RESULTADOS",
+            "text": "T-Mobile to Host Q4 and Full Year 2025 Earnings Call on February 4, 2026"
         },
         {
-            "time": "18:37",
+            "time": "20:22",
             "tag": "MERCADO",
-            "text": "Intel Stock Spikes After $208 Million Malaysia Expansion Stuns Wall Street"
+            "text": "PayPal Stock Drops. The Financial Chief Delivers a Sobering Outlook."
         },
         {
-            "time": "18:36",
-            "tag": "AI",
-            "text": "AWS Simplifies Model Customization to Help Customers Build Faster, More Efficient AI Agents"
-        },
-        {
-            "time": "18:25",
+            "time": "20:12",
             "tag": "MERCADO",
-            "text": "MICROSOFT CORP : Jefferies gives a Buy rating"
+            "text": "Teradyne stock hits all-time high at 191.98 USD By Investing.com"
         }
     ]
 }
