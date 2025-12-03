@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-03 01:50 UTC",
+        "last_updated": "2025-12-03 03:20 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 181.46,
-            "change": "-2.5%"
+            "change": "+0.23%"
         },
         {
             "symbol": "AMD",
             "price": 215.24,
-            "change": "-3.26%"
+            "change": "-2.16%"
         },
         {
             "symbol": "MSFT",
             "price": 490.0,
-            "change": "+1.15%"
+            "change": "-1.03%"
         },
         {
             "symbol": "CEG",
             "price": 363.67,
-            "change": "+1.99%"
+            "change": "+1.92%"
         },
         {
             "symbol": "VST",
             "price": 172.55,
-            "change": "+0.36%"
+            "change": "+0.57%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.51,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
             0.5,
-            0.49
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.8,
-            25.08,
-            25.38,
-            25.46,
-            25.25,
-            25.44,
-            25.83,
-            26.3,
-            26.01,
-            25.74,
-            25.26,
-            25.08
+            25.97,
+            25.58,
+            25.77,
+            25.68,
+            25.29,
+            25.53,
+            25.79,
+            25.66,
+            25.48,
+            25.0,
+            25.06,
+            24.91
         ],
         "hsd_history_software": [
-            9.71,
-            9.83,
-            9.66,
-            9.62,
-            9.66,
-            9.51,
-            9.47,
-            9.49,
-            9.43,
-            9.59,
-            9.78,
-            9.93
+            9.89,
+            9.81,
+            9.81,
+            9.96,
+            10.03,
+            10.19,
+            10.09,
+            10.28,
+            10.12,
+            9.97,
+            10.08,
+            10.11
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "02:37",
+            "tag": "MERCADO",
+            "text": "Boeing surges as CFO reports the \u201crecovery is in full force\u201d and company expects positive free cash flow next year"
+        },
+        {
+            "time": "01:46",
+            "tag": "MERCADO",
+            "text": "Keysight Technologies stock hits 52-week high at 201.66 USD By Investing.com"
+        },
+        {
             "time": "00:51",
             "tag": "MERCADO",
             "text": "New tax proposal targets WA\u2019s largest corporations, including Amazon, Microsoft"
@@ -138,17 +148,7 @@
         {
             "time": "00:00",
             "tag": "MERCADO",
-            "text": "Infineon GaN Tech Powers Enphase Energy\u2019s Next-gen Solar Microinverters"
-        },
-        {
-            "time": "00:00",
-            "tag": "AI",
-            "text": "Booking Holdings (BKNG) Stock News & Forecast for December 2025: Q3 Beat, AI Tailwinds and a 20% Upside Gap"
-        },
-        {
-            "time": "00:00",
-            "tag": "AI",
-            "text": "Eaton (ETN) Stock Outlook on December 2, 2025: Boyd Thermal Deal, AI Data Centers and Analyst Targets"
+            "text": "Verizon (VZ) Stock on December 2, 2025: 6.7% Dividend, 13,000+ Layoffs and 2026 Price Targets"
         }
     ]
 }
