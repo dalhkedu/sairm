@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-03 06:36 UTC",
+        "last_updated": "2025-12-03 07:24 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 181.46,
-            "change": "-0.56%"
+            "change": "-1.3%"
         },
         {
             "symbol": "AMD",
             "price": 215.24,
-            "change": "-1.83%"
+            "change": "+0.31%"
         },
         {
             "symbol": "MSFT",
             "price": 490.0,
-            "change": "+0.31%"
+            "change": "+3.26%"
         },
         {
             "symbol": "CEG",
             "price": 363.67,
-            "change": "+0.27%"
+            "change": "+1.85%"
         },
         {
             "symbol": "VST",
             "price": 172.55,
-            "change": "+2.99%"
+            "change": "-2.82%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.4,
+        "cer_current": 0.46,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.53,
             0.54,
-            0.53,
-            0.53,
-            0.53,
-            0.53,
             0.53,
             0.53,
             0.52,
             0.51,
+            0.51,
+            0.51,
+            0.5,
             0.5,
             0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            24.98,
-            24.51,
-            24.53,
-            25.01,
-            25.37,
-            25.8,
-            25.68,
-            25.89,
-            25.77,
-            25.78,
-            25.48,
-            25.44
+            23.26,
+            23.11,
+            22.97,
+            23.39,
+            23.2,
+            22.98,
+            23.4,
+            23.35,
+            23.8,
+            24.14,
+            24.59,
+            24.59
         ],
         "hsd_history_software": [
+            10.53,
+            10.66,
+            10.62,
+            10.53,
+            10.48,
+            10.32,
+            10.34,
             10.52,
-            10.33,
-            10.18,
-            10.0,
-            10.02,
-            9.91,
-            9.94,
-            10.02,
-            10.18,
-            10.13,
-            10.19,
-            10.19
+            10.45,
+            10.44,
+            10.3,
+            10.18
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "06:51",
+            "tag": "MERCADO",
+            "text": "Apple Inc. (AAPL) Analysts Update Coverage"
+        },
+        {
+            "time": "06:37",
+            "tag": "MERCADO",
+            "text": "What's Going On With Palantir Stock Today?"
+        },
+        {
             "time": "06:00",
             "tag": "MERCADO",
             "text": " Lockheed Martin Corporation (LMT.SW): A Closer Look at Its 7.97% Upsurge on the Swiss Exchange"
@@ -139,16 +149,6 @@
             "time": "04:45",
             "tag": "MERCADO",
             "text": "ASML solidifies position as #1 semiconductor equipment company in 2025 over Applied Materials"
-        },
-        {
-            "time": "04:20",
-            "tag": "MERCADO",
-            "text": "Seagate technology CEO Mosley sells $5.4m in shares By Investing.com"
-        },
-        {
-            "time": "03:52",
-            "tag": "MERCADO",
-            "text": "Equifax Inc. Stock Underperforms Monday When Compared To Competitors"
         }
     ]
 }
