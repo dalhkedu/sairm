@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-03 19:20 UTC",
+        "last_updated": "2025-12-03 20:28 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 181.01,
-            "change": "+0.36%"
+            "price": 180.14,
+            "change": "+2.26%"
         },
         {
             "symbol": "AMD",
-            "price": 216.15,
-            "change": "+1.56%"
+            "price": 216.93,
+            "change": "-2.15%"
         },
         {
             "symbol": "MSFT",
-            "price": 481.67,
-            "change": "-1.5%"
+            "price": 482.36,
+            "change": "-3.45%"
         },
         {
             "symbol": "CEG",
-            "price": 363.04,
-            "change": "+2.52%"
+            "price": 363.32,
+            "change": "+0.68%"
         },
         {
             "symbol": "VST",
-            "price": 172.97,
-            "change": "-1.29%"
+            "price": 172.62,
+            "change": "+1.67%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.52,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.5,
-            0.5,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
             0.51,
             0.5,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.5,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.71,
+            26.26,
             25.76,
-            26.04,
-            25.56,
-            25.71,
-            25.96,
-            25.57,
-            25.16,
-            25.52,
-            25.12,
-            24.9,
-            24.96
+            25.47,
+            25.2,
+            25.05,
+            24.97,
+            25.31,
+            24.96,
+            25.05,
+            24.96,
+            24.61,
+            24.89
         ],
         "hsd_history_software": [
-            9.85,
-            10.01,
-            10.07,
-            10.0,
-            9.88,
-            9.98,
-            9.94,
+            10.32,
+            10.17,
+            10.36,
+            10.21,
+            10.1,
+            10.15,
+            10.33,
+            10.18,
+            10.25,
             10.14,
-            10.06,
-            9.98,
-            10.01,
-            10.04
+            10.3,
+            10.2
         ],
         "rci_data": [
             85.0,
-            18.101
+            18.014
         ],
         "energy_data": [
             1.2,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "19:46",
+            "tag": "MERCADO",
+            "text": "Applied Materials stock hits all-time high at 267.1 USD By Investing.com"
+        },
+        {
+            "time": "19:05",
+            "tag": "AI",
+            "text": "Transcript : Tyler Technologies, Inc. Presents at UBS Global Technology and AI Conference 2025, Dec-03-2025 08"
+        },
+        {
             "time": "18:37",
             "tag": "MERCADO",
             "text": "Intel Stock Spikes After $208 Million Malaysia Expansion Stuns Wall Street"
@@ -139,16 +149,6 @@
             "time": "18:25",
             "tag": "MERCADO",
             "text": "MICROSOFT CORP : Jefferies gives a Buy rating"
-        },
-        {
-            "time": "18:23",
-            "tag": "MERCADO",
-            "text": "Gains for Tesla offset drop in other 'Magnificent Seven' stocks"
-        },
-        {
-            "time": "18:08",
-            "tag": "MERCADO",
-            "text": "PayPal Stock Drops. The CFO Delivers a Sobering Outlook."
         }
     ]
 }
