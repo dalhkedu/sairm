@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-03 18:38 UTC",
+        "last_updated": "2025-12-03 19:20 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 180.97,
-            "change": "+1.46%"
+            "price": 181.01,
+            "change": "+0.36%"
         },
         {
             "symbol": "AMD",
-            "price": 216.68,
-            "change": "-0.4%"
+            "price": 216.15,
+            "change": "+1.56%"
         },
         {
             "symbol": "MSFT",
-            "price": 481.62,
-            "change": "-2.36%"
+            "price": 481.67,
+            "change": "-1.5%"
         },
         {
             "symbol": "CEG",
-            "price": 363.12,
-            "change": "+2.53%"
+            "price": 363.04,
+            "change": "+2.52%"
         },
         {
             "symbol": "VST",
-            "price": 172.63,
-            "change": "+0.62%"
+            "price": 172.97,
+            "change": "-1.29%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.67,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.51,
             0.5,
             0.5,
             0.51,
             0.51,
             0.51,
             0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            27.2,
-            27.54,
-            27.39,
-            27.17,
-            26.72,
-            26.36,
-            25.89,
-            25.93,
-            25.7,
-            25.53,
-            25.59,
-            25.28
+            25.71,
+            25.76,
+            26.04,
+            25.56,
+            25.71,
+            25.96,
+            25.57,
+            25.16,
+            25.52,
+            25.12,
+            24.9,
+            24.96
         ],
         "hsd_history_software": [
+            9.85,
+            10.01,
+            10.07,
+            10.0,
             9.88,
-            9.79,
-            9.76,
-            9.62,
-            9.59,
-            9.58,
-            9.63,
-            9.73,
-            9.64,
-            9.76,
-            9.91,
-            9.95
+            9.98,
+            9.94,
+            10.14,
+            10.06,
+            9.98,
+            10.01,
+            10.04
         ],
         "rci_data": [
             85.0,
-            18.096999999999998
+            18.101
         ],
         "energy_data": [
             1.2,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "18:37",
+            "tag": "MERCADO",
+            "text": "Intel Stock Spikes After $208 Million Malaysia Expansion Stuns Wall Street"
+        },
+        {
+            "time": "18:36",
+            "tag": "AI",
+            "text": "AWS Simplifies Model Customization to Help Customers Build Faster, More Efficient AI Agents"
+        },
+        {
+            "time": "18:25",
+            "tag": "MERCADO",
+            "text": "MICROSOFT CORP : Jefferies gives a Buy rating"
+        },
+        {
             "time": "18:23",
             "tag": "MERCADO",
             "text": "Gains for Tesla offset drop in other 'Magnificent Seven' stocks"
@@ -134,21 +149,6 @@
             "time": "18:08",
             "tag": "MERCADO",
             "text": "PayPal Stock Drops. The CFO Delivers a Sobering Outlook."
-        },
-        {
-            "time": "18:08",
-            "tag": "MERCADO",
-            "text": "In Patents He Trusts: Srinivas Tummalapenta on Turning Cybersecurity Breakthroughs into Economic Advantage"
-        },
-        {
-            "time": "18:08",
-            "tag": "AI",
-            "text": "Your 2026 AI Cybersecurity Strategy: Breaking Down the Hard Choices for Tech Leaders"
-        },
-        {
-            "time": "17:37",
-            "tag": "MERCADO",
-            "text": "Jack Henry & Associates Insider Sold Shares Worth $3,498,400, According to a Recent SEC Filing"
         }
     ]
 }
