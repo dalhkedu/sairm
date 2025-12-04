@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-04 09:28 UTC",
+        "last_updated": "2025-12-04 10:28 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 179.59,
-            "change": "-0.93%"
+            "change": "+1.23%"
         },
         {
             "symbol": "AMD",
             "price": 217.6,
-            "change": "-1.55%"
+            "change": "+1.46%"
         },
         {
             "symbol": "MSFT",
             "price": 477.73,
-            "change": "-1.52%"
+            "change": "-0.53%"
         },
         {
             "symbol": "CEG",
             "price": 361.26,
-            "change": "+3.21%"
+            "change": "+2.34%"
         },
         {
             "symbol": "VST",
             "price": 171.65,
-            "change": "+3.01%"
+            "change": "-2.19%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.43,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.52,
+            0.5,
             0.51,
             0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            26.54,
-            26.33,
-            26.63,
-            26.95,
-            26.56,
-            26.11,
-            25.66,
-            25.47,
-            25.52,
-            25.24,
-            24.8,
-            24.85
+            25.64,
+            25.18,
+            25.67,
+            25.59,
+            25.17,
+            24.81,
+            24.67,
+            24.64,
+            24.98,
+            24.74,
+            24.45,
+            24.91
         ],
         "hsd_history_software": [
-            10.74,
-            10.62,
-            10.5,
-            10.62,
-            10.46,
-            10.34,
-            10.2,
-            10.18,
-            10.01,
-            10.12,
-            10.07,
-            9.9
+            9.25,
+            9.33,
+            9.47,
+            9.64,
+            9.53,
+            9.71,
+            9.65,
+            9.66,
+            9.77,
+            9.92,
+            9.75,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "09:40",
+            "tag": "AI",
+            "text": "Palantir Launches Chain Reaction to Build American AI Infrastructure; Founding Partners Include CenterPoint Energy and NVIDIA"
+        },
+        {
+            "time": "09:09",
+            "tag": "MERCADO",
+            "text": "Align Technology Showcases Digital Dentistry Innovations at Greater New York Dental Meeting 2025"
+        },
+        {
             "time": "08:54",
             "tag": "MERCADO",
             "text": "KLA Corp. price target raised to $1,214 from $1,154 at Morgan Stanley"
@@ -139,16 +149,6 @@
             "time": "08:00",
             "tag": "MERCADO",
             "text": "mAbxience and HP drive the use of artificial intelligence in biomanufacturing and biosimilar development"
-        },
-        {
-            "time": "07:00",
-            "tag": "MERCADO",
-            "text": "Broadridge's Distributed Ledger Repo Platform Processes $368 Billion in Average Daily Trade Volumes in November"
-        },
-        {
-            "time": "06:58",
-            "tag": "MERCADO",
-            "text": "Morgan Stanley Explores Offloading Data Center Loan Risk"
         }
     ]
 }
