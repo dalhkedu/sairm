@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-04 08:34 UTC",
+        "last_updated": "2025-12-04 09:28 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 179.59,
-            "change": "-1.49%"
+            "change": "-0.93%"
         },
         {
             "symbol": "AMD",
             "price": 217.6,
-            "change": "+2.51%"
+            "change": "-1.55%"
         },
         {
             "symbol": "MSFT",
             "price": 477.73,
-            "change": "+1.85%"
+            "change": "-1.52%"
         },
         {
             "symbol": "CEG",
             "price": 361.26,
-            "change": "-2.71%"
+            "change": "+3.21%"
         },
         {
             "symbol": "VST",
             "price": 171.65,
-            "change": "+1.54%"
+            "change": "+3.01%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.66,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.52,
+            0.52,
             0.51,
-            0.51,
+            0.5,
             0.5,
             0.5,
             0.5,
             0.49,
-            0.49,
-            0.48,
-            0.48,
             0.49,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.04,
+            26.54,
+            26.33,
+            26.63,
+            26.95,
+            26.56,
+            26.11,
+            25.66,
             25.47,
-            25.82,
-            26.19,
-            26.02,
-            25.61,
-            26.0,
-            25.51,
-            25.03,
-            25.36,
-            24.88,
-            25.29
+            25.52,
+            25.24,
+            24.8,
+            24.85
         ],
         "hsd_history_software": [
-            10.53,
-            10.33,
-            10.41,
-            10.37,
-            10.22,
-            10.21,
-            10.41,
-            10.53,
-            10.49,
-            10.29,
-            10.27,
-            10.2
+            10.74,
+            10.62,
+            10.5,
+            10.62,
+            10.46,
+            10.34,
+            10.2,
+            10.18,
+            10.01,
+            10.12,
+            10.07,
+            9.9
         ],
         "rci_data": [
             85.0,
@@ -126,9 +126,19 @@
     ],
     "news_feed": [
         {
+            "time": "08:54",
+            "tag": "MERCADO",
+            "text": "KLA Corp. price target raised to $1,214 from $1,154 at Morgan Stanley"
+        },
+        {
             "time": "08:25",
             "tag": "AI",
             "text": "AI Helps C.H. Robinson Outdrive A Sluggish Freight Market"
+        },
+        {
+            "time": "08:00",
+            "tag": "MERCADO",
+            "text": "mAbxience and HP drive the use of artificial intelligence in biomanufacturing and biosimilar development"
         },
         {
             "time": "07:00",
@@ -139,16 +149,6 @@
             "time": "06:58",
             "tag": "MERCADO",
             "text": "Morgan Stanley Explores Offloading Data Center Loan Risk"
-        },
-        {
-            "time": "06:00",
-            "tag": "MERCADO",
-            "text": "Arista Networks director Giancarlo sells $1m in stock"
-        },
-        {
-            "time": "05:39",
-            "tag": "MERCADO",
-            "text": "Match Group Inc. (MTCH) Stock Price | Live Quotes & Charts | NASDAQ"
         }
     ]
 }
