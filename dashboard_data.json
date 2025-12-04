@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-04 10:28 UTC",
+        "last_updated": "2025-12-04 11:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 179.59,
-            "change": "+1.23%"
+            "change": "+2.82%"
         },
         {
             "symbol": "AMD",
             "price": 217.6,
-            "change": "+1.46%"
+            "change": "+0.73%"
         },
         {
             "symbol": "MSFT",
             "price": 477.73,
-            "change": "-0.53%"
+            "change": "+1.72%"
         },
         {
             "symbol": "CEG",
             "price": 361.26,
-            "change": "+2.34%"
+            "change": "+2.9%"
         },
         {
             "symbol": "VST",
             "price": 171.65,
-            "change": "-2.19%"
+            "change": "-0.9%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.42,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.51
+            0.45,
+            0.45,
+            0.46,
+            0.46,
+            0.46,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.64,
-            25.18,
+            25.2,
+            25.1,
+            25.45,
+            25.39,
             25.67,
-            25.59,
-            25.17,
-            24.81,
-            24.67,
-            24.64,
-            24.98,
-            24.74,
-            24.45,
-            24.91
+            26.01,
+            26.35,
+            26.17,
+            26.64,
+            26.14,
+            25.92,
+            25.49
         ],
         "hsd_history_software": [
-            9.25,
-            9.33,
-            9.47,
+            9.48,
+            9.37,
+            9.55,
+            9.73,
+            9.6,
             9.64,
-            9.53,
-            9.71,
-            9.65,
-            9.66,
-            9.77,
+            9.6,
+            9.63,
+            9.7,
+            9.87,
             9.92,
-            9.75,
-            9.82
+            10.11
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "10:06",
+            "tag": "MERCADO",
+            "text": " Guggenheim Capital LLC Grows Stock Position in QUALCOMM Incorporated $QCOM"
+        },
+        {
+            "time": "10:05",
+            "tag": "AI",
+            "text": "Palantir Launches \u2018Chain Reaction\u2019 In Partnership With Nvidia, CenterPoint Energy To Tackle AI\u2019s Biggest Bottleneck \u2013 The Energy Grid"
+        },
+        {
             "time": "09:40",
             "tag": "AI",
             "text": "Palantir Launches Chain Reaction to Build American AI Infrastructure; Founding Partners Include CenterPoint Energy and NVIDIA"
         },
         {
-            "time": "09:09",
-            "tag": "MERCADO",
-            "text": "Align Technology Showcases Digital Dentistry Innovations at Greater New York Dental Meeting 2025"
-        },
-        {
-            "time": "08:54",
-            "tag": "MERCADO",
-            "text": "KLA Corp. price target raised to $1,214 from $1,154 at Morgan Stanley"
-        },
-        {
-            "time": "08:25",
+            "time": "09:36",
             "tag": "AI",
-            "text": "AI Helps C.H. Robinson Outdrive A Sluggish Freight Market"
+            "text": "Palantir Launches Chain Reaction to Build American AI Infrastructure; Founding Partners Include CenterPoint Energy and NVIDIA"
         },
         {
-            "time": "08:00",
-            "tag": "MERCADO",
-            "text": "mAbxience and HP drive the use of artificial intelligence in biomanufacturing and biosimilar development"
+            "time": "09:36",
+            "tag": "AI",
+            "text": "Palantir teams with Nvidia, CenterPoint Energy for software to speed up AI data center construction"
         }
     ]
 }
