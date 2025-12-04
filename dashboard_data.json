@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-04 15:28 UTC",
+        "last_updated": "2025-12-04 16:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 181.03,
-            "change": "-3.48%"
+            "price": 182.62,
+            "change": "+2.29%"
         },
         {
             "symbol": "AMD",
-            "price": 216.87,
-            "change": "+0.71%"
+            "price": 217.6,
+            "change": "-2.12%"
         },
         {
             "symbol": "MSFT",
-            "price": 477.42,
-            "change": "+0.15%"
+            "price": 477.96,
+            "change": "+3.25%"
         },
         {
             "symbol": "CEG",
-            "price": 370.68,
-            "change": "-0.8%"
+            "price": 372.29,
+            "change": "-0.5%"
         },
         {
             "symbol": "VST",
-            "price": 175.0,
-            "change": "+0.06%"
+            "price": 175.88,
+            "change": "-1.7%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.64,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
             0.51,
             0.52,
-            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
             0.51
         ],
         "hsd_history_hardware": [
-            25.38,
-            25.39,
-            25.67,
-            25.75,
-            25.25,
-            25.42,
-            25.09,
-            25.26,
-            24.87,
-            25.02,
-            24.94,
-            25.35
+            24.53,
+            24.8,
+            24.73,
+            24.98,
+            24.68,
+            24.44,
+            24.4,
+            24.26,
+            24.65,
+            24.85,
+            24.52,
+            24.99
         ],
         "hsd_history_software": [
-            9.81,
-            9.77,
-            9.96,
-            10.1,
-            10.13,
-            10.1,
-            10.15,
-            9.99,
-            9.82,
-            9.69,
-            9.84,
-            9.89
+            10.11,
+            10.06,
+            10.06,
+            10.18,
+            10.21,
+            10.02,
+            10.12,
+            10.31,
+            10.29,
+            10.16,
+            10.23,
+            10.18
         ],
         "rci_data": [
             85.0,
-            18.102999999999998
+            18.262
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:03",
+            "time": "16:07",
             "tag": "MERCADO",
-            "text": " IRONSCALES Named a Visionary in the 2025 Gartner\u00ae Magic Quadrant\u2122 for Email Security"
+            "text": " Equinix inks 10MW virtual PPA in Singapore with TEPCO"
         },
         {
-            "time": "14:02",
-            "tag": "AI",
-            "text": " Lockheed Martin (NYSE: LMT) tests AI to re-task unmanned air and ground vehicles"
+            "time": "16:06",
+            "tag": "MERCADO",
+            "text": " The Palo Alto Networks Story - ft. Nir Zuk & Nikesh Arora"
         },
         {
-            "time": "14:01",
+            "time": "15:59",
             "tag": "MERCADO",
-            "text": " Trek Financial LLC Has $7.30 Million Stock Position in Intuit Inc. $INTU"
+            "text": "Intel makes U-turn, cancels plan to sell its networking division: Read chipmaker\u2019s statement"
         },
         {
-            "time": "14:00",
+            "time": "15:54",
             "tag": "MERCADO",
-            "text": " Trek Financial LLC Invests $3.38 Million in Jabil, Inc. $JBL"
+            "text": " Raytheon and AWS collaborate on satellite mission control"
         },
         {
-            "time": "13:57",
+            "time": "15:47",
             "tag": "MERCADO",
-            "text": " Guidewire (NYSE: GWRE) Cloud ClaimCenter goes live at Cincinnati Insurance Co."
+            "text": " Align Showcases Digital Advancements at GNYDM 2025"
         }
     ]
 }
