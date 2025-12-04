@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-04 07:24 UTC",
+        "last_updated": "2025-12-04 08:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 179.59,
-            "change": "+0.69%"
+            "change": "-1.49%"
         },
         {
             "symbol": "AMD",
             "price": 217.6,
-            "change": "-0.14%"
+            "change": "+2.51%"
         },
         {
             "symbol": "MSFT",
             "price": 477.73,
-            "change": "+2.41%"
+            "change": "+1.85%"
         },
         {
             "symbol": "CEG",
             "price": 361.26,
-            "change": "-0.32%"
+            "change": "-2.71%"
         },
         {
             "symbol": "VST",
             "price": 171.65,
-            "change": "+1.98%"
+            "change": "+1.54%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.42,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
             0.5,
             0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
+            25.04,
+            25.47,
+            25.82,
+            26.19,
+            26.02,
+            25.61,
+            26.0,
+            25.51,
             25.03,
-            24.98,
-            24.52,
-            24.47,
-            24.4,
-            24.44,
-            24.91,
-            24.74,
-            24.42,
-            24.83,
-            25.26,
-            25.07
+            25.36,
+            24.88,
+            25.29
         ],
         "hsd_history_software": [
-            10.16,
-            10.02,
-            9.98,
-            9.93,
-            9.96,
-            10.13,
-            10.12,
-            10.15,
-            10.19,
-            10.32,
-            10.24,
-            10.05
+            10.53,
+            10.33,
+            10.41,
+            10.37,
+            10.22,
+            10.21,
+            10.41,
+            10.53,
+            10.49,
+            10.29,
+            10.27,
+            10.2
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "08:25",
+            "tag": "AI",
+            "text": "AI Helps C.H. Robinson Outdrive A Sluggish Freight Market"
+        },
+        {
+            "time": "07:00",
+            "tag": "MERCADO",
+            "text": "Broadridge's Distributed Ledger Repo Platform Processes $368 Billion in Average Daily Trade Volumes in November"
+        },
+        {
+            "time": "06:58",
+            "tag": "MERCADO",
+            "text": "Morgan Stanley Explores Offloading Data Center Loan Risk"
+        },
+        {
             "time": "06:00",
             "tag": "MERCADO",
             "text": "Arista Networks director Giancarlo sells $1m in stock"
@@ -134,21 +149,6 @@
             "time": "05:39",
             "tag": "MERCADO",
             "text": "Match Group Inc. (MTCH) Stock Price | Live Quotes & Charts | NASDAQ"
-        },
-        {
-            "time": "05:13",
-            "tag": "MERCADO",
-            "text": "Better Quantum Computing Stock: D-Wave Quantum vs. IBM"
-        },
-        {
-            "time": "04:40",
-            "tag": "RESULTADOS",
-            "text": "Is Adobe (ADBE) a Buy Ahead of Q4 Earnings? Here\u2019s Wall Street\u2019s Take"
-        },
-        {
-            "time": "04:09",
-            "tag": "MERCADO",
-            "text": "MPSC holds public hearing on Saline Township data center, protesters march outside DTE"
         }
     ]
 }
