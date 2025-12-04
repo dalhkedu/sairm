@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-04 22:21 UTC",
+        "last_updated": "2025-12-04 23:23 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.38,
-            "change": "-0.41%"
+            "change": "+0.55%"
         },
         {
             "symbol": "AMD",
             "price": 215.98,
-            "change": "+1.71%"
+            "change": "-0.8%"
         },
         {
             "symbol": "MSFT",
             "price": 480.84,
-            "change": "+2.97%"
+            "change": "-0.5%"
         },
         {
             "symbol": "CEG",
             "price": 368.62,
-            "change": "-1.89%"
+            "change": "+0.89%"
         },
         {
             "symbol": "VST",
             "price": 176.07,
-            "change": "+0.52%"
+            "change": "+3.01%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.67,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.52,
+            0.52,
             0.51,
             0.51,
-            0.5,
+            0.51,
+            0.52,
             0.51,
             0.51,
+            0.51,
             0.5,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49
+            0.51
         ],
         "hsd_history_hardware": [
-            26.09,
-            26.18,
-            26.11,
-            25.83,
-            25.71,
-            26.1,
+            25.9,
+            25.98,
+            25.74,
+            25.48,
             25.77,
-            25.93,
-            25.85,
-            25.64,
-            25.85,
-            25.49
+            25.87,
+            25.36,
+            24.9,
+            24.52,
+            24.98,
+            25.26,
+            25.45
         ],
         "hsd_history_software": [
-            9.94,
+            10.24,
+            10.38,
+            10.25,
             10.14,
-            9.97,
-            10.02,
-            10.16,
-            9.99,
-            9.97,
-            10.13,
-            10.34,
-            10.22,
-            10.07,
-            10.06
+            10.18,
+            10.28,
+            10.14,
+            10.0,
+            9.82,
+            9.89,
+            9.74,
+            9.81
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:04",
+            "time": "22:02",
             "tag": "MERCADO",
-            "text": " Leidos (NYSE: LDOS) keeps Hawai'i Energy role under new $127M, 3-year contract"
+            "text": " PTC Names Jennifer DiRico as New CFO Effective 2026"
         },
         {
-            "time": "20:54",
+            "time": "21:50",
             "tag": "MERCADO",
-            "text": " Target reportedly piloting overnight delivery"
+            "text": " Equinix CFO to retire in 2026 after 27-year company tenure"
         },
         {
-            "time": "20:38",
+            "time": "21:50",
             "tag": "MERCADO",
-            "text": "Critical Vulnerabilities in React Server Components and Next.js"
+            "text": " Apple shuffles executive ranks again, as Adams and Jackson set to depart (AAPL:NASDAQ)"
         },
         {
-            "time": "20:26",
-            "tag": "AI",
-            "text": " Lockheed Martin Skunk Works Tests AI Mission Management on Air- and Ground-Based Drones"
+            "time": "21:43",
+            "tag": "MERCADO",
+            "text": " Hewlett Packard Enterprise delivers soft revenue outlook after mixed Q4 results"
         },
         {
-            "time": "20:08",
+            "time": "21:43",
             "tag": "MERCADO",
-            "text": "AWS Introduces Graviton5-the Company's Most Powerful and Efficient CPU"
+            "text": " Apple announces departure of general counsel and policy chief"
         }
     ]
 }
