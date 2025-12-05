@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-05 11:21 UTC",
+        "last_updated": "2025-12-05 12:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.38,
-            "change": "+0.82%"
+            "change": "-2.81%"
         },
         {
             "symbol": "AMD",
             "price": 215.98,
-            "change": "+1.43%"
+            "change": "-0.59%"
         },
         {
             "symbol": "MSFT",
             "price": 480.84,
-            "change": "+1.13%"
+            "change": "+1.42%"
         },
         {
             "symbol": "CEG",
             "price": 368.62,
-            "change": "-2.32%"
+            "change": "-0.91%"
         },
         {
             "symbol": "VST",
             "price": 176.07,
-            "change": "-2.72%"
+            "change": "+3.23%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.57,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.47,
-            0.47,
-            0.48,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.49,
             0.49,
-            0.48,
-            0.48,
-            0.48,
+            0.49,
+            0.49,
             0.49,
             0.49
         ],
         "hsd_history_hardware": [
+            24.87,
+            25.34,
+            24.89,
+            24.95,
+            24.86,
+            25.07,
+            24.69,
+            25.0,
+            24.84,
             25.05,
-            25.05,
-            24.56,
-            24.36,
-            24.41,
-            24.91,
-            24.64,
-            24.7,
-            24.81,
-            25.08,
-            24.91,
-            25.25
+            24.82,
+            24.65
         ],
         "hsd_history_software": [
-            9.47,
-            9.64,
-            9.66,
             9.51,
-            9.48,
-            9.45,
-            9.59,
-            9.72,
-            9.85,
-            9.84,
-            9.89,
-            9.99
+            9.35,
+            9.53,
+            9.49,
+            9.47,
+            9.6,
+            9.6,
+            9.7,
+            9.74,
+            9.92,
+            9.96,
+            10.03
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:04",
+            "time": "12:09",
             "tag": "MERCADO",
-            "text": " Dodge & Cox Has $43.12 Million Stock Holdings in Cisco Systems, Inc. $CSCO"
+            "text": "Is it Wise to Retain SBA Communications Stock in Your Portfolio Now?"
         },
         {
-            "time": "10:04",
-            "tag": "MERCADO",
-            "text": " Epoch Investment Partners Inc. Sells 83,314 Shares of Cisco Systems, Inc. $CSCO"
+            "time": "12:02",
+            "tag": "AI",
+            "text": "Lincoln Financial taps BlackRock leader as first chief AI, data and analytics officer"
         },
         {
-            "time": "10:03",
+            "time": "11:57",
             "tag": "MERCADO",
-            "text": "Epoch Investment Partners Inc. Has $81.05 Million Holdings in Electronic Arts Inc. $EA"
+            "text": " M&T Bank Corp Has $4.45 Million Holdings in Robinhood Markets, Inc. $HOOD"
         },
         {
-            "time": "10:03",
+            "time": "11:57",
             "tag": "MERCADO",
-            "text": " Lam Research Corporation $LRCX Shares Bought by Epoch Investment Partners Inc."
+            "text": " Quantbot Technologies LP Invests $3.08 Million in Microchip Technology Incorporated $MCHP"
         },
         {
-            "time": "09:54",
+            "time": "11:57",
             "tag": "MERCADO",
-            "text": " F5 (FFIV) Valuation Check After Persistent Insider Selling and Cautious Analyst Outlook"
+            "text": " Quantbot Technologies LP Buys Shares of 3,914 Intuit Inc. $INTU"
         }
     ]
 }
