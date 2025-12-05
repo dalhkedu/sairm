@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-05 10:26 UTC",
+        "last_updated": "2025-12-05 11:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.38,
-            "change": "+1.82%"
+            "change": "+0.82%"
         },
         {
             "symbol": "AMD",
             "price": 215.98,
-            "change": "+1.95%"
+            "change": "+1.43%"
         },
         {
             "symbol": "MSFT",
             "price": 480.84,
-            "change": "+1.37%"
+            "change": "+1.13%"
         },
         {
             "symbol": "CEG",
             "price": 368.62,
-            "change": "+0.17%"
+            "change": "-2.32%"
         },
         {
             "symbol": "VST",
             "price": 176.07,
-            "change": "-0.3%"
+            "change": "-2.72%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.55,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.5,
-            0.5
+            0.48,
+            0.48,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.65,
-            24.5,
-            24.82,
-            24.97,
-            25.0,
             25.05,
-            25.01,
-            25.29,
-            25.19,
-            25.23,
-            24.78,
-            24.68
+            25.05,
+            24.56,
+            24.36,
+            24.41,
+            24.91,
+            24.64,
+            24.7,
+            24.81,
+            25.08,
+            24.91,
+            25.25
         ],
         "hsd_history_software": [
-            10.9,
-            10.91,
-            10.74,
-            10.75,
-            10.61,
-            10.43,
-            10.4,
-            10.47,
-            10.35,
-            10.23,
-            10.1,
-            10.09
+            9.47,
+            9.64,
+            9.66,
+            9.51,
+            9.48,
+            9.45,
+            9.59,
+            9.72,
+            9.85,
+            9.84,
+            9.89,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:00",
+            "time": "10:04",
             "tag": "MERCADO",
-            "text": " Baird Financial Group Inc. Cuts Position in Tyler Technologies, Inc. $TYL"
+            "text": " Dodge & Cox Has $43.12 Million Stock Holdings in Cisco Systems, Inc. $CSCO"
         },
         {
-            "time": "08:56",
-            "tag": "AI",
-            "text": "Transforming Football: IBM and Bayer 04 Leverkusen Use AI for Superior Game Analysis"
+            "time": "10:04",
+            "tag": "MERCADO",
+            "text": " Epoch Investment Partners Inc. Sells 83,314 Shares of Cisco Systems, Inc. $CSCO"
         },
         {
-            "time": "08:54",
+            "time": "10:03",
             "tag": "MERCADO",
-            "text": " Arrowstreet Capital Limited Partnership Sells 732,154 Shares of HP Inc. $HPQ"
+            "text": "Epoch Investment Partners Inc. Has $81.05 Million Holdings in Electronic Arts Inc. $EA"
         },
         {
-            "time": "08:43",
+            "time": "10:03",
             "tag": "MERCADO",
-            "text": " Beutel Goodman & Co Ltd. Sells 96,241 Shares of NetApp, Inc. $NTAP"
+            "text": " Lam Research Corporation $LRCX Shares Bought by Epoch Investment Partners Inc."
         },
         {
-            "time": "08:42",
+            "time": "09:54",
             "tag": "MERCADO",
-            "text": " Texas Instruments Incorporated $TXN Shares Sold by Baird Financial Group Inc."
+            "text": " F5 (FFIV) Valuation Check After Persistent Insider Selling and Cautious Analyst Outlook"
         }
     ]
 }
