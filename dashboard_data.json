@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-05 15:26 UTC",
+        "last_updated": "2025-12-05 16:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 183.21,
-            "change": "+2.3%"
+            "price": 182.0,
+            "change": "-2.81%"
         },
         {
             "symbol": "AMD",
-            "price": 222.24,
-            "change": "-3.13%"
+            "price": 216.99,
+            "change": "-0.04%"
         },
         {
             "symbol": "MSFT",
-            "price": 483.02,
-            "change": "+2.76%"
+            "price": 479.27,
+            "change": "+1.24%"
         },
         {
             "symbol": "CEG",
-            "price": 368.26,
-            "change": "+0.86%"
+            "price": 360.89,
+            "change": "+0.22%"
         },
         {
             "symbol": "VST",
-            "price": 172.26,
-            "change": "-2.32%"
+            "price": 169.25,
+            "change": "-1.47%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.49,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
+            0.55,
+            0.55,
+            0.55,
+            0.55,
+            0.54,
+            0.53,
+            0.54,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
             0.51
         ],
         "hsd_history_hardware": [
-            24.45,
-            24.55,
-            24.43,
-            24.6,
-            24.51,
-            24.8,
-            25.0,
-            24.99,
-            24.89,
-            25.11,
-            25.35,
-            25.06
+            24.9,
+            25.12,
+            25.1,
+            25.34,
+            25.69,
+            25.98,
+            26.4,
+            25.95,
+            25.81,
+            25.93,
+            25.52,
+            25.39
         ],
         "hsd_history_software": [
-            9.39,
-            9.57,
+            9.28,
+            9.4,
+            9.49,
+            9.48,
+            9.34,
+            9.46,
             9.62,
-            9.8,
-            9.82,
-            9.7,
+            9.53,
+            9.66,
+            9.78,
             9.87,
-            9.89,
-            9.95,
-            10.15,
-            9.99,
-            10.11
+            9.94
         ],
         "rci_data": [
             85.0,
-            18.321
+            18.2
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:04",
+            "time": "15:06",
             "tag": "MERCADO",
-            "text": " NFLX Stock: Netflix Wins the Battle for Warner Bros. Why Its Shares Are Down."
+            "text": " How Hershey remade its iconic holiday ad as an interactive experience"
         },
         {
-            "time": "14:02",
-            "tag": "MERCADO",
-            "text": " CISC Semiconductor Enters Into Collaboration with Qualcomm"
+            "time": "14:56",
+            "tag": "RESULTADOS",
+            "text": " Hewlett Packard Enterprise Earnings Beat Estimates. Why the Stock Is Falling Anyway."
         },
         {
-            "time": "13:58",
+            "time": "14:42",
             "tag": "MERCADO",
-            "text": " Amazon (NASDAQ: AMZN) Stock Price Prediction in 2030: Bull, Bear, & Baseline Forecasts (Dec 5)"
+            "text": "Digital Realty Trust (NYSE:DLR) Given New $206.00 Price Target at Jefferies Financial Group"
         },
         {
-            "time": "13:52",
+            "time": "14:40",
             "tag": "MERCADO",
-            "text": " Daiwa Securities Adjusts Price Target on NetApp to $130 From $140, Maintains Outperform Rating"
+            "text": " Microchip Technology (MCHP) Valuation Check After Raised Guidance and New Power Monitor Launches"
         },
         {
-            "time": "13:42",
+            "time": "14:38",
             "tag": "MERCADO",
-            "text": " Teledyne FLIR Defense wins $42.5 million Marine Corps contract By Investing.com"
+            "text": " Everyone wants to eat Nvidia\u2019s lunch"
         }
     ]
 }
