@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-05 03:21 UTC",
+        "last_updated": "2025-12-05 04:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.38,
-            "change": "+1.01%"
+            "change": "-2.43%"
         },
         {
             "symbol": "AMD",
             "price": 215.98,
-            "change": "-2.79%"
+            "change": "+0.23%"
         },
         {
             "symbol": "MSFT",
             "price": 480.84,
-            "change": "+1.5%"
+            "change": "-3.1%"
         },
         {
             "symbol": "CEG",
             "price": 368.62,
-            "change": "-0.13%"
+            "change": "+1.06%"
         },
         {
             "symbol": "VST",
             "price": 176.07,
-            "change": "+0.12%"
+            "change": "+3.13%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.64,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.47,
-            0.48,
-            0.49,
-            0.49,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.5,
-            0.49,
-            0.49,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            25.76,
-            25.31,
-            25.52,
-            25.12,
-            25.23,
-            25.25,
-            25.36,
-            25.38,
+            26.22,
+            25.73,
+            25.77,
+            25.3,
+            25.14,
+            25.43,
+            25.63,
+            25.13,
+            25.61,
+            25.34,
             25.07,
-            24.93,
-            24.79,
-            24.83
+            24.7
         ],
         "hsd_history_software": [
+            9.64,
+            9.56,
+            9.66,
+            9.84,
             9.98,
-            10.14,
-            10.22,
-            10.11,
-            10.01,
-            9.86,
-            9.87,
-            10.06,
-            10.02,
-            10.0,
-            10.11,
-            9.94
+            10.05,
+            9.98,
+            10.1,
+            10.13,
+            10.2,
+            10.13,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:33",
+            "time": "03:25",
             "tag": "MERCADO",
-            "text": " Arista Networks (ANET): Assessing Valuation After a 16% Pullback in the Share Price"
+            "text": " Wall Street Analysts Tout Texas Instruments Incorporated (TXN) Growth Prospects amid Weak Guidance"
         },
         {
-            "time": "01:16",
+            "time": "03:10",
             "tag": "MERCADO",
-            "text": "CNBC Daily Open: Money, money, money, in Nvidia's world"
+            "text": " Texas Pacific Land Corporation (TPL): A Bull Case Theory"
         },
         {
-            "time": "01:09",
+            "time": "02:38",
             "tag": "MERCADO",
-            "text": "Enphase Energy director Rodgers sells $4.37 million in stock"
+            "text": " Insider Sell Alert: Alan Higginson Sells Shares of F5 Inc (FFIV)"
         },
         {
-            "time": "01:04",
+            "time": "02:38",
             "tag": "MERCADO",
-            "text": "Francois Locoh-Donou Sells 1,300 Shares of F5 (NASDAQ:FFIV) Stock"
+            "text": "Director\u2019s Bold Move: A Significant Stock Sale at F5 Networks"
         },
         {
-            "time": "01:04",
+            "time": "02:10",
             "tag": "MERCADO",
-            "text": " Insider Selling: F5 (NASDAQ:FFIV) EVP Sells 1,110 Shares of Stock"
+            "text": "Deere & Company (DE): A Bull Case Theory"
         }
     ]
 }
