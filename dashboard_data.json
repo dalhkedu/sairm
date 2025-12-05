@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-05 05:23 UTC",
+        "last_updated": "2025-12-05 06:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.38,
-            "change": "+0.38%"
+            "change": "+1.56%"
         },
         {
             "symbol": "AMD",
             "price": 215.98,
-            "change": "-0.14%"
+            "change": "+1.94%"
         },
         {
             "symbol": "MSFT",
             "price": 480.84,
-            "change": "+0.91%"
+            "change": "-3.27%"
         },
         {
             "symbol": "CEG",
             "price": 368.62,
-            "change": "-2.84%"
+            "change": "+2.26%"
         },
         {
             "symbol": "VST",
             "price": 176.07,
-            "change": "+2.8%"
+            "change": "+0.57%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.63,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.48,
             0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.51
+            0.49,
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.77,
-            26.08,
-            26.58,
-            26.2,
-            26.02,
-            26.34,
-            25.83,
-            25.48,
-            25.45,
-            25.34,
+            25.85,
             25.4,
-            25.34
+            25.58,
+            25.56,
+            25.94,
+            25.87,
+            25.64,
+            25.32,
+            25.03,
+            24.95,
+            25.03,
+            24.7
         ],
         "hsd_history_software": [
-            9.56,
-            9.68,
-            9.64,
-            9.7,
-            9.51,
-            9.59,
-            9.75,
-            9.82,
-            9.88,
-            9.81,
             9.92,
-            10.06
+            10.09,
+            10.29,
+            10.18,
+            10.28,
+            10.42,
+            10.27,
+            10.23,
+            10.27,
+            10.12,
+            9.99,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "05:08",
+            "tag": "MERCADO",
+            "text": " Equinix inks third solar agreement in Singapore to boost clean energy"
+        },
+        {
+            "time": "05:08",
+            "tag": "MERCADO",
+            "text": " Is Advanced Micro Devices, Inc. (AMD) One of the Best Augmented Reality Stocks to Buy Right Now?"
+        },
+        {
+            "time": "04:32",
+            "tag": "AI",
+            "text": "NetApp Collaborates with AWS to bring Enterprise Data to AWS AI Services"
+        },
+        {
+            "time": "04:08",
+            "tag": "MERCADO",
+            "text": "Jim Cramer on Amazon: \"Wall Street Only Seems to Care About Amazon Web Services\""
+        },
+        {
             "time": "03:25",
             "tag": "MERCADO",
             "text": " Wall Street Analysts Tout Texas Instruments Incorporated (TXN) Growth Prospects amid Weak Guidance"
-        },
-        {
-            "time": "03:10",
-            "tag": "MERCADO",
-            "text": " Texas Pacific Land Corporation (TPL): A Bull Case Theory"
-        },
-        {
-            "time": "02:38",
-            "tag": "MERCADO",
-            "text": " Insider Sell Alert: Alan Higginson Sells Shares of F5 Inc (FFIV)"
-        },
-        {
-            "time": "02:38",
-            "tag": "MERCADO",
-            "text": "Director\u2019s Bold Move: A Significant Stock Sale at F5 Networks"
-        },
-        {
-            "time": "02:10",
-            "tag": "MERCADO",
-            "text": "Deere & Company (DE): A Bull Case Theory"
         }
     ]
 }
