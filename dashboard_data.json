@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-05 09:26 UTC",
+        "last_updated": "2025-12-05 10:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.38,
-            "change": "-1.78%"
+            "change": "+1.82%"
         },
         {
             "symbol": "AMD",
             "price": 215.98,
-            "change": "-0.83%"
+            "change": "+1.95%"
         },
         {
             "symbol": "MSFT",
             "price": 480.84,
-            "change": "-0.09%"
+            "change": "+1.37%"
         },
         {
             "symbol": "CEG",
             "price": 368.62,
-            "change": "+0.37%"
+            "change": "+0.17%"
         },
         {
             "symbol": "VST",
             "price": 176.07,
-            "change": "+0.96%"
+            "change": "-0.3%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.43,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.47,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
             0.5,
-            0.49,
-            0.49,
             0.5,
-            0.49,
-            0.49
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.78,
-            26.09,
-            25.63,
-            26.09,
-            25.65,
+            24.65,
+            24.5,
+            24.82,
+            24.97,
+            25.0,
+            25.05,
+            25.01,
             25.29,
-            25.4,
-            25.25,
-            25.21,
-            25.43,
-            24.96,
-            24.75
+            25.19,
+            25.23,
+            24.78,
+            24.68
         ],
         "hsd_history_software": [
-            10.07,
-            10.0,
-            10.19,
-            10.2,
-            10.18,
-            10.14,
-            10.14,
-            10.22,
-            10.32,
-            10.19,
-            10.09,
-            10.04
+            10.9,
+            10.91,
+            10.74,
+            10.75,
+            10.61,
+            10.43,
+            10.4,
+            10.47,
+            10.35,
+            10.23,
+            10.1,
+            10.09
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:28",
+            "time": "09:00",
             "tag": "MERCADO",
-            "text": " 1832 Asset Management L.P. Invests $12.44 Million in Seagate Technology Holdings PLC $STX"
+            "text": " Baird Financial Group Inc. Cuts Position in Tyler Technologies, Inc. $TYL"
         },
         {
-            "time": "08:26",
-            "tag": "MERCADO",
-            "text": "NetApp, Inc. $NTAP Stake Lowered by American Century Companies Inc."
-        },
-        {
-            "time": "07:37",
-            "tag": "MERCADO",
-            "text": " Microsoft Corporation (NASDAQ:MSFT) Receives Average Rating of \"Moderate Buy\" from Analysts"
-        },
-        {
-            "time": "06:26",
+            "time": "08:56",
             "tag": "AI",
-            "text": " Will IBM Cloud Powering Zyphra\u2019s AMD-Based Frontier AI Training Change International Business Machines' (IBM) Narrative?"
+            "text": "Transforming Football: IBM and Bayer 04 Leverkusen Use AI for Superior Game Analysis"
         },
         {
-            "time": "05:08",
+            "time": "08:54",
             "tag": "MERCADO",
-            "text": " Equinix inks third solar agreement in Singapore to boost clean energy"
+            "text": " Arrowstreet Capital Limited Partnership Sells 732,154 Shares of HP Inc. $HPQ"
+        },
+        {
+            "time": "08:43",
+            "tag": "MERCADO",
+            "text": " Beutel Goodman & Co Ltd. Sells 96,241 Shares of NetApp, Inc. $NTAP"
+        },
+        {
+            "time": "08:42",
+            "tag": "MERCADO",
+            "text": " Texas Instruments Incorporated $TXN Shares Sold by Baird Financial Group Inc."
         }
     ]
 }
