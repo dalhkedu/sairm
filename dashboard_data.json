@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-05 22:22 UTC",
+        "last_updated": "2025-12-05 23:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.41,
-            "change": "-0.7%"
+            "change": "-1.24%"
         },
         {
             "symbol": "AMD",
             "price": 217.97,
-            "change": "-1.48%"
+            "change": "-0.61%"
         },
         {
             "symbol": "MSFT",
             "price": 483.16,
-            "change": "+1.38%"
+            "change": "-0.8%"
         },
         {
             "symbol": "CEG",
             "price": 359.82,
-            "change": "+0.33%"
+            "change": "-2.31%"
         },
         {
             "symbol": "VST",
             "price": 167.17,
-            "change": "-2.8%"
+            "change": "-0.51%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.58,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.53,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            25.23,
-            25.55,
-            25.64,
-            25.19,
-            25.23,
+            24.21,
+            24.44,
+            24.11,
+            24.23,
+            24.43,
+            24.71,
+            24.9,
+            25.11,
             24.86,
-            24.78,
-            24.98,
-            25.29,
-            25.36,
-            25.45,
-            25.1
+            24.92,
+            24.45,
+            24.64
         ],
         "hsd_history_software": [
-            9.77,
-            9.85,
-            9.66,
-            9.71,
-            9.76,
-            9.89,
-            9.76,
-            9.94,
+            9.59,
+            9.46,
+            9.39,
+            9.58,
+            9.74,
+            9.75,
             9.79,
-            9.86,
-            9.93,
-            10.09
+            9.74,
+            9.66,
+            9.85,
+            9.99,
+            10.06
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:01",
+            "time": "22:01",
             "tag": "MERCADO",
-            "text": " Verisign Reports Total Domain Registrations Worldwide Reached Over 378 Million at the End of 3Q-2025, Leaping by More Than 16 Million From a Year Ago"
+            "text": " SPY ETF Daily Update, 12/5/2025"
         },
         {
-            "time": "20:44",
+            "time": "21:57",
             "tag": "AI",
-            "text": " Applied Materials (AMAT) Is Up 7.8% After Strong AI-Driven Quarter and Upbeat Guidance - What's Changed"
+            "text": " Fermi America secures power deal with Xcel Energy subsidiary for AI campus By Investing.com"
         },
         {
-            "time": "20:32",
+            "time": "21:52",
             "tag": "MERCADO",
-            "text": "Will my Netflix subscription go up after Warner Bros Discovery deal? What to know in Tennessee"
+            "text": "Deere CIO to retire after 28 years with the company"
         },
         {
-            "time": "20:20",
+            "time": "21:46",
             "tag": "MERCADO",
-            "text": "Super Micro Computer, Inc. (SMCI): A Bull Case Theory"
+            "text": "Trimble Announces New Credit Agreement and Stock Buyback"
         },
         {
-            "time": "20:19",
+            "time": "21:32",
             "tag": "AI",
-            "text": "Microsoft 365 to include more AI tools \u2013 at a higher price"
+            "text": " Xcel Energy (NASDAQ: XEL) signs ESA to deliver 86\u2013200 MW to Fermi AI site"
         }
     ]
 }
