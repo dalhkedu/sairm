@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-05 21:21 UTC",
+        "last_updated": "2025-12-05 22:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.41,
-            "change": "-1.72%"
+            "change": "-0.7%"
         },
         {
             "symbol": "AMD",
             "price": 217.97,
-            "change": "+1.16%"
+            "change": "-1.48%"
         },
         {
             "symbol": "MSFT",
             "price": 483.16,
-            "change": "-1.39%"
+            "change": "+1.38%"
         },
         {
             "symbol": "CEG",
             "price": 359.82,
-            "change": "-2.22%"
+            "change": "+0.33%"
         },
         {
             "symbol": "VST",
             "price": 167.17,
-            "change": "-2.13%"
+            "change": "-2.8%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.52,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
+            0.52,
+            0.52,
+            0.51,
+            0.52,
+            0.53,
+            0.52,
             0.51,
             0.51,
+            0.51,
             0.5,
             0.5,
-            0.49,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            25.56,
-            25.57,
-            25.57,
-            25.4,
-            25.18,
-            25.1,
-            25.11,
-            24.92,
-            25.07,
             25.23,
-            25.34,
-            25.41
+            25.55,
+            25.64,
+            25.19,
+            25.23,
+            24.86,
+            24.78,
+            24.98,
+            25.29,
+            25.36,
+            25.45,
+            25.1
         ],
         "hsd_history_software": [
-            10.02,
-            9.95,
-            10.09,
-            10.11,
-            9.98,
+            9.77,
+            9.85,
+            9.66,
+            9.71,
+            9.76,
+            9.89,
+            9.76,
             9.94,
+            9.79,
+            9.86,
             9.93,
-            10.04,
-            10.24,
-            10.13,
-            10.16,
-            10.0
+            10.09
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:07",
+            "time": "21:01",
             "tag": "MERCADO",
-            "text": "PPG to Launch VISUALIZID Software for DELFLEET Evolution Commercial Vehicle Coatings in U.S. and Canada"
+            "text": " Verisign Reports Total Domain Registrations Worldwide Reached Over 378 Million at the End of 3Q-2025, Leaping by More Than 16 Million From a Year Ago"
         },
         {
-            "time": "20:00",
-            "tag": "MERCADO",
-            "text": "Puma For Sale; Paramount Complains About Netflix, WBD - Lowe's Companies (NYSE:LOW), Home Depot (NYSE:HD)"
+            "time": "20:44",
+            "tag": "AI",
+            "text": " Applied Materials (AMAT) Is Up 7.8% After Strong AI-Driven Quarter and Upbeat Guidance - What's Changed"
         },
         {
-            "time": "19:47",
+            "time": "20:32",
             "tag": "MERCADO",
-            "text": "Alphabet (GOOGL) Stock: Why Warren Buffett Just Bet $4 Billion on Google\u2019s Future"
+            "text": "Will my Netflix subscription go up after Warner Bros Discovery deal? What to know in Tennessee"
         },
         {
-            "time": "19:39",
+            "time": "20:20",
             "tag": "MERCADO",
-            "text": "Fitch Affirms Rockwell Automation's IDR at 'A'; Outlook Stable"
+            "text": "Super Micro Computer, Inc. (SMCI): A Bull Case Theory"
         },
         {
-            "time": "19:23",
-            "tag": "MERCADO",
-            "text": " Netflix and Warner Bros.: Surprisingly High Merger Price Alters Shareholder Value for Both"
+            "time": "20:19",
+            "tag": "AI",
+            "text": "Microsoft 365 to include more AI tools \u2013 at a higher price"
         }
     ]
 }
