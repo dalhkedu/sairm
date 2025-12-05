@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-05 07:24 UTC",
+        "last_updated": "2025-12-05 08:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.38,
-            "change": "+1.62%"
+            "change": "-0.6%"
         },
         {
             "symbol": "AMD",
             "price": 215.98,
-            "change": "+2.88%"
+            "change": "-2.35%"
         },
         {
             "symbol": "MSFT",
             "price": 480.84,
-            "change": "-0.77%"
+            "change": "+1.45%"
         },
         {
             "symbol": "CEG",
             "price": 368.62,
-            "change": "+2.46%"
+            "change": "-0.74%"
         },
         {
             "symbol": "VST",
             "price": 176.07,
-            "change": "+0.79%"
+            "change": "-2.2%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.61,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
+            0.47,
             0.48,
             0.48,
             0.48,
             0.49,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.51
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            23.95,
-            24.07,
-            23.64,
-            23.65,
-            23.89,
-            23.89,
-            23.97,
-            24.14,
-            24.26,
-            23.97,
-            24.13,
-            24.59
+            25.14,
+            24.72,
+            24.38,
+            24.48,
+            24.58,
+            24.7,
+            24.45,
+            24.94,
+            24.68,
+            24.76,
+            24.89,
+            25.29
         ],
         "hsd_history_software": [
-            10.04,
-            9.88,
-            9.95,
-            9.96,
-            9.95,
-            10.14,
-            10.27,
-            10.07,
-            9.99,
-            9.89,
-            9.78,
-            9.87
+            10.4,
+            10.28,
+            10.37,
+            10.4,
+            10.45,
+            10.37,
+            10.39,
+            10.26,
+            10.16,
+            10.12,
+            9.97,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "06:26",
+            "tag": "AI",
+            "text": " Will IBM Cloud Powering Zyphra\u2019s AMD-Based Frontier AI Training Change International Business Machines' (IBM) Narrative?"
+        },
+        {
             "time": "05:08",
             "tag": "MERCADO",
             "text": " Equinix inks third solar agreement in Singapore to boost clean energy"
@@ -144,11 +149,6 @@
             "time": "04:08",
             "tag": "MERCADO",
             "text": "Jim Cramer on Amazon: \"Wall Street Only Seems to Care About Amazon Web Services\""
-        },
-        {
-            "time": "03:25",
-            "tag": "MERCADO",
-            "text": " Wall Street Analysts Tout Texas Instruments Incorporated (TXN) Growth Prospects amid Weak Guidance"
         }
     ]
 }
