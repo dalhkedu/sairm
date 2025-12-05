@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-05 08:32 UTC",
+        "last_updated": "2025-12-05 09:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.38,
-            "change": "-0.6%"
+            "change": "-1.78%"
         },
         {
             "symbol": "AMD",
             "price": 215.98,
-            "change": "-2.35%"
+            "change": "-0.83%"
         },
         {
             "symbol": "MSFT",
             "price": 480.84,
-            "change": "+1.45%"
+            "change": "-0.09%"
         },
         {
             "symbol": "CEG",
             "price": 368.62,
-            "change": "-0.74%"
+            "change": "+0.37%"
         },
         {
             "symbol": "VST",
             "price": 176.07,
-            "change": "-2.2%"
+            "change": "+0.96%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.49,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.48,
+            0.46,
             0.47,
             0.48,
             0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.5,
             0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            25.14,
-            24.72,
-            24.38,
-            24.48,
-            24.58,
-            24.7,
-            24.45,
-            24.94,
-            24.68,
-            24.76,
-            24.89,
-            25.29
+            25.78,
+            26.09,
+            25.63,
+            26.09,
+            25.65,
+            25.29,
+            25.4,
+            25.25,
+            25.21,
+            25.43,
+            24.96,
+            24.75
         ],
         "hsd_history_software": [
-            10.4,
-            10.28,
-            10.37,
-            10.4,
-            10.45,
-            10.37,
-            10.39,
-            10.26,
-            10.16,
-            10.12,
-            9.97,
-            9.82
+            10.07,
+            10.0,
+            10.19,
+            10.2,
+            10.18,
+            10.14,
+            10.14,
+            10.22,
+            10.32,
+            10.19,
+            10.09,
+            10.04
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "08:28",
+            "tag": "MERCADO",
+            "text": " 1832 Asset Management L.P. Invests $12.44 Million in Seagate Technology Holdings PLC $STX"
+        },
+        {
+            "time": "08:26",
+            "tag": "MERCADO",
+            "text": "NetApp, Inc. $NTAP Stake Lowered by American Century Companies Inc."
+        },
+        {
+            "time": "07:37",
+            "tag": "MERCADO",
+            "text": " Microsoft Corporation (NASDAQ:MSFT) Receives Average Rating of \"Moderate Buy\" from Analysts"
+        },
+        {
             "time": "06:26",
             "tag": "AI",
             "text": " Will IBM Cloud Powering Zyphra\u2019s AMD-Based Frontier AI Training Change International Business Machines' (IBM) Narrative?"
@@ -134,21 +149,6 @@
             "time": "05:08",
             "tag": "MERCADO",
             "text": " Equinix inks third solar agreement in Singapore to boost clean energy"
-        },
-        {
-            "time": "05:08",
-            "tag": "MERCADO",
-            "text": " Is Advanced Micro Devices, Inc. (AMD) One of the Best Augmented Reality Stocks to Buy Right Now?"
-        },
-        {
-            "time": "04:32",
-            "tag": "AI",
-            "text": "NetApp Collaborates with AWS to bring Enterprise Data to AWS AI Services"
-        },
-        {
-            "time": "04:08",
-            "tag": "MERCADO",
-            "text": "Jim Cramer on Amazon: \"Wall Street Only Seems to Care About Amazon Web Services\""
         }
     ]
 }
