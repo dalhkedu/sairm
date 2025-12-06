@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-06 20:24 UTC",
+        "last_updated": "2025-12-06 21:19 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.41,
-            "change": "-1.31%"
+            "change": "-1.09%"
         },
         {
             "symbol": "AMD",
             "price": 217.97,
-            "change": "+3.2%"
+            "change": "+0.83%"
         },
         {
             "symbol": "MSFT",
             "price": 483.16,
-            "change": "-0.44%"
+            "change": "+3.27%"
         },
         {
             "symbol": "CEG",
             "price": 359.82,
-            "change": "+1.8%"
+            "change": "+0.32%"
         },
         {
             "symbol": "VST",
             "price": 167.17,
-            "change": "+0.01%"
+            "change": "-0.69%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.49,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
+            0.49,
+            0.49,
             0.48,
-            0.48,
-            0.47,
-            0.47,
             0.48,
             0.48,
             0.49,
             0.49,
             0.49,
-            0.5
+            0.5,
+            0.49,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            23.53,
-            23.57,
-            23.85,
-            24.04,
-            24.12,
-            23.98,
-            24.35,
-            24.5,
-            24.9,
-            25.07,
-            25.43,
-            25.07
+            27.83,
+            27.48,
+            26.96,
+            26.96,
+            26.57,
+            26.4,
+            25.99,
+            26.08,
+            25.63,
+            25.22,
+            24.98,
+            24.52
         ],
         "hsd_history_software": [
-            10.24,
-            10.15,
-            10.31,
-            10.13,
-            10.1,
-            10.24,
-            10.43,
-            10.37,
-            10.18,
-            10.38,
-            10.19,
-            10.2
+            9.57,
+            9.76,
+            9.87,
+            9.93,
+            9.73,
+            9.86,
+            9.92,
+            10.01,
+            9.83,
+            10.0,
+            10.2,
+            10.11
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "20:07",
+            "tag": "AI",
+            "text": "S&P Global partners with AWS to deliver AI-driven market insights"
+        },
+        {
+            "time": "19:41",
+            "tag": "MERCADO",
+            "text": " Barclays Turns Cautious on American Tower (AMT) Amid EchoStar Risks"
+        },
+        {
+            "time": "18:10",
+            "tag": "MERCADO",
+            "text": " Wells Fargo Sees Solid Outlook for MAA Despite Price Target Cut"
+        },
+        {
             "time": "16:36",
             "tag": "MERCADO",
             "text": "JPMorgan Chase & Co. Cuts Docusign (NASDAQ:DOCU) Price Target to $78.00"
@@ -134,21 +149,6 @@
             "time": "16:15",
             "tag": "MERCADO",
             "text": " SPDR S&P 500 ETF Trust Sees Positive Fund Flows"
-        },
-        {
-            "time": "15:58",
-            "tag": "MERCADO",
-            "text": " JPMorgan Chase & Co. Increases Samsara (NYSE:IOT) Price Target to $48.00"
-        },
-        {
-            "time": "15:08",
-            "tag": "MERCADO",
-            "text": " A Thanksgiving Dealmaking Sprint Helped Netflix Win Warner Bros Discovery"
-        },
-        {
-            "time": "14:08",
-            "tag": "MERCADO",
-            "text": "Intel Stock (INTC) on December 6, 2025: Nvidia Stake, Apple Foundry Rumors and Wall Street Forecasts"
         }
     ]
 }
