@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-06 14:19 UTC",
+        "last_updated": "2025-12-06 15:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.41,
-            "change": "-2.87%"
+            "change": "-3.24%"
         },
         {
             "symbol": "AMD",
             "price": 217.97,
-            "change": "+0.62%"
+            "change": "+2.55%"
         },
         {
             "symbol": "MSFT",
             "price": 483.16,
-            "change": "+1.76%"
+            "change": "+2.07%"
         },
         {
             "symbol": "CEG",
             "price": 359.82,
-            "change": "+0.85%"
+            "change": "-2.26%"
         },
         {
             "symbol": "VST",
             "price": 167.17,
-            "change": "-0.01%"
+            "change": "-2.11%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.68,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.53,
+            0.52,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            23.54,
-            23.48,
-            23.88,
-            23.84,
-            24.31,
-            24.12,
-            24.43,
-            24.49,
+            24.26,
+            24.55,
+            24.37,
+            24.68,
+            24.51,
+            24.41,
+            24.6,
+            24.56,
+            25.04,
             24.81,
-            24.7,
-            24.93,
-            25.17
+            24.82,
+            25.27
         ],
         "hsd_history_software": [
-            9.83,
-            9.78,
-            9.83,
-            9.93,
-            10.04,
-            9.97,
-            9.97,
-            9.88,
-            9.86,
-            9.84,
+            10.05,
             9.91,
-            9.81
+            9.76,
+            9.69,
+            9.57,
+            9.55,
+            9.72,
+            9.87,
+            9.88,
+            9.76,
+            9.85,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "14:04",
+            "tag": "MERCADO",
+            "text": " Western Digital (NASDAQ:WDC) Now Covered by Analysts at China Renaissance"
+        },
+        {
+            "time": "13:48",
+            "tag": "MERCADO",
+            "text": " Aptiv Appoints H\u00e5kan Agnevall to Board of Directors"
+        },
+        {
+            "time": "13:31",
+            "tag": "MERCADO",
+            "text": " Oracle (ORCL): New Buy Recommendation for This Technology Giant"
+        },
+        {
+            "time": "13:08",
+            "tag": "MERCADO",
+            "text": " Microchip Technology (MCHP) Climbs 22.8% on Upbeat Outlook"
+        },
+        {
             "time": "12:40",
             "tag": "MERCADO",
             "text": " Stenger Family Office LLC Invests $1.94 Million in Texas Instruments Incorporated $TXN"
-        },
-        {
-            "time": "12:00",
-            "tag": "MERCADO",
-            "text": " Seaview Investment Managers LLC Has $11.04 Million Stock Holdings in Salesforce Inc. $CRM"
-        },
-        {
-            "time": "11:56",
-            "tag": "MERCADO",
-            "text": " Analysts Offer Insights on Technology Companies: Samsara (IOT), Hewlett Packard Enterprise (HPE) and DocuSign (DOCU)"
-        },
-        {
-            "time": "11:49",
-            "tag": "MERCADO",
-            "text": " Mirabella Financial Services LLP Buys New Position in NetApp, Inc. $NTAP"
-        },
-        {
-            "time": "11:44",
-            "tag": "MERCADO",
-            "text": " SCS Capital Management LLC Has $5.75 Million Stock Position in Digital Realty Trust, Inc. $DLR"
         }
     ]
 }
