@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-06 01:45 UTC",
+        "last_updated": "2025-12-06 03:12 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.41,
-            "change": "-2.88%"
+            "change": "-0.8%"
         },
         {
             "symbol": "AMD",
             "price": 217.97,
-            "change": "-0.77%"
+            "change": "+1.73%"
         },
         {
             "symbol": "MSFT",
             "price": 483.16,
-            "change": "+3.48%"
+            "change": "-2.53%"
         },
         {
             "symbol": "CEG",
             "price": 359.82,
-            "change": "-1.66%"
+            "change": "+3.48%"
         },
         {
             "symbol": "VST",
             "price": 167.17,
-            "change": "-1.05%"
+            "change": "+3.3%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.47,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.48,
             0.49,
             0.49,
             0.49,
+            0.5,
+            0.5,
             0.49,
             0.49,
             0.5,
             0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            25.03,
-            25.15,
-            25.63,
-            25.56,
-            25.69,
-            25.18,
-            25.58,
+            24.42,
+            24.83,
+            24.43,
+            24.75,
+            24.89,
+            24.99,
+            24.83,
+            24.74,
+            24.9,
+            24.73,
             25.13,
-            25.53,
-            25.56,
-            25.68,
-            25.26
+            24.72
         ],
         "hsd_history_software": [
-            10.22,
-            10.12,
-            10.22,
-            10.12,
-            10.13,
-            10.26,
-            10.37,
-            10.19,
-            10.26,
-            10.09,
-            10.07,
-            10.19
+            9.87,
+            9.72,
+            9.84,
+            9.82,
+            9.8,
+            9.71,
+            9.78,
+            9.8,
+            9.62,
+            9.57,
+            9.7,
+            9.88
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "01:57",
+            "tag": "MERCADO",
+            "text": " Hewlett Packard Enterprise (HPE): TTM Net Loss Challenges Bullish Margin-Recovery Narrative"
+        },
+        {
+            "time": "01:16",
+            "tag": "MERCADO",
+            "text": "Rockwell Automation SVP house sells $149k in shares"
+        },
+        {
+            "time": "01:16",
+            "tag": "MERCADO",
+            "text": "Rockwell Automation VP Woods sells $27,396 in shares"
+        },
+        {
+            "time": "01:15",
+            "tag": "MERCADO",
+            "text": " Insider Selling: Enphase Energy (NASDAQ:ENPH) Director Sells 150,000 Shares of Stock"
+        },
+        {
             "time": "23:49",
             "tag": "MERCADO",
             "text": "Alphabet CEO Pichai Sundar sells $10.3m in GOOGL stock"
-        },
-        {
-            "time": "22:29",
-            "tag": "RESULTADOS",
-            "text": " Fair Isaac (FICO): Valuation Check After Strong Q4 Earnings Beat and Scores Revenue Growth"
-        },
-        {
-            "time": "22:27",
-            "tag": "MERCADO",
-            "text": "Samsung Forms Custom SoC Team for Galaxy Phones to Challenge Qualcomm"
-        },
-        {
-            "time": "22:22",
-            "tag": "AI",
-            "text": " Fermi America secures power deal with Xcel Energy subsidiary for AI campus"
-        },
-        {
-            "time": "22:21",
-            "tag": "MERCADO",
-            "text": " Herkes Claire, evp at Gartner, sells $84982 in stock"
         }
     ]
 }
