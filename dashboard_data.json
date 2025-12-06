@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-06 04:26 UTC",
+        "last_updated": "2025-12-06 05:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.41,
-            "change": "-2.04%"
+            "change": "+2.77%"
         },
         {
             "symbol": "AMD",
             "price": 217.97,
-            "change": "-3.32%"
+            "change": "+1.03%"
         },
         {
             "symbol": "MSFT",
             "price": 483.16,
-            "change": "+3.0%"
+            "change": "+2.81%"
         },
         {
             "symbol": "CEG",
             "price": 359.82,
-            "change": "+0.95%"
+            "change": "-1.85%"
         },
         {
             "symbol": "VST",
             "price": 167.17,
-            "change": "-0.37%"
+            "change": "+1.12%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.46,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.48,
             0.48,
+            0.48,
+            0.48,
+            0.47,
             0.47,
             0.48,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.5
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.23,
-            25.35,
-            25.03,
-            25.16,
-            25.43,
-            25.0,
-            24.91,
+            24.82,
+            24.47,
+            24.67,
+            24.86,
             24.9,
-            24.92,
-            24.85,
-            25.28,
-            25.41
+            24.86,
+            25.16,
+            25.33,
+            25.7,
+            25.5,
+            25.7,
+            25.26
         ],
         "hsd_history_software": [
-            9.64,
-            9.69,
-            9.57,
-            9.51,
-            9.53,
-            9.44,
-            9.27,
-            9.45,
-            9.6,
-            9.72,
-            9.67,
-            9.83
+            10.23,
+            10.25,
+            10.16,
+            10.07,
+            10.25,
+            10.24,
+            10.17,
+            10.17,
+            10.29,
+            10.17,
+            10.14,
+            10.19
         ],
         "rci_data": [
             85.0,
@@ -131,6 +131,11 @@
             "text": " Equinix (EQIX): Revisiting Valuation After a 21% Year-to-Date Share Price Decline"
         },
         {
+            "time": "02:22",
+            "tag": "MERCADO",
+            "text": " Equinix (EQIX): Revisiting Valuation After a 21% Year-to-Date Share Price Decline"
+        },
+        {
             "time": "01:57",
             "tag": "MERCADO",
             "text": " Hewlett Packard Enterprise (HPE): TTM Net Loss Challenges Bullish Margin-Recovery Narrative"
@@ -144,11 +149,6 @@
             "time": "01:16",
             "tag": "MERCADO",
             "text": "Rockwell Automation SVP house sells $149k in shares"
-        },
-        {
-            "time": "01:16",
-            "tag": "MERCADO",
-            "text": "Rockwell Automation VP Woods sells $27,396 in shares"
         }
     ]
 }
