@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-06 07:21 UTC",
+        "last_updated": "2025-12-06 08:28 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.41,
-            "change": "-2.64%"
+            "change": "+1.14%"
         },
         {
             "symbol": "AMD",
             "price": 217.97,
-            "change": "-1.89%"
+            "change": "-2.59%"
         },
         {
             "symbol": "MSFT",
             "price": 483.16,
-            "change": "-3.22%"
+            "change": "+2.53%"
         },
         {
             "symbol": "CEG",
             "price": 359.82,
-            "change": "+0.8%"
+            "change": "-2.65%"
         },
         {
             "symbol": "VST",
             "price": 167.17,
-            "change": "+2.78%"
+            "change": "+1.92%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.67,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.51,
+            0.52,
             0.53,
-            0.54,
             0.53,
             0.52,
+            0.53,
+            0.53,
             0.52,
             0.52,
             0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            23.76,
-            23.56,
-            24.04,
-            23.76,
-            23.96,
-            24.28,
-            24.25,
-            24.62,
-            25.04,
             24.89,
-            25.28,
-            25.5
+            25.03,
+            24.87,
+            25.13,
+            25.38,
+            25.07,
+            25.43,
+            24.96,
+            24.87,
+            25.02,
+            24.56,
+            25.03
         ],
         "hsd_history_software": [
+            9.86,
+            9.93,
+            10.13,
             10.2,
-            10.06,
+            10.02,
+            10.16,
+            10.07,
+            9.92,
+            9.89,
             9.87,
-            9.97,
-            9.78,
-            9.61,
-            9.58,
-            9.49,
-            9.51,
-            9.62,
-            9.81,
-            9.8
+            9.82,
+            9.86
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "06:30",
+            "tag": "MERCADO",
+            "text": "Is Intuit (INTU) Turning SMB Ad Data Into a Durable Moat or a Side Business?"
+        },
+        {
             "time": "05:08",
             "tag": "AI",
             "text": " Caterpillar accelerates AI, data transformation with Accenture, Snowflake"
@@ -142,11 +147,6 @@
         },
         {
             "time": "02:25",
-            "tag": "MERCADO",
-            "text": " Equinix (EQIX): Revisiting Valuation After a 21% Year-to-Date Share Price Decline"
-        },
-        {
-            "time": "02:22",
             "tag": "MERCADO",
             "text": " Equinix (EQIX): Revisiting Valuation After a 21% Year-to-Date Share Price Decline"
         }
