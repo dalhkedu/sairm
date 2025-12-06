@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-06 13:29 UTC",
+        "last_updated": "2025-12-06 14:19 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.41,
-            "change": "-2.9%"
+            "change": "-2.87%"
         },
         {
             "symbol": "AMD",
             "price": 217.97,
-            "change": "+0.73%"
+            "change": "+0.62%"
         },
         {
             "symbol": "MSFT",
             "price": 483.16,
-            "change": "+3.36%"
+            "change": "+1.76%"
         },
         {
             "symbol": "CEG",
             "price": 359.82,
-            "change": "+1.52%"
+            "change": "+0.85%"
         },
         {
             "symbol": "VST",
             "price": 167.17,
-            "change": "-0.76%"
+            "change": "-0.01%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.66,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
-            0.5,
+            0.48,
+            0.48,
+            0.48,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
             0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
+            0.48,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.8,
+            23.54,
+            23.48,
+            23.88,
+            23.84,
+            24.31,
+            24.12,
+            24.43,
             24.49,
-            24.11,
-            23.78,
-            24.14,
-            24.54,
-            24.9,
-            25.04,
-            24.85,
-            24.38,
-            24.42,
-            24.87
+            24.81,
+            24.7,
+            24.93,
+            25.17
         ],
         "hsd_history_software": [
-            9.49,
-            9.67,
+            9.83,
+            9.78,
+            9.83,
+            9.93,
+            10.04,
+            9.97,
+            9.97,
+            9.88,
             9.86,
-            10.0,
-            10.16,
-            10.34,
-            10.34,
-            10.28,
-            10.25,
-            10.11,
-            10.15,
-            9.97
+            9.84,
+            9.91,
+            9.81
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "12:40",
+            "tag": "MERCADO",
+            "text": " Stenger Family Office LLC Invests $1.94 Million in Texas Instruments Incorporated $TXN"
+        },
+        {
             "time": "12:00",
             "tag": "MERCADO",
             "text": " Seaview Investment Managers LLC Has $11.04 Million Stock Holdings in Salesforce Inc. $CRM"
@@ -144,11 +149,6 @@
             "time": "11:44",
             "tag": "MERCADO",
             "text": " SCS Capital Management LLC Has $5.75 Million Stock Position in Digital Realty Trust, Inc. $DLR"
-        },
-        {
-            "time": "11:36",
-            "tag": "AI",
-            "text": " Why NetApp (NTAP) Is Up 5.1% After Deepening AWS AI Integration With ONTAP Data Access"
         }
     ]
 }
