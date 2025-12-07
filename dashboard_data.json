@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-07 22:20 UTC",
+        "last_updated": "2025-12-07 23:20 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.41,
-            "change": "-0.38%"
+            "change": "-2.88%"
         },
         {
             "symbol": "AMD",
             "price": 217.97,
-            "change": "-3.05%"
+            "change": "+0.84%"
         },
         {
             "symbol": "MSFT",
             "price": 483.16,
-            "change": "-1.02%"
+            "change": "+2.3%"
         },
         {
             "symbol": "CEG",
             "price": 359.82,
-            "change": "-0.8%"
+            "change": "+1.2%"
         },
         {
             "symbol": "VST",
             "price": 167.17,
-            "change": "+3.0%"
+            "change": "-0.31%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.42,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.51,
+            0.52,
             0.51,
             0.51,
             0.51,
             0.5,
             0.5,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.49
+            0.51
         ],
         "hsd_history_hardware": [
-            23.62,
-            23.37,
-            23.82,
-            24.28,
-            24.25,
-            24.65,
-            24.82,
-            25.24,
-            25.7,
-            26.21,
-            25.94,
-            25.46
+            24.76,
+            24.41,
+            23.93,
+            23.55,
+            23.92,
+            23.88,
+            24.08,
+            24.22,
+            24.1,
+            24.24,
+            24.35,
+            24.61
         ],
         "hsd_history_software": [
-            9.98,
-            9.84,
-            9.93,
-            9.86,
-            9.75,
-            9.88,
-            9.71,
-            9.61,
+            9.57,
+            9.45,
+            9.57,
+            9.53,
+            9.69,
             9.73,
-            9.76,
-            9.85,
-            9.95
+            9.88,
+            9.9,
+            10.03,
+            10.02,
+            10.04,
+            9.94
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "21:18",
+            "tag": "MERCADO",
+            "text": " VOO ETF Nears $634 High and 10% EPS Growth Signal 2026 Upside Toward $700"
+        },
+        {
             "time": "19:46",
             "tag": "AI",
             "text": " AI-Powered Police Body Cameras, Once Taboo, Get Tested on Canadian City's 'Watch List' of Faces"
@@ -144,11 +149,6 @@
             "time": "16:08",
             "tag": "MERCADO",
             "text": " Levi & Korsinsky Notifies Synopsys, Inc. (SNPS) Shareholders of Class Action Lawsuit and December 30, 2025 Deadline"
-        },
-        {
-            "time": "15:58",
-            "tag": "MERCADO",
-            "text": " Tyler Technologies Expands K-12 Capabilities With Acquisition Of Edulink"
         }
     ]
 }
