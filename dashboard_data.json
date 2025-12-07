@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-07 08:28 UTC",
+        "last_updated": "2025-12-07 09:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.41,
-            "change": "-2.84%"
+            "change": "+3.02%"
         },
         {
             "symbol": "AMD",
             "price": 217.97,
-            "change": "-0.22%"
+            "change": "-2.48%"
         },
         {
             "symbol": "MSFT",
             "price": 483.16,
-            "change": "-3.05%"
+            "change": "+3.38%"
         },
         {
             "symbol": "CEG",
             "price": 359.82,
-            "change": "+2.14%"
+            "change": "-0.44%"
         },
         {
             "symbol": "VST",
             "price": 167.17,
-            "change": "-0.19%"
+            "change": "-3.41%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.44,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
+            0.47,
             0.48,
-            0.49,
+            0.48,
             0.49,
             0.48,
             0.48,
+            0.49,
+            0.48,
+            0.49,
             0.49,
             0.5,
-            0.49,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            25.26,
-            24.88,
-            24.74,
-            24.44,
-            24.48,
-            24.02,
-            24.01,
-            24.26,
-            24.43,
-            24.75,
-            24.73,
-            24.93
+            27.07,
+            26.56,
+            26.28,
+            26.56,
+            26.11,
+            26.55,
+            26.05,
+            26.05,
+            25.91,
+            25.58,
+            25.13,
+            25.26
         ],
         "hsd_history_software": [
-            9.25,
-            9.33,
-            9.46,
-            9.51,
-            9.53,
-            9.55,
-            9.63,
-            9.77,
-            9.81,
-            9.82,
-            9.97,
-            10.03
+            10.06,
+            10.0,
+            10.0,
+            9.89,
+            9.94,
+            9.83,
+            9.98,
+            9.9,
+            9.84,
+            9.83,
+            9.87,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -131,6 +131,11 @@
             "text": " How IFF\u2019s New Robotic Fragrance System Could Reshape Its Innovation Edge for Investors (IFF)"
         },
         {
+            "time": "05:08",
+            "tag": "AI",
+            "text": " Nvidia vs. AMD: Which Is the Better AI Chip Stock for 2026?"
+        },
+        {
             "time": "02:51",
             "tag": "RESULTADOS",
             "text": "HPE Earnings Call: Networking Growth and Strategic Moves"
@@ -144,11 +149,6 @@
             "time": "01:54",
             "tag": "MERCADO",
             "text": " Is Enphase (ENPH) Quietly Turning Into a Full-Stack Home Energy Platform With Its New EV Charger?"
-        },
-        {
-            "time": "01:09",
-            "tag": "RESULTADOS",
-            "text": " CICC Initiates Linde (LIN) With Outperform as Earnings Hit New Highs"
         }
     ]
 }
