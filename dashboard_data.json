@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-07 14:20 UTC",
+        "last_updated": "2025-12-07 15:20 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.41,
-            "change": "-2.83%"
+            "change": "+3.07%"
         },
         {
             "symbol": "AMD",
             "price": 217.97,
-            "change": "+1.62%"
+            "change": "-0.91%"
         },
         {
             "symbol": "MSFT",
             "price": 483.16,
-            "change": "-1.06%"
+            "change": "+0.91%"
         },
         {
             "symbol": "CEG",
             "price": 359.82,
-            "change": "+1.14%"
+            "change": "+2.62%"
         },
         {
             "symbol": "VST",
-            "price": 167.17,
-            "change": "+0.8%"
+            "price": NaN,
+            "change": "+0.39%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.44,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
             0.49,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.89,
-            24.71,
-            24.59,
-            24.59,
-            24.22,
-            23.84,
-            24.13,
-            24.59,
-            24.68,
-            24.76,
-            25.11,
-            25.4
+            24.09,
+            24.38,
+            23.98,
+            24.04,
+            24.3,
+            24.17,
+            23.9,
+            24.28,
+            24.53,
+            24.55,
+            24.82,
+            24.66
         ],
         "hsd_history_software": [
-            9.29,
-            9.41,
-            9.51,
-            9.7,
-            9.86,
+            10.45,
+            10.26,
+            10.44,
+            10.44,
+            10.35,
+            10.19,
+            10.15,
+            10.02,
+            10.01,
+            10.0,
             9.94,
-            9.77,
-            9.97,
-            10.03,
-            10.09,
-            10.18,
-            10.19
+            9.81
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "13:53",
+            "tag": "MERCADO",
+            "text": " Analog Devices (ADI) Is Up 6.0% After Strong Q4 Results And Higher Capital Returns Is The Bull Case Changing?"
+        },
+        {
+            "time": "13:09",
+            "tag": "MERCADO",
+            "text": " Costco Holds Steady While Walmart Bets Big on E-Commerce Transformation"
+        },
+        {
             "time": "12:12",
             "tag": "MERCADO",
             "text": " Federated Hermes Inc. Has $189.40 Million Holdings in Salesforce Inc. $CRM"
@@ -139,16 +149,6 @@
             "time": "12:12",
             "tag": "MERCADO",
             "text": " Federated Hermes Inc. Acquires 15,452 Shares of Tyler Technologies, Inc. $TYL"
-        },
-        {
-            "time": "12:09",
-            "tag": "MERCADO",
-            "text": "SNPS INVESTOR ALERT: Bronstein, Gewirtz and Grossman, LLC Announces that Synopsys, Inc. Shareholders with Substantial Losses Have Opportunity to Lead Class Action Lawsuit!"
-        },
-        {
-            "time": "12:08",
-            "tag": "MERCADO",
-            "text": " Broadcom Inc. (NASDAQ:AVGO) Shares Could Be 28% Above Their Intrinsic Value Estimate"
         }
     ]
 }
