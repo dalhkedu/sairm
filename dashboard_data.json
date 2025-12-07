@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-07 11:17 UTC",
+        "last_updated": "2025-12-07 12:42 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.41,
-            "change": "-1.16%"
+            "change": "-0.59%"
         },
         {
             "symbol": "AMD",
             "price": 217.97,
-            "change": "+2.69%"
+            "change": "+2.37%"
         },
         {
             "symbol": "MSFT",
             "price": 483.16,
-            "change": "-1.25%"
+            "change": "+2.99%"
         },
         {
             "symbol": "CEG",
             "price": 359.82,
-            "change": "+2.02%"
+            "change": "+2.11%"
         },
         {
             "symbol": "VST",
             "price": 167.17,
-            "change": "+0.19%"
+            "change": "-0.7%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.55,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
             0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
             0.5,
             0.51,
-            0.51,
-            0.5
+            0.5,
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            23.48,
-            23.57,
-            23.37,
-            23.74,
-            23.41,
-            23.34,
-            23.2,
-            23.18,
-            23.37,
-            23.81,
-            24.18,
-            24.54
+            23.94,
+            23.78,
+            23.85,
+            24.11,
+            23.71,
+            23.93,
+            23.88,
+            24.15,
+            24.05,
+            24.42,
+            24.41,
+            24.51
         ],
         "hsd_history_software": [
+            10.09,
+            10.11,
+            10.14,
+            10.18,
+            10.19,
+            10.11,
+            10.18,
+            10.26,
+            10.16,
             9.98,
-            9.84,
-            9.88,
-            10.0,
-            9.97,
-            9.95,
-            9.97,
-            10.04,
-            10.12,
-            9.94,
-            9.82,
-            9.86
+            9.89,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:32",
+            "time": "12:08",
             "tag": "MERCADO",
-            "text": "Intuit Inc. $INTU Shares Purchased by California Public Employees Retirement System"
+            "text": " Westpac Banking Corp Raises Holdings in NVIDIA Corporation $NVDA"
         },
         {
-            "time": "08:52",
-            "tag": "MERCADO",
-            "text": " Bollard Group LLC Has $147.29 Million Stock Holdings in Gartner, Inc. $IT"
+            "time": "11:26",
+            "tag": "AI",
+            "text": " AI-powered police body cameras, once taboo, get tested on Canadian city's 'watch list' of faces"
         },
         {
-            "time": "08:18",
+            "time": "11:13",
             "tag": "MERCADO",
-            "text": " Amundi Acquires 361,182 Shares of Take-Two Interactive Software, Inc. $TTWO"
+            "text": " Marshall Wace LLP Boosts Holdings in Teledyne Technologies Incorporated $TDY"
         },
         {
-            "time": "08:14",
+            "time": "10:33",
             "tag": "MERCADO",
-            "text": " 1832 Asset Management L.P. Invests $2.23 Million in Gartner, Inc. $IT"
+            "text": " Lido Advisors LLC Sells 9,956 Shares of Western Digital Corporation $WDC"
         },
         {
-            "time": "08:13",
+            "time": "10:33",
             "tag": "MERCADO",
-            "text": " Amundi Has $237.27 Million Position in NetApp, Inc. $NTAP"
+            "text": " Panagora Asset Management Inc. Has $520,000 Stock Position in Tyler Technologies, Inc. $TYL"
         }
     ]
 }
