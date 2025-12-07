@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-07 15:20 UTC",
+        "last_updated": "2025-12-07 16:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.41,
-            "change": "+3.07%"
+            "change": "-3.26%"
         },
         {
             "symbol": "AMD",
             "price": 217.97,
-            "change": "-0.91%"
+            "change": "-1.11%"
         },
         {
             "symbol": "MSFT",
             "price": 483.16,
-            "change": "+0.91%"
+            "change": "+1.94%"
         },
         {
             "symbol": "CEG",
             "price": 359.82,
-            "change": "+2.62%"
+            "change": "+0.41%"
         },
         {
             "symbol": "VST",
-            "price": NaN,
-            "change": "+0.39%"
+            "price": 167.17,
+            "change": "-2.4%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.51,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
+            0.51,
+            0.5,
             0.49,
             0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.09,
-            24.38,
-            23.98,
-            24.04,
-            24.3,
-            24.17,
-            23.9,
-            24.28,
-            24.53,
-            24.55,
-            24.82,
-            24.66
+            25.76,
+            25.46,
+            25.43,
+            24.95,
+            25.0,
+            25.36,
+            25.49,
+            25.59,
+            25.48,
+            25.03,
+            24.94,
+            24.65
         ],
         "hsd_history_software": [
-            10.45,
-            10.26,
-            10.44,
-            10.44,
-            10.35,
-            10.19,
-            10.15,
-            10.02,
-            10.01,
-            10.0,
-            9.94,
-            9.81
+            9.26,
+            9.35,
+            9.51,
+            9.61,
+            9.66,
+            9.5,
+            9.62,
+            9.57,
+            9.72,
+            9.87,
+            9.95,
+            10.13
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "14:10",
+            "tag": "MERCADO",
+            "text": "Hate Microsoft Copilot? So does everyone else. Too bad"
+        },
+        {
             "time": "13:53",
             "tag": "MERCADO",
             "text": " Analog Devices (ADI) Is Up 6.0% After Strong Q4 Results And Higher Capital Returns Is The Bull Case Changing?"
@@ -144,11 +149,6 @@
             "time": "12:12",
             "tag": "MERCADO",
             "text": "Federated Hermes Inc. Sells 185,332 Shares of Verizon Communications Inc. $VZ"
-        },
-        {
-            "time": "12:12",
-            "tag": "MERCADO",
-            "text": " Federated Hermes Inc. Acquires 15,452 Shares of Tyler Technologies, Inc. $TYL"
         }
     ]
 }
