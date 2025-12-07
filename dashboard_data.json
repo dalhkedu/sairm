@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-07 16:26 UTC",
+        "last_updated": "2025-12-07 17:18 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.41,
-            "change": "-3.26%"
+            "change": "+1.17%"
         },
         {
             "symbol": "AMD",
             "price": 217.97,
-            "change": "-1.11%"
+            "change": "-1.87%"
         },
         {
             "symbol": "MSFT",
             "price": 483.16,
-            "change": "+1.94%"
+            "change": "+1.76%"
         },
         {
             "symbol": "CEG",
             "price": 359.82,
-            "change": "+0.41%"
+            "change": "+0.78%"
         },
         {
             "symbol": "VST",
             "price": 167.17,
-            "change": "-2.4%"
+            "change": "+1.15%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.61,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
-            0.5,
-            0.49,
-            0.5,
             0.51,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
             0.51,
-            0.5
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.76,
-            25.46,
-            25.43,
-            24.95,
-            25.0,
-            25.36,
-            25.49,
-            25.59,
-            25.48,
-            25.03,
-            24.94,
-            24.65
+            25.82,
+            25.55,
+            25.83,
+            25.74,
+            25.4,
+            24.93,
+            24.7,
+            25.12,
+            25.45,
+            25.26,
+            25.16,
+            25.43
         ],
         "hsd_history_software": [
-            9.26,
-            9.35,
-            9.51,
-            9.61,
-            9.66,
-            9.5,
-            9.62,
-            9.57,
-            9.72,
-            9.87,
-            9.95,
-            10.13
+            9.49,
+            9.33,
+            9.47,
+            9.53,
+            9.7,
+            9.68,
+            9.74,
+            9.94,
+            9.76,
+            9.91,
+            9.98,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "15:58",
+            "tag": "MERCADO",
+            "text": " Tyler Technologies Expands K-12 Capabilities With Acquisition Of Edulink"
+        },
+        {
+            "time": "15:25",
+            "tag": "MERCADO",
+            "text": "High Throughput Screening Market Top key Players 2035 | Agilent"
+        },
+        {
             "time": "14:10",
             "tag": "MERCADO",
             "text": "Hate Microsoft Copilot? So does everyone else. Too bad"
         },
         {
+            "time": "14:07",
+            "tag": "MERCADO",
+            "text": "Salesforce, Inc. Just Recorded A 35% EPS Beat: Here's What Analysts Are Forecasting Next"
+        },
+        {
             "time": "13:53",
             "tag": "MERCADO",
             "text": " Analog Devices (ADI) Is Up 6.0% After Strong Q4 Results And Higher Capital Returns Is The Bull Case Changing?"
-        },
-        {
-            "time": "13:09",
-            "tag": "MERCADO",
-            "text": " Costco Holds Steady While Walmart Bets Big on E-Commerce Transformation"
-        },
-        {
-            "time": "12:12",
-            "tag": "MERCADO",
-            "text": " Federated Hermes Inc. Has $189.40 Million Holdings in Salesforce Inc. $CRM"
-        },
-        {
-            "time": "12:12",
-            "tag": "MERCADO",
-            "text": "Federated Hermes Inc. Sells 185,332 Shares of Verizon Communications Inc. $VZ"
         }
     ]
 }
