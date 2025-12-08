@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-08 19:20 UTC",
+        "last_updated": "2025-12-08 20:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 184.52,
-            "change": "-0.53%"
+            "price": 184.71,
+            "change": "+0.03%"
         },
         {
             "symbol": "AMD",
-            "price": 220.47,
-            "change": "-2.56%"
+            "price": 220.58,
+            "change": "+0.21%"
         },
         {
             "symbol": "MSFT",
-            "price": 490.74,
-            "change": "-2.2%"
+            "price": 489.65,
+            "change": "-2.93%"
         },
         {
             "symbol": "CEG",
-            "price": 355.63,
-            "change": "+2.66%"
+            "price": 356.58,
+            "change": "-2.4%"
         },
         {
             "symbol": "VST",
-            "price": 164.98,
-            "change": "-0.2%"
+            "price": 165.85,
+            "change": "-1.36%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.42,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
+            0.52,
             0.51,
             0.51,
             0.51,
             0.52,
             0.51,
+            0.51,
             0.5,
             0.49,
-            0.49,
-            0.5
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            27.36,
-            26.88,
-            26.55,
-            26.17,
-            26.59,
-            26.68,
-            26.32,
-            26.2,
-            25.74,
-            25.72,
-            25.42,
-            25.5
+            24.13,
+            24.42,
+            24.73,
+            24.35,
+            24.34,
+            24.76,
+            24.69,
+            24.39,
+            24.79,
+            25.25,
+            25.2,
+            25.45
         ],
         "hsd_history_software": [
+            9.53,
+            9.5,
+            9.6,
+            9.6,
+            9.68,
+            9.79,
+            9.8,
+            9.96,
             10.15,
-            10.1,
-            9.93,
-            9.75,
-            9.88,
-            9.78,
-            9.88,
-            9.86,
-            9.76,
-            9.93,
-            9.76,
-            9.91
+            10.29,
+            10.19,
+            10.12
         ],
         "rci_data": [
             85.0,
-            18.452
+            18.471
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:07",
-            "tag": "AI",
-            "text": "Analysts Doubled Down on AMD in December Amid AI Wins and Growing Buy Ratings"
-        },
-        {
-            "time": "18:03",
-            "tag": "AI",
-            "text": "Unleash AI is HPE's trusted AI ecosystem"
-        },
-        {
-            "time": "18:02",
-            "tag": "AI",
-            "text": "Paychex (Nasdaq: PAYX) launches AI-first HCM platforms, payroll automation and compliance tools"
-        },
-        {
-            "time": "17:54",
+            "time": "18:54",
             "tag": "MERCADO",
-            "text": "Aptiv (APTV) Rating and Price Target Raised by Morgan Stanley"
+            "text": "UBER: Morgan Stanley Lowers Price Target, Maintains Overweight R"
         },
         {
-            "time": "17:51",
+            "time": "18:46",
             "tag": "MERCADO",
-            "text": "Jefferies Maintains Buy on Microsoft (MSFT) Amid Strong RPO Growth and Copilot Demand"
+            "text": "Hewlett Packard Enterprise (NYSE:HPE) Is Increasing Its Dividend To $0.1425"
+        },
+        {
+            "time": "18:36",
+            "tag": "MERCADO",
+            "text": "Equifax (NYSE:EFX) Shares Little Changed in Data Sector Focus"
+        },
+        {
+            "time": "18:16",
+            "tag": "MERCADO",
+            "text": "Tesla\u2019s sky high valuation prompts Morgan Stanley to cut rating"
+        },
+        {
+            "time": "18:15",
+            "tag": "MERCADO",
+            "text": "BD Showcases Innovation in Connected Medication Management at ASHP Midyear Clinical Meeting"
         }
     ]
 }
