@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-08 10:28 UTC",
+        "last_updated": "2025-12-08 11:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.41,
-            "change": "+0.44%"
+            "change": "+1.25%"
         },
         {
             "symbol": "AMD",
             "price": 217.97,
-            "change": "-0.01%"
+            "change": "-1.73%"
         },
         {
             "symbol": "MSFT",
             "price": 483.16,
-            "change": "-0.33%"
+            "change": "+1.61%"
         },
         {
             "symbol": "CEG",
             "price": 359.82,
-            "change": "+3.36%"
+            "change": "+1.23%"
         },
         {
             "symbol": "VST",
             "price": 167.17,
-            "change": "+0.5%"
+            "change": "-2.13%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.4,
+        "cer_current": 0.66,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
             0.49,
             0.5,
             0.5,
-            0.5,
-            0.5,
+            0.51,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.35,
-            23.96,
-            23.91,
-            24.2,
-            24.27,
-            24.35,
-            24.66,
-            24.81,
-            25.28,
+            25.26,
+            25.56,
+            25.78,
+            25.67,
             25.25,
-            25.18,
-            24.81
+            25.29,
+            24.88,
+            24.89,
+            24.88,
+            24.84,
+            24.78,
+            25.19
         ],
         "hsd_history_software": [
-            10.18,
-            10.05,
-            10.05,
-            10.08,
-            10.12,
-            10.19,
-            10.03,
-            9.89,
+            9.44,
+            9.55,
+            9.56,
+            9.42,
+            9.39,
+            9.54,
+            9.63,
             9.75,
-            9.78,
-            9.83,
-            10.02
+            9.61,
+            9.75,
+            9.94,
+            10.0
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:08",
-            "tag": "RESULTADOS",
-            "text": "Autodesk (ADSK) Reports Better-Than-Expected Earnings and Guidance Increase According to Baird"
-        },
-        {
-            "time": "08:50",
+            "time": "10:08",
             "tag": "MERCADO",
-            "text": " |Electronic Arts Inc. $EA Shares Sold by Edgestream Partners L.P."
+            "text": "ServiceNow (NOW) Announces 5-for-1 Stock Split Following Shareholder Approval"
         },
         {
-            "time": "08:46",
+            "time": "09:58",
             "tag": "MERCADO",
-            "text": " Arrowstreet Capital Limited Partnership Decreases Stake in Tyler Technologies, Inc. $TYL"
+            "text": " California Public Employees Retirement System Sells 457,172 Shares of Microchip Technology Incorporated $MCHP"
         },
         {
-            "time": "08:43",
+            "time": "09:57",
             "tag": "MERCADO",
-            "text": " Agilent and Monash University Malaysia to set up biodiscovery hub"
+            "text": " California Public Employees Retirement System Has $193.30 Million Position in Equinix, Inc. $EQIX"
         },
         {
-            "time": "08:37",
-            "tag": "RESULTADOS",
-            "text": " Fiserv's 8% Rebound: Value Trap Or Year-End Bargain? Traders Bet On Reversal At 7x Earnings"
+            "time": "09:48",
+            "tag": "MERCADO",
+            "text": "California Public Employees Retirement System Lowers Stake in Gartner, Inc. $IT"
+        },
+        {
+            "time": "09:46",
+            "tag": "MERCADO",
+            "text": " Cerity Partners LLC Trims Stock Position in Texas Instruments Incorporated $TXN"
         }
     ]
 }
