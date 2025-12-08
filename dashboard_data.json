@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-08 12:50 UTC",
+        "last_updated": "2025-12-08 13:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.41,
-            "change": "+1.4%"
+            "change": "-3.22%"
         },
         {
             "symbol": "AMD",
             "price": 217.97,
-            "change": "+2.92%"
+            "change": "+0.24%"
         },
         {
             "symbol": "MSFT",
             "price": 483.16,
-            "change": "-2.03%"
+            "change": "+0.98%"
         },
         {
             "symbol": "CEG",
             "price": 359.82,
-            "change": "-2.21%"
+            "change": "-0.23%"
         },
         {
             "symbol": "VST",
             "price": 167.17,
-            "change": "+1.64%"
+            "change": "+2.4%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.55,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.51,
-            0.5,
+            0.49,
             0.49,
             0.49,
             0.5,
-            0.49,
             0.5,
-            0.5
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.36,
-            23.97,
-            24.28,
-            24.39,
-            24.38,
-            24.06,
-            24.43,
-            24.47,
-            24.14,
-            24.61,
-            24.77,
-            24.69
+            23.83,
+            24.17,
+            24.2,
+            24.57,
+            24.21,
+            24.51,
+            24.71,
+            24.27,
+            24.24,
+            24.59,
+            25.03,
+            25.23
         ],
         "hsd_history_software": [
-            9.95,
-            9.95,
-            9.98,
-            9.92,
-            9.92,
-            9.77,
-            9.86,
-            9.73,
-            9.7,
-            9.82,
-            9.78,
-            9.96
+            10.54,
+            10.63,
+            10.49,
+            10.46,
+            10.36,
+            10.48,
+            10.54,
+            10.39,
+            10.35,
+            10.15,
+            9.97,
+            10.09
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:05",
+            "time": "13:02",
             "tag": "MERCADO",
-            "text": "Ossiam Grows Stock Position in Analog Devices, Inc. $ADI"
+            "text": "Leidos and CargoSeer collaborate to optimize customs checkpoint inspections"
         },
         {
-            "time": "12:05",
-            "tag": "MERCADO",
-            "text": "Natixis Buys 64,420 Shares of Intuit Inc. $INTU"
-        },
-        {
-            "time": "12:02",
+            "time": "13:02",
             "tag": "AI",
-            "text": "NextEra Energy (NYSE: NEE) and Google Cloud to build multi-GW US data campuses, launch first AI grid tools by 2026"
+            "text": "Leidos (NYSE: LDOS) integrates CargoSeer AI into Mezzo platform for border security"
         },
         {
-            "time": "11:59",
-            "tag": "MERCADO",
-            "text": "Oppenheimer reiterates Outperform rating on Trimble stock with $102 target"
+            "time": "13:01",
+            "tag": "AI",
+            "text": "BNY (NYSE: BK) to enhance Eliza AI platform with Google Cloud\u2019s Gemini Enterprise"
         },
         {
-            "time": "11:55",
+            "time": "13:01",
+            "tag": "AI",
+            "text": "BNY Collaborates with Google Cloud to Advance its Eliza AI Platform with Gemini Enterprise"
+        },
+        {
+            "time": "13:00",
             "tag": "MERCADO",
-            "text": "Ossiam Sells 17,762 Shares of Texas Instruments Incorporated $TXN"
+            "text": "Winslow Capital Management LLC Buys Shares of 993,711 Intuit Inc. $INTU"
         }
     ]
 }
