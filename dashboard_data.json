@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-08 08:35 UTC",
+        "last_updated": "2025-12-08 09:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.41,
-            "change": "+2.52%"
+            "change": "+2.74%"
         },
         {
             "symbol": "AMD",
             "price": 217.97,
-            "change": "+2.96%"
+            "change": "-3.4%"
         },
         {
             "symbol": "MSFT",
-            "price": NaN,
-            "change": "+2.08%"
+            "price": 483.16,
+            "change": "+1.21%"
         },
         {
             "symbol": "CEG",
             "price": 359.82,
-            "change": "+1.95%"
+            "change": "-1.08%"
         },
         {
             "symbol": "VST",
             "price": 167.17,
-            "change": "-0.11%"
+            "change": "+1.4%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.67,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
             0.5,
             0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.5,
             0.49,
+            0.5,
             0.49,
-            0.49
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.07,
-            24.28,
-            24.57,
-            24.34,
-            24.32,
-            23.87,
-            24.3,
-            24.78,
-            25.22,
-            25.61,
-            25.26,
-            25.07
+            25.03,
+            24.98,
+            25.32,
+            25.48,
+            25.91,
+            26.18,
+            25.77,
+            25.98,
+            26.22,
+            25.98,
+            25.89,
+            25.47
         ],
         "hsd_history_software": [
-            10.49,
-            10.4,
-            10.28,
-            10.12,
-            10.3,
-            10.47,
-            10.42,
-            10.34,
-            10.54,
-            10.34,
-            10.17,
-            10.02
+            9.66,
+            9.55,
+            9.68,
+            9.8,
+            9.84,
+            9.65,
+            9.58,
+            9.59,
+            9.64,
+            9.49,
+            9.67,
+            9.83
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:35",
-            "tag": "AI",
-            "text": "IBM Reportedly Nears $11 Billion Deal To Acquire Confluent, In Big Push Into Real-Time AI Data"
+            "time": "09:08",
+            "tag": "RESULTADOS",
+            "text": "Autodesk (ADSK) Reports Better-Than-Expected Earnings and Guidance Increase According to Baird"
         },
         {
-            "time": "07:11",
+            "time": "08:50",
             "tag": "MERCADO",
-            "text": "Align Technology Stock Gains Competitive Edge from Rival\u2019s Pricing Move"
+            "text": " |Electronic Arts Inc. $EA Shares Sold by Edgestream Partners L.P."
         },
         {
-            "time": "07:09",
+            "time": "08:46",
             "tag": "MERCADO",
-            "text": " Barclays Maintains Overweight on Microsoft (MSFT), Cites Strong Monetization Potential"
+            "text": " Arrowstreet Capital Limited Partnership Decreases Stake in Tyler Technologies, Inc. $TYL"
         },
         {
-            "time": "07:08",
-            "tag": "AI",
-            "text": " Analog Devices (ADI) Demonstrates Strong Quarter and Growth in Data Center/AI Trends According to Morgan Stanley"
-        },
-        {
-            "time": "07:02",
+            "time": "08:43",
             "tag": "MERCADO",
-            "text": " Broadridge's Shareholder Disclosure Hub Migrates to AWS, Boosting Global Reach, Resilience and Security"
+            "text": " Agilent and Monash University Malaysia to set up biodiscovery hub"
+        },
+        {
+            "time": "08:37",
+            "tag": "RESULTADOS",
+            "text": " Fiserv's 8% Rebound: Value Trap Or Year-End Bargain? Traders Bet On Reversal At 7x Earnings"
         }
     ]
 }
