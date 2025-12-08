@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-08 07:27 UTC",
+        "last_updated": "2025-12-08 08:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.41,
-            "change": "-2.04%"
+            "change": "+2.52%"
         },
         {
             "symbol": "AMD",
             "price": 217.97,
-            "change": "-2.71%"
+            "change": "+2.96%"
         },
         {
             "symbol": "MSFT",
-            "price": 483.16,
-            "change": "+3.38%"
+            "price": NaN,
+            "change": "+2.08%"
         },
         {
             "symbol": "CEG",
             "price": 359.82,
-            "change": "+3.14%"
+            "change": "+1.95%"
         },
         {
             "symbol": "VST",
             "price": 167.17,
-            "change": "-1.06%"
+            "change": "-0.11%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.66,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
+            0.47,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.5,
             0.5,
             0.5,
-            0.51,
-            0.5,
             0.49,
             0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            25.85,
-            25.53,
-            25.86,
-            26.37,
-            26.78,
-            26.38,
-            25.88,
-            25.74,
-            25.34,
-            25.53,
-            25.34,
-            24.9
+            24.07,
+            24.28,
+            24.57,
+            24.34,
+            24.32,
+            23.87,
+            24.3,
+            24.78,
+            25.22,
+            25.61,
+            25.26,
+            25.07
         ],
         "hsd_history_software": [
-            9.68,
-            9.84,
-            9.8,
-            9.7,
-            9.82,
-            9.83,
-            10.02,
-            9.9,
-            9.85,
-            9.95,
-            9.78,
-            9.93
+            10.49,
+            10.4,
+            10.28,
+            10.12,
+            10.3,
+            10.47,
+            10.42,
+            10.34,
+            10.54,
+            10.34,
+            10.17,
+            10.02
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:08",
-            "tag": "MERCADO",
-            "text": " Morgan Stanley Hikes Lam Research (LRCX) PT to $158, Keeps Equal Weight on Increased 2027 Wafer Fab Equipment Forecast"
-        },
-        {
-            "time": "06:03",
-            "tag": "MERCADO",
-            "text": "BMO Believes Intuit (INTU) Had Strong Start to FY2026 Driven by Credit Karma, QBO Ecosystem Strength"
-        },
-        {
-            "time": "06:02",
-            "tag": "MERCADO",
-            "text": "AppLovin to Participate in the Nasdaq 53rd Investor Conference Held in Association with Morgan Stanley"
-        },
-        {
-            "time": "05:43",
-            "tag": "MERCADO",
-            "text": " Jim Cramer Calls the Market Reaction to Amazon's re:Invent Conference \"Ridiculous\""
-        },
-        {
-            "time": "05:40",
+            "time": "07:35",
             "tag": "AI",
-            "text": " Palantir, Nvidia, CenterPoint Energy Partner to Develop 'Chain Reaction' Software to Accelerate Power-Intensive AI Data Center Construction"
+            "text": "IBM Reportedly Nears $11 Billion Deal To Acquire Confluent, In Big Push Into Real-Time AI Data"
+        },
+        {
+            "time": "07:11",
+            "tag": "MERCADO",
+            "text": "Align Technology Stock Gains Competitive Edge from Rival\u2019s Pricing Move"
+        },
+        {
+            "time": "07:09",
+            "tag": "MERCADO",
+            "text": " Barclays Maintains Overweight on Microsoft (MSFT), Cites Strong Monetization Potential"
+        },
+        {
+            "time": "07:08",
+            "tag": "AI",
+            "text": " Analog Devices (ADI) Demonstrates Strong Quarter and Growth in Data Center/AI Trends According to Morgan Stanley"
+        },
+        {
+            "time": "07:02",
+            "tag": "MERCADO",
+            "text": " Broadridge's Shareholder Disclosure Hub Migrates to AWS, Boosting Global Reach, Resilience and Security"
         }
     ]
 }
