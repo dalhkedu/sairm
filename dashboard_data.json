@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-08 01:52 UTC",
+        "last_updated": "2025-12-08 03:25 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.41,
-            "change": "+0.42%"
+            "change": "+1.37%"
         },
         {
             "symbol": "AMD",
             "price": 217.97,
-            "change": "-1.17%"
+            "change": "+0.11%"
         },
         {
             "symbol": "MSFT",
             "price": 483.16,
-            "change": "-1.61%"
+            "change": "-3.19%"
         },
         {
             "symbol": "CEG",
             "price": 359.82,
-            "change": "-0.1%"
+            "change": "-1.64%"
         },
         {
             "symbol": "VST",
             "price": 167.17,
-            "change": "-2.16%"
+            "change": "-2.37%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.62,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
+            0.51,
+            0.51,
             0.5,
-            0.49
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.17,
-            24.74,
+            24.26,
+            24.75,
             24.61,
             24.57,
-            24.64,
-            24.74,
-            24.59,
-            24.58,
-            24.71,
-            24.81,
-            24.45,
-            24.85
+            24.52,
+            24.46,
+            24.79,
+            24.53,
+            24.9,
+            24.56,
+            24.8,
+            25.17
         ],
         "hsd_history_software": [
-            10.25,
-            10.25,
-            10.07,
-            10.01,
-            10.06,
-            9.88,
-            9.75,
-            9.88,
-            9.97,
-            9.85,
-            9.89,
-            9.95
+            10.05,
+            9.96,
+            10.16,
+            10.34,
+            10.36,
+            10.31,
+            10.45,
+            10.27,
+            10.19,
+            10.04,
+            10.19,
+            10.01
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "02:04",
+            "tag": "MERCADO",
+            "text": " Adobe Inc. (ADB.DE) Surges Ahead with Strong Technical Indicators on XETRA"
+        },
+        {
+            "time": "01:59",
+            "tag": "MERCADO",
+            "text": " Campbell\u2019s Soup Scandal: VP Fired Over 3D-Printed Meat Claims in Leaked Audio"
+        },
+        {
+            "time": "01:08",
+            "tag": "MERCADO",
+            "text": " How Investors Are Reacting To F5 (FFIV) Heavy Buybacks Amid Persistent Insider Selling And Bearish Analyst Sentiment"
+        },
+        {
             "time": "00:07",
             "tag": "MERCADO",
             "text": "Applied Materials (AMAT) Stock: 8 Things to Know Before the Market Opens on December 8, 2025"
@@ -134,21 +149,6 @@
             "time": "23:49",
             "tag": "MERCADO",
             "text": "Huge Wall Street call: Morgan Stanley's new Tesla analyst downgrades stock over valuation concerns"
-        },
-        {
-            "time": "22:08",
-            "tag": "MERCADO",
-            "text": "Prediction: This Stock Will Be the Biggest Quantum Computing Winner of 2026"
-        },
-        {
-            "time": "21:18",
-            "tag": "MERCADO",
-            "text": " VOO ETF Nears $634 High and 10% EPS Growth Signal 2026 Upside Toward $700"
-        },
-        {
-            "time": "21:08",
-            "tag": "MERCADO",
-            "text": " Tesla Stock Today (TSLA): What to Know Before the Market Opens on December 8, 2025"
         }
     ]
 }
