@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-08 21:20 UTC",
+        "last_updated": "2025-12-08 22:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.55,
-            "change": "+0.05%"
+            "change": "+0.72%"
         },
         {
             "symbol": "AMD",
             "price": 221.11,
-            "change": "+0.14%"
+            "change": "-2.39%"
         },
         {
             "symbol": "MSFT",
             "price": 491.02,
-            "change": "-2.5%"
+            "change": "-0.19%"
         },
         {
             "symbol": "CEG",
             "price": 357.67,
-            "change": "+0.59%"
+            "change": "+1.1%"
         },
         {
             "symbol": "VST",
             "price": 166.12,
-            "change": "-0.06%"
+            "change": "-2.03%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.69,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
             0.49,
             0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.51,
+            0.51,
+            0.51,
             0.51,
             0.5,
             0.5,
             0.5,
             0.5,
-            0.5,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            25.73,
-            25.28,
-            25.4,
-            25.21,
-            25.26,
-            24.82,
-            24.72,
-            24.89,
-            25.22,
-            24.89,
-            24.41,
-            24.82
+            24.43,
+            24.48,
+            24.32,
+            24.77,
+            24.68,
+            24.38,
+            24.19,
+            24.11,
+            24.26,
+            24.44,
+            24.49,
+            24.64
         ],
         "hsd_history_software": [
-            10.08,
-            10.03,
             10.14,
-            10.17,
-            10.34,
-            10.19,
-            10.21,
-            10.22,
-            10.13,
+            10.32,
+            10.25,
+            10.1,
+            10.09,
+            10.24,
             10.31,
-            10.18,
-            10.18
+            10.19,
+            10.02,
+            10.01,
+            10.16,
+            10.06
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:36",
+            "time": "21:02",
+            "tag": "RESULTADOS",
+            "text": "Analog Devices (ADI): Evaluating Valuation After Strong Earnings Beat, Upgraded Guidance and Institutional Inflows"
+        },
+        {
+            "time": "21:02",
             "tag": "AI",
-            "text": "STEM Next Opportunity Fund and Qualcomm Partner on Pilot to Bring AI Learning to Afterschool"
+            "text": "Paychex Unveils Intelligent AI Solutions to Revolutionize Workforce Management"
         },
         {
-            "time": "19:20",
+            "time": "20:36",
             "tag": "MERCADO",
-            "text": "Fitch Affirms KLA's Ratings at 'A'; Outlook Stable"
+            "text": "Seagate Shares Rise ~3% After Key Trading Signal - Up 14% Since Last Week's Highlight At $252.73"
         },
         {
-            "time": "19:14",
+            "time": "20:35",
             "tag": "MERCADO",
-            "text": "HII Debuts GRIMM Spectrum Dominance Solution at AOC 2025 International Symposium & Convention"
+            "text": "Pilotless fighter jets could transform aerial warfare"
         },
         {
-            "time": "19:14",
-            "tag": "MERCADO",
-            "text": "Wells Fargo Just Upgraded This 1 Buy-Rated Software Stock. Should You Add Shares Here?"
-        },
-        {
-            "time": "19:13",
-            "tag": "MERCADO",
-            "text": "Kroger, Ocado said to proceed with Phoenix warehouse"
+            "time": "20:19",
+            "tag": "AI",
+            "text": "Goldman Sachs price target raised by Bank of America analysts on strong M&A and AI growth"
         }
     ]
 }
