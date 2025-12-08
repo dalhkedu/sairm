@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-08 17:23 UTC",
+        "last_updated": "2025-12-08 18:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 183.33,
-            "change": "+0.14%"
+            "price": 185.73,
+            "change": "-2.24%"
         },
         {
             "symbol": "AMD",
-            "price": 219.44,
-            "change": "+2.04%"
+            "price": 220.89,
+            "change": "+3.11%"
         },
         {
             "symbol": "MSFT",
-            "price": 490.81,
-            "change": "-1.01%"
+            "price": 490.3,
+            "change": "+2.64%"
         },
         {
             "symbol": "CEG",
-            "price": 356.01,
-            "change": "-2.07%"
+            "price": 355.35,
+            "change": "-0.22%"
         },
         {
             "symbol": "VST",
-            "price": 165.89,
-            "change": "-1.09%"
+            "price": 165.42,
+            "change": "+0.88%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
-        "rci_current": 0.18,
+        "cer_current": 0.64,
+        "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.5
+            0.48,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.69,
-            24.9,
-            25.33,
-            25.12,
-            25.23,
-            25.05,
+            25.34,
+            25.54,
             25.29,
-            25.38,
-            25.37,
-            25.04,
-            24.85,
-            25.23
+            25.8,
+            26.23,
+            26.03,
+            26.4,
+            25.92,
+            25.48,
+            25.48,
+            25.29,
+            24.85
         ],
         "hsd_history_software": [
-            10.47,
-            10.31,
-            10.31,
-            10.38,
-            10.42,
-            10.36,
+            10.28,
+            10.21,
+            10.16,
+            10.2,
+            10.37,
             10.32,
-            10.31,
-            10.12,
-            10.1,
-            10.1,
-            10.17
+            10.22,
+            10.15,
+            10.32,
+            10.33,
+            10.29,
+            10.1
         ],
         "rci_data": [
             85.0,
-            18.333000000000002
+            18.572999999999997
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:03",
-            "tag": "MERCADO",
-            "text": "Blue Current Inc. Closes More Than $80M Series D Extension Funding Round, Anchored by Amazon, to Deliver Industry-Leading Solid-State Batteries for Stationary Storage and Mobility Applications"
+            "time": "18:07",
+            "tag": "AI",
+            "text": "Analysts Doubled Down on AMD in December Amid AI Wins and Growing Buy Ratings"
         },
         {
-            "time": "15:55",
-            "tag": "MERCADO",
-            "text": "HOLX Stock Up 16% in 6 Months: Is it Still a Hold Heading Into 2026?"
+            "time": "18:03",
+            "tag": "AI",
+            "text": "Unleash AI is HPE's trusted AI ecosystem"
         },
         {
-            "time": "15:49",
-            "tag": "MERCADO",
-            "text": "CVS Health\u2019s Aetna expands initiatives to simplify experiences for healthcare professionals, patients"
+            "time": "18:02",
+            "tag": "AI",
+            "text": "Paychex (Nasdaq: PAYX) launches AI-first HCM platforms, payroll automation and compliance tools"
         },
         {
-            "time": "15:44",
+            "time": "17:54",
             "tag": "MERCADO",
-            "text": "Kroger to pay $350 million to distribution automation partner"
+            "text": "Aptiv (APTV) Rating and Price Target Raised by Morgan Stanley"
         },
         {
-            "time": "15:28",
+            "time": "17:51",
             "tag": "MERCADO",
-            "text": "Citi upgrades Synopsys to Neutral ahead of its Q4 earnings (SNPS:NASDAQ)"
+            "text": "Jefferies Maintains Buy on Microsoft (MSFT) Amid Strong RPO Growth and Copilot Demand"
         }
     ]
 }
