@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-09 12:51 UTC",
+        "last_updated": "2025-12-09 13:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.55,
-            "change": "+0.04%"
+            "change": "+1.5%"
         },
         {
             "symbol": "AMD",
             "price": 221.11,
-            "change": "-3.37%"
+            "change": "-0.88%"
         },
         {
             "symbol": "MSFT",
             "price": 491.02,
-            "change": "-2.18%"
+            "change": "+3.29%"
         },
         {
             "symbol": "CEG",
             "price": 357.67,
-            "change": "+2.33%"
+            "change": "-0.59%"
         },
         {
             "symbol": "VST",
             "price": NaN,
-            "change": "+0.61%"
+            "change": "+2.92%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.59,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
             0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.51,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            26.38,
-            25.96,
-            25.89,
-            26.24,
-            25.76,
-            25.55,
-            25.27,
-            25.63,
-            25.72,
+            26.83,
+            26.76,
+            26.52,
+            26.98,
+            26.5,
+            26.25,
             26.05,
+            25.84,
             25.63,
-            25.5
+            25.25,
+            25.51,
+            25.09
         ],
         "hsd_history_software": [
-            9.58,
-            9.67,
-            9.61,
-            9.65,
-            9.6,
-            9.7,
-            9.74,
-            9.67,
-            9.71,
-            9.61,
-            9.7,
-            9.86
+            10.15,
+            10.21,
+            10.23,
+            10.2,
+            10.11,
+            10.12,
+            10.1,
+            10.06,
+            9.97,
+            9.95,
+            9.77,
+            9.95
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:09",
+            "time": "13:08",
+            "tag": "CRYPTO",
+            "text": "PNC First Major Bank to Launch Direct Bitcoin Access for Clients, Powered by Coinbase's Crypto-as-a-Service Infrastructure"
+        },
+        {
+            "time": "13:06",
             "tag": "AI",
-            "text": "Microsoft to invest more than $5.4 billion in Canada to boost AI infrastructure"
+            "text": "EPAM (NYSE: EPAM) debuts 7 industry AI agents on Google Cloud Marketplace platform"
         },
         {
-            "time": "12:07",
+            "time": "13:03",
             "tag": "MERCADO",
-            "text": "Royal Caribbean\u2019s Chairman on Why Travel Advisors Should Focus on Continuous Improvement"
+            "text": "Equinix Named a Leader in the IDC MarketScape: Worldwide Datacenter Services Sustainability 2025-2026 Vendor Assessment"
         },
         {
-            "time": "12:03",
+            "time": "13:03",
             "tag": "MERCADO",
-            "text": "Uber\u2019s New Airport Kiosks Will Let Travelers Order Rides Without the App"
+            "text": "Salesforce defines Informatica\u2019s role in unified data strategy"
         },
         {
-            "time": "12:02",
-            "tag": "AI",
-            "text": "Saviynt Raises $700M at Approximately $3B Valuation in KKR-Led Round to Establish Identity Security as the Foundation for the AI Era"
-        },
-        {
-            "time": "12:01",
+            "time": "13:02",
             "tag": "MERCADO",
-            "text": "Fidelity National Information Services, Inc. $FIS Holdings Lowered by Guggenheim Capital LLC"
+            "text": "KKR Leads $700M Series B Investment in Saviynt"
         }
     ]
 }
