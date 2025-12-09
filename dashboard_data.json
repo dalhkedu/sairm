@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-09 01:52 UTC",
+        "last_updated": "2025-12-09 03:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.55,
-            "change": "-0.69%"
+            "change": "+2.28%"
         },
         {
             "symbol": "AMD",
             "price": 221.11,
-            "change": "+1.89%"
+            "change": "+0.78%"
         },
         {
             "symbol": "MSFT",
             "price": 491.02,
-            "change": "-2.5%"
+            "change": "-1.98%"
         },
         {
             "symbol": "CEG",
             "price": 357.67,
-            "change": "-1.18%"
+            "change": "+2.11%"
         },
         {
             "symbol": "VST",
             "price": 166.12,
-            "change": "-0.02%"
+            "change": "-0.3%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.51,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.52,
+            0.5,
+            0.49,
+            0.5,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
             0.51,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            23.86,
-            24.27,
-            24.35,
-            24.71,
-            24.27,
-            24.62,
-            24.24,
-            24.35,
-            24.53,
-            24.59,
-            24.34,
-            24.67
+            24.97,
+            24.91,
+            25.32,
+            24.97,
+            25.34,
+            25.73,
+            25.35,
+            25.3,
+            25.76,
+            25.26,
+            25.16,
+            24.96
         ],
         "hsd_history_software": [
-            10.62,
-            10.48,
-            10.39,
-            10.5,
-            10.3,
-            10.46,
-            10.27,
-            10.29,
-            10.24,
-            10.26,
-            10.37,
-            10.18
+            10.07,
+            10.0,
+            10.18,
+            10.05,
+            10.04,
+            9.88,
+            9.97,
+            9.98,
+            9.85,
+            9.71,
+            9.77,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:15",
-            "tag": "RESULTADOS",
-            "text": "A Look Back at Cybersecurity Stocks' Q3 Earnings: Zscaler (NASDAQ:ZS) Vs The Rest Of The Pack"
-        },
-        {
-            "time": "01:14",
+            "time": "02:25",
             "tag": "MERCADO",
-            "text": "Bonk, Inc. Acquires Majority Revenue Interest in Bonk.fun"
+            "text": "Leonardo DRS signs memo with Saudi Arabia for defense tech exploration By Investing.com"
         },
         {
-            "time": "01:13",
+            "time": "02:25",
             "tag": "MERCADO",
-            "text": "ICEBlock creator sues Trump administration officials saying they pressured Apple to remove it from the app store"
+            "text": "Rockwell Automation Asia Pacific Earns 2025 Great Place To Work Certification\u2122"
         },
         {
-            "time": "00:45",
-            "tag": "AI",
-            "text": "eBay Encourages Buyers & Sellers To Use AI For The Holidays While Quietly Updating AI Agent Policy"
-        },
-        {
-            "time": "00:32",
+            "time": "02:15",
             "tag": "MERCADO",
-            "text": "General Dynamics wants to turn competitors into teammates"
+            "text": "\u2018Baseload Power\u2019 Will Be Big in 2026. 5 Stocks Can Win."
+        },
+        {
+            "time": "02:12",
+            "tag": "MERCADO",
+            "text": "Align Technology (Nasdaq: ALGN) launches Class II mandibular advancement in Asia-Pacific"
+        },
+        {
+            "time": "02:09",
+            "tag": "MERCADO",
+            "text": "Align Technology Announces Invisalign\u00ae System With Mandibular Advancement Featuring Occlusal Blocks for Class II Skeletal and Dental Correction"
         }
     ]
 }
