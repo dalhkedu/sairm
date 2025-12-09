@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-09 15:28 UTC",
+        "last_updated": "2025-12-09 16:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 184.38,
-            "change": "-0.14%"
+            "price": 184.88,
+            "change": "+3.42%"
         },
         {
             "symbol": "AMD",
-            "price": 222.61,
-            "change": "+3.1%"
+            "price": 221.83,
+            "change": "-0.65%"
         },
         {
             "symbol": "MSFT",
-            "price": 490.25,
-            "change": "-1.7%"
+            "price": 490.88,
+            "change": "+1.33%"
         },
         {
             "symbol": "CEG",
-            "price": 361.19,
-            "change": "+2.64%"
+            "price": 361.36,
+            "change": "-0.12%"
         },
         {
             "symbol": "VST",
-            "price": 167.3,
-            "change": "-0.19%"
+            "price": 167.98,
+            "change": "+2.75%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.62,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.54,
+            0.55,
+            0.55,
             0.54,
             0.53,
             0.53,
-            0.54,
-            0.54,
             0.53,
             0.52,
             0.52,
             0.51,
-            0.51
+            0.52,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.97,
-            25.85,
-            26.09,
-            26.56,
-            26.23,
-            25.79,
-            25.52,
-            25.13,
-            24.99,
-            25.12,
-            24.84,
-            24.99
+            23.81,
+            23.6,
+            24.07,
+            24.04,
+            24.23,
+            23.78,
+            24.22,
+            24.12,
+            24.1,
+            24.57,
+            24.95,
+            25.11
         ],
         "hsd_history_software": [
-            9.72,
-            9.68,
-            9.87,
-            10.05,
-            10.06,
-            10.23,
-            10.35,
-            10.4,
-            10.35,
-            10.24,
+            10.56,
+            10.39,
+            10.32,
+            10.22,
+            10.39,
+            10.3,
+            10.17,
             10.04,
-            10.07
+            10.21,
+            10.24,
+            10.21,
+            10.09
         ],
         "rci_data": [
             85.0,
-            18.438
+            18.488
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:08",
+            "time": "16:09",
             "tag": "MERCADO",
-            "text": "|\u2018Baseload Power\u2019 Will Be Big in 2026. 5 Stocks Can Win."
+            "text": "SS Innovations submits robotic system for FDA clearance"
         },
         {
-            "time": "14:07",
-            "tag": "AI",
-            "text": "Pioneer Launches PRYMUS: Unleashing Energy-at-the-Edge for Rapid AI Compute Power"
-        },
-        {
-            "time": "14:04",
+            "time": "16:08",
             "tag": "MERCADO",
-            "text": "PPG named among Foundry\u2019s Computerworld Best Places to Work in IT for eighth year"
+            "text": "Michigan regulators blow past DTE Energy\u2019s data center deadline"
         },
         {
-            "time": "14:04",
+            "time": "15:47",
             "tag": "AI",
-            "text": "Microsoft Announces $5.4 Billion Canada Investment To Strengthen AI, Cloud Services"
+            "text": "Qlik Named a Customers\u2019 Choice in the 2025 Gartner\u00ae Peer Insights\u2122 Voice of the Customer for Analytics and Business Intelligence Platforms"
         },
         {
-            "time": "14:04",
-            "tag": "AI",
-            "text": "EPAM Launches New AI Solutions on Google Cloud Marketplace"
+            "time": "15:44",
+            "tag": "MERCADO",
+            "text": "T-Mobile US stock hits 52-week low at $199.26 By Investing.com"
+        },
+        {
+            "time": "15:38",
+            "tag": "MERCADO",
+            "text": "Intercontinental Exchange to Integrate Cross-Asset Data, Analytics Into Expero Platform"
         }
     ]
 }
