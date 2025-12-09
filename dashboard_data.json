@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-09 20:24 UTC",
+        "last_updated": "2025-12-09 21:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 184.3,
-            "change": "+1.87%"
+            "price": 184.97,
+            "change": "+0.85%"
         },
         {
             "symbol": "AMD",
-            "price": 220.94,
-            "change": "+1.86%"
+            "price": 221.62,
+            "change": "-2.35%"
         },
         {
             "symbol": "MSFT",
-            "price": 490.97,
-            "change": "-0.75%"
+            "price": 492.02,
+            "change": "-2.92%"
         },
         {
             "symbol": "CEG",
-            "price": 359.29,
-            "change": "+0.62%"
+            "price": 359.15,
+            "change": "-3.39%"
         },
         {
             "symbol": "VST",
-            "price": 165.45,
-            "change": "+0.34%"
+            "price": 164.81,
+            "change": "-0.24%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.66,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
             0.5,
             0.49,
             0.5,
-            0.51,
-            0.51,
-            0.51,
+            0.5,
+            0.49,
             0.5,
             0.49,
             0.49,
             0.49,
-            0.5,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.56,
-            24.09,
-            24.51,
-            24.28,
-            24.3,
-            24.64,
-            24.76,
-            24.88,
-            25.33,
-            24.98,
-            25.22,
-            24.75
+            27.13,
+            27.02,
+            26.52,
+            26.4,
+            26.5,
+            26.55,
+            26.13,
+            25.81,
+            25.54,
+            25.18,
+            24.77,
+            24.8
         ],
         "hsd_history_software": [
-            9.81,
-            10.0,
-            9.98,
-            10.16,
-            10.16,
-            10.32,
-            10.23,
-            10.31,
-            10.18,
-            10.04,
-            10.21,
-            10.06
+            9.92,
+            9.86,
+            9.85,
+            9.82,
+            9.72,
+            9.8,
+            9.86,
+            10.02,
+            10.07,
+            10.22,
+            10.17,
+            10.0
         ],
         "rci_data": [
             85.0,
-            18.430000000000003
+            18.497
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:08",
+            "time": "20:03",
+            "tag": "MERCADO",
+            "text": "Appeals Court Backs PTAB Common-Tech Stance, Trims IBM Patent"
+        },
+        {
+            "time": "20:01",
+            "tag": "MERCADO",
+            "text": "Wells Fargo (NYSE: WFC) finds $50 median holiday tip, 60% plan to give"
+        },
+        {
+            "time": "20:00",
             "tag": "AI",
-            "text": "McDonald's Turns Off Comments on AI-Generated Advert After Deluge of Mockery, Then Pulls It Down Entirely"
+            "text": "Big Blue's Big Bet: IBM Buys AI Nervous System for $11B"
         },
         {
-            "time": "19:04",
-            "tag": "MERCADO",
-            "text": "Wells Fargo Lowers Price Target for Aptiv (APTV), Maintains Over"
-        },
-        {
-            "time": "18:42",
-            "tag": "MERCADO",
-            "text": "Sandisk (NASDAQ:SNDK) Trading Down 4.5% - What's Next?"
-        },
-        {
-            "time": "18:23",
-            "tag": "MERCADO",
-            "text": "Wall Street Sees a 41% Upside to Select Medical Holdings (SEM)"
-        },
-        {
-            "time": "18:09",
+            "time": "19:51",
             "tag": "AI",
-            "text": "The billionaire tech founder who uses chess to understand AI"
+            "text": "Wells Fargo CEO Envisions AI Influencing Staffing Decisions"
+        },
+        {
+            "time": "19:44",
+            "tag": "AI",
+            "text": "AECOM\u2019s $390 Million Bet on Artificial Intelligence"
         }
     ]
 }
