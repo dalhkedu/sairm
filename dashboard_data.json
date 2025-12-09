@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-09 19:17 UTC",
+        "last_updated": "2025-12-09 20:24 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 184.55,
-            "change": "-3.16%"
+            "price": 184.3,
+            "change": "+1.87%"
         },
         {
             "symbol": "AMD",
-            "price": 221.14,
-            "change": "+3.45%"
+            "price": 220.94,
+            "change": "+1.86%"
         },
         {
             "symbol": "MSFT",
-            "price": 490.64,
-            "change": "-1.55%"
+            "price": 490.97,
+            "change": "-0.75%"
         },
         {
             "symbol": "CEG",
-            "price": 360.09,
-            "change": "-1.3%"
+            "price": 359.29,
+            "change": "+0.62%"
         },
         {
             "symbol": "VST",
-            "price": 165.79,
-            "change": "-1.81%"
+            "price": 165.45,
+            "change": "+0.34%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.6,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.47,
-            0.48,
+            0.5,
             0.49,
             0.5,
-            0.49
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.52,
-            24.69,
-            24.29,
-            24.39,
-            24.27,
-            24.58,
-            24.33,
-            24.6,
             24.56,
+            24.09,
+            24.51,
+            24.28,
+            24.3,
+            24.64,
             24.76,
-            24.89,
-            24.65
+            24.88,
+            25.33,
+            24.98,
+            25.22,
+            24.75
         ],
         "hsd_history_software": [
-            10.48,
-            10.44,
-            10.31,
-            10.39,
-            10.44,
-            10.51,
-            10.33,
-            10.23,
-            10.17,
+            9.81,
             10.0,
-            9.91,
-            9.81
+            9.98,
+            10.16,
+            10.16,
+            10.32,
+            10.23,
+            10.31,
+            10.18,
+            10.04,
+            10.21,
+            10.06
         ],
         "rci_data": [
             85.0,
-            18.455000000000002
+            18.430000000000003
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "19:08",
+            "tag": "AI",
+            "text": "McDonald's Turns Off Comments on AI-Generated Advert After Deluge of Mockery, Then Pulls It Down Entirely"
+        },
+        {
+            "time": "19:04",
+            "tag": "MERCADO",
+            "text": "Wells Fargo Lowers Price Target for Aptiv (APTV), Maintains Over"
+        },
+        {
+            "time": "18:42",
+            "tag": "MERCADO",
+            "text": "Sandisk (NASDAQ:SNDK) Trading Down 4.5% - What's Next?"
+        },
+        {
             "time": "18:23",
             "tag": "MERCADO",
             "text": "Wall Street Sees a 41% Upside to Select Medical Holdings (SEM)"
         },
         {
-            "time": "18:08",
-            "tag": "MERCADO",
-            "text": "NextEra aims to build up to 30 GW in data center power supply hubs by 2035"
-        },
-        {
-            "time": "18:08",
-            "tag": "MERCADO",
-            "text": "Qlik Named a Leader for the 10th Time in 2025 Gartner\u00ae Magic Quadrant\u2122 for Data Integration Tools"
-        },
-        {
-            "time": "18:07",
-            "tag": "MERCADO",
-            "text": "Hedge Fund and Insider Trading News: Boaz Weinstein, Starboard Value, Citadel LLC, D1 Capital Partners, Tiger Global Management, Salesforce Inc (CRM), and More"
-        },
-        {
-            "time": "18:05",
-            "tag": "MERCADO",
-            "text": "Foley Hoag Advises Akamai on Acquisition of Fermyon"
+            "time": "18:09",
+            "tag": "AI",
+            "text": "The billionaire tech founder who uses chess to understand AI"
         }
     ]
 }
