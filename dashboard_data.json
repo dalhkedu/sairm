@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-09 07:25 UTC",
+        "last_updated": "2025-12-09 08:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.55,
-            "change": "+2.38%"
+            "change": "+1.06%"
         },
         {
             "symbol": "AMD",
             "price": 221.11,
-            "change": "+0.33%"
+            "change": "-0.58%"
         },
         {
             "symbol": "MSFT",
             "price": 491.02,
-            "change": "-0.19%"
+            "change": "-2.0%"
         },
         {
             "symbol": "CEG",
             "price": 357.67,
-            "change": "-2.91%"
+            "change": "+0.84%"
         },
         {
             "symbol": "VST",
             "price": 166.12,
-            "change": "+1.76%"
+            "change": "-0.59%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.58,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
+            0.49,
             0.5,
-            0.51,
             0.5,
             0.5,
             0.5,
             0.49,
             0.5,
-            0.49,
+            0.5,
+            0.5,
+            0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            26.47,
-            26.62,
-            26.69,
-            26.27,
-            26.06,
-            26.22,
-            25.74,
-            25.38,
-            25.4,
-            24.95,
-            24.72,
-            24.51
+            25.84,
+            26.2,
+            26.58,
+            26.9,
+            26.44,
+            26.24,
+            26.19,
+            26.4,
+            26.19,
+            26.11,
+            25.63,
+            25.35
         ],
         "hsd_history_software": [
-            9.18,
-            9.35,
-            9.44,
-            9.35,
-            9.4,
-            9.38,
-            9.39,
-            9.45,
-            9.46,
-            9.62,
-            9.66,
-            9.83
+            10.08,
+            10.2,
+            10.11,
+            10.02,
+            10.18,
+            10.24,
+            10.25,
+            10.28,
+            10.19,
+            10.14,
+            10.05,
+            9.96
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:09",
-            "tag": "MERCADO",
-            "text": "Nasdaq, S&P 500 Snap Win Streaks as Sentiment Cools"
+            "time": "07:13",
+            "tag": "RESULTADOS",
+            "text": "Oracle Stock 2025: Earnings Beat, Cloud Momentum and What Investors Should Know"
         },
         {
-            "time": "05:59",
+            "time": "07:13",
             "tag": "MERCADO",
-            "text": "Rockwell Automation Asia Pacific Earns 2025 Great Place To Work Certification\u2122"
+            "text": "How Investors Are Reacting To NextEra Energy (NEE) Deepening Its Google Cloud Data Center Alliance"
         },
         {
-            "time": "05:15",
+            "time": "07:09",
             "tag": "MERCADO",
-            "text": "Boeing, RAAF Achieve CCA Missile Fire from MQ-28 Ghost Bat"
+            "text": "|\u2018Baseload Power\u2019 Will Be Big in 2026. 5 Stocks Can Win."
         },
         {
-            "time": "05:11",
+            "time": "07:03",
             "tag": "MERCADO",
-            "text": "Intel to explore making chips with mega-corp Tata in India\u2019s first fab"
+            "text": "ASM International stock price target raised to EUR625 by Morgan Stanley"
         },
         {
-            "time": "05:11",
-            "tag": "MERCADO",
-            "text": "Kilmer, Cogent Communications VP, sells $94k in CCOI stock"
+            "time": "06:36",
+            "tag": "AI",
+            "text": "Kennewick Approves $10.6M AI Police Tech Deal with Axon for Safety Boost"
         }
     ]
 }
