@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-09 11:22 UTC",
+        "last_updated": "2025-12-09 12:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.55,
-            "change": "+1.46%"
+            "change": "+0.04%"
         },
         {
             "symbol": "AMD",
             "price": 221.11,
-            "change": "-1.78%"
+            "change": "-3.37%"
         },
         {
             "symbol": "MSFT",
             "price": 491.02,
-            "change": "+1.33%"
+            "change": "-2.18%"
         },
         {
             "symbol": "CEG",
             "price": 357.67,
-            "change": "-0.21%"
+            "change": "+2.33%"
         },
         {
             "symbol": "VST",
             "price": NaN,
-            "change": "+0.41%"
+            "change": "+0.61%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.43,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            26.0,
-            25.92,
-            26.43,
-            26.04,
-            25.87,
-            25.68,
-            25.26,
-            25.61,
-            25.3,
-            25.35,
-            25.22,
-            25.37
+            26.38,
+            25.96,
+            25.89,
+            26.24,
+            25.76,
+            25.55,
+            25.27,
+            25.63,
+            25.72,
+            26.05,
+            25.63,
+            25.5
         ],
         "hsd_history_software": [
-            10.33,
-            10.25,
-            10.15,
-            10.11,
-            10.11,
-            10.09,
-            9.96,
-            9.78,
-            9.73,
-            9.86,
-            9.92,
-            9.93
+            9.58,
+            9.67,
+            9.61,
+            9.65,
+            9.6,
+            9.7,
+            9.74,
+            9.67,
+            9.71,
+            9.61,
+            9.7,
+            9.86
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:59",
-            "tag": "MERCADO",
-            "text": "Federated Hermes Inc. Sells 50,020 Shares of Gartner, Inc. $IT"
-        },
-        {
-            "time": "09:35",
+            "time": "12:09",
             "tag": "AI",
-            "text": "The Regions Bank AI Shift Through the Lens of Manav Mishra\u2019s Leadership"
+            "text": "Microsoft to invest more than $5.4 billion in Canada to boost AI infrastructure"
         },
         {
-            "time": "09:32",
+            "time": "12:07",
+            "tag": "MERCADO",
+            "text": "Royal Caribbean\u2019s Chairman on Why Travel Advisors Should Focus on Continuous Improvement"
+        },
+        {
+            "time": "12:03",
+            "tag": "MERCADO",
+            "text": "Uber\u2019s New Airport Kiosks Will Let Travelers Order Rides Without the App"
+        },
+        {
+            "time": "12:02",
             "tag": "AI",
-            "text": "Gartner Calls For Pause on AI Browser Use"
+            "text": "Saviynt Raises $700M at Approximately $3B Valuation in KKR-Led Round to Establish Identity Security as the Foundation for the AI Era"
         },
         {
-            "time": "09:31",
+            "time": "12:01",
             "tag": "MERCADO",
-            "text": "Intel Corporation $INTC Shares Sold by Brown Advisory Inc."
-        },
-        {
-            "time": "09:29",
-            "tag": "MERCADO",
-            "text": "L3Harris details evolving electronic warfare capabilities for today\u2019s complex threats"
+            "text": "Fidelity National Information Services, Inc. $FIS Holdings Lowered by Guggenheim Capital LLC"
         }
     ]
 }
