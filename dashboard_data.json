@@ -1,37 +1,37 @@
 {
     "metadata": {
-        "last_updated": "2025-12-10 05:25 UTC",
+        "last_updated": "2025-12-10 06:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 184.97,
-            "change": "+0.93%"
+            "change": "+0.13%"
         },
         {
             "symbol": "AMD",
             "price": 221.62,
-            "change": "-0.64%"
+            "change": "-0.06%"
         },
         {
             "symbol": "MSFT",
             "price": 492.02,
-            "change": "-0.29%"
+            "change": "-1.65%"
         },
         {
             "symbol": "CEG",
             "price": 359.15,
-            "change": "+3.18%"
+            "change": "+1.68%"
         },
         {
             "symbol": "VST",
             "price": 164.81,
-            "change": "-0.61%"
+            "change": "+0.54%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.49,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
@@ -40,42 +40,42 @@
             0.49,
             0.49,
             0.5,
+            0.49,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.51,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.37,
-            24.24,
-            24.71,
-            24.64,
-            24.72,
-            25.06,
-            25.04,
-            25.02,
-            24.73,
-            24.68,
-            24.97,
-            24.89
+            24.02,
+            23.89,
+            24.22,
+            23.77,
+            23.95,
+            23.85,
+            24.11,
+            23.95,
+            24.27,
+            24.75,
+            24.6,
+            25.08
         ],
         "hsd_history_software": [
-            10.49,
-            10.38,
-            10.3,
-            10.18,
-            10.1,
-            10.16,
-            10.17,
-            10.16,
-            10.11,
-            10.1,
+            10.32,
+            10.26,
+            10.07,
+            10.03,
+            9.87,
+            9.95,
+            10.12,
+            10.27,
+            10.15,
+            10.03,
             9.96,
-            9.84
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "03:51",
-            "tag": "MERCADO",
-            "text": "ServiceNow (NOW): Has the Recent Share Price Dip Created a Valuation Opportunity?"
+            "time": "06:09",
+            "tag": "RESULTADOS",
+            "text": "Genasys: Fiscal Q4 Earnings Snapshot"
         },
         {
-            "time": "03:43",
-            "tag": "MERCADO",
-            "text": "Is Emerson Electric (EMR) Still Undervalued After Its Recent Outperformance?"
-        },
-        {
-            "time": "03:20",
+            "time": "05:45",
             "tag": "AI",
-            "text": "Microsoft to spend $17.5B on AI infrastructure to support India\u2019s AI ambitions"
+            "text": "The AI Boom\u2019s Hidden Gem: Arista Networks"
         },
         {
-            "time": "03:08",
-            "tag": "AI",
-            "text": "Drone Policing Coming to Rialto as City OKs $14.3 Million Axon AI Deal, Prompting Privacy Concerns"
-        },
-        {
-            "time": "03:04",
+            "time": "05:44",
             "tag": "MERCADO",
-            "text": "Alecta Pensionsforsakring Reduces Stake in Alphabet Inc."
+            "text": "Teledyne FLIR UAS Enhanced with Doodle Labs 900 MHz Radio"
+        },
+        {
+            "time": "05:30",
+            "tag": "MERCADO",
+            "text": "Enovix Announces December Investor Events"
+        },
+        {
+            "time": "05:09",
+            "tag": "MERCADO",
+            "text": "Amazon to invest $35 billion in India through 2030, create 1 million more jobs | Business News"
         }
     ]
 }
