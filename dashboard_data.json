@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-10 17:26 UTC",
+        "last_updated": "2025-12-10 18:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 182.7,
-            "change": "+2.92%"
+            "price": 182.6,
+            "change": "-2.89%"
         },
         {
             "symbol": "AMD",
-            "price": 219.81,
-            "change": "+0.8%"
+            "price": 219.18,
+            "change": "-2.45%"
         },
         {
             "symbol": "MSFT",
-            "price": 481.36,
-            "change": "+1.84%"
+            "price": 477.11,
+            "change": "+0.88%"
         },
         {
             "symbol": "CEG",
-            "price": 352.93,
-            "change": "-1.25%"
+            "price": 353.96,
+            "change": "+2.98%"
         },
         {
             "symbol": "VST",
-            "price": 161.89,
-            "change": "+2.26%"
+            "price": 162.42,
+            "change": "+0.02%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.55,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
+            0.48,
             0.49,
+            0.48,
             0.49,
             0.5,
-            0.5
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.58,
-            24.43,
+            25.46,
+            25.15,
             24.8,
-            24.38,
-            24.71,
-            24.84,
-            24.43,
-            24.82,
-            25.17,
-            25.1,
-            25.51,
-            25.44
+            25.08,
+            24.91,
+            24.93,
+            25.39,
+            25.71,
+            25.75,
+            25.32,
+            24.9,
+            25.33
         ],
         "hsd_history_software": [
-            9.63,
-            9.63,
-            9.64,
-            9.56,
-            9.64,
-            9.57,
-            9.68,
-            9.63,
+            9.25,
+            9.4,
+            9.31,
+            9.24,
+            9.34,
+            9.52,
+            9.59,
+            9.71,
             9.74,
-            9.76,
-            9.89,
-            9.9
+            9.72,
+            9.9,
+            9.87
         ],
         "rci_data": [
             85.0,
-            18.27
+            18.259999999999998
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:05",
+            "time": "18:01",
             "tag": "MERCADO",
-            "text": "American Tower stock price target maintained at $260 by UBS on growth outlook"
+            "text": "Bernstein Reiterates \u201cBuy\u201d Rating on Oracle Corporation (ORCL) with $364 PT"
         },
         {
-            "time": "16:03",
-            "tag": "MERCADO",
-            "text": "QCOM vs. ASTS: Which Wireless Innovator is the Smarter Bet for 2026?"
+            "time": "18:00",
+            "tag": "RESULTADOS",
+            "text": "Jabil Prepares For Key Earnings During AI, Infrastructure Shifts"
         },
         {
-            "time": "16:02",
-            "tag": "AI",
-            "text": "DAT Freight & Analytics (ROP) outlines AI-driven shift in 2026 freight market"
+            "time": "17:59",
+            "tag": "MERCADO",
+            "text": "Tesla class action claims Powerwall 2 battery systems are defective"
         },
         {
-            "time": "16:02",
+            "time": "17:55",
             "tag": "MERCADO",
-            "text": "Keysight (NYSE: KEYS) nets 2025 JUST 100, TIME and FTSE4Good sustainability accolades"
+            "text": "Form 424B2 JPMORGAN CHASE & CO"
         },
         {
-            "time": "16:02",
+            "time": "17:24",
             "tag": "MERCADO",
-            "text": "TranzCapture Joins Jack Henry\u2122 Custom Solutions Network"
+            "text": "Fifth Third, Brex ink corporate card partnership"
         }
     ]
 }
