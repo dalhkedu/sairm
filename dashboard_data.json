@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-09 23:23 UTC",
+        "last_updated": "2025-12-10 01:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 184.97,
-            "change": "+0.66%"
+            "change": "-3.21%"
         },
         {
             "symbol": "AMD",
             "price": 221.62,
-            "change": "-1.39%"
+            "change": "-1.5%"
         },
         {
             "symbol": "MSFT",
             "price": 492.02,
-            "change": "-1.44%"
+            "change": "+0.18%"
         },
         {
             "symbol": "CEG",
             "price": 359.15,
-            "change": "+2.64%"
+            "change": "-1.19%"
         },
         {
             "symbol": "VST",
             "price": 164.81,
-            "change": "-1.59%"
+            "change": "+0.36%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
+        "cer_current": 0.66,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.49,
             0.5,
             0.49,
             0.49,
             0.49,
             0.5,
+            0.49,
             0.5,
             0.5,
-            0.51,
-            0.5,
-            0.5,
+            0.49,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.23,
-            24.53,
-            24.56,
-            24.55,
-            24.81,
-            25.09,
-            24.88,
-            25.39,
-            25.28,
-            25.19,
-            25.5,
-            25.41
+            23.92,
+            24.13,
+            23.75,
+            23.86,
+            23.9,
+            24.02,
+            23.82,
+            23.84,
+            24.15,
+            24.58,
+            24.97,
+            24.68
         ],
         "hsd_history_software": [
-            10.36,
-            10.52,
-            10.56,
-            10.47,
-            10.42,
-            10.44,
-            10.4,
-            10.29,
-            10.25,
-            10.28,
-            10.14,
-            10.1
+            9.22,
+            9.34,
+            9.45,
+            9.48,
+            9.58,
+            9.58,
+            9.77,
+            9.78,
+            9.62,
+            9.76,
+            9.8,
+            9.9
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:09",
-            "tag": "AI",
-            "text": "Assessing Amkor Technology\u2019s (AMKR) Valuation After Intel\u2019s EMIB Packaging Win and AI Growth Optimism"
+            "time": "00:21",
+            "tag": "MERCADO",
+            "text": "Gartner IT Infrastructure, Operations & Cloud Strategies Conference 2025 Las Vegas: Day 1 Highlights"
         },
         {
-            "time": "21:57",
+            "time": "23:09",
             "tag": "MERCADO",
-            "text": "Why TD Cowen Still Sees Upside in Salesforce (CRM) on AgentForce Growth"
+            "text": "Micron (MU) Stock After Hours on December 9, 2025: HSBC\u2019s $330 Call, HBM Supercycle \u2013 and 9 Things to Watch Before the December 10 Open"
         },
         {
-            "time": "21:53",
+            "time": "23:08",
             "tag": "MERCADO",
-            "text": "Disney nominates former Apple COO Williams to board"
+            "text": "A Royals stadium at Aspiria would push T-Mobile out \u2014 What we know"
         },
         {
-            "time": "21:51",
+            "time": "23:07",
             "tag": "MERCADO",
-            "text": "VeriSign Inc. stock underperforms Tuesday when compared to competitors"
+            "text": "Datadog\u2019s Le-Quoc Alexis sells $8.3m in shares"
         },
         {
-            "time": "21:42",
+            "time": "23:02",
             "tag": "MERCADO",
-            "text": "SLB's $30 Million Boost Brings 600 New Jobs to Shreveport By 2027"
+            "text": "Axcelis to Showcase Advanced Ion Implant Solutions at SEMICON Japan 2025"
         }
     ]
 }
