@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-10 03:25 UTC",
+        "last_updated": "2025-12-10 04:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 184.97,
-            "change": "-2.14%"
+            "change": "+2.08%"
         },
         {
             "symbol": "AMD",
             "price": 221.62,
-            "change": "-1.95%"
+            "change": "-2.85%"
         },
         {
             "symbol": "MSFT",
             "price": 492.02,
-            "change": "-3.08%"
+            "change": "+3.11%"
         },
         {
             "symbol": "CEG",
             "price": 359.15,
-            "change": "-3.3%"
+            "change": "+1.49%"
         },
         {
             "symbol": "VST",
             "price": 164.81,
-            "change": "-3.07%"
+            "change": "+1.55%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.48,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.5,
             0.5,
             0.49,
             0.49,
             0.49,
-            0.5,
-            0.5
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.82,
-            25.74,
-            26.11,
-            25.8,
-            26.05,
-            26.31,
-            25.88,
-            25.54,
-            25.15,
-            25.16,
-            25.4,
-            25.0
+            26.35,
+            26.26,
+            26.25,
+            26.2,
+            26.04,
+            25.73,
+            25.31,
+            24.85,
+            24.72,
+            24.66,
+            24.84,
+            24.56
         ],
         "hsd_history_software": [
-            10.31,
-            10.41,
-            10.23,
-            10.03,
-            9.97,
-            10.05,
-            10.09,
-            10.11,
-            10.2,
+            10.6,
+            10.8,
+            10.92,
+            10.73,
+            10.74,
+            10.57,
+            10.57,
+            10.49,
             10.28,
-            10.28,
-            10.12
+            10.17,
+            10.22,
+            10.09
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:05",
+            "time": "03:51",
             "tag": "MERCADO",
-            "text": "Hewlett Packard Enterprise EVP Schultz sells $1.96m in HPE stock"
+            "text": "ServiceNow (NOW): Has the Recent Share Price Dip Created a Valuation Opportunity?"
         },
         {
-            "time": "01:50",
+            "time": "03:43",
             "tag": "MERCADO",
-            "text": "Webull\u2019s Rollercoaster: Is It Time to Jump In?"
+            "text": "Is Emerson Electric (EMR) Still Undervalued After Its Recent Outperformance?"
         },
         {
-            "time": "01:50",
-            "tag": "MERCADO",
-            "text": "Bitfarms Ltd.: Unveiling Future Prospects"
+            "time": "03:20",
+            "tag": "AI",
+            "text": "Microsoft to spend $17.5B on AI infrastructure to support India\u2019s AI ambitions"
         },
         {
-            "time": "01:32",
-            "tag": "MERCADO",
-            "text": "Cadence design systems CEO Devgan sells $6.8 million in stock"
+            "time": "03:08",
+            "tag": "AI",
+            "text": "Drone Policing Coming to Rialto as City OKs $14.3 Million Axon AI Deal, Prompting Privacy Concerns"
         },
         {
-            "time": "01:10",
+            "time": "03:04",
             "tag": "MERCADO",
-            "text": "TD Cowen Lifts Target on Applied Materials (AMAT) to $315, Names It a \"Top 2026 Idea\""
+            "text": "Alecta Pensionsforsakring Reduces Stake in Alphabet Inc."
         }
     ]
 }
