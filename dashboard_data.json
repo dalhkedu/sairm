@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-10 09:28 UTC",
+        "last_updated": "2025-12-10 10:28 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 184.97,
-            "change": "+0.47%"
+            "change": "+0.62%"
         },
         {
             "symbol": "AMD",
             "price": 221.62,
-            "change": "+0.06%"
+            "change": "+0.7%"
         },
         {
             "symbol": "MSFT",
             "price": 492.02,
-            "change": "-0.92%"
+            "change": "-0.93%"
         },
         {
             "symbol": "CEG",
             "price": 359.15,
-            "change": "-3.18%"
+            "change": "-2.59%"
         },
         {
             "symbol": "VST",
-            "price": 164.81,
-            "change": "+1.22%"
+            "price": NaN,
+            "change": "+0.07%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.45,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.5,
-            0.5
+            0.55,
+            0.55,
+            0.55,
+            0.55,
+            0.55,
+            0.54,
+            0.54,
+            0.53,
+            0.52,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.7,
-            25.8,
-            25.54,
-            25.52,
-            25.67,
-            26.09,
-            26.28,
-            25.98,
-            25.76,
-            25.48,
-            25.73,
-            25.23
+            26.27,
+            25.81,
+            25.87,
+            25.46,
+            25.69,
+            26.06,
+            25.77,
+            26.05,
+            25.64,
+            25.66,
+            25.23,
+            25.05
         ],
         "hsd_history_software": [
-            10.86,
-            10.76,
-            10.77,
-            10.96,
-            10.97,
-            10.88,
-            10.91,
-            10.89,
-            10.68,
-            10.5,
-            10.3,
-            10.1
+            10.13,
+            10.19,
+            10.24,
+            10.31,
+            10.15,
+            10.23,
+            10.1,
+            10.06,
+            9.89,
+            9.89,
+            9.75,
+            9.9
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:24",
+            "time": "09:02",
             "tag": "MERCADO",
-            "text": "KraneShares Hang Seng TECH Index ETF (NYSEARCA:KTEC) Shares Down 2% \u2013 Should You Sell?"
+            "text": "NVIDIA Corporation $NVDA Shares Acquired by EFG Asset Management Americas Corp."
         },
         {
-            "time": "07:18",
-            "tag": "MERCADO",
-            "text": "Has KLA\u2019s 92.5% Surge in 2025 Pushed Its Valuation Too Far?"
-        },
-        {
-            "time": "07:09",
-            "tag": "MERCADO",
-            "text": "Synopsys Gears Up For Q4 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analysts"
-        },
-        {
-            "time": "07:00",
+            "time": "09:02",
             "tag": "AI",
-            "text": "What Keysight Technologies (KEYS)'s AI-Powered FieldFox Analyzer Launch Means For Shareholders"
+            "text": "FIS (NYSE: FIS) survey: 50% of UK consumers anxious about GenAI in banking today"
         },
         {
-            "time": "06:49",
+            "time": "08:55",
             "tag": "MERCADO",
-            "text": "Akamai Technologies Announces Acquisition of Function-as-a-Service Company Fermyon"
+            "text": "Wells Fargo Job Cuts Confirmed for 2026 as Businesses Chase Efficiency"
+        },
+        {
+            "time": "08:53",
+            "tag": "MERCADO",
+            "text": "Axa S.A. Sells 363,414 Shares of NetApp, Inc. $NTAP"
+        },
+        {
+            "time": "08:50",
+            "tag": "MERCADO",
+            "text": "Microchip Garners Three Awards at EE Awards Asia 2025"
         }
     ]
 }
