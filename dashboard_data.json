@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-10 19:20 UTC",
+        "last_updated": "2025-12-10 20:28 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 183.21,
-            "change": "-2.37%"
+            "price": 183.93,
+            "change": "-0.91%"
         },
         {
             "symbol": "AMD",
-            "price": 220.72,
-            "change": "+1.94%"
+            "price": 222.4,
+            "change": "+0.72%"
         },
         {
             "symbol": "MSFT",
-            "price": 477.86,
-            "change": "-1.91%"
+            "price": 478.0,
+            "change": "-1.06%"
         },
         {
             "symbol": "CEG",
-            "price": 359.15,
-            "change": "-0.34%"
+            "price": 362.84,
+            "change": "+0.66%"
         },
         {
             "symbol": "VST",
-            "price": 164.6,
-            "change": "+1.59%"
+            "price": 165.11,
+            "change": "+0.62%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.68,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            25.58,
-            25.41,
-            25.59,
-            25.14,
-            24.79,
-            24.38,
-            24.38,
+            24.89,
+            25.07,
+            24.6,
+            24.64,
             24.87,
-            24.87,
-            24.59,
-            24.94,
-            25.05
+            25.01,
+            24.92,
+            24.86,
+            25.33,
+            25.0,
+            24.86,
+            24.92
         ],
         "hsd_history_software": [
-            10.98,
-            10.83,
-            10.9,
-            10.8,
-            10.92,
-            10.86,
-            10.72,
-            10.61,
-            10.5,
-            10.32,
+            9.8,
+            9.81,
+            9.62,
+            9.7,
+            9.82,
+            9.88,
+            10.03,
             10.14,
-            10.16
+            10.18,
+            10.19,
+            10.11,
+            10.11
         ],
         "rci_data": [
             85.0,
-            18.321
+            18.393
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:01",
+            "time": "19:55",
             "tag": "MERCADO",
-            "text": "Bernstein Reiterates \u201cBuy\u201d Rating on Oracle Corporation (ORCL) with $364 PT"
+            "text": "DPR Sebut Spin-off Bisnis Fiber Telkom Jadi Solusi Efisiensi Industri Telekomunikasi"
         },
         {
-            "time": "18:00",
-            "tag": "RESULTADOS",
-            "text": "Jabil Prepares For Key Earnings During AI, Infrastructure Shifts"
+            "time": "19:04",
+            "tag": "MERCADO",
+            "text": "Avago, Costco, Lululemon, and more set to report earnings Thursday"
         },
         {
-            "time": "17:59",
+            "time": "19:02",
             "tag": "MERCADO",
-            "text": "Tesla class action claims Powerwall 2 battery systems are defective"
+            "text": "Keysight Recognized for Corporate Social Responsibility Efforts"
         },
         {
-            "time": "17:55",
+            "time": "18:49",
             "tag": "MERCADO",
-            "text": "Form 424B2 JPMORGAN CHASE & CO"
+            "text": "JPMorgan supercharges its bet on national security by hiring Combs from Berkshire"
         },
         {
-            "time": "17:24",
+            "time": "18:47",
             "tag": "MERCADO",
-            "text": "Fifth Third, Brex ink corporate card partnership"
+            "text": "Kagan Media & Telecom Summit 2026"
         }
     ]
 }
