@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-10 11:21 UTC",
+        "last_updated": "2025-12-10 12:52 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 184.97,
-            "change": "+0.19%"
+            "change": "+0.81%"
         },
         {
             "symbol": "AMD",
             "price": 221.62,
-            "change": "-0.49%"
+            "change": "-1.78%"
         },
         {
             "symbol": "MSFT",
             "price": 492.02,
-            "change": "-0.57%"
+            "change": "+3.16%"
         },
         {
             "symbol": "CEG",
             "price": 359.15,
-            "change": "-0.58%"
+            "change": "+1.76%"
         },
         {
             "symbol": "VST",
             "price": 164.81,
-            "change": "+1.32%"
+            "change": "-0.79%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.69,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.51,
+            0.52,
+            0.52,
+            0.52,
             0.51,
             0.5,
             0.51,
             0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
             0.51,
             0.51,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            25.29,
-            25.27,
-            25.12,
-            25.42,
+            25.5,
+            25.78,
+            26.03,
+            25.65,
+            25.17,
+            25.49,
             25.04,
-            25.05,
-            24.76,
             24.83,
             25.01,
-            25.09,
-            25.12,
-            25.31
+            24.89,
+            24.95,
+            24.76
         ],
         "hsd_history_software": [
-            10.05,
             9.94,
-            9.76,
-            9.8,
+            10.07,
+            9.96,
+            9.94,
+            9.87,
+            9.98,
             9.91,
-            10.03,
-            10.05,
-            10.17,
+            10.0,
             10.13,
-            10.06,
-            10.1,
-            10.02
+            10.23,
+            10.2,
+            10.13
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:27",
+            "time": "12:09",
             "tag": "MERCADO",
-            "text": "Nio's LiDAR supplier Seyond debuts on Hong Kong stock market"
+            "text": "HIVE Digital reports record bitcoin production, expands mining capacity"
         },
         {
-            "time": "10:02",
+            "time": "12:07",
             "tag": "MERCADO",
-            "text": "Verisk, KYND Expand Collaboration to Strengthen Cyber Resilience for Insurers"
+            "text": "Match Group stock rating reiterated as Market Perform by Raymond James"
         },
         {
-            "time": "10:02",
-            "tag": "MERCADO",
-            "text": "Verisk (Nasdaq: VRSK), KYND expand cyber tools as 80% of UK top retailers exposed"
+            "time": "12:06",
+            "tag": "AI",
+            "text": "Japan's Energy Ambitions; AI in Asian Commodities; and Saudi Arabia's Private Capital Potential"
         },
         {
-            "time": "09:59",
+            "time": "12:03",
             "tag": "MERCADO",
-            "text": "Bank of Nova Scotia Buys 1,130 Shares of Monolithic Power Systems, Inc. $MPWR"
+            "text": "NaaS Technology Inc. Regains Compliance with Nasdaq Minimum Market Value of Listed Securities Requirement"
         },
         {
-            "time": "09:59",
+            "time": "12:02",
             "tag": "MERCADO",
-            "text": "California Public Employees Retirement System Has $62.99 Million Stake in Gen Digital Inc. $GEN"
+            "text": "Keeper Security Launches ServiceNow Integration to Improve Visibility and Response to Cyber Attacks"
         }
     ]
 }
