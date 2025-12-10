@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-10 12:52 UTC",
+        "last_updated": "2025-12-10 13:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 184.97,
-            "change": "+0.81%"
+            "change": "+1.04%"
         },
         {
             "symbol": "AMD",
             "price": 221.62,
-            "change": "-1.78%"
+            "change": "+1.37%"
         },
         {
             "symbol": "MSFT",
             "price": 492.02,
-            "change": "+3.16%"
+            "change": "-3.46%"
         },
         {
             "symbol": "CEG",
             "price": 359.15,
-            "change": "+1.76%"
+            "change": "+1.79%"
         },
         {
             "symbol": "VST",
             "price": 164.81,
-            "change": "-0.79%"
+            "change": "+2.23%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.46,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
+            0.49,
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.49,
             0.5,
-            0.51,
             0.5,
-            0.51,
-            0.51,
-            0.51
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.5,
-            25.78,
-            26.03,
-            25.65,
-            25.17,
-            25.49,
-            25.04,
-            24.83,
-            25.01,
-            24.89,
-            24.95,
-            24.76
+            24.93,
+            25.27,
+            25.24,
+            24.78,
+            24.72,
+            25.09,
+            25.0,
+            25.0,
+            24.84,
+            24.93,
+            24.58,
+            25.07
         ],
         "hsd_history_software": [
-            9.94,
-            10.07,
-            9.96,
-            9.94,
-            9.87,
-            9.98,
-            9.91,
-            10.0,
-            10.13,
-            10.23,
-            10.2,
-            10.13
+            9.55,
+            9.38,
+            9.53,
+            9.49,
+            9.68,
+            9.61,
+            9.59,
+            9.53,
+            9.69,
+            9.88,
+            9.86,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:09",
-            "tag": "MERCADO",
-            "text": "HIVE Digital reports record bitcoin production, expands mining capacity"
-        },
-        {
-            "time": "12:07",
-            "tag": "MERCADO",
-            "text": "Match Group stock rating reiterated as Market Perform by Raymond James"
-        },
-        {
-            "time": "12:06",
+            "time": "13:02",
             "tag": "AI",
-            "text": "Japan's Energy Ambitions; AI in Asian Commodities; and Saudi Arabia's Private Capital Potential"
+            "text": "S&P Global Advances AI-Powered Enterprise Transformation Through Strategic Partnership with Google Cloud"
         },
         {
-            "time": "12:03",
-            "tag": "MERCADO",
-            "text": "NaaS Technology Inc. Regains Compliance with Nasdaq Minimum Market Value of Listed Securities Requirement"
+            "time": "13:02",
+            "tag": "AI",
+            "text": "S&P Global (NYSE: SPGI) taps Google Cloud to unify data and boost agentic AI"
         },
         {
-            "time": "12:02",
+            "time": "13:02",
             "tag": "MERCADO",
-            "text": "Keeper Security Launches ServiceNow Integration to Improve Visibility and Response to Cyber Attacks"
+            "text": "Adobe brings Photoshop, Acrobat and Adobe Express to ChatGPT"
+        },
+        {
+            "time": "12:57",
+            "tag": "MERCADO",
+            "text": "This satellite communications stock has quadrupled in 2025. Morgan Stanley sees more gains ahead"
+        },
+        {
+            "time": "12:54",
+            "tag": "MERCADO",
+            "text": "Texas Instruments Incorporated $TXN Shares Bought by Sirios Capital Management L P"
         }
     ]
 }
