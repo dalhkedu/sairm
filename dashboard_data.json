@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-11 17:28 UTC",
+        "last_updated": "2025-12-11 18:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 178.46,
-            "change": "-2.98%"
+            "price": 179.42,
+            "change": "-0.44%"
         },
         {
             "symbol": "AMD",
-            "price": 215.62,
-            "change": "-0.64%"
+            "price": 217.76,
+            "change": "-2.42%"
         },
         {
             "symbol": "MSFT",
-            "price": 480.63,
-            "change": "-3.23%"
+            "price": 482.35,
+            "change": "-2.81%"
         },
         {
             "symbol": "CEG",
-            "price": 361.11,
-            "change": "-1.18%"
+            "price": NaN,
+            "change": "-1.14%"
         },
         {
             "symbol": "VST",
-            "price": 165.69,
-            "change": "-0.11%"
+            "price": 170.48,
+            "change": "-0.35%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.67,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.5,
-            0.51,
-            0.5,
             0.5,
             0.49,
             0.5,
+            0.5,
+            0.5,
             0.51,
+            0.52,
+            0.52,
+            0.52,
             0.51,
             0.5,
-            0.49,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            23.07,
-            23.38,
-            23.34,
-            23.6,
-            24.02,
-            24.31,
-            24.79,
+            25.85,
+            25.37,
+            24.99,
+            24.75,
+            24.42,
+            24.87,
+            24.74,
+            24.59,
+            24.95,
             25.18,
-            25.44,
-            25.24,
-            25.14,
-            24.65
+            25.51,
+            25.4
         ],
         "hsd_history_software": [
-            10.37,
-            10.49,
-            10.37,
-            10.33,
-            10.21,
-            10.17,
-            10.31,
-            10.34,
-            10.15,
-            10.14,
-            10.26,
-            10.15
+            9.36,
+            9.42,
+            9.32,
+            9.27,
+            9.22,
+            9.3,
+            9.3,
+            9.46,
+            9.64,
+            9.75,
+            9.8,
+            9.89
         ],
         "rci_data": [
             85.0,
-            17.846
+            17.942
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:06",
+            "time": "17:48",
             "tag": "MERCADO",
-            "text": "Equinix targets 150MW campus in Lelystad, Netherlands"
+            "text": "Is It Too Late To Consider VeriSign After Its Recent 18% Year To Date Surge"
         },
         {
-            "time": "16:04",
+            "time": "17:31",
             "tag": "AI",
-            "text": "McDonald\u2019s pulls Grinchy AI-made Christmas ad after avalanche of complaints"
+            "text": "The latest from the evolving AI channel: 11 December: ThoughtSpot, F5, NetApp..."
         },
         {
-            "time": "16:02",
-            "tag": "AI",
-            "text": "Why the Marzetti Company\u2019s master data project is paying off in the AI era"
-        },
-        {
-            "time": "16:02",
+            "time": "17:31",
             "tag": "MERCADO",
-            "text": "Keysight (NYSE: KEYS) and KT SAT validate Ku-band GEO to LEO NTN handover for 3GPP Rel-19"
+            "text": "Texas AT&T customers still have time to claim up to $7,500 in breach settlement"
         },
         {
-            "time": "16:02",
+            "time": "17:27",
             "tag": "MERCADO",
-            "text": "HII (NYSE: HII) advances ROMULUS USV prototype to 30%, targets 2026 sea trials"
+            "text": "AMD (AMD) Stock Trades Down, Here Is Why"
+        },
+        {
+            "time": "17:16",
+            "tag": "MERCADO",
+            "text": "Caesars Entertainment Launches Signature Baccarat Online Casino Game"
         }
     ]
 }
