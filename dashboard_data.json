@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-11 15:29 UTC",
+        "last_updated": "2025-12-11 16:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 178.28,
-            "change": "-3.19%"
+            "price": 177.12,
+            "change": "-2.11%"
         },
         {
             "symbol": "AMD",
-            "price": 214.14,
-            "change": "+2.45%"
+            "price": 213.36,
+            "change": "+1.99%"
         },
         {
             "symbol": "MSFT",
-            "price": 480.68,
-            "change": "+2.79%"
+            "price": 479.79,
+            "change": "+0.88%"
         },
         {
             "symbol": "CEG",
-            "price": 363.7,
-            "change": "-2.81%"
+            "price": 360.91,
+            "change": "-3.19%"
         },
         {
             "symbol": "VST",
-            "price": 166.02,
-            "change": "-1.72%"
+            "price": 165.77,
+            "change": "+0.25%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.56,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
             0.49,
             0.48,
             0.49,
             0.49,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.51
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.27,
-            24.55,
-            24.9,
-            25.21,
-            24.89,
-            25.13,
-            24.74,
-            25.04,
-            25.35,
-            25.12,
-            25.35,
-            25.35
+            25.95,
+            26.1,
+            26.25,
+            26.38,
+            26.49,
+            26.12,
+            25.85,
+            25.39,
+            25.7,
+            26.2,
+            25.74,
+            25.48
         ],
         "hsd_history_software": [
+            9.48,
+            9.48,
+            9.64,
+            9.78,
+            9.71,
+            9.77,
+            9.93,
+            10.04,
+            10.17,
+            10.17,
             10.27,
-            10.42,
-            10.5,
-            10.43,
-            10.41,
-            10.28,
-            10.16,
-            10.23,
-            10.07,
-            10.01,
-            10.05,
-            10.0
+            10.08
         ],
         "rci_data": [
             85.0,
-            17.828
+            17.712
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:08",
+            "time": "16:06",
             "tag": "MERCADO",
-            "text": "The Manufacturers Life Insurance Company Sells 113,958 Shares of Texas Instruments Incorporated $TXN"
+            "text": "Equinix targets 150MW campus in Lelystad, Netherlands"
         },
         {
-            "time": "14:05",
+            "time": "16:04",
             "tag": "AI",
-            "text": "New Intuit AI Suites Promise Faster Deployment and ROI"
+            "text": "McDonald\u2019s pulls Grinchy AI-made Christmas ad after avalanche of complaints"
         },
         {
-            "time": "14:03",
-            "tag": "MERCADO",
-            "text": "Denver Broncos and Verizon Business enhance stadium operations and fan experiences"
-        },
-        {
-            "time": "14:03",
+            "time": "16:02",
             "tag": "AI",
-            "text": "The Walt Disney Company and OpenAI Reach Agreement to Bring Disney Characters to Sora"
+            "text": "Why the Marzetti Company\u2019s master data project is paying off in the AI era"
         },
         {
-            "time": "14:01",
+            "time": "16:02",
             "tag": "MERCADO",
-            "text": "Verizon (NYSE: VZ) deploys 2,400 Wi\u2011Fi 6E access points at Broncos\u2019 Empower Field"
+            "text": "Keysight (NYSE: KEYS) and KT SAT validate Ku-band GEO to LEO NTN handover for 3GPP Rel-19"
+        },
+        {
+            "time": "16:02",
+            "tag": "MERCADO",
+            "text": "HII (NYSE: HII) advances ROMULUS USV prototype to 30%, targets 2026 sea trials"
         }
     ]
 }
