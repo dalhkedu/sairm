@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-11 05:26 UTC",
+        "last_updated": "2025-12-11 06:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.78,
-            "change": "+2.97%"
+            "change": "+0.42%"
         },
         {
             "symbol": "AMD",
             "price": 221.42,
-            "change": "-2.11%"
+            "change": "-2.46%"
         },
         {
             "symbol": "MSFT",
             "price": 478.56,
-            "change": "-0.02%"
+            "change": "+0.04%"
         },
         {
             "symbol": "CEG",
             "price": 362.07,
-            "change": "-1.46%"
+            "change": "-3.49%"
         },
         {
             "symbol": "VST",
             "price": 165.17,
-            "change": "+1.73%"
+            "change": "-1.73%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.46,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
+            0.52,
+            0.52,
+            0.53,
+            0.52,
+            0.53,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.5,
-            0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            25.6,
-            25.43,
-            25.63,
-            25.76,
-            25.58,
-            25.17,
-            24.89,
-            24.56,
-            24.72,
-            25.05,
-            24.57,
-            24.94
+            26.12,
+            25.73,
+            25.45,
+            25.29,
+            25.55,
+            25.68,
+            25.52,
+            25.96,
+            25.93,
+            25.66,
+            25.2,
+            25.13
         ],
         "hsd_history_software": [
-            9.36,
-            9.53,
-            9.58,
-            9.73,
-            9.75,
-            9.89,
-            9.76,
-            9.88,
+            10.11,
+            10.19,
+            10.06,
+            9.92,
+            10.04,
+            9.93,
+            9.9,
+            10.09,
             10.0,
-            9.87,
-            9.86,
-            10.04
+            9.85,
+            9.92,
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:10",
+            "time": "06:07",
             "tag": "MERCADO",
-            "text": "Shoppers Swarm 'Amazon Of Africa' Jumia In Black Friday Frenzy"
+            "text": "Capgemini named a Leader in 2025 Gartner\u00ae Magic Quadrant for Custom Software Development Services"
         },
         {
-            "time": "04:08",
+            "time": "05:07",
+            "tag": "MERCADO",
+            "text": "City Council approves $5.8 million body camera, police technology contract with Axon Enterprise"
+        },
+        {
+            "time": "05:07",
             "tag": "AI",
-            "text": "Amazon to invest $35B in India by 2030 with focus on AI, logistics"
+            "text": "Broadcom (AVGO) Stock After Hours on December 10, 2025: AI Rally, Fed Cut and What to Watch Before the December 11 Open"
         },
         {
-            "time": "03:08",
+            "time": "05:01",
             "tag": "MERCADO",
-            "text": "What Sparked CapsoVision's (CV) 53% Surge In After-Hours Trading?"
+            "text": "Solace and NetComm to demo wireless 5G window CPE with Gentex (NASDAQ: GNTX) in 2026"
         },
         {
-            "time": "02:40",
+            "time": "04:48",
             "tag": "MERCADO",
-            "text": "Hp inc Pres Olson sells $415k in shares"
-        },
-        {
-            "time": "02:34",
-            "tag": "AI",
-            "text": "Salesforce launches Agentforce 360 to enable no-code AI agents in Korea and beyond - CHOSUNBIZ"
+            "text": "EPAM Systems Stock Rockets 15% With 9-Day Winning Streak"
         }
     ]
 }
