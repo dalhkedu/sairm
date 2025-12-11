@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-11 12:53 UTC",
+        "last_updated": "2025-12-11 13:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.78,
-            "change": "-2.02%"
+            "change": "-2.98%"
         },
         {
             "symbol": "AMD",
             "price": 221.42,
-            "change": "-2.5%"
+            "change": "+3.1%"
         },
         {
             "symbol": "MSFT",
             "price": 478.56,
-            "change": "+0.64%"
+            "change": "+2.85%"
         },
         {
             "symbol": "CEG",
             "price": 362.07,
-            "change": "-3.5%"
+            "change": "+0.23%"
         },
         {
             "symbol": "VST",
             "price": 165.17,
-            "change": "+0.63%"
+            "change": "-1.87%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.4,
+        "cer_current": 0.45,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.49
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.36,
-            25.13,
-            25.15,
-            25.57,
-            25.72,
-            25.96,
-            26.14,
-            25.7,
-            25.22,
-            25.3,
-            25.39,
-            25.2
+            25.89,
+            25.56,
+            25.29,
+            24.81,
+            24.42,
+            23.98,
+            24.36,
+            24.52,
+            24.62,
+            25.07,
+            25.04,
+            25.4
         ],
         "hsd_history_software": [
-            9.66,
-            9.56,
-            9.61,
-            9.53,
-            9.44,
-            9.48,
-            9.66,
-            9.68,
+            10.12,
+            9.93,
+            9.91,
             9.87,
-            10.02,
-            10.07,
-            9.97
+            9.83,
+            9.99,
+            10.15,
+            10.03,
+            9.84,
+            9.93,
+            9.9,
+            10.01
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:09",
+            "time": "13:08",
             "tag": "MERCADO",
-            "text": "Angelo Lopresti sells IPG Photonics (IPGP) stock worth $127604"
+            "text": "Verizon Communications Inc. (VZ) Announces Quarterly Dividend"
         },
         {
-            "time": "12:09",
+            "time": "13:03",
             "tag": "MERCADO",
-            "text": "Bio-Techne (NASDAQ: TECH) and Wyss Geneva to develop automated 3D multiomics workflow"
+            "text": "Wall Street Bullish on Uber Technologies (UBER), Here's Why"
         },
         {
-            "time": "11:54",
-            "tag": "MERCADO",
-            "text": "Phreesia stock price target lowered to $25 at Raymond James on guidance cut"
+            "time": "13:02",
+            "tag": "AI",
+            "text": "Oracle (NYSE: ORCL) Opower to deliver AI energy insights to Xcel\u2019s 3.9 million electric customers"
         },
         {
-            "time": "11:52",
+            "time": "13:02",
             "tag": "MERCADO",
-            "text": "Natixis Boosts Position in Tyler Technologies, Inc. $TYL"
+            "text": "Thoughtworks Recognized as a Visionary in 2025 Gartner\u00ae Magic Quadrant\u2122 for Custom Software Development Services"
         },
         {
-            "time": "11:51",
+            "time": "13:02",
             "tag": "MERCADO",
-            "text": "Bio-techne and Wyss Center partner to develop automated 3D multiomics"
+            "text": "FIS (NYSE: FIS) designated a Leader in Gartner Magic Quadrant for North America retail core banking"
         }
     ]
 }
