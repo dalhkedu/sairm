@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-10 23:20 UTC",
+        "last_updated": "2025-12-11 01:55 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.78,
-            "change": "+1.81%"
+            "change": "-2.51%"
         },
         {
             "symbol": "AMD",
             "price": 221.42,
-            "change": "+1.37%"
+            "change": "+0.6%"
         },
         {
             "symbol": "MSFT",
             "price": 478.56,
-            "change": "+0.26%"
+            "change": "+0.83%"
         },
         {
             "symbol": "CEG",
             "price": 362.07,
-            "change": "-1.18%"
+            "change": "+0.53%"
         },
         {
             "symbol": "VST",
             "price": 165.17,
-            "change": "+3.46%"
+            "change": "+0.44%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.69,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
             0.48,
+            0.48,
             0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
             0.49,
             0.5,
             0.5,
-            0.5
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            27.46,
-            27.02,
-            26.79,
-            27.12,
-            26.59,
-            26.62,
-            26.24,
-            25.93,
-            25.89,
-            26.21,
-            25.89,
-            25.46
+            24.67,
+            24.99,
+            24.82,
+            24.86,
+            24.58,
+            24.74,
+            25.24,
+            24.86,
+            24.56,
+            24.6,
+            24.6,
+            24.59
         ],
         "hsd_history_software": [
-            9.4,
-            9.59,
-            9.56,
-            9.56,
-            9.7,
-            9.72,
-            9.72,
-            9.56,
-            9.69,
-            9.82,
-            9.75,
-            9.8
+            10.58,
+            10.38,
+            10.26,
+            10.35,
+            10.15,
+            10.05,
+            9.95,
+            9.99,
+            9.85,
+            9.87,
+            9.93,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:08",
+            "time": "00:24",
             "tag": "MERCADO",
-            "text": "Absci and U.S. Soccer Legend Landon Donovan Partner to Champion the Patient Voice in Hair Loss Research"
+            "text": "Insider Sell: Thomas Fountain Sells 1,110 Shares of F5 Inc (FFIV)"
         },
         {
-            "time": "22:08",
+            "time": "00:22",
             "tag": "MERCADO",
-            "text": "Seagate Technology Holdings PLC stock outperforms competitors on strong trading day"
+            "text": "Insider Sell: Richard Dalzell Sells Shares of Intuit Inc (INTU)"
         },
         {
-            "time": "22:07",
-            "tag": "MERCADO",
-            "text": "Adobe forecasts annual revenue above estimates"
+            "time": "00:21",
+            "tag": "RESULTADOS",
+            "text": "Earnings call transcript: Electrovaya Q4 2025 sees strong revenue growth By Investing.com"
         },
         {
-            "time": "22:04",
+            "time": "00:10",
             "tag": "MERCADO",
-            "text": "Intuit director Cook sells $98 million in shares"
+            "text": "Cadence design systems SVP Teng sells $2.02 million in stock"
         },
         {
-            "time": "22:03",
+            "time": "23:11",
             "tag": "MERCADO",
-            "text": "Veea and Viasat Mexico partner to expand digital inclusion"
+            "text": "Nordson Sets An Upbeat Profit Target For 2026"
         }
     ]
 }
