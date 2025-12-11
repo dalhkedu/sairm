@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-11 19:22 UTC",
+        "last_updated": "2025-12-11 20:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 180.62,
-            "change": "-1.56%"
+            "price": NaN,
+            "change": "+2.63%"
         },
         {
             "symbol": "AMD",
-            "price": 220.18,
-            "change": "+2.83%"
+            "price": 219.85,
+            "change": "-0.82%"
         },
         {
             "symbol": "MSFT",
-            "price": 485.67,
-            "change": "+2.44%"
+            "price": 484.48,
+            "change": "-2.64%"
         },
         {
             "symbol": "CEG",
-            "price": 371.32,
-            "change": "+2.45%"
+            "price": 377.73,
+            "change": "-2.56%"
         },
         {
             "symbol": "VST",
-            "price": 171.49,
-            "change": "-2.74%"
+            "price": 174.34,
+            "change": "-2.73%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
-        "rci_current": 0.18,
+        "cer_current": 0.6,
+        "rci_current": NaN,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.54,
+            0.55,
+            0.54,
+            0.54,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
             0.51,
             0.52,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
             0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            25.25,
-            25.29,
-            25.57,
-            25.63,
-            25.38,
-            25.46,
-            25.57,
-            25.09,
-            25.01,
-            24.85,
-            25.33,
-            25.35
+            26.12,
+            25.77,
+            25.35,
+            25.06,
+            25.02,
+            24.83,
+            24.56,
+            24.4,
+            24.78,
+            24.95,
+            25.27,
+            24.83
         ],
         "hsd_history_software": [
-            9.69,
-            9.67,
-            9.63,
+            9.5,
+            9.52,
             9.66,
-            9.61,
-            9.7,
-            9.76,
-            9.78,
-            9.92,
-            9.78,
-            9.89,
-            10.08
+            9.47,
+            9.59,
+            9.67,
+            9.84,
+            9.77,
+            9.74,
+            9.66,
+            9.82,
+            9.85
         ],
         "rci_data": [
             85.0,
-            18.062
+            NaN
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:48",
+            "time": "19:09",
             "tag": "MERCADO",
-            "text": "Is It Too Late To Consider VeriSign After Its Recent 18% Year To Date Surge"
+            "text": "Ngai-Pesic buys Silvaco Group shares worth $103k"
         },
         {
-            "time": "17:31",
+            "time": "19:03",
+            "tag": "MERCADO",
+            "text": "ServiceNow (NOW) Deepens Its Long-Term Commitment to Canada with CA$110 Million Investment; Analysts Remain Bullish"
+        },
+        {
+            "time": "19:02",
+            "tag": "MERCADO",
+            "text": "L3Harris Technologies (NYSE: LHX) demos 5G network linking federal and border systems"
+        },
+        {
+            "time": "19:02",
+            "tag": "MERCADO",
+            "text": "Keysight and KT SAT Achieve Industry-First Multi-Orbit NTN Handover Between GEO Satellite and Emulated LEO Link"
+        },
+        {
+            "time": "19:02",
             "tag": "AI",
-            "text": "The latest from the evolving AI channel: 11 December: ThoughtSpot, F5, NetApp..."
-        },
-        {
-            "time": "17:31",
-            "tag": "MERCADO",
-            "text": "Texas AT&T customers still have time to claim up to $7,500 in breach settlement"
-        },
-        {
-            "time": "17:27",
-            "tag": "MERCADO",
-            "text": "AMD (AMD) Stock Trades Down, Here Is Why"
-        },
-        {
-            "time": "17:16",
-            "tag": "MERCADO",
-            "text": "Caesars Entertainment Launches Signature Baccarat Online Casino Game"
+            "text": "Maple links with OpenTable (BKNG) to power 24/7 AI phone reservations for restaurants"
         }
     ]
 }
