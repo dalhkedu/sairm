@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-11 21:26 UTC",
+        "last_updated": "2025-12-11 22:23 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": NaN,
-            "change": "+1.15%"
+            "price": 180.93,
+            "change": "+0.12%"
         },
         {
             "symbol": "AMD",
             "price": 221.43,
-            "change": "-0.48%"
+            "change": "-2.6%"
         },
         {
             "symbol": "MSFT",
             "price": 483.47,
-            "change": "+2.76%"
+            "change": "-0.37%"
         },
         {
             "symbol": "CEG",
             "price": 378.6,
-            "change": "+1.22%"
+            "change": "-1.33%"
         },
         {
             "symbol": "VST",
             "price": 174.6,
-            "change": "+0.72%"
+            "change": "+1.0%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.4,
-        "rci_current": NaN,
+        "cer_current": 0.67,
+        "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
             0.48,
-            0.47,
-            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.48,
             0.49,
-            0.49,
-            0.49,
+            0.5,
             0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.19,
-            25.53,
-            25.65,
-            26.07,
-            25.86,
-            26.29,
-            26.39,
-            26.61,
-            26.12,
-            25.72,
-            25.25,
-            25.32
+            25.68,
+            25.55,
+            25.07,
+            24.76,
+            24.55,
+            24.24,
+            24.02,
+            24.3,
+            24.26,
+            24.75,
+            24.95,
+            24.72
         ],
         "hsd_history_software": [
-            9.85,
+            9.83,
+            9.92,
+            9.77,
+            9.71,
+            9.7,
+            9.64,
+            9.75,
+            9.69,
+            9.65,
+            9.83,
             10.02,
-            9.92,
-            10.06,
-            9.89,
-            9.88,
-            9.9,
-            9.86,
-            9.92,
-            10.1,
-            10.25,
-            10.13
+            9.94
         ],
         "rci_data": [
             85.0,
-            NaN
+            18.093
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "20:54",
+            "tag": "MERCADO",
+            "text": "Analog Devices stock hits all-time high at 283.24 USD By Investing.com"
+        },
+        {
+            "time": "20:31",
+            "tag": "MERCADO",
+            "text": "AMD Shares Rise 5% After Key Trading Signal"
+        },
+        {
+            "time": "20:28",
+            "tag": "MERCADO",
+            "text": "PG&E (PCG) launches dynamic line rating, asset health grid trial pilot in California"
+        },
+        {
             "time": "20:08",
             "tag": "MERCADO",
             "text": "|\u2018Iron Chef,\u2019 \u2018Forensic Files\u2019 Among FAST Channels in Radial-Telus Canada Deal (EXCLUSIVE)"
         },
         {
-            "time": "20:01",
+            "time": "20:08",
             "tag": "AI",
-            "text": "SLB, Shell partner to accelerate digital and AI solutions in upstream operations"
-        },
-        {
-            "time": "19:59",
-            "tag": "MERCADO",
-            "text": "PayPal downgraded by BofA as branded checkout turnaround stalls"
-        },
-        {
-            "time": "19:54",
-            "tag": "AI",
-            "text": "Inside Raymond James' plan to get an edge with AI"
-        },
-        {
-            "time": "19:42",
-            "tag": "MERCADO",
-            "text": "ITC Infotech (PTC) receives FY25 PTC Partner Network Award in global PLM category"
+            "text": "The latest from the evolving AI channel: 11 December: ThoughtSpot, F5, NetApp..."
         }
     ]
 }
