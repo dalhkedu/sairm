@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-12 20:27 UTC",
+        "last_updated": "2025-12-12 21:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 175.74,
-            "change": "+0.46%"
+            "price": 175.02,
+            "change": "-2.12%"
         },
         {
             "symbol": "AMD",
-            "price": 211.1,
-            "change": "+1.28%"
+            "price": 210.78,
+            "change": "-2.27%"
         },
         {
             "symbol": "MSFT",
-            "price": 478.21,
-            "change": "-3.44%"
+            "price": 478.53,
+            "change": "-2.71%"
         },
         {
             "symbol": "CEG",
-            "price": 353.0,
-            "change": "+0.62%"
+            "price": 351.98,
+            "change": "+3.09%"
         },
         {
             "symbol": "VST",
-            "price": 169.67,
-            "change": "-3.24%"
+            "price": 170.1,
+            "change": "-2.43%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.57,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.52,
-            0.51,
-            0.51,
             0.5,
-            0.5,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
             0.49,
             0.5,
             0.5,
             0.5,
             0.5,
-            0.5
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.75,
-            25.26,
-            25.73,
-            25.31,
+            25.56,
+            25.44,
+            24.94,
+            24.84,
+            25.22,
+            24.76,
             25.12,
-            25.35,
-            25.09,
-            25.39,
-            24.93,
-            24.58,
-            24.78,
-            24.84
+            24.8,
+            24.52,
+            24.54,
+            24.14,
+            24.58
         ],
         "hsd_history_software": [
-            10.11,
-            10.17,
-            10.03,
-            10.05,
-            9.93,
-            10.13,
-            10.28,
-            10.33,
-            10.42,
-            10.49,
-            10.31,
-            10.12
+            9.51,
+            9.69,
+            9.73,
+            9.59,
+            9.48,
+            9.42,
+            9.43,
+            9.59,
+            9.74,
+            9.83,
+            9.9,
+            9.99
         ],
         "rci_data": [
             85.0,
-            17.574
+            17.502000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "19:52",
+            "tag": "MERCADO",
+            "text": "Leidos Create Helps Women Return to STEM Roles in the UK"
+        },
+        {
+            "time": "19:38",
+            "tag": "MERCADO",
+            "text": "Geely Just Built the World's Largest Crash Lab--And It's Coming for Tesla's Safety Crown"
+        },
+        {
+            "time": "19:31",
+            "tag": "MERCADO",
+            "text": "Teradyne Robotics leaning into U.S. manufacturing reboot"
+        },
+        {
+            "time": "19:08",
+            "tag": "MERCADO",
+            "text": "Bank of America resets Broadcom stock price target"
+        },
+        {
             "time": "18:45",
             "tag": "MERCADO",
             "text": "Parallel Raises $20M in Series B Funding; Tyler Technologies Scoops Up Edulink"
-        },
-        {
-            "time": "18:43",
-            "tag": "MERCADO",
-            "text": "CommScope Shares Take a Breather After Stellar Run"
-        },
-        {
-            "time": "18:42",
-            "tag": "MERCADO",
-            "text": "Alphabet Stock Can Keep Winning. Analysts Are Excited About Search Again."
-        },
-        {
-            "time": "18:41",
-            "tag": "MERCADO",
-            "text": "Palo Alto Networks (PANW) Stock Today: December 12, 2025 News, Analyst Forecasts, and What\u2019s Driving the Next Move"
-        },
-        {
-            "time": "18:36",
-            "tag": "MERCADO",
-            "text": "KLA Corporation Stock (KLAC) News Today: Why Shares Are Moving, Latest Forecasts, and Key Risks to Watch (Dec. 12, 2025)"
         }
     ]
 }
