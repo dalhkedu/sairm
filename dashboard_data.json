@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-12 16:30 UTC",
+        "last_updated": "2025-12-12 17:23 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 176.32,
-            "change": "-0.54%"
+            "price": 177.25,
+            "change": "+2.56%"
         },
         {
             "symbol": "AMD",
-            "price": 210.48,
-            "change": "+0.19%"
+            "price": 212.9,
+            "change": "-0.18%"
         },
         {
             "symbol": "MSFT",
-            "price": 477.56,
-            "change": "-0.14%"
+            "price": 478.48,
+            "change": "-2.73%"
         },
         {
             "symbol": "CEG",
-            "price": 355.6,
-            "change": "-2.0%"
+            "price": 361.78,
+            "change": "+1.99%"
         },
         {
             "symbol": "VST",
-            "price": 168.72,
-            "change": "+0.23%"
+            "price": 171.79,
+            "change": "+3.36%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.69,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
+            0.51,
+            0.51,
             0.5,
-            0.51,
             0.5,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.5
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.24,
-            24.6,
-            24.91,
-            24.52,
-            24.26,
-            24.58,
-            24.12,
-            24.19,
-            24.23,
-            24.53,
-            25.02,
-            25.44
+            26.08,
+            26.45,
+            26.87,
+            27.04,
+            26.52,
+            26.51,
+            26.37,
+            25.99,
+            25.54,
+            25.75,
+            25.92,
+            25.43
         ],
         "hsd_history_software": [
-            9.75,
-            9.68,
-            9.61,
-            9.66,
-            9.6,
-            9.55,
-            9.69,
+            9.78,
+            9.81,
+            9.87,
+            9.8,
+            9.91,
+            9.94,
             9.79,
-            9.97,
-            9.86,
-            9.83,
-            9.86
+            9.84,
+            9.99,
+            10.04,
+            10.04,
+            10.05
         ],
         "rci_data": [
             85.0,
-            17.632
+            17.724999999999998
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:09",
+            "time": "16:09",
             "tag": "MERCADO",
-            "text": "Direxion Daily Semiconductor Bull 3x Shares ETF Options Spot-On: On December 11th, 182.28K Contracts Were Traded, With 1.29 Million Open Interest"
+            "text": "Wipro expands Google Cloud partnership; rolls out Gemini Enterprise across global ops"
         },
         {
-            "time": "15:05",
+            "time": "16:08",
             "tag": "MERCADO",
-            "text": "Collins Elbit Vision Systems' Zero-G Helmet Mounted Display System+ achieves key milestone with U.S. Navy"
+            "text": "Rocket Lab's $554M Revenue Dwarfs AST SpaceMobile's $18M Despite Identical $30B Valuations"
         },
         {
-            "time": "14:36",
+            "time": "16:06",
+            "tag": "MERCADO",
+            "text": "LDOS: Citigroup Initiates Coverage with a 'Buy' Rating | LDOS St"
+        },
+        {
+            "time": "15:46",
             "tag": "AI",
-            "text": "AI-powered police body cameras, once taboo, get tested on Canadian city\u2019s \u2018watch list\u2019 of faces"
+            "text": "VoltaGrid, Halliburton secure 400MW of modular natural gas manufacturing capacity for AI data center market"
         },
         {
-            "time": "14:36",
-            "tag": "MERCADO",
-            "text": "Nvidia employee says Microsoft's cooling system for Blackwell GPUs 'wasteful', company responds"
-        },
-        {
-            "time": "14:13",
-            "tag": "MERCADO",
-            "text": "Mizuho Securities Sticks to Their Buy Rating for Alphabet Class A (GOOGL)"
+            "time": "15:41",
+            "tag": "AI",
+            "text": "Qualcomm Just Got Called an AI Loser\u2014So Why Is It Rallying?"
         }
     ]
 }
