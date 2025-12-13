@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-13 18:30 UTC",
+        "last_updated": "2025-12-13 19:18 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.02,
-            "change": "-2.67%"
+            "change": "-1.68%"
         },
         {
             "symbol": "AMD",
             "price": 210.78,
-            "change": "-1.74%"
+            "change": "-3.08%"
         },
         {
             "symbol": "MSFT",
             "price": 478.53,
-            "change": "+2.55%"
+            "change": "-2.33%"
         },
         {
             "symbol": "CEG",
             "price": 351.98,
-            "change": "+2.5%"
+            "change": "+0.18%"
         },
         {
             "symbol": "VST",
             "price": 170.1,
-            "change": "-2.31%"
+            "change": "-2.65%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.4,
+        "cer_current": 0.48,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.52,
+            0.53,
             0.52,
             0.52,
+            0.52,
             0.51,
             0.51,
             0.51,
+            0.52,
             0.51,
             0.51,
-            0.51,
-            0.5,
-            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.79,
-            24.56,
-            24.93,
-            24.51,
-            24.31,
-            24.64,
-            24.44,
-            24.25,
-            24.7,
-            24.4,
-            24.86,
-            25.04
+            25.13,
+            25.08,
+            25.11,
+            25.11,
+            25.58,
+            25.31,
+            25.83,
+            25.85,
+            25.35,
+            25.03,
+            24.55,
+            25.05
         ],
         "hsd_history_software": [
-            9.93,
-            9.99,
-            9.93,
-            9.83,
-            10.01,
-            10.04,
-            10.22,
-            10.39,
-            10.23,
-            10.07,
-            10.08,
-            9.95
+            10.86,
+            10.72,
+            10.74,
+            10.76,
+            10.66,
+            10.62,
+            10.48,
+            10.43,
+            10.32,
+            10.3,
+            10.16,
+            10.03
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "18:09",
+            "tag": "MERCADO",
+            "text": "SanDisk (SNDK) Stock After Hours (Dec. 12, 2025): Why Shares Sank After the Bell\u2014and What to Watch Before the Next Market Open"
+        },
+        {
+            "time": "18:01",
+            "tag": "MERCADO",
+            "text": "Cisco Systems, Inc. (CSCO) shares hit a record high for the first time in over 25 years, Bloomberg reports"
+        },
+        {
+            "time": "17:46",
+            "tag": "MERCADO",
+            "text": "Walmart Inc. Common Stock (WMT) Formally Relocates On NASDAQ"
+        },
+        {
+            "time": "17:45",
+            "tag": "MERCADO",
+            "text": "Microchip Technology Sees Unusually High Options Volume (NASDAQ:MCHP)"
+        },
+        {
             "time": "15:50",
             "tag": "AI",
             "text": "Jim Cramer on Cisco: \"This Company's at the Heart of the AI Revolution\""
-        },
-        {
-            "time": "15:14",
-            "tag": "MERCADO",
-            "text": "Moffett Nathanson Raises Digital Realty Trust (NYSE:DLR) Price Target to $172.00"
-        },
-        {
-            "time": "14:35",
-            "tag": "MERCADO",
-            "text": "bEquinix (EQIX) Valuation Check as Long-Serving CFO Announces Retirement and Transition to Special Advisor"
-        },
-        {
-            "time": "14:21",
-            "tag": "MERCADO",
-            "text": "Citigroup Initiates Coverage on Teledyne Technologies (NYSE:TDY)"
-        },
-        {
-            "time": "14:09",
-            "tag": "MERCADO",
-            "text": "Third Point LLC Reduces Stock Position in Telephone and Data Systems, Inc. $TDS"
         }
     ]
 }
