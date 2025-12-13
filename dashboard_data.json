@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-13 15:21 UTC",
+        "last_updated": "2025-12-13 16:28 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.02,
-            "change": "-1.39%"
+            "change": "+2.91%"
         },
         {
             "symbol": "AMD",
             "price": 210.78,
-            "change": "-2.89%"
+            "change": "+2.88%"
         },
         {
             "symbol": "MSFT",
             "price": 478.53,
-            "change": "-0.43%"
+            "change": "-0.85%"
         },
         {
             "symbol": "CEG",
             "price": 351.98,
-            "change": "+3.48%"
+            "change": "+1.96%"
         },
         {
             "symbol": "VST",
             "price": 170.1,
-            "change": "+1.88%"
+            "change": "-1.79%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.47,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.49,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
+            0.53,
             0.52,
             0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.53,
+            0.52,
+            0.52,
             0.51,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            23.38,
-            23.61,
-            23.79,
-            23.5,
-            23.77,
-            24.24,
-            24.68,
-            24.64,
-            24.35,
-            24.83,
-            24.43,
-            24.78
+            25.27,
+            25.34,
+            25.14,
+            24.88,
+            24.63,
+            25.03,
+            25.41,
+            25.08,
+            25.45,
+            25.1,
+            24.76,
+            24.57
         ],
         "hsd_history_software": [
-            10.31,
-            10.16,
-            10.03,
-            9.91,
-            9.73,
-            9.77,
-            9.79,
-            9.97,
-            9.97,
-            10.12,
-            9.94,
-            9.88
+            9.7,
+            9.72,
+            9.63,
+            9.45,
+            9.54,
+            9.72,
+            9.81,
+            10.0,
+            10.11,
+            10.17,
+            10.02,
+            10.12
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "14:35",
+            "tag": "MERCADO",
+            "text": "bEquinix (EQIX) Valuation Check as Long-Serving CFO Announces Retirement and Transition to Special Advisor"
+        },
+        {
+            "time": "14:21",
+            "tag": "MERCADO",
+            "text": "Citigroup Initiates Coverage on Teledyne Technologies (NYSE:TDY)"
+        },
+        {
+            "time": "14:08",
+            "tag": "MERCADO",
+            "text": "Microsoft Worm Attack Warning \u2014 Act Rapidly And Change Passwords Now"
+        },
+        {
             "time": "14:07",
             "tag": "MERCADO",
             "text": "_Engineers Gate Manager LP Boosts Stake in Intuit Inc. $INTU"
         },
         {
-            "time": "14:03",
+            "time": "14:07",
             "tag": "MERCADO",
-            "text": "Skyworks Solutions (NASDAQ:SWKS) sheds US$349m, company earnings and investor returns have been trending downwards for past five years"
-        },
-        {
-            "time": "13:58",
-            "tag": "MERCADO",
-            "text": "Transamerica Financial Advisors LLC Buys 8,485 Shares of Motorola Solutions, Inc. $MSI"
-        },
-        {
-            "time": "13:58",
-            "tag": "MERCADO",
-            "text": "Iris Energy Shares Hit by Sector-Wide Sell-Off"
-        },
-        {
-            "time": "13:55",
-            "tag": "MERCADO",
-            "text": "Third Point LLC Has $60.47 Million Holdings in Fortive Corporation $FTV"
+            "text": "Treasurer of the State of North Carolina Has $91.52 Million Stake in Analog Devices, Inc. $ADI"
         }
     ]
 }
