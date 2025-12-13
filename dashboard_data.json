@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-13 03:18 UTC",
+        "last_updated": "2025-12-13 04:29 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.02,
-            "change": "-1.89%"
+            "change": "+1.92%"
         },
         {
             "symbol": "AMD",
             "price": 210.78,
-            "change": "-0.6%"
+            "change": "-0.52%"
         },
         {
             "symbol": "MSFT",
             "price": 478.53,
-            "change": "-2.12%"
+            "change": "+0.92%"
         },
         {
             "symbol": "CEG",
             "price": 351.98,
-            "change": "+0.62%"
+            "change": "-2.83%"
         },
         {
             "symbol": "VST",
             "price": 170.1,
-            "change": "-1.36%"
+            "change": "+1.02%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.68,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.53,
-            0.52,
-            0.51,
-            0.51,
-            0.52,
+            0.53,
+            0.53,
             0.53,
             0.52,
             0.52,
             0.52,
             0.52,
             0.51,
-            0.51
+            0.52,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
+            24.9,
+            25.14,
+            25.37,
+            25.21,
+            24.97,
+            25.39,
+            25.34,
+            25.77,
+            25.42,
             25.54,
-            25.49,
-            25.66,
-            25.36,
-            25.0,
-            25.35,
-            25.46,
-            25.51,
-            25.19,
-            25.04,
-            24.57,
-            24.85
+            25.26,
+            25.31
         ],
         "hsd_history_software": [
+            10.85,
+            10.77,
             10.65,
-            10.8,
-            10.63,
-            10.66,
-            10.67,
-            10.55,
-            10.46,
-            10.34,
-            10.49,
-            10.45,
+            10.76,
+            10.58,
+            10.42,
+            10.25,
+            10.14,
             10.27,
-            10.08
+            10.09,
+            10.14,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "02:56",
+            "tag": "MERCADO",
+            "text": "Intuit (INTU) Stock After Hours Dec. 12, 2025: What Investors Need to Know Before the Next Market Open"
+        },
+        {
+            "time": "02:56",
+            "tag": "MERCADO",
+            "text": "Eaton (ETN) Stock After Hours Dec. 12, 2025: Why Shares Fell, What Analysts Forecast, and What to Watch Before the Next Market Open"
+        },
+        {
+            "time": "02:50",
+            "tag": "MERCADO",
+            "text": "ServiceNow (NOW) Stock After the Bell on Dec. 12, 2025: After-Hours Move, Stock Split Countdown, and What to Watch Before the Next Market Open"
+        },
+        {
+            "time": "02:18",
+            "tag": "MERCADO",
+            "text": "Insider Sell: Paul Scannell Sells Shares of Cadence Design Syste"
+        },
+        {
             "time": "02:11",
             "tag": "MERCADO",
             "text": "GlobalFoundries appoints new Chief Financial Officer"
-        },
-        {
-            "time": "02:09",
-            "tag": "MERCADO",
-            "text": "Sinclair, Wiley, Napco, Jabil, and Mirion Stocks Trade Down, What You Need To Know"
-        },
-        {
-            "time": "01:59",
-            "tag": "MERCADO",
-            "text": "Annual Changes to the Nasdaq-100 Index\u00ae"
-        },
-        {
-            "time": "01:21",
-            "tag": "MERCADO",
-            "text": "Seagate, Alnylam Are Among Six Companies Set to Join Nasdaq 100"
-        },
-        {
-            "time": "01:19",
-            "tag": "MERCADO",
-            "text": "Nasdaq says Biogen, CDW Corporation, GlobalFoundries, Lululemon Athletica, On Semiconductor, Trade Desk will be removed from Nasdaq 100 index"
         }
     ]
 }
