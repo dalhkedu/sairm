@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2025-12-13 07:24 UTC",
+        "last_updated": "2025-12-13 08:29 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.02,
-            "change": "-2.3%"
+            "change": "-3.38%"
         },
         {
             "symbol": "AMD",
             "price": 210.78,
-            "change": "+3.49%"
+            "change": "+0.54%"
         },
         {
             "symbol": "MSFT",
             "price": 478.53,
-            "change": "-3.17%"
+            "change": "-0.89%"
         },
         {
             "symbol": "CEG",
             "price": 351.98,
-            "change": "+2.82%"
+            "change": "-0.34%"
         },
         {
             "symbol": "VST",
             "price": 170.1,
-            "change": "+0.96%"
+            "change": "-2.54%"
         }
     ],
     "dashboard_metrics": {
@@ -36,46 +36,46 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.47,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.49,
+            0.49,
             0.48,
             0.49,
             0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            23.78,
-            23.91,
-            24.02,
-            24.49,
-            24.57,
-            24.5,
-            24.64,
-            25.06,
-            25.04,
-            24.84,
-            25.03,
-            24.85
+            25.88,
+            26.07,
+            25.69,
+            25.49,
+            25.5,
+            25.48,
+            25.6,
+            25.65,
+            26.08,
+            25.77,
+            25.54,
+            25.27
         ],
         "hsd_history_software": [
-            9.56,
-            9.57,
-            9.75,
-            9.88,
-            9.96,
-            9.77,
-            9.74,
-            9.76,
-            9.61,
-            9.64,
-            9.8,
-            9.86
+            10.02,
+            10.2,
+            10.16,
+            10.14,
+            10.08,
+            10.02,
+            10.03,
+            10.03,
+            10.03,
+            10.0,
+            9.95,
+            9.85
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "07:08",
+            "tag": "MERCADO",
+            "text": "Caterpillar, NVIDIA Corp. share losses lead Dow's nearly 300-point drop"
+        },
+        {
+            "time": "07:02",
+            "tag": "MERCADO",
+            "text": "Jack Henry & Associates, Inc. (NASDAQ:JKHY) Given Consensus Rating of \"Moderate Buy\" by Brokerages"
+        },
+        {
             "time": "04:06",
             "tag": "MERCADO",
             "text": "Intuitive Surgical (ISRG) Stock After Hours on Dec. 12, 2025: Wells Fargo Raises Target, Insider Filing Surfaces\u2014What to Know Ahead of the Next Market Open"
@@ -139,16 +149,6 @@
             "time": "02:56",
             "tag": "MERCADO",
             "text": "Intuit (INTU) Stock After Hours Dec. 12, 2025: What Investors Need to Know Before the Next Market Open"
-        },
-        {
-            "time": "02:56",
-            "tag": "MERCADO",
-            "text": "Eaton (ETN) Stock After Hours Dec. 12, 2025: Why Shares Fell, What Analysts Forecast, and What to Watch Before the Next Market Open"
-        },
-        {
-            "time": "02:50",
-            "tag": "MERCADO",
-            "text": "ServiceNow (NOW) Stock After the Bell on Dec. 12, 2025: After-Hours Move, Stock Split Countdown, and What to Watch Before the Next Market Open"
         }
     ]
 }
