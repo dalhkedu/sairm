@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-13 20:25 UTC",
+        "last_updated": "2025-12-13 21:19 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.02,
-            "change": "-3.19%"
+            "change": "+0.03%"
         },
         {
             "symbol": "AMD",
             "price": 210.78,
-            "change": "+0.7%"
+            "change": "+0.1%"
         },
         {
             "symbol": "MSFT",
             "price": 478.53,
-            "change": "+1.84%"
+            "change": "+0.86%"
         },
         {
             "symbol": "CEG",
             "price": 351.98,
-            "change": "-0.44%"
+            "change": "+0.26%"
         },
         {
             "symbol": "VST",
             "price": 170.1,
-            "change": "-1.79%"
+            "change": "-3.24%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.45,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
             0.49,
-            0.49,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
+            0.51,
+            0.51,
             0.5,
             0.5,
             0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.65,
-            24.54,
-            24.64,
-            24.96,
-            24.48,
-            24.35,
-            24.79,
-            24.95,
-            24.47,
-            24.67,
-            24.87,
-            24.83
+            26.54,
+            26.26,
+            26.78,
+            26.56,
+            26.5,
+            26.17,
+            26.25,
+            25.85,
+            25.38,
+            25.08,
+            25.12,
+            25.0
         ],
         "hsd_history_software": [
-            9.66,
-            9.51,
-            9.69,
-            9.77,
-            9.77,
-            9.83,
-            9.89,
-            9.89,
+            10.09,
+            9.9,
             9.78,
-            9.59,
-            9.76,
-            9.9
+            9.96,
+            9.94,
+            9.83,
+            10.03,
+            9.93,
+            9.86,
+            9.99,
+            10.07,
+            10.08
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "19:56",
+            "tag": "MERCADO",
+            "text": "JPMorgan Chase & Co. Issues Positive Forecast for Roku (NASDAQ:ROKU) Stock Price"
+        },
+        {
             "time": "18:50",
             "tag": "MERCADO",
             "text": "Has Alibaba\u2019s 2024 Share Price Surge Already Reflected its Rebound Story?"
@@ -144,11 +149,6 @@
             "time": "17:46",
             "tag": "MERCADO",
             "text": "Walmart Inc. Common Stock (WMT) Formally Relocates On NASDAQ"
-        },
-        {
-            "time": "17:45",
-            "tag": "MERCADO",
-            "text": "Microchip Technology Sees Unusually High Options Volume (NASDAQ:MCHP)"
         }
     ]
 }
