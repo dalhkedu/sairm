@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-12 23:22 UTC",
+        "last_updated": "2025-12-13 01:48 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.02,
-            "change": "-1.07%"
+            "change": "-3.0%"
         },
         {
             "symbol": "AMD",
             "price": 210.78,
-            "change": "-2.9%"
+            "change": "+1.5%"
         },
         {
             "symbol": "MSFT",
             "price": 478.53,
-            "change": "+2.37%"
+            "change": "+1.54%"
         },
         {
             "symbol": "CEG",
-            "price": NaN,
-            "change": "+2.03%"
+            "price": 351.98,
+            "change": "-0.3%"
         },
         {
             "symbol": "VST",
             "price": 170.1,
-            "change": "+1.05%"
+            "change": "-1.83%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.66,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
             0.5,
-            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
             0.49,
             0.5,
             0.5,
             0.51,
-            0.5,
-            0.5,
-            0.49,
             0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            24.95,
-            25.33,
-            25.59,
-            25.25,
-            25.65,
-            25.46,
-            25.66,
-            25.29,
-            25.74,
-            25.68,
-            25.43,
-            25.26
+            22.81,
+            23.17,
+            23.53,
+            23.84,
+            23.7,
+            23.9,
+            24.07,
+            24.22,
+            24.6,
+            24.51,
+            24.77,
+            24.73
         ],
         "hsd_history_software": [
-            9.76,
-            9.68,
-            9.56,
-            9.73,
+            9.72,
             9.65,
-            9.81,
-            9.88,
-            9.85,
-            9.84,
-            9.85,
-            10.01,
-            10.0
+            9.56,
+            9.43,
+            9.61,
+            9.72,
+            9.64,
+            9.48,
+            9.62,
+            9.7,
+            9.83,
+            9.81
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:08",
+            "time": "01:13",
             "tag": "MERCADO",
-            "text": "Monolithic Power Systems, Inc. Declares Fourth Quarter Dividend of $1.56 Per Share"
+            "text": "Breakthrough for Bit Digital: Strategic Moves Sparking Market Interest"
         },
         {
-            "time": "22:04",
-            "tag": "AI",
-            "text": "AI boosts customer service jobs, not cuts: Gartner survey"
+            "time": "01:10",
+            "tag": "MERCADO",
+            "text": "Skyworks Solutions (SWKS) Announces Approval of Fiscal Year 2026 Executive Incentive Plan"
         },
         {
-            "time": "21:53",
+            "time": "00:33",
             "tag": "MERCADO",
-            "text": "Global payments EVP Sheffield sells $164k in stock"
+            "text": "Seagate Technology (STX) Stock After Hours: What Happened After the Bell on Dec. 12, 2025\u2014and What to Watch Before the Next Market Open"
         },
         {
-            "time": "21:41",
+            "time": "00:28",
             "tag": "MERCADO",
-            "text": "Closing Talent Gaps Requires Addressing Root Causes: 3M"
+            "text": "With Talk of a SpaceX IPO, Tesla Shareholders Dream of an X Corp."
         },
         {
-            "time": "21:37",
+            "time": "00:25",
             "tag": "MERCADO",
-            "text": "Skyworks Solutions approves executive incentive plan for fiscal 2026 By Investing.com"
+            "text": "Stephen Pagliuca Acquires 43,300 Shares of Gartner Inc (IT)"
         }
     ]
 }
