@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-13 22:21 UTC",
+        "last_updated": "2025-12-13 23:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.02,
-            "change": "+2.78%"
+            "change": "+0.56%"
         },
         {
             "symbol": "AMD",
             "price": 210.78,
-            "change": "+2.19%"
+            "change": "+2.73%"
         },
         {
             "symbol": "MSFT",
             "price": 478.53,
-            "change": "+1.54%"
+            "change": "+2.97%"
         },
         {
             "symbol": "CEG",
             "price": 351.98,
-            "change": "+1.6%"
+            "change": "-1.12%"
         },
         {
             "symbol": "VST",
             "price": 170.1,
-            "change": "+2.01%"
+            "change": "+2.61%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.46,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
+            0.48,
+            0.49,
             0.5,
-            0.51,
+            0.5,
+            0.5,
             0.5,
             0.49,
-            0.48,
-            0.48,
-            0.48,
             0.49,
-            0.49,
+            0.5,
+            0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.62,
-            24.27,
-            24.55,
-            24.25,
-            23.86,
-            24.06,
-            24.46,
-            24.6,
-            24.27,
-            24.14,
-            24.61,
-            24.71
+            23.09,
+            22.87,
+            23.29,
+            23.1,
+            23.41,
+            23.67,
+            23.52,
+            23.73,
+            23.64,
+            24.02,
+            24.3,
+            24.52
         ],
         "hsd_history_software": [
-            10.16,
-            10.11,
-            10.11,
-            10.1,
-            10.09,
-            9.93,
-            9.84,
-            9.89,
-            9.88,
-            9.71,
-            9.8,
-            9.83
+            9.7,
+            9.86,
+            9.73,
+            9.91,
+            10.0,
+            9.94,
+            9.92,
+            9.74,
+            9.83,
+            9.77,
+            9.92,
+            10.0
         ],
         "rci_data": [
             85.0,
@@ -126,9 +126,19 @@
     ],
     "news_feed": [
         {
+            "time": "22:02",
+            "tag": "AI",
+            "text": "AI-powered police body cameras, once taboo, get tested on Canadian city\u2019s \u2018watch list\u2019 of faces"
+        },
+        {
             "time": "19:56",
             "tag": "MERCADO",
             "text": "JPMorgan Chase & Co. Issues Positive Forecast for Roku (NASDAQ:ROKU) Stock Price"
+        },
+        {
+            "time": "19:08",
+            "tag": "MERCADO",
+            "text": "Western Digital (NASDAQ:WDC) Stock Price Down 6.4% - Here's What Happened"
         },
         {
             "time": "18:50",
@@ -139,16 +149,6 @@
             "time": "18:09",
             "tag": "MERCADO",
             "text": "SanDisk (SNDK) Stock After Hours (Dec. 12, 2025): Why Shares Sank After the Bell\u2014and What to Watch Before the Next Market Open"
-        },
-        {
-            "time": "18:07",
-            "tag": "MERCADO",
-            "text": "Cisco Systems, Inc. (CSCO) Shares Hit a record high For The First Time In Over 25 Years, Bloomberg Reports"
-        },
-        {
-            "time": "18:01",
-            "tag": "MERCADO",
-            "text": "Cisco Systems, Inc. (CSCO) shares hit a record high for the first time in over 25 years, Bloomberg reports"
         }
     ]
 }
