@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-14 13:30 UTC",
+        "last_updated": "2025-12-14 14:20 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.02,
-            "change": "+3.18%"
+            "change": "+0.08%"
         },
         {
             "symbol": "AMD",
             "price": 210.78,
-            "change": "+1.27%"
+            "change": "-2.2%"
         },
         {
             "symbol": "MSFT",
             "price": 478.53,
-            "change": "-1.98%"
+            "change": "+3.2%"
         },
         {
             "symbol": "CEG",
             "price": 351.98,
-            "change": "-2.61%"
+            "change": "-3.42%"
         },
         {
             "symbol": "VST",
             "price": 170.1,
-            "change": "-3.18%"
+            "change": "+3.4%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
+        "cer_current": 0.6,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.5,
             0.5,
             0.51,
-            0.51,
             0.5,
             0.5,
             0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.39,
-            25.77,
-            25.47,
+            25.78,
+            25.78,
+            25.98,
+            25.56,
+            26.07,
+            26.02,
             25.86,
-            26.16,
-            26.44,
-            26.15,
-            25.75,
-            25.41,
-            25.75,
-            25.33,
-            25.26
+            25.38,
+            25.57,
+            25.5,
+            25.64,
+            25.44
         ],
         "hsd_history_software": [
-            9.53,
-            9.69,
-            9.87,
-            9.98,
-            9.93,
-            9.92,
-            10.02,
-            9.92,
-            9.9,
-            10.07,
-            10.12,
-            9.96
+            10.55,
+            10.67,
+            10.72,
+            10.77,
+            10.59,
+            10.71,
+            10.5,
+            10.38,
+            10.23,
+            10.06,
+            10.25,
+            10.06
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:08",
+            "time": "12:57",
             "tag": "MERCADO",
-            "text": "\u201cQuhuo and Topliquidity Forge Blockchain Partnership for Global Expansion\u201d"
+            "text": "Neuberger Berman Group LLC Grows Holdings in Match Group Inc. $MTCH"
         },
         {
-            "time": "12:05",
+            "time": "12:51",
             "tag": "MERCADO",
-            "text": "Newbridge Financial Services Group Inc. Increases Stock Holdings in AT&T Inc. $T"
+            "text": "Stance Capital LLC Acquires Shares of 6,680 Texas Instruments Incorporated $TXN"
         },
         {
-            "time": "12:03",
+            "time": "12:51",
             "tag": "MERCADO",
-            "text": "Newbridge Financial Services Group Inc. Has $3.43 Million Stock Position in Arista Networks, Inc. $ANET"
+            "text": "13,942 Shares in Arista Networks, Inc. $ANET Bought by Stance Capital LLC"
         },
         {
-            "time": "12:03",
+            "time": "12:51",
             "tag": "MERCADO",
-            "text": "Marex Group plc Purchases Shares of 24,981 Skyworks Solutions, Inc. $SWKS"
+            "text": "Stance Capital LLC Buys New Position in Autodesk, Inc. $ADSK"
         },
         {
-            "time": "12:03",
+            "time": "12:51",
             "tag": "MERCADO",
-            "text": "Tactive Advisors LLC Invests $868,000 in Super Micro Computer, Inc. $SMCI"
+            "text": "22,882 Shares in NetApp, Inc. $NTAP Purchased by Stance Capital LLC"
         }
     ]
 }
