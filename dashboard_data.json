@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-14 09:23 UTC",
+        "last_updated": "2025-12-14 10:23 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.02,
-            "change": "+2.87%"
+            "change": "+1.9%"
         },
         {
             "symbol": "AMD",
             "price": 210.78,
-            "change": "-2.32%"
+            "change": "+0.57%"
         },
         {
             "symbol": "MSFT",
             "price": 478.53,
-            "change": "-1.81%"
+            "change": "-2.79%"
         },
         {
             "symbol": "CEG",
             "price": 351.98,
-            "change": "+1.61%"
+            "change": "+3.01%"
         },
         {
             "symbol": "VST",
             "price": 170.1,
-            "change": "-3.46%"
+            "change": "-1.98%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.44,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.54,
+            0.54,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.53,
+            0.52,
+            0.52,
             0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.66,
-            25.52,
-            25.75,
-            25.62,
-            25.74,
-            25.95,
-            25.51,
-            25.77,
-            25.75,
-            26.21,
-            25.71,
-            25.3
+            25.14,
+            25.32,
+            24.92,
+            24.56,
+            25.01,
+            25.07,
+            24.7,
+            24.72,
+            25.01,
+            24.71,
+            24.49,
+            24.79
         ],
         "hsd_history_software": [
-            10.09,
-            10.16,
+            10.3,
+            10.29,
+            10.14,
+            10.2,
+            10.12,
+            10.17,
+            9.98,
             10.08,
-            10.23,
-            10.27,
-            10.22,
-            10.16,
-            10.05,
-            10.09,
-            10.13,
-            10.13,
-            10.17
+            10.04,
+            9.96,
+            10.03,
+            9.91
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:32",
+            "time": "08:53",
+            "tag": "MERCADO",
+            "text": "B. Riley Wealth Advisors Inc. Invests $3.20 Million in Texas Instruments Incorporated $TXN"
+        },
+        {
+            "time": "08:52",
+            "tag": "MERCADO",
+            "text": "B. Riley Wealth Advisors Inc. Buys Shares of 21,240 QUALCOMM Incorporated $QCOM"
+        },
+        {
+            "time": "08:31",
             "tag": "AI",
-            "text": "Will NetApp\u2019s (NTAP) AI Data and Quantum-Safe Push with AWS and F5 Change Its Narrative?"
+            "text": "AMD: High Growth At A Reasonable Price As AI Adoption Accelerates"
         },
         {
-            "time": "06:10",
+            "time": "08:26",
             "tag": "MERCADO",
-            "text": "Israeli cybersecurity start-up Armis in talks to be bought by ServiceNow for up to $7 billion - report"
+            "text": "Advisory Services Network LLC Boosts Holdings in QUALCOMM Incorporated $QCOM"
         },
         {
-            "time": "05:36",
+            "time": "08:26",
             "tag": "MERCADO",
-            "text": "ServiceNow in advanced talks to acquire Armis at around $7 billion valuation"
-        },
-        {
-            "time": "05:08",
-            "tag": "MERCADO",
-            "text": "MicroSectors\u2122 Launches FANG & Innovation ETNs, 'BULZ' & 'BERZ'"
-        },
-        {
-            "time": "04:09",
-            "tag": "AI",
-            "text": "How Investors Are Reacting To monday.com (MNDY) Guggenheim\u2019s Bullish Call On Its AI Multi\u2011Product Strategy"
+            "text": "Alphabet Inc. $GOOG is Anchor Investment Management LLC's 8th Largest Position"
         }
     ]
 }
