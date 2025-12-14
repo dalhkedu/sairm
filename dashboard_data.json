@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-14 07:21 UTC",
+        "last_updated": "2025-12-14 08:29 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.02,
-            "change": "-2.77%"
+            "change": "+1.5%"
         },
         {
             "symbol": "AMD",
-            "price": NaN,
-            "change": "-2.78%"
+            "price": 210.78,
+            "change": "+1.75%"
         },
         {
             "symbol": "MSFT",
             "price": 478.53,
-            "change": "-1.43%"
+            "change": "+1.97%"
         },
         {
             "symbol": "CEG",
             "price": 351.98,
-            "change": "-2.71%"
+            "change": "+2.32%"
         },
         {
             "symbol": "VST",
             "price": 170.1,
-            "change": "+2.96%"
+            "change": "+0.3%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.53,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.49,
+            0.48,
+            0.49,
+            0.5,
+            0.49,
             0.5,
             0.5,
-            0.51,
-            0.51,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            23.6,
-            23.84,
-            24.18,
-            24.63,
-            24.38,
-            24.63,
-            24.21,
-            24.41,
-            24.58,
-            24.43,
-            24.83,
-            25.13
+            23.56,
+            23.31,
+            23.65,
+            23.88,
+            24.0,
+            24.17,
+            23.95,
+            23.95,
+            24.28,
+            24.61,
+            25.06,
+            24.83
         ],
         "hsd_history_software": [
-            9.78,
-            9.64,
-            9.57,
-            9.71,
-            9.59,
-            9.65,
-            9.71,
-            9.82,
-            9.71,
-            9.85,
-            9.97,
-            10.08
+            9.68,
+            9.62,
+            9.79,
+            9.68,
+            9.83,
+            9.94,
+            10.02,
+            9.86,
+            9.88,
+            9.91,
+            9.73,
+            9.91
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "06:32",
+            "tag": "AI",
+            "text": "Will NetApp\u2019s (NTAP) AI Data and Quantum-Safe Push with AWS and F5 Change Its Narrative?"
+        },
+        {
+            "time": "06:10",
+            "tag": "MERCADO",
+            "text": "Israeli cybersecurity start-up Armis in talks to be bought by ServiceNow for up to $7 billion - report"
+        },
+        {
             "time": "05:36",
             "tag": "MERCADO",
             "text": "ServiceNow in advanced talks to acquire Armis at around $7 billion valuation"
@@ -136,19 +146,9 @@
             "text": "MicroSectors\u2122 Launches FANG & Innovation ETNs, 'BULZ' & 'BERZ'"
         },
         {
-            "time": "03:35",
+            "time": "04:09",
             "tag": "AI",
-            "text": "Is HII\u2019s ROMULUS Milestone Quietly Rewriting Its AI and Shipbuilding Balance?"
-        },
-        {
-            "time": "03:08",
-            "tag": "AI",
-            "text": "Microchip Technology (MCHP): Reassessing Valuation After Raised Outlook and AI-Driven Data Center Demand"
-        },
-        {
-            "time": "03:08",
-            "tag": "AI",
-            "text": "Microchip Technology (MCHP): Reassessing Valuation After Raised Outlook and AI-Driven Data Center Demand"
+            "text": "How Investors Are Reacting To monday.com (MNDY) Guggenheim\u2019s Bullish Call On Its AI Multi\u2011Product Strategy"
         }
     ]
 }
