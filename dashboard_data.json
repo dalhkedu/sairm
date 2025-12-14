@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-14 05:23 UTC",
+        "last_updated": "2025-12-14 06:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.02,
-            "change": "+1.32%"
+            "change": "-0.53%"
         },
         {
             "symbol": "AMD",
             "price": 210.78,
-            "change": "+2.86%"
+            "change": "-1.74%"
         },
         {
             "symbol": "MSFT",
             "price": 478.53,
-            "change": "+2.3%"
+            "change": "-0.87%"
         },
         {
             "symbol": "CEG",
             "price": 351.98,
-            "change": "+2.68%"
+            "change": "+2.3%"
         },
         {
             "symbol": "VST",
             "price": 170.1,
-            "change": "+3.44%"
+            "change": "+3.3%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.53,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.34,
-            25.82,
-            25.42,
-            25.58,
-            25.15,
-            24.9,
+            25.06,
+            24.93,
+            24.47,
             24.61,
-            24.53,
-            24.26,
-            24.59,
-            25.04,
-            25.05
+            24.84,
+            25.01,
+            25.34,
+            25.45,
+            25.36,
+            24.91,
+            25.23,
+            24.73
         ],
         "hsd_history_software": [
-            9.35,
-            9.26,
-            9.08,
-            9.2,
-            9.38,
-            9.28,
-            9.41,
-            9.52,
-            9.67,
-            9.8,
-            9.75,
-            9.87
+            10.18,
+            10.01,
+            9.89,
+            9.9,
+            10.1,
+            10.19,
+            10.21,
+            10.21,
+            10.18,
+            10.34,
+            10.16,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "05:36",
+            "tag": "MERCADO",
+            "text": "ServiceNow in advanced talks to acquire Armis at around $7 billion valuation"
+        },
+        {
+            "time": "05:08",
+            "tag": "MERCADO",
+            "text": "MicroSectors\u2122 Launches FANG & Innovation ETNs, 'BULZ' & 'BERZ'"
+        },
+        {
             "time": "03:35",
             "tag": "AI",
             "text": "Is HII\u2019s ROMULUS Milestone Quietly Rewriting Its AI and Shipbuilding Balance?"
         },
         {
-            "time": "02:08",
-            "tag": "MERCADO",
-            "text": "US IT firm ServiceNow said to be in talks to $7b cyber deal"
+            "time": "03:08",
+            "tag": "AI",
+            "text": "Microchip Technology (MCHP): Reassessing Valuation After Raised Outlook and AI-Driven Data Center Demand"
         },
         {
-            "time": "02:02",
-            "tag": "MERCADO",
-            "text": "ServiceNow near deal to buy cybersecurity startup Armis for up to $7 billion, Bloomberg News reports"
-        },
-        {
-            "time": "01:15",
-            "tag": "MERCADO",
-            "text": "ServiceNow said to near deal to buy Armis for up to US$7b"
-        },
-        {
-            "time": "01:08",
-            "tag": "MERCADO",
-            "text": "ServiceNow said to near deal to buy Armis for up to US$7b"
+            "time": "03:08",
+            "tag": "AI",
+            "text": "Microchip Technology (MCHP): Reassessing Valuation After Raised Outlook and AI-Driven Data Center Demand"
         }
     ]
 }
