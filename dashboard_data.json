@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-14 17:19 UTC",
+        "last_updated": "2025-12-14 18:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.02,
-            "change": "+1.69%"
+            "change": "+3.49%"
         },
         {
             "symbol": "AMD",
             "price": 210.78,
-            "change": "-3.31%"
+            "change": "+2.46%"
         },
         {
             "symbol": "MSFT",
             "price": 478.53,
-            "change": "-2.24%"
+            "change": "+3.41%"
         },
         {
             "symbol": "CEG",
             "price": 351.98,
-            "change": "+1.54%"
+            "change": "-2.79%"
         },
         {
             "symbol": "VST",
             "price": 170.1,
-            "change": "+3.04%"
+            "change": "+2.67%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.4,
+        "cer_current": 0.57,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.49,
+            0.5,
+            0.5,
             0.5,
             0.51,
             0.51,
             0.5,
-            0.51,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.49,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            23.64,
-            23.65,
-            23.29,
-            23.41,
-            23.88,
-            23.48,
-            23.8,
-            24.24,
-            23.79,
-            24.16,
-            24.1,
-            24.53
+            25.53,
+            25.88,
+            25.47,
+            25.07,
+            25.05,
+            24.76,
+            24.54,
+            24.42,
+            24.49,
+            24.74,
+            25.09,
+            24.82
         ],
         "hsd_history_software": [
-            10.25,
-            10.19,
-            10.31,
-            10.26,
-            10.46,
-            10.45,
-            10.66,
-            10.73,
-            10.56,
-            10.47,
-            10.28,
-            10.12
+            10.12,
+            10.06,
+            10.05,
+            10.07,
+            10.12,
+            10.07,
+            10.14,
+            9.97,
+            9.93,
+            10.05,
+            10.1,
+            9.92
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:09",
+            "time": "18:08",
             "tag": "MERCADO",
-            "text": "|Why (SVXY) Price Action Is Critical for Tactical Trading"
+            "text": "Check out ARB IOT Ltd's stock price (ARBB) in real time"
         },
         {
-            "time": "16:06",
+            "time": "17:08",
             "tag": "MERCADO",
-            "text": "Applied Materials (AMAT) Stock News Today (Dec. 14, 2025): Dividend Update, Analyst Forecasts, and What\u2019s Next After Record Highs"
+            "text": "ProShares UltraPro QQQ (TQQQ) Stock: Latest News, Price Action, Nasdaq-100 Rebalance and 2026 Outlook (December 14, 2025)"
         },
         {
-            "time": "15:09",
-            "tag": "MERCADO",
-            "text": "ServiceNow in talks to acquire cybersecurity startup Armis in potential $7 billion deal, Bloomberg reports"
+            "time": "17:08",
+            "tag": "RESULTADOS",
+            "text": "Zedge Prepares for Earnings Update Amid Market Anticipation"
         },
         {
-            "time": "14:51",
+            "time": "16:52",
             "tag": "MERCADO",
-            "text": "Strategy Inc (MSTR) Stock News, Forecasts and Analysis for Dec. 14, 2025: Nasdaq 100 Stays, MSCI Decision Looms, Bitcoin Buys Continue"
+            "text": "SPY ETF Outlook (Dec. 14, 2025): SPDR S&P 500 ETF Trust Price, Fresh News, 2026 Forecasts, and What to Watch This Week"
         },
         {
-            "time": "14:24",
+            "time": "16:30",
             "tag": "MERCADO",
-            "text": "Intercontinental Exchange (ICE): Revisiting Valuation After New Expero Data Deal and Strong November Trading Metrics"
+            "text": "The Insider Report: A Dangerous Crack or Epic Rotation?"
         }
     ]
 }
