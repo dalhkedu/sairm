@@ -1,80 +1,80 @@
 {
     "metadata": {
-        "last_updated": "2025-12-14 10:23 UTC",
+        "last_updated": "2025-12-14 11:19 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.02,
-            "change": "+1.9%"
+            "change": "+2.84%"
         },
         {
             "symbol": "AMD",
             "price": 210.78,
-            "change": "+0.57%"
+            "change": "+2.81%"
         },
         {
             "symbol": "MSFT",
             "price": 478.53,
-            "change": "-2.79%"
+            "change": "+0.51%"
         },
         {
             "symbol": "CEG",
             "price": 351.98,
-            "change": "+3.01%"
+            "change": "+0.95%"
         },
         {
             "symbol": "VST",
             "price": 170.1,
-            "change": "-1.98%"
+            "change": "+0.96%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.56,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.54,
-            0.53,
+            0.51,
             0.52,
+            0.51,
+            0.5,
+            0.51,
             0.52,
-            0.52,
-            0.53,
             0.52,
             0.52,
             0.51,
             0.51,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.14,
-            25.32,
-            24.92,
-            24.56,
+            24.46,
+            24.89,
+            24.78,
+            24.94,
+            24.65,
+            24.86,
+            24.91,
             25.01,
-            25.07,
-            24.7,
-            24.72,
-            25.01,
-            24.71,
-            24.49,
-            24.79
+            25.4,
+            25.47,
+            25.09,
+            24.86
         ],
         "hsd_history_software": [
-            10.3,
-            10.29,
-            10.14,
-            10.2,
-            10.12,
-            10.17,
-            9.98,
-            10.08,
+            10.11,
+            10.23,
             10.04,
-            9.96,
-            10.03,
+            10.17,
+            10.2,
+            10.19,
+            10.1,
+            10.14,
+            10.01,
+            10.21,
+            10.09,
             9.91
         ],
         "rci_data": [
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:53",
+            "time": "10:08",
             "tag": "MERCADO",
-            "text": "B. Riley Wealth Advisors Inc. Invests $3.20 Million in Texas Instruments Incorporated $TXN"
+            "text": "Here's What Blackwell Portfolio Expansion Means for Super Micro Computer (SMCI)"
         },
         {
-            "time": "08:52",
+            "time": "10:06",
             "tag": "MERCADO",
-            "text": "B. Riley Wealth Advisors Inc. Buys Shares of 21,240 QUALCOMM Incorporated $QCOM"
+            "text": "Caxton Associates LLP Increases Holdings in Intuit Inc. $INTU"
         },
         {
-            "time": "08:31",
-            "tag": "AI",
-            "text": "AMD: High Growth At A Reasonable Price As AI Adoption Accelerates"
+            "time": "10:06",
+            "tag": "MERCADO",
+            "text": "Autodesk, Inc. $ADSK Shares Bought by Coppell Advisory Solutions LLC"
         },
         {
-            "time": "08:26",
+            "time": "09:54",
             "tag": "MERCADO",
-            "text": "Advisory Services Network LLC Boosts Holdings in QUALCOMM Incorporated $QCOM"
+            "text": "Caxton Associates LLP Has $22.99 Million Holdings in Autodesk, Inc. $ADSK"
         },
         {
-            "time": "08:26",
+            "time": "09:53",
             "tag": "MERCADO",
-            "text": "Alphabet Inc. $GOOG is Anchor Investment Management LLC's 8th Largest Position"
+            "text": "Microsoft Corporation $MSFT is Castleark Management LLC's 3rd Largest Position"
         }
     ]
 }
