@@ -1,37 +1,37 @@
 {
     "metadata": {
-        "last_updated": "2025-12-14 14:20 UTC",
+        "last_updated": "2025-12-14 15:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.02,
-            "change": "+0.08%"
+            "change": "-2.39%"
         },
         {
             "symbol": "AMD",
             "price": 210.78,
-            "change": "-2.2%"
+            "change": "-0.56%"
         },
         {
             "symbol": "MSFT",
             "price": 478.53,
-            "change": "+3.2%"
+            "change": "+1.52%"
         },
         {
             "symbol": "CEG",
             "price": 351.98,
-            "change": "-3.42%"
+            "change": "+2.95%"
         },
         {
             "symbol": "VST",
             "price": 170.1,
-            "change": "+3.4%"
+            "change": "+1.54%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.56,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
@@ -39,43 +39,43 @@
             0.48,
             0.48,
             0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.5,
             0.49,
             0.5,
             0.5,
-            0.51,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            25.78,
-            25.78,
-            25.98,
-            25.56,
-            26.07,
-            26.02,
-            25.86,
-            25.38,
-            25.57,
-            25.5,
-            25.64,
-            25.44
+            25.76,
+            25.63,
+            25.75,
+            25.39,
+            25.6,
+            25.84,
+            26.22,
+            25.88,
+            25.75,
+            25.73,
+            25.44,
+            25.16
         ],
         "hsd_history_software": [
-            10.55,
-            10.67,
-            10.72,
-            10.77,
-            10.59,
-            10.71,
-            10.5,
-            10.38,
-            10.23,
-            10.06,
+            10.1,
+            9.94,
+            10.02,
+            10.12,
+            10.04,
+            10.21,
+            10.33,
+            10.19,
+            10.1,
             10.25,
-            10.06
+            10.14,
+            9.95
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:57",
+            "time": "14:00",
             "tag": "MERCADO",
-            "text": "Neuberger Berman Group LLC Grows Holdings in Match Group Inc. $MTCH"
+            "text": "Alphabet Inc. $GOOGL Shares Sold by V2 Financial group LLC"
         },
         {
-            "time": "12:51",
+            "time": "14:00",
             "tag": "MERCADO",
-            "text": "Stance Capital LLC Acquires Shares of 6,680 Texas Instruments Incorporated $TXN"
+            "text": "Westwood Holdings Group Inc. Sells 15,453 Shares of Alphabet Inc. $GOOGL"
         },
         {
-            "time": "12:51",
+            "time": "13:49",
             "tag": "MERCADO",
-            "text": "13,942 Shares in Arista Networks, Inc. $ANET Bought by Stance Capital LLC"
+            "text": "Light Street Capital Management LLC Purchases Shares of 6,070 Analog Devices, Inc. $ADI"
         },
         {
-            "time": "12:51",
+            "time": "13:49",
             "tag": "MERCADO",
-            "text": "Stance Capital LLC Buys New Position in Autodesk, Inc. $ADSK"
+            "text": "Lazard Asset Management LLC Purchases 220,804 Shares of Autodesk, Inc. $ADSK"
         },
         {
-            "time": "12:51",
+            "time": "13:49",
             "tag": "MERCADO",
-            "text": "22,882 Shares in NetApp, Inc. $NTAP Purchased by Stance Capital LLC"
+            "text": "Wellington Capital Management Inc. Purchases Shares of 13,200 Western Digital Corporation $WDC"
         }
     ]
 }
