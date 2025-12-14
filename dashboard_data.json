@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-13 23:21 UTC",
+        "last_updated": "2025-12-14 02:01 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.02,
-            "change": "+0.56%"
+            "change": "-0.53%"
         },
         {
             "symbol": "AMD",
             "price": 210.78,
-            "change": "+2.73%"
+            "change": "-0.91%"
         },
         {
             "symbol": "MSFT",
             "price": 478.53,
-            "change": "+2.97%"
+            "change": "+0.37%"
         },
         {
             "symbol": "CEG",
             "price": 351.98,
-            "change": "-1.12%"
+            "change": "+1.56%"
         },
         {
             "symbol": "VST",
             "price": 170.1,
-            "change": "+2.61%"
+            "change": "-1.36%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.61,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.48,
+            0.47,
+            0.48,
             0.49,
             0.5,
-            0.5,
+            0.51,
+            0.52,
+            0.51,
             0.5,
             0.5,
             0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            23.09,
-            22.87,
-            23.29,
-            23.1,
-            23.41,
-            23.67,
-            23.52,
-            23.73,
-            23.64,
-            24.02,
-            24.3,
-            24.52
+            24.22,
+            24.17,
+            24.25,
+            24.2,
+            24.17,
+            24.61,
+            24.48,
+            24.81,
+            24.63,
+            24.66,
+            24.55,
+            24.63
         ],
         "hsd_history_software": [
-            9.7,
-            9.86,
-            9.73,
+            10.38,
+            10.22,
+            10.18,
+            10.12,
+            10.12,
+            10.27,
+            10.17,
+            10.06,
+            10.25,
+            10.05,
             9.91,
-            10.0,
-            9.94,
-            9.92,
-            9.74,
-            9.83,
-            9.77,
-            9.92,
-            10.0
+            9.95
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:02",
+            "time": "00:57",
+            "tag": "MERCADO",
+            "text": "Cadence Design Systems (NASDAQ:CDNS) Director Sells $60,746.40 in Stock"
+        },
+        {
+            "time": "00:34",
+            "tag": "MERCADO",
+            "text": "Did Trimble\u2019s (TRMB) New US$1 Billion Buyback and Dealer Expansion Just Recast Its Capital Story?"
+        },
+        {
+            "time": "00:10",
             "tag": "AI",
-            "text": "AI-powered police body cameras, once taboo, get tested on Canadian city\u2019s \u2018watch list\u2019 of faces"
+            "text": "Check Point (CHKP) Valuation Check After Quantum Firewall R82.10 Product Upgrade and AI Security Push"
         },
         {
-            "time": "19:56",
+            "time": "23:43",
             "tag": "MERCADO",
-            "text": "JPMorgan Chase & Co. Issues Positive Forecast for Roku (NASDAQ:ROKU) Stock Price"
+            "text": "Is Gartner\u2019s 2025 Slump a Long Term Opportunity for Patient Investors?"
         },
         {
-            "time": "19:08",
-            "tag": "MERCADO",
-            "text": "Western Digital (NASDAQ:WDC) Stock Price Down 6.4% - Here's What Happened"
-        },
-        {
-            "time": "18:50",
-            "tag": "MERCADO",
-            "text": "Has Alibaba\u2019s 2024 Share Price Surge Already Reflected its Rebound Story?"
-        },
-        {
-            "time": "18:09",
-            "tag": "MERCADO",
-            "text": "SanDisk (SNDK) Stock After Hours (Dec. 12, 2025): Why Shares Sank After the Bell\u2014and What to Watch Before the Next Market Open"
+            "time": "23:31",
+            "tag": "AI",
+            "text": "Does ServiceNow\u2019s AI Push, Security Deal, and Stock Split Reshape The Bull Case For NOW?"
         }
     ]
 }
