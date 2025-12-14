@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-14 11:19 UTC",
+        "last_updated": "2025-12-14 12:44 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.02,
-            "change": "+2.84%"
+            "change": "-3.14%"
         },
         {
             "symbol": "AMD",
             "price": 210.78,
-            "change": "+2.81%"
+            "change": "+2.66%"
         },
         {
             "symbol": "MSFT",
             "price": 478.53,
-            "change": "+0.51%"
+            "change": "+1.75%"
         },
         {
             "symbol": "CEG",
             "price": 351.98,
-            "change": "+0.95%"
+            "change": "+3.0%"
         },
         {
             "symbol": "VST",
             "price": 170.1,
-            "change": "+0.96%"
+            "change": "-0.6%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.4,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
             0.52,
-            0.51,
-            0.5,
-            0.51,
+            0.52,
+            0.53,
             0.52,
             0.52,
             0.52,
             0.51,
+            0.52,
+            0.52,
             0.51,
-            0.5,
-            0.5
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.46,
-            24.89,
-            24.78,
-            24.94,
-            24.65,
-            24.86,
+            24.1,
+            24.49,
+            24.08,
+            24.55,
+            24.53,
+            24.8,
+            24.84,
+            25.18,
+            25.11,
             24.91,
-            25.01,
-            25.4,
-            25.47,
-            25.09,
-            24.86
+            24.68,
+            24.58
         ],
         "hsd_history_software": [
-            10.11,
-            10.23,
-            10.04,
-            10.17,
-            10.2,
-            10.19,
-            10.1,
-            10.14,
-            10.01,
-            10.21,
-            10.09,
-            9.91
+            9.38,
+            9.34,
+            9.37,
+            9.4,
+            9.37,
+            9.41,
+            9.29,
+            9.36,
+            9.55,
+            9.74,
+            9.77,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:08",
+            "time": "12:08",
             "tag": "MERCADO",
-            "text": "Here's What Blackwell Portfolio Expansion Means for Super Micro Computer (SMCI)"
+            "text": "\u201cQuhuo and Topliquidity Forge Blockchain Partnership for Global Expansion\u201d"
         },
         {
-            "time": "10:06",
+            "time": "12:05",
             "tag": "MERCADO",
-            "text": "Caxton Associates LLP Increases Holdings in Intuit Inc. $INTU"
+            "text": "Newbridge Financial Services Group Inc. Increases Stock Holdings in AT&T Inc. $T"
         },
         {
-            "time": "10:06",
+            "time": "12:03",
             "tag": "MERCADO",
-            "text": "Autodesk, Inc. $ADSK Shares Bought by Coppell Advisory Solutions LLC"
+            "text": "Newbridge Financial Services Group Inc. Has $3.43 Million Stock Position in Arista Networks, Inc. $ANET"
         },
         {
-            "time": "09:54",
+            "time": "12:03",
             "tag": "MERCADO",
-            "text": "Caxton Associates LLP Has $22.99 Million Holdings in Autodesk, Inc. $ADSK"
+            "text": "Marex Group plc Purchases Shares of 24,981 Skyworks Solutions, Inc. $SWKS"
         },
         {
-            "time": "09:53",
+            "time": "12:03",
             "tag": "MERCADO",
-            "text": "Microsoft Corporation $MSFT is Castleark Management LLC's 3rd Largest Position"
+            "text": "Tactive Advisors LLC Invests $868,000 in Super Micro Computer, Inc. $SMCI"
         }
     ]
 }
