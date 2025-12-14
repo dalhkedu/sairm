@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-14 02:01 UTC",
+        "last_updated": "2025-12-14 04:00 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.02,
-            "change": "-0.53%"
+            "change": "+0.85%"
         },
         {
             "symbol": "AMD",
             "price": 210.78,
-            "change": "-0.91%"
+            "change": "+0.68%"
         },
         {
             "symbol": "MSFT",
             "price": 478.53,
-            "change": "+0.37%"
+            "change": "+0.4%"
         },
         {
             "symbol": "CEG",
             "price": 351.98,
-            "change": "+1.56%"
+            "change": "-3.36%"
         },
         {
             "symbol": "VST",
             "price": 170.1,
-            "change": "-1.36%"
+            "change": "-2.89%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.57,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.47,
-            0.48,
-            0.49,
             0.5,
             0.51,
-            0.52,
+            0.5,
+            0.5,
+            0.5,
             0.51,
-            0.5,
-            0.5,
-            0.49,
-            0.49
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.22,
-            24.17,
-            24.25,
-            24.2,
-            24.17,
-            24.61,
-            24.48,
-            24.81,
-            24.63,
-            24.66,
-            24.55,
-            24.63
+            24.74,
+            24.51,
+            24.8,
+            25.07,
+            25.45,
+            25.11,
+            25.29,
+            25.33,
+            25.49,
+            25.0,
+            24.78,
+            25.15
         ],
         "hsd_history_software": [
+            10.96,
+            10.91,
+            10.92,
+            10.73,
+            10.87,
+            10.66,
+            10.49,
+            10.51,
+            10.49,
+            10.56,
             10.38,
-            10.22,
-            10.18,
-            10.12,
-            10.12,
-            10.27,
-            10.17,
-            10.06,
-            10.25,
-            10.05,
-            9.91,
-            9.95
+            10.18
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "02:08",
+            "tag": "MERCADO",
+            "text": "US IT firm ServiceNow said to be in talks to $7b cyber deal"
+        },
+        {
+            "time": "02:02",
+            "tag": "MERCADO",
+            "text": "ServiceNow near deal to buy cybersecurity startup Armis for up to $7 billion, Bloomberg News reports"
+        },
+        {
+            "time": "01:15",
+            "tag": "MERCADO",
+            "text": "ServiceNow said to near deal to buy Armis for up to US$7b"
+        },
+        {
             "time": "00:57",
             "tag": "MERCADO",
             "text": "Cadence Design Systems (NASDAQ:CDNS) Director Sells $60,746.40 in Stock"
@@ -134,21 +149,6 @@
             "time": "00:34",
             "tag": "MERCADO",
             "text": "Did Trimble\u2019s (TRMB) New US$1 Billion Buyback and Dealer Expansion Just Recast Its Capital Story?"
-        },
-        {
-            "time": "00:10",
-            "tag": "AI",
-            "text": "Check Point (CHKP) Valuation Check After Quantum Firewall R82.10 Product Upgrade and AI Security Push"
-        },
-        {
-            "time": "23:43",
-            "tag": "MERCADO",
-            "text": "Is Gartner\u2019s 2025 Slump a Long Term Opportunity for Patient Investors?"
-        },
-        {
-            "time": "23:31",
-            "tag": "AI",
-            "text": "Does ServiceNow\u2019s AI Push, Security Deal, and Stock Split Reshape The Bull Case For NOW?"
         }
     ]
 }
