@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-14 19:18 UTC",
+        "last_updated": "2025-12-14 20:25 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.02,
-            "change": "-3.33%"
+            "change": "+2.0%"
         },
         {
             "symbol": "AMD",
             "price": 210.78,
-            "change": "+0.39%"
+            "change": "-0.16%"
         },
         {
             "symbol": "MSFT",
             "price": 478.53,
-            "change": "+1.55%"
+            "change": "-2.52%"
         },
         {
             "symbol": "CEG",
             "price": 351.98,
-            "change": "+0.48%"
+            "change": "+3.49%"
         },
         {
             "symbol": "VST",
             "price": 170.1,
-            "change": "-2.29%"
+            "change": "+0.06%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.5,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.49
+            0.55,
+            0.55,
+            0.54,
+            0.54,
+            0.53,
+            0.54,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            27.02,
-            26.79,
-            26.71,
-            26.76,
-            26.24,
-            26.53,
-            26.43,
-            26.88,
-            26.46,
-            25.96,
-            25.56,
-            25.32
+            24.06,
+            24.17,
+            24.63,
+            24.77,
+            25.18,
+            25.02,
+            25.14,
+            25.06,
+            25.27,
+            24.84,
+            25.03,
+            24.61
         ],
         "hsd_history_software": [
-            9.81,
-            9.81,
-            9.85,
-            10.05,
-            10.17,
-            10.2,
+            10.56,
+            10.5,
+            10.32,
+            10.43,
+            10.35,
+            10.37,
+            10.34,
             10.18,
-            10.11,
-            10.03,
-            10.08,
-            10.04,
-            9.88
+            10.26,
+            10.09,
+            10.27,
+            10.17
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "18:44",
+            "tag": "MERCADO",
+            "text": "Evercore Reiterates Outperform on Arista Networks (ANET), Removes Stock From Tactical List"
+        },
+        {
+            "time": "18:28",
+            "tag": "MERCADO",
+            "text": "MSCI\u2019s New Public\u2011Private Equity Index Could Be A Game Changer For MSCI (MSCI)"
+        },
+        {
             "time": "18:08",
             "tag": "MERCADO",
             "text": "Check out ARB IOT Ltd's stock price (ARBB) in real time"
@@ -139,16 +149,6 @@
             "time": "17:08",
             "tag": "RESULTADOS",
             "text": "Zedge Prepares for Earnings Update Amid Market Anticipation"
-        },
-        {
-            "time": "16:52",
-            "tag": "MERCADO",
-            "text": "SPY ETF Outlook (Dec. 14, 2025): SPDR S&P 500 ETF Trust Price, Fresh News, 2026 Forecasts, and What to Watch This Week"
-        },
-        {
-            "time": "16:30",
-            "tag": "MERCADO",
-            "text": "The Insider Report: A Dangerous Crack or Epic Rotation?"
         }
     ]
 }
