@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-14 20:25 UTC",
+        "last_updated": "2025-12-14 21:20 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.02,
-            "change": "+2.0%"
+            "change": "+0.67%"
         },
         {
             "symbol": "AMD",
             "price": 210.78,
-            "change": "-0.16%"
+            "change": "-2.27%"
         },
         {
             "symbol": "MSFT",
             "price": 478.53,
-            "change": "-2.52%"
+            "change": "-0.25%"
         },
         {
             "symbol": "CEG",
             "price": 351.98,
-            "change": "+3.49%"
+            "change": "-0.91%"
         },
         {
             "symbol": "VST",
             "price": 170.1,
-            "change": "+0.06%"
+            "change": "+3.32%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.41,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.55,
-            0.55,
-            0.54,
-            0.54,
-            0.53,
-            0.54,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
+            0.5,
+            0.5,
+            0.5,
             0.51,
-            0.51
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.06,
-            24.17,
-            24.63,
-            24.77,
-            25.18,
-            25.02,
-            25.14,
-            25.06,
+            25.52,
+            25.12,
+            25.16,
+            25.53,
+            25.3,
             25.27,
+            25.3,
+            25.21,
+            24.72,
             24.84,
-            25.03,
-            24.61
+            24.83,
+            24.65
         ],
         "hsd_history_software": [
-            10.56,
-            10.5,
-            10.32,
-            10.43,
-            10.35,
-            10.37,
-            10.34,
+            10.03,
             10.18,
-            10.26,
+            10.07,
+            9.91,
+            10.07,
+            10.01,
+            10.01,
+            10.02,
+            9.95,
+            10.06,
             10.09,
-            10.27,
-            10.17
+            9.9
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "19:38",
+            "tag": "MERCADO",
+            "text": "Verisk\u2013KYND Cyber Data Tie-Up Might Change The Case For Investing In Verisk Analytics (VRSK)"
+        },
+        {
+            "time": "19:31",
+            "tag": "MERCADO",
+            "text": "Super Micro Computer (SMCI) Stock News Today: Fresh Blackwell Server Catalyst, Wall Street Forecasts, and What Investors Are Watching (Dec. 14, 2025)"
+        },
+        {
+            "time": "19:23",
+            "tag": "MERCADO",
+            "text": "Is Emerson Electric Still Attractive After Automation Pivot and 87.4% Five Year Surge?"
+        },
+        {
+            "time": "19:09",
+            "tag": "MERCADO",
+            "text": "Celestica Inc. Stock (CLS) Update: Why Shares Slumped, What Analysts Forecast, and the 2026 Outlook (Dec. 14, 2025)"
+        },
+        {
             "time": "18:44",
             "tag": "MERCADO",
             "text": "Evercore Reiterates Outperform on Arista Networks (ANET), Removes Stock From Tactical List"
-        },
-        {
-            "time": "18:28",
-            "tag": "MERCADO",
-            "text": "MSCI\u2019s New Public\u2011Private Equity Index Could Be A Game Changer For MSCI (MSCI)"
-        },
-        {
-            "time": "18:08",
-            "tag": "MERCADO",
-            "text": "Check out ARB IOT Ltd's stock price (ARBB) in real time"
-        },
-        {
-            "time": "17:08",
-            "tag": "MERCADO",
-            "text": "ProShares UltraPro QQQ (TQQQ) Stock: Latest News, Price Action, Nasdaq-100 Rebalance and 2026 Outlook (December 14, 2025)"
-        },
-        {
-            "time": "17:08",
-            "tag": "RESULTADOS",
-            "text": "Zedge Prepares for Earnings Update Amid Market Anticipation"
         }
     ]
 }
