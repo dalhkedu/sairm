@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-15 20:28 UTC",
+        "last_updated": "2025-12-15 21:24 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 176.4,
-            "change": "+2.14%"
+            "price": 176.29,
+            "change": "-2.25%"
         },
         {
             "symbol": "AMD",
-            "price": 208.08,
-            "change": "-1.72%"
+            "price": 207.58,
+            "change": "-2.33%"
         },
         {
             "symbol": "MSFT",
-            "price": 474.49,
-            "change": "+2.32%"
+            "price": 474.82,
+            "change": "-0.66%"
         },
         {
             "symbol": "CEG",
-            "price": 358.36,
-            "change": "-2.71%"
+            "price": 357.14,
+            "change": "-0.8%"
         },
         {
             "symbol": "VST",
-            "price": 168.11,
-            "change": "+2.7%"
+            "price": 168.25,
+            "change": "-0.7%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.7,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
             0.5,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
+            0.5,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            23.76,
-            23.44,
-            23.86,
-            24.25,
-            24.68,
+            25.42,
+            25.19,
+            24.82,
+            24.69,
+            24.28,
+            24.63,
+            24.55,
+            24.75,
+            24.81,
             24.94,
-            25.11,
-            25.08,
-            25.13,
-            24.9,
-            24.86,
-            25.15
+            25.05,
+            24.82
         ],
         "hsd_history_software": [
-            10.19,
-            10.2,
-            10.25,
-            10.17,
-            10.26,
-            10.28,
-            10.23,
-            10.2,
-            10.06,
-            10.03,
-            10.22,
-            10.13
+            9.84,
+            9.66,
+            9.56,
+            9.56,
+            9.69,
+            9.57,
+            9.72,
+            9.88,
+            10.07,
+            10.0,
+            10.12,
+            9.99
         ],
         "rci_data": [
             85.0,
-            17.64
+            17.629
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:04",
+            "time": "20:08",
             "tag": "MERCADO",
-            "text": "CoStar Group (NASDAQ:CSGP) Sets New 1-Year Low - Time to Sell?"
+            "text": "Insider Sell: Gregory Smith Sells Shares of Teradyne Inc (TER)"
         },
         {
-            "time": "18:49",
+            "time": "19:58",
             "tag": "MERCADO",
-            "text": "Why Tesla Can\u2019t Catch Waymo, According to a Longtime Investor"
+            "text": "Ookla: T-Mobile Is Fastest Fixed Wireless Access Provider"
         },
         {
-            "time": "18:48",
+            "time": "19:45",
             "tag": "MERCADO",
-            "text": "Fiserv (FISV) Stock Today, Dec. 15, 2025: Latest News, Forecasts, and Analyst Outlook"
+            "text": "Fastly, Akamai Poised For Security, Compute Growth, Says Analyst"
         },
         {
-            "time": "18:38",
+            "time": "19:43",
             "tag": "MERCADO",
-            "text": "Does Insider Buying And Record Margins Change The Bull Case For Illinois Tool Works (ITW)?"
+            "text": "Eaton Stock (ETN) News and Forecast: What\u2019s Driving Eaton Corporation plc Shares on Dec. 15, 2025"
         },
         {
-            "time": "18:35",
-            "tag": "AI",
-            "text": "Sitoo Recognised in 2025 Gartner\u00ae Market Guide for Unified Commerce Platforms Anchored by AI-Enabled POS for Tier 2 Retailers"
+            "time": "19:40",
+            "tag": "MERCADO",
+            "text": "Connecticut joins 21 other states in lawsuit against Uber, alleging \u2018deceptive and unfair practices\u2019"
         }
     ]
 }
