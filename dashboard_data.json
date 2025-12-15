@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-15 14:28 UTC",
+        "last_updated": "2025-12-15 15:28 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 175.02,
-            "change": "-2.77%"
+            "price": 175.31,
+            "change": "+0.99%"
         },
         {
             "symbol": "AMD",
-            "price": 210.78,
-            "change": "-0.88%"
+            "price": NaN,
+            "change": "+1.88%"
         },
         {
             "symbol": "MSFT",
-            "price": 478.53,
-            "change": "-0.61%"
+            "price": 473.04,
+            "change": "+0.94%"
         },
         {
             "symbol": "CEG",
-            "price": 351.98,
-            "change": "-1.3%"
+            "price": 356.74,
+            "change": "+1.89%"
         },
         {
             "symbol": "VST",
-            "price": NaN,
-            "change": "+0.98%"
+            "price": 170.37,
+            "change": "+1.28%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.63,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
             0.49,
             0.49,
             0.49,
             0.49,
             0.5,
-            0.5
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.51,
-            24.87,
-            24.69,
-            24.69,
-            25.05,
-            25.28,
-            25.36,
-            25.35,
-            25.65,
-            25.51,
+            25.43,
+            25.13,
+            25.29,
+            25.44,
             25.03,
-            24.81
+            25.51,
+            25.43,
+            25.27,
+            25.05,
+            25.33,
+            24.83,
+            25.11
         ],
         "hsd_history_software": [
-            9.75,
-            9.71,
-            9.8,
-            9.87,
-            9.98,
-            9.89,
-            9.9,
-            9.8,
+            9.6,
+            9.57,
             9.68,
-            9.85,
+            9.6,
+            9.73,
             9.9,
-            9.92
+            10.03,
+            10.03,
+            9.9,
+            9.87,
+            9.75,
+            9.8
         ],
         "rci_data": [
             85.0,
-            17.502000000000002
+            17.531
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:08",
+            "time": "14:08",
             "tag": "MERCADO",
-            "text": "Should You Invest in the Invesco NASDAQ Internet ETF (PNQI)?"
+            "text": "Microsoft confirms data center plans in Kent County"
         },
         {
-            "time": "13:08",
+            "time": "14:07",
             "tag": "MERCADO",
-            "text": "NWF Advisory Services Inc. Boosts Position in Verizon Communications Inc. $VZ"
+            "text": "Broadcom shares rebound after worst week since April"
         },
         {
-            "time": "13:07",
+            "time": "14:06",
             "tag": "MERCADO",
-            "text": "Texas Permanent School Fund Corp Sells 30,336 Shares of QUALCOMM Incorporated $QCOM"
+            "text": "Westwood Holdings Group Inc. Sells 3,635 Shares of Motorola Solutions, Inc. $MSI"
         },
         {
-            "time": "13:07",
+            "time": "14:06",
             "tag": "MERCADO",
-            "text": "Texas Permanent School Fund Corp Has $18.51 Million Position in Intuit Inc. $INTU"
+            "text": "WT Wealth Management Buys New Position in eBay Inc. $EBAY"
         },
         {
-            "time": "13:07",
+            "time": "14:05",
             "tag": "MERCADO",
-            "text": "Migdal Insurance & Financial Holdings Ltd. Decreases Stake in Lam Research Corporation $LRCX"
+            "text": "A Triple Recognition: First Gartner and IDC, and now Frost & Sullivan Name Apiiro an Industry Leader in ASPM and Agentic Application Security"
         }
     ]
 }
