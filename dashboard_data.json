@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-14 23:21 UTC",
+        "last_updated": "2025-12-15 01:58 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.02,
-            "change": "-1.46%"
+            "change": "-2.34%"
         },
         {
             "symbol": "AMD",
             "price": 210.78,
-            "change": "-1.38%"
+            "change": "+0.17%"
         },
         {
             "symbol": "MSFT",
             "price": 478.53,
-            "change": "-1.19%"
+            "change": "-1.07%"
         },
         {
             "symbol": "CEG",
             "price": 351.98,
-            "change": "-1.86%"
+            "change": "-3.33%"
         },
         {
             "symbol": "VST",
             "price": 170.1,
-            "change": "+3.38%"
+            "change": "+2.42%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.45,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.5,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.66,
-            26.15,
-            25.87,
-            25.93,
-            25.66,
-            25.55,
-            25.4,
-            25.76,
-            25.58,
-            25.73,
-            25.31,
-            24.84
+            24.63,
+            24.77,
+            25.09,
+            24.99,
+            25.47,
+            25.49,
+            25.46,
+            25.1,
+            25.51,
+            25.39,
+            24.93,
+            25.01
         ],
         "hsd_history_software": [
-            10.28,
-            10.23,
-            10.3,
-            10.21,
-            10.41,
-            10.36,
-            10.3,
-            10.3,
-            10.27,
-            10.23,
-            10.34,
-            10.2
+            10.05,
+            10.13,
+            9.99,
+            10.14,
+            10.16,
+            10.02,
+            9.93,
+            9.9,
+            10.0,
+            10.11,
+            9.93,
+            10.12
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:01",
+            "time": "00:47",
             "tag": "MERCADO",
-            "text": "RTX Stock: What to Know Before the U.S. Market Opens Monday, Dec. 15, 2025"
+            "text": "US stock futures mixed with tech on edge after Broadcom wipeout; CPI awaited"
         },
         {
-            "time": "21:47",
+            "time": "00:00",
             "tag": "MERCADO",
-            "text": "Hewlett Packard Enterprise (HPE) Stock: What to Know Before the U.S. Market Open on Dec. 15, 2025"
+            "text": "How many people work at Toyota and how is its workforce evolving?"
         },
         {
-            "time": "21:46",
+            "time": "22:53",
             "tag": "MERCADO",
-            "text": "Analog Devices (ADI) Stock: What to Know Before the Market Opens on Monday, December 15, 2025"
+            "text": "ServiceNow reportedly in advanced talks to buy Armis for up to $7 billion"
         },
         {
-            "time": "21:37",
+            "time": "22:33",
             "tag": "MERCADO",
-            "text": "TSM Stock: What to Know About Taiwan Semiconductor Before the U.S. Market Opens on Dec. 15, 2025"
+            "text": "Is It Time To Reassess Hewlett Packard Enterprise After Its Strong Multi Year Share Price Run?"
         },
         {
-            "time": "21:08",
+            "time": "22:16",
             "tag": "MERCADO",
-            "text": "Alphabet (GOOGL, GOOG) Stock: What to Know Before the U.S. Market Opens on Monday, December 15, 2025"
+            "text": "Arista Networks (ANET) Stock: What to Know Before the US Market Opens on Dec. 15, 2025"
         }
     ]
 }
