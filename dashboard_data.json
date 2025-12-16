@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-16 19:22 UTC",
+        "last_updated": "2025-12-16 20:28 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 176.45,
-            "change": "-3.25%"
+            "price": 177.12,
+            "change": "+2.31%"
         },
         {
             "symbol": "AMD",
-            "price": 207.87,
-            "change": "+2.17%"
+            "price": 208.62,
+            "change": "-1.61%"
         },
         {
             "symbol": "MSFT",
-            "price": 474.37,
-            "change": "+0.12%"
+            "price": 476.63,
+            "change": "-1.93%"
         },
         {
             "symbol": "CEG",
-            "price": 363.42,
-            "change": "-0.36%"
+            "price": 364.11,
+            "change": "+0.04%"
         },
         {
             "symbol": "VST",
-            "price": 172.47,
-            "change": "-2.47%"
+            "price": 172.62,
+            "change": "+0.87%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.58,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
             0.5,
             0.51,
             0.51,
             0.51,
             0.51,
-            0.51
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.11,
-            26.13,
-            26.16,
-            26.48,
-            26.11,
-            25.79,
-            25.87,
-            26.18,
-            25.93,
-            25.43,
-            25.54,
-            25.46
+            24.45,
+            24.94,
+            24.97,
+            24.92,
+            24.45,
+            24.77,
+            24.99,
+            24.63,
+            24.86,
+            25.3,
+            25.33,
+            25.2
         ],
         "hsd_history_software": [
-            9.29,
-            9.43,
-            9.55,
-            9.63,
-            9.78,
-            9.85,
-            9.89,
-            9.81,
+            9.99,
+            9.99,
             9.9,
-            10.08,
-            10.26,
-            10.1
+            9.85,
+            9.81,
+            9.91,
+            9.73,
+            9.79,
+            9.8,
+            9.8,
+            9.99,
+            9.94
         ],
         "rci_data": [
             85.0,
-            17.645
+            17.712
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:41",
+            "time": "19:09",
             "tag": "AI",
-            "text": "New SKT CEO says that he will prioritize rebuilding customers' trust, innovation and AI"
+            "text": "|Arrive AI Announces $10 Million Share Repurchase Program"
         },
         {
-            "time": "18:04",
+            "time": "19:09",
             "tag": "MERCADO",
-            "text": "GDIT Awarded $285 Million Virginia Cybersecurity Services Contract"
+            "text": "TotalEnergies signs deal to power Google's Malaysia data centers (TTE:NYSE)"
         },
         {
-            "time": "17:39",
-            "tag": "AI",
-            "text": "Enterprise AI enters execution as Microsoft and Dell focus on scale"
-        },
-        {
-            "time": "17:39",
-            "tag": "AI",
-            "text": "Analog Devices (ADI): Valuation Check After Analyst Optimism and Sector-Wide AI Profitability Jitters"
-        },
-        {
-            "time": "17:38",
+            "time": "19:05",
             "tag": "MERCADO",
-            "text": "10 Information Technology Stocks With Whale Alerts In Today's Session"
+            "text": "Margin Headwinds Prompt Argus to Downgrade Colgate (CL) Shares"
+        },
+        {
+            "time": "19:04",
+            "tag": "MERCADO",
+            "text": "Micron, General Mills, Jabil, and more set to report earnings Wednesday"
+        },
+        {
+            "time": "19:00",
+            "tag": "MERCADO",
+            "text": "Rezolve Stock Surge: What\u2019s Driving the Market?"
         }
     ]
 }
