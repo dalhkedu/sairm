@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-16 18:36 UTC",
+        "last_updated": "2025-12-16 19:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 177.06,
-            "change": "-0.04%"
+            "price": 176.45,
+            "change": "-3.25%"
         },
         {
             "symbol": "AMD",
-            "price": 208.27,
-            "change": "-3.23%"
+            "price": 207.87,
+            "change": "+2.17%"
         },
         {
             "symbol": "MSFT",
-            "price": 474.33,
-            "change": "+2.1%"
+            "price": 474.37,
+            "change": "+0.12%"
         },
         {
             "symbol": "CEG",
-            "price": 361.33,
-            "change": "+3.19%"
+            "price": 363.42,
+            "change": "-0.36%"
         },
         {
             "symbol": "VST",
-            "price": 170.8,
-            "change": "+3.4%"
+            "price": 172.47,
+            "change": "-2.47%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.44,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.54,
-            0.53,
-            0.52,
+            0.49,
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
             0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
+            0.51,
             0.51,
             0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            23.04,
-            23.47,
-            23.48,
-            23.5,
-            23.68,
-            23.38,
-            23.45,
-            23.86,
-            24.02,
-            24.23,
-            24.5,
-            24.57
+            26.11,
+            26.13,
+            26.16,
+            26.48,
+            26.11,
+            25.79,
+            25.87,
+            26.18,
+            25.93,
+            25.43,
+            25.54,
+            25.46
         ],
         "hsd_history_software": [
-            10.56,
-            10.41,
-            10.42,
-            10.44,
-            10.62,
-            10.49,
-            10.6,
-            10.62,
-            10.43,
-            10.37,
-            10.21,
-            10.14
+            9.29,
+            9.43,
+            9.55,
+            9.63,
+            9.78,
+            9.85,
+            9.89,
+            9.81,
+            9.9,
+            10.08,
+            10.26,
+            10.1
         ],
         "rci_data": [
             85.0,
-            17.706
+            17.645
         ],
         "energy_data": [
             1.2,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "18:41",
+            "tag": "AI",
+            "text": "New SKT CEO says that he will prioritize rebuilding customers' trust, innovation and AI"
+        },
+        {
             "time": "18:04",
             "tag": "MERCADO",
             "text": "GDIT Awarded $285 Million Virginia Cybersecurity Services Contract"
@@ -144,11 +149,6 @@
             "time": "17:38",
             "tag": "MERCADO",
             "text": "10 Information Technology Stocks With Whale Alerts In Today's Session"
-        },
-        {
-            "time": "17:29",
-            "tag": "MERCADO",
-            "text": "PayPal applies for US banking charter to expand lending and deposit services"
         }
     ]
 }
