@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-16 12:52 UTC",
+        "last_updated": "2025-12-16 13:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 176.29,
-            "change": "+2.83%"
+            "change": "-2.97%"
         },
         {
             "symbol": "AMD",
             "price": 207.58,
-            "change": "-2.07%"
+            "change": "-0.49%"
         },
         {
             "symbol": "MSFT",
             "price": 474.82,
-            "change": "+0.31%"
+            "change": "-2.78%"
         },
         {
             "symbol": "CEG",
-            "price": 357.14,
-            "change": "+0.88%"
+            "price": NaN,
+            "change": "+0.99%"
         },
         {
             "symbol": "VST",
             "price": 168.25,
-            "change": "+1.59%"
+            "change": "+1.57%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.54,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
-            0.51,
+            0.5,
             0.5,
             0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            24.08,
-            24.4,
-            24.31,
-            24.58,
-            24.33,
-            24.61,
-            24.94,
+            25.75,
+            25.81,
+            25.33,
+            25.21,
+            25.04,
             25.3,
-            25.09,
-            25.07,
-            25.14,
-            25.34
+            25.12,
+            24.74,
+            24.52,
+            25.0,
+            25.06,
+            24.81
         ],
         "hsd_history_software": [
-            10.34,
-            10.39,
-            10.42,
-            10.31,
-            10.43,
-            10.37,
-            10.21,
-            10.22,
-            10.08,
-            10.08,
-            10.06,
-            10.02
+            10.27,
+            10.16,
+            10.23,
+            10.24,
+            10.12,
+            9.99,
+            9.92,
+            9.84,
+            9.74,
+            9.81,
+            9.9,
+            10.04
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:08",
-            "tag": "MERCADO",
-            "text": "ENDRA Life Sciences (NASDAQ: NDRA) Advances Health Tech"
+            "time": "13:04",
+            "tag": "AI",
+            "text": "NextPlat's Global Telesat Expands 5G and Artificial Intelligence-Powered Internet of Things (IoT) Offerings Through New Distribution Agreement with Telit Cinterion"
         },
         {
-            "time": "12:04",
-            "tag": "MERCADO",
-            "text": "Broadridge strengthens platform for alternative investment managers"
+            "time": "13:02",
+            "tag": "AI",
+            "text": "Revvity (NYSE: RVTY) unveils Signals Xynthetica AI MaaS for discovery workflows"
         },
         {
-            "time": "12:03",
-            "tag": "MERCADO",
-            "text": "Uber Stock (UBER) Slides on FTC Uber One Lawsuit as Analysts Hold Bullish Targets \u2014 What to Know on Dec. 16, 2025"
+            "time": "13:02",
+            "tag": "AI",
+            "text": "Palo Alto Networks warns that AI is driving a surge in cloud security risks"
         },
         {
-            "time": "12:02",
+            "time": "13:02",
             "tag": "MERCADO",
-            "text": "Bulletproof Achieves Fortinet Expert Partner Status and Expands Specializations"
+            "text": "Rapid7 unwraps new SantaStealer malware-as-a-service"
         },
         {
-            "time": "12:01",
+            "time": "13:02",
             "tag": "MERCADO",
-            "text": "General Motors confirms upcoming Apple Wallet car key support"
+            "text": "Enphase Energy Expands Safe Harbor Agreement with a Leading TPO Provider"
         }
     ]
 }
