@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-16 17:26 UTC",
+        "last_updated": "2025-12-16 18:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 176.43,
-            "change": "-2.74%"
+            "price": 177.06,
+            "change": "-0.04%"
         },
         {
             "symbol": "AMD",
-            "price": 207.01,
-            "change": "-0.84%"
+            "price": 208.27,
+            "change": "-3.23%"
         },
         {
             "symbol": "MSFT",
-            "price": 474.3,
-            "change": "-0.81%"
+            "price": 474.33,
+            "change": "+2.1%"
         },
         {
             "symbol": "CEG",
-            "price": 360.19,
-            "change": "+1.93%"
+            "price": 361.33,
+            "change": "+3.19%"
         },
         {
             "symbol": "VST",
-            "price": 171.08,
-            "change": "+0.02%"
+            "price": 170.8,
+            "change": "+3.4%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.7,
+        "cer_current": 0.49,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.49,
-            0.5,
+            0.54,
+            0.54,
+            0.53,
+            0.52,
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
             0.51,
             0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            24.47,
-            24.0,
-            23.83,
-            23.87,
-            23.83,
-            23.44,
-            23.29,
-            23.63,
-            23.77,
-            23.6,
-            24.04,
-            24.52
+            23.04,
+            23.47,
+            23.48,
+            23.5,
+            23.68,
+            23.38,
+            23.45,
+            23.86,
+            24.02,
+            24.23,
+            24.5,
+            24.57
         ],
         "hsd_history_software": [
-            9.89,
-            10.02,
-            10.0,
-            10.17,
-            10.01,
-            9.84,
-            9.76,
-            9.92,
-            9.9,
-            10.03,
-            9.92,
-            9.87
+            10.56,
+            10.41,
+            10.42,
+            10.44,
+            10.62,
+            10.49,
+            10.6,
+            10.62,
+            10.43,
+            10.37,
+            10.21,
+            10.14
         ],
         "rci_data": [
             85.0,
-            17.643
+            17.706
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:09",
+            "time": "18:04",
             "tag": "MERCADO",
-            "text": "Liberty All-Star\u00ae Growth Fund, Inc. November 2025 Monthly Update"
+            "text": "GDIT Awarded $285 Million Virginia Cybersecurity Services Contract"
         },
         {
-            "time": "16:07",
-            "tag": "MERCADO",
-            "text": "Assured comms support to be provided for U.S. Air Force by L3Harris"
+            "time": "17:39",
+            "tag": "AI",
+            "text": "Enterprise AI enters execution as Microsoft and Dell focus on scale"
         },
         {
-            "time": "16:06",
-            "tag": "MERCADO",
-            "text": "Catalyst Announces Integration With Jack Henry Solutions"
+            "time": "17:39",
+            "tag": "AI",
+            "text": "Analog Devices (ADI): Valuation Check After Analyst Optimism and Sector-Wide AI Profitability Jitters"
         },
         {
-            "time": "16:02",
+            "time": "17:38",
             "tag": "MERCADO",
-            "text": "Salesforce (CRM) Stock News Today (Dec. 16, 2025): Agentforce Updates, Dividend Spotlight, Analyst Targets, and What Investors Are Watching"
+            "text": "10 Information Technology Stocks With Whale Alerts In Today's Session"
         },
         {
-            "time": "15:56",
+            "time": "17:29",
             "tag": "MERCADO",
-            "text": "Pardon the Disruption: 6 trends that defined grocery in 2025"
+            "text": "PayPal applies for US banking charter to expand lending and deposit services"
         }
     ]
 }
