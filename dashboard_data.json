@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-16 21:24 UTC",
+        "last_updated": "2025-12-16 22:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.72,
-            "change": "-0.1%"
+            "change": "+0.48%"
         },
         {
             "symbol": "AMD",
-            "price": NaN,
-            "change": "-2.92%"
+            "price": 209.17,
+            "change": "-0.94%"
         },
         {
             "symbol": "MSFT",
             "price": 476.39,
-            "change": "+0.62%"
+            "change": "-3.39%"
         },
         {
             "symbol": "CEG",
             "price": 365.62,
-            "change": "+1.17%"
+            "change": "+0.24%"
         },
         {
             "symbol": "VST",
             "price": 173.45,
-            "change": "+1.54%"
+            "change": "+2.09%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.57,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.51,
+            0.5,
             0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.5,
-            0.51
+            0.49,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            23.83,
-            23.73,
-            24.01,
-            23.71,
-            23.93,
-            23.69,
-            23.88,
-            23.82,
-            23.64,
-            24.01,
-            24.08,
-            24.53
+            24.62,
+            24.54,
+            24.68,
+            24.78,
+            24.61,
+            25.05,
+            25.41,
+            25.29,
+            25.1,
+            24.94,
+            25.19,
+            25.17
         ],
         "hsd_history_software": [
+            10.22,
+            10.17,
+            10.19,
             10.05,
-            10.08,
+            9.93,
+            9.87,
+            10.0,
             10.08,
             10.11,
-            10.12,
-            10.08,
-            9.97,
-            10.03,
-            10.05,
-            10.18,
+            10.04,
             9.98,
-            9.83
+            9.85
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:08",
+            "time": "20:58",
             "tag": "MERCADO",
-            "text": "BTQ Technologies Added To $80M Defiance Quantum ETF (QTUM)"
+            "text": "Strategic Exit: Tower Corp Divests 91% of AST SpaceMobile Stake Ahead of Key Launch"
         },
         {
-            "time": "20:03",
+            "time": "20:48",
             "tag": "MERCADO",
-            "text": "Intel Shelves Its Plan To Separate Network And Edge Group"
+            "text": "Mizuho Securities Reiterates a Buy Rating on Arista Networks (ANET)"
         },
         {
-            "time": "20:03",
+            "time": "20:42",
             "tag": "MERCADO",
-            "text": "Intuit (INTU) Stock Forecast 2026: Latest News, Price Targets and Key Levels (Dec. 16, 2025)"
+            "text": "Corteva, Hexagon Bio launch joint venture to develop crop protection"
         },
         {
-            "time": "19:47",
+            "time": "20:32",
             "tag": "MERCADO",
-            "text": "Subscribe to intelligence: R&D\u2019s move towards MaaS"
+            "text": "Humana taps Amazon's Aaron Martin to lead insurance unit as company veteran steps down"
         },
         {
-            "time": "19:44",
+            "time": "20:29",
             "tag": "MERCADO",
-            "text": "Northrop Grumman and 4iG partner on defense tech collaboration"
+            "text": "Viasat Unlocks \u201cRoaming\u201d for Government Users: The Operational Reality of the Inmarsat Merger"
         }
     ]
 }
