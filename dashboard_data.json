@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-16 20:28 UTC",
+        "last_updated": "2025-12-16 21:24 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 177.12,
-            "change": "+2.31%"
+            "price": 177.72,
+            "change": "-0.1%"
         },
         {
             "symbol": "AMD",
-            "price": 208.62,
-            "change": "-1.61%"
+            "price": NaN,
+            "change": "-2.92%"
         },
         {
             "symbol": "MSFT",
-            "price": 476.63,
-            "change": "-1.93%"
+            "price": 476.39,
+            "change": "+0.62%"
         },
         {
             "symbol": "CEG",
-            "price": 364.11,
-            "change": "+0.04%"
+            "price": 365.62,
+            "change": "+1.17%"
         },
         {
             "symbol": "VST",
-            "price": 172.62,
-            "change": "+0.87%"
+            "price": 173.45,
+            "change": "+1.54%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.64,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.5,
+            0.5,
             0.5,
             0.51,
             0.51,
             0.51,
             0.51,
+            0.52,
             0.51,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49
+            0.51
         ],
         "hsd_history_hardware": [
-            24.45,
-            24.94,
-            24.97,
-            24.92,
-            24.45,
-            24.77,
-            24.99,
-            24.63,
-            24.86,
-            25.3,
-            25.33,
-            25.2
+            23.83,
+            23.73,
+            24.01,
+            23.71,
+            23.93,
+            23.69,
+            23.88,
+            23.82,
+            23.64,
+            24.01,
+            24.08,
+            24.53
         ],
         "hsd_history_software": [
-            9.99,
-            9.99,
-            9.9,
-            9.85,
-            9.81,
-            9.91,
-            9.73,
-            9.79,
-            9.8,
-            9.8,
-            9.99,
-            9.94
+            10.05,
+            10.08,
+            10.08,
+            10.11,
+            10.12,
+            10.08,
+            9.97,
+            10.03,
+            10.05,
+            10.18,
+            9.98,
+            9.83
         ],
         "rci_data": [
             85.0,
-            17.712
+            17.772
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:09",
-            "tag": "AI",
-            "text": "|Arrive AI Announces $10 Million Share Repurchase Program"
+            "time": "20:08",
+            "tag": "MERCADO",
+            "text": "BTQ Technologies Added To $80M Defiance Quantum ETF (QTUM)"
         },
         {
-            "time": "19:09",
+            "time": "20:03",
             "tag": "MERCADO",
-            "text": "TotalEnergies signs deal to power Google's Malaysia data centers (TTE:NYSE)"
+            "text": "Intel Shelves Its Plan To Separate Network And Edge Group"
         },
         {
-            "time": "19:05",
+            "time": "20:03",
             "tag": "MERCADO",
-            "text": "Margin Headwinds Prompt Argus to Downgrade Colgate (CL) Shares"
+            "text": "Intuit (INTU) Stock Forecast 2026: Latest News, Price Targets and Key Levels (Dec. 16, 2025)"
         },
         {
-            "time": "19:04",
+            "time": "19:47",
             "tag": "MERCADO",
-            "text": "Micron, General Mills, Jabil, and more set to report earnings Wednesday"
+            "text": "Subscribe to intelligence: R&D\u2019s move towards MaaS"
         },
         {
-            "time": "19:00",
+            "time": "19:44",
             "tag": "MERCADO",
-            "text": "Rezolve Stock Surge: What\u2019s Driving the Market?"
+            "text": "Northrop Grumman and 4iG partner on defense tech collaboration"
         }
     ]
 }
