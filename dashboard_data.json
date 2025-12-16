@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-16 14:28 UTC",
+        "last_updated": "2025-12-16 15:28 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 176.29,
-            "change": "+2.78%"
+            "price": 176.06,
+            "change": "-1.89%"
         },
         {
             "symbol": "AMD",
-            "price": 207.58,
-            "change": "-2.81%"
+            "price": 206.08,
+            "change": "+2.45%"
         },
         {
             "symbol": "MSFT",
-            "price": 474.82,
-            "change": "+1.77%"
+            "price": 473.5,
+            "change": "-0.3%"
         },
         {
             "symbol": "CEG",
-            "price": 357.14,
-            "change": "+2.74%"
+            "price": 352.63,
+            "change": "-2.72%"
         },
         {
             "symbol": "VST",
-            "price": 168.25,
-            "change": "+1.75%"
+            "price": 168.8,
+            "change": "+3.45%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.65,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.53,
+            0.52,
+            0.53,
+            0.52,
+            0.51,
             0.5,
             0.5,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.5
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            26.6,
-            26.93,
-            26.65,
-            26.27,
-            25.87,
-            25.76,
-            25.53,
-            25.29,
-            25.21,
-            25.42,
-            25.61,
-            25.33
+            24.22,
+            24.59,
+            24.86,
+            24.67,
+            25.09,
+            25.1,
+            25.48,
+            25.26,
+            25.06,
+            24.64,
+            24.93,
+            25.22
         ],
         "hsd_history_software": [
-            9.76,
-            9.92,
-            10.08,
-            9.94,
-            9.97,
-            9.94,
-            9.97,
-            10.15,
-            9.97,
-            9.83,
-            9.88,
-            9.84
+            9.33,
+            9.28,
+            9.34,
+            9.49,
+            9.61,
+            9.66,
+            9.78,
+            9.95,
+            10.1,
+            10.17,
+            10.19,
+            10.14
         ],
         "rci_data": [
             85.0,
-            17.629
+            17.605999999999998
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:04",
-            "tag": "AI",
-            "text": "NextPlat's Global Telesat Expands 5G and Artificial Intelligence-Powered Internet of Things (IoT) Offerings Through New Distribution Agreement with Telit Cinterion"
-        },
-        {
-            "time": "13:02",
-            "tag": "AI",
-            "text": "Revvity (NYSE: RVTY) unveils Signals Xynthetica AI MaaS for discovery workflows"
-        },
-        {
-            "time": "13:02",
-            "tag": "AI",
-            "text": "Palo Alto Networks warns that AI is driving a surge in cloud security risks"
-        },
-        {
-            "time": "13:02",
+            "time": "14:09",
             "tag": "MERCADO",
-            "text": "Rapid7 unwraps new SantaStealer malware-as-a-service"
+            "text": "Rigetti Computing Stock (RGTI) News & Forecast for December 15, 2025: Analyst Targets, Insider Sales, and What to Watch Next"
         },
         {
-            "time": "13:02",
+            "time": "14:09",
             "tag": "MERCADO",
-            "text": "Enphase Energy Expands Safe Harbor Agreement with a Leading TPO Provider"
+            "text": "Tyler Technologies director Carter sells $229k in stock By Investing.com"
+        },
+        {
+            "time": "14:03",
+            "tag": "AI",
+            "text": "Adobe Firefly\u2019s newest update enables users to direct, rather than generate, AI video"
+        },
+        {
+            "time": "14:02",
+            "tag": "MERCADO",
+            "text": "Forbes Highlights NextNRG\u2019s Technology as a Capable Solution to the Food System\u2019s Growing Energy Challenge"
+        },
+        {
+            "time": "14:02",
+            "tag": "MERCADO",
+            "text": "Sunrun (NASDAQ: RUN), NRG (NYSE: NRG) sign multi-year Texas home battery deal"
         }
     ]
 }
