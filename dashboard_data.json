@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-17 07:25 UTC",
+        "last_updated": "2025-12-17 08:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.72,
-            "change": "+3.13%"
+            "change": "-2.59%"
         },
         {
             "symbol": "AMD",
             "price": 209.17,
-            "change": "+3.16%"
+            "change": "+1.98%"
         },
         {
             "symbol": "MSFT",
             "price": 476.39,
-            "change": "-1.01%"
+            "change": "-2.43%"
         },
         {
             "symbol": "CEG",
             "price": 365.62,
-            "change": "-3.49%"
+            "change": "-2.72%"
         },
         {
             "symbol": "VST",
             "price": 173.45,
-            "change": "-1.29%"
+            "change": "+2.04%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.44,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.47,
-            0.48,
-            0.48,
+            0.53,
+            0.52,
+            0.52,
+            0.53,
+            0.52,
+            0.51,
+            0.52,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            25.86,
-            26.09,
-            26.02,
-            25.79,
-            25.33,
-            25.57,
-            25.91,
-            26.43,
-            26.28,
-            26.26,
-            25.84,
-            25.44
+            22.82,
+            23.19,
+            23.57,
+            23.54,
+            23.95,
+            24.18,
+            24.37,
+            24.53,
+            24.36,
+            24.66,
+            24.63,
+            24.85
         ],
         "hsd_history_software": [
-            9.87,
-            9.75,
-            9.94,
-            9.84,
-            9.98,
+            10.45,
+            10.35,
+            10.46,
+            10.55,
+            10.43,
+            10.61,
+            10.52,
+            10.45,
+            10.31,
+            10.16,
             10.01,
-            9.84,
-            9.79,
-            9.96,
-            9.91,
-            9.95,
-            10.14
+            9.86
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:09",
+            "time": "08:10",
             "tag": "MERCADO",
-            "text": "FDTX Stock Fund Price and Chart \u2014 NASDAQ:FDTX"
+            "text": "NETSOL Technologies (NASDAQ: NTWK) lands $50M, 4-year Transcend Finance extension"
         },
         {
-            "time": "05:08",
+            "time": "07:54",
+            "tag": "MERCADO",
+            "text": "BioMEMS Market Hits New High | Major Giants Agilent"
+        },
+        {
+            "time": "07:48",
+            "tag": "MERCADO",
+            "text": "Chinese GPU Maker MetaX Shares Surge Over 600% In Shanghai Debut Amid Beijing's Tech Independence Drive"
+        },
+        {
+            "time": "07:45",
+            "tag": "MERCADO",
+            "text": "Morgan Stanley upgrades Motorola Solutions stock rating to Overweight By Investing.com"
+        },
+        {
+            "time": "07:28",
             "tag": "AI",
-            "text": "Study: AI-Powered Mammography Technology Helps Flag Breast Cancer Cases Initially Interpreted as Negative"
-        },
-        {
-            "time": "04:09",
-            "tag": "MERCADO",
-            "text": "American Airlines testing new boarding technology at DFW Airport"
-        },
-        {
-            "time": "04:08",
-            "tag": "MERCADO",
-            "text": "Synopsys, Inc. Notice of Application Deadline for Recovery in Class Action Lawsuit \u2013 Filing Deadline December 30, 2025"
-        },
-        {
-            "time": "04:08",
-            "tag": "MERCADO",
-            "text": "Dover Fueling Solutions Launches 4Court Media, Giving Advertisers and Retailers a New Way to Engage Consumers at the Fuel Dispenser"
+            "text": "Sam Altman's OpenAI In Talks To Raise $10 Billion From Amazon And Use Its AI Chips: Report"
         }
     ]
 }
