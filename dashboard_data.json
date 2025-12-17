@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-17 17:26 UTC",
+        "last_updated": "2025-12-17 18:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 171.48,
-            "change": "+2.28%"
+            "price": 172.24,
+            "change": "-2.61%"
         },
         {
             "symbol": "AMD",
-            "price": 201.26,
-            "change": "-3.18%"
+            "price": 200.27,
+            "change": "+2.73%"
         },
         {
             "symbol": "MSFT",
-            "price": 477.44,
-            "change": "-3.01%"
+            "price": 478.69,
+            "change": "+1.48%"
         },
         {
             "symbol": "CEG",
-            "price": 340.62,
-            "change": "-0.99%"
+            "price": 338.0,
+            "change": "-0.84%"
         },
         {
             "symbol": "VST",
-            "price": 162.56,
-            "change": "+0.41%"
+            "price": 161.5,
+            "change": "+1.36%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.62,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.5
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.12,
-            24.25,
-            24.43,
-            24.59,
-            24.48,
-            24.84,
-            25.09,
-            24.71,
-            25.08,
-            24.83,
-            24.83,
-            24.85
+            26.2,
+            25.89,
+            25.89,
+            25.76,
+            25.86,
+            26.28,
+            25.84,
+            25.97,
+            25.56,
+            25.43,
+            25.11,
+            24.8
         ],
         "hsd_history_software": [
-            9.35,
-            9.26,
-            9.4,
-            9.27,
-            9.42,
-            9.39,
-            9.53,
-            9.71,
-            9.86,
-            9.78,
-            9.9,
-            10.0
+            10.38,
+            10.33,
+            10.41,
+            10.35,
+            10.42,
+            10.27,
+            10.26,
+            10.31,
+            10.31,
+            10.2,
+            10.07,
+            9.92
         ],
         "rci_data": [
             85.0,
-            17.148
+            17.224
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:07",
+            "time": "18:02",
+            "tag": "MERCADO",
+            "text": "U.S. Bank Avvance Expands Embedded Financing Network with Three New Integrated Partners"
+        },
+        {
+            "time": "17:52",
+            "tag": "MERCADO",
+            "text": "Jim Cramer on Broadcom (AVGO): \"I like it\""
+        },
+        {
+            "time": "17:34",
+            "tag": "MERCADO",
+            "text": "Jim Cramer Says T-Mobile (TMUS) Is \u201cPart of the Musk Radiation Zone\u201d"
+        },
+        {
+            "time": "17:31",
+            "tag": "MERCADO",
+            "text": "Jim Cramer Says \u201cDo Not Sell DuPont (DD)\u201d"
+        },
+        {
+            "time": "17:31",
             "tag": "AI",
-            "text": "Hologic's Genius AI Detection Shows Value by Spotting Missed Cancers"
-        },
-        {
-            "time": "16:07",
-            "tag": "MERCADO",
-            "text": "__Accenture to Acquire Majority Stake in DLB to Expand Capital Projects Capabilities for End-to-End Data Center Development"
-        },
-        {
-            "time": "16:05",
-            "tag": "AI",
-            "text": "This Texas Landowner Is the S&P 500\u2019s Top Stock Today. It\u2019s an Unusual AI Play."
-        },
-        {
-            "time": "15:55",
-            "tag": "MERCADO",
-            "text": "Morgan Stanley raises Apple stock target to $315, citing incredible 2026"
-        },
-        {
-            "time": "15:46",
-            "tag": "MERCADO",
-            "text": "Akamai and Visa Team on Agentic Commerce Controls"
+            "text": "Texas Pacific Land stock soars after strategic AI data center deal"
         }
     ]
 }
