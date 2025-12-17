@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-17 19:22 UTC",
+        "last_updated": "2025-12-17 20:28 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 171.15,
-            "change": "+3.48%"
+            "price": 171.09,
+            "change": "-0.6%"
         },
         {
             "symbol": "AMD",
-            "price": 198.76,
-            "change": "-0.46%"
+            "price": 197.85,
+            "change": "+1.64%"
         },
         {
             "symbol": "MSFT",
-            "price": 479.16,
-            "change": "+1.26%"
+            "price": 478.29,
+            "change": "-0.56%"
         },
         {
             "symbol": "CEG",
-            "price": 335.91,
-            "change": "+2.62%"
+            "price": 340.15,
+            "change": "+2.96%"
         },
         {
             "symbol": "VST",
-            "price": 160.56,
-            "change": "-0.33%"
+            "price": 159.5,
+            "change": "-0.22%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.54,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.55,
+            0.54,
+            0.54,
+            0.54,
+            0.53,
+            0.54,
+            0.53,
+            0.52,
+            0.51,
+            0.51,
             0.5,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.52,
-            0.52,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            26.32,
-            26.39,
-            26.02,
-            25.79,
-            25.61,
-            25.13,
-            24.96,
-            25.01,
-            24.91,
-            24.88,
-            24.8,
-            25.27
+            24.85,
+            24.47,
+            24.5,
+            24.38,
+            24.78,
+            24.74,
+            24.93,
+            25.15,
+            25.2,
+            25.31,
+            25.7,
+            25.2
         ],
         "hsd_history_software": [
-            9.95,
-            9.96,
-            10.16,
-            10.16,
+            9.74,
+            9.94,
+            10.05,
             10.1,
-            10.17,
-            10.03,
-            10.14,
-            10.14,
-            10.27,
-            10.1,
-            10.06
+            9.91,
+            9.82,
+            9.83,
+            9.82,
+            9.98,
+            9.79,
+            9.98,
+            9.89
         ],
         "rci_data": [
             85.0,
-            17.115
+            17.108999999999998
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:02",
-            "tag": "MERCADO",
-            "text": "U.S. Bank Avvance Expands Embedded Financing Network with Three New Integrated Partners"
-        },
-        {
-            "time": "17:52",
-            "tag": "MERCADO",
-            "text": "Jim Cramer on Broadcom (AVGO): \"I like it\""
-        },
-        {
-            "time": "17:34",
-            "tag": "MERCADO",
-            "text": "Jim Cramer Says T-Mobile (TMUS) Is \u201cPart of the Musk Radiation Zone\u201d"
-        },
-        {
-            "time": "17:31",
-            "tag": "MERCADO",
-            "text": "Jim Cramer Says \u201cDo Not Sell DuPont (DD)\u201d"
-        },
-        {
-            "time": "17:31",
+            "time": "18:52",
             "tag": "AI",
-            "text": "Texas Pacific Land stock soars after strategic AI data center deal"
+            "text": "Greene County Sheriff's Office to explore AI-enabled body cameras"
+        },
+        {
+            "time": "18:41",
+            "tag": "MERCADO",
+            "text": "Final Trades: Abbvie Inc, Microsoft, Netflix and Twilio Inc"
+        },
+        {
+            "time": "18:34",
+            "tag": "MERCADO",
+            "text": "NACD New England Honors PTC, Shawmut Design and Construction as 2026\u2019s Public and Private \u201cBoards of the Year\u201d"
+        },
+        {
+            "time": "18:32",
+            "tag": "MERCADO",
+            "text": "Huntsville General Dynamics office to work on $1B Space Development contract"
+        },
+        {
+            "time": "18:08",
+            "tag": "MERCADO",
+            "text": "Raymond James Expands Fintech Footprint With $692M Bank Midwest Partnership"
         }
     ]
 }
