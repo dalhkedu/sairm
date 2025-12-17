@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-17 12:52 UTC",
+        "last_updated": "2025-12-17 13:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.72,
-            "change": "+3.06%"
+            "change": "+0.93%"
         },
         {
             "symbol": "AMD",
             "price": 209.17,
-            "change": "+3.44%"
+            "change": "-2.01%"
         },
         {
             "symbol": "MSFT",
             "price": 476.39,
-            "change": "-1.42%"
+            "change": "+2.85%"
         },
         {
             "symbol": "CEG",
             "price": 365.62,
-            "change": "-0.4%"
+            "change": "+2.36%"
         },
         {
             "symbol": "VST",
             "price": 173.45,
-            "change": "-1.7%"
+            "change": "-3.47%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.58,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.54,
+            0.55,
+            0.54,
+            0.53,
+            0.53,
             0.52,
-            0.51,
-            0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.53,
+            0.53,
+            0.52,
             0.51,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            22.64,
-            23.01,
-            23.26,
-            23.37,
-            23.27,
-            23.65,
-            24.08,
-            24.52,
-            24.98,
-            25.08,
-            24.66,
-            25.15
+            24.67,
+            24.21,
+            23.98,
+            24.06,
+            23.73,
+            23.97,
+            23.78,
+            24.22,
+            24.42,
+            24.04,
+            24.49,
+            24.92
         ],
         "hsd_history_software": [
-            9.79,
-            9.88,
-            9.97,
-            10.14,
-            10.18,
-            10.12,
-            10.08,
-            10.12,
-            9.92,
-            9.89,
-            10.05,
-            10.18
+            11.04,
+            10.89,
+            10.71,
+            10.64,
+            10.77,
+            10.69,
+            10.57,
+            10.38,
+            10.37,
+            10.22,
+            10.07,
+            10.04
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:09",
-            "tag": "MERCADO",
-            "text": "SWVL expands to Mexico with Urbvan acquisition"
-        },
-        {
-            "time": "12:02",
-            "tag": "MERCADO",
-            "text": "China Chip IPO Propels Ex-AMD Engineer Toward Billionaire Rank"
-        },
-        {
-            "time": "12:01",
-            "tag": "MERCADO",
-            "text": "Akamai and Visa Join Forces to Secure the Next Era of Agentic Commerce"
-        },
-        {
-            "time": "12:01",
+            "time": "13:08",
             "tag": "AI",
-            "text": "Visa and Akamai make AI shopping bots prove they\u2019re trustworthy online"
+            "text": "Rekor Systems, Inc. Completes $15 Million Registered Direct Offering to Enhance Roadway Intelligence Technology"
         },
         {
-            "time": "12:01",
+            "time": "13:04",
+            "tag": "MERCADO",
+            "text": "Renaissance Investment Group LLC Sells 4,941 Shares of NXP Semiconductors N.V. $NXPI"
+        },
+        {
+            "time": "13:00",
+            "tag": "MERCADO",
+            "text": "Here Are Wednesday\u2019s Top Wall Street Analyst Research Calls: Ally Financial, CyberArk, Fortinet, Robinhood Markets, Salesforce, ServiceNow, Proctor & Gamble, and More"
+        },
+        {
+            "time": "12:59",
             "tag": "AI",
-            "text": "Eric Schmidt-backed venture targets massive AI data hubs in West Texas"
+            "text": "Akamai, Visa Join Forces To Tame Rogue AI Shoppers"
+        },
+        {
+            "time": "12:53",
+            "tag": "MERCADO",
+            "text": "Sawyer & Company Inc Acquires New Stake in Arista Networks, Inc. $ANET"
         }
     ]
 }
