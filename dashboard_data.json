@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-17 15:28 UTC",
+        "last_updated": "2025-12-17 16:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 174.02,
-            "change": "-0.33%"
+            "price": 170.74,
+            "change": "+0.47%"
         },
         {
             "symbol": "AMD",
-            "price": 205.64,
-            "change": "+0.51%"
+            "price": 200.21,
+            "change": "+0.24%"
         },
         {
             "symbol": "MSFT",
-            "price": 477.33,
-            "change": "-2.22%"
+            "price": 476.57,
+            "change": "-0.3%"
         },
         {
             "symbol": "CEG",
-            "price": 354.04,
-            "change": "+0.23%"
+            "price": 340.58,
+            "change": "+1.23%"
         },
         {
             "symbol": "VST",
-            "price": 166.54,
-            "change": "-1.06%"
+            "price": 162.4,
+            "change": "+0.33%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.56,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.54,
-            0.53,
-            0.52,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.83,
-            24.46,
+            24.63,
+            24.17,
+            23.98,
+            24.12,
+            24.35,
+            24.51,
+            24.09,
+            24.16,
             24.4,
-            24.77,
-            25.11,
-            25.61,
-            26.11,
-            25.67,
-            25.24,
-            25.47,
-            25.09,
-            25.4
+            24.8,
+            24.38,
+            24.53
         ],
         "hsd_history_software": [
-            10.15,
-            10.35,
-            10.31,
-            10.51,
-            10.32,
-            10.4,
-            10.47,
-            10.37,
-            10.36,
-            10.43,
-            10.23,
-            10.19
+            9.7,
+            9.63,
+            9.69,
+            9.79,
+            9.78,
+            9.82,
+            9.93,
+            9.89,
+            9.88,
+            9.89,
+            10.02,
+            9.94
         ],
         "rci_data": [
             85.0,
-            17.402
+            17.074
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:07",
-            "tag": "MERCADO",
-            "text": "JP Morgan Downgrades Fortinet (FTNT), Lowers Price Target to $75"
-        },
-        {
-            "time": "14:02",
-            "tag": "MERCADO",
-            "text": "Ingersoll Rand Appoints Jerome Guillen to Board"
-        },
-        {
-            "time": "14:02",
-            "tag": "MERCADO",
-            "text": "Salesforce\u2019s Agentforce Life Sciences Selected by Novartis to Drive More Personalized Customer Engagement Globally"
-        },
-        {
-            "time": "14:02",
+            "time": "16:07",
             "tag": "AI",
-            "text": "New blueprint aims to fix why most AI projects fail inside data centers"
+            "text": "Hologic's Genius AI Detection Shows Value by Spotting Missed Cancers"
         },
         {
-            "time": "14:02",
+            "time": "16:07",
+            "tag": "MERCADO",
+            "text": "__Accenture to Acquire Majority Stake in DLB to Expand Capital Projects Capabilities for End-to-End Data Center Development"
+        },
+        {
+            "time": "16:05",
             "tag": "AI",
-            "text": "Fortinet and Arista Networks Announce Joint Secure AI Data Center Solution"
+            "text": "This Texas Landowner Is the S&P 500\u2019s Top Stock Today. It\u2019s an Unusual AI Play."
+        },
+        {
+            "time": "15:55",
+            "tag": "MERCADO",
+            "text": "Morgan Stanley raises Apple stock target to $315, citing incredible 2026"
+        },
+        {
+            "time": "15:46",
+            "tag": "MERCADO",
+            "text": "Akamai and Visa Team on Agentic Commerce Controls"
         }
     ]
 }
