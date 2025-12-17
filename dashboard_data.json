@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-17 10:28 UTC",
+        "last_updated": "2025-12-17 11:23 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.72,
-            "change": "-3.42%"
+            "change": "+2.23%"
         },
         {
             "symbol": "AMD",
             "price": 209.17,
-            "change": "-0.0%"
+            "change": "-2.24%"
         },
         {
             "symbol": "MSFT",
             "price": 476.39,
-            "change": "+1.53%"
+            "change": "-2.02%"
         },
         {
             "symbol": "CEG",
             "price": 365.62,
-            "change": "-2.52%"
+            "change": "+0.51%"
         },
         {
             "symbol": "VST",
             "price": 173.45,
-            "change": "+2.42%"
+            "change": "-2.82%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.51,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.49,
             0.49,
             0.48,
             0.49,
             0.49,
+            0.48,
+            0.49,
+            0.5,
             0.49,
             0.49,
             0.49,
-            0.49,
-            0.49,
-            0.5
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.26,
-            25.13,
-            25.02,
-            25.5,
-            25.61,
-            25.49,
-            25.71,
-            25.28,
-            25.68,
-            25.36,
-            25.03,
-            24.75
+            25.69,
+            25.73,
+            26.04,
+            25.76,
+            25.45,
+            25.19,
+            25.69,
+            25.4,
+            25.38,
+            25.79,
+            25.52,
+            25.15
         ],
         "hsd_history_software": [
-            10.38,
-            10.34,
-            10.36,
-            10.2,
-            10.28,
-            10.28,
-            10.41,
-            10.21,
-            10.27,
-            10.24,
-            10.23,
-            10.04
+            9.98,
+            10.02,
+            9.84,
+            9.69,
+            9.81,
+            9.88,
+            9.9,
+            9.96,
+            9.99,
+            9.82,
+            10.01,
+            9.95
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:05",
+            "time": "09:56",
             "tag": "MERCADO",
-            "text": "First Financial Bank Trust Division Sells 5,411 Shares of Alphabet Inc. $GOOGL"
+            "text": "Grant Private Wealth Management Inc Makes New $1.86 Million Investment in Intuit Inc. $INTU"
         },
         {
-            "time": "09:05",
+            "time": "09:40",
             "tag": "MERCADO",
-            "text": "Capital A Wealth Management LLC Lowers Stock Holdings in Alphabet Inc. $GOOGL"
+            "text": "OptimizeRx Continues Expansion of the Company\u2019s Point-Of-Care Network"
         },
         {
-            "time": "09:04",
+            "time": "09:33",
             "tag": "MERCADO",
-            "text": "Fortitude Financial LLC Takes Position in Microsoft Corporation $MSFT"
+            "text": "Tyler Technologies, Inc. (NYSE:TYL) Receives Consensus Recommendation of \"Moderate Buy\" from Analysts"
         },
         {
-            "time": "09:04",
+            "time": "09:31",
             "tag": "MERCADO",
-            "text": "Canal Capital Management LLC Acquires 1,567 Shares of Microsoft Corporation $MSFT"
+            "text": "New partnerships plug drug makers into more doctors\u2019 EHR workflows"
         },
         {
-            "time": "09:04",
+            "time": "09:22",
             "tag": "MERCADO",
-            "text": "CacheTech Inc. Has $9.17 Million Stock Holdings in Microsoft Corporation $MSFT"
+            "text": "Tesla Stock (TSLA) Hits Record High Near $490 as Robotaxi Testing Accelerates \u2014 California Autopilot Deadline, Analyst Forecasts, and Key Risks in Focus"
         }
     ]
 }
