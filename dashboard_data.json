@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-17 05:26 UTC",
+        "last_updated": "2025-12-17 06:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.72,
-            "change": "+0.39%"
+            "change": "-1.86%"
         },
         {
             "symbol": "AMD",
             "price": 209.17,
-            "change": "+3.34%"
+            "change": "+1.51%"
         },
         {
             "symbol": "MSFT",
             "price": 476.39,
-            "change": "+2.63%"
+            "change": "-1.52%"
         },
         {
             "symbol": "CEG",
             "price": 365.62,
-            "change": "-3.23%"
+            "change": "-1.11%"
         },
         {
             "symbol": "VST",
             "price": 173.45,
-            "change": "+0.87%"
+            "change": "-2.18%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.56,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.53,
+            0.53,
             0.52,
             0.51,
             0.52,
             0.51,
-            0.52,
             0.51,
-            0.5
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
             25.32,
-            25.5,
-            25.33,
-            24.88,
-            25.27,
-            25.05,
-            24.88,
-            24.54,
-            24.7,
-            24.6,
-            24.84,
-            24.91
+            25.08,
+            25.54,
+            25.3,
+            25.08,
+            25.31,
+            25.13,
+            24.99,
+            25.24,
+            25.03,
+            24.66,
+            24.92
         ],
         "hsd_history_software": [
-            9.91,
-            9.77,
-            9.62,
-            9.6,
-            9.46,
-            9.64,
-            9.48,
-            9.66,
-            9.73,
-            9.77,
-            9.73,
-            9.83
+            10.58,
+            10.37,
+            10.5,
+            10.6,
+            10.53,
+            10.37,
+            10.28,
+            10.38,
+            10.47,
+            10.27,
+            10.3,
+            10.15
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "06:09",
+            "tag": "MERCADO",
+            "text": "FDTX Stock Fund Price and Chart \u2014 NASDAQ:FDTX"
+        },
+        {
+            "time": "05:08",
+            "tag": "AI",
+            "text": "Study: AI-Powered Mammography Technology Helps Flag Breast Cancer Cases Initially Interpreted as Negative"
+        },
+        {
             "time": "04:09",
             "tag": "MERCADO",
             "text": "American Airlines testing new boarding technology at DFW Airport"
         },
         {
-            "time": "03:46",
+            "time": "04:08",
             "tag": "MERCADO",
-            "text": "Square Robot raises new Series B funding and agrees collaboration with Marathon Petroleum"
+            "text": "Synopsys, Inc. Notice of Application Deadline for Recovery in Class Action Lawsuit \u2013 Filing Deadline December 30, 2025"
         },
         {
-            "time": "03:40",
+            "time": "04:08",
             "tag": "MERCADO",
-            "text": "California Gives Tesla 90 Days to Change Autopilot Advertising"
-        },
-        {
-            "time": "03:09",
-            "tag": "RESULTADOS",
-            "text": "BlackBerry Limited (BB.TO): Navigating Growth and Expectations Ahead of Earnings"
-        },
-        {
-            "time": "03:07",
-            "tag": "MERCADO",
-            "text": "Doosan Bobcat Sues Caterpillar, Alleges Infringement of 14 Equipment Patents"
+            "text": "Dover Fueling Solutions Launches 4Court Media, Giving Advertisers and Retailers a New Way to Engage Consumers at the Fuel Dispenser"
         }
     ]
 }
