@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-18 05:26 UTC",
+        "last_updated": "2025-12-18 06:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 170.94,
-            "change": "+2.26%"
+            "change": "-2.35%"
         },
         {
             "symbol": "AMD",
             "price": 198.11,
-            "change": "+1.77%"
+            "change": "-0.39%"
         },
         {
             "symbol": "MSFT",
             "price": 476.12,
-            "change": "+1.89%"
+            "change": "-2.39%"
         },
         {
             "symbol": "CEG",
             "price": 340.97,
-            "change": "+3.27%"
+            "change": "-2.65%"
         },
         {
             "symbol": "VST",
             "price": 159.97,
-            "change": "+1.6%"
+            "change": "-2.71%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.6,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.45,
+            0.46,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.13,
-            25.07,
-            24.67,
-            25.1,
-            25.22,
-            25.28,
-            24.84,
-            24.91,
-            24.89,
             25.35,
-            25.09,
-            25.47
+            25.62,
+            25.87,
+            25.65,
+            25.98,
+            25.99,
+            26.08,
+            25.67,
+            26.07,
+            25.9,
+            25.91,
+            25.49
         ],
         "hsd_history_software": [
-            10.68,
-            10.48,
-            10.33,
-            10.25,
-            10.16,
-            10.13,
-            10.06,
-            9.98,
-            9.97,
-            9.93,
-            9.83,
-            9.87
+            9.31,
+            9.2,
+            9.34,
+            9.41,
+            9.43,
+            9.62,
+            9.54,
+            9.64,
+            9.48,
+            9.56,
+            9.64,
+            9.8
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "05:02",
+            "tag": "MERCADO",
+            "text": "Special Edition of Nio ET5 Electric Sedan and ET5 Touring Edition Launched, Only 555 Units"
+        },
+        {
+            "time": "04:51",
+            "tag": "MERCADO",
+            "text": "Fiserv closes StoneCastle acquisition"
+        },
+        {
+            "time": "04:08",
+            "tag": "MERCADO",
+            "text": "Rep. Gilbert Ray Cisneros, Jr. Purchases Shares of Booking Holdings Inc. (NASDAQ:BKNG)"
+        },
+        {
             "time": "03:11",
             "tag": "MERCADO",
             "text": "How Kanzhun\u2019s CFO Shift to Strategy Role Will Impact Kanzhun (BZ) Investors"
@@ -134,21 +149,6 @@
             "time": "03:10",
             "tag": "MERCADO",
             "text": "Invesco, Galaxy Expand Access To Solana (SOL) Via Invesco Galaxy Solana ETP"
-        },
-        {
-            "time": "02:53",
-            "tag": "MERCADO",
-            "text": "Insider Selling: Alphabet (NASDAQ:GOOGL) CEO Sells 32,500 Shares of Stock"
-        },
-        {
-            "time": "02:45",
-            "tag": "MERCADO",
-            "text": "Intuit (INTU) Stock After Hours Dec. 17, 2025: Late Trading Stabilizes After a Down Day \u2014 What to Watch Before Thursday\u2019s Open"
-        },
-        {
-            "time": "02:22",
-            "tag": "MERCADO",
-            "text": "Gartner crowns leaders in key artificial intelligence races"
         }
     ]
 }
