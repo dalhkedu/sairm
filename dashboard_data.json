@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-17 23:23 UTC",
+        "last_updated": "2025-12-18 01:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 170.94,
-            "change": "+2.91%"
+            "change": "+3.03%"
         },
         {
             "symbol": "AMD",
             "price": 198.11,
-            "change": "+0.7%"
+            "change": "+1.54%"
         },
         {
             "symbol": "MSFT",
             "price": 476.12,
-            "change": "+2.58%"
+            "change": "+2.02%"
         },
         {
             "symbol": "CEG",
             "price": 340.97,
-            "change": "-3.14%"
+            "change": "+3.1%"
         },
         {
             "symbol": "VST",
             "price": 159.97,
-            "change": "-2.07%"
+            "change": "-0.64%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.41,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.49,
+            0.49,
+            0.5,
+            0.51,
+            0.52,
             0.52,
             0.53,
             0.52,
-            0.53,
             0.52,
-            0.52,
-            0.51,
-            0.5,
-            0.5,
-            0.51,
             0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            25.62,
-            25.7,
-            26.14,
-            26.16,
+            26.13,
+            26.07,
+            25.94,
+            25.98,
+            25.49,
             25.87,
-            25.62,
-            25.58,
-            25.4,
-            25.01,
-            24.78,
-            25.22,
-            24.78
+            25.85,
+            25.77,
+            26.25,
+            26.11,
+            25.91,
+            25.4
         ],
         "hsd_history_software": [
-            9.29,
-            9.24,
-            9.36,
-            9.46,
-            9.58,
-            9.44,
-            9.59,
-            9.77,
-            9.9,
-            9.84,
-            9.97,
-            10.01
+            10.38,
+            10.54,
+            10.47,
+            10.5,
+            10.36,
+            10.21,
+            10.14,
+            10.32,
+            10.24,
+            10.23,
+            10.05,
+            9.92
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:10",
+            "time": "01:11",
             "tag": "MERCADO",
-            "text": "|Coherent Corp. Stock (COHR) Jumps on Morgan Stanley Price-Target Hike as New SEC Filings Spotlight Bain Share Overhang (Dec. 17, 2025)"
+            "text": "New solution brings modern IPTV to stadiums and campuses without rewiring"
         },
         {
-            "time": "21:45",
+            "time": "01:10",
             "tag": "MERCADO",
-            "text": "Chubb plans up to 20% workforce cut tied to digitisation push"
+            "text": "Actelis Networks prices $5 million public offering at $0.80 per share"
         },
         {
-            "time": "21:44",
+            "time": "00:43",
             "tag": "MERCADO",
-            "text": "TE Connectivity declares quarterly dividend of $0.71 per share"
+            "text": "Insider Sell: Andrew Micallef Sells 1,000 Shares of NXP Semicond"
         },
         {
-            "time": "21:42",
-            "tag": "MERCADO",
-            "text": "Dell\u2019s Stock Dip: Time to Reevaluate?"
+            "time": "00:25",
+            "tag": "AI",
+            "text": "Salesforce supplies agentic AI platform to AstraZeneca for global HCP management - CHOSUNBIZ"
         },
         {
-            "time": "21:41",
+            "time": "00:17",
             "tag": "MERCADO",
-            "text": "Nvidia settles trade-secret lawsuit over driving assistance technology"
+            "text": "Is Procter & Gamble (PG) Using Alix Earle to Quietly Reposition Pantene\u2019s Premiumization Strategy?"
         }
     ]
 }
