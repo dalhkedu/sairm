@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-19 14:24 UTC",
+        "last_updated": "2025-12-19 15:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 174.14,
-            "change": "-2.51%"
+            "price": 178.41,
+            "change": "-1.07%"
         },
         {
             "symbol": "AMD",
-            "price": 201.06,
-            "change": "-2.46%"
+            "price": 210.45,
+            "change": "+0.29%"
         },
         {
             "symbol": "MSFT",
-            "price": 483.98,
-            "change": "-2.27%"
+            "price": 485.32,
+            "change": "-1.7%"
         },
         {
             "symbol": "CEG",
-            "price": 361.05,
-            "change": "+2.03%"
+            "price": 363.92,
+            "change": "-1.61%"
         },
         {
             "symbol": "VST",
-            "price": 166.17,
-            "change": "-1.39%"
+            "price": 166.88,
+            "change": "-3.03%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
-        "rci_current": 0.17,
+        "cer_current": 0.5,
+        "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.5,
             0.51,
-            0.5,
-            0.5,
+            0.52,
+            0.52,
             0.51,
+            0.51,
+            0.52,
             0.51,
             0.51,
             0.5,
-            0.5
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.3,
-            25.34,
-            25.71,
-            25.54,
-            25.21,
-            25.38,
-            25.49,
+            25.79,
+            25.33,
+            25.84,
+            25.48,
+            25.04,
+            24.73,
+            24.87,
+            25.24,
+            25.69,
+            25.59,
             25.41,
-            25.13,
-            24.85,
-            24.89,
-            25.0
+            25.26
         ],
         "hsd_history_software": [
-            10.38,
-            10.39,
-            10.23,
-            10.04,
-            9.99,
-            10.13,
-            10.17,
-            10.16,
-            10.07,
-            10.0,
-            9.94,
-            9.98
+            9.51,
+            9.41,
+            9.47,
+            9.42,
+            9.48,
+            9.47,
+            9.5,
+            9.6,
+            9.71,
+            9.61,
+            9.7,
+            9.84
         ],
         "rci_data": [
             85.0,
-            17.413999999999998
+            17.840999999999998
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:10",
+            "time": "14:07",
             "tag": "MERCADO",
-            "text": "Zacks Investment Ideas feature highlights CAPITAL ONE, MARRIOTT INTERNATIONAL and Tesla's"
+            "text": "Texas Instruments (NASDAQ:TXN) Stock Price Expected to Rise, Truist Financial Analyst Says"
         },
         {
-            "time": "13:09",
+            "time": "14:07",
             "tag": "MERCADO",
-            "text": "U.S. Capital Wealth Advisors LLC Sells 147,951 Shares of Cisco Systems, Inc. $CSCO"
+            "text": "ON Semiconductor (NASDAQ:ON) Price Target Raised to $57.00 at Truist Financial"
         },
         {
-            "time": "13:08",
+            "time": "14:07",
             "tag": "MERCADO",
-            "text": "U.S. Capital Wealth Advisors LLC Buys 9,993 Shares of International Business Machines Corporation $IBM"
+            "text": "Analog Devices (NASDAQ:ADI) Price Target Raised to $291.00 at Truist Financial"
         },
         {
-            "time": "13:05",
+            "time": "14:02",
             "tag": "MERCADO",
-            "text": "Google Cloud lands deal with Palo Alto Networks 'approaching $10 billion,' per source"
+            "text": "People.ai Recognized in the 2025 Gartner\u00ae Magic Quadrant\u2122 for Revenue Action Orchestration"
         },
         {
-            "time": "12:48",
-            "tag": "AI",
-            "text": "AIG launches Lloyd\u2019s syndicate with Amwins and Blackstone backing"
+            "time": "14:02",
+            "tag": "MERCADO",
+            "text": "Unisys Ranked First in Three Categories in the 2025 Gartner\u00ae Critical Capabilities for Outsourced Digital Workplace Services Report"
         }
     ]
 }
