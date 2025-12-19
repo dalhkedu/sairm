@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-19 21:21 UTC",
+        "last_updated": "2025-12-19 22:23 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.99,
-            "change": "-0.93%"
+            "change": "+2.07%"
         },
         {
             "symbol": "AMD",
             "price": 213.43,
-            "change": "-1.39%"
+            "change": "+0.3%"
         },
         {
             "symbol": "MSFT",
             "price": 485.92,
-            "change": "+0.68%"
+            "change": "-0.3%"
         },
         {
             "symbol": "CEG",
             "price": 355.4,
-            "change": "+0.72%"
+            "change": "-2.85%"
         },
         {
             "symbol": "VST",
             "price": 163.03,
-            "change": "-1.09%"
+            "change": "+3.02%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.69,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
-            0.5,
-            0.5,
             0.51,
             0.5,
             0.5,
             0.49,
             0.49,
-            0.48,
-            0.48,
             0.49,
-            0.49
+            0.49,
+            0.5,
+            0.51,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.14,
-            25.84,
-            26.04,
-            25.59,
-            25.17,
-            24.7,
-            25.19,
-            25.12,
-            24.73,
-            24.73,
-            25.0,
-            24.74
+            26.32,
+            26.76,
+            26.84,
+            26.33,
+            26.15,
+            25.97,
+            25.73,
+            25.36,
+            24.87,
+            24.99,
+            25.25,
+            25.32
         ],
         "hsd_history_software": [
             10.16,
-            10.02,
-            9.85,
-            9.79,
-            9.87,
-            9.95,
-            10.03,
-            10.13,
-            10.25,
+            10.19,
             10.28,
-            10.12,
-            10.11
+            10.29,
+            10.11,
+            10.24,
+            10.15,
+            10.11,
+            10.06,
+            10.19,
+            10.13,
+            10.19
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:27",
+            "time": "21:01",
             "tag": "MERCADO",
-            "text": "Jim Cramer Says Microsoft \"Requires Mass Spending\" to Keep Azure Competitive"
+            "text": "Northrop Grumman wins Space Development Agency\u2019s TRKT3 contract"
         },
         {
-            "time": "20:08",
-            "tag": "AI",
-            "text": "|Cisco Systems (CSCO) Stock News on Dec. 19, 2025: Record-High Run, Analyst Price Targets, AI Networking Tailwinds\u2014and a New Zero-Day Risk"
+            "time": "21:00",
+            "tag": "MERCADO",
+            "text": "Former Synopsys exec alleges HR took no action, then fired her"
         },
         {
-            "time": "20:07",
+            "time": "20:43",
             "tag": "MERCADO",
-            "text": "Jim Cramer Says \"Amazon's Strategy is Not Spend to Win, It's Spend to Defend\""
+            "text": "Bell Textron Inc. begin simulation lab for the MV-75"
         },
         {
-            "time": "20:02",
+            "time": "20:37",
             "tag": "MERCADO",
-            "text": "T-Mobile Stock (TMUS) News Today: Citi Cuts Target to $220 as Options Signal Higher Volatility"
+            "text": "Lawsuit claims Seattle-based F5 overstated cybersecurity strength before revealing major breach"
         },
         {
-            "time": "19:59",
+            "time": "20:33",
             "tag": "MERCADO",
-            "text": "TMUS: Citigroup Adjusts Price Target While Maintaining Neutral Rating"
+            "text": "KLA Corporation Stock (KLAC) News, Forecasts and Analyst Targets on Dec. 19, 2025"
         }
     ]
 }
