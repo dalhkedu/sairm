@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-19 10:27 UTC",
+        "last_updated": "2025-12-19 11:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 174.14,
-            "change": "+0.07%"
+            "change": "-0.51%"
         },
         {
             "symbol": "AMD",
             "price": 201.06,
-            "change": "+0.69%"
+            "change": "-1.07%"
         },
         {
             "symbol": "MSFT",
             "price": 483.98,
-            "change": "-2.62%"
+            "change": "+0.95%"
         },
         {
             "symbol": "CEG",
             "price": 361.05,
-            "change": "-2.23%"
+            "change": "-1.51%"
         },
         {
             "symbol": "VST",
             "price": 166.17,
-            "change": "+2.29%"
+            "change": "-2.56%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.42,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
+            0.51,
             0.5,
             0.5,
             0.5,
-            0.49,
-            0.5
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.52,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.0,
-            24.6,
-            24.41,
-            24.67,
-            25.0,
-            24.77,
-            25.2,
-            25.56,
-            25.11,
-            24.64,
-            24.92,
-            25.29
+            27.1,
+            26.6,
+            26.74,
+            26.42,
+            26.16,
+            26.33,
+            26.73,
+            26.34,
+            25.95,
+            25.59,
+            25.1,
+            24.91
         ],
         "hsd_history_software": [
-            9.61,
-            9.72,
+            9.78,
+            9.69,
+            9.56,
+            9.43,
+            9.52,
             9.63,
-            9.74,
-            9.83,
-            9.96,
-            9.85,
-            10.02,
-            9.96,
-            9.89,
-            9.93,
-            10.03
+            9.61,
+            9.73,
+            9.84,
+            9.7,
+            9.76,
+            9.95
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:07",
+            "time": "10:00",
             "tag": "MERCADO",
-            "text": "Corient Private Wealth LLC Sells 53,143 Shares of Keysight Technologies Inc. $KEYS"
+            "text": "Buckhead Capital Management LLC Raises Stock Holdings in Fortinet, Inc. $FTNT"
         },
         {
-            "time": "09:07",
+            "time": "10:00",
             "tag": "MERCADO",
-            "text": "Corient Private Wealth LLC Has $10.75 Million Holdings in Jacobs Solutions Inc. $J"
+            "text": "Cisco Systems, Inc. $CSCO Shares Bought by Contravisory Investment Management Inc."
         },
         {
-            "time": "09:07",
+            "time": "09:59",
             "tag": "MERCADO",
-            "text": "Corient Private Wealth LLC Trims Holdings in Fortinet, Inc. $FTNT"
+            "text": "Chapin Davis Inc. Reduces Holdings in AT&T Inc. $T"
         },
         {
-            "time": "09:01",
-            "tag": "AI",
-            "text": "Raymond James Initiates MongoDB (MDB) at Market Perform, Flags AI Crossroads"
+            "time": "09:59",
+            "tag": "MERCADO",
+            "text": "Chapin Davis Inc. Makes New $9.06 Million Investment in Seagate Technology Holdings PLC $STX"
         },
         {
-            "time": "09:00",
-            "tag": "AI",
-            "text": "Piper Sandler Reiterates Overweight on AMD, Sees AI Catalysts Ahead"
+            "time": "09:35",
+            "tag": "MERCADO",
+            "text": "Assenagon Asset Management S.A. Purchases 367,588 Shares of Skyworks Solutions, Inc. $SWKS"
         }
     ]
 }
