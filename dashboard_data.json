@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-20 11:18 UTC",
+        "last_updated": "2025-12-20 12:44 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.99,
-            "change": "+2.5%"
+            "change": "-2.37%"
         },
         {
             "symbol": "AMD",
             "price": 213.43,
-            "change": "+1.16%"
+            "change": "+1.06%"
         },
         {
             "symbol": "MSFT",
             "price": 485.92,
-            "change": "-1.6%"
+            "change": "+2.23%"
         },
         {
             "symbol": "CEG",
             "price": 355.4,
-            "change": "+1.67%"
+            "change": "-1.4%"
         },
         {
             "symbol": "VST",
             "price": 163.03,
-            "change": "+2.01%"
+            "change": "-3.47%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.5,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
             0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
             0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            25.28,
-            25.05,
-            25.37,
-            25.15,
-            24.8,
-            24.84,
+            25.14,
+            24.91,
             25.26,
-            24.99,
-            24.82,
+            25.36,
             24.97,
-            25.25,
-            25.27
+            24.93,
+            25.31,
+            25.16,
+            25.47,
+            25.51,
+            25.12,
+            24.85
         ],
         "hsd_history_software": [
-            9.83,
-            9.98,
-            10.13,
-            10.08,
-            10.14,
+            10.3,
+            10.24,
+            10.05,
+            10.24,
+            10.38,
+            10.46,
+            10.36,
             10.21,
-            10.19,
-            10.01,
-            10.07,
-            10.0,
-            9.92,
-            10.08
+            10.21,
+            10.11,
+            10.2,
+            10.04
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:07",
+            "time": "12:02",
             "tag": "MERCADO",
-            "text": "Fairvoy Private Wealth LLC Has $5.36 Million Holdings in International Business Machines Corporation $IBM"
+            "text": "Wells Fargo Reiterates Overweight Rating on Amazon.com, Inc. (AMZN)"
         },
         {
-            "time": "10:07",
+            "time": "12:02",
             "tag": "MERCADO",
-            "text": "11,762 Shares in Leidos Holdings, Inc. $LDOS Bought by Fairvoy Private Wealth LLC"
+            "text": "Analysts Have a Moderate Buy Rating on Apple Inc. (AAPL)"
         },
         {
-            "time": "09:57",
+            "time": "12:01",
             "tag": "MERCADO",
-            "text": "BDF Gestion Decreases Holdings in QUALCOMM Incorporated $QCOM"
+            "text": "Here is Why Valero Energy (VLO) Fell This Week"
         },
         {
-            "time": "09:55",
+            "time": "11:39",
             "tag": "MERCADO",
-            "text": "145,175 Shares in AT&T Inc. $T Purchased by BDF Gestion"
+            "text": "Perkins Coie Trust Co Has $4.09 Million Position in QUALCOMM Incorporated $QCOM"
         },
         {
-            "time": "09:38",
+            "time": "11:17",
             "tag": "MERCADO",
-            "text": "BDF Gestion Purchases Shares of 11,853 Cadence Design Systems, Inc. $CDNS"
+            "text": "Sanders Morris Harris LLC Grows Stake in Microsoft Corporation $MSFT"
         }
     ]
 }
