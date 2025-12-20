@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-20 20:24 UTC",
+        "last_updated": "2025-12-20 21:19 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.99,
-            "change": "+3.42%"
+            "change": "-1.25%"
         },
         {
             "symbol": "AMD",
             "price": 213.43,
-            "change": "+1.01%"
+            "change": "-1.07%"
         },
         {
             "symbol": "MSFT",
             "price": 485.92,
-            "change": "-1.57%"
+            "change": "+1.17%"
         },
         {
             "symbol": "CEG",
             "price": 355.4,
-            "change": "-0.14%"
+            "change": "-0.24%"
         },
         {
             "symbol": "VST",
             "price": 163.03,
-            "change": "-1.42%"
+            "change": "+2.74%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.44,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
             0.47,
-            0.46,
-            0.46,
-            0.46,
+            0.47,
             0.47,
             0.47,
             0.47,
             0.47,
             0.48,
+            0.48,
+            0.48,
             0.49,
-            0.49,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            25.68,
-            25.68,
-            25.46,
-            25.51,
-            25.18,
-            25.4,
-            24.91,
-            24.77,
-            25.2,
-            24.9,
-            24.5,
-            24.67
+            24.43,
+            24.31,
+            24.05,
+            24.08,
+            23.73,
+            23.76,
+            23.77,
+            24.18,
+            24.25,
+            24.75,
+            24.32,
+            24.74
         ],
         "hsd_history_software": [
-            10.3,
-            10.28,
-            10.13,
-            10.04,
-            9.94,
+            10.31,
+            10.18,
+            9.99,
             10.01,
-            9.82,
-            9.9,
-            10.04,
-            10.13,
-            10.24,
-            10.11
+            10.18,
+            10.25,
+            10.27,
+            10.08,
+            9.93,
+            9.79,
+            9.71,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "20:09",
+            "tag": "MERCADO",
+            "text": "Insider Selling: Ambarella (NASDAQ:AMBA) Insider Sells 2,406 Shares of Stock"
+        },
+        {
+            "time": "19:14",
+            "tag": "MERCADO",
+            "text": "Why Alphabet Stock Could Double By 2030"
+        },
+        {
+            "time": "19:08",
+            "tag": "MERCADO",
+            "text": "Target Says Digital Operations Restored After Technology Outage"
+        },
+        {
+            "time": "18:57",
+            "tag": "MERCADO",
+            "text": "Nvidia's Huang confirms plan to build new campus in Israel"
+        },
+        {
             "time": "18:52",
             "tag": "MERCADO",
             "text": "U.S. Marks 250th Anniversary with General Motors and HERE Technologies Unveiling Explore250, the Ultimate Road Trip App for All Americans"
-        },
-        {
-            "time": "18:43",
-            "tag": "AI",
-            "text": "Caterpillar stock drops sharply as AI trade loses momentum"
-        },
-        {
-            "time": "18:09",
-            "tag": "MERCADO",
-            "text": "French regulator sides with Microsoft over Qwant in high-stakes search battle"
-        },
-        {
-            "time": "17:30",
-            "tag": "AI",
-            "text": "The Bull Case For Digital Realty Trust (DLR) Could Change Following Board, Audit Shift Toward AI Power Expertise"
-        },
-        {
-            "time": "17:30",
-            "tag": "AI",
-            "text": "How Investors May Respond To American Tower (AMT) Pivot Toward CoreSite\u2019s AI-Focused Data Center Expansion"
         }
     ]
 }
