@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-20 22:21 UTC",
+        "last_updated": "2025-12-20 23:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.99,
-            "change": "-2.07%"
+            "change": "-0.37%"
         },
         {
             "symbol": "AMD",
             "price": 213.43,
-            "change": "-1.78%"
+            "change": "-3.44%"
         },
         {
             "symbol": "MSFT",
             "price": 485.92,
-            "change": "+2.19%"
+            "change": "-1.47%"
         },
         {
             "symbol": "CEG",
             "price": 355.4,
-            "change": "+1.07%"
+            "change": "-1.99%"
         },
         {
             "symbol": "VST",
             "price": 163.03,
-            "change": "+0.35%"
+            "change": "-1.55%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.7,
+        "cer_current": 0.65,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.52,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.5,
             0.51,
+            0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.16,
-            24.59,
-            24.45,
-            24.85,
-            24.63,
-            24.49,
-            24.49,
-            24.95,
-            25.39,
-            25.58,
-            25.31,
-            25.23
+            24.66,
+            24.92,
+            25.07,
+            25.18,
+            25.14,
+            25.02,
+            24.57,
+            24.35,
+            24.34,
+            24.47,
+            24.76,
+            24.89
         ],
         "hsd_history_software": [
-            10.2,
-            10.4,
-            10.41,
-            10.25,
-            10.32,
-            10.35,
-            10.2,
-            10.08,
-            10.08,
-            10.25,
-            10.09,
-            10.04
+            10.15,
+            10.1,
+            9.96,
+            9.85,
+            9.93,
+            10.02,
+            10.15,
+            10.21,
+            10.13,
+            9.95,
+            10.0,
+            9.83
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "21:56",
+            "tag": "MERCADO",
+            "text": "Does Morgan Stanley\u2019s Equal Weight on Omnicom (OMC) Reveal a Deeper Valuation Disconnect?"
+        },
+        {
+            "time": "21:43",
+            "tag": "MERCADO",
+            "text": "Intuit (INTU) Stock News, Forecasts and Analyst Outlook: USDC Stablecoin Deal, TurboTax 2026 Tax Push, and Key Catalysts (Dec. 20, 2025)"
+        },
+        {
+            "time": "21:43",
+            "tag": "AI",
+            "text": "Caterpillar (CAT) Stock Today: Latest News, Analyst Forecasts, and 2026 Outlook as AI Power Demand Meets Tariffs and Legal Risk"
+        },
+        {
+            "time": "21:08",
+            "tag": "MERCADO",
+            "text": "Texas Instruments Stock (NASDAQ: TXN) on Dec. 20, 2025: Sherman Fab Starts Production, Analysts Split on the 2026 Outlook"
+        },
+        {
             "time": "20:48",
             "tag": "MERCADO",
             "text": "T-Mobile (TMUS) Stock News and Forecasts on Dec. 20, 2025: Buybacks, Dividend Momentum, Analyst Targets, and 2026 Catalysts"
-        },
-        {
-            "time": "20:09",
-            "tag": "MERCADO",
-            "text": "Insider Selling: Ambarella (NASDAQ:AMBA) Insider Sells 2,406 Shares of Stock"
-        },
-        {
-            "time": "19:14",
-            "tag": "MERCADO",
-            "text": "Why Alphabet Stock Could Double By 2030"
-        },
-        {
-            "time": "19:08",
-            "tag": "MERCADO",
-            "text": "Target Says Digital Operations Restored After Technology Outage"
-        },
-        {
-            "time": "18:57",
-            "tag": "MERCADO",
-            "text": "Nvidia's Huang confirms plan to build new campus in Israel"
         }
     ]
 }
