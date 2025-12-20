@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-20 14:20 UTC",
+        "last_updated": "2025-12-20 15:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.99,
-            "change": "+2.57%"
+            "change": "-0.91%"
         },
         {
             "symbol": "AMD",
             "price": 213.43,
-            "change": "-2.45%"
+            "change": "-0.26%"
         },
         {
             "symbol": "MSFT",
             "price": 485.92,
-            "change": "+2.0%"
+            "change": "+2.05%"
         },
         {
             "symbol": "CEG",
             "price": 355.4,
-            "change": "+1.16%"
+            "change": "-1.01%"
         },
         {
             "symbol": "VST",
             "price": 163.03,
-            "change": "+1.47%"
+            "change": "-0.26%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.59,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.0,
-            23.67,
-            24.15,
-            24.44,
-            24.73,
-            24.92,
-            24.63,
-            24.8,
-            24.52,
-            24.68,
-            24.98,
-            24.71
+            25.57,
+            25.37,
+            25.23,
+            25.35,
+            25.57,
+            25.42,
+            25.33,
+            24.83,
+            24.7,
+            25.08,
+            24.89,
+            25.11
         ],
         "hsd_history_software": [
-            10.28,
-            10.1,
-            10.06,
-            10.05,
-            9.95,
-            10.03,
+            10.19,
             10.02,
-            9.93,
             9.85,
-            9.88,
-            9.74,
-            9.93
+            9.84,
+            10.04,
+            9.85,
+            9.75,
+            9.63,
+            9.59,
+            9.78,
+            9.96,
+            10.0
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:54",
+            "time": "13:41",
             "tag": "MERCADO",
-            "text": "Focus Financial Network Inc. Raises Stake in Super Micro Computer, Inc. $SMCI"
+            "text": "Voya Investment Management LLC Lowers Holdings in Equinix, Inc. $EQIX"
         },
         {
-            "time": "12:33",
+            "time": "13:32",
             "tag": "MERCADO",
-            "text": "Parker Hannifin Expands NX8M Mobile Motor Family with High-Voltage Option From: Parker Hannifin Corp"
+            "text": "Benzinga Bulls And Bears: Carnival, Caterpillar, Meta \u2014 And Markets Make Modest Gains"
         },
         {
-            "time": "12:24",
+            "time": "13:20",
             "tag": "MERCADO",
-            "text": "Starbucks Appoints Anand Varadarajan as Executive Vice President and Chief Technology Officer"
+            "text": "Microsoft Corporation $MSFT Shares Sold by Union Bancaire Privee UBP SA"
         },
         {
-            "time": "12:19",
+            "time": "13:19",
             "tag": "MERCADO",
-            "text": "Cisco Systems, Inc. $CSCO Shares Acquired by Jackson Square Capital LLC"
+            "text": "Veracity Capital LLC Purchases 1,835 Shares of Alphabet Inc. $GOOGL"
         },
         {
-            "time": "12:19",
+            "time": "13:09",
             "tag": "MERCADO",
-            "text": "Jackson Square Capital LLC Has $7.50 Million Position in Cadence Design Systems, Inc. $CDNS"
+            "text": "Signal Advisors Wealth LLC Invests $8.07 Million in American Tower Corporation $AMT"
         }
     ]
 }
