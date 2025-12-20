@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-20 04:29 UTC",
+        "last_updated": "2025-12-20 05:24 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.99,
-            "change": "+1.45%"
+            "change": "+1.82%"
         },
         {
             "symbol": "AMD",
             "price": 213.43,
-            "change": "-1.78%"
+            "change": "-1.41%"
         },
         {
             "symbol": "MSFT",
             "price": 485.92,
-            "change": "+0.55%"
+            "change": "+2.35%"
         },
         {
             "symbol": "CEG",
             "price": 355.4,
-            "change": "+3.37%"
+            "change": "+0.24%"
         },
         {
             "symbol": "VST",
             "price": 163.03,
-            "change": "+0.79%"
+            "change": "-2.2%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.47,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.46,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.5,
+            0.52,
             0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.67,
-            26.14,
-            26.02,
-            25.78,
-            25.3,
-            24.99,
-            25.23,
-            24.86,
-            24.4,
-            24.87,
-            24.56,
-            24.88
+            23.7,
+            24.18,
+            24.53,
+            24.25,
+            24.52,
+            24.28,
+            24.34,
+            24.72,
+            24.34,
+            24.76,
+            24.44,
+            24.89
         ],
         "hsd_history_software": [
-            9.73,
-            9.62,
-            9.43,
-            9.39,
-            9.42,
-            9.52,
-            9.67,
-            9.76,
-            9.73,
-            9.78,
-            9.88,
-            10.01
+            10.57,
+            10.71,
+            10.71,
+            10.78,
+            10.67,
+            10.57,
+            10.45,
+            10.3,
+            10.28,
+            10.13,
+            10.01,
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "03:28",
+            "tag": "MERCADO",
+            "text": "Will New 3D Multiomic Workflow and Leo System Expansion Change Bio-Techne's (TECH) Narrative?"
+        },
+        {
+            "time": "03:28",
+            "tag": "MERCADO",
+            "text": "Should Regeneron\u2019s Clarified Eylea Biosimilar Timeline Reshape How REGN Investors View Its Core Franchise?"
+        },
+        {
+            "time": "03:08",
+            "tag": "MERCADO",
+            "text": "Intuit Stock (INTU) After Hours Today (Dec. 19, 2025): Where Shares Stand After the Bell and What to Know Before the Next Market Open"
+        },
+        {
             "time": "02:57",
             "tag": "MERCADO",
             "text": "FFIV INVESTOR ALERT: F5, Inc. Investors with Substantial Losses Have Opportunity to Lead the F5 Class Action Lawsuit"
@@ -134,21 +149,6 @@
             "time": "02:29",
             "tag": "MERCADO",
             "text": "How Investors May Respond To Ameren (AEE) Adding Cybersecurity Veteran Jamie Engstrom To Its Board"
-        },
-        {
-            "time": "02:20",
-            "tag": "MERCADO",
-            "text": "\u304c\u3054\u3056\u3044\u307e\u3059Arista Networks (NYSE:ANET) Insider Kenneth Duda Sells 30,000 Shares"
-        },
-        {
-            "time": "02:19",
-            "tag": "MERCADO",
-            "text": "Insider Sell: Akash Palkhiwala Sells Shares of Qualcomm Inc (QCOM)"
-        },
-        {
-            "time": "02:09",
-            "tag": "MERCADO",
-            "text": "News | RTX's Raytheon to equip U.S. Air Force autonomous fighter jet with PhantomStrike\u00ae radar"
         }
     ]
 }
