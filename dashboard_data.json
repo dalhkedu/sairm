@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-19 23:22 UTC",
+        "last_updated": "2025-12-20 01:48 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.99,
-            "change": "-3.18%"
+            "change": "+3.1%"
         },
         {
             "symbol": "AMD",
             "price": 213.43,
-            "change": "-0.33%"
+            "change": "-1.94%"
         },
         {
             "symbol": "MSFT",
             "price": 485.92,
-            "change": "-0.08%"
+            "change": "-2.84%"
         },
         {
             "symbol": "CEG",
             "price": 355.4,
-            "change": "-2.04%"
+            "change": "-2.9%"
         },
         {
             "symbol": "VST",
             "price": 163.03,
-            "change": "-2.59%"
+            "change": "-0.35%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.64,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.5,
+            0.51,
+            0.52,
+            0.53,
+            0.52,
+            0.51,
             0.5,
             0.51,
-            0.5
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.99,
-            24.95,
-            25.35,
-            25.46,
-            25.55,
-            25.7,
-            25.27,
-            25.04,
-            24.85,
-            24.74,
-            24.51,
-            24.97
+            23.96,
+            24.3,
+            24.07,
+            23.6,
+            23.67,
+            23.87,
+            23.87,
+            24.01,
+            24.18,
+            24.67,
+            25.11,
+            24.83
         ],
         "hsd_history_software": [
-            9.89,
             9.87,
-            9.85,
-            9.89,
-            9.91,
-            9.99,
-            9.91,
-            9.85,
-            9.99,
-            9.97,
-            9.83,
-            10.01
+            10.04,
+            10.06,
+            10.25,
+            10.06,
+            9.96,
+            10.09,
+            10.03,
+            10.02,
+            10.03,
+            10.09,
+            10.09
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:54",
+            "time": "01:09",
             "tag": "MERCADO",
-            "text": "Aptiv, Vecna Robotics to Develop Next-Generation Autonomous Mobile Robots"
+            "text": "Dynamic Aerospace Systems Announces Official Corporate Name Change from BrooQLy, Inc."
         },
         {
-            "time": "21:37",
+            "time": "01:08",
             "tag": "MERCADO",
-            "text": "Musk wins appeal and restores 2018 Tesla pay deal worth $56 billion"
+            "text": "AMD, Intel, KLA Corporation, Western Digital, and Nova Stocks Trade Up, What You Need To Know"
         },
         {
-            "time": "21:37",
-            "tag": "AI",
-            "text": "Analog Devices Stock (NASDAQ: ADI) News and Forecasts for Dec. 19, 2025: Price Targets Rise as AI Infrastructure and Industrial Demand Rebound"
-        },
-        {
-            "time": "21:36",
-            "tag": "AI",
-            "text": "Palo Alto Networks inks multibillion-dollar AI deal with Google Cloud"
-        },
-        {
-            "time": "21:07",
+            "time": "00:46",
             "tag": "MERCADO",
-            "text": "Why NXP Semiconductors (NXPI) Stock Is Up Today"
+            "text": "Microsoft says issue causing messaging delays in Teams for a subset of users has been resolved"
+        },
+        {
+            "time": "00:43",
+            "tag": "MERCADO",
+            "text": "Salesforce (CRM) Stock After Hours Today (Dec. 19, 2025): What\u2019s Moving Shares and What to Watch Before Monday\u2019s Market Open"
+        },
+        {
+            "time": "00:23",
+            "tag": "MERCADO",
+            "text": "Insider Sell: Michael Capellas Sells 27,000 Shares of Cisco Systems Inc (CSCO)"
         }
     ]
 }
