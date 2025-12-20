@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-20 13:29 UTC",
+        "last_updated": "2025-12-20 14:20 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.99,
-            "change": "-1.92%"
+            "change": "+2.57%"
         },
         {
             "symbol": "AMD",
             "price": 213.43,
-            "change": "+2.85%"
+            "change": "-2.45%"
         },
         {
             "symbol": "MSFT",
             "price": 485.92,
-            "change": "-0.01%"
+            "change": "+2.0%"
         },
         {
             "symbol": "CEG",
             "price": 355.4,
-            "change": "+1.99%"
+            "change": "+1.16%"
         },
         {
             "symbol": "VST",
             "price": 163.03,
-            "change": "+0.38%"
+            "change": "+1.47%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.47,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49
+            0.5,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.09,
-            25.16,
-            25.64,
-            26.12,
-            25.89,
-            25.74,
-            25.24,
-            25.58,
-            25.87,
-            25.42,
-            25.47,
-            25.47
+            24.0,
+            23.67,
+            24.15,
+            24.44,
+            24.73,
+            24.92,
+            24.63,
+            24.8,
+            24.52,
+            24.68,
+            24.98,
+            24.71
         ],
         "hsd_history_software": [
-            9.75,
-            9.8,
+            10.28,
+            10.1,
+            10.06,
+            10.05,
             9.95,
-            9.78,
+            10.03,
+            10.02,
+            9.93,
+            9.85,
+            9.88,
             9.74,
-            9.57,
-            9.58,
-            9.65,
-            9.68,
-            9.7,
-            9.89,
-            10.07
+            9.93
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:02",
+            "time": "12:54",
             "tag": "MERCADO",
-            "text": "Wells Fargo Reiterates Overweight Rating on Amazon.com, Inc. (AMZN)"
+            "text": "Focus Financial Network Inc. Raises Stake in Super Micro Computer, Inc. $SMCI"
         },
         {
-            "time": "12:02",
+            "time": "12:33",
             "tag": "MERCADO",
-            "text": "Analysts Have a Moderate Buy Rating on Apple Inc. (AAPL)"
+            "text": "Parker Hannifin Expands NX8M Mobile Motor Family with High-Voltage Option From: Parker Hannifin Corp"
         },
         {
-            "time": "12:01",
+            "time": "12:24",
             "tag": "MERCADO",
-            "text": "Here is Why Valero Energy (VLO) Fell This Week"
+            "text": "Starbucks Appoints Anand Varadarajan as Executive Vice President and Chief Technology Officer"
         },
         {
-            "time": "11:39",
+            "time": "12:19",
             "tag": "MERCADO",
-            "text": "Perkins Coie Trust Co Has $4.09 Million Position in QUALCOMM Incorporated $QCOM"
+            "text": "Cisco Systems, Inc. $CSCO Shares Acquired by Jackson Square Capital LLC"
         },
         {
-            "time": "11:17",
+            "time": "12:19",
             "tag": "MERCADO",
-            "text": "Sanders Morris Harris LLC Grows Stake in Microsoft Corporation $MSFT"
+            "text": "Jackson Square Capital LLC Has $7.50 Million Position in Cadence Design Systems, Inc. $CDNS"
         }
     ]
 }
