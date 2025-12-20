@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-20 21:19 UTC",
+        "last_updated": "2025-12-20 22:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.99,
-            "change": "-1.25%"
+            "change": "-2.07%"
         },
         {
             "symbol": "AMD",
             "price": 213.43,
-            "change": "-1.07%"
+            "change": "-1.78%"
         },
         {
             "symbol": "MSFT",
             "price": 485.92,
-            "change": "+1.17%"
+            "change": "+2.19%"
         },
         {
             "symbol": "CEG",
             "price": 355.4,
-            "change": "-0.24%"
+            "change": "+1.07%"
         },
         {
             "symbol": "VST",
             "price": 163.03,
-            "change": "+2.74%"
+            "change": "+0.35%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.7,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49
+            0.51,
+            0.52,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.5,
+            0.51,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.43,
-            24.31,
-            24.05,
-            24.08,
-            23.73,
-            23.76,
-            23.77,
-            24.18,
-            24.25,
-            24.75,
-            24.32,
-            24.74
+            24.16,
+            24.59,
+            24.45,
+            24.85,
+            24.63,
+            24.49,
+            24.49,
+            24.95,
+            25.39,
+            25.58,
+            25.31,
+            25.23
         ],
         "hsd_history_software": [
-            10.31,
-            10.18,
-            9.99,
-            10.01,
-            10.18,
+            10.2,
+            10.4,
+            10.41,
             10.25,
-            10.27,
+            10.32,
+            10.35,
+            10.2,
             10.08,
-            9.93,
-            9.79,
-            9.71,
-            9.89
+            10.08,
+            10.25,
+            10.09,
+            10.04
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "20:48",
+            "tag": "MERCADO",
+            "text": "T-Mobile (TMUS) Stock News and Forecasts on Dec. 20, 2025: Buybacks, Dividend Momentum, Analyst Targets, and 2026 Catalysts"
+        },
+        {
             "time": "20:09",
             "tag": "MERCADO",
             "text": "Insider Selling: Ambarella (NASDAQ:AMBA) Insider Sells 2,406 Shares of Stock"
@@ -144,11 +149,6 @@
             "time": "18:57",
             "tag": "MERCADO",
             "text": "Nvidia's Huang confirms plan to build new campus in Israel"
-        },
-        {
-            "time": "18:52",
-            "tag": "MERCADO",
-            "text": "U.S. Marks 250th Anniversary with General Motors and HERE Technologies Unveiling Explore250, the Ultimate Road Trip App for All Americans"
         }
     ]
 }
