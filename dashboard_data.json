@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-20 08:29 UTC",
+        "last_updated": "2025-12-20 09:23 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 180.99,
-            "change": "+0.84%"
+            "price": NaN,
+            "change": "-0.34%"
         },
         {
             "symbol": "AMD",
             "price": 213.43,
-            "change": "+1.09%"
+            "change": "+1.43%"
         },
         {
             "symbol": "MSFT",
             "price": 485.92,
-            "change": "-1.53%"
+            "change": "+0.94%"
         },
         {
             "symbol": "CEG",
             "price": 355.4,
-            "change": "-0.04%"
+            "change": "-0.7%"
         },
         {
             "symbol": "VST",
             "price": 163.03,
-            "change": "+2.56%"
+            "change": "-0.82%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
-        "rci_current": 0.18,
+        "cer_current": 0.4,
+        "rci_current": NaN,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.54,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.51,
             0.5,
-            0.51,
             0.5,
             0.49,
-            0.49
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.01,
-            25.17,
-            25.53,
-            25.92,
-            25.44,
-            25.41,
-            25.75,
-            25.33,
-            24.95,
-            24.87,
-            25.02,
-            25.14
+            25.86,
+            25.78,
+            26.0,
+            25.96,
+            25.46,
+            25.05,
+            24.86,
+            24.93,
+            25.18,
+            25.29,
+            25.28,
+            25.07
         ],
         "hsd_history_software": [
-            9.59,
-            9.68,
-            9.58,
-            9.54,
-            9.64,
-            9.66,
-            9.61,
-            9.69,
-            9.62,
-            9.58,
-            9.71,
-            9.9
+            9.89,
+            9.83,
+            9.91,
+            9.86,
+            9.95,
+            10.14,
+            10.31,
+            10.17,
+            10.32,
+            10.17,
+            10.01,
+            10.15
         ],
         "rci_data": [
             85.0,
-            18.099
+            NaN
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "08:08",
+            "tag": "MERCADO",
+            "text": "Lobo EV Technologies Warned by Nasdaq Over Minimum Bid Price Non-Compliance"
+        },
+        {
+            "time": "07:21",
+            "tag": "MERCADO",
+            "text": "General Motors looks to tech veteran Sterling Anderson for future leadership - ArenaEV"
+        },
+        {
+            "time": "07:13",
+            "tag": "MERCADO",
+            "text": "Better Quantum Computing Stock for 2026: IonQ or Rigetti Computing?"
+        },
+        {
             "time": "07:09",
             "tag": "AI",
             "text": "Does Strong Q2 Results, AI Connectivity Momentum and Media Praise Change The Bull Case For Credo (CRDO)?"
         },
         {
-            "time": "07:00",
+            "time": "07:08",
             "tag": "MERCADO",
-            "text": "Teledyne Technologies Incorporated (NYSE:TDY) Receives Consensus Recommendation of \"Moderate Buy\" from Brokerages"
-        },
-        {
-            "time": "05:38",
-            "tag": "MERCADO",
-            "text": "Aptiv Partners with Vecna Robotics to Build Advanced Autonomous Mobile Robot Solutions"
-        },
-        {
-            "time": "04:16",
-            "tag": "MERCADO",
-            "text": "Ovivo Sells Electronics Division to Ecolab in $2.4B Deal"
-        },
-        {
-            "time": "04:08",
-            "tag": "MERCADO",
-            "text": "Synopsys, Inc. Notice of December 30, 2025 Application Deadline for Class Action Lawsuit- Contact Lewis Kahn, Esq. at Kahn Swick & Foti, LLC, Before Application Deadline"
+            "text": "Insider Sell: Akash Palkhiwala Sells Shares of Qualcomm Inc (QCOM)"
         }
     ]
 }
