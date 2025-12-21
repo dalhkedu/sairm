@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-21 13:30 UTC",
+        "last_updated": "2025-12-21 14:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.99,
-            "change": "-1.73%"
+            "change": "+1.63%"
         },
         {
             "symbol": "AMD",
             "price": 213.43,
-            "change": "-3.26%"
+            "change": "+1.64%"
         },
         {
             "symbol": "MSFT",
             "price": 485.92,
-            "change": "+1.14%"
+            "change": "+3.21%"
         },
         {
             "symbol": "CEG",
             "price": 355.4,
-            "change": "+0.26%"
+            "change": "+0.95%"
         },
         {
             "symbol": "VST",
             "price": 163.03,
-            "change": "+2.42%"
+            "change": "+2.3%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.41,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.49,
             0.5,
+            0.51,
+            0.51,
+            0.5,
+            0.49,
+            0.49,
             0.5,
             0.51,
-            0.52,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.55,
-            25.01,
-            25.01,
-            24.59,
-            24.21,
-            24.54,
-            24.57,
-            24.53,
-            24.22,
-            24.29,
-            24.65,
-            25.06
+            25.62,
+            25.81,
+            25.77,
+            25.35,
+            25.31,
+            24.92,
+            25.34,
+            25.75,
+            25.27,
+            25.18,
+            25.35,
+            24.93
         ],
         "hsd_history_software": [
-            9.74,
-            9.81,
-            9.95,
-            9.96,
-            9.89,
-            10.06,
-            10.13,
-            9.99,
+            9.67,
+            9.72,
+            9.84,
             10.0,
-            10.04,
-            9.99,
-            10.16
+            10.18,
+            10.08,
+            10.09,
+            10.03,
+            10.02,
+            10.18,
+            10.12,
+            9.96
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:01",
+            "time": "13:01",
             "tag": "MERCADO",
-            "text": "QUALCOMM Incorporated $QCOM Stake Boosted by Foster Victor Wealth Advisors LLC"
+            "text": "Sarasin & Partners LLP Purchases 85,278 Shares of Fortinet, Inc. $FTNT"
         },
         {
-            "time": "12:00",
+            "time": "12:35",
             "tag": "MERCADO",
-            "text": "Foster Victor Wealth Advisors LLC Purchases 32,826 Shares of Fortinet, Inc. $FTNT"
+            "text": "Wedge Capital Management L L P NC Decreases Stock Position in Cadence Design Systems, Inc. $CDNS"
         },
         {
-            "time": "11:51",
+            "time": "12:35",
             "tag": "MERCADO",
-            "text": "Red Door Wealth Management LLC Acquires 13,605 Shares of Synopsys, Inc. $SNPS"
+            "text": "Wedge Capital Management L L P NC Acquires 464,396 Shares of Arista Networks, Inc. $ANET"
         },
         {
-            "time": "11:50",
+            "time": "12:35",
             "tag": "MERCADO",
-            "text": "Red Door Wealth Management LLC Acquires 1,831 Shares of International Business Machines Corporation $IBM"
+            "text": "Wedge Capital Management L L P NC Sells 73,929 Shares of Uber Technologies, Inc. $UBER"
         },
         {
-            "time": "11:47",
+            "time": "12:35",
             "tag": "MERCADO",
-            "text": "Flputnam Investment Management Co. Buys 25,173 Shares of Lam Research Corporation $LRCX"
+            "text": "Wedge Capital Management L L P NC Lowers Holdings in Seagate Technology Holdings PLC $STX"
         }
     ]
 }
