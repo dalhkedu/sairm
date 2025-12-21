@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-21 05:24 UTC",
+        "last_updated": "2025-12-21 06:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.99,
-            "change": "+3.27%"
+            "change": "+1.19%"
         },
         {
             "symbol": "AMD",
             "price": 213.43,
-            "change": "-1.66%"
+            "change": "+0.17%"
         },
         {
             "symbol": "MSFT",
             "price": 485.92,
-            "change": "-1.9%"
+            "change": "+2.83%"
         },
         {
             "symbol": "CEG",
             "price": 355.4,
-            "change": "-3.33%"
+            "change": "-3.2%"
         },
         {
             "symbol": "VST",
             "price": 163.03,
-            "change": "+2.07%"
+            "change": "+3.22%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.47,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.49,
             0.5,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.5
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.5,
+            0.51,
+            0.52,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            26.59,
-            26.51,
-            26.14,
-            25.96,
-            26.14,
-            25.88,
-            25.44,
-            25.35,
-            25.01,
+            24.6,
+            24.43,
             24.88,
-            25.23,
-            25.4
+            24.84,
+            24.97,
+            24.91,
+            24.77,
+            24.61,
+            24.37,
+            24.43,
+            24.29,
+            24.55
         ],
         "hsd_history_software": [
-            10.29,
-            10.46,
-            10.61,
-            10.55,
-            10.36,
+            9.94,
+            9.89,
+            10.01,
+            10.15,
             10.2,
-            10.26,
-            10.14,
-            10.15,
-            9.99,
-            10.15,
-            10.13
+            10.39,
+            10.24,
+            10.21,
+            10.01,
+            10.09,
+            10.17,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "05:16",
+            "tag": "MERCADO",
+            "text": "PG&E Substation Fire Triggers Massive San Francisco Outage, Impacting Over 130,000 Customers"
+        },
+        {
+            "time": "04:09",
+            "tag": "AI",
+            "text": "Is monday.com\u2019s (MNDY) AI Spending Power Quietly Redefining Its Competitive Moat?"
+        },
+        {
+            "time": "04:07",
+            "tag": "MERCADO",
+            "text": "Google, Apple Warn Visa Employees Against Leaving US As 'Significant\" Delays Push Backlogs To Nearly 12 Months: Report"
+        },
+        {
             "time": "03:09",
             "tag": "MERCADO",
             "text": "How First Trust Technology Alphadex Fund (FXL) Affects Rotational Strategy Timing"
         },
         {
-            "time": "03:05",
-            "tag": "MERCADO",
-            "text": "Criteo\u2019s 50% Slump in 2024 Raises Big Questions About Its True Value"
-        },
-        {
-            "time": "02:33",
-            "tag": "AI",
-            "text": "Cisco Stock (CSCO) News, Forecasts and Analysis: AI Networking Momentum Meets a New Zero\u2011Day Risk (Dec. 20, 2025)"
-        },
-        {
-            "time": "02:08",
-            "tag": "MERCADO",
-            "text": "Dominion Energy invents new mobile solar energy unit"
-        },
-        {
-            "time": "01:26",
-            "tag": "AI",
-            "text": "AMD vs. AVGO: Which AI chip stock could deliver higher returns in 2026, according to analysts?"
+            "time": "03:08",
+            "tag": "RESULTADOS",
+            "text": "Netflix Stock (NFLX) Outlook on Dec. 20, 2025: Warner Bros. Deal Drama, Stock Split Impact, Analyst Targets, and the Jan. 20 Earnings Catalyst"
         }
     ]
 }
