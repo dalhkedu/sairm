@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-21 16:28 UTC",
+        "last_updated": "2025-12-21 17:19 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.99,
-            "change": "+3.34%"
+            "change": "+1.4%"
         },
         {
             "symbol": "AMD",
             "price": 213.43,
-            "change": "+2.61%"
+            "change": "+0.47%"
         },
         {
             "symbol": "MSFT",
             "price": 485.92,
-            "change": "-1.93%"
+            "change": "+0.87%"
         },
         {
             "symbol": "CEG",
             "price": 355.4,
-            "change": "-0.19%"
+            "change": "+0.82%"
         },
         {
             "symbol": "VST",
             "price": 163.03,
-            "change": "+2.42%"
+            "change": "+0.81%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.4,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
             0.47,
             0.47,
             0.48,
             0.48,
             0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
             0.49,
-            0.5
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            23.7,
-            24.11,
-            24.57,
-            24.47,
-            24.62,
-            25.01,
-            25.18,
-            25.65,
-            25.21,
-            25.33,
-            25.38,
-            25.44
+            24.65,
+            24.34,
+            24.43,
+            24.89,
+            24.82,
+            25.0,
+            25.5,
+            25.44,
+            25.5,
+            25.2,
+            25.0,
+            25.49
         ],
         "hsd_history_software": [
-            9.69,
-            9.6,
-            9.78,
-            9.73,
-            9.73,
-            9.78,
-            9.88,
+            9.82,
             9.87,
-            9.78,
-            9.89,
-            9.85,
-            9.86
+            10.04,
+            10.09,
+            9.99,
+            10.12,
+            9.99,
+            10.06,
+            9.92,
+            9.98,
+            9.82,
+            9.91
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:04",
+            "time": "15:29",
             "tag": "MERCADO",
-            "text": "Bank of America Securities Remains Bullish on Amazon.com (AMZN)"
+            "text": "Alphabet (GOOG) Class C Stock Week Ahead: Google Cloud\u2019s $10B Security Deal, Waymo Funding Buzz, and Antitrust Risk in Focus (Dec. 22\u201326, 2025)"
         },
         {
-            "time": "15:03",
+            "time": "15:28",
+            "tag": "AI",
+            "text": "AMD Stock Week Ahead: China Chip Headlines, AI Deal Momentum, and Key U.S. Data in a Holiday-Shortened Week (Dec 22\u201326, 2025)"
+        },
+        {
+            "time": "15:22",
             "tag": "MERCADO",
             "text": "Microsoft Corporation (MSFT) and Cognizant Announce a Multi-Year Partnership"
         },
         {
-            "time": "15:02",
-            "tag": "MERCADO",
-            "text": "Where is Apple Inc. (AAPL) Headed According to Wall Street?"
+            "time": "15:09",
+            "tag": "AI",
+            "text": "Alibaba Group Holding (BABA) Making Advancements With Open Source AI Models, Here's What You Need to Know"
         },
         {
-            "time": "15:01",
+            "time": "15:04",
             "tag": "MERCADO",
-            "text": "Is Intuit (INTU) One of the Best Large Cap Stocks to Invest In?"
-        },
-        {
-            "time": "14:57",
-            "tag": "MERCADO",
-            "text": "Truist and RBC Capital Raise Price Targets on Intuitive Surgical (ISRG)"
+            "text": "Bank of America Securities Remains Bullish on Amazon.com (AMZN)"
         }
     ]
 }
