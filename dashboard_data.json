@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-21 08:30 UTC",
+        "last_updated": "2025-12-21 09:24 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.99,
-            "change": "-1.48%"
+            "change": "-2.33%"
         },
         {
             "symbol": "AMD",
             "price": 213.43,
-            "change": "-0.48%"
+            "change": "+3.2%"
         },
         {
             "symbol": "MSFT",
             "price": 485.92,
-            "change": "+2.21%"
+            "change": "-0.78%"
         },
         {
             "symbol": "CEG",
             "price": 355.4,
-            "change": "+1.91%"
+            "change": "+3.3%"
         },
         {
             "symbol": "VST",
             "price": 163.03,
-            "change": "+3.47%"
+            "change": "+2.56%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.68,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
             0.5,
-            0.5
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.93,
-            25.43,
-            25.25,
-            24.87,
-            25.16,
-            24.81,
-            24.66,
-            24.72,
-            24.5,
-            24.88,
-            25.31,
-            24.82
+            24.42,
+            24.78,
+            24.39,
+            24.36,
+            24.76,
+            25.08,
+            25.0,
+            25.11,
+            25.06,
+            24.84,
+            25.03,
+            25.25
         ],
         "hsd_history_software": [
-            10.64,
-            10.49,
-            10.31,
-            10.24,
-            10.18,
-            10.13,
-            10.22,
-            10.03,
-            10.0,
-            9.84,
+            9.99,
             9.93,
-            9.97
+            10.09,
+            10.04,
+            10.05,
+            10.05,
+            9.92,
+            9.91,
+            9.75,
+            9.71,
+            9.86,
+            10.04
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "07:53",
+            "tag": "MERCADO",
+            "text": "Aflac: 22.6M impacted in cybersecurity breach"
+        },
+        {
             "time": "07:09",
             "tag": "MERCADO",
             "text": "Joby Aviation Backs U.S. Advanced Air Mobility Strategy to Accelerate Electric Air Taxi Industry, Here is What You Need to Know"
@@ -144,11 +149,6 @@
             "time": "05:16",
             "tag": "MERCADO",
             "text": "PG&E Substation Fire Triggers Massive San Francisco Outage, Impacting Over 130,000 Customers"
-        },
-        {
-            "time": "04:09",
-            "tag": "AI",
-            "text": "Is monday.com\u2019s (MNDY) AI Spending Power Quietly Redefining Its Competitive Moat?"
         }
     ]
 }
