@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-21 07:22 UTC",
+        "last_updated": "2025-12-21 08:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.99,
-            "change": "-1.52%"
+            "change": "-1.48%"
         },
         {
             "symbol": "AMD",
             "price": 213.43,
-            "change": "+0.92%"
+            "change": "-0.48%"
         },
         {
             "symbol": "MSFT",
             "price": 485.92,
-            "change": "+0.19%"
+            "change": "+2.21%"
         },
         {
             "symbol": "CEG",
             "price": 355.4,
-            "change": "-3.41%"
+            "change": "+1.91%"
         },
         {
             "symbol": "VST",
             "price": 163.03,
-            "change": "+0.64%"
+            "change": "+3.47%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.5,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
+            0.46,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
             0.49,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            27.5,
-            27.38,
-            26.91,
-            26.52,
-            26.41,
-            26.28,
-            25.95,
-            26.05,
-            25.86,
-            25.64,
-            25.2,
-            25.11
+            24.93,
+            25.43,
+            25.25,
+            24.87,
+            25.16,
+            24.81,
+            24.66,
+            24.72,
+            24.5,
+            24.88,
+            25.31,
+            24.82
         ],
         "hsd_history_software": [
-            9.63,
-            9.67,
-            9.62,
-            9.75,
-            9.6,
-            9.65,
+            10.64,
+            10.49,
+            10.31,
+            10.24,
+            10.18,
+            10.13,
+            10.22,
+            10.03,
+            10.0,
             9.84,
-            9.9,
-            9.77,
-            9.83,
-            9.82,
-            9.93
+            9.93,
+            9.97
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "07:09",
+            "tag": "MERCADO",
+            "text": "Joby Aviation Backs U.S. Advanced Air Mobility Strategy to Accelerate Electric Air Taxi Industry, Here is What You Need to Know"
+        },
+        {
+            "time": "06:49",
+            "tag": "MERCADO",
+            "text": "Apple Inc. (NASDAQ:AAPL) Given Average Recommendation of \"Moderate Buy\" by Analysts"
+        },
+        {
+            "time": "06:48",
+            "tag": "MERCADO",
+            "text": "Alphabet Inc. (NASDAQ:GOOGL) Receives Consensus Rating of \"Moderate Buy\" from Brokerages"
+        },
+        {
             "time": "05:16",
             "tag": "MERCADO",
             "text": "PG&E Substation Fire Triggers Massive San Francisco Outage, Impacting Over 130,000 Customers"
@@ -134,21 +149,6 @@
             "time": "04:09",
             "tag": "AI",
             "text": "Is monday.com\u2019s (MNDY) AI Spending Power Quietly Redefining Its Competitive Moat?"
-        },
-        {
-            "time": "04:07",
-            "tag": "MERCADO",
-            "text": "Google, Apple Warn Visa Employees Against Leaving US As 'Significant\" Delays Push Backlogs To Nearly 12 Months: Report"
-        },
-        {
-            "time": "03:09",
-            "tag": "MERCADO",
-            "text": "How First Trust Technology Alphadex Fund (FXL) Affects Rotational Strategy Timing"
-        },
-        {
-            "time": "03:08",
-            "tag": "RESULTADOS",
-            "text": "Netflix Stock (NFLX) Outlook on Dec. 20, 2025: Warner Bros. Deal Drama, Stock Split Impact, Analyst Targets, and the Jan. 20 Earnings Catalyst"
         }
     ]
 }
