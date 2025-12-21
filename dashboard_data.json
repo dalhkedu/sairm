@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-21 21:20 UTC",
+        "last_updated": "2025-12-21 22:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.99,
-            "change": "-3.49%"
+            "change": "-1.44%"
         },
         {
             "symbol": "AMD",
             "price": 213.43,
-            "change": "+1.59%"
+            "change": "+1.1%"
         },
         {
             "symbol": "MSFT",
             "price": 485.92,
-            "change": "-2.88%"
+            "change": "+1.29%"
         },
         {
             "symbol": "CEG",
             "price": 355.4,
-            "change": "+0.16%"
+            "change": "+1.7%"
         },
         {
             "symbol": "VST",
             "price": 163.03,
-            "change": "-2.01%"
+            "change": "+1.56%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.56,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.5,
             0.49,
-            0.48,
-            0.48,
-            0.48,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.49,
-            0.49,
-            0.48,
-            0.47,
-            0.48,
-            0.48,
+            0.5,
+            0.5,
             0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            23.77,
-            23.61,
-            23.77,
-            23.97,
-            23.82,
-            23.66,
-            24.03,
-            24.48,
-            24.83,
-            24.62,
-            25.11,
-            24.91
+            26.3,
+            25.94,
+            25.92,
+            25.66,
+            25.39,
+            25.13,
+            24.66,
+            24.77,
+            24.54,
+            24.64,
+            24.86,
+            24.53
         ],
         "hsd_history_software": [
-            9.8,
-            9.97,
-            9.81,
-            9.78,
-            9.81,
-            9.66,
-            9.84,
-            9.98,
-            10.05,
-            10.11,
-            9.98,
-            10.1
+            10.61,
+            10.44,
+            10.59,
+            10.41,
+            10.58,
+            10.5,
+            10.35,
+            10.22,
+            10.19,
+            10.15,
+            10.01,
+            9.95
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "21:00",
+            "tag": "MERCADO",
+            "text": "CFOs Speak: Straight Talk From Chevron and a Biotech Pioneer"
+        },
+        {
+            "time": "20:44",
+            "tag": "AI",
+            "text": "Goldman Sachs (GS) Stock Week Ahead: AI Deal Push, ETF Expansion, and Holiday-Shortened Market Catalysts for Dec. 22\u201326, 2025"
+        },
+        {
+            "time": "20:09",
+            "tag": "MERCADO",
+            "text": "Electrovaya ranked 3rd in Canada's Enterprise-Industry Leaders winners in Deloitte's Technology Fast 50TM program"
+        },
+        {
             "time": "18:44",
             "tag": "MERCADO",
             "text": "Analysts Bullish on Qualcomm Inc. (QCOM) As It Completes Alphawave Semi Acquisition"
@@ -134,21 +149,6 @@
             "time": "18:08",
             "tag": "MERCADO",
             "text": "Jim Cramer Says \"This Ciena is Much Better Than the Ciena of 2000\""
-        },
-        {
-            "time": "17:08",
-            "tag": "MERCADO",
-            "text": "Intel Stock (INTC) Week Ahead: Nvidia Deal Clearance, US Government Backing, and Holiday-Shortened Trading Risks (Dec. 22\u201326, 2025)"
-        },
-        {
-            "time": "17:07",
-            "tag": "MERCADO",
-            "text": "Salesforce (CRM) Stock Week Ahead: Qualified Acquisition, Agentforce Meets ChatGPT, and Analyst Price Targets to Watch (Dec. 22\u201326, 2025)"
-        },
-        {
-            "time": "16:54",
-            "tag": "MERCADO",
-            "text": "XPeng\u2019s Strategic Moves Propel Growth Amidst Autonomous Advancements"
         }
     ]
 }
