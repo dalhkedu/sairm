@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-21 10:24 UTC",
+        "last_updated": "2025-12-21 11:19 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.99,
-            "change": "+1.33%"
+            "change": "+0.04%"
         },
         {
             "symbol": "AMD",
             "price": 213.43,
-            "change": "+1.41%"
+            "change": "-0.15%"
         },
         {
             "symbol": "MSFT",
             "price": 485.92,
-            "change": "-3.25%"
+            "change": "-0.43%"
         },
         {
             "symbol": "CEG",
             "price": 355.4,
-            "change": "-2.26%"
+            "change": "-2.29%"
         },
         {
             "symbol": "VST",
             "price": 163.03,
-            "change": "+0.61%"
+            "change": "+1.3%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.65,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
             0.51,
             0.5,
             0.5,
             0.5,
-            0.51,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.51
+            0.49,
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.39,
-            25.78,
-            25.53,
-            25.72,
-            25.44,
-            25.69,
-            25.32,
-            25.82,
-            25.55,
-            25.11,
-            25.01,
-            25.0
+            24.38,
+            24.14,
+            24.08,
+            23.77,
+            23.46,
+            23.71,
+            24.09,
+            24.21,
+            24.02,
+            24.47,
+            24.86,
+            24.73
         ],
         "hsd_history_software": [
-            10.73,
-            10.7,
-            10.74,
-            10.59,
-            10.53,
-            10.33,
-            10.18,
-            10.27,
-            10.11,
-            10.15,
-            10.16,
-            9.98
+            9.63,
+            9.73,
+            9.83,
+            9.84,
+            9.85,
+            9.75,
+            9.92,
+            9.92,
+            9.89,
+            9.8,
+            9.88,
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:56",
+            "time": "10:08",
             "tag": "MERCADO",
-            "text": "NetApp, Inc. (NASDAQ:NTAP) Receives Average Recommendation of \"Moderate Buy\" from Analysts"
+            "text": "Squarepoint Ops LLC Buys New Shares in ePlus inc. $PLUS"
         },
         {
-            "time": "08:41",
+            "time": "10:05",
             "tag": "MERCADO",
-            "text": "Assenagon Asset Management S.A. Decreases Stake in Tyler Technologies, Inc. $TYL"
+            "text": "CHICAGO TRUST Co NA Has $1.61 Million Stock Position in QUALCOMM Incorporated $QCOM"
         },
         {
-            "time": "08:41",
+            "time": "09:40",
             "tag": "MERCADO",
-            "text": "Assenagon Asset Management S.A. Has $11.38 Million Position in Fidelity National Information Services, Inc. $FIS"
+            "text": "Douglas Lane & Associates LLC Grows Position in CoStar Group, Inc. $CSGP"
         },
         {
-            "time": "08:39",
+            "time": "09:39",
             "tag": "MERCADO",
-            "text": "Corient Private Wealth LLC Sells 11,974 Shares of NetApp, Inc. $NTAP"
+            "text": "Congress Asset Management Co. Purchases 149,092 Shares of Quanta Services, Inc. $PWR"
         },
         {
-            "time": "08:39",
+            "time": "09:33",
             "tag": "MERCADO",
-            "text": "Microsoft Corporation $MSFT is Eastover Investment Advisors LLC's 5th Largest Position"
+            "text": "Verizon Stock (VZ) News Today: Frontier Deal Approvals, 5G Tower Partnership, Dividend Outlook and 2026 Catalysts (Dec. 21, 2025)"
         }
     ]
 }
