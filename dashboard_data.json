@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-21 20:25 UTC",
+        "last_updated": "2025-12-21 21:20 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.99,
-            "change": "-1.2%"
+            "change": "-3.49%"
         },
         {
             "symbol": "AMD",
             "price": 213.43,
-            "change": "+1.32%"
+            "change": "+1.59%"
         },
         {
             "symbol": "MSFT",
             "price": 485.92,
-            "change": "-2.73%"
+            "change": "-2.88%"
         },
         {
             "symbol": "CEG",
             "price": 355.4,
-            "change": "-2.12%"
+            "change": "+0.16%"
         },
         {
             "symbol": "VST",
             "price": 163.03,
-            "change": "-1.23%"
+            "change": "-2.01%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.52,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
+            0.48,
+            0.48,
+            0.48,
             0.49,
-            0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.51
+            0.49,
+            0.48,
+            0.47,
+            0.48,
+            0.48,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.86,
-            25.72,
-            25.58,
-            25.54,
-            25.4,
-            25.4,
-            24.96,
-            25.21,
-            24.96,
-            25.34,
-            25.42,
-            24.98
+            23.77,
+            23.61,
+            23.77,
+            23.97,
+            23.82,
+            23.66,
+            24.03,
+            24.48,
+            24.83,
+            24.62,
+            25.11,
+            24.91
         ],
         "hsd_history_software": [
-            9.65,
-            9.63,
-            9.61,
-            9.56,
-            9.66,
+            9.8,
+            9.97,
             9.81,
-            9.75,
             9.78,
-            9.82,
             9.81,
-            9.96,
-            10.08
+            9.66,
+            9.84,
+            9.98,
+            10.05,
+            10.11,
+            9.98,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -131,6 +131,11 @@
             "text": "Analysts Bullish on Qualcomm Inc. (QCOM) As It Completes Alphawave Semi Acquisition"
         },
         {
+            "time": "18:08",
+            "tag": "MERCADO",
+            "text": "Jim Cramer Says \"This Ciena is Much Better Than the Ciena of 2000\""
+        },
+        {
             "time": "17:08",
             "tag": "MERCADO",
             "text": "Intel Stock (INTC) Week Ahead: Nvidia Deal Clearance, US Government Backing, and Holiday-Shortened Trading Risks (Dec. 22\u201326, 2025)"
@@ -144,11 +149,6 @@
             "time": "16:54",
             "tag": "MERCADO",
             "text": "XPeng\u2019s Strategic Moves Propel Growth Amidst Autonomous Advancements"
-        },
-        {
-            "time": "16:32",
-            "tag": "MERCADO",
-            "text": "Rivian, Sandisk, And Moderna Are Among the Top 10 Large-Cap Gainers Last Week (Dec. 15-Dec. 19): Are the Others in Your Portfolio?"
         }
     ]
 }
