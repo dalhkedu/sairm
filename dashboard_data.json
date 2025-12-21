@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-21 09:24 UTC",
+        "last_updated": "2025-12-21 10:24 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.99,
-            "change": "-2.33%"
+            "change": "+1.33%"
         },
         {
             "symbol": "AMD",
             "price": 213.43,
-            "change": "+3.2%"
+            "change": "+1.41%"
         },
         {
             "symbol": "MSFT",
             "price": 485.92,
-            "change": "-0.78%"
+            "change": "-3.25%"
         },
         {
             "symbol": "CEG",
             "price": 355.4,
-            "change": "+3.3%"
+            "change": "-2.26%"
         },
         {
             "symbol": "VST",
             "price": 163.03,
-            "change": "+2.56%"
+            "change": "+0.61%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.51,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
             0.51,
             0.51,
             0.51,
-            0.52,
             0.51,
             0.51,
             0.5,
             0.5,
-            0.51,
             0.5,
+            0.51,
             0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            24.42,
-            24.78,
-            24.39,
-            24.36,
-            24.76,
-            25.08,
-            25.0,
+            25.39,
+            25.78,
+            25.53,
+            25.72,
+            25.44,
+            25.69,
+            25.32,
+            25.82,
+            25.55,
             25.11,
-            25.06,
-            24.84,
-            25.03,
-            25.25
+            25.01,
+            25.0
         ],
         "hsd_history_software": [
-            9.99,
-            9.93,
-            10.09,
-            10.04,
-            10.05,
-            10.05,
-            9.92,
-            9.91,
-            9.75,
-            9.71,
-            9.86,
-            10.04
+            10.73,
+            10.7,
+            10.74,
+            10.59,
+            10.53,
+            10.33,
+            10.18,
+            10.27,
+            10.11,
+            10.15,
+            10.16,
+            9.98
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:53",
+            "time": "08:56",
             "tag": "MERCADO",
-            "text": "Aflac: 22.6M impacted in cybersecurity breach"
+            "text": "NetApp, Inc. (NASDAQ:NTAP) Receives Average Recommendation of \"Moderate Buy\" from Analysts"
         },
         {
-            "time": "07:09",
+            "time": "08:41",
             "tag": "MERCADO",
-            "text": "Joby Aviation Backs U.S. Advanced Air Mobility Strategy to Accelerate Electric Air Taxi Industry, Here is What You Need to Know"
+            "text": "Assenagon Asset Management S.A. Decreases Stake in Tyler Technologies, Inc. $TYL"
         },
         {
-            "time": "06:49",
+            "time": "08:41",
             "tag": "MERCADO",
-            "text": "Apple Inc. (NASDAQ:AAPL) Given Average Recommendation of \"Moderate Buy\" by Analysts"
+            "text": "Assenagon Asset Management S.A. Has $11.38 Million Position in Fidelity National Information Services, Inc. $FIS"
         },
         {
-            "time": "06:48",
+            "time": "08:39",
             "tag": "MERCADO",
-            "text": "Alphabet Inc. (NASDAQ:GOOGL) Receives Consensus Rating of \"Moderate Buy\" from Brokerages"
+            "text": "Corient Private Wealth LLC Sells 11,974 Shares of NetApp, Inc. $NTAP"
         },
         {
-            "time": "05:16",
+            "time": "08:39",
             "tag": "MERCADO",
-            "text": "PG&E Substation Fire Triggers Massive San Francisco Outage, Impacting Over 130,000 Customers"
+            "text": "Microsoft Corporation $MSFT is Eastover Investment Advisors LLC's 5th Largest Position"
         }
     ]
 }
