@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-21 11:19 UTC",
+        "last_updated": "2025-12-21 12:44 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.99,
-            "change": "+0.04%"
+            "change": "+0.95%"
         },
         {
             "symbol": "AMD",
             "price": 213.43,
-            "change": "-0.15%"
+            "change": "+2.7%"
         },
         {
             "symbol": "MSFT",
             "price": 485.92,
-            "change": "-0.43%"
+            "change": "-1.16%"
         },
         {
             "symbol": "CEG",
             "price": 355.4,
-            "change": "-2.29%"
+            "change": "+0.79%"
         },
         {
             "symbol": "VST",
             "price": 163.03,
-            "change": "+1.3%"
+            "change": "-0.87%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.69,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.55,
+            0.55,
+            0.55,
+            0.54,
+            0.54,
+            0.53,
+            0.52,
+            0.52,
             0.51,
             0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.38,
-            24.14,
-            24.08,
-            23.77,
-            23.46,
-            23.71,
-            24.09,
-            24.21,
-            24.02,
-            24.47,
-            24.86,
-            24.73
+            26.21,
+            25.72,
+            25.44,
+            25.06,
+            25.1,
+            25.32,
+            25.56,
+            25.55,
+            25.16,
+            24.94,
+            24.46,
+            24.55
         ],
         "hsd_history_software": [
-            9.63,
-            9.73,
-            9.83,
+            10.02,
+            10.07,
+            10.08,
+            10.08,
+            10.05,
+            10.03,
+            9.9,
             9.84,
-            9.85,
-            9.75,
-            9.92,
-            9.92,
-            9.89,
-            9.8,
+            9.77,
             9.88,
-            9.87
+            9.96,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:08",
+            "time": "12:01",
             "tag": "MERCADO",
-            "text": "Squarepoint Ops LLC Buys New Shares in ePlus inc. $PLUS"
+            "text": "QUALCOMM Incorporated $QCOM Stake Boosted by Foster Victor Wealth Advisors LLC"
         },
         {
-            "time": "10:05",
+            "time": "12:00",
             "tag": "MERCADO",
-            "text": "CHICAGO TRUST Co NA Has $1.61 Million Stock Position in QUALCOMM Incorporated $QCOM"
+            "text": "Foster Victor Wealth Advisors LLC Purchases 32,826 Shares of Fortinet, Inc. $FTNT"
         },
         {
-            "time": "09:40",
+            "time": "11:51",
             "tag": "MERCADO",
-            "text": "Douglas Lane & Associates LLC Grows Position in CoStar Group, Inc. $CSGP"
+            "text": "Red Door Wealth Management LLC Acquires 13,605 Shares of Synopsys, Inc. $SNPS"
         },
         {
-            "time": "09:39",
+            "time": "11:50",
             "tag": "MERCADO",
-            "text": "Congress Asset Management Co. Purchases 149,092 Shares of Quanta Services, Inc. $PWR"
+            "text": "Red Door Wealth Management LLC Acquires 1,831 Shares of International Business Machines Corporation $IBM"
         },
         {
-            "time": "09:33",
+            "time": "11:47",
             "tag": "MERCADO",
-            "text": "Verizon Stock (VZ) News Today: Frontier Deal Approvals, 5G Tower Partnership, Dividend Outlook and 2026 Catalysts (Dec. 21, 2025)"
+            "text": "Flputnam Investment Management Co. Buys 25,173 Shares of Lam Research Corporation $LRCX"
         }
     ]
 }
