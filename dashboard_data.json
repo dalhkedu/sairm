@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-21 23:21 UTC",
+        "last_updated": "2025-12-22 02:00 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.99,
-            "change": "-0.48%"
+            "change": "-0.02%"
         },
         {
             "symbol": "AMD",
             "price": 213.43,
-            "change": "-0.05%"
+            "change": "-2.02%"
         },
         {
             "symbol": "MSFT",
             "price": 485.92,
-            "change": "+0.03%"
+            "change": "+3.24%"
         },
         {
             "symbol": "CEG",
             "price": 355.4,
-            "change": "+1.05%"
+            "change": "-0.71%"
         },
         {
             "symbol": "VST",
             "price": 163.03,
-            "change": "+0.66%"
+            "change": "-0.96%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.52,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.5
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.49,
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            23.51,
-            23.73,
-            23.4,
-            22.99,
-            23.21,
-            23.05,
-            23.31,
-            23.38,
-            23.59,
-            24.03,
-            24.32,
-            24.66
+            25.85,
+            25.8,
+            25.34,
+            24.91,
+            25.23,
+            25.17,
+            24.72,
+            24.81,
+            24.92,
+            25.05,
+            25.18,
+            25.36
         ],
         "hsd_history_software": [
-            9.46,
-            9.6,
-            9.7,
-            9.74,
-            9.86,
-            9.87,
-            9.92,
-            9.92,
-            10.06,
-            9.94,
-            9.96,
-            9.96
+            10.19,
+            10.18,
+            10.14,
+            10.22,
+            10.33,
+            10.28,
+            10.14,
+            9.95,
+            9.95,
+            10.09,
+            10.22,
+            10.03
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:34",
+            "time": "01:10",
             "tag": "MERCADO",
-            "text": "Texas Instruments Stock (NASDAQ: TXN) Week Ahead Outlook: New Sherman Fab Starts Production as Wall Street Splits on 2026 Recovery"
+            "text": "Needham Reaffirms Buy on Five9 (FIVN) Following Leadership Transition"
         },
         {
-            "time": "21:09",
-            "tag": "AI",
-            "text": "Why Nvidia maintains its moat and Gemini won\u2019t kill OpenAI"
-        },
-        {
-            "time": "21:08",
+            "time": "01:03",
             "tag": "MERCADO",
-            "text": "If You'd Invested $500 in Netflix stock 10 Years Ago, Here's How Much You'd Have Today"
+            "text": "Nanhua Singapore Becomes Exchange and Clearing Member of ICE Futures Singapore and ICE Clear Singapore"
         },
         {
-            "time": "21:00",
+            "time": "00:19",
             "tag": "MERCADO",
-            "text": "CFOs Speak: Straight Talk From Chevron and a Biotech Pioneer"
+            "text": "Eaton Stock (ETN) Week Ahead: Data Center Power Expansion, Boyd Cooling Deal, and Analyst Targets to Watch (Dec. 22\u201326, 2025)"
         },
         {
-            "time": "20:44",
-            "tag": "AI",
-            "text": "Goldman Sachs (GS) Stock Week Ahead: AI Deal Push, ETF Expansion, and Holiday-Shortened Market Catalysts for Dec. 22\u201326, 2025"
+            "time": "00:08",
+            "tag": "MERCADO",
+            "text": "NXP Semiconductors (NXPI) Stock: Week-Ahead Outlook as Analysts Lift Targets and NXP Winds Down 5G Radio Power"
+        },
+        {
+            "time": "00:07",
+            "tag": "MERCADO",
+            "text": "Analog Devices (ADI) Stock Week Ahead: Holiday-Shortened Trading, Fresh Price-Target Hikes, and Key Catalysts for Dec. 22\u201326, 2025"
         }
     ]
 }
