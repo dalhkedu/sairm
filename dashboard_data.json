@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-22 14:24 UTC",
+        "last_updated": "2025-12-22 15:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 180.99,
-            "change": "+2.11%"
+            "price": 183.63,
+            "change": "-3.28%"
         },
         {
             "symbol": "AMD",
-            "price": 213.43,
-            "change": "-0.28%"
+            "price": 214.4,
+            "change": "-3.44%"
         },
         {
             "symbol": "MSFT",
-            "price": 485.92,
-            "change": "+1.94%"
+            "price": 484.5,
+            "change": "-0.94%"
         },
         {
             "symbol": "CEG",
-            "price": 355.4,
-            "change": "-2.79%"
+            "price": 358.94,
+            "change": "-3.42%"
         },
         {
             "symbol": "VST",
-            "price": 163.03,
-            "change": "-1.52%"
+            "price": 162.47,
+            "change": "+2.34%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.65,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.52,
+            0.51,
+            0.52,
             0.51,
             0.51,
             0.51,
             0.51,
-            0.51
+            0.5,
+            0.51,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.38,
-            25.67,
-            25.33,
-            25.51,
-            26.02,
-            26.17,
-            25.77,
-            26.16,
-            26.29,
-            25.99,
-            25.59,
-            25.18
+            26.83,
+            26.53,
+            26.2,
+            25.82,
+            25.53,
+            25.56,
+            25.44,
+            25.14,
+            24.93,
+            25.32,
+            25.54,
+            25.21
         ],
         "hsd_history_software": [
-            9.78,
-            9.79,
-            9.66,
-            9.72,
-            9.74,
-            9.81,
-            9.93,
-            10.1,
-            10.17,
-            10.29,
-            10.2,
-            10.18
+            10.18,
+            10.0,
+            10.12,
+            9.99,
+            9.9,
+            10.01,
+            10.09,
+            10.24,
+            10.23,
+            10.04,
+            10.13,
+            10.09
         ],
         "rci_data": [
             85.0,
-            18.099
+            18.363
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:02",
+            "time": "14:06",
             "tag": "MERCADO",
-            "text": "Paycom Software, Inc. $PAYC Shares Sold by Riverbridge Partners LLC"
+            "text": "Synopsys, Inc. (SNPS) Shareholders Get Answers in Latest SueWallSt Podcast"
         },
         {
-            "time": "13:02",
+            "time": "14:03",
             "tag": "MERCADO",
-            "text": "Whalen Wealth Management Inc. Purchases 6,052 Shares of Alphabet Inc. $GOOGL"
+            "text": "Abbott earns FDA approval for Volt PFA system for AFib"
         },
         {
-            "time": "13:02",
+            "time": "14:03",
             "tag": "MERCADO",
-            "text": "U.S. Capital Wealth Advisors LLC Invests $1.65 Million in Equinix, Inc. $EQIX"
+            "text": "Tim Schmid shares Johnson & Johnson MedTech\u2019s growth playbook"
         },
         {
-            "time": "13:02",
+            "time": "14:02",
             "tag": "MERCADO",
-            "text": "Voya Investment Management LLC Sells 316,267 Shares of EPAM Systems, Inc. $EPAM"
+            "text": "SalesHood Recognized as a Leader in the 2025 Gartner\u00ae Magic Quadrant\u2122 for Revenue Enablement Platforms"
         },
         {
-            "time": "13:02",
+            "time": "14:01",
             "tag": "MERCADO",
-            "text": "Riverbridge Partners LLC Has $139.99 Million Stock Position in CoStar Group, Inc. $CSGP"
+            "text": "Wall Street Firms Cut Adobe Inc. (ADBE) Price Target but Tout Revenue Growth and Long-term Outlook"
         }
     ]
 }
