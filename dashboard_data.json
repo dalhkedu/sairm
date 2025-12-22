@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-22 03:49 UTC",
+        "last_updated": "2025-12-22 04:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.99,
-            "change": "-0.69%"
+            "change": "-2.63%"
         },
         {
             "symbol": "AMD",
             "price": 213.43,
-            "change": "-2.62%"
+            "change": "+3.07%"
         },
         {
             "symbol": "MSFT",
             "price": 485.92,
-            "change": "+0.69%"
+            "change": "+2.37%"
         },
         {
             "symbol": "CEG",
             "price": 355.4,
-            "change": "+2.03%"
+            "change": "-0.25%"
         },
         {
             "symbol": "VST",
             "price": 163.03,
-            "change": "+2.98%"
+            "change": "+1.07%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.56,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
             0.52,
-            0.53,
-            0.54,
-            0.53,
+            0.52,
             0.52,
             0.51,
             0.51,
+            0.5,
             0.51,
             0.51,
             0.51,
-            0.51
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.0,
-            23.65,
-            23.93,
-            24.4,
-            24.08,
-            24.08,
-            24.39,
-            24.3,
-            24.24,
-            24.6,
-            24.7,
-            24.79
+            24.5,
+            24.04,
+            23.74,
+            24.07,
+            24.09,
+            24.35,
+            24.75,
+            24.85,
+            24.67,
+            24.82,
+            24.43,
+            24.56
         ],
         "hsd_history_software": [
-            10.52,
-            10.55,
-            10.42,
-            10.33,
-            10.22,
-            10.15,
-            10.06,
-            10.03,
-            10.22,
-            10.17,
+            9.4,
+            9.51,
+            9.51,
+            9.51,
+            9.64,
+            9.78,
+            9.92,
+            10.0,
             10.08,
-            9.89
+            10.18,
+            10.1,
+            10.02
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "04:08",
+            "tag": "MERCADO",
+            "text": "Jim Cramer Comments \"We Think That Credo Has One of the Great Growth Stories\""
+        },
+        {
+            "time": "03:28",
+            "tag": "MERCADO",
+            "text": "Starbucks taps Amazon veteran Anand Varadarajan as Global CTO"
+        },
+        {
             "time": "02:45",
             "tag": "MERCADO",
             "text": "Salesforce Stock (NYSE: CRM): Key News, Analyst Forecasts, and What to Watch Before the U.S. Market Opens on Dec. 22, 2025"
@@ -139,16 +149,6 @@
             "time": "02:15",
             "tag": "MERCADO",
             "text": "Cisco (CSCO) Stock: Latest News, Analyst Forecasts, and Key Risks Ahead of the Dec. 22, 2025 Market Open"
-        },
-        {
-            "time": "02:10",
-            "tag": "MERCADO",
-            "text": "Voya Investment Management LLC Acquires 500,059 Shares of JFrog Ltd. $FROG"
-        },
-        {
-            "time": "02:09",
-            "tag": "AI",
-            "text": "Seagate Technology STX Stock Before the December 22, 2025 Market Open: Nasdaq-100 Addition, AI Storage Demand, Analyst Targets, and What to Watch"
         }
     ]
 }
