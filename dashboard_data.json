@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2025-12-22 11:21 UTC",
+        "last_updated": "2025-12-22 12:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.99,
-            "change": "-1.83%"
+            "change": "-2.43%"
         },
         {
             "symbol": "AMD",
             "price": 213.43,
-            "change": "-2.19%"
+            "change": "+1.98%"
         },
         {
             "symbol": "MSFT",
             "price": 485.92,
-            "change": "+2.81%"
+            "change": "+3.25%"
         },
         {
             "symbol": "CEG",
             "price": 355.4,
-            "change": "+0.75%"
+            "change": "-1.25%"
         },
         {
             "symbol": "VST",
             "price": 163.03,
-            "change": "+0.51%"
+            "change": "+2.85%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.55,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
             0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
+            0.48,
+            0.48,
             0.49,
             0.48,
             0.49,
-            0.5
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.47,
-            25.86,
-            26.05,
-            26.32,
-            25.84,
-            25.47,
-            25.66,
-            25.71,
-            25.93,
-            25.53,
+            25.49,
+            25.23,
+            25.36,
+            25.48,
+            25.74,
+            26.08,
+            25.58,
             25.32,
-            24.99
+            24.84,
+            24.36,
+            24.55,
+            24.63
         ],
         "hsd_history_software": [
-            9.76,
-            9.93,
-            10.0,
-            10.0,
-            9.88,
             9.86,
-            10.04,
-            10.1,
-            10.03,
-            9.95,
-            9.94,
-            10.09
+            9.91,
+            9.84,
+            9.97,
+            9.92,
+            9.78,
+            9.89,
+            9.84,
+            9.76,
+            9.89,
+            10.0,
+            9.86
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:06",
+            "time": "12:02",
             "tag": "MERCADO",
-            "text": "Digital Realty Trust, Inc. $DLR Shares Purchased by Assenagon Asset Management S.A."
+            "text": "$22.3 Billion Cold Chain Monitoring Market Outlook, 2030,"
         },
         {
-            "time": "09:04",
-            "tag": "MERCADO",
-            "text": "Congress Asset Management Co. Buys 17,134 Shares of PTC Inc. $PTC"
+            "time": "12:01",
+            "tag": "AI",
+            "text": "TNL Mediagene Announces Early Success in AI Content Licensing Revenue Model via TollBit Marketplace Integration and Strategic Partnership"
         },
         {
-            "time": "09:04",
-            "tag": "MERCADO",
-            "text": "Congress Asset Management Co. Sells 17,198 Shares of Fortinet, Inc. $FTNT"
+            "time": "11:50",
+            "tag": "AI",
+            "text": "Wells Fargo sees nearly 50% upside for Oracle as AI pessimism looks overdone"
         },
         {
-            "time": "08:54",
+            "time": "11:49",
             "tag": "MERCADO",
-            "text": "Assenagon Asset Management S.A. Buys 776,770 Shares of Hello Group Inc. Sponsored ADR $MOMO"
+            "text": "Legacy Wealth Asset Management LLC Invests $1.16 Million in Cadence Design Systems, Inc. $CDNS"
         },
         {
-            "time": "08:49",
+            "time": "11:49",
             "tag": "MERCADO",
-            "text": "Country Club Bank Sells 3,799 Shares of Apple Inc. $AAPL"
+            "text": "Autodesk, Inc. $ADSK Shares Sold by Legacy Wealth Asset Management LLC"
         }
     ]
 }
