@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2025-12-22 16:30 UTC",
+        "last_updated": "2025-12-22 17:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 183.49,
-            "change": "-1.91%"
+            "price": 183.16,
+            "change": "-1.17%"
         },
         {
             "symbol": "AMD",
-            "price": 214.44,
-            "change": "-0.47%"
+            "price": 214.78,
+            "change": "-1.99%"
         },
         {
             "symbol": "MSFT",
-            "price": 485.67,
-            "change": "+1.25%"
+            "price": 485.89,
+            "change": "-1.95%"
         },
         {
             "symbol": "CEG",
-            "price": 357.37,
-            "change": "+3.4%"
+            "price": 358.28,
+            "change": "-3.34%"
         },
         {
             "symbol": "VST",
-            "price": 162.33,
-            "change": "+0.73%"
+            "price": 162.34,
+            "change": "+2.22%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.68,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
+            0.5,
+            0.49,
+            0.49,
             0.49,
             0.5,
             0.5,
             0.5,
-            0.5,
-            0.5,
-            0.51,
             0.5,
             0.51,
             0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            26.3,
-            26.01,
-            26.13,
-            25.69,
-            26.0,
-            26.02,
-            25.71,
-            26.1,
-            25.62,
-            26.11,
-            25.62,
-            25.43
+            25.05,
+            25.18,
+            25.21,
+            24.87,
+            24.57,
+            24.32,
+            24.23,
+            23.95,
+            24.25,
+            24.51,
+            24.52,
+            24.87
         ],
         "hsd_history_software": [
-            10.08,
-            9.93,
-            9.76,
-            9.6,
-            9.58,
-            9.64,
-            9.51,
-            9.69,
-            9.78,
-            9.69,
-            9.74,
-            9.82
+            10.25,
+            10.2,
+            10.13,
+            10.31,
+            10.28,
+            10.13,
+            10.12,
+            10.19,
+            10.31,
+            10.14,
+            10.22,
+            10.16
         ],
         "rci_data": [
             85.0,
-            18.349
+            18.316
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:09",
+            "time": "16:09",
             "tag": "MERCADO",
-            "text": "Uber (UBER) Stock Week Ahead: FTC Uber One Lawsuit Overhang Meets Robotaxi Momentum and Diverging Analyst Targets"
+            "text": "RND Stock Fund Price and Chart \u2014 AMEX:RND"
         },
         {
-            "time": "15:02",
-            "tag": "MERCADO",
-            "text": "4 Cheap Stock Picks We Still Like for 2026"
-        },
-        {
-            "time": "15:00",
+            "time": "16:09",
             "tag": "AI",
-            "text": "Is Boston Scientific (BSX) One of the Best Healthcare AI Stocks to Buy Now?"
+            "text": "|Tilly\u2019s, Inc. Selects Impact Analytics as Strategic AI Partner for Inventory Optimization and Business Intelligence"
         },
         {
-            "time": "15:00",
-            "tag": "MERCADO",
-            "text": "Argus Upgrades AES (AES) to Buy as Data Center Demand Grows"
+            "time": "16:03",
+            "tag": "AI",
+            "text": "AMD Shares Edge Higher On Reports Of Massive Alibaba AI Chip Order"
         },
         {
-            "time": "14:56",
+            "time": "16:02",
+            "tag": "AI",
+            "text": "Morgan Stanley Sees Cisco (CSCO) Benefiting From AI Infrastructure Demand"
+        },
+        {
+            "time": "15:50",
             "tag": "MERCADO",
-            "text": "Morgan Stanley Raises iRhythm (IRTC) PT on MedTech Recovery Outlook"
+            "text": "Microchip (MCHP) Target Up as Mizuho Turns Selective on Chips"
         }
     ]
 }
