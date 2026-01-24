@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-24 20:25 UTC",
+        "last_updated": "2026-01-24 21:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 187.67,
-            "change": "-3.08%"
+            "change": "+1.7%"
         },
         {
             "symbol": "AMD",
             "price": 259.68,
-            "change": "-0.34%"
+            "change": "+2.45%"
         },
         {
             "symbol": "MSFT",
             "price": 465.95,
-            "change": "+1.21%"
+            "change": "-0.2%"
         },
         {
             "symbol": "CEG",
             "price": 289.06,
-            "change": "-2.98%"
+            "change": "+2.6%"
         },
         {
             "symbol": "VST",
             "price": 160.12,
-            "change": "-3.09%"
+            "change": "+0.15%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.53,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.48,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
             0.48,
             0.49,
+            0.48,
             0.49,
-            0.5,
-            0.5,
-            0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            21.82,
-            22.0,
-            22.17,
-            22.36,
-            22.38,
-            22.51,
-            22.71,
-            23.12,
-            23.5,
-            23.88,
-            24.18,
-            24.67
+            24.19,
+            24.07,
+            24.03,
+            24.23,
+            23.9,
+            24.27,
+            24.19,
+            24.48,
+            24.54,
+            24.98,
+            25.48,
+            25.16
         ],
         "hsd_history_software": [
-            10.91,
-            10.73,
-            10.55,
-            10.45,
-            10.48,
-            10.66,
+            10.2,
+            10.18,
+            10.3,
+            10.5,
+            10.53,
+            10.38,
             10.49,
-            10.37,
-            10.39,
-            10.33,
-            10.37,
-            10.19
+            10.38,
+            10.2,
+            10.16,
+            9.97,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "20:43",
+            "tag": "AI",
+            "text": "How Investors Are Reacting To Applied Materials (AMAT) Surging AI Tool Demand And Upbeat Analyst Revisions"
+        },
+        {
+            "time": "20:15",
+            "tag": "MERCADO",
+            "text": "Best Buy Stock Is Quietly Going Off: Is Best Buy Co. Inc. a Sleeper Money Move or Massive Trap?"
+        },
+        {
+            "time": "20:12",
+            "tag": "AI",
+            "text": "Assessing Agilent Technologies (A) Valuation After New AI Slide Scanner Launch In Europe"
+        },
+        {
             "time": "19:01",
             "tag": "MERCADO",
             "text": "My 5 Favorite Stocks to Buy Right Now"
@@ -134,21 +149,6 @@
             "time": "18:58",
             "tag": "MERCADO",
             "text": "Evaluating Silicon Labs (SLAB) Valuation After New Analyst Coverage And Bluetooth Partnership"
-        },
-        {
-            "time": "18:57",
-            "tag": "MERCADO",
-            "text": "Is Coherent\u2019s New Diamond Cooling And Quantum Security Push Altering The Investment Case For COHR?"
-        },
-        {
-            "time": "18:57",
-            "tag": "MERCADO",
-            "text": "$IONQ stock fell 7% this week. Here's what we see in our data."
-        },
-        {
-            "time": "18:41",
-            "tag": "MERCADO",
-            "text": "FFIV INVESTOR ALERT: F5, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit, Robbins Geller Rudman & Dowd LLP Announces"
         }
     ]
 }
