@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-01-24 17:21 UTC",
+        "last_updated": "2026-01-24 18:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 187.67,
-            "change": "-3.44%"
+            "change": "+1.84%"
         },
         {
             "symbol": "AMD",
             "price": 259.68,
-            "change": "+0.82%"
+            "change": "+0.21%"
         },
         {
             "symbol": "MSFT",
             "price": 465.95,
-            "change": "+0.41%"
+            "change": "+3.39%"
         },
         {
             "symbol": "CEG",
             "price": 289.06,
-            "change": "-3.36%"
+            "change": "-1.83%"
         },
         {
             "symbol": "VST",
             "price": 160.12,
-            "change": "+2.94%"
+            "change": "-1.13%"
         }
     ],
     "dashboard_metrics": {
@@ -36,46 +36,46 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.45,
-            0.46,
-            0.46,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
+            0.5,
+            0.5,
             0.49,
+            0.5,
             0.49,
-            0.49
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.77,
-            24.46,
-            24.21,
-            24.63,
-            24.26,
-            24.13,
-            24.09,
-            23.89,
-            24.21,
-            24.43,
-            24.8,
-            24.71
+            25.92,
+            26.4,
+            25.91,
+            25.79,
+            26.1,
+            26.19,
+            26.18,
+            25.79,
+            26.0,
+            25.64,
+            25.16,
+            24.69
         ],
         "hsd_history_software": [
-            9.62,
-            9.58,
-            9.46,
-            9.55,
-            9.56,
-            9.7,
-            9.89,
-            9.93,
-            10.05,
-            10.13,
-            10.13,
-            10.02
+            11.18,
+            11.01,
+            10.95,
+            10.91,
+            10.72,
+            10.56,
+            10.41,
+            10.49,
+            10.49,
+            10.3,
+            10.1,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "17:57",
+            "tag": "MERCADO",
+            "text": "PSCT ETF Jumped 23% Just by Holding Unknown, Small Cap Tech Stocks"
+        },
+        {
+            "time": "17:46",
+            "tag": "MERCADO",
+            "text": "New Era Energy & Digital inks key data center deal \u2013 ICYMI"
+        },
+        {
+            "time": "17:37",
+            "tag": "RESULTADOS",
+            "text": "Assessing Roper Technologies (ROP) Valuation After IntelliTrans DAT Freight Partnership And Earnings Growth Hopes"
+        },
+        {
+            "time": "17:17",
+            "tag": "AI",
+            "text": "The Truth About Yext Inc: Is This \u2018AI Search\u2019 Stock a Hidden Gem or Dead App Walking?"
+        },
+        {
             "time": "16:58",
             "tag": "MERCADO",
             "text": "INVESTOR ALERT: Fermi Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit, Robbins Geller Rudman & Dowd LLP Announces"
-        },
-        {
-            "time": "16:09",
-            "tag": "MERCADO",
-            "text": "SPDR S&P 500 ETF Trust Sees Weekly Outflows Amid Tech Volatility"
-        },
-        {
-            "time": "16:08",
-            "tag": "MERCADO",
-            "text": "Dem-Backed ICE Body Cams Are a Giveaway to Weapons Makers"
-        },
-        {
-            "time": "15:43",
-            "tag": "MERCADO",
-            "text": "Oxbow Advisors LLC Acquires Shares of 8,658 Intuit Inc. $INTU"
-        },
-        {
-            "time": "15:26",
-            "tag": "MERCADO",
-            "text": "Trek Financial LLC Buys New Stake in CoStar Group, Inc. $CSGP"
         }
     ]
 }
