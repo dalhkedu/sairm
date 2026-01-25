@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-25 16:30 UTC",
+        "last_updated": "2026-01-25 17:20 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 187.67,
-            "change": "-0.1%"
+            "change": "+2.1%"
         },
         {
             "symbol": "AMD",
             "price": 259.68,
-            "change": "+1.55%"
+            "change": "-1.83%"
         },
         {
             "symbol": "MSFT",
             "price": 465.95,
-            "change": "-0.19%"
+            "change": "+2.06%"
         },
         {
             "symbol": "CEG",
             "price": 289.06,
-            "change": "-0.87%"
+            "change": "-0.27%"
         },
         {
             "symbol": "VST",
             "price": 160.12,
-            "change": "-1.84%"
+            "change": "-1.26%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.43,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
+            0.5,
+            0.51,
+            0.5,
+            0.51,
             0.52,
             0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.12,
-            24.74,
             24.46,
-            24.65,
-            24.26,
-            24.61,
-            24.71,
-            25.14,
-            24.69,
-            24.65,
-            24.34,
-            24.77
+            24.46,
+            24.37,
+            24.42,
+            24.22,
+            24.6,
+            24.41,
+            24.63,
+            24.58,
+            24.81,
+            24.89,
+            24.57
         ],
         "hsd_history_software": [
-            10.07,
+            9.98,
+            9.81,
+            9.91,
+            10.05,
+            10.14,
+            10.18,
+            10.01,
             10.03,
-            10.21,
-            10.05,
-            10.04,
-            10.06,
-            10.2,
-            10.21,
-            10.05,
-            10.11,
-            9.99,
-            10.16
+            9.84,
+            9.95,
+            9.98,
+            9.94
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "16:57",
+            "tag": "MERCADO",
+            "text": "Precision Trading with Privia Health Group Inc. (PRVA) Risk Zones"
+        },
+        {
+            "time": "16:09",
+            "tag": "MERCADO",
+            "text": "Fortinet Stock in Focus: Can a Cybersecurity Veteran Still Outperform after a Rocky Year?"
+        },
+        {
             "time": "15:29",
             "tag": "MERCADO",
             "text": "What Microchip Technology (MCHP)'s New Power, Vision and Defense Chips Push Means For Shareholders"
@@ -139,16 +149,6 @@
             "time": "14:28",
             "tag": "MERCADO",
             "text": "Hecla Mining, Moderna, And Micron Are Among the Top 10 Large-Cap Gainers Last Week (Jan. 19-Jan. 23): Are the Others in Your Portfolio?"
-        },
-        {
-            "time": "14:17",
-            "tag": "MERCADO",
-            "text": "FactSet Research: The Quiet Powerhouse Rewiring How Wall Street Actually Works"
-        },
-        {
-            "time": "13:44",
-            "tag": "MERCADO",
-            "text": "Fortinet Stock Rallies as TD Cowen Upgrade Spurs Optimism"
         }
     ]
 }
