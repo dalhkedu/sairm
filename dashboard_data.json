@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-25 15:24 UTC",
+        "last_updated": "2026-01-25 16:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 187.67,
-            "change": "+0.29%"
+            "change": "-0.1%"
         },
         {
             "symbol": "AMD",
             "price": 259.68,
-            "change": "+0.84%"
+            "change": "+1.55%"
         },
         {
             "symbol": "MSFT",
             "price": 465.95,
-            "change": "-3.03%"
+            "change": "-0.19%"
         },
         {
             "symbol": "CEG",
             "price": 289.06,
-            "change": "+0.46%"
+            "change": "-0.87%"
         },
         {
             "symbol": "VST",
             "price": 160.12,
-            "change": "+1.19%"
+            "change": "-1.84%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.64,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
             0.52,
             0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.35,
-            25.33,
-            25.38,
-            25.59,
-            25.99,
-            25.94,
-            25.46,
-            25.03,
-            25.3,
-            25.18,
-            24.82,
-            24.76
+            25.12,
+            24.74,
+            24.46,
+            24.65,
+            24.26,
+            24.61,
+            24.71,
+            25.14,
+            24.69,
+            24.65,
+            24.34,
+            24.77
         ],
         "hsd_history_software": [
-            9.73,
-            9.59,
-            9.54,
-            9.41,
-            9.38,
-            9.45,
-            9.46,
-            9.62,
-            9.54,
-            9.64,
-            9.83,
-            9.89
+            10.07,
+            10.03,
+            10.21,
+            10.05,
+            10.04,
+            10.06,
+            10.2,
+            10.21,
+            10.05,
+            10.11,
+            9.99,
+            10.16
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "15:29",
+            "tag": "MERCADO",
+            "text": "What Microchip Technology (MCHP)'s New Power, Vision and Defense Chips Push Means For Shareholders"
+        },
+        {
+            "time": "15:01",
+            "tag": "MERCADO",
+            "text": "Uber Isn't Dead; Robotaxis Won't Be Winner Takes All (Rating Upgrade)"
+        },
+        {
+            "time": "14:28",
+            "tag": "MERCADO",
+            "text": "Hecla Mining, Moderna, And Micron Are Among the Top 10 Large-Cap Gainers Last Week (Jan. 19-Jan. 23): Are the Others in Your Portfolio?"
+        },
+        {
             "time": "14:17",
             "tag": "MERCADO",
             "text": "FactSet Research: The Quiet Powerhouse Rewiring How Wall Street Actually Works"
@@ -134,21 +149,6 @@
             "time": "13:44",
             "tag": "MERCADO",
             "text": "Fortinet Stock Rallies as TD Cowen Upgrade Spurs Optimism"
-        },
-        {
-            "time": "13:30",
-            "tag": "MERCADO",
-            "text": "Hasbro names Nintendo, Honest Co. executives to its board - Bizwomen"
-        },
-        {
-            "time": "13:23",
-            "tag": "MERCADO",
-            "text": "Whittier Trust Co. Has $33.87 Million Stock Holdings in Oracle Corporation $ORCL"
-        },
-        {
-            "time": "13:22",
-            "tag": "MERCADO",
-            "text": "HP Inc. $HPQ Shares Acquired by Y Intercept Hong Kong Ltd"
         }
     ]
 }
