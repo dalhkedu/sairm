@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-25 07:24 UTC",
+        "last_updated": "2026-01-25 08:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 187.67,
-            "change": "-1.32%"
+            "change": "+1.39%"
         },
         {
             "symbol": "AMD",
             "price": 259.68,
-            "change": "+2.38%"
+            "change": "+2.1%"
         },
         {
             "symbol": "MSFT",
             "price": 465.95,
-            "change": "+2.76%"
+            "change": "-3.22%"
         },
         {
             "symbol": "CEG",
             "price": 289.06,
-            "change": "-1.48%"
+            "change": "-0.63%"
         },
         {
             "symbol": "VST",
             "price": 160.12,
-            "change": "-0.71%"
+            "change": "+1.0%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.67,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.48,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.49
+            0.54,
+            0.55,
+            0.54,
+            0.53,
+            0.52,
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.5,
-            25.49,
-            25.35,
-            25.51,
-            25.9,
-            25.43,
-            25.4,
-            25.87,
-            25.44,
-            25.5,
-            25.2,
-            25.24
+            24.48,
+            24.91,
+            24.5,
+            24.66,
+            24.47,
+            24.76,
+            24.75,
+            24.57,
+            24.21,
+            24.35,
+            24.72,
+            24.67
         ],
         "hsd_history_software": [
-            9.85,
-            10.03,
-            9.85,
-            9.9,
-            9.98,
-            9.93,
-            9.95,
-            9.79,
-            9.74,
-            9.78,
-            9.95,
-            9.94
+            9.96,
+            10.06,
+            10.18,
+            10.24,
+            10.18,
+            10.15,
+            10.25,
+            10.12,
+            10.16,
+            10.31,
+            10.24,
+            10.09
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:53",
-            "tag": "AI",
-            "text": "Equifax (EFX) Valuation Check After Launch Of AI Fraud Product Synthetic Identity Risk"
-        },
-        {
-            "time": "05:34",
+            "time": "08:25",
             "tag": "MERCADO",
-            "text": "Why SEALSQ (LAES) Is Up 7.9% After India Quantum-Safe Chip Center JV Announcement \u2013 And What's Next"
+            "text": "AMF Tjanstepension AB Takes Position in Hewlett Packard Enterprise Company $HPE"
         },
         {
-            "time": "05:23",
-            "tag": "AI",
-            "text": "FTAI Aviation Partners with Palantir for AI-Driven Production, Aiming for 100 Turbines Annually"
-        },
-        {
-            "time": "05:23",
-            "tag": "AI",
-            "text": "FTAI Aviation Partners with Palantir for AI-Driven Power Turbines, Aiming for 100+ Units Annually"
-        },
-        {
-            "time": "04:57",
+            "time": "08:15",
             "tag": "MERCADO",
-            "text": "BofA and Morgan Stanley Lift Corning (GLW) Price Targets"
+            "text": "AMF Tjanstepension AB Decreases Stock Holdings in Western Digital Corporation $WDC"
+        },
+        {
+            "time": "08:09",
+            "tag": "MERCADO",
+            "text": "Cisco Systems, Inc. $CSCO Holdings Decreased by 1834 Investment Advisors Co."
+        },
+        {
+            "time": "07:47",
+            "tag": "MERCADO",
+            "text": "Verizon Communications Inc. (NYSE:VZ) Receives Consensus Rating of \"Moderate Buy\" from Analysts"
+        },
+        {
+            "time": "07:35",
+            "tag": "AI",
+            "text": "Emerson Electric Stock Balances Industrial Grit With AI Ambition As Wall Street Stays Cautiously Bul"
         }
     ]
 }
