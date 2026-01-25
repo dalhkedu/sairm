@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-25 04:15 UTC",
+        "last_updated": "2026-01-25 05:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 187.67,
-            "change": "+1.78%"
+            "change": "+1.38%"
         },
         {
             "symbol": "AMD",
             "price": 259.68,
-            "change": "+1.73%"
+            "change": "-2.26%"
         },
         {
             "symbol": "MSFT",
             "price": 465.95,
-            "change": "+2.29%"
+            "change": "+2.92%"
         },
         {
             "symbol": "CEG",
             "price": 289.06,
-            "change": "-0.91%"
+            "change": "+1.64%"
         },
         {
             "symbol": "VST",
             "price": 160.12,
-            "change": "+1.07%"
+            "change": "-1.99%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.68,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
             0.51,
-            0.51,
+            0.52,
+            0.52,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
             0.51,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            26.0,
-            25.88,
-            26.11,
-            26.2,
-            25.84,
-            25.42,
-            25.43,
-            25.07,
-            24.59,
-            24.39,
-            24.74,
-            25.01
+            25.37,
+            25.78,
+            26.24,
+            26.46,
+            26.09,
+            25.76,
+            25.27,
+            25.29,
+            25.41,
+            25.17,
+            25.29,
+            24.87
         ],
         "hsd_history_software": [
-            9.6,
-            9.76,
-            9.71,
-            9.87,
-            9.83,
-            9.71,
-            9.62,
             9.78,
-            9.68,
-            9.86,
-            9.86,
-            9.84
+            9.8,
+            9.72,
+            9.8,
+            9.99,
+            9.8,
+            9.98,
+            9.85,
+            10.01,
+            10.0,
+            10.18,
+            10.11
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "03:38",
+            "time": "04:48",
             "tag": "MERCADO",
-            "text": "KeyBanc, UBS, and Scotiabank Lower Crown Castle (CCI) Price Targets"
+            "text": "Uber Technologies, Inc. (UBER) Expands Its Reach Across Mobility, Delivery, and Freight"
         },
         {
-            "time": "03:38",
+            "time": "03:56",
+            "tag": "MERCADO",
+            "text": "Wells Fargo upgrades Broadcom (AVGO), Bernstein keeps outperform rating"
+        },
+        {
+            "time": "03:51",
+            "tag": "MERCADO",
+            "text": "How Walmart Inc. Turned Its Everyday Retail Empire Into a High-Tech Commerce Platform"
+        },
+        {
+            "time": "03:40",
+            "tag": "MERCADO",
+            "text": "Bernstein Names AT&T (T) Top Telecom Pick for 2026, Barclays Stays Neutral"
+        },
+        {
+            "time": "03:39",
             "tag": "MERCADO",
             "text": "Barclays and Bernstein Highlight Challenges for Verizon (VZ)"
-        },
-        {
-            "time": "03:38",
-            "tag": "MERCADO",
-            "text": "Analysts Lower T-Mobile (TMUS) Price Targets"
-        },
-        {
-            "time": "03:21",
-            "tag": "MERCADO",
-            "text": "Blackstone backs Applecart at $700m valuation in growth equity deal"
-        },
-        {
-            "time": "03:17",
-            "tag": "MERCADO",
-            "text": "Allstate Corp. Is Rebuilding Insurance for the Algorithmic Age"
         }
     ]
 }
