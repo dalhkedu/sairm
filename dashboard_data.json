@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-25 10:26 UTC",
+        "last_updated": "2026-01-25 11:20 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 187.67,
-            "change": "+0.22%"
+            "change": "-0.37%"
         },
         {
             "symbol": "AMD",
             "price": 259.68,
-            "change": "-1.11%"
+            "change": "+2.25%"
         },
         {
             "symbol": "MSFT",
             "price": 465.95,
-            "change": "-0.04%"
+            "change": "-1.29%"
         },
         {
             "symbol": "CEG",
             "price": 289.06,
-            "change": "-0.08%"
+            "change": "-2.71%"
         },
         {
             "symbol": "VST",
             "price": 160.12,
-            "change": "+1.49%"
+            "change": "-0.99%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.51,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.48,
-            0.49,
             0.49,
             0.5,
-            0.5,
-            0.5,
-            0.5,
             0.51,
-            0.51,
-            0.5
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.61,
-            25.31,
+            25.62,
+            25.9,
             25.58,
-            25.33,
-            25.03,
-            24.95,
-            25.44,
+            25.99,
+            26.19,
+            25.84,
+            25.75,
+            25.6,
             25.13,
-            24.71,
-            24.85,
-            25.16,
-            25.41
+            25.34,
+            25.39,
+            25.1
         ],
         "hsd_history_software": [
-            10.39,
-            10.29,
-            10.34,
-            10.41,
-            10.55,
-            10.48,
-            10.37,
-            10.25,
-            10.28,
-            10.13,
-            10.3,
-            10.18
+            9.91,
+            9.88,
+            9.98,
+            10.09,
+            10.23,
+            10.27,
+            10.18,
+            10.0,
+            10.01,
+            10.06,
+            10.08,
+            9.97
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:46",
+            "time": "10:48",
             "tag": "MERCADO",
-            "text": "CIBC Asset Management Inc Has $100.89 Million Holdings in Cisco Systems, Inc. $CSCO"
+            "text": "Strs Ohio Lowers Position in Fiserv, Inc. $FISV"
         },
         {
-            "time": "09:44",
+            "time": "10:48",
             "tag": "MERCADO",
-            "text": "Capital Investment Counsel Inc Buys New Position in Lam Research Corporation $LRCX"
+            "text": "Strs Ohio Sells 16,985 Shares of Western Digital Corporation $WDC"
         },
         {
-            "time": "09:44",
+            "time": "10:47",
             "tag": "MERCADO",
-            "text": "Intuit Inc. $INTU Shares Bought by CIBC Asset Management Inc"
+            "text": "Strs Ohio Decreases Stake in Cadence Design Systems, Inc. $CDNS"
         },
         {
-            "time": "09:43",
+            "time": "10:47",
             "tag": "MERCADO",
-            "text": "CIBC Asset Management Inc Decreases Stake in Adobe Inc. $ADBE"
+            "text": "Teledyne Technologies Incorporated $TDY Position Lessened by Strs Ohio"
         },
         {
-            "time": "09:43",
+            "time": "10:47",
             "tag": "MERCADO",
-            "text": "Texas Instruments Incorporated $TXN Shares Acquired by CIBC Asset Management Inc"
+            "text": "iA Global Asset Management Inc. Takes Position in AMETEK, Inc. $AME"
         }
     ]
 }
