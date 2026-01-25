@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-01-25 20:28 UTC",
+        "last_updated": "2026-01-25 21:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 187.67,
-            "change": "-0.72%"
+            "change": "+2.5%"
         },
         {
             "symbol": "AMD",
             "price": 259.68,
-            "change": "+1.07%"
+            "change": "-2.96%"
         },
         {
             "symbol": "MSFT",
             "price": 465.95,
-            "change": "-2.99%"
+            "change": "-1.4%"
         },
         {
             "symbol": "CEG",
             "price": 289.06,
-            "change": "+2.86%"
+            "change": "+0.09%"
         },
         {
             "symbol": "VST",
             "price": 160.12,
-            "change": "-0.9%"
+            "change": "+1.2%"
         }
     ],
     "dashboard_metrics": {
@@ -36,46 +36,46 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
             0.5,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.64,
+            25.04,
             24.85,
-            24.82,
-            25.29,
-            25.26,
-            24.87,
-            24.47,
-            24.75,
-            24.82,
-            25.1,
-            25.42,
-            25.23
+            24.48,
+            24.45,
+            24.16,
+            24.11,
+            24.54,
+            25.03,
+            25.22,
+            25.16,
+            25.15,
+            25.18
         ],
         "hsd_history_software": [
-            10.1,
-            9.98,
-            10.18,
-            10.07,
-            10.09,
-            9.98,
-            9.85,
-            9.96,
-            9.92,
-            9.79,
-            9.87,
-            9.89
+            9.83,
+            10.01,
+            10.04,
+            10.02,
+            10.03,
+            10.03,
+            9.89,
+            10.04,
+            10.22,
+            10.02,
+            10.03,
+            10.01
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "20:54",
+            "tag": "MERCADO",
+            "text": "KLA stock price: KLAC steadies after choppy Friday as Jan. 29 earnings loom"
+        },
+        {
+            "time": "19:54",
+            "tag": "RESULTADOS",
+            "text": "Verizon Communications Inc. (VZ) Earnings in Focus as Barclays Questions Telecom Competition Fears"
+        },
+        {
             "time": "19:54",
             "tag": "MERCADO",
             "text": "Key Events to Monitor This Week: Fed Meeting, Apple, Meta, GM, Boeing, Chevron, and Others"
@@ -139,16 +149,6 @@
             "time": "17:27",
             "tag": "MERCADO",
             "text": "TechCrunch Mobility: RIP, Tesla Autopilot, and the NTSB investigates Waymo"
-        },
-        {
-            "time": "17:22",
-            "tag": "MERCADO",
-            "text": "Infosys caps WFO exemption at 5 days a quarter after Wipro & TCS tighten WFH norms"
-        },
-        {
-            "time": "16:57",
-            "tag": "MERCADO",
-            "text": "Precision Trading with Privia Health Group Inc. (PRVA) Risk Zones"
         }
     ]
 }
