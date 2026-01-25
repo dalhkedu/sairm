@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-24 23:23 UTC",
+        "last_updated": "2026-01-25 02:09 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 187.67,
-            "change": "+0.95%"
+            "change": "-3.43%"
         },
         {
             "symbol": "AMD",
             "price": 259.68,
-            "change": "-0.15%"
+            "change": "+2.95%"
         },
         {
             "symbol": "MSFT",
             "price": 465.95,
-            "change": "-2.35%"
+            "change": "-3.0%"
         },
         {
             "symbol": "CEG",
             "price": 289.06,
-            "change": "+0.74%"
+            "change": "-2.53%"
         },
         {
             "symbol": "VST",
             "price": 160.12,
-            "change": "+3.42%"
+            "change": "-2.23%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.68,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
             0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            24.39,
-            24.65,
-            24.32,
-            24.22,
-            24.35,
-            24.12,
-            24.61,
-            24.68,
-            25.0,
+            24.98,
+            25.2,
+            25.24,
+            25.24,
+            25.29,
+            25.55,
+            25.75,
             25.35,
-            25.47,
-            25.47
+            25.41,
+            25.34,
+            25.19,
+            25.39
         ],
         "hsd_history_software": [
-            10.48,
-            10.32,
-            10.14,
+            10.08,
+            10.22,
             10.11,
-            10.05,
-            9.94,
-            10.04,
-            10.01,
-            9.89,
             9.92,
-            9.81,
-            9.82
+            9.96,
+            10.08,
+            9.99,
+            10.07,
+            10.07,
+            9.98,
+            10.14,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:37",
+            "time": "01:55",
             "tag": "MERCADO",
-            "text": "Should You Buy The Metals Company While It's Under $10?"
+            "text": "First Solar stock price: FSLR ends week at $242 after Citi shifts top pick \u2014 what to watch next"
         },
         {
-            "time": "22:19",
-            "tag": "MERCADO",
-            "text": "T-Mobile stock price: TMUS closes higher as $3 billion debt redemption looms"
+            "time": "00:58",
+            "tag": "RESULTADOS",
+            "text": "Ericsson (OM:ERIC B) 12% TTM Margin Surge Tests Bearish Earnings Decline Narrative"
         },
         {
-            "time": "21:58",
+            "time": "00:23",
             "tag": "MERCADO",
-            "text": "Sandisk Stock Shows Why Investing Is Hard"
+            "text": "The Truth About DarioHealth Corp: Is This \u2018Smart Health\u2019 Stock About To Blow Up Or Fade Out?"
         },
         {
-            "time": "21:57",
-            "tag": "MERCADO",
-            "text": "Deeper Google Cloud Integration and Marketplace Access Could Be A Game Changer For Five9 (FIVN)"
-        },
-        {
-            "time": "21:55",
+            "time": "23:57",
             "tag": "AI",
-            "text": "FIS Bets On Agentic Commerce To Reframe Its AI Payments Story"
+            "text": "ServiceNow Recasts AI Strategy With OpenAI Agents And Partner Ecosystem"
+        },
+        {
+            "time": "23:56",
+            "tag": "MERCADO",
+            "text": "Jim Cramer on Micron: \u201cIt Could Be Worth Buying Even Up Here, You Know, If It\u2019s Down For a Day\u201d"
         }
     ]
 }
