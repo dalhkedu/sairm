@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-25 14:22 UTC",
+        "last_updated": "2026-01-25 15:24 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 187.67,
-            "change": "-2.08%"
+            "change": "+0.29%"
         },
         {
             "symbol": "AMD",
             "price": 259.68,
-            "change": "-2.06%"
+            "change": "+0.84%"
         },
         {
             "symbol": "MSFT",
             "price": 465.95,
-            "change": "-2.78%"
+            "change": "-3.03%"
         },
         {
             "symbol": "CEG",
             "price": 289.06,
-            "change": "-2.64%"
+            "change": "+0.46%"
         },
         {
             "symbol": "VST",
             "price": 160.12,
-            "change": "+0.03%"
+            "change": "+1.19%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.49,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.49,
+            0.52,
+            0.51,
             0.5,
             0.5,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
             0.5,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.49
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.12,
-            25.9,
-            25.62,
-            25.43,
-            25.82,
-            25.51,
-            25.19,
-            25.54,
-            25.83,
-            25.77,
-            25.31,
-            25.37
+            25.35,
+            25.33,
+            25.38,
+            25.59,
+            25.99,
+            25.94,
+            25.46,
+            25.03,
+            25.3,
+            25.18,
+            24.82,
+            24.76
         ],
         "hsd_history_software": [
-            9.5,
-            9.43,
-            9.33,
-            9.29,
-            9.48,
-            9.52,
-            9.46,
+            9.73,
+            9.59,
+            9.54,
+            9.41,
+            9.38,
+            9.45,
             9.46,
             9.62,
-            9.66,
-            9.73,
-            9.86
+            9.54,
+            9.64,
+            9.83,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "14:17",
+            "tag": "MERCADO",
+            "text": "FactSet Research: The Quiet Powerhouse Rewiring How Wall Street Actually Works"
+        },
+        {
+            "time": "13:44",
+            "tag": "MERCADO",
+            "text": "Fortinet Stock Rallies as TD Cowen Upgrade Spurs Optimism"
+        },
+        {
+            "time": "13:30",
+            "tag": "MERCADO",
+            "text": "Hasbro names Nintendo, Honest Co. executives to its board - Bizwomen"
+        },
+        {
             "time": "13:23",
             "tag": "MERCADO",
             "text": "Whittier Trust Co. Has $33.87 Million Stock Holdings in Oracle Corporation $ORCL"
@@ -134,21 +149,6 @@
             "time": "13:22",
             "tag": "MERCADO",
             "text": "HP Inc. $HPQ Shares Acquired by Y Intercept Hong Kong Ltd"
-        },
-        {
-            "time": "13:21",
-            "tag": "MERCADO",
-            "text": "Y Intercept Hong Kong Ltd Buys New Shares in Tyler Technologies, Inc. $TYL"
-        },
-        {
-            "time": "13:21",
-            "tag": "MERCADO",
-            "text": "Y Intercept Hong Kong Ltd Acquires New Position in Texas Instruments Incorporated $TXN"
-        },
-        {
-            "time": "13:21",
-            "tag": "MERCADO",
-            "text": "Y Intercept Hong Kong Ltd Boosts Stock Position in Skyworks Solutions, Inc. $SWKS"
         }
     ]
 }
