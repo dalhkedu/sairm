@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-25 09:25 UTC",
+        "last_updated": "2026-01-25 10:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 187.67,
-            "change": "-1.84%"
+            "change": "+0.22%"
         },
         {
             "symbol": "AMD",
             "price": 259.68,
-            "change": "-0.33%"
+            "change": "-1.11%"
         },
         {
             "symbol": "MSFT",
             "price": 465.95,
-            "change": "+3.34%"
+            "change": "-0.04%"
         },
         {
             "symbol": "CEG",
             "price": 289.06,
-            "change": "+0.54%"
+            "change": "-0.08%"
         },
         {
             "symbol": "VST",
             "price": 160.12,
-            "change": "-0.25%"
+            "change": "+1.49%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.57,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.49
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.76,
-            26.14,
-            26.05,
-            25.72,
-            25.97,
-            25.83,
-            25.46,
+            25.61,
+            25.31,
+            25.58,
+            25.33,
+            25.03,
+            24.95,
             25.44,
-            25.44,
-            25.43,
-            25.86,
-            25.37
+            25.13,
+            24.71,
+            24.85,
+            25.16,
+            25.41
         ],
         "hsd_history_software": [
-            10.86,
-            10.7,
-            10.7,
-            10.63,
-            10.8,
-            10.59,
+            10.39,
+            10.29,
+            10.34,
+            10.41,
             10.55,
-            10.62,
-            10.61,
-            10.49,
+            10.48,
+            10.37,
+            10.25,
+            10.28,
+            10.13,
             10.3,
-            10.09
+            10.18
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:51",
+            "time": "09:46",
             "tag": "MERCADO",
-            "text": "QUALCOMM Incorporated $QCOM Shares Sold by Biltmore Family Office LLC"
+            "text": "CIBC Asset Management Inc Has $100.89 Million Holdings in Cisco Systems, Inc. $CSCO"
         },
         {
-            "time": "08:51",
+            "time": "09:44",
             "tag": "MERCADO",
-            "text": "NVIDIA Corporation $NVDA is Duncker Streett & Co. Inc.'s 4th Largest Position"
+            "text": "Capital Investment Counsel Inc Buys New Position in Lam Research Corporation $LRCX"
         },
         {
-            "time": "08:51",
+            "time": "09:44",
             "tag": "MERCADO",
-            "text": "First Merchants Corp Decreases Stock Holdings in Microsoft Corporation $MSFT"
+            "text": "Intuit Inc. $INTU Shares Bought by CIBC Asset Management Inc"
         },
         {
-            "time": "08:51",
+            "time": "09:43",
             "tag": "MERCADO",
-            "text": "Bogart Wealth LLC Has $28.94 Million Stock Holdings in Alphabet Inc. $GOOGL"
+            "text": "CIBC Asset Management Inc Decreases Stake in Adobe Inc. $ADBE"
         },
         {
-            "time": "08:40",
+            "time": "09:43",
             "tag": "MERCADO",
-            "text": "Cisco Systems, Inc. $CSCO Shares Sold by Baillie Gifford & Co."
+            "text": "Texas Instruments Incorporated $TXN Shares Acquired by CIBC Asset Management Inc"
         }
     ]
 }
