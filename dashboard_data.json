@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-01-26 17:33 UTC",
+        "last_updated": "2026-01-26 18:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 186.51,
-            "change": "-2.91%"
+            "price": 186.68,
+            "change": "+2.38%"
         },
         {
             "symbol": "AMD",
-            "price": 253.37,
-            "change": "-0.23%"
+            "price": 253.31,
+            "change": "-2.92%"
         },
         {
             "symbol": "MSFT",
-            "price": 472.55,
-            "change": "-3.08%"
+            "price": 472.79,
+            "change": "+3.15%"
         },
         {
             "symbol": "CEG",
-            "price": 285.93,
-            "change": "+3.28%"
+            "price": 285.64,
+            "change": "-1.27%"
         },
         {
             "symbol": "VST",
-            "price": 161.26,
-            "change": "-1.03%"
+            "price": 160.25,
+            "change": "-0.11%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.48,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.52,
-            0.52,
             0.51,
-            0.51,
-            0.52,
             0.51,
             0.51,
             0.5,
+            0.49,
+            0.49,
             0.5,
-            0.5
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.0,
-            24.37,
-            24.2,
-            24.5,
-            24.74,
-            25.16,
-            24.87,
-            24.8,
-            24.94,
-            25.31,
-            25.49,
-            25.07
+            24.41,
+            24.21,
+            24.43,
+            24.6,
+            24.84,
+            24.41,
+            24.82,
+            25.18,
+            25.22,
+            25.51,
+            25.44,
+            25.19
         ],
         "hsd_history_software": [
-            10.18,
-            10.35,
-            10.26,
-            10.06,
-            9.89,
-            9.8,
-            9.91,
-            9.87,
-            9.74,
-            9.83,
-            9.87,
-            9.81
+            9.53,
+            9.55,
+            9.57,
+            9.72,
+            9.67,
+            9.71,
+            9.86,
+            10.01,
+            10.21,
+            10.3,
+            10.2,
+            10.13
         ],
         "rci_data": [
             85.0,
-            18.651
+            18.668000000000003
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:39",
-            "tag": "MERCADO",
-            "text": "USA Rare Earth, CoreWeave, Micron, Intel, Newmont, IonQ, Sarepta, and More Market Movers"
+            "time": "17:54",
+            "tag": "RESULTADOS",
+            "text": "Coherent\u2019s Upcoming Earnings: A Key Test for AI-Driven Growth"
         },
         {
-            "time": "16:36",
-            "tag": "MERCADO",
-            "text": "Wisconsin Technology Council: Rima Alaily, corporate VP of Microsoft, featured at Feb. 5 joint luncheon discussion in Madison"
-        },
-        {
-            "time": "16:31",
-            "tag": "MERCADO",
-            "text": "Alphabet Class C (GOOG) stock price today: What\u2019s moving Google shares ahead of the Fed and earnings"
-        },
-        {
-            "time": "16:27",
+            "time": "17:52",
             "tag": "AI",
-            "text": "Envirotech Vehicles, AZIO AI announce installation of AI data center container"
+            "text": "Wells Fargo Appoints AWS Exec Faraz Shafiq as Head of AI Products and Solutions"
         },
         {
-            "time": "16:26",
+            "time": "17:28",
             "tag": "MERCADO",
-            "text": "Micron Technology Stock Slips on Nvidia-Samsung Supply Deal"
+            "text": "Sarepta Therapeutics, Lands' End, USA Rare Earth, CoreWeave And Other Big Stocks Moving Higher On Monday"
+        },
+        {
+            "time": "16:58",
+            "tag": "MERCADO",
+            "text": "Kratos Expands Hypersonic Infrastructure as VisionWave Unveils Space-Based Counter-UAS Architecture"
+        },
+        {
+            "time": "16:58",
+            "tag": "MERCADO",
+            "text": "3 Durable Stocks to Buy Now for the Long Term"
         }
     ]
 }
