@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-26 22:26 UTC",
+        "last_updated": "2026-01-26 23:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 186.47,
-            "change": "+0.52%"
+            "change": "+3.07%"
         },
         {
             "symbol": "AMD",
             "price": 251.31,
-            "change": "-0.99%"
+            "change": "+3.29%"
         },
         {
             "symbol": "MSFT",
             "price": 470.28,
-            "change": "+0.1%"
+            "change": "-2.71%"
         },
         {
             "symbol": "CEG",
             "price": 285.27,
-            "change": "-2.82%"
+            "change": "-2.79%"
         },
         {
             "symbol": "VST",
             "price": 158.81,
-            "change": "-0.27%"
+            "change": "-1.96%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.48,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.54,
+            0.53,
+            0.52,
+            0.52,
             0.52,
             0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            25.41,
-            25.45,
-            25.09,
-            24.95,
-            25.04,
-            25.16,
-            25.18,
-            25.0,
-            25.02,
-            24.73,
-            25.09,
-            24.81
+            23.98,
+            24.06,
+            24.01,
+            23.61,
+            23.58,
+            24.02,
+            24.1,
+            24.05,
+            24.06,
+            24.54,
+            24.27,
+            24.53
         ],
         "hsd_history_software": [
-            10.25,
             10.15,
-            10.2,
-            10.04,
-            10.01,
-            10.14,
             10.22,
-            10.05,
+            10.33,
             10.16,
-            10.0,
-            9.93,
-            9.95
+            10.13,
+            10.03,
+            10.04,
+            9.98,
+            10.07,
+            10.06,
+            9.97,
+            10.14
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:14",
+            "time": "22:22",
             "tag": "MERCADO",
-            "text": "T. Rowe Price backs Cyclic Materials, Zocks' $45m, and Nvidia's CoreWeave deal"
+            "text": "Alphabet (NASDAQ:GOOGL) Trading Up 1.6% After Analyst Upgrade"
         },
         {
-            "time": "21:09",
+            "time": "22:18",
             "tag": "MERCADO",
-            "text": "Why Cisco (CSCO) Stock Is Trading Up Today"
+            "text": "Did BlackRock Build A New Floor for Archer's Stock Price?"
         },
         {
-            "time": "21:06",
-            "tag": "AI",
-            "text": "AI Bubble Fears Have Sharply Discounted Oracle Stock - Oracle (NYSE:ORCL)"
+            "time": "22:09",
+            "tag": "MERCADO",
+            "text": "Teradyne (TER) Maintains Quarterly Dividend of $0.12 Per Share"
         },
         {
-            "time": "21:03",
+            "time": "21:58",
             "tag": "MERCADO",
-            "text": "AMD (AMD) Stock Trades Down, Here Is Why"
+            "text": "Adeia appoints new executives to strengthen growth strategy"
         },
         {
-            "time": "20:43",
+            "time": "21:50",
             "tag": "MERCADO",
-            "text": "U Power stock soars after launching tokenized assets on BNB Chain"
+            "text": "Seagate Technology stock price jumps ahead of Jan. 27 earnings; STX tops $370 intraday"
         }
     ]
 }
