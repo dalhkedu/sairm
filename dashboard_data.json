@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-26 05:34 UTC",
+        "last_updated": "2026-01-26 06:42 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 187.67,
-            "change": "-2.86%"
+            "change": "+1.47%"
         },
         {
             "symbol": "AMD",
             "price": 259.68,
-            "change": "-2.15%"
+            "change": "+0.19%"
         },
         {
             "symbol": "MSFT",
             "price": 465.95,
-            "change": "-1.36%"
+            "change": "-1.58%"
         },
         {
             "symbol": "CEG",
             "price": 289.06,
-            "change": "-3.3%"
+            "change": "+0.34%"
         },
         {
             "symbol": "VST",
             "price": 160.12,
-            "change": "-1.09%"
+            "change": "-2.99%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.43,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
             0.51,
             0.5,
             0.51,
-            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            27.15,
-            27.15,
-            26.65,
-            26.18,
-            26.37,
-            25.91,
-            25.53,
-            25.25,
-            25.11,
-            25.47,
-            25.04,
-            25.29
+            27.53,
+            27.25,
+            26.88,
+            26.77,
+            26.79,
+            26.5,
+            26.48,
+            26.12,
+            26.32,
+            26.02,
+            25.77,
+            25.4
         ],
         "hsd_history_software": [
-            9.88,
-            9.82,
-            9.96,
-            10.15,
-            10.33,
-            10.28,
-            10.37,
-            10.45,
-            10.26,
-            10.12,
-            10.28,
-            10.16
+            10.32,
+            10.35,
+            10.43,
+            10.23,
+            10.16,
+            10.09,
+            10.13,
+            10.17,
+            10.11,
+            10.0,
+            9.99,
+            9.96
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "06:17",
+            "tag": "RESULTADOS",
+            "text": "Equities Analysts Set Expectations for FIS FY2025 Earnings"
+        },
+        {
+            "time": "06:12",
+            "tag": "MERCADO",
+            "text": "Will Analyst Support and Q3 2026 Outlook Shift Gen Digital's (GEN) Consumer Cybersecurity Narrative?"
+        },
+        {
+            "time": "05:29",
+            "tag": "MERCADO",
+            "text": "Nvidia Corporation (NVDA) RBC Capital Forecasts Almost 30% Upside"
+        },
+        {
             "time": "04:13",
             "tag": "RESULTADOS",
             "text": "Seagate Technology (STX) Q4 Earnings: What To Expect"
@@ -134,21 +149,6 @@
             "time": "04:04",
             "tag": "RESULTADOS",
             "text": "Earnings to watch: F5 (FFIV) reports Q4 results tomorrow"
-        },
-        {
-            "time": "03:43",
-            "tag": "RESULTADOS",
-            "text": "A Look At State Street (STT) Valuation After Q4 Earnings Beat And Growing Digital Fee Revenues"
-        },
-        {
-            "time": "03:26",
-            "tag": "MERCADO",
-            "text": "Nvidia Supply Deal In Crosshairs, Samsung Set To Start HBM4 Chip Production Next Month As Korean Giant Takes On SK Hynix: Report"
-        },
-        {
-            "time": "03:15",
-            "tag": "RESULTADOS",
-            "text": "What To Expect From Texas Instruments's (TXN) Q4 Earnings"
         }
     ]
 }
