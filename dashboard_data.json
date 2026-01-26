@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-26 02:09 UTC",
+        "last_updated": "2026-01-26 04:17 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 187.67,
-            "change": "+0.79%"
+            "change": "+0.23%"
         },
         {
             "symbol": "AMD",
             "price": 259.68,
-            "change": "-3.46%"
+            "change": "+2.08%"
         },
         {
             "symbol": "MSFT",
             "price": 465.95,
-            "change": "+1.77%"
+            "change": "-2.57%"
         },
         {
             "symbol": "CEG",
             "price": 289.06,
-            "change": "-2.98%"
+            "change": "+0.92%"
         },
         {
             "symbol": "VST",
             "price": 160.12,
-            "change": "-0.24%"
+            "change": "+2.55%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.65,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.53,
-            0.53,
-            0.52,
-            0.51,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
             0.49,
             0.49,
-            0.5
+            0.49,
+            0.48,
+            0.49,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.09,
-            24.32,
-            24.55,
-            24.63,
-            24.19,
-            24.62,
-            24.29,
-            24.57,
-            24.66,
-            24.99,
+            25.01,
+            25.01,
+            25.22,
+            25.31,
+            25.39,
+            25.69,
+            25.75,
+            25.55,
+            25.06,
+            24.81,
             25.18,
-            24.93
+            25.21
         ],
         "hsd_history_software": [
-            10.54,
-            10.44,
-            10.26,
-            10.09,
-            10.13,
-            10.06,
-            9.93,
-            9.98,
-            9.95,
-            10.08,
+            10.31,
+            10.19,
+            10.33,
+            10.21,
             10.2,
-            10.02
+            10.09,
+            10.01,
+            9.99,
+            10.18,
+            10.19,
+            10.04,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:58",
-            "tag": "MERCADO",
-            "text": "TripAdvisor\u2019s Stock Takes a Breather: Is TRIP a Value Play or a Value Trap?"
+            "time": "03:43",
+            "tag": "RESULTADOS",
+            "text": "A Look At State Street (STT) Valuation After Q4 Earnings Beat And Growing Digital Fee Revenues"
         },
         {
-            "time": "00:58",
-            "tag": "MERCADO",
-            "text": "|Arrow Electronics, Inc. (ARW) Partners With .Lumen"
+            "time": "03:15",
+            "tag": "RESULTADOS",
+            "text": "What To Expect From Texas Instruments's (TXN) Q4 Earnings"
         },
         {
-            "time": "23:58",
+            "time": "03:10",
             "tag": "MERCADO",
-            "text": "The Truth About Tencent Music Entertainment: Is This Chinese Streaming Giant About To Go Mega-Viral"
+            "text": "HP Inc. Stock: Quiet Rally, Loud Questions \u2013 Can This PC Giant Keep Surprising Wall Street?"
         },
         {
-            "time": "23:58",
-            "tag": "MERCADO",
-            "text": "Halliburton and A*STAR Launch S$35 Million NEX Lab for Energy Innovations"
+            "time": "03:09",
+            "tag": "RESULTADOS",
+            "text": "Earnings To Watch: F5 (FFIV) Reports Q4 Results Tomorrow"
         },
         {
-            "time": "23:28",
+            "time": "02:50",
             "tag": "MERCADO",
-            "text": "Salesforce tries to keep a lid on \u2018agentic sprawl\u2019 through MuleSoft Agent Fabric"
+            "text": "Mosaic Company: Can a Fertilizer Giant Be a Technology Product in Its Own Right?"
         }
     ]
 }
