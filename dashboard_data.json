@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-26 11:24 UTC",
+        "last_updated": "2026-01-26 12:56 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 187.67,
-            "change": "+1.09%"
+            "change": "-2.98%"
         },
         {
             "symbol": "AMD",
             "price": 259.68,
-            "change": "+1.27%"
+            "change": "-2.66%"
         },
         {
             "symbol": "MSFT",
             "price": 465.95,
-            "change": "-0.02%"
+            "change": "+1.03%"
         },
         {
             "symbol": "CEG",
             "price": 289.06,
-            "change": "+0.07%"
+            "change": "+0.39%"
         },
         {
             "symbol": "VST",
             "price": 160.12,
-            "change": "+2.23%"
+            "change": "-1.3%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.58,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
+            0.47,
+            0.48,
+            0.47,
             0.48,
             0.49,
             0.49,
             0.48,
             0.48,
-            0.48,
-            0.48,
             0.49,
-            0.49,
+            0.5,
+            0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            24.79,
-            24.53,
-            24.66,
-            24.51,
-            25.0,
-            25.13,
-            25.05,
-            25.22,
-            25.17,
-            25.22,
-            25.41,
-            25.14
+            24.19,
+            23.96,
+            24.3,
+            24.04,
+            23.75,
+            24.16,
+            24.62,
+            24.54,
+            25.02,
+            25.35,
+            24.86,
+            25.06
         ],
         "hsd_history_software": [
-            9.15,
-            9.26,
-            9.44,
-            9.44,
-            9.49,
-            9.49,
-            9.45,
-            9.35,
-            9.5,
-            9.51,
+            9.86,
             9.68,
-            9.83
+            9.57,
+            9.71,
+            9.85,
+            9.99,
+            9.97,
+            9.99,
+            9.98,
+            9.98,
+            9.8,
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:47",
+            "time": "11:51",
             "tag": "MERCADO",
-            "text": "Red Cat Shares Retreat Following Record Rally"
+            "text": "MarketAxess Elects New Board Members"
         },
         {
-            "time": "10:18",
+            "time": "11:47",
             "tag": "MERCADO",
-            "text": "Microsoft Corporation $MSFT Holdings Cut by Securian Asset Management Inc."
+            "text": "CSCO: Evercore ISI Upgrades Cisco Systems with Raised Price Targ"
         },
         {
-            "time": "10:18",
+            "time": "11:45",
             "tag": "MERCADO",
-            "text": "Microsoft Corporation $MSFT is New Century Financial Group LLC's 8th Largest Position"
+            "text": "Mitsubishi UFJ Trust & Banking Corp Grows Stock Position in Best Buy Co., Inc. $BBY"
         },
         {
-            "time": "10:18",
+            "time": "11:44",
             "tag": "MERCADO",
-            "text": "Microsoft Corporation $MSFT is KLP Kapitalforvaltning AS's 3rd Largest Position"
+            "text": "HP Inc. $HPQ Shares Bought by Mitsubishi UFJ Trust & Banking Corp"
         },
         {
-            "time": "10:18",
+            "time": "11:43",
             "tag": "MERCADO",
-            "text": "Hewlett Packard Enterprise Company $HPE Shares Sold by SG Americas Securities LLC"
+            "text": "Resona Asset Management Co. Ltd. Lowers Position in Seagate Technology Holdings PLC $STX"
         }
     ]
 }
