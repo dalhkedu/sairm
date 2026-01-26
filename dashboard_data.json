@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-01-26 16:38 UTC",
+        "last_updated": "2026-01-26 17:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 186.87,
-            "change": "-2.69%"
+            "price": 186.51,
+            "change": "-2.91%"
         },
         {
             "symbol": "AMD",
-            "price": 253.26,
-            "change": "-1.24%"
+            "price": 253.37,
+            "change": "-0.23%"
         },
         {
             "symbol": "MSFT",
-            "price": 472.3,
-            "change": "-2.99%"
+            "price": 472.55,
+            "change": "-3.08%"
         },
         {
             "symbol": "CEG",
-            "price": 287.07,
-            "change": "-2.61%"
+            "price": 285.93,
+            "change": "+3.28%"
         },
         {
             "symbol": "VST",
-            "price": 161.9,
-            "change": "-0.39%"
+            "price": 161.26,
+            "change": "-1.03%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.61,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.49,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
             0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.56,
-            25.96,
-            25.74,
-            25.29,
-            25.42,
-            25.9,
-            25.51,
-            25.26,
-            25.09,
-            24.62,
-            25.02,
-            24.66
+            24.0,
+            24.37,
+            24.2,
+            24.5,
+            24.74,
+            25.16,
+            24.87,
+            24.8,
+            24.94,
+            25.31,
+            25.49,
+            25.07
         ],
         "hsd_history_software": [
-            10.76,
-            10.59,
-            10.8,
-            10.87,
-            10.66,
-            10.53,
-            10.62,
-            10.44,
-            10.32,
-            10.25,
+            10.18,
+            10.35,
+            10.26,
             10.06,
-            10.18
+            9.89,
+            9.8,
+            9.91,
+            9.87,
+            9.74,
+            9.83,
+            9.87,
+            9.81
         ],
         "rci_data": [
             85.0,
-            18.687
+            18.651
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "16:39",
+            "tag": "MERCADO",
+            "text": "USA Rare Earth, CoreWeave, Micron, Intel, Newmont, IonQ, Sarepta, and More Market Movers"
+        },
+        {
+            "time": "16:36",
+            "tag": "MERCADO",
+            "text": "Wisconsin Technology Council: Rima Alaily, corporate VP of Microsoft, featured at Feb. 5 joint luncheon discussion in Madison"
+        },
+        {
+            "time": "16:31",
+            "tag": "MERCADO",
+            "text": "Alphabet Class C (GOOG) stock price today: What\u2019s moving Google shares ahead of the Fed and earnings"
+        },
+        {
+            "time": "16:27",
+            "tag": "AI",
+            "text": "Envirotech Vehicles, AZIO AI announce installation of AI data center container"
+        },
+        {
             "time": "16:26",
             "tag": "MERCADO",
             "text": "Micron Technology Stock Slips on Nvidia-Samsung Supply Deal"
-        },
-        {
-            "time": "16:05",
-            "tag": "MERCADO",
-            "text": "Intuitive\u2019s cardiac initiative includes valve repair, LAA closure"
-        },
-        {
-            "time": "16:03",
-            "tag": "AI",
-            "text": "Microsoft Unveils Latest AI Chip to Reduce Reliance on Nvidia"
-        },
-        {
-            "time": "15:59",
-            "tag": "MERCADO",
-            "text": "Local e-commerce platform raises US$258 million"
-        },
-        {
-            "time": "15:55",
-            "tag": "MERCADO",
-            "text": "Brokers Suggest Investing in Micron (MU): Read This Before Placing a Bet"
         }
     ]
 }
