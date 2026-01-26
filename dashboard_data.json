@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-25 23:23 UTC",
+        "last_updated": "2026-01-26 02:09 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 187.67,
-            "change": "+3.49%"
+            "change": "+0.79%"
         },
         {
             "symbol": "AMD",
             "price": 259.68,
-            "change": "+1.56%"
+            "change": "-3.46%"
         },
         {
             "symbol": "MSFT",
             "price": 465.95,
-            "change": "+3.09%"
+            "change": "+1.77%"
         },
         {
             "symbol": "CEG",
             "price": 289.06,
-            "change": "+2.26%"
+            "change": "-2.98%"
         },
         {
             "symbol": "VST",
             "price": 160.12,
-            "change": "+2.13%"
+            "change": "-0.24%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.59,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.54,
+            0.53,
+            0.53,
+            0.52,
+            0.51,
+            0.5,
+            0.51,
             0.5,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
+            24.09,
+            24.32,
             24.55,
-            24.15,
+            24.63,
+            24.19,
+            24.62,
+            24.29,
             24.57,
-            24.58,
-            24.7,
-            24.26,
-            23.9,
-            23.82,
-            23.92,
-            24.13,
-            24.27,
-            24.74
+            24.66,
+            24.99,
+            25.18,
+            24.93
         ],
         "hsd_history_software": [
-            10.4,
-            10.3,
+            10.54,
+            10.44,
+            10.26,
+            10.09,
             10.13,
+            10.06,
+            9.93,
+            9.98,
             9.95,
-            9.83,
-            9.97,
-            10.15,
-            10.03,
             10.08,
-            9.96,
-            9.92,
-            9.9
+            10.2,
+            10.02
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:58",
-            "tag": "AI",
-            "text": "Assessing Bitfarms (TSX:BITF) Valuation As It Exits Latin America To Pursue North American AI Growth"
-        },
-        {
-            "time": "22:52",
+            "time": "01:58",
             "tag": "MERCADO",
-            "text": "TE Connectivity stock: What to watch after TEL\u2019s Friday drop as Wall Street lifts targets"
+            "text": "TripAdvisor\u2019s Stock Takes a Breather: Is TRIP a Value Play or a Value Trap?"
         },
         {
-            "time": "22:29",
-            "tag": "RESULTADOS",
-            "text": "Assessing Maplebear (CART) Valuation As Mixed Analyst Updates And Earnings Outlook Draw Fresh Attention"
-        },
-        {
-            "time": "22:06",
+            "time": "00:58",
             "tag": "MERCADO",
-            "text": "Texas Instruments stock slips into earnings week \u2014 what TXN investors watch next"
+            "text": "|Arrow Electronics, Inc. (ARW) Partners With .Lumen"
         },
         {
-            "time": "21:48",
+            "time": "23:58",
             "tag": "MERCADO",
-            "text": "KLA stock week-ahead: KLAC steadies near $1,500 as earnings, Fed loom"
+            "text": "The Truth About Tencent Music Entertainment: Is This Chinese Streaming Giant About To Go Mega-Viral"
+        },
+        {
+            "time": "23:58",
+            "tag": "MERCADO",
+            "text": "Halliburton and A*STAR Launch S$35 Million NEX Lab for Energy Innovations"
+        },
+        {
+            "time": "23:28",
+            "tag": "MERCADO",
+            "text": "Salesforce tries to keep a lid on \u2018agentic sprawl\u2019 through MuleSoft Agent Fabric"
         }
     ]
 }
