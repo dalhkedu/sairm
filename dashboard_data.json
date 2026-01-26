@@ -1,43 +1,42 @@
 {
     "metadata": {
-        "last_updated": "2026-01-26 07:31 UTC",
+        "last_updated": "2026-01-26 08:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 187.67,
-            "change": "+0.15%"
+            "change": "+1.99%"
         },
         {
             "symbol": "AMD",
             "price": 259.68,
-            "change": "-1.43%"
+            "change": "+3.11%"
         },
         {
             "symbol": "MSFT",
             "price": 465.95,
-            "change": "+2.07%"
+            "change": "+3.32%"
         },
         {
             "symbol": "CEG",
             "price": 289.06,
-            "change": "+1.37%"
+            "change": "+1.68%"
         },
         {
             "symbol": "VST",
             "price": 160.12,
-            "change": "-2.94%"
+            "change": "-0.44%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.67,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.48,
-            0.48,
             0.49,
             0.49,
             0.49,
@@ -45,37 +44,38 @@
             0.5,
             0.5,
             0.5,
-            0.49,
             0.5,
+            0.5,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            26.25,
-            26.68,
-            26.39,
-            26.0,
-            25.52,
-            25.78,
-            25.42,
-            25.35,
-            25.11,
-            25.1,
-            24.82,
-            25.28
+            26.34,
+            25.89,
+            26.07,
+            25.73,
+            25.24,
+            24.91,
+            25.07,
+            25.0,
+            25.13,
+            24.66,
+            24.45,
+            24.92
         ],
         "hsd_history_software": [
-            9.71,
-            9.65,
-            9.74,
-            9.91,
-            10.06,
-            9.86,
-            9.92,
-            10.05,
-            10.19,
-            10.2,
-            10.33,
-            10.16
+            10.43,
+            10.34,
+            10.31,
+            10.21,
+            10.04,
+            10.17,
+            10.16,
+            9.98,
+            10.0,
+            9.97,
+            10.15,
+            10.17
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:27",
-            "tag": "AI",
-            "text": "Oracle's $523 Billion Remaining Performance Obligations Positioning for AI Success"
-        },
-        {
-            "time": "06:17",
-            "tag": "RESULTADOS",
-            "text": "Equities Analysts Set Expectations for FIS FY2025 Earnings"
-        },
-        {
-            "time": "06:12",
+            "time": "08:25",
             "tag": "MERCADO",
-            "text": "Will Analyst Support and Q3 2026 Outlook Shift Gen Digital's (GEN) Consumer Cybersecurity Narrative?"
+            "text": "Broadcom Inc. $AVGO Stock Position Lifted by Americana Partners LLC"
         },
         {
-            "time": "05:29",
+            "time": "08:24",
             "tag": "MERCADO",
-            "text": "Nvidia Corporation (NVDA) RBC Capital Forecasts Almost 30% Upside"
+            "text": "Amalgamated Bank Sells 5,470 Shares of Alphabet Inc. $GOOG"
         },
         {
-            "time": "04:57",
-            "tag": "RESULTADOS",
-            "text": "Stride (LRN) Reports Q4: Everything You Need To Know Ahead Of Earnings"
+            "time": "08:16",
+            "tag": "MERCADO",
+            "text": "Samsung to Win Memory-Chip Deal with Nvidia, Report Says. What It Means for Micron."
+        },
+        {
+            "time": "08:07",
+            "tag": "MERCADO",
+            "text": "AEGON ASSET MANAGEMENT UK Plc Makes New $21.02 Million Investment in Lam Research Corporation $LRCX"
+        },
+        {
+            "time": "08:07",
+            "tag": "MERCADO",
+            "text": "AEGON ASSET MANAGEMENT UK Plc Has $54.48 Million Stock Position in Cadence Design Systems, Inc. $CDNS"
         }
     ]
 }
