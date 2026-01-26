@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-01-26 14:32 UTC",
+        "last_updated": "2026-01-26 15:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 188.06,
-            "change": "+3.22%"
+            "price": 187.37,
+            "change": "-1.22%"
         },
         {
             "symbol": "AMD",
-            "price": 255.69,
-            "change": "+1.17%"
+            "price": 251.38,
+            "change": "-2.68%"
         },
         {
             "symbol": "MSFT",
-            "price": 462.38,
-            "change": "-1.23%"
+            "price": 470.15,
+            "change": "+3.15%"
         },
         {
             "symbol": "CEG",
-            "price": 288.53,
-            "change": "-2.45%"
+            "price": 285.75,
+            "change": "+0.86%"
         },
         {
             "symbol": "VST",
-            "price": 161.36,
-            "change": "+0.05%"
+            "price": 161.28,
+            "change": "+1.6%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.44,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
+            0.53,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.5,
             0.5,
             0.5,
             0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            24.3,
-            24.45,
-            24.59,
-            24.42,
-            24.85,
-            24.99,
-            24.76,
-            24.76,
-            24.85,
-            24.83,
-            24.47,
-            24.75
+            26.59,
+            27.05,
+            26.52,
+            26.27,
+            25.95,
+            26.4,
+            26.17,
+            25.86,
+            25.43,
+            25.52,
+            25.14,
+            24.7
         ],
         "hsd_history_software": [
-            9.99,
-            9.82,
-            9.78,
-            9.71,
-            9.8,
-            9.78,
-            9.93,
-            9.9,
+            10.26,
+            10.18,
+            10.25,
+            10.14,
+            10.09,
+            10.16,
+            10.19,
             10.01,
-            9.92,
-            9.78,
-            9.88
+            10.17,
+            10.14,
+            10.11,
+            9.99
         ],
         "rci_data": [
             85.0,
-            18.806
+            18.737000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:56",
+            "time": "14:54",
             "tag": "MERCADO",
-            "text": "Y Intercept Hong Kong Ltd Takes $4.46 Million Position in Jack Henry & Associates, Inc. $JKHY"
+            "text": "Western Digital stock hits all-time high at 248.0 USD By Investing.com"
         },
         {
-            "time": "13:56",
+            "time": "14:53",
             "tag": "MERCADO",
-            "text": "Wealth Enhancement Advisory Services LLC Has $5.47 Million Stock Position in Gartner, Inc. $IT"
+            "text": "Skyworks Solutions (SWKS) Receives a Rating Update from a Top Analyst"
         },
         {
-            "time": "13:49",
-            "tag": "MERCADO",
-            "text": "Portnoy Law Firm Announces Class Action on Behalf of F5, Inc. Investors"
-        },
-        {
-            "time": "13:43",
-            "tag": "MERCADO",
-            "text": "Enphase (ENPH) Announces Workforce Reduction and Cost-Cutting Measures"
-        },
-        {
-            "time": "13:40",
+            "time": "14:50",
             "tag": "AI",
-            "text": "26th January \u2013 Threat Intelligence Report"
+            "text": "AI job cuts are landing hardest in Britain, Morgan Stanley says"
+        },
+        {
+            "time": "14:46",
+            "tag": "AI",
+            "text": "CH Robinson AI agents fast-track responses in missed LTL pickups"
+        },
+        {
+            "time": "14:46",
+            "tag": "MERCADO",
+            "text": "Evercore ISI Increases Lam Research (NASDAQ:LRCX) Price Target to $241.00"
         }
     ]
 }
