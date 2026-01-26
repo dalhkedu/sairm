@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-26 21:27 UTC",
+        "last_updated": "2026-01-26 22:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 186.47,
-            "change": "-0.06%"
+            "change": "+0.52%"
         },
         {
             "symbol": "AMD",
             "price": 251.31,
-            "change": "-0.12%"
+            "change": "-0.99%"
         },
         {
             "symbol": "MSFT",
             "price": 470.28,
-            "change": "+1.57%"
+            "change": "+0.1%"
         },
         {
             "symbol": "CEG",
             "price": 285.27,
-            "change": "+3.36%"
+            "change": "-2.82%"
         },
         {
             "symbol": "VST",
             "price": 158.81,
-            "change": "+3.42%"
+            "change": "-0.27%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.51,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
+            0.52,
             0.51,
             0.52,
             0.52,
             0.52,
-            0.51,
-            0.51,
+            0.52,
             0.52,
             0.51,
+            0.52,
             0.51,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.97,
-            26.01,
-            25.67,
-            25.43,
-            25.21,
-            24.76,
-            24.84,
+            25.41,
+            25.45,
+            25.09,
+            24.95,
+            25.04,
+            25.16,
+            25.18,
+            25.0,
             25.02,
-            25.05,
-            24.8,
-            24.59,
-            25.07
+            24.73,
+            25.09,
+            24.81
         ],
         "hsd_history_software": [
-            9.55,
-            9.64,
-            9.6,
-            9.78,
-            9.95,
+            10.25,
+            10.15,
+            10.2,
+            10.04,
+            10.01,
+            10.14,
+            10.22,
+            10.05,
+            10.16,
+            10.0,
             9.93,
-            9.98,
-            10.07,
-            10.08,
-            10.21,
-            10.35,
-            10.16
+            9.95
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:24",
+            "time": "21:14",
             "tag": "MERCADO",
-            "text": "Micron Technology Shares Drop Amid Competitive Pressure"
+            "text": "T. Rowe Price backs Cyclic Materials, Zocks' $45m, and Nvidia's CoreWeave deal"
         },
         {
-            "time": "20:15",
+            "time": "21:09",
             "tag": "MERCADO",
-            "text": "Arlington cybersecurity firm Shift5 names L3Harris veteran as interim CEO as founder steps back"
+            "text": "Why Cisco (CSCO) Stock Is Trading Up Today"
         },
         {
-            "time": "20:01",
+            "time": "21:06",
             "tag": "AI",
-            "text": "Inside New Zealand\u2019s push to keep AI data onshore with HPE and 2degrees"
+            "text": "AI Bubble Fears Have Sharply Discounted Oracle Stock - Oracle (NYSE:ORCL)"
         },
         {
-            "time": "19:59",
+            "time": "21:03",
             "tag": "MERCADO",
-            "text": "F5 Faces Class Action Lawsuit Over Cybersecurity Incident"
+            "text": "AMD (AMD) Stock Trades Down, Here Is Why"
         },
         {
-            "time": "19:59",
+            "time": "20:43",
             "tag": "MERCADO",
-            "text": "Teradyne announces $0.12 quarterly dividend payable in March"
+            "text": "U Power stock soars after launching tokenized assets on BNB Chain"
         }
     ]
 }
