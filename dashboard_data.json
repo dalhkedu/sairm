@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-01-26 18:41 UTC",
+        "last_updated": "2026-01-26 19:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 186.68,
-            "change": "+2.38%"
+            "price": 186.59,
+            "change": "-1.01%"
         },
         {
             "symbol": "AMD",
-            "price": 253.31,
-            "change": "-2.92%"
+            "price": 252.71,
+            "change": "-1.61%"
         },
         {
             "symbol": "MSFT",
-            "price": 472.79,
-            "change": "+3.15%"
+            "price": 472.59,
+            "change": "+1.92%"
         },
         {
             "symbol": "CEG",
-            "price": 285.64,
-            "change": "-1.27%"
+            "price": 285.54,
+            "change": "-2.79%"
         },
         {
             "symbol": "VST",
-            "price": 160.25,
-            "change": "-0.11%"
+            "price": 160.0,
+            "change": "-2.38%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.42,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.5,
+            0.46,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.49,
             0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            24.41,
-            24.21,
-            24.43,
-            24.6,
-            24.84,
-            24.41,
-            24.82,
-            25.18,
-            25.22,
-            25.51,
-            25.44,
-            25.19
+            26.7,
+            26.21,
+            26.56,
+            26.23,
+            25.98,
+            25.81,
+            25.75,
+            25.67,
+            25.68,
+            25.9,
+            25.79,
+            25.35
         ],
         "hsd_history_software": [
-            9.53,
-            9.55,
-            9.57,
+            9.83,
+            9.81,
+            9.94,
+            9.78,
+            9.87,
+            9.78,
+            9.96,
+            10.04,
+            9.85,
             9.72,
-            9.67,
-            9.71,
-            9.86,
-            10.01,
-            10.21,
-            10.3,
-            10.2,
-            10.13
+            9.87,
+            10.02
         ],
         "rci_data": [
             85.0,
-            18.668000000000003
+            18.659
         ],
         "energy_data": [
             1.2,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "18:24",
+            "tag": "MERCADO",
+            "text": "On Site with John Deere, Ushering in A New Portfolio of Excavators"
+        },
+        {
+            "time": "18:12",
+            "tag": "MERCADO",
+            "text": "Western Digital (WDC) Stock Is Up, What You Need To Know"
+        },
+        {
+            "time": "18:08",
+            "tag": "MERCADO",
+            "text": "Lockheed Martin, PG&E Corporation, Salesforce and Wells Fargo Launch EMBERPOINT to Transform America's Wildfire Prevention, Detection and Response"
+        },
+        {
             "time": "17:54",
             "tag": "RESULTADOS",
             "text": "Coherent\u2019s Upcoming Earnings: A Key Test for AI-Driven Growth"
@@ -134,21 +149,6 @@
             "time": "17:52",
             "tag": "AI",
             "text": "Wells Fargo Appoints AWS Exec Faraz Shafiq as Head of AI Products and Solutions"
-        },
-        {
-            "time": "17:28",
-            "tag": "MERCADO",
-            "text": "Sarepta Therapeutics, Lands' End, USA Rare Earth, CoreWeave And Other Big Stocks Moving Higher On Monday"
-        },
-        {
-            "time": "16:58",
-            "tag": "MERCADO",
-            "text": "Kratos Expands Hypersonic Infrastructure as VisionWave Unveils Space-Based Counter-UAS Architecture"
-        },
-        {
-            "time": "16:58",
-            "tag": "MERCADO",
-            "text": "3 Durable Stocks to Buy Now for the Long Term"
         }
     ]
 }
