@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-26 12:56 UTC",
+        "last_updated": "2026-01-26 13:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 187.67,
-            "change": "-2.98%"
+            "change": "-1.54%"
         },
         {
             "symbol": "AMD",
             "price": 259.68,
-            "change": "-2.66%"
+            "change": "-0.98%"
         },
         {
             "symbol": "MSFT",
             "price": 465.95,
-            "change": "+1.03%"
+            "change": "+0.78%"
         },
         {
             "symbol": "CEG",
             "price": 289.06,
-            "change": "+0.39%"
+            "change": "-3.28%"
         },
         {
             "symbol": "VST",
             "price": 160.12,
-            "change": "-1.3%"
+            "change": "+1.84%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.52,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
             0.48,
-            0.47,
-            0.48,
-            0.49,
-            0.49,
             0.48,
             0.48,
             0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
             0.5,
             0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            24.19,
-            23.96,
-            24.3,
-            24.04,
-            23.75,
-            24.16,
-            24.62,
+            24.88,
             24.54,
-            25.02,
-            25.35,
-            24.86,
-            25.06
+            24.66,
+            25.07,
+            25.25,
+            24.8,
+            24.58,
+            24.56,
+            24.88,
+            25.25,
+            25.29,
+            24.91
         ],
         "hsd_history_software": [
-            9.86,
-            9.68,
+            9.43,
             9.57,
             9.71,
-            9.85,
-            9.99,
-            9.97,
-            9.99,
-            9.98,
-            9.98,
-            9.8,
-            9.87
+            9.89,
+            10.02,
+            10.13,
+            10.26,
+            10.09,
+            10.21,
+            10.03,
+            10.08,
+            10.11
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:51",
+            "time": "12:49",
             "tag": "MERCADO",
-            "text": "MarketAxess Elects New Board Members"
+            "text": "Equifax Introduces Income Confirm to Strengthen Decisioning Confidence During the Credit Card Origination Process"
         },
         {
-            "time": "11:47",
+            "time": "12:49",
             "tag": "MERCADO",
-            "text": "CSCO: Evercore ISI Upgrades Cisco Systems with Raised Price Targ"
+            "text": "Equifax Introduces Income Confirm to Strengthen Decisioning Confidence During the Credit Card Origination Process"
         },
         {
-            "time": "11:45",
+            "time": "12:48",
             "tag": "MERCADO",
-            "text": "Mitsubishi UFJ Trust & Banking Corp Grows Stock Position in Best Buy Co., Inc. $BBY"
+            "text": "Caterpillar Inc. $CAT Stock Holdings Decreased by OneAscent Financial Services LLC"
         },
         {
-            "time": "11:44",
+            "time": "12:46",
             "tag": "MERCADO",
-            "text": "HP Inc. $HPQ Shares Bought by Mitsubishi UFJ Trust & Banking Corp"
+            "text": "Leidos Holdings (LDOS) Announces $2.4 Billion Acquisition of Entrust Strategic Purchase Agreement Set to Enhance Leidos' Market Position"
         },
         {
-            "time": "11:43",
-            "tag": "MERCADO",
-            "text": "Resona Asset Management Co. Ltd. Lowers Position in Seagate Technology Holdings PLC $STX"
+            "time": "12:45",
+            "tag": "AI",
+            "text": "Wells Fargo Taps Amazon Web Services Executive to Expand AI Use"
         }
     ]
 }
