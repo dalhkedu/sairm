@@ -1,37 +1,37 @@
 {
     "metadata": {
-        "last_updated": "2026-01-27 19:29 UTC",
+        "last_updated": "2026-01-27 20:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 189.12,
-            "change": "-3.49%"
+            "price": 189.49,
+            "change": "+2.42%"
         },
         {
             "symbol": "AMD",
-            "price": 251.06,
-            "change": "+2.6%"
+            "price": 251.79,
+            "change": "+2.02%"
         },
         {
             "symbol": "MSFT",
-            "price": 481.93,
-            "change": "+0.73%"
+            "price": 480.79,
+            "change": "+0.55%"
         },
         {
             "symbol": "CEG",
-            "price": 288.85,
-            "change": "+0.52%"
+            "price": 288.29,
+            "change": "+2.23%"
         },
         {
             "symbol": "VST",
-            "price": 163.71,
-            "change": "+0.52%"
+            "price": 163.77,
+            "change": "-0.53%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.49,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
@@ -39,47 +39,47 @@
             0.5,
             0.51,
             0.51,
-            0.52,
-            0.51,
+            0.5,
+            0.5,
             0.5,
             0.5,
             0.51,
             0.5,
+            0.49,
             0.5,
-            0.51,
-            0.51
+            0.49
         ],
         "hsd_history_hardware": [
+            25.3,
+            25.61,
+            25.39,
             24.96,
-            25.11,
-            24.95,
-            25.27,
-            25.54,
-            25.95,
-            25.99,
-            25.67,
-            25.79,
-            25.31,
-            25.18,
-            25.44
+            24.84,
+            24.98,
+            25.35,
+            25.38,
+            25.07,
+            24.99,
+            25.38,
+            25.47
         ],
         "hsd_history_software": [
-            9.85,
-            10.03,
-            9.84,
-            9.99,
-            10.05,
-            9.87,
-            9.85,
-            9.89,
+            10.06,
+            10.15,
+            10.06,
+            10.13,
+            10.17,
+            10.0,
             9.81,
-            9.88,
-            9.89,
-            9.8
+            9.96,
+            9.78,
+            9.69,
+            9.76,
+            9.94
         ],
         "rci_data": [
             85.0,
-            18.912000000000003
+            18.949
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:22",
+            "time": "19:27",
             "tag": "MERCADO",
-            "text": "Infleqtion Appoints CFO Eric Bjornholt To Board Ahead Of Public Listing"
+            "text": "NASA, GE Test Hybrid Engine for Next Decade of Flight"
         },
         {
-            "time": "18:16",
+            "time": "19:02",
             "tag": "MERCADO",
-            "text": "Bernstein Initiates Hewlett Packard Enterprise(HPE.US) With Hold Rating, Announces Target Price $24"
+            "text": "Keysight Launches Wireless Coexistence Test Solution to Accelerate Compliance and Innovation"
         },
         {
-            "time": "18:15",
-            "tag": "MERCADO",
-            "text": "Seagate (STX) is Facing a Shortage That Can't Be Met, Says Jim Cramer"
+            "time": "18:59",
+            "tag": "RESULTADOS",
+            "text": "KLA's Q2 Earnings Loom: Should the KLAC Stock Be in Your Portfolio?"
         },
         {
-            "time": "18:13",
+            "time": "18:59",
             "tag": "MERCADO",
-            "text": "Micron Technology stock hits all-time high at $412.48"
+            "text": "Corning, Meta agree on $6 billion deal to support data center buildout"
         },
         {
-            "time": "18:10",
+            "time": "18:54",
             "tag": "AI",
-            "text": "How 2026 AI Spending Forecasts Could Reshape Big Tech Stock Performance"
+            "text": "Partnership Will Use AI, Autonomous Systems, To Help Fight Catastrophic Fires"
         }
     ]
 }
