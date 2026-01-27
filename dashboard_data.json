@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-01-27 18:43 UTC",
+        "last_updated": "2026-01-27 19:29 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 189.48,
-            "change": "-3.33%"
+            "price": 189.12,
+            "change": "-3.49%"
         },
         {
             "symbol": "AMD",
-            "price": 250.69,
-            "change": "-2.74%"
+            "price": 251.06,
+            "change": "+2.6%"
         },
         {
             "symbol": "MSFT",
-            "price": 481.22,
-            "change": "-0.17%"
+            "price": 481.93,
+            "change": "+0.73%"
         },
         {
             "symbol": "CEG",
-            "price": 289.38,
-            "change": "+3.09%"
+            "price": 288.85,
+            "change": "+0.52%"
         },
         {
             "symbol": "VST",
-            "price": 163.47,
-            "change": "-3.24%"
+            "price": 163.71,
+            "change": "+0.52%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.5,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.55,
-            0.54,
-            0.55,
-            0.54,
-            0.54,
-            0.54,
-            0.53,
+            0.5,
+            0.51,
+            0.51,
             0.52,
             0.51,
             0.5,
+            0.5,
             0.51,
-            0.5
+            0.5,
+            0.5,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.36,
-            24.37,
-            24.72,
-            24.37,
-            24.47,
-            24.63,
-            24.56,
-            24.53,
-            24.57,
-            24.56,
-            24.91,
-            25.41
+            24.96,
+            25.11,
+            24.95,
+            25.27,
+            25.54,
+            25.95,
+            25.99,
+            25.67,
+            25.79,
+            25.31,
+            25.18,
+            25.44
         ],
         "hsd_history_software": [
-            9.68,
-            9.7,
-            9.79,
-            9.87,
-            9.87,
+            9.85,
+            10.03,
+            9.84,
+            9.99,
             10.05,
-            10.07,
-            10.16,
-            10.07,
+            9.87,
+            9.85,
             9.89,
-            9.77,
-            9.88
+            9.81,
+            9.88,
+            9.89,
+            9.8
         ],
         "rci_data": [
             85.0,
-            18.947999999999997
+            18.912000000000003
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:57",
+            "time": "18:22",
             "tag": "MERCADO",
-            "text": "Global $77 Billion Discrete Semiconductors Market Outlook, 2030 - Texas Instruments, ON Semiconductor, STMicroelectronics, Infineon Technologies, and NXP Semiconductors Dominate"
+            "text": "Infleqtion Appoints CFO Eric Bjornholt To Board Ahead Of Public Listing"
         },
         {
-            "time": "17:56",
+            "time": "18:16",
             "tag": "MERCADO",
-            "text": "AMD (AMD) is Facing a Shortage That Can't Be Met, Says Jim Cramer"
+            "text": "Bernstein Initiates Hewlett Packard Enterprise(HPE.US) With Hold Rating, Announces Target Price $24"
         },
         {
-            "time": "17:51",
+            "time": "18:15",
             "tag": "MERCADO",
-            "text": "Jim Cramer Loves Intel (INTC) CEO Lip-Bu Tan"
+            "text": "Seagate (STX) is Facing a Shortage That Can't Be Met, Says Jim Cramer"
         },
         {
-            "time": "17:45",
+            "time": "18:13",
+            "tag": "MERCADO",
+            "text": "Micron Technology stock hits all-time high at $412.48"
+        },
+        {
+            "time": "18:10",
             "tag": "AI",
-            "text": "Piper Sandler sees Helios ramp and OpenAI driving AMD upside"
-        },
-        {
-            "time": "17:42",
-            "tag": "MERCADO",
-            "text": "SEALSQ's Quantum Highway: Building Trust In Silicon For Global Connectivity"
+            "text": "How 2026 AI Spending Forecasts Could Reshape Big Tech Stock Performance"
         }
     ]
 }
