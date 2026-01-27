@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-27 11:26 UTC",
+        "last_updated": "2026-01-27 12:57 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 186.47,
-            "change": "+1.68%"
+            "change": "+2.71%"
         },
         {
             "symbol": "AMD",
             "price": 251.31,
-            "change": "-0.1%"
+            "change": "+0.14%"
         },
         {
             "symbol": "MSFT",
             "price": 470.28,
-            "change": "+0.42%"
+            "change": "+2.82%"
         },
         {
             "symbol": "CEG",
             "price": 285.27,
-            "change": "+3.2%"
+            "change": "+0.1%"
         },
         {
             "symbol": "VST",
-            "price": 158.81,
-            "change": "-0.21%"
+            "price": NaN,
+            "change": "+1.05%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.46,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.49,
             0.5,
             0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            25.41,
-            25.04,
-            25.01,
-            25.47,
-            25.68,
-            25.85,
-            26.25,
-            25.81,
-            25.82,
+            24.79,
+            25.19,
+            24.81,
+            24.74,
+            24.55,
+            24.92,
+            25.08,
+            25.03,
+            25.02,
             25.44,
-            25.46,
-            25.16
+            25.43,
+            25.31
         ],
         "hsd_history_software": [
-            9.63,
-            9.44,
-            9.52,
-            9.64,
-            9.7,
-            9.78,
-            9.9,
-            9.78,
-            9.91,
-            10.04,
-            10.04,
-            9.98
+            9.97,
+            10.1,
+            9.94,
+            9.92,
+            9.95,
+            9.93,
+            9.76,
+            9.83,
+            10.0,
+            9.95,
+            9.92,
+            9.81
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:36",
+            "time": "12:27",
             "tag": "MERCADO",
-            "text": "International Business Machines Corporation $IBM Shares Acquired by J. Safra Sarasin Holding AG"
+            "text": "Deere\u2019s Strategic Pivot: Navigating Cyclical Headwinds with Technology"
         },
         {
-            "time": "10:36",
+            "time": "12:26",
             "tag": "MERCADO",
-            "text": "J. Safra Sarasin Holding AG Has $33.19 Million Stock Holdings in Fortinet, Inc. $FTNT"
+            "text": "Applied Materials announces new 8.06 lakh square-foot workplace in Bengaluru"
         },
         {
-            "time": "10:36",
+            "time": "12:22",
             "tag": "MERCADO",
-            "text": "J. Safra Sarasin Holding AG Reduces Stock Position in Arista Networks, Inc. $ANET"
+            "text": "CoStar Group stock rating upgraded to Buy at BTIG on sales growth"
         },
         {
-            "time": "10:36",
+            "time": "12:01",
             "tag": "MERCADO",
-            "text": "J. Safra Sarasin Holding AG Has $57.65 Million Position in AT&T Inc. $T"
+            "text": "Analog Devices, Inc. $ADI Shares Sold by J. Safra Sarasin Holding AG"
         },
         {
-            "time": "10:36",
+            "time": "11:49",
             "tag": "MERCADO",
-            "text": "J. Safra Sarasin Holding AG Has $37.50 Million Stock Holdings in Autodesk, Inc. $ADSK"
+            "text": "Tradr Debuts Leveraged ETFs on Lumentum, Sandisk and Western Digital"
         }
     ]
 }
