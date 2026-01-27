@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-01-27 20:27 UTC",
+        "last_updated": "2026-01-27 21:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 189.49,
-            "change": "+2.42%"
+            "price": 188.52,
+            "change": "+0.98%"
         },
         {
             "symbol": "AMD",
-            "price": 251.79,
-            "change": "+2.02%"
+            "price": 252.03,
+            "change": "+0.94%"
         },
         {
             "symbol": "MSFT",
-            "price": 480.79,
-            "change": "+0.55%"
+            "price": 480.58,
+            "change": "+0.8%"
         },
         {
             "symbol": "CEG",
-            "price": 288.29,
-            "change": "+2.23%"
+            "price": 288.76,
+            "change": "-0.02%"
         },
         {
             "symbol": "VST",
-            "price": 163.77,
-            "change": "-0.53%"
+            "price": 164.26,
+            "change": "-2.07%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.7,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
             0.5,
             0.51,
-            0.5,
-            0.49,
-            0.5,
-            0.49
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.52,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.3,
-            25.61,
-            25.39,
-            24.96,
-            24.84,
-            24.98,
-            25.35,
-            25.38,
-            25.07,
-            24.99,
-            25.38,
-            25.47
+            24.15,
+            24.18,
+            24.17,
+            24.52,
+            24.28,
+            24.36,
+            23.94,
+            23.67,
+            24.13,
+            24.54,
+            24.33,
+            24.79
         ],
         "hsd_history_software": [
-            10.06,
-            10.15,
-            10.06,
-            10.13,
-            10.17,
-            10.0,
+            10.23,
+            10.09,
+            10.09,
+            9.92,
+            9.94,
+            9.89,
+            9.83,
             9.81,
-            9.96,
-            9.78,
-            9.69,
-            9.76,
-            9.94
+            9.63,
+            9.73,
+            9.81,
+            9.85
         ],
         "rci_data": [
             85.0,
-            18.949
+            18.852000000000004
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:27",
+            "time": "20:11",
             "tag": "MERCADO",
-            "text": "NASA, GE Test Hybrid Engine for Next Decade of Flight"
+            "text": "F5 Networks options imply 8.0% move in share price post-earnings"
         },
         {
-            "time": "19:02",
+            "time": "20:05",
             "tag": "MERCADO",
-            "text": "Keysight Launches Wireless Coexistence Test Solution to Accelerate Compliance and Innovation"
+            "text": "Salesforce Stock Loses Ground After $5.6 Billion Army Contract"
         },
         {
-            "time": "18:59",
-            "tag": "RESULTADOS",
-            "text": "KLA's Q2 Earnings Loom: Should the KLAC Stock Be in Your Portfolio?"
-        },
-        {
-            "time": "18:59",
-            "tag": "MERCADO",
-            "text": "Corning, Meta agree on $6 billion deal to support data center buildout"
-        },
-        {
-            "time": "18:54",
+            "time": "19:59",
             "tag": "AI",
-            "text": "Partnership Will Use AI, Autonomous Systems, To Help Fight Catastrophic Fires"
+            "text": "Forget Applied Digital: This Cybersecurity Platform Giant Is the Smarter Bet on Securing All Those AI Data Centers"
+        },
+        {
+            "time": "19:58",
+            "tag": "MERCADO",
+            "text": "Outset Medical Secures FDA Clearance For Next-Generation Tablo Hemodialysis System"
+        },
+        {
+            "time": "19:58",
+            "tag": "MERCADO",
+            "text": "ACI Worldwide Tech Leadership Shift Puts Execution And Partnerships In Focus"
         }
     ]
 }
