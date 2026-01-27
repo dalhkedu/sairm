@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-27 10:32 UTC",
+        "last_updated": "2026-01-27 11:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 186.47,
-            "change": "-3.43%"
+            "change": "+1.68%"
         },
         {
             "symbol": "AMD",
             "price": 251.31,
-            "change": "-2.45%"
+            "change": "-0.1%"
         },
         {
             "symbol": "MSFT",
             "price": 470.28,
-            "change": "-2.03%"
+            "change": "+0.42%"
         },
         {
             "symbol": "CEG",
             "price": 285.27,
-            "change": "+0.35%"
+            "change": "+3.2%"
         },
         {
             "symbol": "VST",
             "price": 158.81,
-            "change": "-2.94%"
+            "change": "-0.21%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.65,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.49,
             0.49,
             0.49,
             0.49,
             0.5,
+            0.49,
             0.5,
-            0.51,
             0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            26.04,
-            26.53,
-            26.2,
-            26.62,
-            26.39,
-            26.03,
-            25.56,
-            25.19,
+            25.41,
+            25.04,
+            25.01,
             25.47,
-            25.2,
-            25.08,
-            24.77
+            25.68,
+            25.85,
+            26.25,
+            25.81,
+            25.82,
+            25.44,
+            25.46,
+            25.16
         ],
         "hsd_history_software": [
-            10.08,
-            9.98,
-            10.06,
-            10.09,
-            9.94,
-            10.1,
+            9.63,
+            9.44,
+            9.52,
+            9.64,
+            9.7,
+            9.78,
+            9.9,
+            9.78,
             9.91,
-            9.86,
-            9.87,
-            10.02,
-            10.05,
-            9.88
+            10.04,
+            10.04,
+            9.98
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:18",
+            "time": "10:36",
             "tag": "MERCADO",
-            "text": "Intact Investment Management Inc. Decreases Stock Position in Intuit Inc. $INTU"
+            "text": "International Business Machines Corporation $IBM Shares Acquired by J. Safra Sarasin Holding AG"
         },
         {
-            "time": "09:54",
+            "time": "10:36",
             "tag": "MERCADO",
-            "text": "General American Investors Co. Inc. Has $21.96 Million Position in Arista Networks, Inc. $ANET"
+            "text": "J. Safra Sarasin Holding AG Has $33.19 Million Stock Holdings in Fortinet, Inc. $FTNT"
         },
         {
-            "time": "09:52",
+            "time": "10:36",
             "tag": "MERCADO",
-            "text": "International Business Machines Corporation $IBM Shares Bought by Fortis Capital Advisors LLC"
+            "text": "J. Safra Sarasin Holding AG Reduces Stock Position in Arista Networks, Inc. $ANET"
         },
         {
-            "time": "09:42",
+            "time": "10:36",
             "tag": "MERCADO",
-            "text": "Gartner: The Problems with Humanoid Robots in Factories"
+            "text": "J. Safra Sarasin Holding AG Has $57.65 Million Position in AT&T Inc. $T"
         },
         {
-            "time": "09:38",
+            "time": "10:36",
             "tag": "MERCADO",
-            "text": "Intact Investment Management Inc. Trims Position in Analog Devices, Inc. $ADI"
+            "text": "J. Safra Sarasin Holding AG Has $37.50 Million Stock Holdings in Autodesk, Inc. $ADSK"
         }
     ]
 }
