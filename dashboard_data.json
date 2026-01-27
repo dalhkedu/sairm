@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-26 23:26 UTC",
+        "last_updated": "2026-01-27 02:05 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 186.47,
-            "change": "+3.07%"
+            "change": "+2.08%"
         },
         {
             "symbol": "AMD",
             "price": 251.31,
-            "change": "+3.29%"
+            "change": "-0.92%"
         },
         {
             "symbol": "MSFT",
             "price": 470.28,
-            "change": "-2.71%"
+            "change": "+2.31%"
         },
         {
             "symbol": "CEG",
             "price": 285.27,
-            "change": "-2.79%"
+            "change": "+2.25%"
         },
         {
             "symbol": "VST",
             "price": 158.81,
-            "change": "-1.96%"
+            "change": "+1.22%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.57,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.54,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51
+            0.48,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.98,
-            24.06,
-            24.01,
-            23.61,
-            23.58,
-            24.02,
-            24.1,
-            24.05,
-            24.06,
-            24.54,
+            23.38,
+            23.81,
+            24.24,
+            24.38,
             24.27,
-            24.53
+            24.74,
+            25.13,
+            25.38,
+            24.89,
+            24.97,
+            24.8,
+            25.03
         ],
         "hsd_history_software": [
-            10.15,
-            10.22,
-            10.33,
-            10.16,
-            10.13,
-            10.03,
-            10.04,
-            9.98,
-            10.07,
-            10.06,
-            9.97,
-            10.14
+            9.86,
+            9.91,
+            9.84,
+            9.68,
+            9.64,
+            9.82,
+            10.02,
+            9.9,
+            9.77,
+            9.61,
+            9.67,
+            9.85
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:22",
+            "time": "01:57",
             "tag": "MERCADO",
-            "text": "Alphabet (NASDAQ:GOOGL) Trading Up 1.6% After Analyst Upgrade"
+            "text": "Check Point Software Technologies Reinforces New Zealand Presence with Local Check Point Harmony SASE Data Residency Instance"
         },
         {
-            "time": "22:18",
+            "time": "01:42",
             "tag": "MERCADO",
-            "text": "Did BlackRock Build A New Floor for Archer's Stock Price?"
+            "text": "Arista Networks (NYSE:ANET) Trading Up 5.5% - Here's What Happened"
         },
         {
-            "time": "22:09",
+            "time": "01:38",
             "tag": "MERCADO",
-            "text": "Teradyne (TER) Maintains Quarterly Dividend of $0.12 Per Share"
+            "text": "ServiceNow (NYSE:NOW) Shares Up 2.4% - Here's What Happened"
         },
         {
-            "time": "21:58",
+            "time": "01:34",
             "tag": "MERCADO",
-            "text": "Adeia appoints new executives to strengthen growth strategy"
+            "text": "Cirrus Logic (CRUS) Valuation Check As Strengthening Fundamentals Lift Investor Confidence"
         },
         {
-            "time": "21:50",
+            "time": "01:28",
             "tag": "MERCADO",
-            "text": "Seagate Technology stock price jumps ahead of Jan. 27 earnings; STX tops $370 intraday"
+            "text": "Commvault stock rises after expanded Google Cloud collaboration"
         }
     ]
 }
