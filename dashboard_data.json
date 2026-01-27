@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-27 04:09 UTC",
+        "last_updated": "2026-01-27 05:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 186.47,
-            "change": "+2.92%"
+            "change": "-0.37%"
         },
         {
             "symbol": "AMD",
             "price": 251.31,
-            "change": "-1.07%"
+            "change": "+3.26%"
         },
         {
             "symbol": "MSFT",
             "price": 470.28,
-            "change": "+2.33%"
+            "change": "+0.29%"
         },
         {
             "symbol": "CEG",
             "price": 285.27,
-            "change": "-2.2%"
+            "change": "0.0%"
         },
         {
             "symbol": "VST",
             "price": 158.81,
-            "change": "-3.35%"
+            "change": "-2.4%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.63,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.54,
-            0.54,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.51
+            0.5,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.99,
-            24.11,
+            25.31,
+            25.75,
+            25.28,
+            25.43,
+            25.26,
+            24.92,
+            25.38,
+            24.95,
             24.6,
-            24.31,
-            24.19,
-            24.32,
-            24.06,
-            24.07,
-            24.52,
-            24.54,
-            24.34,
-            24.5
+            24.74,
+            24.95,
+            24.99
         ],
         "hsd_history_software": [
-            9.92,
-            9.82,
-            9.7,
-            9.65,
-            9.5,
-            9.6,
-            9.75,
-            9.8,
-            9.82,
-            9.8,
-            9.74,
-            9.93
+            9.98,
+            9.84,
+            9.67,
+            9.64,
+            9.48,
+            9.62,
+            9.79,
+            9.86,
+            9.86,
+            9.95,
+            10.12,
+            10.08
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "03:27",
+            "time": "04:18",
             "tag": "MERCADO",
-            "text": "Form DEF 14A Keysight Technologies, For: Mar 19"
+            "text": "Lightmatter Collaborates with Synopsys to Integrate Advanced Interface IP with Its Passage Co-Packaged Optics Platform"
         },
         {
-            "time": "03:19",
-            "tag": "RESULTADOS",
-            "text": "Lam Research Earnings: What To Look For From LRCX"
+            "time": "04:02",
+            "tag": "MERCADO",
+            "text": "Lightmatter Collaborates with Synopsys to Integrate Advanced Interface IP with Its Passage Co-Packaged Optics Platform"
         },
         {
-            "time": "03:14",
-            "tag": "RESULTADOS",
-            "text": "IBM (IBM) To Report Earnings Tomorrow: Here Is What To Expect"
+            "time": "03:57",
+            "tag": "MERCADO",
+            "text": "Viant Technology Q2 2024 Financial Results"
         },
         {
-            "time": "03:10",
-            "tag": "RESULTADOS",
-            "text": "Earnings To Watch: Corning (GLW) Reports Q4 Results Tomorrow"
+            "time": "03:57",
+            "tag": "MERCADO",
+            "text": "Nvidia Supply Deal In Crosshairs, Samsung Set To Start HBM4 Chip Production Next Month As Korean Giant Takes On SK Hynix: Report"
         },
         {
-            "time": "02:58",
-            "tag": "AI",
-            "text": "Salling Group joins WPP Media's Open Intelligence for Commerce 01/27/2026"
+            "time": "03:54",
+            "tag": "MERCADO",
+            "text": "China's BYD, Exxon Mobil to deepen hybrid technology partnership"
         }
     ]
 }
