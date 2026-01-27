@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-01-27 17:31 UTC",
+        "last_updated": "2026-01-27 18:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 189.64,
-            "change": "-2.27%"
+            "price": 189.48,
+            "change": "-3.33%"
         },
         {
             "symbol": "AMD",
-            "price": 252.51,
-            "change": "-3.36%"
+            "price": 250.69,
+            "change": "-2.74%"
         },
         {
             "symbol": "MSFT",
-            "price": 480.11,
-            "change": "+0.31%"
+            "price": 481.22,
+            "change": "-0.17%"
         },
         {
             "symbol": "CEG",
-            "price": 287.39,
-            "change": "+0.86%"
+            "price": 289.38,
+            "change": "+3.09%"
         },
         {
             "symbol": "VST",
-            "price": 162.76,
-            "change": "+2.01%"
+            "price": 163.47,
+            "change": "-3.24%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.58,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
+            0.55,
+            0.54,
+            0.55,
+            0.54,
+            0.54,
+            0.54,
+            0.53,
+            0.52,
+            0.51,
             0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.21,
-            25.18,
-            24.81,
-            24.73,
-            24.65,
-            24.29,
-            24.52,
-            24.12,
-            24.49,
-            24.9,
-            25.17,
-            24.75
+            24.36,
+            24.37,
+            24.72,
+            24.37,
+            24.47,
+            24.63,
+            24.56,
+            24.53,
+            24.57,
+            24.56,
+            24.91,
+            25.41
         ],
         "hsd_history_software": [
-            9.64,
+            9.68,
             9.7,
-            9.74,
-            9.92,
-            9.94,
-            10.13,
-            10.24,
+            9.79,
+            9.87,
+            9.87,
             10.05,
-            9.93,
-            10.1,
-            10.28,
-            10.13
+            10.07,
+            10.16,
+            10.07,
+            9.89,
+            9.77,
+            9.88
         ],
         "rci_data": [
             85.0,
-            18.964
+            18.947999999999997
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:27",
+            "time": "17:57",
             "tag": "MERCADO",
-            "text": "Apple sued for allegedly breaking US antitrust law, stealing camera tech"
+            "text": "Global $77 Billion Discrete Semiconductors Market Outlook, 2030 - Texas Instruments, ON Semiconductor, STMicroelectronics, Infineon Technologies, and NXP Semiconductors Dominate"
         },
         {
-            "time": "17:09",
+            "time": "17:56",
             "tag": "MERCADO",
-            "text": "Hubbell launches modular, scalable software that transforms utility operations"
+            "text": "AMD (AMD) is Facing a Shortage That Can't Be Met, Says Jim Cramer"
         },
         {
-            "time": "17:04",
+            "time": "17:51",
             "tag": "MERCADO",
-            "text": "Tacton Named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for CPQ Applications for the Fourth Consecutive Year"
+            "text": "Jim Cramer Loves Intel (INTC) CEO Lip-Bu Tan"
         },
         {
-            "time": "17:02",
-            "tag": "MERCADO",
-            "text": "Reach Security Named a Representative Provider in Gartner\u00ae Innovation Insight for Automated Security Control Assessment (ASCA)"
+            "time": "17:45",
+            "tag": "AI",
+            "text": "Piper Sandler sees Helios ramp and OpenAI driving AMD upside"
         },
         {
-            "time": "16:59",
+            "time": "17:42",
             "tag": "MERCADO",
-            "text": "Amazon.com Inc. (AMZN) Analysts Update Coverage"
+            "text": "SEALSQ's Quantum Highway: Building Trust In Silicon For Global Connectivity"
         }
     ]
 }
