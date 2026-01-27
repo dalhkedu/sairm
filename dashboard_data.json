@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-27 21:21 UTC",
+        "last_updated": "2026-01-27 22:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 188.52,
-            "change": "+0.98%"
+            "change": "-2.99%"
         },
         {
             "symbol": "AMD",
             "price": 252.03,
-            "change": "+0.94%"
+            "change": "-2.16%"
         },
         {
             "symbol": "MSFT",
             "price": 480.58,
-            "change": "+0.8%"
+            "change": "+0.89%"
         },
         {
             "symbol": "CEG",
             "price": 288.76,
-            "change": "-0.02%"
+            "change": "-1.06%"
         },
         {
             "symbol": "VST",
             "price": 164.26,
-            "change": "-2.07%"
+            "change": "+2.28%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.7,
+        "cer_current": 0.56,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
+            0.54,
+            0.53,
+            0.53,
+            0.52,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
             0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
             0.51,
-            0.52,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.15,
-            24.18,
-            24.17,
-            24.52,
-            24.28,
-            24.36,
-            23.94,
-            23.67,
-            24.13,
-            24.54,
-            24.33,
-            24.79
+            25.4,
+            24.99,
+            24.69,
+            24.97,
+            25.19,
+            25.37,
+            25.62,
+            25.22,
+            25.19,
+            25.01,
+            25.07,
+            25.01
         ],
         "hsd_history_software": [
-            10.23,
-            10.09,
-            10.09,
-            9.92,
-            9.94,
-            9.89,
+            9.82,
+            9.98,
+            9.96,
             9.83,
+            9.74,
+            9.86,
+            9.97,
+            10.0,
             9.81,
-            9.63,
-            9.73,
-            9.81,
-            9.85
+            9.95,
+            9.96,
+            9.94
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:11",
+            "time": "21:28",
             "tag": "MERCADO",
-            "text": "F5 Networks options imply 8.0% move in share price post-earnings"
+            "text": "SKYX Platforms Corp. (SKYX) Is Up 16.21% in One Week: What You Should Know"
         },
         {
-            "time": "20:05",
+            "time": "21:22",
             "tag": "MERCADO",
-            "text": "Salesforce Stock Loses Ground After $5.6 Billion Army Contract"
+            "text": "SK Telecom Co., Ltd.'s (KRX:017670) P/E Is Still On The Mark Following 31% Share Price Bounce"
         },
         {
-            "time": "19:59",
-            "tag": "AI",
-            "text": "Forget Applied Digital: This Cybersecurity Platform Giant Is the Smarter Bet on Securing All Those AI Data Centers"
+            "time": "21:21",
+            "tag": "MERCADO",
+            "text": "Texas Instruments Misses Q4 Estimates, Shares Surge As Q1 Guidance Shines"
         },
         {
-            "time": "19:58",
+            "time": "21:21",
             "tag": "MERCADO",
-            "text": "Outset Medical Secures FDA Clearance For Next-Generation Tablo Hemodialysis System"
+            "text": "Texas Instruments perks up amid Q4 results, guidance (TXN:NASDAQ)"
         },
         {
-            "time": "19:58",
+            "time": "21:21",
             "tag": "MERCADO",
-            "text": "ACI Worldwide Tech Leadership Shift Puts Execution And Partnerships In Focus"
+            "text": "HP Inc. Declares Dividend"
         }
     ]
 }
