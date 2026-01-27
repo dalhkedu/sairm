@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-01-27 16:34 UTC",
+        "last_updated": "2026-01-27 17:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 189.82,
-            "change": "-2.55%"
+            "price": 189.64,
+            "change": "-2.27%"
         },
         {
             "symbol": "AMD",
-            "price": 252.34,
-            "change": "+1.8%"
+            "price": 252.51,
+            "change": "-3.36%"
         },
         {
             "symbol": "MSFT",
-            "price": 479.46,
-            "change": "-1.34%"
+            "price": 480.11,
+            "change": "+0.31%"
         },
         {
             "symbol": "CEG",
-            "price": 287.77,
-            "change": "-2.91%"
+            "price": 287.39,
+            "change": "+0.86%"
         },
         {
             "symbol": "VST",
-            "price": 162.33,
-            "change": "+1.41%"
+            "price": 162.76,
+            "change": "+2.01%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.45,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
+            0.49,
             0.5,
             0.5,
             0.49,
             0.49,
-            0.5,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            23.76,
-            24.16,
-            24.4,
-            24.57,
-            24.15,
-            24.4,
-            24.43,
-            24.3,
-            24.46,
+            25.21,
+            25.18,
+            24.81,
+            24.73,
+            24.65,
+            24.29,
+            24.52,
+            24.12,
             24.49,
-            24.4,
-            24.64
+            24.9,
+            25.17,
+            24.75
         ],
         "hsd_history_software": [
-            9.93,
-            9.91,
+            9.64,
+            9.7,
+            9.74,
+            9.92,
             9.94,
-            9.86,
+            10.13,
+            10.24,
             10.05,
-            10.1,
-            9.98,
-            9.8,
             9.93,
-            10.06,
-            10.0,
-            9.95
+            10.1,
+            10.28,
+            10.13
         ],
         "rci_data": [
             85.0,
-            18.982
+            18.964
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:59",
-            "tag": "AI",
-            "text": "Nio brings in former Alibaba exec as part of efforts to ramp up AI push"
+            "time": "17:27",
+            "tag": "MERCADO",
+            "text": "Apple sued for allegedly breaking US antitrust law, stealing camera tech"
         },
         {
-            "time": "15:55",
+            "time": "17:09",
             "tag": "MERCADO",
-            "text": "5 robotic surgery trends to watch in 2026"
+            "text": "Hubbell launches modular, scalable software that transforms utility operations"
         },
         {
-            "time": "15:50",
+            "time": "17:04",
             "tag": "MERCADO",
-            "text": "Tesla lost $15 billion in brand value in 2025 as Musk stepped deeper into politics, research shows"
+            "text": "Tacton Named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for CPQ Applications for the Fourth Consecutive Year"
         },
         {
-            "time": "15:48",
+            "time": "17:02",
             "tag": "MERCADO",
-            "text": "Teradyne stock hits all-time high at $238.98"
+            "text": "Reach Security Named a Representative Provider in Gartner\u00ae Innovation Insight for Automated Security Control Assessment (ASCA)"
         },
         {
-            "time": "15:48",
+            "time": "16:59",
             "tag": "MERCADO",
-            "text": "Roper Technologies Q4 2025 slides: revenue miss overshadows solid growth"
+            "text": "Amazon.com Inc. (AMZN) Analysts Update Coverage"
         }
     ]
 }
