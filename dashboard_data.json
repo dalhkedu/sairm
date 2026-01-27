@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-01-27 07:31 UTC",
+        "last_updated": "2026-01-27 08:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 186.47,
-            "change": "-2.12%"
+            "change": "-3.34%"
         },
         {
             "symbol": "AMD",
             "price": 251.31,
-            "change": "+3.25%"
+            "change": "-3.35%"
         },
         {
             "symbol": "MSFT",
             "price": 470.28,
-            "change": "+0.71%"
+            "change": "-2.59%"
         },
         {
             "symbol": "CEG",
             "price": 285.27,
-            "change": "-1.75%"
+            "change": "+0.4%"
         },
         {
             "symbol": "VST",
-            "price": NaN,
-            "change": "-1.51%"
+            "price": 158.81,
+            "change": "+2.19%"
         }
     ],
     "dashboard_metrics": {
@@ -36,46 +36,46 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.55,
-            0.54,
-            0.54,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
             0.5,
-            0.5,
-            0.51
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.5,
-            24.35,
-            24.01,
-            24.41,
-            24.8,
+            25.12,
+            25.05,
+            24.76,
+            24.79,
+            25.17,
+            25.38,
+            24.92,
             25.22,
-            24.73,
-            25.13,
-            24.83,
-            24.53,
-            24.84,
-            24.58
+            24.78,
+            24.85,
+            25.1,
+            24.91
         ],
         "hsd_history_software": [
-            9.99,
-            10.07,
-            10.13,
-            9.95,
-            9.76,
-            9.6,
-            9.75,
-            9.73,
-            9.67,
-            9.6,
-            9.77,
-            9.87
+            10.24,
+            10.04,
+            10.19,
+            10.1,
+            10.25,
+            10.1,
+            10.15,
+            10.11,
+            9.98,
+            10.03,
+            10.09,
+            10.02
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:55",
-            "tag": "MERCADO",
-            "text": "Bernstein Sees Tougher Competitive Landscape Taking Shape for Verizon (VZ) and Peers"
-        },
-        {
-            "time": "06:44",
+            "time": "08:25",
             "tag": "AI",
-            "text": "Tech Giants Shift from NVIDIA as Company Expands AI Ecosystem"
+            "text": "Why Stifel Sees IBM as a \u201cSafe Compounder\u201d in AI"
         },
         {
-            "time": "06:44",
+            "time": "08:23",
             "tag": "MERCADO",
-            "text": "Gartner: Zero Trust Data Governance By 2028"
+            "text": "Apple Inc. $AAPL Stock Holdings Reduced by Adams Diversified Equity Fund Inc."
         },
         {
-            "time": "06:33",
+            "time": "08:03",
             "tag": "MERCADO",
-            "text": "Affera momentum continues as Medtronic announces CE Mark in Europe & US IDE first cases for Sphere-360 PFA catheter to treat paroxysmal atrial fibrillation"
+            "text": "Cisco Systems, Inc. (NASDAQ:CSCO) Given Average Recommendation of \"Moderate Buy\" by Analysts"
         },
         {
-            "time": "06:30",
+            "time": "07:54",
+            "tag": "RESULTADOS",
+            "text": "Match Group (MTCH) to Release Earnings on Tuesday"
+        },
+        {
+            "time": "07:52",
             "tag": "MERCADO",
-            "text": "Assessing N-able (NABL) Valuation After B. Riley Securities Initiates Buy Coverage"
+            "text": "Stifel Sees Signs of a Demand Recovery for Texas Instruments (TXN)"
         }
     ]
 }
