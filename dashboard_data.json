@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-01-27 13:53 UTC",
+        "last_updated": "2026-01-27 14:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 186.47,
-            "change": "-1.33%"
+            "price": 186.79,
+            "change": "+3.45%"
         },
         {
             "symbol": "AMD",
-            "price": 251.31,
-            "change": "+3.19%"
+            "price": 250.39,
+            "change": "+3.15%"
         },
         {
             "symbol": "MSFT",
-            "price": 470.28,
-            "change": "-1.43%"
+            "price": 476.2,
+            "change": "-2.57%"
         },
         {
             "symbol": "CEG",
-            "price": 285.27,
-            "change": "-0.22%"
+            "price": 285.5,
+            "change": "+3.28%"
         },
         {
             "symbol": "VST",
-            "price": 158.81,
-            "change": "+2.1%"
+            "price": 159.46,
+            "change": "-2.6%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.47,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
             0.51,
-            0.51,
+            0.5,
+            0.5,
             0.51,
             0.5,
             0.5,
             0.5,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.49
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.89,
-            25.49,
-            25.75,
-            25.5,
-            25.16,
-            25.42,
-            25.27,
-            25.58,
-            25.16,
-            25.31,
-            24.87,
-            25.26
+            23.79,
+            23.92,
+            24.01,
+            24.23,
+            24.22,
+            24.67,
+            24.62,
+            24.76,
+            24.61,
+            24.39,
+            24.38,
+            24.85
         ],
         "hsd_history_software": [
-            10.11,
+            9.96,
+            9.78,
+            9.97,
+            10.07,
+            9.97,
+            9.88,
+            9.95,
             10.0,
-            9.84,
-            9.82,
-            10.02,
-            9.9,
-            9.8,
-            9.86,
-            9.67,
-            9.85,
-            9.79,
-            9.83
+            10.06,
+            10.13,
+            10.05,
+            10.18
         ],
         "rci_data": [
             85.0,
-            18.647
+            18.679
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:19",
+            "time": "13:55",
             "tag": "MERCADO",
-            "text": "Cisco Systems, Inc. $CSCO Shares Purchased by Straight Path Wealth Management"
+            "text": "Verizon to report earnings January 30, 2026"
         },
         {
-            "time": "13:19",
+            "time": "13:55",
             "tag": "MERCADO",
-            "text": "Ownership Capital B.V. Lowers Stock Holdings in Adobe Inc. $ADBE"
+            "text": "ptc launches ai-powered parts management tool for manufacturers"
         },
         {
-            "time": "13:19",
+            "time": "13:52",
             "tag": "MERCADO",
-            "text": "MSCI Inc $MSCI Shares Sold by Ownership Capital B.V."
+            "text": "Corning (GLW) Shares Spike 6% Following $6 Billion Meta Order"
         },
         {
-            "time": "13:18",
-            "tag": "MERCADO",
-            "text": "Short-staffed car dealers get virtual finance pros from Assurant"
+            "time": "13:51",
+            "tag": "AI",
+            "text": "PTC Launches New Windchill AI Parts Rationalization Capabilities"
         },
         {
-            "time": "13:18",
+            "time": "13:49",
             "tag": "MERCADO",
-            "text": "One Year On, Trump's Golden Dome Missile Defense System Struggles For Momentum As China Pushes Ahead: Report"
+            "text": "Assurant launches virtual F&I staffing solution for auto dealerships"
         }
     ]
 }
