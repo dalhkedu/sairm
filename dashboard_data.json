@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-01-28 18:41 UTC",
+        "last_updated": "2026-01-28 19:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 191.88,
-            "change": "-3.23%"
+            "price": 191.23,
+            "change": "+1.01%"
         },
         {
             "symbol": "AMD",
-            "price": 251.96,
-            "change": "-0.02%"
+            "price": 250.54,
+            "change": "-2.2%"
         },
         {
             "symbol": "MSFT",
-            "price": 479.98,
-            "change": "-0.8%"
+            "price": 480.26,
+            "change": "+3.46%"
         },
         {
             "symbol": "CEG",
-            "price": 288.01,
-            "change": "-2.75%"
+            "price": 286.17,
+            "change": "+2.51%"
         },
         {
             "symbol": "VST",
-            "price": 164.21,
-            "change": "+3.01%"
+            "price": 163.77,
+            "change": "+3.13%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.48,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.53,
+            0.53,
+            0.52,
             0.52,
             0.51,
-            0.51,
             0.5,
-            0.5
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.04,
-            25.09,
-            25.24,
-            25.53,
-            25.64,
-            25.34,
-            25.33,
-            25.07,
-            25.19,
-            25.33,
-            25.54,
-            25.46
+            24.89,
+            24.42,
+            24.52,
+            24.11,
+            24.15,
+            24.38,
+            24.59,
+            24.83,
+            24.89,
+            24.83,
+            24.64,
+            24.69
         ],
         "hsd_history_software": [
-            9.88,
-            9.95,
-            9.94,
-            9.91,
-            10.09,
-            10.09,
-            10.16,
-            10.14,
-            10.28,
-            10.08,
-            10.08,
-            9.93
+            9.58,
+            9.55,
+            9.65,
+            9.69,
+            9.77,
+            9.96,
+            10.13,
+            10.24,
+            10.24,
+            10.04,
+            10.1,
+            10.08
         ],
         "rci_data": [
             85.0,
-            19.188
+            19.122999999999998
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:56",
-            "tag": "MERCADO",
-            "text": "Apple\u2019s Creator Studio Isn\u2019t an Adobe Killer. It\u2019s Something Else Entirely"
+            "time": "18:51",
+            "tag": "AI",
+            "text": "KLA (KLAC) stock price slips as traders brace for earnings after ASML\u2019s AI-order surge"
         },
         {
-            "time": "17:39",
+            "time": "18:49",
             "tag": "MERCADO",
-            "text": "10 Information Technology Stocks Whale Activity In Today's Session"
+            "text": "Lam Research and Generac have been highlighted as Zacks Bull and Bear of the Day"
         },
         {
-            "time": "17:30",
+            "time": "18:45",
             "tag": "MERCADO",
-            "text": "Here\u2019s Why Wall Street is Bullish on Flex Ltd. (FLEX)"
+            "text": "SLB Secures Five-Year Technology Deals in Oman's Largest Oil Concession"
         },
         {
-            "time": "17:28",
+            "time": "18:24",
             "tag": "MERCADO",
-            "text": "Palo Alto unveils Quantum-Safe Security to mitigate cryptographic risk"
+            "text": "HP Inc. to Issue Quarterly Dividend of $0.30 (NYSE:HPQ)"
         },
         {
-            "time": "17:24",
+            "time": "18:20",
             "tag": "MERCADO",
-            "text": "UBS Adjusts Take-Two Interactive Software PT to $300 From $292, Maintains Buy Rating"
+            "text": "Keysight Technologies (NYSE:KEYS) Sets New 12-Month High - Here's What Happened"
         }
     ]
 }
