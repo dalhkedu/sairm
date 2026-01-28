@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-28 04:07 UTC",
+        "last_updated": "2026-01-28 05:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 188.52,
-            "change": "+2.78%"
+            "change": "+2.8%"
         },
         {
             "symbol": "AMD",
             "price": 252.03,
-            "change": "-0.17%"
+            "change": "+0.1%"
         },
         {
             "symbol": "MSFT",
             "price": 480.58,
-            "change": "-3.36%"
+            "change": "-0.62%"
         },
         {
             "symbol": "CEG",
             "price": 288.76,
-            "change": "-0.39%"
+            "change": "-0.22%"
         },
         {
             "symbol": "VST",
             "price": 164.26,
-            "change": "-3.28%"
+            "change": "+1.39%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.42,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
             0.49,
             0.49,
-            0.48,
             0.49,
-            0.49
+            0.49,
+            0.5,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.75,
-            24.6,
-            24.8,
+            24.94,
+            24.87,
+            24.94,
+            25.45,
+            25.27,
+            25.27,
+            24.87,
+            24.87,
             24.52,
-            24.95,
-            25.16,
-            25.41,
-            25.22,
-            25.44,
-            25.26,
-            24.78,
-            25.07
+            24.63,
+            24.46,
+            24.79
         ],
         "hsd_history_software": [
-            10.25,
-            10.35,
-            10.16,
-            10.27,
-            10.44,
-            10.47,
-            10.41,
-            10.42,
-            10.37,
-            10.41,
-            10.23,
-            10.08
+            10.1,
+            9.91,
+            9.77,
+            9.83,
+            9.7,
+            9.71,
+            9.87,
+            9.86,
+            9.87,
+            9.99,
+            9.87,
+            9.92
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "04:28",
+            "tag": "MERCADO",
+            "text": "Texas Capital initiates NANO Nuclear Energy stock with Buy rating"
+        },
+        {
+            "time": "04:27",
+            "tag": "MERCADO",
+            "text": "This Industrial Automation Play Just Tripled Its Order Volume"
+        },
+        {
+            "time": "03:33",
+            "tag": "RESULTADOS",
+            "text": "KLA Corporation Earnings: What To Look For From KLAC"
+        },
+        {
+            "time": "03:29",
+            "tag": "MERCADO",
+            "text": "Amazon Reveals Layoff Plans By Mistake In Email To AWS Employees: Report"
+        },
+        {
             "time": "03:25",
             "tag": "RESULTADOS",
             "text": "Earnings To Watch: Western Digital (WDC) Reports Q4 Results Tomorrow"
-        },
-        {
-            "time": "03:23",
-            "tag": "MERCADO",
-            "text": "F5, Inc. Securities Fraud Class Action Result of Data Accessibility: Skip TopNav F5, Inc. Securities Fraud Class Action Result of Data Breach and 24% Stock Decline - Investors may Contact Lewis Kahn, Esq, at Kahn Swick & Foti, LLC"
-        },
-        {
-            "time": "03:20",
-            "tag": "MERCADO",
-            "text": "Nahant Planning Board reviews Crown Castle wireless upgrade"
-        },
-        {
-            "time": "03:11",
-            "tag": "MERCADO",
-            "text": "NXP Unlocks Full Potential of SDVs"
-        },
-        {
-            "time": "02:13",
-            "tag": "MERCADO",
-            "text": "Oracle Data Center Power Outage Disrupts TikTok For Users In US Days After App's High-Stakes Joint Venture Deal"
         }
     ]
 }
