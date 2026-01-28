@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-28 06:41 UTC",
+        "last_updated": "2026-01-28 07:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 188.52,
-            "change": "+1.79%"
+            "change": "-2.69%"
         },
         {
             "symbol": "AMD",
             "price": 252.03,
-            "change": "-0.42%"
+            "change": "+0.35%"
         },
         {
             "symbol": "MSFT",
             "price": 480.58,
-            "change": "+3.22%"
+            "change": "+1.06%"
         },
         {
             "symbol": "CEG",
             "price": 288.76,
-            "change": "+0.34%"
+            "change": "-3.13%"
         },
         {
             "symbol": "VST",
             "price": 164.26,
-            "change": "+0.59%"
+            "change": "+2.02%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.51,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
-            0.5,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
             0.49,
             0.49,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.51,
-            0.5,
+            0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            23.74,
-            23.77,
-            24.2,
-            24.0,
-            23.6,
-            23.73,
-            24.06,
-            23.97,
-            24.2,
-            24.24,
-            24.44,
-            24.57
+            28.27,
+            27.74,
+            27.28,
+            26.95,
+            26.65,
+            26.82,
+            26.62,
+            26.1,
+            25.95,
+            26.0,
+            25.67,
+            25.48
         ],
         "hsd_history_software": [
-            10.62,
-            10.58,
-            10.58,
-            10.43,
-            10.26,
-            10.14,
-            9.98,
-            9.83,
-            9.93,
-            9.9,
-            9.97,
-            10.13
+            9.47,
+            9.31,
+            9.36,
+            9.22,
+            9.35,
+            9.51,
+            9.62,
+            9.67,
+            9.64,
+            9.69,
+            9.81,
+            9.96
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "06:24",
+            "tag": "AI",
+            "text": "How Investors Are Reacting To Becton Dickinson (BDX) Dividend Hike, Buyback Plan And AI-Driven Upgrades"
+        },
+        {
+            "time": "06:05",
+            "tag": "MERCADO",
+            "text": "Halliburton and A*STAR Partner To Advance Well Completion Innovation"
+        },
+        {
             "time": "05:46",
             "tag": "MERCADO",
             "text": "Univers named a leader in 2025 Gartner Magic Quadrant for Global Industrial IoT Platforms"
@@ -139,16 +149,6 @@
             "time": "04:28",
             "tag": "MERCADO",
             "text": "Texas Capital initiates NANO Nuclear Energy stock with Buy rating"
-        },
-        {
-            "time": "04:27",
-            "tag": "MERCADO",
-            "text": "Rosen Law Firm Investigates Securities Claims for New Era Energy & Digital"
-        },
-        {
-            "time": "04:27",
-            "tag": "MERCADO",
-            "text": "This Industrial Automation Play Just Tripled Its Order Volume"
         }
     ]
 }
