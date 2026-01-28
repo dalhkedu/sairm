@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-01-28 13:53 UTC",
+        "last_updated": "2026-01-28 14:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 188.52,
-            "change": "-2.4%"
+            "price": 191.25,
+            "change": "+3.39%"
         },
         {
             "symbol": "AMD",
-            "price": 252.03,
-            "change": "-3.44%"
+            "price": 254.66,
+            "change": "-1.42%"
         },
         {
             "symbol": "MSFT",
-            "price": 480.58,
-            "change": "-2.51%"
+            "price": 481.23,
+            "change": "-1.28%"
         },
         {
             "symbol": "CEG",
-            "price": 288.76,
-            "change": "-2.15%"
+            "price": 291.27,
+            "change": "-1.56%"
         },
         {
             "symbol": "VST",
-            "price": 164.26,
-            "change": "+2.99%"
+            "price": 164.95,
+            "change": "+3.44%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.4,
+        "cer_current": 0.66,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.49,
+            0.49,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            25.21,
-            25.71,
-            25.81,
-            25.42,
-            25.43,
-            25.21,
-            24.83,
-            24.52,
-            24.81,
-            24.82,
-            24.66,
-            24.95
+            25.74,
+            26.2,
+            26.65,
+            26.2,
+            26.2,
+            26.21,
+            26.24,
+            25.95,
+            26.21,
+            25.96,
+            25.53,
+            25.23
         ],
         "hsd_history_software": [
-            9.8,
-            9.61,
-            9.52,
-            9.45,
-            9.57,
-            9.76,
-            9.9,
-            9.87,
-            9.78,
-            9.88,
-            10.0,
-            9.91
+            10.11,
+            10.04,
+            10.24,
+            10.3,
+            10.21,
+            10.08,
+            9.99,
+            9.94,
+            9.95,
+            10.03,
+            10.02,
+            10.12
         ],
         "rci_data": [
             85.0,
-            18.852000000000004
+            19.125
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:23",
+            "time": "14:18",
             "tag": "MERCADO",
-            "text": "AbbVie, SLB, Amphenol, And More On CNBC's 'Final Trades'"
+            "text": "NYSE Content Advisory: Pre-Market Update + First Lady Melania Trump to Ring NYSE Bell for Doc 'Melania'"
         },
         {
-            "time": "13:16",
+            "time": "14:16",
             "tag": "MERCADO",
-            "text": "Micron Bets Big on Memory Growth With $24B Singapore Expansion"
+            "text": "CoStar Group Reiterates Strategic Initiatives to Prioritize Profitable Growth and Increase Long-term Stockholder Value"
         },
         {
-            "time": "13:12",
+            "time": "14:06",
             "tag": "MERCADO",
-            "text": "Constructor is the Only Vendor Named a Customers' Choice in 2025 Gartner Peer Insights\u2122 Voice of the Customer for Search and Product Discovery Report"
+            "text": "National Geographic Society and EPAM Partner to Inspire the Next Generation of Changemakers with Advanced Technology"
         },
         {
-            "time": "13:12",
-            "tag": "MERCADO",
-            "text": "Best Buy (BBY) Joins WeShop's New Reward Program Partnership"
+            "time": "14:03",
+            "tag": "AI",
+            "text": "ServiceNow Reworks Partner Program, Expands AI Services and Partner Monetization"
         },
         {
-            "time": "13:10",
-            "tag": "RESULTADOS",
-            "text": "F5, Inc. (NASDAQ:FFIV) Q1 2026 Earnings Call Transcript"
+            "time": "14:03",
+            "tag": "AI",
+            "text": "New Motorola police AI cuts report writing from an hour to 15 minutes"
         }
     ]
 }
