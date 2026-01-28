@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-28 02:01 UTC",
+        "last_updated": "2026-01-28 04:07 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 188.52,
-            "change": "+0.93%"
+            "change": "+2.78%"
         },
         {
             "symbol": "AMD",
             "price": 252.03,
-            "change": "+2.22%"
+            "change": "-0.17%"
         },
         {
             "symbol": "MSFT",
             "price": 480.58,
-            "change": "+0.95%"
+            "change": "-3.36%"
         },
         {
             "symbol": "CEG",
             "price": 288.76,
-            "change": "+0.6%"
+            "change": "-0.39%"
         },
         {
             "symbol": "VST",
             "price": 164.26,
-            "change": "-1.25%"
+            "change": "-3.28%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.59,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
             0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            24.96,
-            24.51,
-            24.42,
-            24.58,
-            24.54,
-            24.99,
-            25.4,
-            25.31,
-            24.81,
-            24.43,
-            24.36,
-            24.84
+            24.75,
+            24.6,
+            24.8,
+            24.52,
+            24.95,
+            25.16,
+            25.41,
+            25.22,
+            25.44,
+            25.26,
+            24.78,
+            25.07
         ],
         "hsd_history_software": [
-            10.75,
-            10.57,
-            10.43,
-            10.36,
-            10.51,
-            10.33,
+            10.25,
+            10.35,
+            10.16,
+            10.27,
+            10.44,
+            10.47,
+            10.41,
+            10.42,
+            10.37,
+            10.41,
             10.23,
-            10.2,
-            10.32,
-            10.28,
-            10.15,
-            10.19
+            10.08
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:34",
-            "tag": "MERCADO",
-            "text": "Micron Starts Construction of New Advanced Fab in Singapore"
+            "time": "03:25",
+            "tag": "RESULTADOS",
+            "text": "Earnings To Watch: Western Digital (WDC) Reports Q4 Results Tomorrow"
         },
         {
-            "time": "01:27",
+            "time": "03:23",
             "tag": "MERCADO",
-            "text": "Intel says it will match government's 'Trump Accounts' contribution to kids of employees"
+            "text": "F5, Inc. Securities Fraud Class Action Result of Data Accessibility: Skip TopNav F5, Inc. Securities Fraud Class Action Result of Data Breach and 24% Stock Decline - Investors may Contact Lewis Kahn, Esq, at Kahn Swick & Foti, LLC"
         },
         {
-            "time": "01:19",
+            "time": "03:20",
             "tag": "MERCADO",
-            "text": "KLA stock jumps nearly 5% as analysts lift targets ahead of Jan. 29 earnings"
+            "text": "Nahant Planning Board reviews Crown Castle wireless upgrade"
         },
         {
-            "time": "00:34",
+            "time": "03:11",
             "tag": "MERCADO",
-            "text": "Humanoids\u2019 Supply Chain Stall: Gartner\u2019s Pilot Trap Prediction"
+            "text": "NXP Unlocks Full Potential of SDVs"
         },
         {
-            "time": "00:09",
+            "time": "02:13",
             "tag": "MERCADO",
-            "text": "Leidos (LDOS) Stock Sinks As Market Gains: Here's Why"
+            "text": "Oracle Data Center Power Outage Disrupts TikTok For Users In US Days After App's High-Stakes Joint Venture Deal"
         }
     ]
 }
