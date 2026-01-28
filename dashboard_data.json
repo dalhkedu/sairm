@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-01-28 16:41 UTC",
+        "last_updated": "2026-01-28 17:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 190.85,
-            "change": "-0.12%"
+            "price": 191.02,
+            "change": "-2.51%"
         },
         {
             "symbol": "AMD",
-            "price": 252.48,
-            "change": "-3.24%"
+            "price": 251.75,
+            "change": "+2.28%"
         },
         {
             "symbol": "MSFT",
-            "price": 478.46,
-            "change": "+2.12%"
+            "price": 478.41,
+            "change": "+2.19%"
         },
         {
             "symbol": "CEG",
-            "price": 287.5,
-            "change": "+0.58%"
+            "price": 288.07,
+            "change": "-0.49%"
         },
         {
             "symbol": "VST",
-            "price": 162.04,
-            "change": "-2.46%"
+            "price": 162.59,
+            "change": "+1.04%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.45,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.49,
-            0.48,
+            0.5,
             0.49,
             0.49,
-            0.48,
-            0.48,
-            0.48,
             0.49,
+            0.5,
             0.49,
-            0.48,
-            0.49,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            25.75,
-            25.82,
-            26.04,
-            26.33,
-            26.17,
-            25.73,
-            25.6,
-            25.61,
-            25.19,
-            24.7,
-            25.0,
-            24.8
+            23.85,
+            24.34,
+            23.92,
+            24.07,
+            23.7,
+            23.65,
+            23.61,
+            23.95,
+            24.35,
+            24.62,
+            24.9,
+            25.28
         ],
         "hsd_history_software": [
-            9.6,
-            9.63,
-            9.79,
-            9.83,
-            9.82,
-            9.86,
-            9.79,
-            9.74,
-            9.72,
-            9.86,
-            9.88,
-            9.91
+            10.35,
+            10.33,
+            10.31,
+            10.2,
+            10.01,
+            9.91,
+            9.96,
+            9.97,
+            9.9,
+            9.84,
+            10.04,
+            10.1
         ],
         "rci_data": [
             85.0,
-            19.085
+            19.102000000000004
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:14",
+            "time": "17:00",
             "tag": "MERCADO",
-            "text": "What's Going On With Amazon Stock Wednesday?"
+            "text": "Renat Tukanov: \u201cThe key role of IT is to help business grow\u201d"
         },
         {
-            "time": "16:06",
+            "time": "16:55",
             "tag": "MERCADO",
-            "text": "eBay (EBAY) Reiterates Market Outperform Rating: Key Analyst Ins"
+            "text": "West Side Tractor Sales Co. Named Newest Trimble Technology Outlet"
         },
         {
-            "time": "15:57",
+            "time": "16:49",
             "tag": "MERCADO",
-            "text": "Google stock price today: Alphabet Class C inches up as regulators circle and a $135 million Android settlement lands"
+            "text": "Skyworks Stock Is Tumbling. Blame Its Merger Partner Qorvo."
         },
         {
-            "time": "15:49",
+            "time": "16:44",
             "tag": "MERCADO",
-            "text": "Mizuho upgrades Applied Materials to Outperform as WFE spending accelerates"
+            "text": "Take-Two Interactive (TTWO): UBS Raises Price Target to $300 | T"
         },
         {
-            "time": "15:49",
+            "time": "16:33",
             "tag": "MERCADO",
-            "text": "Is Analog Devices (ADI) a Buy as Wall Street Analysts Look Optimistic?"
+            "text": "T. ROWE PRICE EXPERTS REVEAL WHAT'S AHEAD FOR RETIREMENT"
         }
     ]
 }
