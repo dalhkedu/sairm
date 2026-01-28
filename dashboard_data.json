@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-01-28 09:38 UTC",
+        "last_updated": "2026-01-28 10:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 188.52,
-            "change": "+0.86%"
+            "change": "+0.04%"
         },
         {
             "symbol": "AMD",
             "price": 252.03,
-            "change": "+0.03%"
+            "change": "+1.35%"
         },
         {
             "symbol": "MSFT",
             "price": 480.58,
-            "change": "+1.09%"
+            "change": "+0.26%"
         },
         {
             "symbol": "CEG",
             "price": 288.76,
-            "change": "-0.33%"
+            "change": "+1.98%"
         },
         {
             "symbol": "VST",
             "price": 164.26,
-            "change": "+3.19%"
+            "change": "+2.41%"
         }
     ],
     "dashboard_metrics": {
@@ -36,46 +36,46 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.51,
             0.5,
             0.5,
             0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
             0.5,
             0.5,
+            0.51,
+            0.51,
+            0.51,
             0.5,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            26.97,
-            26.62,
-            26.14,
-            25.78,
-            25.52,
-            25.68,
-            25.43,
-            25.2,
-            24.73,
-            24.86,
-            24.73,
-            24.6
+            25.58,
+            25.49,
+            25.65,
+            25.42,
+            25.69,
+            25.33,
+            25.25,
+            24.78,
+            24.89,
+            24.72,
+            24.97,
+            25.2
         ],
         "hsd_history_software": [
-            10.18,
-            10.13,
-            9.95,
+            10.2,
+            10.08,
+            9.88,
+            9.82,
             9.86,
-            9.89,
-            10.07,
-            10.19,
-            10.22,
-            10.21,
-            10.17,
-            10.04,
-            9.85
+            10.0,
+            9.82,
+            9.74,
+            9.56,
+            9.71,
+            9.7,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:16",
-            "tag": "RESULTADOS",
-            "text": "The 5 Most Interesting Analyst Questions From Teledyne's Q4 Earnings Call"
-        },
-        {
-            "time": "08:58",
+            "time": "09:52",
             "tag": "MERCADO",
-            "text": "Wilson Sonsini Advises Underwriters in Nextracker\u2019s Upsized Initial Public Offering"
+            "text": "Belpointe Asset Management LLC Raises Stock Position in International Business Machines Corporation $IBM"
         },
         {
-            "time": "08:54",
-            "tag": "AI",
-            "text": "AIT Q4 Deep Dive: Mixed Organic Growth Amid Pricing Actions and Automation Momentum"
-        },
-        {
-            "time": "08:39",
+            "time": "09:38",
             "tag": "MERCADO",
-            "text": "Allegiance Financial Group Advisory Services LLC Increases Stock Position in Alphabet Inc. $GOOG"
+            "text": "Bank of New York Mellon Corp Purchases 85,215 Shares of AT&T Inc. $T"
         },
         {
-            "time": "08:17",
+            "time": "09:38",
             "tag": "MERCADO",
-            "text": "Polen Capital Bets on Robotic Surgery Leader Intuitive Surgical (ISRG) for Future Growth"
+            "text": "Bank of New York Mellon Corp Lowers Stake in Adobe Inc. $ADBE"
+        },
+        {
+            "time": "09:35",
+            "tag": "MERCADO",
+            "text": "TechTarget, Inc. (NASDAQ:TTGT) Receives Average Recommendation of \"Hold\" from Analysts"
+        },
+        {
+            "time": "09:32",
+            "tag": "MERCADO",
+            "text": "Cases of Ex-Uber Officer, SolarWinds Offer Data Security Lessons"
         }
     ]
 }
