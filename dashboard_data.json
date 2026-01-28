@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-01-28 14:34 UTC",
+        "last_updated": "2026-01-28 15:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 191.25,
-            "change": "+3.39%"
+            "price": 191.28,
+            "change": "+1.88%"
         },
         {
             "symbol": "AMD",
-            "price": 254.66,
-            "change": "-1.42%"
+            "price": 252.96,
+            "change": "-0.01%"
         },
         {
             "symbol": "MSFT",
-            "price": 481.23,
-            "change": "-1.28%"
+            "price": 479.95,
+            "change": "-2.96%"
         },
         {
             "symbol": "CEG",
-            "price": 291.27,
-            "change": "-1.56%"
+            "price": 287.89,
+            "change": "+1.47%"
         },
         {
             "symbol": "VST",
-            "price": 164.95,
-            "change": "+3.44%"
+            "price": 162.05,
+            "change": "+1.19%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.49,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.5,
+            0.5,
             0.49,
             0.5,
             0.49,
             0.49,
             0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            25.74,
-            26.2,
-            26.65,
-            26.2,
-            26.2,
-            26.21,
+            24.77,
+            25.25,
+            25.62,
+            25.52,
+            25.34,
+            25.8,
+            26.23,
+            26.07,
+            25.91,
             26.24,
-            25.95,
-            26.21,
-            25.96,
-            25.53,
-            25.23
+            25.76,
+            25.36
         ],
         "hsd_history_software": [
-            10.11,
-            10.04,
-            10.24,
-            10.3,
-            10.21,
-            10.08,
-            9.99,
-            9.94,
             9.95,
-            10.03,
-            10.02,
-            10.12
+            9.92,
+            10.01,
+            10.19,
+            10.07,
+            10.11,
+            9.91,
+            9.9,
+            10.06,
+            10.06,
+            9.87,
+            10.04
         ],
         "rci_data": [
             85.0,
-            19.125
+            19.128
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:18",
+            "time": "15:13",
             "tag": "MERCADO",
-            "text": "NYSE Content Advisory: Pre-Market Update + First Lady Melania Trump to Ring NYSE Bell for Doc 'Melania'"
+            "text": "Lam Research (LRCX) Has a Shortage That Can't Be Met, Says Jim Cramer"
         },
         {
-            "time": "14:16",
+            "time": "15:13",
             "tag": "MERCADO",
-            "text": "CoStar Group Reiterates Strategic Initiatives to Prioritize Profitable Growth and Increase Long-term Stockholder Value"
+            "text": "KLA Corp (KLAC) Has a Shortage That Can't Be Met, Says Jim Cramer"
         },
         {
-            "time": "14:06",
+            "time": "15:05",
             "tag": "MERCADO",
-            "text": "National Geographic Society and EPAM Partner to Inspire the Next Generation of Changemakers with Advanced Technology"
+            "text": "Jim Cramer Discusses Honeywell (HON)'s Quantum Computing Business"
         },
         {
-            "time": "14:03",
-            "tag": "AI",
-            "text": "ServiceNow Reworks Partner Program, Expands AI Services and Partner Monetization"
+            "time": "15:03",
+            "tag": "MERCADO",
+            "text": "Assessing Broadcom's Performance Against Competitors In Semiconductors & Semiconductor Equipment Industry"
         },
         {
-            "time": "14:03",
-            "tag": "AI",
-            "text": "New Motorola police AI cuts report writing from an hour to 15 minutes"
+            "time": "14:59",
+            "tag": "MERCADO",
+            "text": "Jim Cramer Discusses Salesforce (CRM)"
         }
     ]
 }
