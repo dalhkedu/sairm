@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-28 21:32 UTC",
+        "last_updated": "2026-01-28 22:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 191.52,
-            "change": "-3.34%"
+            "change": "-2.72%"
         },
         {
             "symbol": "AMD",
             "price": 252.74,
-            "change": "+0.7%"
+            "change": "+3.2%"
         },
         {
             "symbol": "MSFT",
             "price": 481.63,
-            "change": "-2.84%"
+            "change": "-2.74%"
         },
         {
             "symbol": "CEG",
             "price": 287.95,
-            "change": "-2.38%"
+            "change": "+2.42%"
         },
         {
             "symbol": "VST",
             "price": 165.64,
-            "change": "-2.31%"
+            "change": "+1.77%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.7,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.49,
             0.5,
             0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.93,
-            25.0,
-            24.69,
-            25.02,
-            25.36,
-            25.48,
-            25.42,
+            26.26,
+            26.26,
+            26.24,
+            26.09,
+            25.71,
+            25.88,
+            25.71,
             25.52,
-            25.16,
-            25.16,
-            25.07,
-            24.82
+            25.38,
+            25.14,
+            25.21,
+            25.04
         ],
         "hsd_history_software": [
-            9.58,
-            9.68,
-            9.8,
-            9.87,
-            9.96,
-            9.89,
-            9.89,
-            9.85,
-            9.92,
-            10.03,
-            9.95,
-            9.99
+            10.53,
+            10.52,
+            10.42,
+            10.53,
+            10.62,
+            10.78,
+            10.79,
+            10.6,
+            10.52,
+            10.35,
+            10.21,
+            10.14
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:59",
+            "time": "21:52",
             "tag": "MERCADO",
-            "text": "|\u2018Clean, efficient, reliable\u2019: $3 million TVA donation transforms UT\u2019s nuclear engineering department"
+            "text": "Lam Research Beats Q2 Estimates, Strong Q3 Guidance"
         },
         {
-            "time": "20:37",
-            "tag": "AI",
-            "text": "Applied Materials Upgrades Link AI Capex Boom To Stretch Valuation Concerns"
+            "time": "21:41",
+            "tag": "MERCADO",
+            "text": "Alteryx launches in-warehouse data prep tool for BigQuery"
         },
         {
-            "time": "20:23",
+            "time": "21:40",
             "tag": "MERCADO",
-            "text": "Western Digital Stock Rises On Seagate's Strong Q2 Results"
+            "text": "Palo Alto Networks May Gain \u2018First-Mover Advantage\u2019 On Quantum Readiness: Analyst"
         },
         {
-            "time": "20:23",
+            "time": "21:39",
             "tag": "MERCADO",
-            "text": "JPMorgan Chase & Co. Issues Pessimistic Forecast for Roper Technologies (NASDAQ:ROP) Stock Price"
+            "text": "Microsoft Continues to Spend Big on A.I. While Profit Jumps 60 Percent"
         },
         {
-            "time": "20:11",
+            "time": "21:39",
             "tag": "MERCADO",
-            "text": "Tyler Technologies stock hits 52-week low at $421.26"
+            "text": "Gartner predicts fewer than 20 companies will deploy humanoids at scale by 2028"
         }
     ]
 }
