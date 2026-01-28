@@ -1,37 +1,37 @@
 {
     "metadata": {
-        "last_updated": "2026-01-28 20:35 UTC",
+        "last_updated": "2026-01-28 21:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 191.47,
-            "change": "+2.34%"
+            "price": 191.52,
+            "change": "-3.34%"
         },
         {
             "symbol": "AMD",
-            "price": 252.79,
-            "change": "-1.28%"
+            "price": 252.74,
+            "change": "+0.7%"
         },
         {
             "symbol": "MSFT",
-            "price": 479.96,
-            "change": "+0.67%"
+            "price": 481.63,
+            "change": "-2.84%"
         },
         {
             "symbol": "CEG",
-            "price": 286.95,
-            "change": "-2.67%"
+            "price": 287.95,
+            "change": "-2.38%"
         },
         {
             "symbol": "VST",
-            "price": 165.16,
-            "change": "-2.35%"
+            "price": 165.64,
+            "change": "-2.31%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.54,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
@@ -39,47 +39,47 @@
             0.5,
             0.5,
             0.5,
-            0.49,
+            0.51,
             0.5,
             0.5,
-            0.49,
             0.5,
+            0.51,
             0.5,
             0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.11,
-            24.99,
             24.93,
-            25.3,
-            25.5,
-            25.21,
-            24.76,
-            24.54,
-            25.01,
-            25.44,
-            25.4,
-            25.44
+            25.0,
+            24.69,
+            25.02,
+            25.36,
+            25.48,
+            25.42,
+            25.52,
+            25.16,
+            25.16,
+            25.07,
+            24.82
         ],
         "hsd_history_software": [
-            11.06,
-            11.18,
-            11.04,
-            10.94,
-            10.85,
-            10.64,
-            10.49,
-            10.44,
-            10.31,
-            10.15,
-            10.06,
-            9.88
+            9.58,
+            9.68,
+            9.8,
+            9.87,
+            9.96,
+            9.89,
+            9.89,
+            9.85,
+            9.92,
+            10.03,
+            9.95,
+            9.99
         ],
         "rci_data": [
             85.0,
-            19.147
+            19.152
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:42",
+            "time": "20:59",
             "tag": "MERCADO",
-            "text": "Microchip Technology Shares Rise After BofA Upgrade"
+            "text": "|\u2018Clean, efficient, reliable\u2019: $3 million TVA donation transforms UT\u2019s nuclear engineering department"
         },
         {
-            "time": "19:38",
-            "tag": "MERCADO",
-            "text": "Jack Henry & Associates' (JKHY) \"Buy\" Rating Reiterated at DA Davidson"
+            "time": "20:37",
+            "tag": "AI",
+            "text": "Applied Materials Upgrades Link AI Capex Boom To Stretch Valuation Concerns"
         },
         {
-            "time": "19:32",
+            "time": "20:23",
             "tag": "MERCADO",
-            "text": "Oracle\u2019s Data Center Attracts Potential Investment From Blackstone: Report"
+            "text": "Western Digital Stock Rises On Seagate's Strong Q2 Results"
         },
         {
-            "time": "19:32",
+            "time": "20:23",
             "tag": "MERCADO",
-            "text": "PROG Holdings, Inc. to Release Fourth Quarter 2025 Financial Results on February 18, 2026"
+            "text": "JPMorgan Chase & Co. Issues Pessimistic Forecast for Roper Technologies (NASDAQ:ROP) Stock Price"
         },
         {
-            "time": "19:31",
+            "time": "20:11",
             "tag": "MERCADO",
-            "text": "Why has TikTok been glitching? Oracle says data center outage led to issues plaguing U.S. users"
+            "text": "Tyler Technologies stock hits 52-week low at $421.26"
         }
     ]
 }
