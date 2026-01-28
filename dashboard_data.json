@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-01-28 17:35 UTC",
+        "last_updated": "2026-01-28 18:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 191.02,
-            "change": "-2.51%"
+            "price": 191.88,
+            "change": "-3.23%"
         },
         {
             "symbol": "AMD",
-            "price": 251.75,
-            "change": "+2.28%"
+            "price": 251.96,
+            "change": "-0.02%"
         },
         {
             "symbol": "MSFT",
-            "price": 478.41,
-            "change": "+2.19%"
+            "price": 479.98,
+            "change": "-0.8%"
         },
         {
             "symbol": "CEG",
-            "price": 288.07,
-            "change": "-0.49%"
+            "price": 288.01,
+            "change": "-2.75%"
         },
         {
             "symbol": "VST",
-            "price": 162.59,
-            "change": "+1.04%"
+            "price": 164.21,
+            "change": "+3.01%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.59,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.5,
             0.49,
             0.5,
-            0.49,
-            0.49,
-            0.49,
             0.5,
-            0.49,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            23.85,
-            24.34,
-            23.92,
-            24.07,
-            23.7,
-            23.65,
-            23.61,
-            23.95,
-            24.35,
-            24.62,
-            24.9,
-            25.28
+            25.04,
+            25.09,
+            25.24,
+            25.53,
+            25.64,
+            25.34,
+            25.33,
+            25.07,
+            25.19,
+            25.33,
+            25.54,
+            25.46
         ],
         "hsd_history_software": [
-            10.35,
-            10.33,
-            10.31,
-            10.2,
-            10.01,
+            9.88,
+            9.95,
+            9.94,
             9.91,
-            9.96,
-            9.97,
-            9.9,
-            9.84,
-            10.04,
-            10.1
+            10.09,
+            10.09,
+            10.16,
+            10.14,
+            10.28,
+            10.08,
+            10.08,
+            9.93
         ],
         "rci_data": [
             85.0,
-            19.102000000000004
+            19.188
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:00",
+            "time": "17:56",
             "tag": "MERCADO",
-            "text": "Renat Tukanov: \u201cThe key role of IT is to help business grow\u201d"
+            "text": "Apple\u2019s Creator Studio Isn\u2019t an Adobe Killer. It\u2019s Something Else Entirely"
         },
         {
-            "time": "16:55",
+            "time": "17:39",
             "tag": "MERCADO",
-            "text": "West Side Tractor Sales Co. Named Newest Trimble Technology Outlet"
+            "text": "10 Information Technology Stocks Whale Activity In Today's Session"
         },
         {
-            "time": "16:49",
+            "time": "17:30",
             "tag": "MERCADO",
-            "text": "Skyworks Stock Is Tumbling. Blame Its Merger Partner Qorvo."
+            "text": "Here\u2019s Why Wall Street is Bullish on Flex Ltd. (FLEX)"
         },
         {
-            "time": "16:44",
+            "time": "17:28",
             "tag": "MERCADO",
-            "text": "Take-Two Interactive (TTWO): UBS Raises Price Target to $300 | T"
+            "text": "Palo Alto unveils Quantum-Safe Security to mitigate cryptographic risk"
         },
         {
-            "time": "16:33",
+            "time": "17:24",
             "tag": "MERCADO",
-            "text": "T. ROWE PRICE EXPERTS REVEAL WHAT'S AHEAD FOR RETIREMENT"
+            "text": "UBS Adjusts Take-Two Interactive Software PT to $300 From $292, Maintains Buy Rating"
         }
     ]
 }
