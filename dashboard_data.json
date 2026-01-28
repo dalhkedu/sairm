@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-28 08:37 UTC",
+        "last_updated": "2026-01-28 09:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 188.52,
-            "change": "+1.28%"
+            "change": "+0.86%"
         },
         {
             "symbol": "AMD",
             "price": 252.03,
-            "change": "+1.41%"
+            "change": "+0.03%"
         },
         {
             "symbol": "MSFT",
             "price": 480.58,
-            "change": "-1.19%"
+            "change": "+1.09%"
         },
         {
             "symbol": "CEG",
             "price": 288.76,
-            "change": "-0.06%"
+            "change": "-0.33%"
         },
         {
             "symbol": "VST",
             "price": 164.26,
-            "change": "+1.29%"
+            "change": "+3.19%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.69,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
             0.5,
             0.5,
             0.5,
             0.49,
             0.49,
-            0.5
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.26,
-            24.87,
-            24.5,
-            24.19,
-            24.16,
-            24.15,
-            24.46,
-            24.93,
-            25.21,
-            25.29,
-            25.08,
-            25.36
+            26.97,
+            26.62,
+            26.14,
+            25.78,
+            25.52,
+            25.68,
+            25.43,
+            25.2,
+            24.73,
+            24.86,
+            24.73,
+            24.6
         ],
         "hsd_history_software": [
-            10.38,
-            10.24,
-            10.1,
-            10.26,
-            10.26,
+            10.18,
+            10.13,
+            9.95,
+            9.86,
+            9.89,
+            10.07,
+            10.19,
             10.22,
+            10.21,
             10.17,
-            9.99,
             10.04,
-            10.14,
-            10.02,
-            10.12
+            9.85
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:58",
-            "tag": "MERCADO",
-            "text": "Western Union, HCLTech inaugurate GCC in Hyderabad"
+            "time": "09:16",
+            "tag": "RESULTADOS",
+            "text": "The 5 Most Interesting Analyst Questions From Teledyne's Q4 Earnings Call"
         },
         {
-            "time": "07:47",
+            "time": "08:58",
             "tag": "MERCADO",
-            "text": "Applied Materials to support growing semiconductor talent with new Bengaluru facility"
+            "text": "Wilson Sonsini Advises Underwriters in Nextracker\u2019s Upsized Initial Public Offering"
         },
         {
-            "time": "06:57",
-            "tag": "MERCADO",
-            "text": "PLDT, Smart Bridge Philippines\u2019 Digital Divide Nationwide"
+            "time": "08:54",
+            "tag": "AI",
+            "text": "AIT Q4 Deep Dive: Mixed Organic Growth Amid Pricing Actions and Automation Momentum"
         },
         {
-            "time": "06:47",
+            "time": "08:39",
             "tag": "MERCADO",
-            "text": "Expedia Group Inc. (EXPE) Advances on Strong B2B Momentum"
+            "text": "Allegiance Financial Group Advisory Services LLC Increases Stock Position in Alphabet Inc. $GOOG"
         },
         {
-            "time": "06:26",
+            "time": "08:17",
             "tag": "MERCADO",
-            "text": "Oklo (OKLO) Is Down 5.2% After Meta Reactor Deal And BofA Upgrade Has The Bull Case Changed?"
+            "text": "Polen Capital Bets on Robotic Surgery Leader Intuitive Surgical (ISRG) for Future Growth"
         }
     ]
 }
