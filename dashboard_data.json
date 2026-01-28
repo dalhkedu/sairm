@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-01-28 15:36 UTC",
+        "last_updated": "2026-01-28 16:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 191.28,
-            "change": "+1.88%"
+            "price": 190.85,
+            "change": "-0.12%"
         },
         {
             "symbol": "AMD",
-            "price": 252.96,
-            "change": "-0.01%"
+            "price": 252.48,
+            "change": "-3.24%"
         },
         {
             "symbol": "MSFT",
-            "price": 479.95,
-            "change": "-2.96%"
+            "price": 478.46,
+            "change": "+2.12%"
         },
         {
             "symbol": "CEG",
-            "price": 287.89,
-            "change": "+1.47%"
+            "price": 287.5,
+            "change": "+0.58%"
         },
         {
             "symbol": "VST",
-            "price": 162.05,
-            "change": "+1.19%"
+            "price": 162.04,
+            "change": "-2.46%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.65,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.5,
-            0.5,
             0.49,
-            0.5,
+            0.48,
             0.49,
             0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.48,
             0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            24.77,
-            25.25,
-            25.62,
-            25.52,
-            25.34,
-            25.8,
-            26.23,
-            26.07,
-            25.91,
-            26.24,
-            25.76,
-            25.36
+            25.75,
+            25.82,
+            26.04,
+            26.33,
+            26.17,
+            25.73,
+            25.6,
+            25.61,
+            25.19,
+            24.7,
+            25.0,
+            24.8
         ],
         "hsd_history_software": [
-            9.95,
-            9.92,
-            10.01,
-            10.19,
-            10.07,
-            10.11,
-            9.91,
-            9.9,
-            10.06,
-            10.06,
-            9.87,
-            10.04
+            9.6,
+            9.63,
+            9.79,
+            9.83,
+            9.82,
+            9.86,
+            9.79,
+            9.74,
+            9.72,
+            9.86,
+            9.88,
+            9.91
         ],
         "rci_data": [
             85.0,
-            19.128
+            19.085
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:13",
+            "time": "16:14",
             "tag": "MERCADO",
-            "text": "Lam Research (LRCX) Has a Shortage That Can't Be Met, Says Jim Cramer"
+            "text": "What's Going On With Amazon Stock Wednesday?"
         },
         {
-            "time": "15:13",
+            "time": "16:06",
             "tag": "MERCADO",
-            "text": "KLA Corp (KLAC) Has a Shortage That Can't Be Met, Says Jim Cramer"
+            "text": "eBay (EBAY) Reiterates Market Outperform Rating: Key Analyst Ins"
         },
         {
-            "time": "15:05",
+            "time": "15:57",
             "tag": "MERCADO",
-            "text": "Jim Cramer Discusses Honeywell (HON)'s Quantum Computing Business"
+            "text": "Google stock price today: Alphabet Class C inches up as regulators circle and a $135 million Android settlement lands"
         },
         {
-            "time": "15:03",
+            "time": "15:49",
             "tag": "MERCADO",
-            "text": "Assessing Broadcom's Performance Against Competitors In Semiconductors & Semiconductor Equipment Industry"
+            "text": "Mizuho upgrades Applied Materials to Outperform as WFE spending accelerates"
         },
         {
-            "time": "14:59",
+            "time": "15:49",
             "tag": "MERCADO",
-            "text": "Jim Cramer Discusses Salesforce (CRM)"
+            "text": "Is Analog Devices (ADI) a Buy as Wall Street Analysts Look Optimistic?"
         }
     ]
 }
