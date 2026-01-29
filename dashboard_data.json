@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-29 10:40 UTC",
+        "last_updated": "2026-01-29 11:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 191.52,
-            "change": "-0.77%"
+            "change": "-0.38%"
         },
         {
             "symbol": "AMD",
             "price": 252.74,
-            "change": "+1.14%"
+            "change": "+0.16%"
         },
         {
             "symbol": "MSFT",
             "price": 481.63,
-            "change": "+1.31%"
+            "change": "-2.99%"
         },
         {
             "symbol": "CEG",
             "price": 287.95,
-            "change": "+2.99%"
+            "change": "-2.09%"
         },
         {
             "symbol": "VST",
             "price": 165.64,
-            "change": "-1.63%"
+            "change": "+1.6%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.58,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.47,
-            0.48,
-            0.48,
             0.49,
-            0.48,
+            0.5,
+            0.5,
+            0.5,
             0.49,
-            0.48,
+            0.5,
             0.49,
             0.49,
+            0.5,
             0.49,
+            0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            25.17,
-            25.24,
+            24.43,
+            24.84,
+            25.26,
+            25.23,
             24.77,
-            24.81,
-            25.27,
-            24.98,
-            25.1,
-            24.83,
-            24.81,
-            25.02,
-            25.38,
-            24.93
+            25.15,
+            24.79,
+            24.66,
+            24.23,
+            24.14,
+            24.05,
+            24.53
         ],
         "hsd_history_software": [
-            9.49,
-            9.56,
-            9.48,
+            9.51,
+            9.7,
+            9.62,
+            9.6,
+            9.77,
             9.67,
-            9.71,
-            9.81,
-            10.01,
-            10.07,
-            10.03,
+            9.83,
             9.95,
-            10.14,
-            10.05
+            9.79,
+            9.98,
+            10.0,
+            9.9
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:45",
+            "time": "11:01",
             "tag": "MERCADO",
-            "text": "Federated Hermes Inc. Sells 18,571 Shares of Paycom Software, Inc. $PAYC"
+            "text": "AMC+ privacy violations $8.3M class action lawsuit settlement"
         },
         {
-            "time": "09:37",
+            "time": "10:43",
             "tag": "MERCADO",
-            "text": "Federated Hermes Inc. Raises Stock Holdings in Lam Research Corporation $LRCX"
+            "text": "Ziff Davis, Inc. $ZD Shares Sold by Universal Beteiligungs und Servicegesellschaft mbH"
         },
         {
-            "time": "09:31",
+            "time": "10:41",
             "tag": "MERCADO",
-            "text": "Bank of New York Mellon Corp Increases Holdings in Robinhood Markets, Inc. $HOOD"
+            "text": "SAP SE (SAP) Stock Falls 15% as Cloud Outlook Raises Concerns"
         },
         {
-            "time": "09:31",
+            "time": "10:25",
             "tag": "MERCADO",
-            "text": "Bank of New York Mellon Corp Acquires 166,985 Shares of Synopsys, Inc. $SNPS"
+            "text": "QQQ ETF Holdings Increased by Activest as Nvidia, Apple, Microsoft Dominate"
         },
         {
-            "time": "09:17",
-            "tag": "RESULTADOS",
-            "text": "Tesla Earnings: Progress on Robotaxi and Optimus Shows Real World AI Growth"
+            "time": "10:24",
+            "tag": "MERCADO",
+            "text": "Foundations Investment Advisors LLC Buys 32,791 Shares of Verizon Communications Inc. $VZ"
         }
     ]
 }
