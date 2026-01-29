@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-01-29 18:53 UTC",
+        "last_updated": "2026-01-29 19:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 190.29,
-            "change": "+2.92%"
+            "price": 190.21,
+            "change": "-1.02%"
         },
         {
             "symbol": "AMD",
-            "price": NaN,
-            "change": "-0.72%"
+            "price": 248.35,
+            "change": "-0.79%"
         },
         {
             "symbol": "MSFT",
-            "price": 423.89,
-            "change": "+0.27%"
+            "price": 423.95,
+            "change": "-1.7%"
         },
         {
             "symbol": "CEG",
-            "price": 284.97,
-            "change": "-0.27%"
+            "price": 285.99,
+            "change": "+0.95%"
         },
         {
             "symbol": "VST",
-            "price": 159.61,
-            "change": "-2.61%"
+            "price": 160.24,
+            "change": "-1.65%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.62,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
             0.5,
+            0.51,
+            0.52,
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
             0.5,
-            0.5,
-            0.49
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.44,
-            26.28,
-            26.15,
-            25.65,
-            25.48,
-            25.73,
-            25.59,
-            25.18,
-            25.14,
-            24.94,
-            25.18,
-            25.38
+            25.78,
+            25.82,
+            25.76,
+            25.74,
+            25.44,
+            25.12,
+            25.1,
+            25.03,
+            25.16,
+            25.0,
+            25.38,
+            25.19
         ],
         "hsd_history_software": [
-            10.27,
-            10.27,
+            9.95,
+            10.1,
+            10.29,
+            10.41,
+            10.29,
+            10.12,
             10.2,
-            10.26,
-            10.23,
-            10.13,
-            10.28,
-            10.47,
-            10.4,
-            10.2,
-            10.19,
-            10.07
+            10.22,
+            10.31,
+            10.33,
+            10.27,
+            10.11
         ],
         "rci_data": [
             85.0,
-            19.029
+            19.021
         ],
         "energy_data": [
             1.2,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "19:00",
+            "tag": "MERCADO",
+            "text": "ONEV: Not Really A Low-Volatility ETF (NYSEARCA:ONEV)"
+        },
+        {
+            "time": "18:56",
+            "tag": "AI",
+            "text": "Apple acquires Israeli AI startup Q.ai in first sizeable deal in years"
+        },
+        {
+            "time": "18:54",
+            "tag": "MERCADO",
+            "text": "Volume spike for 4333.HK Cisco Systems HKSE 30 Jan 2026: monitor earnings flow"
+        },
+        {
             "time": "18:30",
             "tag": "MERCADO",
             "text": "Top Performing Leveraged/Inverse ETFs: 11/05/2023"
@@ -134,21 +149,6 @@
             "time": "18:28",
             "tag": "AI",
             "text": "Synopsys and AMD Honored by World Economic Forum for Generative and Agentic AI Vision, Leadership, and Impact"
-        },
-        {
-            "time": "18:23",
-            "tag": "MERCADO",
-            "text": "Oracle Stock Is Trending Thursday: What's Going On?"
-        },
-        {
-            "time": "18:18",
-            "tag": "MERCADO",
-            "text": "Insider Sell: Michael Smith Sells 4,000 Shares of Teledyne Techn"
-        },
-        {
-            "time": "18:15",
-            "tag": "RESULTADOS",
-            "text": "Earnings call transcript: Dover\u2019s Q4 2025 beats expectations with strong growth"
         }
     ]
 }
