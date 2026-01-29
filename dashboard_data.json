@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-01-29 16:49 UTC",
+        "last_updated": "2026-01-29 17:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 188.1,
-            "change": "+2.96%"
+            "price": 189.88,
+            "change": "+3.11%"
         },
         {
             "symbol": "AMD",
-            "price": 244.91,
-            "change": "-1.39%"
+            "price": 249.46,
+            "change": "+0.16%"
         },
         {
             "symbol": "MSFT",
-            "price": NaN,
-            "change": "-0.05%"
+            "price": 425.07,
+            "change": "-3.47%"
         },
         {
             "symbol": "CEG",
-            "price": 284.15,
-            "change": "+0.46%"
+            "price": 287.24,
+            "change": "+0.87%"
         },
         {
             "symbol": "VST",
-            "price": 161.07,
-            "change": "-0.57%"
+            "price": 160.93,
+            "change": "-2.04%"
         }
     ],
     "dashboard_metrics": {
@@ -36,50 +36,50 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
             0.49,
             0.49,
             0.48,
             0.49,
             0.48,
+            0.47,
+            0.48,
+            0.49,
             0.49,
             0.5,
-            0.49,
-            0.49,
-            0.49,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.88,
-            24.92,
-            24.85,
-            24.59,
-            24.63,
-            24.93,
-            25.0,
-            24.57,
-            24.46,
-            24.79,
-            24.9,
-            25.23
+            26.5,
+            26.71,
+            26.62,
+            26.33,
+            26.27,
+            26.25,
+            26.36,
+            26.07,
+            25.86,
+            25.44,
+            24.98,
+            25.47
         ],
         "hsd_history_software": [
-            9.58,
-            9.63,
-            9.59,
-            9.49,
-            9.66,
-            9.64,
-            9.77,
-            9.61,
+            9.67,
+            9.68,
+            9.76,
             9.8,
-            9.95,
-            9.88,
-            10.02
+            9.69,
+            9.68,
+            9.8,
+            9.7,
+            9.64,
+            9.8,
+            9.8,
+            9.81
         ],
         "rci_data": [
             85.0,
-            18.81
+            18.988
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:59",
+            "time": "16:58",
             "tag": "MERCADO",
-            "text": "Stock market today: S&P 500, Nasdaq sink as Microsoft's post-earnings plunge drags tech down"
+            "text": "IBM\u2019s A3 ratings affirmed by Moody\u2019s, outlook changed to stable"
         },
         {
-            "time": "15:52",
+            "time": "16:57",
             "tag": "MERCADO",
-            "text": "The Truth About EPAM Systems Inc: Is This Quiet Tech Stock a Hidden Cheat Code?"
+            "text": "LG Electronics upgraded to Baa1 by Moody\u2019s on improved metrics"
         },
         {
-            "time": "15:42",
-            "tag": "MERCADO",
-            "text": "G2 to Acquire Key Platforms from Gartner (IT)"
+            "time": "16:44",
+            "tag": "RESULTADOS",
+            "text": "Salesforce Hits Fresh 52-Week Low As Microsoft, SAP, ServiceNow Earnings Jolt Software Stocks"
         },
         {
-            "time": "15:33",
-            "tag": "AI",
-            "text": "AI to drive $1.4T portfolio: Northern Trust hires innovation strategist"
+            "time": "16:43",
+            "tag": "MERCADO",
+            "text": "Assessing Crown Castle (CCI) Valuation After Analyst Revisions Following DISH Wireless Default"
         },
         {
-            "time": "15:28",
-            "tag": "MERCADO",
-            "text": "Why Best Buy\u2019s in-store ads are a big hit with brands"
+            "time": "16:43",
+            "tag": "RESULTADOS",
+            "text": "Microchip Technology (MCHP) Earnings Expected to Grow: Should You Buy?"
         }
     ]
 }
