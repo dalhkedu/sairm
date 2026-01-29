@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-01-29 22:31 UTC",
+        "last_updated": "2026-01-29 23:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 192.51,
-            "change": "-1.01%"
+            "change": "-3.35%"
         },
         {
             "symbol": "AMD",
             "price": 252.18,
-            "change": "-0.65%"
+            "change": "+3.06%"
         },
         {
             "symbol": "MSFT",
             "price": 433.5,
-            "change": "-2.07%"
+            "change": "-2.39%"
         },
         {
             "symbol": "CEG",
             "price": 287.45,
-            "change": "+2.46%"
+            "change": "-1.36%"
         },
         {
             "symbol": "VST",
             "price": 162.58,
-            "change": "+2.44%"
+            "change": "-1.71%"
         }
     ],
     "dashboard_metrics": {
@@ -36,46 +36,46 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.54,
+            0.53,
+            0.54,
+            0.53,
+            0.53,
+            0.53,
             0.52,
             0.52,
-            0.52,
             0.51,
             0.51,
-            0.52,
             0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.28,
-            24.85,
-            24.37,
-            24.82,
-            24.53,
-            24.81,
-            25.14,
-            25.38,
-            25.13,
-            25.13,
-            24.93,
-            25.32
+            24.22,
+            24.24,
+            24.22,
+            24.66,
+            25.11,
+            25.41,
+            25.33,
+            25.65,
+            25.71,
+            25.63,
+            25.65,
+            25.38
         ],
         "hsd_history_software": [
-            9.79,
-            9.9,
-            10.06,
-            9.92,
-            9.89,
-            9.81,
-            9.91,
-            9.75,
-            9.81,
-            9.68,
-            9.82,
-            9.91
+            10.11,
+            10.27,
+            10.37,
+            10.51,
+            10.36,
+            10.4,
+            10.43,
+            10.26,
+            10.08,
+            10.12,
+            10.28,
+            10.16
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:59",
+            "time": "22:53",
             "tag": "AI",
-            "text": "Perplexity Inks Microsoft AI Cloud Deal Amid Dispute With Amazon"
+            "text": "Amazon in Talks to Invest $50 Billion in OpenAI, Expand Ties"
         },
         {
-            "time": "21:52",
-            "tag": "MERCADO",
-            "text": "Vistra (VST) Valuation Check After PJM Regulatory Concerns And Long Term Meta Nuclear Deal"
-        },
-        {
-            "time": "21:51",
+            "time": "22:31",
             "tag": "AI",
-            "text": "Brand Engagement Network (BNAI) Is Up 624.1% After Exclusive African AI Licensing Partnership Announcement"
+            "text": "Amazon Targeting $50 Billion For OpenAI Investment"
         },
         {
-            "time": "21:40",
-            "tag": "MERCADO",
-            "text": "KLA Corporation drops after Q2 beat and mixed outlook"
+            "time": "22:24",
+            "tag": "AI",
+            "text": "Gartner Adds AI and Investment Experts to Board"
         },
         {
-            "time": "21:40",
+            "time": "22:23",
+            "tag": "AI",
+            "text": "Palo Alto Networks Completes Chronosphere Acquisition to Boost AI Security"
+        },
+        {
+            "time": "22:22",
             "tag": "MERCADO",
-            "text": "News | Blackstone reports record results, powered by data center investments"
+            "text": "Instacart Goes \u2018Bananas\u2019 in Super Bowl LX Ad, Featuring a Showdown Between Ben Stiller and Benson Boone"
         }
     ]
 }
