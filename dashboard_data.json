@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-29 11:34 UTC",
+        "last_updated": "2026-01-29 13:04 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 191.52,
-            "change": "-0.38%"
+            "change": "-0.88%"
         },
         {
             "symbol": "AMD",
             "price": 252.74,
-            "change": "+0.16%"
+            "change": "-0.77%"
         },
         {
             "symbol": "MSFT",
             "price": 481.63,
-            "change": "-2.99%"
+            "change": "+1.5%"
         },
         {
             "symbol": "CEG",
             "price": 287.95,
-            "change": "-2.09%"
+            "change": "+0.81%"
         },
         {
             "symbol": "VST",
             "price": 165.64,
-            "change": "+1.6%"
+            "change": "-0.85%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.48,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.5,
-            0.5,
+            0.51,
             0.5,
             0.49,
             0.5,
             0.49,
             0.49,
             0.5,
-            0.49,
             0.5,
-            0.49
+            0.49,
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.43,
-            24.84,
-            25.26,
-            25.23,
-            24.77,
-            25.15,
-            24.79,
-            24.66,
-            24.23,
-            24.14,
-            24.05,
-            24.53
+            25.42,
+            25.73,
+            25.8,
+            25.46,
+            25.43,
+            24.98,
+            25.47,
+            25.03,
+            25.43,
+            25.49,
+            25.34,
+            25.12
         ],
         "hsd_history_software": [
-            9.51,
-            9.7,
-            9.62,
-            9.6,
-            9.77,
-            9.67,
-            9.83,
-            9.95,
+            9.8,
+            9.65,
             9.79,
-            9.98,
-            10.0,
-            9.9
+            9.65,
+            9.55,
+            9.57,
+            9.73,
+            9.87,
+            9.75,
+            9.66,
+            9.73,
+            9.85
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:01",
+            "time": "12:23",
             "tag": "MERCADO",
-            "text": "AMC+ privacy violations $8.3M class action lawsuit settlement"
+            "text": "Tesla Finally Announced the End of an Era"
         },
         {
-            "time": "10:43",
-            "tag": "MERCADO",
-            "text": "Ziff Davis, Inc. $ZD Shares Sold by Universal Beteiligungs und Servicegesellschaft mbH"
+            "time": "12:22",
+            "tag": "RESULTADOS",
+            "text": "L3Harris: Q4 Earnings Snapshot"
         },
         {
-            "time": "10:41",
+            "time": "12:21",
             "tag": "MERCADO",
-            "text": "SAP SE (SAP) Stock Falls 15% as Cloud Outlook Raises Concerns"
+            "text": "Traynor Capital Management Inc. Buys 7,030 Shares of Arista Networks, Inc. $ANET"
         },
         {
-            "time": "10:25",
+            "time": "12:20",
             "tag": "MERCADO",
-            "text": "QQQ ETF Holdings Increased by Activest as Nvidia, Apple, Microsoft Dominate"
+            "text": "Mirae Asset Global Investments Co. Ltd. Purchases 14,466 Shares of Take-Two Interactive Software, Inc. $TTWO"
         },
         {
-            "time": "10:24",
+            "time": "12:18",
             "tag": "MERCADO",
-            "text": "Foundations Investment Advisors LLC Buys 32,791 Shares of Verizon Communications Inc. $VZ"
+            "text": "Mirae Asset Global Investments Co. Ltd. Cuts Stake in Synopsys, Inc. $SNPS"
         }
     ]
 }
