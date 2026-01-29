@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-01-29 17:39 UTC",
+        "last_updated": "2026-01-29 18:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 189.88,
-            "change": "+3.11%"
+            "price": 190.29,
+            "change": "+2.92%"
         },
         {
             "symbol": "AMD",
-            "price": 249.46,
-            "change": "+0.16%"
+            "price": NaN,
+            "change": "-0.72%"
         },
         {
             "symbol": "MSFT",
-            "price": 425.07,
-            "change": "-3.47%"
+            "price": 423.89,
+            "change": "+0.27%"
         },
         {
             "symbol": "CEG",
-            "price": 287.24,
-            "change": "+0.87%"
+            "price": 284.97,
+            "change": "-0.27%"
         },
         {
             "symbol": "VST",
-            "price": 160.93,
-            "change": "-2.04%"
+            "price": 159.61,
+            "change": "-2.61%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.43,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
+            0.48,
+            0.48,
+            0.48,
             0.48,
             0.49,
-            0.48,
-            0.47,
-            0.48,
+            0.49,
             0.49,
             0.49,
             0.5,
             0.5,
-            0.5
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.5,
-            26.71,
-            26.62,
-            26.33,
-            26.27,
-            26.25,
-            26.36,
-            26.07,
-            25.86,
-            25.44,
-            24.98,
-            25.47
+            26.44,
+            26.28,
+            26.15,
+            25.65,
+            25.48,
+            25.73,
+            25.59,
+            25.18,
+            25.14,
+            24.94,
+            25.18,
+            25.38
         ],
         "hsd_history_software": [
-            9.67,
-            9.68,
-            9.76,
-            9.8,
-            9.69,
-            9.68,
-            9.8,
-            9.7,
-            9.64,
-            9.8,
-            9.8,
-            9.81
+            10.27,
+            10.27,
+            10.2,
+            10.26,
+            10.23,
+            10.13,
+            10.28,
+            10.47,
+            10.4,
+            10.2,
+            10.19,
+            10.07
         ],
         "rci_data": [
             85.0,
-            18.988
+            19.029
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:58",
+            "time": "18:30",
             "tag": "MERCADO",
-            "text": "IBM\u2019s A3 ratings affirmed by Moody\u2019s, outlook changed to stable"
+            "text": "Top Performing Leveraged/Inverse ETFs: 11/05/2023"
         },
         {
-            "time": "16:57",
-            "tag": "MERCADO",
-            "text": "LG Electronics upgraded to Baa1 by Moody\u2019s on improved metrics"
+            "time": "18:28",
+            "tag": "AI",
+            "text": "Synopsys and AMD Honored by World Economic Forum for Generative and Agentic AI Vision, Leadership, and Impact"
         },
         {
-            "time": "16:44",
+            "time": "18:23",
+            "tag": "MERCADO",
+            "text": "Oracle Stock Is Trending Thursday: What's Going On?"
+        },
+        {
+            "time": "18:18",
+            "tag": "MERCADO",
+            "text": "Insider Sell: Michael Smith Sells 4,000 Shares of Teledyne Techn"
+        },
+        {
+            "time": "18:15",
             "tag": "RESULTADOS",
-            "text": "Salesforce Hits Fresh 52-Week Low As Microsoft, SAP, ServiceNow Earnings Jolt Software Stocks"
-        },
-        {
-            "time": "16:43",
-            "tag": "MERCADO",
-            "text": "Assessing Crown Castle (CCI) Valuation After Analyst Revisions Following DISH Wireless Default"
-        },
-        {
-            "time": "16:43",
-            "tag": "RESULTADOS",
-            "text": "Microchip Technology (MCHP) Earnings Expected to Grow: Should You Buy?"
+            "text": "Earnings call transcript: Dover\u2019s Q4 2025 beats expectations with strong growth"
         }
     ]
 }
