@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-01-29 19:32 UTC",
+        "last_updated": "2026-01-29 20:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 190.21,
-            "change": "-1.02%"
+            "price": 191.14,
+            "change": "+1.15%"
         },
         {
             "symbol": "AMD",
-            "price": 248.35,
-            "change": "-0.79%"
+            "price": 248.96,
+            "change": "-2.06%"
         },
         {
             "symbol": "MSFT",
-            "price": 423.95,
-            "change": "-1.7%"
+            "price": 428.09,
+            "change": "+1.36%"
         },
         {
             "symbol": "CEG",
-            "price": 285.99,
-            "change": "+0.95%"
+            "price": 286.85,
+            "change": "-0.26%"
         },
         {
             "symbol": "VST",
-            "price": 160.24,
-            "change": "-1.65%"
+            "price": 160.76,
+            "change": "-2.67%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.63,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
             0.52,
             0.51,
-            0.52,
-            0.52,
-            0.52,
             0.51,
             0.51,
             0.5,
+            0.5,
+            0.5,
             0.51,
-            0.5
+            0.5,
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.78,
-            25.82,
-            25.76,
+            25.13,
+            25.08,
+            25.23,
+            25.55,
             25.74,
-            25.44,
-            25.12,
-            25.1,
-            25.03,
-            25.16,
-            25.0,
-            25.38,
-            25.19
+            25.26,
+            24.76,
+            25.21,
+            25.41,
+            25.43,
+            25.04,
+            25.48
         ],
         "hsd_history_software": [
-            9.95,
+            9.98,
+            10.05,
+            10.14,
+            10.0,
+            10.07,
+            9.96,
+            10.06,
+            10.19,
             10.1,
-            10.29,
-            10.41,
-            10.29,
-            10.12,
-            10.2,
-            10.22,
-            10.31,
-            10.33,
-            10.27,
-            10.11
+            10.0,
+            9.93,
+            9.98
         ],
         "rci_data": [
             85.0,
-            19.021
+            19.113999999999997
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:00",
+            "time": "19:57",
             "tag": "MERCADO",
-            "text": "ONEV: Not Really A Low-Volatility ETF (NYSEARCA:ONEV)"
+            "text": "How NetApp Powers NFL\u2019s Digital Game"
         },
         {
-            "time": "18:56",
-            "tag": "AI",
-            "text": "Apple acquires Israeli AI startup Q.ai in first sizeable deal in years"
-        },
-        {
-            "time": "18:54",
+            "time": "19:56",
             "tag": "MERCADO",
-            "text": "Volume spike for 4333.HK Cisco Systems HKSE 30 Jan 2026: monitor earnings flow"
+            "text": "Research Solutions to Announce Second Quarter Fiscal Year 2026 Results on Thursday, February 12, 2026"
         },
         {
-            "time": "18:30",
+            "time": "19:55",
             "tag": "MERCADO",
-            "text": "Top Performing Leveraged/Inverse ETFs: 11/05/2023"
+            "text": "Dish Defaults on American Tower Payments"
         },
         {
-            "time": "18:28",
-            "tag": "AI",
-            "text": "Synopsys and AMD Honored by World Economic Forum for Generative and Agentic AI Vision, Leadership, and Impact"
+            "time": "19:29",
+            "tag": "MERCADO",
+            "text": "First Solar sinks as BMO downgrades, saying Tesla's potential plans may hit sentiment (FSLR:NASDAQ)"
+        },
+        {
+            "time": "19:21",
+            "tag": "MERCADO",
+            "text": "Align Technology Inc.: How a Software-Driven Smile Platform Is Rewiring the Orthodontics Industry"
         }
     ]
 }
