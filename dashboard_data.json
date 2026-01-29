@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-01-29 15:39 UTC",
+        "last_updated": "2026-01-29 16:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 187.77,
-            "change": "-1.06%"
+            "price": 188.1,
+            "change": "+2.96%"
         },
         {
             "symbol": "AMD",
-            "price": 245.65,
-            "change": "-2.51%"
+            "price": 244.91,
+            "change": "-1.39%"
         },
         {
             "symbol": "MSFT",
-            "price": 425.92,
-            "change": "-0.3%"
+            "price": NaN,
+            "change": "-0.05%"
         },
         {
             "symbol": "CEG",
-            "price": 285.65,
-            "change": "+0.18%"
+            "price": 284.15,
+            "change": "+0.46%"
         },
         {
             "symbol": "VST",
-            "price": 161.84,
-            "change": "+1.24%"
+            "price": 161.07,
+            "change": "-0.57%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
+        "cer_current": 0.44,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
             0.49,
             0.49,
             0.48,
-            0.47,
-            0.48,
-            0.48,
+            0.49,
             0.48,
             0.49,
             0.5,
             0.49,
             0.49,
-            0.49
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.5,
-            24.47,
-            24.77,
-            25.0,
-            25.18,
-            24.84,
-            25.12,
-            24.95,
+            24.88,
+            24.92,
+            24.85,
             24.59,
-            24.94,
-            24.97,
-            25.07
+            24.63,
+            24.93,
+            25.0,
+            24.57,
+            24.46,
+            24.79,
+            24.9,
+            25.23
         ],
         "hsd_history_software": [
+            9.58,
+            9.63,
             9.59,
-            9.75,
-            9.94,
+            9.49,
+            9.66,
+            9.64,
+            9.77,
+            9.61,
+            9.8,
             9.95,
-            9.86,
             9.88,
-            10.04,
-            10.07,
-            9.9,
-            9.98,
-            10.14,
-            10.09
+            10.02
         ],
         "rci_data": [
             85.0,
-            18.777
+            18.81
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:09",
+            "time": "15:59",
+            "tag": "MERCADO",
+            "text": "Stock market today: S&P 500, Nasdaq sink as Microsoft's post-earnings plunge drags tech down"
+        },
+        {
+            "time": "15:52",
+            "tag": "MERCADO",
+            "text": "The Truth About EPAM Systems Inc: Is This Quiet Tech Stock a Hidden Cheat Code?"
+        },
+        {
+            "time": "15:42",
+            "tag": "MERCADO",
+            "text": "G2 to Acquire Key Platforms from Gartner (IT)"
+        },
+        {
+            "time": "15:33",
             "tag": "AI",
-            "text": "Nvidia, Microsoft, Amazon lead up to $100B OpenAI investment: report"
+            "text": "AI to drive $1.4T portfolio: Northern Trust hires innovation strategist"
         },
         {
-            "time": "14:53",
+            "time": "15:28",
             "tag": "MERCADO",
-            "text": "Omnicom names Jantzen Bridges as global president of Credera"
-        },
-        {
-            "time": "14:52",
-            "tag": "MERCADO",
-            "text": "Applied Materials stock hits all-time high at 344.1 USD By Investing.com"
-        },
-        {
-            "time": "14:49",
-            "tag": "MERCADO",
-            "text": "Applied Materials stock hits all-time high at 344.1 USD"
-        },
-        {
-            "time": "14:47",
-            "tag": "MERCADO",
-            "text": "Google stock hits all-time high of 341.86 USD"
+            "text": "Why Best Buy\u2019s in-store ads are a big hit with brands"
         }
     ]
 }
