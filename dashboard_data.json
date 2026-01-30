@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-30 05:50 UTC",
+        "last_updated": "2026-01-30 06:55 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 192.51,
-            "change": "-3.38%"
+            "change": "-1.18%"
         },
         {
             "symbol": "AMD",
             "price": 252.18,
-            "change": "+2.13%"
+            "change": "+0.3%"
         },
         {
             "symbol": "MSFT",
             "price": 433.5,
-            "change": "-1.79%"
+            "change": "+0.03%"
         },
         {
             "symbol": "CEG",
             "price": 287.45,
-            "change": "+1.8%"
+            "change": "-2.45%"
         },
         {
             "symbol": "VST",
             "price": 162.58,
-            "change": "-0.79%"
+            "change": "+2.96%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.7,
+        "cer_current": 0.52,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.53,
             0.52,
-            0.51,
+            0.53,
+            0.53,
+            0.53,
             0.52,
             0.52,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.51,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            22.9,
-            23.34,
-            23.77,
-            24.14,
-            24.19,
-            24.24,
-            24.26,
-            24.41,
-            23.95,
-            23.65,
-            24.04,
-            24.5
+            26.32,
+            26.09,
+            26.42,
+            26.27,
+            26.2,
+            25.8,
+            25.52,
+            25.37,
+            25.25,
+            25.65,
+            25.28,
+            25.23
         ],
         "hsd_history_software": [
-            9.43,
-            9.56,
-            9.64,
-            9.84,
-            9.95,
-            9.81,
-            10.01,
-            10.22,
-            10.13,
-            9.97,
-            9.95,
-            9.97
+            10.4,
+            10.54,
+            10.57,
+            10.37,
+            10.18,
+            10.23,
+            10.4,
+            10.21,
+            10.05,
+            9.86,
+            10.02,
+            9.83
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "06:02",
+            "tag": "MERCADO",
+            "text": "Life360 pulls back after 27% rally as investors lock in gains"
+        },
+        {
+            "time": "06:02",
+            "tag": "MERCADO",
+            "text": "Robot maker Richtech Robotics raises $38.7M to fund hardware"
+        },
+        {
+            "time": "05:28",
+            "tag": "AI",
+            "text": "Cadence Design Stock: Riding The AI Supercycle, But With Expectations At The Limit (CDNS)"
+        },
+        {
+            "time": "05:27",
+            "tag": "RESULTADOS",
+            "text": "AMD Gears Up to Report Q4 Earnings: Here's Why the Stock is a Buy"
+        },
+        {
             "time": "04:33",
             "tag": "MERCADO",
             "text": "FIS Announces Increase to Quarterly Dividend"
-        },
-        {
-            "time": "04:03",
-            "tag": "AI",
-            "text": "Bitcoin Mining vs. AI w/ Will Foxley"
-        },
-        {
-            "time": "03:54",
-            "tag": "AI",
-            "text": "Applied Materials Faces Rich Valuation As AI Fab Spending Accelerates"
-        },
-        {
-            "time": "03:10",
-            "tag": "MERCADO",
-            "text": "Unity, Appian, Box, Domo, and Palo Alto Networks Shares Are Falling, What You Need To Know"
-        },
-        {
-            "time": "03:03",
-            "tag": "MERCADO",
-            "text": "Logitech: Inexpensive After Good Q3, But Better Sector Picks Exist"
         }
     ]
 }
