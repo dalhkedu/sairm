@@ -1,37 +1,37 @@
 {
     "metadata": {
-        "last_updated": "2026-01-30 10:38 UTC",
+        "last_updated": "2026-01-30 11:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 192.51,
-            "change": "-1.47%"
+            "change": "+3.39%"
         },
         {
             "symbol": "AMD",
             "price": 252.18,
-            "change": "-3.45%"
+            "change": "-3.32%"
         },
         {
             "symbol": "MSFT",
             "price": 433.5,
-            "change": "-2.92%"
+            "change": "+0.15%"
         },
         {
             "symbol": "CEG",
             "price": 287.45,
-            "change": "+2.89%"
+            "change": "-2.15%"
         },
         {
             "symbol": "VST",
             "price": 162.58,
-            "change": "+0.18%"
+            "change": "+1.39%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.61,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
@@ -42,40 +42,40 @@
             0.51,
             0.5,
             0.5,
+            0.49,
+            0.5,
+            0.49,
             0.5,
             0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51
+            0.49
         ],
         "hsd_history_hardware": [
-            26.53,
-            26.12,
-            26.41,
-            25.92,
-            25.83,
-            25.35,
-            25.01,
-            25.1,
-            24.92,
-            24.77,
-            24.72,
-            24.66
+            24.93,
+            25.21,
+            24.83,
+            25.2,
+            25.16,
+            25.07,
+            25.57,
+            26.04,
+            25.73,
+            26.1,
+            25.78,
+            25.4
         ],
         "hsd_history_software": [
-            10.01,
-            10.03,
+            9.66,
+            9.63,
+            9.75,
+            9.72,
             9.85,
-            10.04,
-            9.9,
-            10.06,
-            9.98,
-            9.79,
-            9.94,
-            9.91,
-            9.98,
-            9.98
+            9.95,
+            9.83,
+            9.65,
+            9.75,
+            9.7,
+            9.86,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:00",
+            "time": "10:45",
             "tag": "MERCADO",
-            "text": "KLA CORP (NASDAQ:KLAC) Reports Mixed Q2 2026 Results with Revenue Beat and EPS Miss"
+            "text": "Apple, Sandisk, Western Digital, KLA Corp., Microsoft, and More StockMovers"
         },
         {
-            "time": "09:46",
+            "time": "10:41",
             "tag": "MERCADO",
-            "text": "Fortinet FortiCNAPP Upgrade Targets Cloud Risk And Long Term FTNT Value"
+            "text": "Alphabet Inc. $GOOG Shares Purchased by Proem Advisors LLC"
         },
         {
-            "time": "09:39",
+            "time": "10:41",
             "tag": "MERCADO",
-            "text": "Forget Tech Stocks: The Energy Stock That's Fueling the Data Center Explosion"
+            "text": "Vantage Investment Partners LLC Sells 11,771 Shares of Alphabet Inc. $GOOG"
         },
         {
-            "time": "09:34",
+            "time": "10:35",
             "tag": "MERCADO",
-            "text": "ResMed Founder\u2019s Horatio Alger Honor And What It Means For Investors"
+            "text": "Alphabet Inc. $GOOG Shares Bought by Strs Ohio"
         },
         {
-            "time": "09:29",
-            "tag": "AI",
-            "text": "AI hiring fraud pushes $6B retailer to adopt selfie ID checks"
+            "time": "10:30",
+            "tag": "RESULTADOS",
+            "text": "Western Digital (WDC) Beats Q2 Earnings and Revenue Estimates"
         }
     ]
 }
