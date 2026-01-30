@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-29 23:30 UTC",
+        "last_updated": "2026-01-30 02:23 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 192.51,
-            "change": "-3.35%"
+            "change": "+2.06%"
         },
         {
             "symbol": "AMD",
             "price": 252.18,
-            "change": "+3.06%"
+            "change": "+1.9%"
         },
         {
             "symbol": "MSFT",
             "price": 433.5,
-            "change": "-2.39%"
+            "change": "-0.04%"
         },
         {
             "symbol": "CEG",
             "price": 287.45,
-            "change": "-1.36%"
+            "change": "-1.84%"
         },
         {
             "symbol": "VST",
             "price": 162.58,
-            "change": "-1.71%"
+            "change": "+2.79%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.61,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.53,
-            0.54,
-            0.53,
-            0.53,
-            0.53,
+            0.51,
+            0.52,
+            0.52,
             0.52,
             0.52,
             0.51,
             0.51,
-            0.51,
-            0.5
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.22,
-            24.24,
-            24.22,
-            24.66,
-            25.11,
-            25.41,
-            25.33,
-            25.65,
-            25.71,
-            25.63,
-            25.65,
-            25.38
+            25.91,
+            26.16,
+            25.98,
+            25.97,
+            26.44,
+            26.9,
+            26.43,
+            25.94,
+            25.58,
+            25.3,
+            24.86,
+            25.36
         ],
         "hsd_history_software": [
-            10.11,
+            10.38,
+            10.42,
+            10.52,
+            10.45,
             10.27,
-            10.37,
-            10.51,
-            10.36,
-            10.4,
-            10.43,
-            10.26,
-            10.08,
+            10.27,
+            10.27,
             10.12,
-            10.28,
-            10.16
+            10.16,
+            10.13,
+            10.15,
+            9.98
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:53",
-            "tag": "AI",
-            "text": "Amazon in Talks to Invest $50 Billion in OpenAI, Expand Ties"
-        },
-        {
-            "time": "22:31",
-            "tag": "AI",
-            "text": "Amazon Targeting $50 Billion For OpenAI Investment"
-        },
-        {
-            "time": "22:24",
-            "tag": "AI",
-            "text": "Gartner Adds AI and Investment Experts to Board"
-        },
-        {
-            "time": "22:23",
-            "tag": "AI",
-            "text": "Palo Alto Networks Completes Chronosphere Acquisition to Boost AI Security"
-        },
-        {
-            "time": "22:22",
+            "time": "01:15",
             "tag": "MERCADO",
-            "text": "Instacart Goes \u2018Bananas\u2019 in Super Bowl LX Ad, Featuring a Showdown Between Ben Stiller and Benson Boone"
+            "text": "New to The Street Broadcasts Show #716 Tonight at 6:30 PM ET on Bloomberg Television Featuring Stardust Power (NASDAQ:SDST), BioVie (NASDAQ:BIVI), Roadzen (NASDAQ:RDZN), with Special Segments from Kelsey Grammer on KAREN and Andrew"
+        },
+        {
+            "time": "00:35",
+            "tag": "MERCADO",
+            "text": "Sanghi Steve, Microchip Technology CEO, sells $7.9 million in stock"
+        },
+        {
+            "time": "00:33",
+            "tag": "AI",
+            "text": "KLA Q2 2026 slides: 17% revenue growth, AI demand drives strong performance"
+        },
+        {
+            "time": "00:24",
+            "tag": "AI",
+            "text": "Cisco Foundation AI debuts agentic security tools to protect autonomous AI systems"
+        },
+        {
+            "time": "00:07",
+            "tag": "MERCADO",
+            "text": "Intuit to Announce Second-Quarter Fiscal Year 2026 Results on Feb. 26"
         }
     ]
 }
