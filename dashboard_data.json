@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-30 09:42 UTC",
+        "last_updated": "2026-01-30 10:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 192.51,
-            "change": "-1.62%"
+            "change": "-1.47%"
         },
         {
             "symbol": "AMD",
             "price": 252.18,
-            "change": "-2.52%"
+            "change": "-3.45%"
         },
         {
             "symbol": "MSFT",
             "price": 433.5,
-            "change": "-0.02%"
+            "change": "-2.92%"
         },
         {
             "symbol": "CEG",
             "price": 287.45,
-            "change": "-1.64%"
+            "change": "+2.89%"
         },
         {
             "symbol": "VST",
             "price": 162.58,
-            "change": "+0.02%"
+            "change": "+0.18%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.56,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
+            0.49,
+            0.49,
+            0.5,
             0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.5,
             0.51,
             0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            25.68,
-            25.18,
-            24.95,
-            25.28,
-            24.95,
-            25.23,
-            25.42,
-            25.77,
-            25.51,
-            25.68,
-            25.22,
-            25.01
+            26.53,
+            26.12,
+            26.41,
+            25.92,
+            25.83,
+            25.35,
+            25.01,
+            25.1,
+            24.92,
+            24.77,
+            24.72,
+            24.66
         ],
         "hsd_history_software": [
-            10.61,
-            10.46,
-            10.41,
-            10.21,
-            10.33,
-            10.26,
-            10.12,
-            10.23,
-            10.25,
+            10.01,
+            10.03,
+            9.85,
+            10.04,
+            9.9,
             10.06,
-            9.93,
-            9.91
+            9.98,
+            9.79,
+            9.94,
+            9.91,
+            9.98,
+            9.98
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:24",
+            "time": "10:00",
             "tag": "MERCADO",
-            "text": "Bank of New York Mellon Corp Has $264.69 Million Stake in Take-Two Interactive Software, Inc. $TTWO"
+            "text": "KLA CORP (NASDAQ:KLAC) Reports Mixed Q2 2026 Results with Revenue Beat and EPS Miss"
         },
         {
-            "time": "09:24",
+            "time": "09:46",
             "tag": "MERCADO",
-            "text": "Bank of New York Mellon Corp Reduces Holdings in eBay Inc. $EBAY"
+            "text": "Fortinet FortiCNAPP Upgrade Targets Cloud Risk And Long Term FTNT Value"
         },
         {
-            "time": "09:24",
+            "time": "09:39",
             "tag": "MERCADO",
-            "text": "Autodesk, Inc. $ADSK Stake Cut by AustralianSuper Pty Ltd"
+            "text": "Forget Tech Stocks: The Energy Stock That's Fueling the Data Center Explosion"
         },
         {
-            "time": "09:24",
+            "time": "09:34",
             "tag": "MERCADO",
-            "text": "Bank of New York Mellon Corp Trims Stake in Fiserv, Inc. $FISV"
+            "text": "ResMed Founder\u2019s Horatio Alger Honor And What It Means For Investors"
         },
         {
-            "time": "09:24",
-            "tag": "MERCADO",
-            "text": "Bank of New York Mellon Corp Sells 59,996 Shares of Electronic Arts Inc. $EA"
+            "time": "09:29",
+            "tag": "AI",
+            "text": "AI hiring fraud pushes $6B retailer to adopt selfie ID checks"
         }
     ]
 }
