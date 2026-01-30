@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-30 08:43 UTC",
+        "last_updated": "2026-01-30 09:42 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 192.51,
-            "change": "+0.26%"
+            "change": "-1.62%"
         },
         {
             "symbol": "AMD",
             "price": 252.18,
-            "change": "+1.76%"
+            "change": "-2.52%"
         },
         {
             "symbol": "MSFT",
             "price": 433.5,
-            "change": "-3.35%"
+            "change": "-0.02%"
         },
         {
             "symbol": "CEG",
             "price": 287.45,
-            "change": "-2.16%"
+            "change": "-1.64%"
         },
         {
             "symbol": "VST",
             "price": 162.58,
-            "change": "+2.72%"
+            "change": "+0.02%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.68,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.51,
             0.5,
-            0.49,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            27.23,
-            27.17,
-            27.42,
-            26.96,
-            26.44,
-            26.33,
-            26.06,
-            25.93,
-            25.83,
-            25.64,
-            25.17,
+            25.68,
+            25.18,
+            24.95,
+            25.28,
+            24.95,
+            25.23,
+            25.42,
+            25.77,
+            25.51,
+            25.68,
+            25.22,
             25.01
         ],
         "hsd_history_software": [
-            9.77,
-            9.97,
-            9.89,
-            9.9,
-            9.91,
-            10.1,
-            10.16,
-            10.0,
-            10.09,
-            9.97,
-            10.17,
-            10.19
+            10.61,
+            10.46,
+            10.41,
+            10.21,
+            10.33,
+            10.26,
+            10.12,
+            10.23,
+            10.25,
+            10.06,
+            9.93,
+            9.91
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:21",
+            "time": "09:24",
             "tag": "MERCADO",
-            "text": "AlphaQuest LLC Buys New Shares in AMETEK, Inc. $AME"
+            "text": "Bank of New York Mellon Corp Has $264.69 Million Stake in Take-Two Interactive Software, Inc. $TTWO"
         },
         {
-            "time": "08:10",
+            "time": "09:24",
             "tag": "MERCADO",
-            "text": "AE Wealth Management LLC Raises Stock Position in QUALCOMM Incorporated $QCOM"
+            "text": "Bank of New York Mellon Corp Reduces Holdings in eBay Inc. $EBAY"
         },
         {
-            "time": "08:03",
-            "tag": "AI",
-            "text": "2 Trillion-Dollar Artificial Intelligence (AI) Stocks To Double Up on Right Now"
+            "time": "09:24",
+            "tag": "MERCADO",
+            "text": "Autodesk, Inc. $ADSK Stake Cut by AustralianSuper Pty Ltd"
         },
         {
-            "time": "07:59",
+            "time": "09:24",
             "tag": "MERCADO",
-            "text": "Apple, Verizon And 3 Stocks To Watch Heading Into Friday"
+            "text": "Bank of New York Mellon Corp Trims Stake in Fiserv, Inc. $FISV"
         },
         {
-            "time": "07:58",
+            "time": "09:24",
             "tag": "MERCADO",
-            "text": "Rigetti Computing (NASDAQ:RGTI) Trading Down 9.8% - Here's Why"
+            "text": "Bank of New York Mellon Corp Sells 59,996 Shares of Electronic Arts Inc. $EA"
         }
     ]
 }
