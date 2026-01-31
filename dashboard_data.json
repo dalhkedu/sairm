@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-31 20:29 UTC",
+        "last_updated": "2026-01-31 21:25 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 191.13,
-            "change": "+2.03%"
+            "change": "+1.45%"
         },
         {
             "symbol": "AMD",
             "price": 236.73,
-            "change": "+2.37%"
+            "change": "-1.79%"
         },
         {
             "symbol": "MSFT",
             "price": 430.29,
-            "change": "+1.01%"
+            "change": "+0.99%"
         },
         {
             "symbol": "CEG",
             "price": 280.68,
-            "change": "-0.59%"
+            "change": "+1.7%"
         },
         {
             "symbol": "VST",
             "price": 158.35,
-            "change": "-2.34%"
+            "change": "-0.25%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.42,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.47,
+            0.47,
             0.48,
             0.49,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
+            0.49,
             0.5,
             0.5,
             0.5,
             0.5,
             0.49,
-            0.49
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.67,
-            25.41,
-            25.49,
-            25.22,
-            24.87,
-            25.22,
-            25.23,
-            24.77,
-            24.66,
-            24.98,
-            24.7,
-            25.08
+            27.8,
+            28.06,
+            27.55,
+            27.25,
+            26.72,
+            26.62,
+            26.11,
+            25.75,
+            25.37,
+            24.92,
+            24.88,
+            25.04
         ],
         "hsd_history_software": [
-            10.38,
-            10.32,
-            10.34,
-            10.22,
-            10.05,
+            9.68,
+            9.72,
             9.9,
-            9.75,
-            9.8,
-            9.64,
-            9.79,
-            9.88,
-            9.99
+            9.89,
+            9.91,
+            10.1,
+            10.09,
+            10.1,
+            10.22,
+            10.15,
+            10.0,
+            9.84
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "20:25",
+            "tag": "MERCADO",
+            "text": "Why Applied Materials (AMAT) stock price slid Friday \u2014 and what to watch next week"
+        },
+        {
+            "time": "19:50",
+            "tag": "MERCADO",
+            "text": "IBM stock price: Insider buy, new board pick and shutdown risk set up Monday trade"
+        },
+        {
+            "time": "19:16",
+            "tag": "AI",
+            "text": "Bristol-Myers Squibb Expands Cancer Efforts With New AI And Drug Deals"
+        },
+        {
             "time": "19:02",
             "tag": "MERCADO",
             "text": "Cloud computing stocks: SKYY ETF slides as Alphabet, Amazon earnings and jobs data loom"
         },
         {
-            "time": "18:46",
+            "time": "19:00",
             "tag": "MERCADO",
-            "text": "Arista Networks: A Wonderful Company At A Not-So-Fair Price (NYSE:ANET)"
-        },
-        {
-            "time": "18:21",
-            "tag": "MERCADO",
-            "text": "Affirm Expands Exclusive Partnership Across Expedia Brands"
-        },
-        {
-            "time": "17:59",
-            "tag": "MERCADO",
-            "text": "The Truth About CoStar Group Inc: Why Wall Street Is Quietly Obsessed"
-        },
-        {
-            "time": "17:44",
-            "tag": "MERCADO",
-            "text": "Intuitive Surgical Inc.'s (ISRG) Long-Run Growth Underestimated, Says TD Cowen"
+            "text": "Quantum computing stocks tumble into weekend: IonQ, Rigetti, D-Wave slide as rate jitters bite"
         }
     ]
 }
