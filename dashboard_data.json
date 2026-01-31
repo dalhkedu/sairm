@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-31 16:33 UTC",
+        "last_updated": "2026-01-31 17:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 191.13,
-            "change": "+0.93%"
+            "change": "+1.47%"
         },
         {
             "symbol": "AMD",
             "price": 236.73,
-            "change": "+1.39%"
+            "change": "-0.84%"
         },
         {
             "symbol": "MSFT",
             "price": 430.29,
-            "change": "-3.35%"
+            "change": "+2.79%"
         },
         {
             "symbol": "CEG",
             "price": 280.68,
-            "change": "-2.77%"
+            "change": "+0.59%"
         },
         {
             "symbol": "VST",
             "price": 158.35,
-            "change": "-2.88%"
+            "change": "+3.3%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.41,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.49,
             0.5,
             0.5,
             0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.51
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.72,
-            25.86,
-            25.93,
-            25.92,
-            25.48,
-            25.37,
-            25.38,
-            25.81,
-            25.59,
-            25.89,
-            25.5,
-            25.26
+            25.57,
+            26.08,
+            25.6,
+            25.41,
+            25.52,
+            25.53,
+            25.41,
+            25.03,
+            24.86,
+            24.78,
+            24.94,
+            25.44
         ],
         "hsd_history_software": [
-            10.06,
-            10.04,
-            10.07,
-            9.89,
-            10.05,
-            9.95,
-            10.1,
-            10.01,
-            10.03,
-            10.05,
-            9.86,
-            10.04
+            10.3,
+            10.35,
+            10.34,
+            10.34,
+            10.39,
+            10.31,
+            10.34,
+            10.36,
+            10.42,
+            10.27,
+            10.08,
+            9.92
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "16:09",
+            "tag": "MERCADO",
+            "text": "Here\u2019s Why MSCI Stock\u2019s Recurring Index Fees Support 15% Upside in 2026"
+        },
+        {
             "time": "15:51",
             "tag": "AI",
             "text": "Is Gartner (IT) Quietly Recasting Its Investment Story Around Boardroom AI and Capital Markets Expertise?"
@@ -144,11 +149,6 @@
             "time": "14:46",
             "tag": "AI",
             "text": "Will Futubull AI And New Nasdaq Options Cycles Change Futu Holdings' (FUTU) Narrative?"
-        },
-        {
-            "time": "14:39",
-            "tag": "AI",
-            "text": "Nvidia CEO Huang denies he is unhappy with OpenAI, says 'huge' investment planned at 'trillion-dollar dinner'"
         }
     ]
 }
