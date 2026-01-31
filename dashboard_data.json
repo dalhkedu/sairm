@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-31 22:26 UTC",
+        "last_updated": "2026-01-31 23:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 191.13,
-            "change": "+3.11%"
+            "change": "-0.24%"
         },
         {
             "symbol": "AMD",
             "price": 236.73,
-            "change": "-0.34%"
+            "change": "-0.61%"
         },
         {
             "symbol": "MSFT",
             "price": 430.29,
-            "change": "+2.8%"
+            "change": "-0.65%"
         },
         {
             "symbol": "CEG",
             "price": 280.68,
-            "change": "+2.32%"
+            "change": "-1.12%"
         },
         {
             "symbol": "VST",
             "price": 158.35,
-            "change": "+1.42%"
+            "change": "+1.57%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
+        "cer_current": 0.6,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.52,
-            0.52,
+            0.54,
             0.53,
             0.53,
-            0.53,
-            0.53,
+            0.54,
+            0.54,
             0.53,
             0.52,
             0.51,
-            0.51
+            0.51,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.28,
-            24.82,
-            24.79,
-            24.98,
-            24.58,
-            24.82,
-            24.74,
-            24.56,
-            24.23,
-            24.56,
-            24.84,
-            25.13
+            25.39,
+            25.42,
+            25.34,
+            25.27,
+            24.83,
+            24.49,
+            24.22,
+            24.67,
+            24.53,
+            25.02,
+            25.23,
+            25.29
         ],
         "hsd_history_software": [
-            10.32,
-            10.45,
-            10.33,
-            10.19,
-            10.2,
-            10.3,
-            10.11,
-            10.2,
-            10.27,
-            10.34,
-            10.2,
-            10.11
+            9.52,
+            9.58,
+            9.71,
+            9.59,
+            9.44,
+            9.44,
+            9.5,
+            9.66,
+            9.8,
+            9.86,
+            9.87,
+            10.04
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:21",
+            "time": "22:02",
             "tag": "MERCADO",
             "text": "Visteon (VC) Price Target Lowered as Barclays Reviews Auto and Mobility Group"
         },
         {
-            "time": "21:18",
+            "time": "21:39",
             "tag": "RESULTADOS",
             "text": "Seagate (STX) Climbs 17.8% on Earnings Blowout"
         },
         {
-            "time": "21:10",
+            "time": "21:34",
             "tag": "MERCADO",
-            "text": "T-Mobile stock jumps 4% as Verizon buyback talk grabs attention \u2014 what to watch next for TMUS"
+            "text": "JPMorgan Raises VeriSign (VRSN) Target as Domain Trends Improve"
         },
         {
-            "time": "21:03",
+            "time": "21:34",
             "tag": "MERCADO",
-            "text": "Analysts Reassess Oracle Corporation (ORCL)'s Long-Term Prospects"
+            "text": "JPMorgan Raises VeriSign (VRSN) Target as Domain Trends Improve"
         },
         {
-            "time": "21:01",
+            "time": "21:26",
             "tag": "MERCADO",
-            "text": "zSpace receives $3 million strategic investment from Planet One Education By Investing.com"
+            "text": "Insulet Sets Date for Key Financial Report Amid Product Evolution"
         }
     ]
 }
