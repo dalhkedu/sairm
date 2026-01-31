@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-31 07:31 UTC",
+        "last_updated": "2026-01-31 08:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 191.13,
-            "change": "-1.9%"
+            "change": "+1.16%"
         },
         {
             "symbol": "AMD",
             "price": 236.73,
-            "change": "-1.2%"
+            "change": "+1.03%"
         },
         {
             "symbol": "MSFT",
             "price": 430.29,
-            "change": "+0.09%"
+            "change": "-1.72%"
         },
         {
             "symbol": "CEG",
             "price": 280.68,
-            "change": "-0.71%"
+            "change": "+0.5%"
         },
         {
             "symbol": "VST",
             "price": 158.35,
-            "change": "+1.59%"
+            "change": "-2.69%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.4,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
-            0.51,
+            0.49,
+            0.5,
             0.51,
             0.5,
             0.51,
-            0.51,
-            0.52,
-            0.51,
+            0.5,
+            0.49,
             0.5,
             0.51,
-            0.5
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.46,
-            25.94,
-            25.63,
-            25.75,
-            26.11,
-            26.36,
-            26.04,
-            25.65,
-            25.26,
-            25.14,
-            25.49,
-            25.46
+            23.67,
+            23.26,
+            23.73,
+            24.0,
+            24.2,
+            24.35,
+            24.73,
+            24.89,
+            24.77,
+            24.68,
+            24.97,
+            24.55
         ],
         "hsd_history_software": [
-            10.75,
-            10.6,
-            10.42,
-            10.55,
-            10.39,
-            10.36,
-            10.33,
-            10.34,
-            10.44,
-            10.27,
+            10.23,
+            10.14,
+            10.09,
+            10.17,
+            10.19,
             10.13,
-            10.19
+            10.14,
+            10.34,
+            10.34,
+            10.3,
+            10.25,
+            10.15
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "07:40",
+            "tag": "MERCADO",
+            "text": "Is Wells Fargo\u2019s New Proxy Voting System Quietly Reinforcing Broadridge (BR) as Essential Market Infrastructure?"
+        },
+        {
+            "time": "07:40",
+            "tag": "MERCADO",
+            "text": "Applied Materials (AMAT) Valuation Check After Analyst Upgrades And Multi Year Chip Spending Cycle Hopes"
+        },
+        {
             "time": "06:41",
             "tag": "MERCADO",
             "text": "Booking Holdings Unveils New Tools As Valuation And Growth Draw Focus"
@@ -139,16 +149,6 @@
             "time": "06:30",
             "tag": "MERCADO",
             "text": "Wall Street Bullish on Progress Software Corporation (PRGS), Here's Why"
-        },
-        {
-            "time": "06:09",
-            "tag": "MERCADO",
-            "text": "The Truth About Cisco Systems Inc: Why Everyone Is Suddenly Paying Attention to CSCO"
-        },
-        {
-            "time": "06:03",
-            "tag": "MERCADO",
-            "text": "The Truth About Tyler Technologies: Why Everyone Is Suddenly Paying Attention"
         }
     ]
 }
