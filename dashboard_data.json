@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-31 17:26 UTC",
+        "last_updated": "2026-01-31 18:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 191.13,
-            "change": "+1.47%"
+            "change": "-1.99%"
         },
         {
             "symbol": "AMD",
             "price": 236.73,
-            "change": "-0.84%"
+            "change": "-2.54%"
         },
         {
             "symbol": "MSFT",
             "price": 430.29,
-            "change": "+2.79%"
+            "change": "+1.24%"
         },
         {
             "symbol": "CEG",
             "price": 280.68,
-            "change": "+0.59%"
+            "change": "+1.7%"
         },
         {
             "symbol": "VST",
             "price": 158.35,
-            "change": "+3.3%"
+            "change": "-1.23%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.52,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.5,
             0.5,
             0.5,
-            0.49,
-            0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            25.57,
             26.08,
-            25.6,
-            25.41,
-            25.52,
-            25.53,
-            25.41,
-            25.03,
-            24.86,
-            24.78,
-            24.94,
-            25.44
+            26.6,
+            26.09,
+            26.11,
+            26.13,
+            25.91,
+            25.83,
+            25.81,
+            25.85,
+            25.91,
+            25.51,
+            25.16
         ],
         "hsd_history_software": [
-            10.3,
-            10.35,
-            10.34,
-            10.34,
-            10.39,
-            10.31,
-            10.34,
-            10.36,
-            10.42,
-            10.27,
-            10.08,
-            9.92
+            9.59,
+            9.62,
+            9.63,
+            9.82,
+            9.71,
+            9.72,
+            9.87,
+            9.97,
+            10.15,
+            10.06,
+            9.98,
+            9.96
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:09",
+            "time": "17:44",
             "tag": "MERCADO",
-            "text": "Here\u2019s Why MSCI Stock\u2019s Recurring Index Fees Support 15% Upside in 2026"
+            "text": "Intuitive Surgical Inc.'s (ISRG) Long-Run Growth Underestimated, Says TD Cowen"
         },
         {
-            "time": "15:51",
-            "tag": "AI",
-            "text": "Is Gartner (IT) Quietly Recasting Its Investment Story Around Boardroom AI and Capital Markets Expertise?"
-        },
-        {
-            "time": "15:14",
+            "time": "17:42",
             "tag": "MERCADO",
-            "text": "IDEXX Laboratories, Inc. (IDXX): Innovation and Seamless Leadership Transition Drive 2026 Outlook"
+            "text": "Moody\u2019s Corp: Steady Climb, Nervous Market \u2013 Is MCO Quietly Setting Up Its Next Breakout?"
         },
         {
-            "time": "14:59",
-            "tag": "AI",
-            "text": "1 Underrated AI Stock to Buy and Hold for 10 Years"
+            "time": "17:10",
+            "tag": "MERCADO",
+            "text": "Analysts Are Trying To Badly Catch Up To Applied Materials, (AMAT) Says Jim Cramer"
         },
         {
-            "time": "14:46",
-            "tag": "AI",
-            "text": "Will Futubull AI And New Nasdaq Options Cycles Change Futu Holdings' (FUTU) Narrative?"
+            "time": "17:10",
+            "tag": "MERCADO",
+            "text": "Corporations partner to help Calif. firefighters detect, fight wildfires faster"
+        },
+        {
+            "time": "16:49",
+            "tag": "MERCADO",
+            "text": "F5 Lawsuits Test BIG IP Security Story And Growth Resilience"
         }
     ]
 }
