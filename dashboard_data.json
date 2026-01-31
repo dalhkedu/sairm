@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-31 15:27 UTC",
+        "last_updated": "2026-01-31 16:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 191.13,
-            "change": "+3.07%"
+            "change": "+0.93%"
         },
         {
             "symbol": "AMD",
             "price": 236.73,
-            "change": "-3.13%"
+            "change": "+1.39%"
         },
         {
             "symbol": "MSFT",
             "price": 430.29,
-            "change": "-0.77%"
+            "change": "-3.35%"
         },
         {
             "symbol": "CEG",
             "price": 280.68,
-            "change": "+3.13%"
+            "change": "-2.77%"
         },
         {
             "symbol": "VST",
             "price": 158.35,
-            "change": "+0.45%"
+            "change": "-2.88%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.64,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.51,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
             0.51,
             0.5,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.49
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.76,
-            25.33,
-            25.13,
-            25.14,
-            25.15,
-            25.56,
+            25.72,
+            25.86,
+            25.93,
+            25.92,
+            25.48,
+            25.37,
+            25.38,
+            25.81,
             25.59,
-            25.46,
-            25.19,
-            25.6,
-            25.25,
-            25.49
+            25.89,
+            25.5,
+            25.26
         ],
         "hsd_history_software": [
-            10.28,
-            10.37,
-            10.38,
-            10.55,
-            10.64,
-            10.66,
-            10.82,
-            10.68,
-            10.54,
-            10.42,
-            10.25,
-            10.1
+            10.06,
+            10.04,
+            10.07,
+            9.89,
+            10.05,
+            9.95,
+            10.1,
+            10.01,
+            10.03,
+            10.05,
+            9.86,
+            10.04
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:30",
-            "tag": "MERCADO",
-            "text": "Verizon announces $0.7075 quarterly dividend and $25 billion share buyback"
+            "time": "15:51",
+            "tag": "AI",
+            "text": "Is Gartner (IT) Quietly Recasting Its Investment Story Around Boardroom AI and Capital Markets Expertise?"
         },
         {
-            "time": "14:16",
+            "time": "15:14",
             "tag": "MERCADO",
-            "text": "Jim Cramer in Intuit: \"I Think It Should Do Better\""
+            "text": "IDEXX Laboratories, Inc. (IDXX): Innovation and Seamless Leadership Transition Drive 2026 Outlook"
         },
         {
-            "time": "14:14",
-            "tag": "MERCADO",
-            "text": "Jim Cramer on International Business Machines: \"Inexpensive Stock Even Here\""
+            "time": "14:59",
+            "tag": "AI",
+            "text": "1 Underrated AI Stock to Buy and Hold for 10 Years"
         },
         {
-            "time": "13:54",
-            "tag": "MERCADO",
-            "text": "Analysts\u2019 Opinions Are Mixed on These Technology Stocks: Coherent Corp (COHR), DXC Technology (DXC) and Fair Isaac (FICO)"
+            "time": "14:46",
+            "tag": "AI",
+            "text": "Will Futubull AI And New Nasdaq Options Cycles Change Futu Holdings' (FUTU) Narrative?"
         },
         {
-            "time": "13:51",
-            "tag": "MERCADO",
-            "text": "Jim Cramer Says Tesla\u2019s Robots and Robotaxi Progress Are the Real Drivers Behind the Stock\u2019s After-Hours Move"
+            "time": "14:39",
+            "tag": "AI",
+            "text": "Nvidia CEO Huang denies he is unhappy with OpenAI, says 'huge' investment planned at 'trillion-dollar dinner'"
         }
     ]
 }
