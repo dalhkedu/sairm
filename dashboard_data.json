@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-31 14:28 UTC",
+        "last_updated": "2026-01-31 15:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 191.13,
-            "change": "-3.26%"
+            "change": "+3.07%"
         },
         {
             "symbol": "AMD",
             "price": 236.73,
-            "change": "-0.36%"
+            "change": "-3.13%"
         },
         {
             "symbol": "MSFT",
             "price": 430.29,
-            "change": "-2.34%"
+            "change": "-0.77%"
         },
         {
             "symbol": "CEG",
             "price": 280.68,
-            "change": "+2.69%"
+            "change": "+3.13%"
         },
         {
             "symbol": "VST",
             "price": 158.35,
-            "change": "-2.77%"
+            "change": "+0.45%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.54,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
+            0.52,
+            0.52,
             0.51,
             0.51,
             0.5,
-            0.51
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.48,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.19,
-            23.93,
-            24.33,
-            24.27,
-            24.07,
-            23.73,
-            23.77,
-            23.93,
-            24.38,
-            24.47,
-            24.25,
-            24.64
+            25.76,
+            25.33,
+            25.13,
+            25.14,
+            25.15,
+            25.56,
+            25.59,
+            25.46,
+            25.19,
+            25.6,
+            25.25,
+            25.49
         ],
         "hsd_history_software": [
-            10.1,
-            10.15,
-            10.09,
-            10.18,
-            10.22,
-            10.17,
-            10.18,
-            9.99,
-            9.83,
-            9.99,
-            9.94,
-            9.98
+            10.28,
+            10.37,
+            10.38,
+            10.55,
+            10.64,
+            10.66,
+            10.82,
+            10.68,
+            10.54,
+            10.42,
+            10.25,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:27",
-            "tag": "RESULTADOS",
-            "text": "The Hartford Financial Services Group, Inc. (NYSE:HIG) Q4 2025 Earnings Call Transcript"
+            "time": "14:30",
+            "tag": "MERCADO",
+            "text": "Verizon announces $0.7075 quarterly dividend and $25 billion share buyback"
         },
         {
-            "time": "13:27",
+            "time": "14:16",
             "tag": "MERCADO",
-            "text": "Apple Inc. (NASDAQ:AAPL) Q1 2026 earnings call transcript"
+            "text": "Jim Cramer in Intuit: \"I Think It Should Do Better\""
         },
         {
-            "time": "13:12",
+            "time": "14:14",
             "tag": "MERCADO",
-            "text": "Intuitive Surgical Faces Growth Slowdown Challenges"
+            "text": "Jim Cramer on International Business Machines: \"Inexpensive Stock Even Here\""
         },
         {
-            "time": "13:01",
+            "time": "13:54",
             "tag": "MERCADO",
-            "text": "Cantor Fitzgerald Raises Pfizer (PFE) PT to $27 Amid Shifting Obesity Data Focus"
+            "text": "Analysts\u2019 Opinions Are Mixed on These Technology Stocks: Coherent Corp (COHR), DXC Technology (DXC) and Fair Isaac (FICO)"
         },
         {
-            "time": "12:54",
+            "time": "13:51",
             "tag": "MERCADO",
-            "text": "Wells Fargo Maintains Overweight Rating on AT&T (T), Adjusts PT to $27"
+            "text": "Jim Cramer Says Tesla\u2019s Robots and Robotaxi Progress Are the Real Drivers Behind the Stock\u2019s After-Hours Move"
         }
     ]
 }
