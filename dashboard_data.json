@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-01-31 10:29 UTC",
+        "last_updated": "2026-01-31 11:24 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 191.13,
-            "change": "+0.69%"
+            "change": "+2.69%"
         },
         {
             "symbol": "AMD",
             "price": 236.73,
-            "change": "-0.65%"
+            "change": "-1.67%"
         },
         {
             "symbol": "MSFT",
             "price": 430.29,
-            "change": "-2.25%"
+            "change": "-0.58%"
         },
         {
             "symbol": "CEG",
             "price": 280.68,
-            "change": "+1.92%"
+            "change": "+1.0%"
         },
         {
             "symbol": "VST",
             "price": 158.35,
-            "change": "+2.0%"
+            "change": "+2.27%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.43,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
             0.5,
             0.5,
+            0.49,
             0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.35,
-            24.59,
             24.25,
-            23.98,
-            23.86,
-            24.01,
-            23.75,
-            24.23,
-            24.43,
-            24.47,
-            24.84,
-            25.27
+            24.64,
+            24.87,
+            24.94,
+            25.25,
+            25.64,
+            25.49,
+            25.2,
+            24.97,
+            25.08,
+            25.0,
+            24.95
         ],
         "hsd_history_software": [
             9.78,
-            9.72,
-            9.68,
-            9.77,
             9.84,
-            9.74,
-            9.91,
-            9.98,
-            10.03,
-            10.18,
-            10.22,
-            10.04
+            9.92,
+            9.84,
+            9.76,
+            9.78,
+            9.92,
+            9.85,
+            9.89,
+            9.94,
+            9.83,
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:20",
+            "time": "10:29",
             "tag": "MERCADO",
-            "text": "Bank of New York Mellon Corp Has $209.07 Million Stock Position in Fidelity National Information Services, Inc. $FIS"
+            "text": "Stanley Hills LLC sells VisionWave Holdings (VWAV) stock for $8.2m"
         },
         {
-            "time": "09:17",
+            "time": "10:15",
             "tag": "MERCADO",
-            "text": "Mountain Hill Investment Partners Corp. Has $9.87 Million Stake in NVIDIA Corporation $NVDA"
+            "text": "Motorola Solutions, Inc. $MSI Shares Purchased by AlphaQuest LLC"
         },
         {
-            "time": "09:17",
+            "time": "10:15",
             "tag": "MERCADO",
-            "text": "Bank of New York Mellon Corp Reduces Stock Position in NetApp, Inc. $NTAP"
+            "text": "Alphabet Inc. $GOOG Shares Purchased by Mn Services Vermogensbeheer B.V."
         },
         {
-            "time": "09:15",
+            "time": "10:14",
             "tag": "MERCADO",
-            "text": "Summit Global Investments Invests $1.10 Million in United Microelectronics Corporation $UMC"
+            "text": "Cisco Climbs Toward Highs While IREN Faces 10% Reality Check"
         },
         {
-            "time": "09:10",
+            "time": "10:08",
             "tag": "MERCADO",
-            "text": "New York State Common Retirement Fund Cuts Stock Holdings in eBay Inc. $EBAY"
+            "text": "Bank of New York Mellon Corp Raises Stake in Skyworks Solutions, Inc. $SWKS"
         }
     ]
 }
