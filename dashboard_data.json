@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-01 12:57 UTC",
+        "last_updated": "2026-02-01 13:48 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 191.13,
-            "change": "-2.83%"
+            "change": "-0.77%"
         },
         {
             "symbol": "AMD",
             "price": 236.73,
-            "change": "-0.15%"
+            "change": "+3.29%"
         },
         {
             "symbol": "MSFT",
             "price": 430.29,
-            "change": "+2.62%"
+            "change": "-3.49%"
         },
         {
             "symbol": "CEG",
             "price": 280.68,
-            "change": "+0.67%"
+            "change": "-2.03%"
         },
         {
             "symbol": "VST",
             "price": 158.35,
-            "change": "+2.68%"
+            "change": "-2.73%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.61,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
+            0.5,
+            0.51,
+            0.52,
+            0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
             0.49,
             0.5,
             0.5,
-            0.5,
-            0.49,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            24.96,
-            24.85,
-            24.42,
-            24.63,
-            24.49,
-            24.57,
-            24.95,
-            25.39,
-            25.79,
-            25.35,
-            24.99,
-            24.7
+            24.92,
+            24.68,
+            24.88,
+            24.94,
+            24.93,
+            25.41,
+            25.04,
+            24.62,
+            24.72,
+            25.11,
+            25.28,
+            25.22
         ],
         "hsd_history_software": [
-            10.4,
-            10.56,
-            10.54,
-            10.38,
-            10.29,
-            10.28,
-            10.23,
-            10.24,
-            10.29,
-            10.18,
-            10.17,
-            9.99
+            9.76,
+            9.67,
+            9.69,
+            9.82,
+            9.78,
+            9.86,
+            9.98,
+            10.13,
+            10.01,
+            10.15,
+            9.98,
+            9.92
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:01",
+            "time": "12:39",
             "tag": "MERCADO",
-            "text": "Why Taiwan Matters To Global Technology \u2013 OpEd"
+            "text": "Independent Advisor Alliance Reduces Holdings in Arista Networks, Inc. $ANET"
         },
         {
-            "time": "11:53",
+            "time": "12:38",
             "tag": "MERCADO",
-            "text": "Y Intercept Hong Kong Ltd Buys New Shares in ON Semiconductor Corporation $ON"
+            "text": "Synopsys, Inc. $SNPS Shares Acquired by National Pension Service"
         },
         {
-            "time": "11:53",
+            "time": "12:25",
             "tag": "MERCADO",
-            "text": "Mirae Asset Global Investments Co. Ltd. Purchases 3,346 Shares of MSCI Inc $MSCI"
+            "text": "Principal Financial Group Inc. Purchases 555,752 Shares of Spotify Technology $SPOT"
         },
         {
-            "time": "11:51",
+            "time": "12:25",
             "tag": "MERCADO",
-            "text": "Bank of New York Mellon Corp Sells 28,261 Shares of PTC Inc. $PTC"
+            "text": "Keybank National Association OH Sells 8,289 Shares of Seagate Technology Holdings PLC $STX"
         },
         {
-            "time": "11:39",
+            "time": "12:16",
             "tag": "MERCADO",
-            "text": "National Pension Service Increases Stock Position in Equinix, Inc. $EQIX"
+            "text": "Commvault Systems, Inc. (NASDAQ:CVLT) Stocks Pounded By 31% But Not Lagging Market On Growth Or Pricing"
         }
     ]
 }
