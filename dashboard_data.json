@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "last_updated": "2026-02-01 16:34 UTC",
+        "last_updated": "2026-02-01 17:28 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
@@ -12,26 +12,26 @@
         {
             "symbol": "AMD",
             "price": 236.73,
-            "change": "-2.73%"
+            "change": "0.0%"
         },
         {
             "symbol": "MSFT",
             "price": 430.29,
-            "change": "+0.04%"
+            "change": "-0.5%"
         },
         {
             "symbol": "CEG",
             "price": 280.68,
-            "change": "-3.21%"
+            "change": "+3.25%"
         },
         {
             "symbol": "VST",
             "price": 158.35,
-            "change": "-0.45%"
+            "change": "-1.44%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.6,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
@@ -41,41 +41,41 @@
             0.52,
             0.53,
             0.52,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
             0.52,
             0.51,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            25.46,
-            25.16,
-            25.55,
-            25.47,
-            25.08,
-            24.74,
-            24.99,
-            25.27,
-            25.18,
-            25.24,
-            25.59,
-            25.14
+            24.47,
+            24.36,
+            24.44,
+            24.48,
+            24.77,
+            24.44,
+            24.39,
+            24.34,
+            24.66,
+            24.54,
+            24.92,
+            24.61
         ],
         "hsd_history_software": [
-            9.98,
-            10.05,
-            9.93,
-            9.85,
-            9.68,
-            9.62,
-            9.71,
-            9.75,
-            9.94,
-            10.01,
-            10.21,
-            10.18
+            10.36,
+            10.19,
+            10.23,
+            10.25,
+            10.17,
+            10.36,
+            10.49,
+            10.31,
+            10.1,
+            10.09,
+            10.09,
+            9.93
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "16:31",
+            "tag": "MERCADO",
+            "text": "Globant Reports Strong Q3 2025 Financial Results and Announces Share Repurchase Plan"
+        },
+        {
+            "time": "16:12",
+            "tag": "MERCADO",
+            "text": "Honeywell Aerospace Eyes Expanding Asia-Pacific Defense Market"
+        },
+        {
             "time": "15:44",
             "tag": "MERCADO",
             "text": "Bye-bye corporate conglomerates. Hello personal conglomerates."
@@ -139,16 +149,6 @@
             "time": "15:05",
             "tag": "MERCADO",
             "text": "Amazon and Pinterest are slashing jobs, yet corporate America\u2019s profit margins are racing toward 15-year highs"
-        },
-        {
-            "time": "14:49",
-            "tag": "MERCADO",
-            "text": "Nio makes official entry into Uzbekistan with opening of 1st local store"
-        },
-        {
-            "time": "14:37",
-            "tag": "MERCADO",
-            "text": "GOOG stock price: What to watch before Alphabet\u2019s Feb. 4 earnings after Wall Street\u2019s Friday slide"
         }
     ]
 }
