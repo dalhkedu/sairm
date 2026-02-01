@@ -1,48 +1,48 @@
 {
     "metadata": {
-        "last_updated": "2026-02-01 19:27 UTC",
+        "last_updated": "2026-02-01 20:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 191.13,
-            "change": "-2.14%"
+            "change": "+3.13%"
         },
         {
             "symbol": "AMD",
             "price": 236.73,
-            "change": "+2.6%"
+            "change": "-1.46%"
         },
         {
             "symbol": "MSFT",
             "price": 430.29,
-            "change": "+1.15%"
+            "change": "+1.58%"
         },
         {
             "symbol": "CEG",
             "price": 280.68,
-            "change": "-2.32%"
+            "change": "-1.86%"
         },
         {
             "symbol": "VST",
-            "price": NaN,
-            "change": "-0.38%"
+            "price": 158.35,
+            "change": "+2.8%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
+        "cer_current": 0.42,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5,
+            0.49,
             0.5,
             0.5,
             0.51,
@@ -50,32 +50,32 @@
             0.5
         ],
         "hsd_history_hardware": [
-            24.17,
-            24.39,
-            24.53,
-            24.84,
-            24.54,
-            24.9,
+            24.95,
+            24.87,
+            24.59,
+            24.89,
+            24.89,
+            24.68,
+            24.57,
             24.79,
-            24.45,
-            24.21,
-            24.48,
-            24.82,
-            25.01
+            24.74,
+            24.97,
+            25.11,
+            25.24
         ],
         "hsd_history_software": [
-            9.75,
-            9.91,
-            9.83,
-            9.9,
-            9.78,
-            9.95,
-            9.99,
-            10.14,
-            9.98,
-            10.02,
-            9.9,
-            10.02
+            9.53,
+            9.59,
+            9.63,
+            9.53,
+            9.37,
+            9.36,
+            9.44,
+            9.48,
+            9.66,
+            9.62,
+            9.77,
+            9.9
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:14",
-            "tag": "MERCADO",
-            "text": "Micron Technology Rated Among Most Profitable NASDAQ Stocks"
+            "time": "19:41",
+            "tag": "AI",
+            "text": "Broadcom's AI Infrastructure Growth Potential is Huge"
         },
         {
-            "time": "18:06",
+            "time": "19:16",
             "tag": "MERCADO",
-            "text": "Analysts Lift Price Targets on Lam Research Corporation (LRCX ) Following Strong Quarter Results"
+            "text": "Microchip adds to its Arm Cortex\u2011M0+ range with PIC32CM PL10 microcontrollers"
         },
         {
-            "time": "18:05",
+            "time": "19:15",
             "tag": "MERCADO",
-            "text": "Business People: U.S. Bancorp President & CEO Gunjan Kedia to add chair to her titles"
+            "text": "Qorvo Inc. Stock: Hidden 5G Power Play Or Overhyped Boom-Bust Trap?"
         },
         {
-            "time": "18:05",
+            "time": "19:07",
             "tag": "MERCADO",
-            "text": "Mizuho Lifts Micron Technology, Inc. (MU)'s Price Target To $480, Maintains Outperform Rating"
+            "text": "Sherwin-Williams: How a 158?Year?Old Paint Giant Became a Quiet Materials Tech Powerhouse"
         },
         {
-            "time": "18:04",
+            "time": "18:40",
             "tag": "MERCADO",
-            "text": "Wall Street Projects 38% Upside To Broadcom Inc. (AVGO)"
+            "text": "F5 Breach Lawsuits Test Security Credibility And Growth Story For Investors"
         }
     ]
 }
