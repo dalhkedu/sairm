@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-01 02:42 UTC",
+        "last_updated": "2026-02-01 05:03 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 191.13,
-            "change": "-2.14%"
+            "change": "+1.86%"
         },
         {
             "symbol": "AMD",
             "price": 236.73,
-            "change": "-1.52%"
+            "change": "-0.88%"
         },
         {
             "symbol": "MSFT",
             "price": 430.29,
-            "change": "-2.32%"
+            "change": "-2.78%"
         },
         {
             "symbol": "CEG",
             "price": 280.68,
-            "change": "+2.27%"
+            "change": "+2.65%"
         },
         {
             "symbol": "VST",
             "price": 158.35,
-            "change": "-0.03%"
+            "change": "+0.38%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.46,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
-            0.5,
-            0.5,
-            0.51,
-            0.52,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.48,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.47,
+            0.48,
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.57,
-            25.31,
-            25.54,
-            25.37,
-            24.92,
-            24.94,
-            25.03,
-            25.32,
-            24.84,
-            25.34,
-            24.95,
-            24.51
+            24.88,
+            24.49,
+            24.97,
+            25.04,
+            24.75,
+            24.49,
+            24.9,
+            24.42,
+            24.71,
+            25.07,
+            25.06,
+            24.89
         ],
         "hsd_history_software": [
-            9.93,
-            9.91,
-            10.07,
-            10.13,
-            10.08,
+            10.03,
+            10.14,
             9.96,
-            9.84,
-            10.01,
+            10.12,
+            10.08,
             10.05,
-            9.88,
-            9.94,
-            10.13
+            9.98,
+            9.82,
+            9.9,
+            9.79,
+            9.92,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:01",
+            "time": "04:31",
             "tag": "MERCADO",
-            "text": "DHI Group Gains Analyst Support Amid Cost-Cutting Restructuring Strategy"
+            "text": "Intrusion Launches Shield Stratus: Cloud-Native Packet Filtering That Doesn't Play Nice With Bad Traffic"
         },
         {
-            "time": "02:01",
-            "tag": "AI",
-            "text": "Datavault AI Inc. Bolsters Intellectual Property and Litigation Capabilities with the Addition of Kasowitz LLP lead by Marc Kasowitz to Legal Team"
-        },
-        {
-            "time": "01:32",
+            "time": "04:31",
             "tag": "MERCADO",
-            "text": "Viavi Solutions (VIAV) Skyrockets 30% on Restructuring Plans"
+            "text": "Infosys Receives USD 11,041.03 Penalty from California for Late State Unemployment Insurance Payment"
         },
         {
-            "time": "00:45",
+            "time": "04:02",
+            "tag": "MERCADO",
+            "text": "Eltek Ltd. (NASDAQ:ELTK) Short Interest Down 32.1% in January"
+        },
+        {
+            "time": "03:32",
+            "tag": "MERCADO",
+            "text": "Analysts Offer Insights on Technology Companies: Allegro MicroSystems (ALGM) and Elastic (ESTC)"
+        },
+        {
+            "time": "03:29",
             "tag": "RESULTADOS",
-            "text": "Exxon Mobil Earnings Call: Record Output, Tech-Driven Growth"
-        },
-        {
-            "time": "00:31",
-            "tag": "MERCADO",
-            "text": "Broadcom stock price in focus: Wolfe upgrade leans on Google TPU growth as AVGO heads into Monday"
+            "text": "NXP Semiconductors (NXPI) Q4 Earnings Report Preview: What To Look For"
         }
     ]
 }
