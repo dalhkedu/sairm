@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-02 05:00 UTC",
+        "last_updated": "2026-02-02 06:09 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 191.13,
-            "change": "-2.03%"
+            "change": "-2.7%"
         },
         {
             "symbol": "AMD",
             "price": 236.73,
-            "change": "+1.03%"
+            "change": "-2.89%"
         },
         {
             "symbol": "MSFT",
             "price": 430.29,
-            "change": "+1.57%"
+            "change": "-0.88%"
         },
         {
             "symbol": "CEG",
             "price": 280.68,
-            "change": "+2.1%"
+            "change": "-2.0%"
         },
         {
             "symbol": "VST",
             "price": 158.35,
-            "change": "+2.78%"
+            "change": "+0.69%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.61,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.47,
-            0.48,
+            0.5,
             0.49,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
             0.5,
             0.5,
             0.5,
             0.51,
-            0.52,
-            0.52,
+            0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            24.17,
-            23.82,
-            23.7,
-            24.07,
-            23.84,
-            23.95,
-            24.31,
-            23.93,
-            24.39,
-            24.57,
-            24.55,
+            25.09,
+            25.11,
+            25.19,
+            25.67,
+            25.75,
+            25.66,
+            25.31,
+            25.25,
+            25.45,
+            25.23,
+            24.9,
             25.04
         ],
         "hsd_history_software": [
-            10.09,
-            10.18,
-            10.24,
-            10.07,
-            10.19,
-            10.27,
-            10.21,
-            10.23,
-            10.23,
-            10.27,
-            10.07,
-            9.91
+            9.74,
+            9.78,
+            9.74,
+            9.63,
+            9.76,
+            9.84,
+            10.04,
+            9.95,
+            10.0,
+            10.04,
+            10.0,
+            10.19
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "05:39",
+            "tag": "MERCADO",
+            "text": "Amazon's $75 Million Melania Trump Documentary Beats Forecasts To Become Box Office Surprise: 'Not Involved,' Says President"
+        },
+        {
+            "time": "04:58",
+            "tag": "MERCADO",
+            "text": "iShares U.S. Technology ETF"
+        },
+        {
+            "time": "04:41",
+            "tag": "MERCADO",
+            "text": "Synopsys to Hold Inaugural Converge Conference"
+        },
+        {
             "time": "04:12",
             "tag": "MERCADO",
             "text": "A*STAR and Halliburton Launch NEX Lab for Well Completion Innovation"
         },
         {
-            "time": "03:47",
+            "time": "04:10",
             "tag": "RESULTADOS",
-            "text": "Skyworks Solutions Earnings: What To Look For From SWKS"
-        },
-        {
-            "time": "03:33",
-            "tag": "RESULTADOS",
-            "text": "Earnings To Watch: Electronic Arts (EA) Reports Q4 Results Tomorrow"
-        },
-        {
-            "time": "03:33",
-            "tag": "RESULTADOS",
-            "text": "Broadridge (BR) Reports Q4: Everything You Need To Know Ahead Of Earnings"
-        },
-        {
-            "time": "03:31",
-            "tag": "AI",
-            "text": "Faraday Future Founder and Co-CEO YT Jia Shares Weekly Investor Update: FF Signs a Stock Purchase Agreement for the Sale of $10 Million of Its Class A Common Stock to a Designated Third Party Identified by AIxC"
+            "text": "PayPal (PYPL) Q4 Earnings: What To Expect"
         }
     ]
 }
