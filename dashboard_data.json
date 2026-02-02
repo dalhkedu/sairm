@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-02 14:44 UTC",
+        "last_updated": "2026-02-02 15:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 187.32,
-            "change": "-0.97%"
+            "price": 189.27,
+            "change": "-2.49%"
         },
         {
             "symbol": "AMD",
-            "price": 244.5,
-            "change": "-0.12%"
+            "price": 249.15,
+            "change": "-0.21%"
         },
         {
             "symbol": "MSFT",
-            "price": 428.52,
-            "change": "+1.79%"
+            "price": 427.67,
+            "change": "+2.69%"
         },
         {
             "symbol": "CEG",
-            "price": 278.2,
-            "change": "+2.99%"
+            "price": 274.11,
+            "change": "+1.5%"
         },
         {
             "symbol": "VST",
-            "price": 159.3,
-            "change": "+1.03%"
+            "price": 156.43,
+            "change": "-1.95%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.47,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.54,
-            0.53,
-            0.53,
-            0.53,
+            0.52,
             0.53,
             0.53,
             0.53,
             0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.51,
             0.51
         ],
         "hsd_history_hardware": [
+            24.08,
+            24.35,
+            24.55,
+            24.31,
+            24.59,
+            24.19,
+            24.25,
             24.07,
-            24.51,
-            24.91,
-            25.17,
-            24.77,
-            25.2,
-            24.72,
+            24.4,
+            24.14,
             24.5,
-            24.87,
-            25.15,
-            25.3,
-            25.44
+            24.81
         ],
         "hsd_history_software": [
-            9.9,
+            9.85,
+            9.86,
             10.04,
-            9.94,
-            9.75,
-            9.94,
-            10.06,
-            10.15,
-            9.96,
-            9.87,
-            9.8,
-            9.89,
-            10.09
+            9.95,
+            9.79,
+            9.97,
+            9.78,
+            9.67,
+            9.85,
+            9.69,
+            9.62,
+            9.81
         ],
         "rci_data": [
             85.0,
-            18.732
+            18.927000000000003
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:25",
+            "time": "14:57",
             "tag": "MERCADO",
-            "text": "Medtronic Diabetes expands access to full-stack insulin delivery solutions with Medicare access and new FDA clearances"
+            "text": "Visionary Holdings regains Nasdaq compliance after late filing"
         },
         {
-            "time": "14:24",
+            "time": "14:50",
             "tag": "MERCADO",
-            "text": "Skyworks Solutions (SWKS) Traded Down in Q4. Here\u2019s Why"
+            "text": "Rosenblatt highlights tax incentives and sales execution as Q4 upside drivers for Fortinet, Inc. (FTNT)"
         },
         {
-            "time": "14:20",
-            "tag": "RESULTADOS",
-            "text": "Caterpillar Inc. (CAT) Earnings Beat Backed Up by Data Center Power Demand"
-        },
-        {
-            "time": "14:20",
+            "time": "14:47",
             "tag": "MERCADO",
-            "text": "BofA Cites Near-Term AV Uncertainties Affecting Uber Technologies, Inc. (UBER) Valuation"
+            "text": "Revvity Q4 2025 slides: EPS beats expectations, stock dips despite strong results"
         },
         {
-            "time": "14:14",
-            "tag": "AI",
-            "text": "Amazon.com, Inc. (AMZN) is in Talks to Invest Up to $50 billion in OpenAI, Source Reports"
+            "time": "14:43",
+            "tag": "MERCADO",
+            "text": "Caterpillar Inc. (CAT) earnings beat backed up by data center power demand"
+        },
+        {
+            "time": "14:38",
+            "tag": "MERCADO",
+            "text": "Atlatl Advisers LLC Makes New $1.20 Million Investment in Teradyne, Inc. $TER"
         }
     ]
 }
