@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-02 15:40 UTC",
+        "last_updated": "2026-02-02 16:45 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 189.27,
-            "change": "-2.49%"
+            "price": 188.81,
+            "change": "-0.36%"
         },
         {
             "symbol": "AMD",
-            "price": 249.15,
-            "change": "-0.21%"
+            "price": 247.27,
+            "change": "+1.03%"
         },
         {
             "symbol": "MSFT",
-            "price": 427.67,
-            "change": "+2.69%"
+            "price": 425.04,
+            "change": "-0.13%"
         },
         {
             "symbol": "CEG",
-            "price": 274.11,
-            "change": "+1.5%"
+            "price": 272.7,
+            "change": "+0.49%"
         },
         {
             "symbol": "VST",
-            "price": 156.43,
-            "change": "-1.95%"
+            "price": 155.91,
+            "change": "+2.52%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.48,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
             0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.08,
-            24.35,
-            24.55,
-            24.31,
-            24.59,
-            24.19,
-            24.25,
-            24.07,
-            24.4,
-            24.14,
-            24.5,
-            24.81
+            25.43,
+            25.6,
+            26.08,
+            26.3,
+            26.18,
+            26.06,
+            25.92,
+            26.29,
+            25.9,
+            25.88,
+            25.68,
+            25.48
         ],
         "hsd_history_software": [
-            9.85,
-            9.86,
-            10.04,
-            9.95,
-            9.79,
-            9.97,
-            9.78,
-            9.67,
-            9.85,
-            9.69,
-            9.62,
-            9.81
+            10.17,
+            10.03,
+            10.12,
+            10.21,
+            10.06,
+            9.92,
+            10.05,
+            10.21,
+            10.28,
+            10.29,
+            10.16,
+            10.17
         ],
         "rci_data": [
             85.0,
-            18.927000000000003
+            18.881
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:57",
+            "time": "15:49",
             "tag": "MERCADO",
-            "text": "Visionary Holdings regains Nasdaq compliance after late filing"
+            "text": "Tyler Technologies to Acquire For The Record"
         },
         {
-            "time": "14:50",
-            "tag": "MERCADO",
-            "text": "Rosenblatt highlights tax incentives and sales execution as Q4 upside drivers for Fortinet, Inc. (FTNT)"
+            "time": "15:36",
+            "tag": "AI",
+            "text": "TER Teradyne, Inc. NASDAQ 02 Feb 2026: shares trade at $249.40, AI demand supports upside"
         },
         {
-            "time": "14:47",
-            "tag": "MERCADO",
-            "text": "Revvity Q4 2025 slides: EPS beats expectations, stock dips despite strong results"
+            "time": "15:35",
+            "tag": "AI",
+            "text": "FedEx launches AI-powered tracking and returns tools for merchants"
         },
         {
-            "time": "14:43",
+            "time": "15:32",
             "tag": "MERCADO",
-            "text": "Caterpillar Inc. (CAT) earnings beat backed up by data center power demand"
+            "text": "Johnson Controls launches Smart Ready Chillers for day-one connectivity and 32 percent fewer unplanned service calls"
         },
         {
-            "time": "14:38",
+            "time": "15:24",
             "tag": "MERCADO",
-            "text": "Atlatl Advisers LLC Makes New $1.20 Million Investment in Teradyne, Inc. $TER"
+            "text": "Enphase Energy Demonstrates Global IQ Bidirectional EV Charging Platform, Targeting Volume Production in Q4 2026"
         }
     ]
 }
