@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-01 23:29 UTC",
+        "last_updated": "2026-02-02 02:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 191.13,
-            "change": "+0.93%"
+            "change": "+2.97%"
         },
         {
             "symbol": "AMD",
             "price": 236.73,
-            "change": "-3.08%"
+            "change": "-2.68%"
         },
         {
             "symbol": "MSFT",
             "price": 430.29,
-            "change": "+2.85%"
+            "change": "-2.48%"
         },
         {
             "symbol": "CEG",
             "price": 280.68,
-            "change": "-2.23%"
+            "change": "+0.34%"
         },
         {
             "symbol": "VST",
             "price": 158.35,
-            "change": "+2.31%"
+            "change": "-2.54%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.54,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.5,
-            0.51,
-            0.51,
+            0.52,
+            0.52,
             0.51,
             0.51,
             0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            26.59,
-            26.14,
-            26.14,
-            25.87,
-            25.66,
-            25.65,
-            26.07,
-            26.14,
-            25.8,
+            25.86,
+            25.82,
+            26.15,
+            26.0,
+            25.59,
+            25.59,
+            25.94,
+            25.86,
             25.44,
-            25.51,
-            25.05
+            25.25,
+            25.27,
+            25.41
         ],
         "hsd_history_software": [
-            9.89,
-            10.05,
-            10.17,
-            9.99,
+            9.46,
+            9.59,
+            9.49,
+            9.67,
+            9.79,
             9.84,
-            9.73,
-            9.66,
-            9.8,
-            9.72,
-            9.78,
-            9.88,
-            10.02
+            10.03,
+            10.11,
+            10.16,
+            10.3,
+            10.14,
+            9.97
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:34",
+            "time": "00:59",
             "tag": "MERCADO",
-            "text": "Liquidity Mapping Around (AAPD) Price Events"
+            "text": "SES Partners with Chunghwa Telecom to Integrate Multi-Orbit Satellite, Cloud, and IoT Applications"
         },
         {
-            "time": "22:31",
+            "time": "00:55",
             "tag": "MERCADO",
-            "text": "The Truth About Inpixon (INPX): Viral Comeback Play or Total Trap?"
+            "text": "Starbucks Corp.: How the World\u2019s Biggest Coffee Chain Is Turning Stores into a Digital Product"
         },
         {
-            "time": "21:30",
+            "time": "00:54",
             "tag": "MERCADO",
-            "text": "Unusual Machines Announces $2.1 Million Order for Drone Components"
+            "text": "GlobalFoundries stock price slides 5% into weekend as chip sector sours"
         },
         {
-            "time": "21:29",
+            "time": "00:52",
             "tag": "MERCADO",
-            "text": "Texas Instruments stock price: TXN eases into the weekend as eyes turn to Feb. 24 webcast and key U.S. data"
+            "text": "First Solar stock (FSLR) heads into Monday after Tesla\u2019s 100\u2011GW solar talk jolts sentiment"
         },
         {
-            "time": "21:18",
+            "time": "00:45",
             "tag": "MERCADO",
-            "text": "The Truth About Fortinet Inc: Is This \u2018Boring\u2019 Cyber Stock the Next Viral Money Play?"
+            "text": "Apple upgraded to Neutral from Reduce at Phillip Securities"
         }
     ]
 }
