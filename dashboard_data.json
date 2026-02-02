@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-02 07:52 UTC",
+        "last_updated": "2026-02-02 08:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 191.13,
-            "change": "-0.04%"
+            "change": "-0.44%"
         },
         {
             "symbol": "AMD",
             "price": 236.73,
-            "change": "+2.93%"
+            "change": "+2.72%"
         },
         {
             "symbol": "MSFT",
             "price": 430.29,
-            "change": "-1.16%"
+            "change": "+0.17%"
         },
         {
             "symbol": "CEG",
             "price": 280.68,
-            "change": "-1.59%"
+            "change": "+0.08%"
         },
         {
             "symbol": "VST",
             "price": 158.35,
-            "change": "-1.23%"
+            "change": "+0.39%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.41,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.48,
             0.48,
-            0.47,
-            0.47,
-            0.47,
             0.48,
-            0.48,
-            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.49,
             0.5,
             0.49,
-            0.5
+            0.5,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            23.9,
-            24.34,
-            24.18,
-            24.26,
-            24.38,
-            24.12,
-            24.28,
-            24.73,
-            24.98,
-            24.75,
-            24.83,
-            24.88
+            23.61,
+            23.92,
+            23.52,
+            23.34,
+            23.17,
+            23.54,
+            23.88,
+            24.16,
+            24.3,
+            24.68,
+            24.57,
+            24.89
         ],
         "hsd_history_software": [
-            9.28,
-            9.38,
-            9.47,
-            9.65,
-            9.71,
-            9.66,
-            9.57,
-            9.69,
-            9.66,
-            9.72,
-            9.78,
-            9.91
+            10.54,
+            10.76,
+            10.71,
+            10.62,
+            10.65,
+            10.54,
+            10.47,
+            10.34,
+            10.3,
+            10.12,
+            10.08,
+            10.2
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:19",
+            "time": "08:24",
             "tag": "MERCADO",
-            "text": "HP Inc. (NYSE:HPQ) Receives Consensus Rating of \"Hold\" from Analysts"
+            "text": "Principal Financial Group Inc. Has $323.07 Million Stake in Cisco Systems, Inc. $CSCO"
         },
         {
-            "time": "07:11",
+            "time": "08:18",
             "tag": "MERCADO",
-            "text": "EPAM Systems, Inc. (NYSE:EPAM) Given Consensus Rating of \"Moderate Buy\" by Analysts"
+            "text": "Money Concepts Capital Corp Raises Stock Position in Cisco Systems, Inc. $CSCO"
         },
         {
-            "time": "07:07",
-            "tag": "AI",
-            "text": "Pre-Market 02 Feb 2026: ISRG Intuitive Surgical NASDAQ $504.22: AI stocks note"
+            "time": "08:18",
+            "tag": "MERCADO",
+            "text": "Short Interest in Autodesk, Inc. (NASDAQ:ADSK) Expands By 27.4%"
         },
         {
-            "time": "07:05",
+            "time": "08:16",
             "tag": "MERCADO",
-            "text": "Teledyne FLIR Defense Wins $17.5 Million Contract from armasuisse to Deliver Black Hornet 4 Nano-Drones for Dismounted and Vehicle-Integrated Reconnaissance"
+            "text": "Keybank National Association OH Sells 3,945 Shares of Analog Devices, Inc. $ADI"
         },
         {
-            "time": "07:02",
+            "time": "08:16",
             "tag": "MERCADO",
-            "text": "Swiss armored vehicles to get 70-gram recon drones from Teledyne"
+            "text": "Principal Financial Group Inc. Sells 17,621 Shares of Intel Corporation $INTC"
         }
     ]
 }
