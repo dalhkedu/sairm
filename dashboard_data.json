@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-02 17:40 UTC",
+        "last_updated": "2026-02-02 23:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 189.21,
-            "change": "+0.34%"
+            "price": 185.61,
+            "change": "+1.25%"
         },
         {
             "symbol": "AMD",
-            "price": 248.76,
-            "change": "+2.75%"
+            "price": 246.27,
+            "change": "-1.86%"
         },
         {
             "symbol": "MSFT",
-            "price": 424.98,
-            "change": "-1.55%"
+            "price": 423.37,
+            "change": "+1.26%"
         },
         {
             "symbol": "CEG",
-            "price": 272.76,
-            "change": "-1.78%"
+            "price": 270.88,
+            "change": "-2.43%"
         },
         {
             "symbol": "VST",
-            "price": 156.28,
-            "change": "+2.44%"
+            "price": 154.26,
+            "change": "-3.03%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.53,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.5,
-            0.5,
+            0.49,
+            0.48,
+            0.48,
             0.49,
             0.48,
             0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.12,
-            25.18,
-            25.28,
-            24.8,
-            24.54,
-            24.52,
-            24.94,
-            25.41,
-            24.96,
-            24.96,
-            25.05,
-            25.43
+            24.2,
+            24.68,
+            25.08,
+            25.33,
+            25.3,
+            25.8,
+            25.49,
+            25.4,
+            25.23,
+            25.61,
+            25.17,
+            24.86
         ],
         "hsd_history_software": [
-            10.8,
-            10.71,
-            10.53,
-            10.54,
-            10.35,
-            10.33,
-            10.28,
-            10.31,
-            10.3,
-            10.1,
             10.14,
-            10.14
+            10.27,
+            10.18,
+            10.01,
+            9.98,
+            9.79,
+            9.95,
+            9.78,
+            9.74,
+            9.66,
+            9.82,
+            9.99
         ],
         "rci_data": [
             85.0,
-            18.921000000000003
+            18.561000000000003
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:16",
-            "tag": "AI",
-            "text": "Tyler's $258M court-recording deal to speed up justice with AI"
-        },
-        {
-            "time": "17:15",
-            "tag": "MERCADO",
-            "text": "5 New 5-Star Stocks This Week"
-        },
-        {
-            "time": "17:04",
+            "time": "22:54",
             "tag": "RESULTADOS",
-            "text": "Earnings Outlook For Take-Two Interactive"
+            "text": "Earnings call transcript: Roper Technologies Q4 2025 earnings beat estimates, stock falls"
         },
         {
-            "time": "16:58",
+            "time": "22:40",
             "tag": "MERCADO",
-            "text": "Can IBM's Lucrative Federal Contracts Boost Its Future Growth?"
+            "text": "Insider Selling: Seagate Technology (NASDAQ:STX) Director Sells 925 Shares of Stock"
         },
         {
-            "time": "16:50",
+            "time": "22:38",
+            "tag": "AI",
+            "text": "SpaceX bails out xAI in mega-deal \u2014 here\u2019s what it means for Tesla"
+        },
+        {
+            "time": "22:32",
             "tag": "MERCADO",
-            "text": "Microchip Technology (MCHP): Cantor Fitzgerald Raises Price Target"
+            "text": "Broadridge Appoints Trish Mosconi and Chris Perry to its Board of Directors"
+        },
+        {
+            "time": "22:32",
+            "tag": "MERCADO",
+            "text": "3 Cheap Stocks to Buy Now as Small Caps Heat Up"
         }
     ]
 }
