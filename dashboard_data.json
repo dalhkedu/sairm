@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-02 13:07 UTC",
+        "last_updated": "2026-02-02 14:44 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 191.13,
-            "change": "+2.03%"
+            "price": 187.32,
+            "change": "-0.97%"
         },
         {
             "symbol": "AMD",
-            "price": 236.73,
-            "change": "+0.86%"
+            "price": 244.5,
+            "change": "-0.12%"
         },
         {
             "symbol": "MSFT",
-            "price": 430.29,
-            "change": "-0.59%"
+            "price": 428.52,
+            "change": "+1.79%"
         },
         {
             "symbol": "CEG",
-            "price": 280.68,
-            "change": "+0.74%"
+            "price": 278.2,
+            "change": "+2.99%"
         },
         {
             "symbol": "VST",
-            "price": 158.35,
-            "change": "-1.32%"
+            "price": 159.3,
+            "change": "+1.03%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.54,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.53,
+            0.53,
             0.54,
             0.53,
             0.53,
             0.53,
             0.53,
-            0.52,
+            0.53,
             0.53,
             0.52,
             0.51,
-            0.51,
-            0.52,
             0.51
         ],
         "hsd_history_hardware": [
-            24.31,
-            24.33,
-            23.94,
-            24.33,
-            24.02,
-            24.02,
-            23.78,
-            24.14,
-            24.56,
-            24.69,
-            24.99,
-            24.68
+            24.07,
+            24.51,
+            24.91,
+            25.17,
+            24.77,
+            25.2,
+            24.72,
+            24.5,
+            24.87,
+            25.15,
+            25.3,
+            25.44
         ],
         "hsd_history_software": [
-            9.76,
-            9.81,
+            9.9,
+            10.04,
+            9.94,
+            9.75,
+            9.94,
+            10.06,
+            10.15,
             9.96,
-            10.05,
-            10.13,
-            10.27,
-            10.09,
-            10.11,
-            10.24,
-            10.36,
-            10.33,
-            10.16
+            9.87,
+            9.8,
+            9.89,
+            10.09
         ],
         "rci_data": [
             85.0,
-            19.113
+            18.732
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:27",
+            "time": "14:25",
+            "tag": "MERCADO",
+            "text": "Medtronic Diabetes expands access to full-stack insulin delivery solutions with Medicare access and new FDA clearances"
+        },
+        {
+            "time": "14:24",
+            "tag": "MERCADO",
+            "text": "Skyworks Solutions (SWKS) Traded Down in Q4. Here\u2019s Why"
+        },
+        {
+            "time": "14:20",
+            "tag": "RESULTADOS",
+            "text": "Caterpillar Inc. (CAT) Earnings Beat Backed Up by Data Center Power Demand"
+        },
+        {
+            "time": "14:20",
+            "tag": "MERCADO",
+            "text": "BofA Cites Near-Term AV Uncertainties Affecting Uber Technologies, Inc. (UBER) Valuation"
+        },
+        {
+            "time": "14:14",
             "tag": "AI",
-            "text": "Miss Out on Nvidia? Two More Innovative AI Chip Stocks Hiding in Plain Sight"
-        },
-        {
-            "time": "12:22",
-            "tag": "MERCADO",
-            "text": "Bio-Techne (TECH) Unveils New Cultrex Synthetic Hydrogel for 3D Research"
-        },
-        {
-            "time": "12:17",
-            "tag": "MERCADO",
-            "text": "Toyota Chairman Akio Toyoda hails Hyundai rivalry with rare cross-border ad"
-        },
-        {
-            "time": "12:12",
-            "tag": "MERCADO",
-            "text": "Comcast (CMCSA) Price Target Reduced at Scotiabank"
-        },
-        {
-            "time": "12:10",
-            "tag": "MERCADO",
-            "text": "DEFSEC Technologies Announces Senior Executive Appointment"
+            "text": "Amazon.com, Inc. (AMZN) is in Talks to Invest Up to $50 billion in OpenAI, Source Reports"
         }
     ]
 }
