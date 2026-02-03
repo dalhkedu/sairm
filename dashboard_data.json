@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-03 21:38 UTC",
+        "last_updated": "2026-02-03 22:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.34,
-            "change": "+0.57%"
+            "change": "+2.21%"
         },
         {
             "symbol": "AMD",
             "price": 242.11,
-            "change": "-2.4%"
+            "change": "+1.46%"
         },
         {
             "symbol": "MSFT",
             "price": 411.21,
-            "change": "-3.19%"
+            "change": "+0.24%"
         },
         {
             "symbol": "CEG",
             "price": 268.45,
-            "change": "-2.19%"
+            "change": "-2.65%"
         },
         {
             "symbol": "VST",
             "price": 153.0,
-            "change": "+3.15%"
+            "change": "-0.47%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.57,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
             0.5,
+            0.49,
             0.5,
-            0.5
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.23,
-            26.41,
-            26.52,
-            26.97,
-            26.62,
-            26.22,
-            26.02,
-            25.83,
-            25.38,
-            25.08,
-            24.71,
-            25.16
+            25.9,
+            25.55,
+            25.29,
+            25.32,
+            25.46,
+            25.1,
+            24.74,
+            25.22,
+            25.06,
+            24.88,
+            24.61,
+            24.91
         ],
         "hsd_history_software": [
-            9.71,
-            9.71,
-            9.82,
-            9.79,
-            9.88,
-            9.91,
-            9.77,
-            9.69,
-            9.67,
-            9.77,
-            9.82,
-            9.88
+            10.04,
+            10.07,
+            10.06,
+            10.14,
+            10.04,
+            10.24,
+            10.17,
+            10.02,
+            10.02,
+            10.05,
+            9.95,
+            9.96
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:28",
+            "time": "22:19",
             "tag": "MERCADO",
-            "text": "CrowdStrike Named a Customers\u2019 Choice in the 2026 Gartner Peer Insights\u2122 \u2018Voice of the Customer\u2019 for Application Security Posture Management (ASPM) Tools Report"
+            "text": "Why Gartner and other IT stocks got slammed on Tuesday"
         },
         {
-            "time": "21:25",
+            "time": "22:17",
             "tag": "MERCADO",
-            "text": "Tucker 48 vs GM EV1: Which Groundbreaking American Icon Got Screwed Over the Hardest?"
+            "text": "Insulet Extends Key Supply Agreement with NXP USA"
         },
         {
-            "time": "21:24",
-            "tag": "AI",
-            "text": "Humana Unveils AI-Powered Agent Assist Built With Google Cloud"
+            "time": "22:11",
+            "tag": "MERCADO",
+            "text": "Jack Henry beats Q2 estimates, shares rise on strong revenue growth By Investing.com"
         },
         {
-            "time": "21:24",
-            "tag": "RESULTADOS",
-            "text": "Enphase Energy (NASDAQ:ENPH) Announces Quarterly Earnings Results"
+            "time": "22:08",
+            "tag": "MERCADO",
+            "text": "Analyst: Qualcomm\u2019s Ventana Acquisition Helps Fill Gap Left By Nuvia Founder Exits"
         },
         {
-            "time": "21:24",
-            "tag": "RESULTADOS",
-            "text": "Electronic Arts (NASDAQ:EA) Releases Quarterly Earnings Results, Misses Expectations By $4.53 EPS"
+            "time": "22:05",
+            "tag": "MERCADO",
+            "text": "Take-Two Interactive Software (TTWO) Tops Q3 EPS by 40c, Beats on Revenue; Offers FY26 Guidance"
         }
     ]
 }
