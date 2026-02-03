@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-02 23:31 UTC",
+        "last_updated": "2026-02-03 02:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.61,
-            "change": "+1.25%"
+            "change": "-2.2%"
         },
         {
             "symbol": "AMD",
             "price": 246.27,
-            "change": "-1.86%"
+            "change": "-3.36%"
         },
         {
             "symbol": "MSFT",
             "price": 423.37,
-            "change": "+1.26%"
+            "change": "+3.42%"
         },
         {
             "symbol": "CEG",
             "price": 270.88,
-            "change": "-2.43%"
+            "change": "+0.07%"
         },
         {
             "symbol": "VST",
             "price": 154.26,
-            "change": "-3.03%"
+            "change": "+1.38%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
+        "cer_current": 0.45,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.48,
-            0.48,
-            0.49,
             0.48,
             0.49,
             0.49,
-            0.5,
             0.5,
             0.5,
             0.51,
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.2,
-            24.68,
-            25.08,
-            25.33,
-            25.3,
-            25.8,
-            25.49,
-            25.4,
-            25.23,
-            25.61,
-            25.17,
-            24.86
+            23.99,
+            24.35,
+            23.98,
+            23.94,
+            23.86,
+            23.87,
+            24.18,
+            24.58,
+            24.49,
+            24.74,
+            24.93,
+            24.84
         ],
         "hsd_history_software": [
-            10.14,
-            10.27,
-            10.18,
-            10.01,
             9.98,
-            9.79,
-            9.95,
-            9.78,
-            9.74,
-            9.66,
-            9.82,
-            9.99
+            10.01,
+            10.08,
+            10.27,
+            10.15,
+            10.13,
+            9.98,
+            10.1,
+            10.17,
+            10.01,
+            10.01,
+            9.94
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:54",
-            "tag": "RESULTADOS",
-            "text": "Earnings call transcript: Roper Technologies Q4 2025 earnings beat estimates, stock falls"
-        },
-        {
-            "time": "22:40",
+            "time": "01:58",
             "tag": "MERCADO",
-            "text": "Insider Selling: Seagate Technology (NASDAQ:STX) Director Sells 925 Shares of Stock"
+            "text": "Shareholder Rights Law Firm Robbins LLP Urges CPNG"
         },
         {
-            "time": "22:38",
+            "time": "01:58",
             "tag": "AI",
-            "text": "SpaceX bails out xAI in mega-deal \u2014 here\u2019s what it means for Tesla"
+            "text": "Plans in place to turn former Hawesville aluminum plant into AI Data Center"
         },
         {
-            "time": "22:32",
+            "time": "01:53",
             "tag": "MERCADO",
-            "text": "Broadridge Appoints Trish Mosconi and Chris Perry to its Board of Directors"
+            "text": "Century Aluminum Signs Purchase and Sale Agreement With Justified DataPower"
         },
         {
-            "time": "22:32",
+            "time": "01:28",
             "tag": "MERCADO",
-            "text": "3 Cheap Stocks to Buy Now as Small Caps Heat Up"
+            "text": "GaN sector shifts as TSMC licenses technology to VIS and GlobalFoundries"
+        },
+        {
+            "time": "01:27",
+            "tag": "MERCADO",
+            "text": "Paycom Software, Inc. (PAYC): A Bull Case Theory"
         }
     ]
 }
