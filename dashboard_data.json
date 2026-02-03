@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-03 13:08 UTC",
+        "last_updated": "2026-02-03 14:48 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 185.61,
-            "change": "+1.53%"
+            "price": 184.05,
+            "change": "+0.54%"
         },
         {
             "symbol": "AMD",
-            "price": 246.27,
-            "change": "-0.29%"
+            "price": 247.08,
+            "change": "-0.68%"
         },
         {
             "symbol": "MSFT",
-            "price": 423.37,
-            "change": "-0.55%"
+            "price": 416.5,
+            "change": "+1.51%"
         },
         {
             "symbol": "CEG",
-            "price": 270.88,
-            "change": "+2.48%"
+            "price": 266.91,
+            "change": "-3.13%"
         },
         {
             "symbol": "VST",
-            "price": 154.26,
-            "change": "-3.13%"
+            "price": 153.09,
+            "change": "-2.26%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
-        "rci_current": 0.19,
+        "cer_current": 0.62,
+        "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
             0.5,
             0.5,
+            0.51,
             0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
+            0.5,
+            0.5,
+            0.5,
             0.49,
             0.49,
             0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            25.61,
-            25.85,
-            25.94,
-            25.5,
-            25.61,
-            25.78,
-            25.74,
-            25.4,
-            25.4,
-            25.09,
-            24.82,
-            25.06
+            24.8,
+            24.77,
+            24.74,
+            24.4,
+            24.35,
+            24.28,
+            24.5,
+            24.61,
+            25.08,
+            24.64,
+            24.86,
+            25.22
         ],
         "hsd_history_software": [
-            9.46,
-            9.49,
-            9.59,
-            9.6,
-            9.69,
-            9.88,
-            9.87,
-            9.77,
-            9.7,
-            9.8,
-            9.74,
-            9.94
+            10.38,
+            10.21,
+            10.4,
+            10.23,
+            10.13,
+            10.13,
+            10.02,
+            10.2,
+            10.04,
+            10.1,
+            10.17,
+            10.03
         ],
         "rci_data": [
             85.0,
-            18.561000000000003
+            18.405
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:42",
+            "time": "14:26",
             "tag": "MERCADO",
-            "text": "Truist Financial Corp Purchases 25,585 Shares of Astera Labs, Inc. $ALAB"
+            "text": "Draganfly, DelMar Aerospace to deliver Flex FPV drone training to US AFSOC"
         },
         {
-            "time": "12:42",
+            "time": "14:18",
             "tag": "MERCADO",
-            "text": "Principal Financial Group Inc. Reduces Holdings in SiTime Corporation $SITM"
+            "text": "Boingo taps Globalstar tech to boost 5G at airports, stadiums, bases"
         },
         {
-            "time": "12:42",
+            "time": "13:45",
             "tag": "MERCADO",
-            "text": "SPY ETF Daily Update, 2/3/2026"
+            "text": "Medtronic to expand cath lab portfolio with CathWorks acquisition"
         },
         {
-            "time": "12:38",
+            "time": "13:42",
             "tag": "MERCADO",
-            "text": "Gartner Reports $1.6 Billion Revenue in Q4 2025 with 12% Growth in Research Segment"
+            "text": "Intercontinental Exchange reports record trading volume in January"
         },
         {
-            "time": "12:34",
+            "time": "13:41",
             "tag": "MERCADO",
-            "text": "Jim Cramer Notes \"Western Digital Stock Has Been One of the Best Performers of This Era\""
+            "text": "Principal Financial Group Inc. Boosts Position in Robinhood Markets, Inc. $HOOD"
         }
     ]
 }
