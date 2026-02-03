@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-03 02:30 UTC",
+        "last_updated": "2026-02-03 04:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.61,
-            "change": "-2.2%"
+            "change": "+3.47%"
         },
         {
             "symbol": "AMD",
             "price": 246.27,
-            "change": "-3.36%"
+            "change": "-0.65%"
         },
         {
             "symbol": "MSFT",
             "price": 423.37,
-            "change": "+3.42%"
+            "change": "-1.46%"
         },
         {
             "symbol": "CEG",
             "price": 270.88,
-            "change": "+0.07%"
+            "change": "+2.66%"
         },
         {
             "symbol": "VST",
             "price": 154.26,
-            "change": "+1.38%"
+            "change": "+1.16%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.54,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
+            0.53,
+            0.52,
+            0.53,
+            0.52,
+            0.52,
+            0.51,
+            0.52,
             0.51,
             0.5,
-            0.5,
-            0.49,
-            0.49,
+            0.51,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            23.99,
-            24.35,
-            23.98,
-            23.94,
-            23.86,
-            23.87,
-            24.18,
-            24.58,
-            24.49,
-            24.74,
-            24.93,
-            24.84
+            25.6,
+            25.18,
+            25.2,
+            25.15,
+            25.04,
+            25.35,
+            25.43,
+            25.69,
+            25.22,
+            24.84,
+            24.43,
+            24.86
         ],
         "hsd_history_software": [
-            9.98,
-            10.01,
-            10.08,
-            10.27,
             10.15,
-            10.13,
+            10.32,
+            10.39,
+            10.45,
+            10.5,
+            10.3,
+            10.15,
+            9.96,
             9.98,
-            10.1,
-            10.17,
-            10.01,
-            10.01,
-            9.94
+            9.98,
+            9.87,
+            9.84
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:58",
+            "time": "03:57",
             "tag": "MERCADO",
-            "text": "Shareholder Rights Law Firm Robbins LLP Urges CPNG"
+            "text": "Anywhere Real Estate Data Breach Exposes Social Security Numbers"
         },
         {
-            "time": "01:58",
+            "time": "03:57",
             "tag": "AI",
-            "text": "Plans in place to turn former Hawesville aluminum plant into AI Data Center"
+            "text": "New Huachen AI meters make tenants prepay power, tap green energy gap"
         },
         {
-            "time": "01:53",
+            "time": "03:56",
             "tag": "MERCADO",
-            "text": "Century Aluminum Signs Purchase and Sale Agreement With Justified DataPower"
+            "text": "UBS Keeps Their Hold Rating on Fair Isaac (FICO)"
         },
         {
-            "time": "01:28",
-            "tag": "MERCADO",
-            "text": "GaN sector shifts as TSMC licenses technology to VIS and GlobalFoundries"
+            "time": "03:53",
+            "tag": "AI",
+            "text": "Google Cloud, Liberty Global sign five-year AI and cloud partnership across Europe"
         },
         {
-            "time": "01:27",
-            "tag": "MERCADO",
-            "text": "Paycom Software, Inc. (PAYC): A Bull Case Theory"
+            "time": "03:52",
+            "tag": "RESULTADOS",
+            "text": "GE HealthCare (GEHC) Q4 Earnings Report Preview: What To Look For"
         }
     ]
 }
