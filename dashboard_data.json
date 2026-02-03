@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-03 16:57 UTC",
+        "last_updated": "2026-02-03 17:57 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 180.41,
-            "change": "+0.4%"
+            "price": 178.79,
+            "change": "-3.49%"
         },
         {
             "symbol": "AMD",
-            "price": 244.82,
-            "change": "+3.19%"
+            "price": 240.77,
+            "change": "+0.49%"
         },
         {
             "symbol": "MSFT",
-            "price": 412.75,
-            "change": "-0.86%"
+            "price": 411.47,
+            "change": "+1.53%"
         },
         {
             "symbol": "CEG",
-            "price": 269.15,
-            "change": "+1.13%"
+            "price": 267.36,
+            "change": "-2.1%"
         },
         {
             "symbol": "VST",
-            "price": 154.38,
-            "change": "-1.02%"
+            "price": 152.25,
+            "change": "-2.87%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.69,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
             0.49,
             0.49,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
             0.49,
-            0.5,
-            0.49
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.39,
-            23.44,
-            23.73,
-            24.0,
-            24.37,
-            24.77,
-            24.47,
-            24.43,
-            24.82,
-            25.11,
-            25.03,
-            24.9
+            23.08,
+            23.17,
+            23.04,
+            22.88,
+            22.95,
+            23.28,
+            23.46,
+            23.67,
+            23.74,
+            24.11,
+            24.18,
+            24.64
         ],
         "hsd_history_software": [
-            10.26,
-            10.32,
-            10.26,
-            10.47,
-            10.65,
-            10.45,
-            10.37,
-            10.47,
-            10.32,
-            10.14,
-            10.17,
-            10.09
+            9.75,
+            9.83,
+            9.84,
+            9.81,
+            9.77,
+            9.83,
+            9.95,
+            9.82,
+            9.8,
+            9.98,
+            9.91,
+            9.94
         ],
         "rci_data": [
             85.0,
-            18.041
+            17.879
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:51",
+            "time": "17:25",
+            "tag": "MERCADO",
+            "text": "Jim Cramer Thinks Roper Technologies Won't Bounce Back Until Software Stocks Recover"
+        },
+        {
+            "time": "17:23",
             "tag": "AI",
-            "text": "KLA Corporation Q2 FY 2026 Results Beat on AI-Led Demand"
+            "text": "Medtronic Bets On AI Heart Care With $585 Million Deal For Partner CathWorks"
         },
         {
-            "time": "15:41",
+            "time": "17:21",
             "tag": "MERCADO",
-            "text": "Cisco Systems (NASDAQ:CSCO) Stock Price Expected to Rise, Evercore ISI Analyst Says"
+            "text": "U.S. Bank COO to retire this spring"
         },
         {
-            "time": "15:40",
+            "time": "17:11",
             "tag": "MERCADO",
-            "text": "5 Momentum Picks for February After Wall Street's Solid Start to 2026"
+            "text": "Tyler Technologies' (TYL) \"Neutral\" Rating Reiterated at DA Davidson"
         },
         {
-            "time": "15:40",
+            "time": "16:55",
             "tag": "MERCADO",
-            "text": "Oppenheimer Lowers Price Target for INTU Despite Maintained Outperform Rating"
-        },
-        {
-            "time": "15:39",
-            "tag": "AI",
-            "text": "EPAM Enables Record-Breaking Agentic AI Innovation at Hyderabad\u2019s Agentathon"
+            "text": "AMETEK Acquires LKC Technologies"
         }
     ]
 }
