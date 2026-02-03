@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-03 11:37 UTC",
+        "last_updated": "2026-02-03 13:08 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.61,
-            "change": "-0.8%"
+            "change": "+1.53%"
         },
         {
             "symbol": "AMD",
             "price": 246.27,
-            "change": "-2.24%"
+            "change": "-0.29%"
         },
         {
             "symbol": "MSFT",
             "price": 423.37,
-            "change": "-2.45%"
+            "change": "-0.55%"
         },
         {
             "symbol": "CEG",
             "price": 270.88,
-            "change": "-3.02%"
+            "change": "+2.48%"
         },
         {
             "symbol": "VST",
             "price": 154.26,
-            "change": "-0.01%"
+            "change": "-3.13%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.47,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.53,
-            0.53,
-            0.52,
             0.51,
             0.5,
-            0.5
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.52,
-            25.25,
-            25.41,
-            25.76,
-            25.29,
-            25.0,
+            25.61,
+            25.85,
+            25.94,
+            25.5,
+            25.61,
+            25.78,
+            25.74,
+            25.4,
+            25.4,
             25.09,
-            25.39,
-            24.92,
-            25.39,
-            24.96,
+            24.82,
             25.06
         ],
         "hsd_history_software": [
-            10.81,
-            10.92,
-            10.93,
-            10.86,
-            10.67,
-            10.55,
-            10.43,
-            10.32,
-            10.21,
-            10.07,
-            9.99,
-            9.81
+            9.46,
+            9.49,
+            9.59,
+            9.6,
+            9.69,
+            9.88,
+            9.87,
+            9.77,
+            9.7,
+            9.8,
+            9.74,
+            9.94
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:27",
+            "time": "12:42",
             "tag": "MERCADO",
-            "text": "Leidos Holdings, Inc. $LDOS Shares Sold by Principal Financial Group Inc."
+            "text": "Truist Financial Corp Purchases 25,585 Shares of Astera Labs, Inc. $ALAB"
         },
         {
-            "time": "11:25",
+            "time": "12:42",
             "tag": "MERCADO",
-            "text": "Peterson Wealth Services Acquires 175,430 Shares of Cadence Design Systems, Inc. $CDNS"
+            "text": "Principal Financial Group Inc. Reduces Holdings in SiTime Corporation $SITM"
         },
         {
-            "time": "11:25",
+            "time": "12:42",
             "tag": "MERCADO",
-            "text": "Thrivent Financial for Lutherans Has $36.12 Million Holdings in Motorola Solutions, Inc. $MSI"
+            "text": "SPY ETF Daily Update, 2/3/2026"
         },
         {
-            "time": "11:22",
+            "time": "12:38",
             "tag": "MERCADO",
-            "text": "Alphabet Inc. $GOOGL is Middleton & Co. Inc. MA's 2nd Largest Position"
+            "text": "Gartner Reports $1.6 Billion Revenue in Q4 2025 with 12% Growth in Research Segment"
         },
         {
-            "time": "11:20",
+            "time": "12:34",
             "tag": "MERCADO",
-            "text": "Lockheed Martin Delivers First Sentinel A4 Radar from LRIP 2, Nears Full-Rate Production"
+            "text": "Jim Cramer Notes \"Western Digital Stock Has Been One of the Best Performers of This Era\""
         }
     ]
 }
