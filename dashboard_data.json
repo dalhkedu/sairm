@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-03 04:49 UTC",
+        "last_updated": "2026-02-03 05:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.61,
-            "change": "+3.47%"
+            "change": "+2.71%"
         },
         {
             "symbol": "AMD",
             "price": 246.27,
-            "change": "-0.65%"
+            "change": "-2.84%"
         },
         {
             "symbol": "MSFT",
             "price": 423.37,
-            "change": "-1.46%"
+            "change": "+3.06%"
         },
         {
             "symbol": "CEG",
             "price": 270.88,
-            "change": "+2.66%"
+            "change": "-0.54%"
         },
         {
             "symbol": "VST",
             "price": 154.26,
-            "change": "+1.16%"
+            "change": "-1.59%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.48,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.53,
             0.53,
             0.52,
             0.53,
             0.52,
+            0.53,
             0.52,
             0.51,
-            0.52,
-            0.51,
-            0.5,
             0.51,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.6,
-            25.18,
-            25.2,
-            25.15,
-            25.04,
-            25.35,
-            25.43,
-            25.69,
-            25.22,
-            24.84,
-            24.43,
-            24.86
+            26.77,
+            26.84,
+            26.44,
+            26.16,
+            26.23,
+            26.33,
+            26.24,
+            25.92,
+            25.92,
+            25.42,
+            25.59,
+            25.14
         ],
         "hsd_history_software": [
-            10.15,
-            10.32,
-            10.39,
-            10.45,
-            10.5,
-            10.3,
-            10.15,
-            9.96,
-            9.98,
-            9.98,
-            9.87,
-            9.84
+            10.56,
+            10.68,
+            10.48,
+            10.28,
+            10.14,
+            10.2,
+            10.01,
+            9.99,
+            10.14,
+            10.18,
+            10.0,
+            10.12
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "03:57",
+            "time": "04:52",
             "tag": "MERCADO",
-            "text": "Anywhere Real Estate Data Breach Exposes Social Security Numbers"
+            "text": "Infosys Ltd Hits Intraday High with 3.31% Surge on 3 February 2026"
         },
         {
-            "time": "03:57",
-            "tag": "AI",
-            "text": "New Huachen AI meters make tenants prepay power, tap green energy gap"
-        },
-        {
-            "time": "03:56",
+            "time": "04:48",
             "tag": "MERCADO",
-            "text": "UBS Keeps Their Hold Rating on Fair Isaac (FICO)"
+            "text": "HP Strengthens its Commitment to Hybrid Work with Next-Generation Audio and Video Innovations at ISE 2026"
         },
         {
-            "time": "03:53",
+            "time": "04:45",
+            "tag": "MERCADO",
+            "text": "Uber reenters Chinese market after years, starting with Macau (UBER:NYSE)"
+        },
+        {
+            "time": "04:27",
+            "tag": "MERCADO",
+            "text": "Eddyfi Technologies Announces Signing of Definitive Agreement to join ESAB"
+        },
+        {
+            "time": "04:27",
             "tag": "AI",
-            "text": "Google Cloud, Liberty Global sign five-year AI and cloud partnership across Europe"
-        },
-        {
-            "time": "03:52",
-            "tag": "RESULTADOS",
-            "text": "GE HealthCare (GEHC) Q4 Earnings Report Preview: What To Look For"
+            "text": "Perpetuals Featured in CoinDesk for its AI-Powered Derivatives Platform"
         }
     ]
 }
