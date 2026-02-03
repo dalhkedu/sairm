@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-03 09:47 UTC",
+        "last_updated": "2026-02-03 10:44 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.61,
-            "change": "+2.39%"
+            "change": "-1.8%"
         },
         {
             "symbol": "AMD",
             "price": 246.27,
-            "change": "-0.02%"
+            "change": "-1.39%"
         },
         {
             "symbol": "MSFT",
             "price": 423.37,
-            "change": "+1.56%"
+            "change": "-1.9%"
         },
         {
             "symbol": "CEG",
-            "price": 270.88,
-            "change": "+2.02%"
+            "price": NaN,
+            "change": "-2.7%"
         },
         {
             "symbol": "VST",
             "price": 154.26,
-            "change": "-0.86%"
+            "change": "-1.92%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.49,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
-            0.52,
             0.51,
             0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.51
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.21,
-            24.96,
-            25.44,
-            25.14,
-            24.65,
-            24.53,
-            24.61,
-            24.67,
-            25.13,
-            25.31,
-            25.07,
-            24.84
+            24.55,
+            24.38,
+            24.26,
+            24.07,
+            23.81,
+            23.61,
+            23.67,
+            23.89,
+            23.77,
+            23.74,
+            24.17,
+            24.53
         ],
         "hsd_history_software": [
-            10.24,
-            10.1,
-            9.95,
-            10.02,
-            10.03,
-            10.14,
-            10.27,
-            10.2,
+            10.16,
+            10.13,
+            10.29,
+            10.33,
+            10.26,
+            10.16,
             10.23,
-            10.28,
-            10.09,
-            10.14
+            10.29,
+            10.33,
+            10.17,
+            10.07,
+            9.91
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:26",
-            "tag": "MERCADO",
-            "text": "Principal Financial Group Inc. Has $96.40 Million Stock Position in Autodesk, Inc. $ADSK"
+            "time": "10:28",
+            "tag": "AI",
+            "text": "ServiceNow Shares Slip Despite Strong AI Growth. Should Investors Buy the Dip on the Stock?"
         },
         {
-            "time": "09:17",
+            "time": "10:25",
             "tag": "MERCADO",
-            "text": "Global Payments Inc. $GPN Shares Sold by Truist Financial Corp"
+            "text": "Strengthening Families & Communities LLC Buys 3,877 Shares of Motorola Solutions, Inc. $MSI"
         },
         {
-            "time": "09:15",
+            "time": "10:24",
             "tag": "MERCADO",
-            "text": "Jones Financial Companies Lllp Grows Stock Holdings in Analog Devices, Inc. $ADI"
+            "text": "Alphabet Inc. $GOOGL Shares Bought by Sage Mountain Advisors LLC"
         },
         {
-            "time": "09:11",
+            "time": "10:24",
             "tag": "MERCADO",
-            "text": "Jones Financial Companies Lllp Acquires 83,241 Shares of Fortinet, Inc. $FTNT"
+            "text": "Intel: An Overpriced Stock to Avoid Even After Its Pullback | Morningstar Nordics"
         },
         {
-            "time": "08:58",
+            "time": "10:13",
             "tag": "MERCADO",
-            "text": "The Truth About Life360 Inc: Is This Tracking App Actually Worth Your Money?"
+            "text": "Strengthening Families & Communities LLC Boosts Stock Position in Autodesk, Inc. $ADSK"
         }
     ]
 }
