@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-03 20:41 UTC",
+        "last_updated": "2026-02-03 21:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 179.38,
-            "change": "+1.16%"
+            "price": 180.34,
+            "change": "+0.57%"
         },
         {
             "symbol": "AMD",
-            "price": 244.73,
-            "change": "+1.91%"
+            "price": 242.11,
+            "change": "-2.4%"
         },
         {
             "symbol": "MSFT",
-            "price": 409.97,
-            "change": "+2.35%"
+            "price": 411.21,
+            "change": "-3.19%"
         },
         {
             "symbol": "CEG",
-            "price": 266.36,
-            "change": "-0.72%"
+            "price": 268.45,
+            "change": "-2.19%"
         },
         {
             "symbol": "VST",
-            "price": 153.04,
-            "change": "-2.61%"
+            "price": 153.0,
+            "change": "+3.15%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.42,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
             0.51,
             0.51,
-            0.51
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.52,
+            0.51,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.76,
-            25.68,
-            25.65,
-            25.17,
-            25.12,
+            26.23,
+            26.41,
+            26.52,
+            26.97,
+            26.62,
+            26.22,
+            26.02,
+            25.83,
+            25.38,
             25.08,
             24.71,
-            24.78,
-            24.67,
-            25.04,
-            25.2,
-            24.95
+            25.16
         ],
         "hsd_history_software": [
-            10.43,
-            10.38,
-            10.4,
-            10.23,
-            10.36,
-            10.31,
-            10.14,
-            10.27,
-            10.09,
-            10.0,
-            9.93,
-            10.0
+            9.71,
+            9.71,
+            9.82,
+            9.79,
+            9.88,
+            9.91,
+            9.77,
+            9.69,
+            9.67,
+            9.77,
+            9.82,
+            9.88
         ],
         "rci_data": [
             85.0,
-            17.938
+            18.034
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:44",
+            "time": "21:28",
             "tag": "MERCADO",
-            "text": "NXP Semiconductors stock price target lowered to $245 at BofA Securities"
+            "text": "CrowdStrike Named a Customers\u2019 Choice in the 2026 Gartner Peer Insights\u2122 \u2018Voice of the Customer\u2019 for Application Security Posture Management (ASPM) Tools Report"
         },
         {
-            "time": "19:43",
+            "time": "21:25",
             "tag": "MERCADO",
-            "text": "Intel is moving into GPUs and has hired a chief architect, CEO Lip-Bu Tan says"
+            "text": "Tucker 48 vs GM EV1: Which Groundbreaking American Icon Got Screwed Over the Hardest?"
         },
         {
-            "time": "19:41",
-            "tag": "MERCADO",
-            "text": "Pegasystems, Cadence Design Systems, and Varonis Systems Shares Plummet, What You Need To Know"
+            "time": "21:24",
+            "tag": "AI",
+            "text": "Humana Unveils AI-Powered Agent Assist Built With Google Cloud"
         },
         {
-            "time": "19:39",
-            "tag": "MERCADO",
-            "text": "Regions Bank settles USAA lawsuit over mobile-banking patents"
+            "time": "21:24",
+            "tag": "RESULTADOS",
+            "text": "Enphase Energy (NASDAQ:ENPH) Announces Quarterly Earnings Results"
         },
         {
-            "time": "19:38",
-            "tag": "MERCADO",
-            "text": "Roper Technologies stock hits 52-week low at $345.91"
+            "time": "21:24",
+            "tag": "RESULTADOS",
+            "text": "Electronic Arts (NASDAQ:EA) Releases Quarterly Earnings Results, Misses Expectations By $4.53 EPS"
         }
     ]
 }
