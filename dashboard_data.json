@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-04 07:49 UTC",
+        "last_updated": "2026-02-04 08:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.34,
-            "change": "-0.79%"
+            "change": "+2.59%"
         },
         {
             "symbol": "AMD",
             "price": 242.11,
-            "change": "+2.52%"
+            "change": "+2.76%"
         },
         {
             "symbol": "MSFT",
             "price": 411.21,
-            "change": "+2.28%"
+            "change": "+0.05%"
         },
         {
             "symbol": "CEG",
             "price": 268.45,
-            "change": "-3.15%"
+            "change": "-2.66%"
         },
         {
             "symbol": "VST",
             "price": 153.0,
-            "change": "-0.51%"
+            "change": "+2.51%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.47,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
+            0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
             0.5,
             0.49,
-            0.5,
-            0.5,
             0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            26.04,
-            25.88,
-            25.75,
-            25.73,
-            25.84,
-            26.11,
-            25.67,
-            25.91,
-            25.47,
-            25.64,
-            25.37,
-            25.1
+            22.8,
+            23.17,
+            23.64,
+            24.01,
+            24.15,
+            24.48,
+            24.35,
+            23.98,
+            24.12,
+            24.41,
+            24.84,
+            24.89
         ],
         "hsd_history_software": [
-            10.16,
-            10.11,
-            10.17,
-            10.27,
-            10.15,
-            10.04,
-            10.12,
-            10.05,
-            10.03,
-            10.0,
-            9.9,
-            9.86
+            10.67,
+            10.65,
+            10.63,
+            10.43,
+            10.33,
+            10.19,
+            10.02,
+            9.86,
+            9.97,
+            9.84,
+            9.94,
+            9.88
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:19",
-            "tag": "MERCADO",
-            "text": "Rep. David Taylor Sells Procter & Gamble Company (The) (NYSE:PG) Shares"
+            "time": "08:27",
+            "tag": "RESULTADOS",
+            "text": "5 Revealing Analyst Questions From Lam Research's Q4 Earnings Call"
         },
         {
-            "time": "07:17",
-            "tag": "MERCADO",
-            "text": "Rep. David Taylor Sells Lam Research Corporation (NASDAQ:LRCX) Shares"
+            "time": "08:27",
+            "tag": "RESULTADOS",
+            "text": "5 Insightful Analyst Questions From Corning's Q4 Earnings Call"
         },
         {
-            "time": "07:15",
+            "time": "08:27",
             "tag": "MERCADO",
-            "text": "Prologis (NYSE:PLD) Stock Unloaded Rep. David Taylor"
+            "text": "Should You Buy Gold Stocks Newmont and Barrick on the Dip?"
         },
         {
-            "time": "07:13",
+            "time": "08:15",
             "tag": "MERCADO",
-            "text": "Rep. April McClain Delaney Sells PTC Inc. (NASDAQ:PTC) Stock"
+            "text": "Vicus Capital Grows Stock Position in Apple Inc. $AAPL"
         },
         {
-            "time": "07:13",
+            "time": "08:15",
             "tag": "MERCADO",
-            "text": "Rep. April McClain Delaney Sells Off Shares of PTC Inc. (NASDAQ:PTC)"
+            "text": "Penserra Capital Management LLC Buys 58,445 Shares of QUALCOMM Incorporated $QCOM"
         }
     ]
 }
