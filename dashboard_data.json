@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-04 11:35 UTC",
+        "last_updated": "2026-02-04 13:07 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.34,
-            "change": "-3.47%"
+            "change": "-2.4%"
         },
         {
             "symbol": "AMD",
             "price": 242.11,
-            "change": "-0.58%"
+            "change": "-2.32%"
         },
         {
             "symbol": "MSFT",
             "price": 411.21,
-            "change": "-0.95%"
+            "change": "-2.45%"
         },
         {
             "symbol": "CEG",
             "price": 268.45,
-            "change": "+2.23%"
+            "change": "-1.95%"
         },
         {
             "symbol": "VST",
-            "price": 153.0,
-            "change": "+2.19%"
+            "price": NaN,
+            "change": "+2.39%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.61,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
+            0.5,
             0.5,
             0.49,
-            0.49
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            23.25,
-            23.13,
-            23.18,
-            23.61,
-            23.71,
-            23.8,
-            23.64,
-            24.11,
-            24.32,
-            24.46,
-            24.71,
-            25.06
+            25.46,
+            25.82,
+            25.72,
+            26.21,
+            26.39,
+            26.86,
+            26.35,
+            25.87,
+            25.86,
+            25.88,
+            25.66,
+            25.21
         ],
         "hsd_history_software": [
-            10.15,
-            10.08,
-            10.02,
-            9.86,
-            10.03,
-            10.22,
-            10.04,
-            10.19,
-            10.12,
-            10.19,
-            10.15,
-            10.17
+            9.57,
+            9.59,
+            9.42,
+            9.55,
+            9.6,
+            9.57,
+            9.57,
+            9.74,
+            9.63,
+            9.63,
+            9.82,
+            9.8
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:23",
-            "tag": "MERCADO",
-            "text": "Florida Credit Union's Lawsuit Against Fiserv Exposes Vulnerabilities in Third-Party Banking Security Infrastructure"
+            "time": "12:28",
+            "tag": "RESULTADOS",
+            "text": "Assessing Commvault Systems (CVLT) Valuation After Record Earnings And Cautious Fiscal 2026 Outlook"
         },
         {
-            "time": "11:22",
-            "tag": "MERCADO",
-            "text": "What's Going On With IBM Stock Wednesday?"
+            "time": "12:26",
+            "tag": "AI",
+            "text": "JPMorgan upgrades Autodesk (ADSK) on AI and infrastructure exposure"
         },
         {
-            "time": "11:16",
+            "time": "12:23",
             "tag": "MERCADO",
-            "text": "KKR and Singtel fully acquire data center firm STT GDC"
+            "text": "TD Cowen lowers Tyler Tech stock price target to $600 from $650"
         },
         {
-            "time": "11:12",
+            "time": "12:14",
             "tag": "MERCADO",
-            "text": "Core Alternative Capital Sells 9,800 Shares of Alphabet Inc. $GOOG"
+            "text": "Texas Instruments to buy Silicon Labs for $231.00/share in cash (TXN:NASDAQ)"
         },
         {
-            "time": "11:12",
+            "time": "12:08",
             "tag": "MERCADO",
-            "text": "Penserra Capital Management LLC Has $28.09 Million Stake in Texas Instruments Incorporated $TXN"
+            "text": "CDW has raised its dividend 12 straight years, $8.1B returned"
         }
     ]
 }
