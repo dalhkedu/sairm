@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-04 14:42 UTC",
+        "last_updated": "2026-02-04 15:48 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 179.05,
-            "change": "-2.06%"
+            "price": 176.43,
+            "change": "-1.64%"
         },
         {
             "symbol": "AMD",
-            "price": 214.25,
-            "change": "-2.84%"
+            "price": 207.02,
+            "change": "-0.38%"
         },
         {
             "symbol": "MSFT",
-            "price": 414.75,
-            "change": "+0.55%"
+            "price": 415.61,
+            "change": "+2.02%"
         },
         {
             "symbol": "CEG",
-            "price": 261.97,
-            "change": "+2.32%"
+            "price": 254.51,
+            "change": "-1.39%"
         },
         {
             "symbol": "VST",
-            "price": 149.48,
-            "change": "-2.57%"
+            "price": 142.91,
+            "change": "+1.54%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.6,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
             0.5,
             0.5,
             0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.27,
-            24.66,
-            24.33,
-            24.57,
-            24.59,
-            24.55,
-            24.62,
-            24.82,
-            24.62,
-            25.1,
-            25.35,
-            25.17
+            25.03,
+            25.09,
+            25.45,
+            25.37,
+            25.65,
+            25.45,
+            25.57,
+            25.56,
+            25.23,
+            25.71,
+            25.33,
+            24.83
         ],
         "hsd_history_software": [
-            10.68,
-            10.87,
-            10.74,
-            10.67,
-            10.5,
-            10.34,
-            10.54,
-            10.38,
-            10.19,
-            10.04,
+            10.55,
+            10.37,
+            10.2,
+            10.05,
             10.11,
-            9.99
+            10.08,
+            10.02,
+            10.02,
+            10.06,
+            10.15,
+            9.99,
+            9.85
         ],
         "rci_data": [
             85.0,
-            17.905
+            17.643
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:58",
+            "time": "15:28",
             "tag": "MERCADO",
-            "text": "Telecom news: Inseego, Mobile World Congress, Telefonica, Liberty Global, Netomnia, AT&T, Verizon"
+            "text": "Stelo Adds Enhanced Smart Meal Logging Features as Dexcom Continues to Transform Personal Glucose Management"
         },
         {
-            "time": "13:57",
-            "tag": "MERCADO",
-            "text": "Textron E-Z-GO LLC Launches New Labor Portal for Pace Technology Platform"
+            "time": "15:23",
+            "tag": "RESULTADOS",
+            "text": "Fortive (NYSE:FTV) Trading Up 8.8% on Better-Than-Expected Earnings"
         },
         {
-            "time": "13:55",
-            "tag": "MERCADO",
-            "text": "Enphase Energy (NASDAQ:ENPH) Stock Price Expected to Rise, TD Cowen Analyst Says"
+            "time": "15:23",
+            "tag": "RESULTADOS",
+            "text": "Enphase Energy (NASDAQ:ENPH) Shares Gap Up on Earnings Beat"
         },
         {
-            "time": "13:46",
+            "time": "15:20",
             "tag": "MERCADO",
-            "text": "Is There Now An Opportunity In Five9 (FIVN) After A 60% One Year Share Price Slide"
+            "text": "This PayPal Analyst Is No Longer Bullish; Here Are Top 5 Downgrades For Wednesday"
         },
         {
-            "time": "13:46",
+            "time": "15:20",
             "tag": "MERCADO",
-            "text": "United Rentals Adds Alexander Taussig to Board"
+            "text": "Gartner stock price target lowered to $175 by RBC on growth concerns"
         }
     ]
 }
