@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-04 17:50 UTC",
+        "last_updated": "2026-02-04 18:55 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 172.17,
-            "change": "+0.76%"
+            "price": 174.07,
+            "change": "+1.35%"
         },
         {
             "symbol": "AMD",
-            "price": 200.29,
-            "change": "-2.42%"
+            "price": 201.76,
+            "change": "+2.91%"
         },
         {
             "symbol": "MSFT",
-            "price": 413.88,
-            "change": "-2.3%"
+            "price": 417.58,
+            "change": "-2.42%"
         },
         {
             "symbol": "CEG",
-            "price": 247.65,
-            "change": "+2.36%"
+            "price": 247.26,
+            "change": "-1.84%"
         },
         {
             "symbol": "VST",
-            "price": 140.29,
-            "change": "-0.31%"
+            "price": 141.3,
+            "change": "+1.69%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.58,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.56,
-            0.55,
-            0.56,
-            0.55,
-            0.54,
-            0.54,
-            0.54,
-            0.53,
             0.52,
             0.52,
             0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.52,
+            0.51,
+            0.5,
+            0.5,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            23.08,
-            23.54,
-            23.82,
-            23.96,
-            23.68,
-            23.66,
-            23.74,
+            24.39,
+            24.44,
+            24.42,
+            24.44,
+            24.02,
+            23.86,
+            23.65,
             24.01,
-            24.37,
-            24.63,
-            25.06,
-            24.79
+            23.86,
+            24.24,
+            24.64,
+            24.83
         ],
         "hsd_history_software": [
-            10.05,
-            9.94,
-            9.77,
-            9.6,
-            9.64,
-            9.57,
-            9.62,
-            9.72,
-            9.87,
+            10.22,
+            10.17,
+            10.37,
+            10.52,
+            10.34,
+            10.2,
+            10.13,
             9.96,
-            10.0,
-            10.18
+            10.01,
+            10.15,
+            10.32,
+            10.13
         ],
         "rci_data": [
             85.0,
-            17.217
+            17.407
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:07",
+            "time": "18:16",
+            "tag": "RESULTADOS",
+            "text": "Earnings call transcript: Fortive Q4 2025 beats estimates, stock surges"
+        },
+        {
+            "time": "18:16",
             "tag": "MERCADO",
-            "text": "The Broadcom Partner Difference: The Power of Professional Services"
+            "text": "Gartner Forecasts Worldwide IT Spending to Grow 10.8% in 2026, Totaling $6.15T"
         },
         {
-            "time": "16:51",
-            "tag": "AI",
-            "text": "Applied Materials stock slides 6% as chip tools sink; Wall Street eyes earnings and AI jitters"
-        },
-        {
-            "time": "16:47",
+            "time": "18:02",
             "tag": "MERCADO",
-            "text": "Stifel Adjusts Price Target on Monolithic Power Systems to $1,300 From $1,250, Maintains Buy Rating"
+            "text": "Big Changes Are Coming To Home Depot In 2026"
         },
         {
-            "time": "16:44",
-            "tag": "AI",
-            "text": "Assessing Itron (ITRI) Valuation After New AI Grid Edge Deals And Wildfire Mitigation Push"
-        },
-        {
-            "time": "16:42",
+            "time": "17:59",
             "tag": "MERCADO",
-            "text": "Wells Fargo Adjusts Price Target on FactSet Research Systems to $215 From $265, Maintains Underweight Rating"
+            "text": "Why Oklo Stock Could Soar Again in 2026 After Rallying 238% Last Year"
+        },
+        {
+            "time": "17:57",
+            "tag": "MERCADO",
+            "text": "Form FWP BANK OF AMERICA CORP Filed by: BANK OF AMERICA CORP /DE/"
         }
     ]
 }
