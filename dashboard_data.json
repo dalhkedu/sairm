@@ -1,37 +1,37 @@
 {
     "metadata": {
-        "last_updated": "2026-02-04 04:42 UTC",
+        "last_updated": "2026-02-04 05:52 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.34,
-            "change": "-0.21%"
+            "change": "+0.1%"
         },
         {
             "symbol": "AMD",
             "price": 242.11,
-            "change": "-0.54%"
+            "change": "-3.33%"
         },
         {
             "symbol": "MSFT",
             "price": 411.21,
-            "change": "+0.66%"
+            "change": "-0.24%"
         },
         {
             "symbol": "CEG",
             "price": 268.45,
-            "change": "-3.24%"
+            "change": "-3.04%"
         },
         {
             "symbol": "VST",
             "price": 153.0,
-            "change": "-0.86%"
+            "change": "+2.91%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.6,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
@@ -39,43 +39,43 @@
             0.49,
             0.49,
             0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
             0.49,
             0.5,
             0.5,
-            0.5,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.6,
-            26.04,
+            25.32,
+            25.17,
+            24.85,
+            25.23,
+            25.46,
             25.77,
-            25.61,
-            25.77,
-            26.15,
-            26.34,
-            26.27,
-            26.11,
-            25.61,
-            25.51,
-            25.18
+            25.74,
+            25.63,
+            25.41,
+            24.95,
+            25.23,
+            25.34
         ],
         "hsd_history_software": [
-            9.79,
-            9.94,
-            9.75,
-            9.79,
-            9.92,
-            9.88,
-            10.02,
+            10.42,
+            10.39,
+            10.19,
+            10.18,
+            10.26,
+            10.25,
+            10.13,
+            10.17,
+            10.18,
+            10.15,
             10.03,
-            9.96,
-            9.97,
-            9.79,
-            9.89
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:07",
+            "time": "05:08",
             "tag": "MERCADO",
-            "text": "The Truth About Align Technology Inc: Why Everyone Is Suddenly Watching ALGN"
+            "text": "Amazon teams up with leading Indian university to turn farm waste into recyclable packaging"
         },
         {
-            "time": "04:03",
+            "time": "04:59",
             "tag": "MERCADO",
-            "text": "PPG Industries Inc.: How a 140-Year-Old Coatings Giant Is Rebuilding the Future, Layer by Layer"
+            "text": "Akamai Stock: Quiet Cloud Veteran Suddenly Looks Like A Growth Story Again"
         },
         {
-            "time": "03:58",
+            "time": "04:58",
+            "tag": "MERCADO",
+            "text": "Infosys, Wipro, Persistent, other IT shares fall up to 7%, wipe out nearly \u20b91.5 lakh crore in value"
+        },
+        {
+            "time": "04:32",
             "tag": "RESULTADOS",
-            "text": "EGain: Fiscal Second Quarter Earnings Overview"
+            "text": "Lumen: Buy The Earnings Pullback (NYSE:LUMN)"
         },
         {
-            "time": "03:50",
+            "time": "04:18",
             "tag": "MERCADO",
-            "text": "F5 Inc. Securities Class Action Reminder"
-        },
-        {
-            "time": "03:45",
-            "tag": "AI",
-            "text": "KKR, Singtel To Buy Stake In Data Center Operator STT GDC For $5.2 Billion Amid AI Boom"
+            "text": "Infosys Ltd Hits Intraday Low Amid Price Pressure on 4 Feb 2026"
         }
     ]
 }
