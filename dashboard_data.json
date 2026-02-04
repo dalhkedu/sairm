@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-04 08:49 UTC",
+        "last_updated": "2026-02-04 09:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.34,
-            "change": "+2.59%"
+            "change": "-1.93%"
         },
         {
             "symbol": "AMD",
             "price": 242.11,
-            "change": "+2.76%"
+            "change": "0.0%"
         },
         {
             "symbol": "MSFT",
             "price": 411.21,
-            "change": "+0.05%"
+            "change": "+1.73%"
         },
         {
             "symbol": "CEG",
             "price": 268.45,
-            "change": "-2.66%"
+            "change": "-0.35%"
         },
         {
             "symbol": "VST",
             "price": 153.0,
-            "change": "+2.51%"
+            "change": "-3.26%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.69,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.5,
             0.49,
             0.49,
-            0.5
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            22.8,
-            23.17,
-            23.64,
-            24.01,
-            24.15,
-            24.48,
-            24.35,
-            23.98,
-            24.12,
-            24.41,
-            24.84,
-            24.89
+            24.17,
+            24.11,
+            24.38,
+            24.4,
+            24.82,
+            24.76,
+            25.09,
+            24.82,
+            24.58,
+            24.72,
+            25.18,
+            24.71
         ],
         "hsd_history_software": [
-            10.67,
-            10.65,
-            10.63,
-            10.43,
-            10.33,
-            10.19,
-            10.02,
-            9.86,
-            9.97,
-            9.84,
-            9.94,
-            9.88
+            10.59,
+            10.7,
+            10.6,
+            10.6,
+            10.57,
+            10.55,
+            10.35,
+            10.41,
+            10.35,
+            10.53,
+            10.36,
+            10.16
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:27",
+            "time": "09:26",
+            "tag": "MERCADO",
+            "text": "Thrivent Financial for Lutherans Has $24.32 Million Stock Holdings in Adobe Inc. $ADBE"
+        },
+        {
+            "time": "09:26",
+            "tag": "MERCADO",
+            "text": "Machina Capital S.A.S. Sells 7,151 Shares of Adobe Inc. $ADBE"
+        },
+        {
+            "time": "09:26",
+            "tag": "MERCADO",
+            "text": "Fortinet, Inc. $FTNT Stock Position Reduced by Principal Financial Group Inc."
+        },
+        {
+            "time": "09:18",
             "tag": "RESULTADOS",
-            "text": "5 Revealing Analyst Questions From Lam Research's Q4 Earnings Call"
+            "text": "5 Must-Read Analyst Questions From C.H. Robinson Worldwide's Q4 Earnings Call"
         },
         {
-            "time": "08:27",
+            "time": "09:17",
             "tag": "RESULTADOS",
-            "text": "5 Insightful Analyst Questions From Corning's Q4 Earnings Call"
-        },
-        {
-            "time": "08:27",
-            "tag": "MERCADO",
-            "text": "Should You Buy Gold Stocks Newmont and Barrick on the Dip?"
-        },
-        {
-            "time": "08:15",
-            "tag": "MERCADO",
-            "text": "Vicus Capital Grows Stock Position in Apple Inc. $AAPL"
-        },
-        {
-            "time": "08:15",
-            "tag": "MERCADO",
-            "text": "Penserra Capital Management LLC Buys 58,445 Shares of QUALCOMM Incorporated $QCOM"
+            "text": "Cisco Systems (CSCO) Projected to Post Earnings on Wednesday"
         }
     ]
 }
