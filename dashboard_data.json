@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-04 20:38 UTC",
+        "last_updated": "2026-02-04 21:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 175.46,
-            "change": "+2.69%"
+            "price": 174.19,
+            "change": "-0.24%"
         },
         {
             "symbol": "AMD",
-            "price": 202.9,
-            "change": "+1.71%"
+            "price": 200.19,
+            "change": "-0.55%"
         },
         {
             "symbol": "MSFT",
-            "price": 415.32,
-            "change": "+3.06%"
+            "price": 414.19,
+            "change": "+2.98%"
         },
         {
             "symbol": "CEG",
-            "price": 249.51,
-            "change": "+2.59%"
+            "price": 250.46,
+            "change": "+1.82%"
         },
         {
             "symbol": "VST",
-            "price": 141.55,
-            "change": "-0.81%"
+            "price": 142.52,
+            "change": "-1.02%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
-        "rci_current": 0.18,
+        "cer_current": 0.57,
+        "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.53,
-            0.52,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.51,
+            0.5,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.49
+            0.51
         ],
         "hsd_history_hardware": [
-            25.56,
-            25.24,
-            25.72,
+            25.92,
+            25.7,
+            25.97,
+            25.89,
+            25.75,
+            25.32,
+            25.55,
+            25.17,
+            25.4,
             25.71,
-            25.81,
-            25.9,
-            25.63,
-            25.69,
-            25.21,
-            25.18,
-            24.82,
-            25.25
+            25.85,
+            25.48
         ],
         "hsd_history_software": [
-            8.88,
-            9.04,
-            9.14,
-            9.28,
-            9.44,
-            9.5,
-            9.43,
-            9.58,
-            9.76,
             9.85,
-            9.71,
-            9.86
+            9.89,
+            10.09,
+            10.11,
+            10.17,
+            10.0,
+            10.15,
+            10.22,
+            10.29,
+            10.2,
+            10.26,
+            10.14
         ],
         "rci_data": [
             85.0,
-            17.546
+            17.419
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:28",
+            "time": "21:16",
             "tag": "MERCADO",
-            "text": "CyberArk: Fourth Quarter Financial Overview"
+            "text": "Align Technology Announces Fourth Quarter and Fiscal 2025 Results"
         },
         {
-            "time": "20:28",
+            "time": "21:15",
             "tag": "MERCADO",
-            "text": "Technical Reactions to LCII Trends in Macro Strategies"
+            "text": "Qualcomm crashes amid weak Q2 guidance (QCOM:NASDAQ)"
         },
         {
-            "time": "19:53",
+            "time": "21:14",
             "tag": "MERCADO",
-            "text": "Caterpillar Is Riding the Data Center Boom-But Is It Too Expensive Now?"
+            "text": "U.S. Markets Ended Wednesday Mixed As Super Micro Computer Led, Boston Scientific Lagged"
         },
         {
-            "time": "19:39",
+            "time": "21:14",
             "tag": "MERCADO",
-            "text": "Citigroup Lowers Price Target for Electronic Arts (EA) to $202"
+            "text": "QUALCOMM INC/DE SEC 10-Q Report"
         },
         {
-            "time": "19:39",
+            "time": "21:04",
             "tag": "MERCADO",
-            "text": "The Truth About Playtika Holding Corp: Is This Mobile Gaming Stock a Secret Cheat Code or Dead Game?"
+            "text": "NetApp Hosts Third Quarter of Fiscal Year 2026 Financial Results Webcast"
         }
     ]
 }
