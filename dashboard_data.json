@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-05 16:54 UTC",
+        "last_updated": "2026-02-05 17:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 175.3,
-            "change": "-1.64%"
+            "price": 175.01,
+            "change": "-0.03%"
         },
         {
             "symbol": "AMD",
-            "price": 195.37,
-            "change": "-2.87%"
+            "price": 194.09,
+            "change": "-1.25%"
         },
         {
             "symbol": "MSFT",
-            "price": 405.53,
-            "change": "+0.35%"
+            "price": 403.68,
+            "change": "+0.2%"
         },
         {
             "symbol": "CEG",
-            "price": 246.86,
-            "change": "+1.38%"
+            "price": 248.24,
+            "change": "-2.2%"
         },
         {
             "symbol": "VST",
-            "price": 141.54,
-            "change": "+1.49%"
+            "price": 143.04,
+            "change": "-0.61%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.48,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.5,
-            0.5,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            24.09,
-            23.73,
-            24.06,
-            23.78,
-            24.25,
-            24.72,
-            24.87,
-            24.87,
-            25.37,
-            25.38,
-            25.13,
-            25.34
+            23.53,
+            23.99,
+            24.46,
+            23.98,
+            24.14,
+            24.23,
+            24.53,
+            24.9,
+            24.91,
+            24.84,
+            24.74,
+            24.96
         ],
         "hsd_history_software": [
-            10.34,
-            10.5,
-            10.36,
-            10.34,
-            10.15,
-            10.14,
-            10.25,
-            10.29,
-            10.15,
-            10.21,
-            10.23,
-            10.15
+            9.02,
+            9.13,
+            9.18,
+            9.35,
+            9.49,
+            9.56,
+            9.74,
+            9.93,
+            9.93,
+            9.91,
+            10.07,
+            10.03
         ],
         "rci_data": [
             85.0,
-            17.53
+            17.501
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:56",
+            "time": "16:57",
             "tag": "MERCADO",
-            "text": "Form 424B2 GOLDMAN SACHS GROUP INC"
+            "text": "PG&E Accelerating Home Electrification for Customers via SPAN Edge"
         },
         {
-            "time": "15:50",
+            "time": "16:52",
             "tag": "MERCADO",
-            "text": "Johnson Fistel, PLLP Begins Investigation on Behalf of"
+            "text": "PG&E program offers cheaper route than $40,000 panel upgrades"
         },
         {
-            "time": "15:45",
+            "time": "16:46",
             "tag": "MERCADO",
-            "text": "Oppenheimer Raises Amazon.com, Inc. (AMZN) Target as AWS Momentum and Margin Expansion Accelerate"
+            "text": "Analysts Offer Insights on Technology Companies: Tyler Technologies (TYL) and Texas Instruments (TXN)"
         },
         {
-            "time": "15:40",
+            "time": "16:40",
             "tag": "MERCADO",
-            "text": "TruAlt Bioenergy selects Honeywell technology for SAF project in India"
+            "text": "Rail News - CSX replaces poles with microprocessor-based signal systems. For Railroad Career Professionals"
         },
         {
-            "time": "15:37",
+            "time": "16:39",
             "tag": "MERCADO",
-            "text": "Dow drops 215 points on losses for shares of Amazon.com Inc., Microsoft"
+            "text": "CDW (CDW) Receives Maintained Rating, Price Target Raised by Morgan Stanley | CDW Stock News"
         }
     ]
 }
