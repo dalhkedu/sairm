@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-05 18:54 UTC",
+        "last_updated": "2026-02-05 19:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 173.3,
-            "change": "+2.08%"
+            "price": 173.23,
+            "change": "-2.87%"
         },
         {
             "symbol": "AMD",
-            "price": 191.62,
-            "change": "+2.13%"
+            "price": 191.67,
+            "change": "-1.6%"
         },
         {
             "symbol": "MSFT",
-            "price": 400.33,
-            "change": "+2.86%"
+            "price": 397.44,
+            "change": "+0.5%"
         },
         {
             "symbol": "CEG",
-            "price": 245.8,
-            "change": "+0.96%"
+            "price": 246.56,
+            "change": "-1.93%"
         },
         {
             "symbol": "VST",
-            "price": 141.38,
-            "change": "-1.7%"
+            "price": 141.85,
+            "change": "+2.2%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.49,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.54,
-            0.53,
-            0.52,
-            0.52,
+            0.5,
             0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.51
+            0.5,
+            0.49,
+            0.48,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.03,
-            24.65,
-            24.55,
-            24.63,
-            24.54,
-            24.29,
-            24.21,
+            24.07,
+            23.63,
+            23.86,
+            24.28,
             24.2,
-            24.43,
-            24.64,
-            24.73,
-            25.17
+            23.96,
+            24.24,
+            24.71,
+            25.09,
+            24.74,
+            25.09,
+            25.47
         ],
         "hsd_history_software": [
-            9.94,
+            10.23,
+            10.15,
+            10.05,
+            9.91,
             10.03,
-            9.85,
+            9.89,
+            9.79,
+            9.8,
             9.84,
-            9.85,
-            9.97,
-            10.1,
-            10.18,
-            10.1,
-            10.07,
-            10.03,
-            10.11
+            10.0,
+            9.82,
+            9.93
         ],
         "rci_data": [
             85.0,
-            17.330000000000002
+            17.323
         ],
         "energy_data": [
             1.2,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "18:44",
+            "tag": "MERCADO",
+            "text": "Former Humana Inc. CEO Bruce Broussard named interim CEO of HP Inc."
+        },
+        {
             "time": "18:20",
             "tag": "MERCADO",
             "text": "EXCLUSIVE: SuMi TRUST, Amundi, Invesco Positive On Japanese Equities, Ahead Of A Snap Election"
@@ -144,11 +149,6 @@
             "time": "18:12",
             "tag": "AI",
             "text": "Investors sue Oracle, allege executives dumped $1.87B amid AI hype"
-        },
-        {
-            "time": "18:01",
-            "tag": "MERCADO",
-            "text": "In the shadows of giants"
         }
     ]
 }
