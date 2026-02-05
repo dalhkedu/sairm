@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-05 08:49 UTC",
+        "last_updated": "2026-02-05 09:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 174.19,
-            "change": "+3.04%"
+            "change": "-0.58%"
         },
         {
             "symbol": "AMD",
             "price": 200.19,
-            "change": "+0.12%"
+            "change": "+1.97%"
         },
         {
             "symbol": "MSFT",
             "price": 414.19,
-            "change": "-3.17%"
+            "change": "-0.51%"
         },
         {
             "symbol": "CEG",
             "price": 250.46,
-            "change": "-0.47%"
+            "change": "-2.6%"
         },
         {
             "symbol": "VST",
             "price": 142.52,
-            "change": "-0.64%"
+            "change": "-2.47%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.42,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
+            0.52,
+            0.51,
+            0.51,
             0.5,
             0.5,
             0.5,
-            0.5
+            0.49,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            23.32,
-            23.65,
-            24.12,
-            24.34,
+            24.96,
+            24.51,
+            24.67,
+            24.59,
+            24.4,
             24.65,
-            25.0,
-            24.8,
-            24.76,
-            24.54,
-            24.62,
-            24.31,
-            24.54
+            24.84,
+            25.12,
+            25.57,
+            25.63,
+            25.78,
+            25.35
         ],
         "hsd_history_software": [
-            9.86,
+            9.71,
+            9.8,
+            9.7,
+            9.81,
+            9.84,
+            9.85,
+            9.97,
             10.04,
-            10.01,
-            10.13,
-            10.26,
-            10.1,
-            10.0,
-            10.19,
-            10.04,
-            9.86,
-            10.01,
-            10.0
+            10.02,
+            10.07,
+            10.02,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:27",
+            "time": "08:57",
             "tag": "MERCADO",
-            "text": "Apple Inc. $AAPL Shares Sold by St. Johns Investment Management Company LLC"
+            "text": "Ashton Thomas Private Wealth LLC Acquires 3,286 Shares of Analog Devices, Inc. $ADI"
         },
         {
-            "time": "08:27",
+            "time": "08:57",
             "tag": "MERCADO",
-            "text": "Apple Inc. $AAPL Position Decreased by PKO Investment Management Joint Stock Co"
+            "text": "ABN AMRO Bank N.V. Acquires 98,630 Shares of Cisco Systems, Inc. $CSCO"
         },
         {
-            "time": "08:21",
+            "time": "08:49",
             "tag": "MERCADO",
-            "text": "Penserra Capital Management LLC Increases Stock Holdings in Akamai Technologies, Inc. $AKAM"
+            "text": "Machina Capital S.A.S. Grows Stake in VeriSign, Inc. $VRSN"
         },
         {
-            "time": "07:42",
+            "time": "08:48",
             "tag": "MERCADO",
-            "text": "Johnson Controls International plc (NYSE:JCI) Given Average Rating of \"Moderate Buy\" by Analysts"
+            "text": "BI Asset Management Fondsmaeglerselskab A S Increases Stock Position in NetApp, Inc. $NTAP"
         },
         {
-            "time": "07:34",
+            "time": "08:41",
             "tag": "MERCADO",
-            "text": "From a quiet exit to a relaunch: Traditional options exchange Cboe battles prediction markets for market entry."
+            "text": "Thrivent Financial for Lutherans Sells 1,308,463 Shares of Fortinet, Inc. $FTNT"
         }
     ]
 }
