@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-05 04:50 UTC",
+        "last_updated": "2026-02-05 05:58 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 174.19,
-            "change": "+1.19%"
+            "change": "-2.51%"
         },
         {
             "symbol": "AMD",
-            "price": 200.19,
-            "change": "-0.65%"
+            "price": NaN,
+            "change": "-1.0%"
         },
         {
             "symbol": "MSFT",
             "price": 414.19,
-            "change": "-0.27%"
+            "change": "-3.32%"
         },
         {
             "symbol": "CEG",
             "price": 250.46,
-            "change": "+0.83%"
+            "change": "+0.84%"
         },
         {
             "symbol": "VST",
             "price": 142.52,
-            "change": "+2.08%"
+            "change": "-2.4%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.7,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.5,
             0.5,
             0.51,
             0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
             0.5,
+            0.51,
             0.5,
-            0.49,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.11,
-            25.04,
-            24.56,
-            24.56,
-            24.67,
-            25.01,
-            24.96,
-            25.17,
-            24.69,
-            24.56,
-            24.64,
-            25.03
+            27.05,
+            26.55,
+            26.69,
+            26.19,
+            25.91,
+            26.14,
+            25.62,
+            25.92,
+            25.9,
+            25.63,
+            25.19,
+            25.41
         ],
         "hsd_history_software": [
-            10.55,
-            10.66,
-            10.45,
-            10.27,
-            10.17,
-            10.27,
-            10.2,
-            10.02,
-            10.16,
-            10.0,
-            10.11,
-            10.13
+            9.34,
+            9.44,
+            9.5,
+            9.58,
+            9.64,
+            9.58,
+            9.58,
+            9.61,
+            9.79,
+            9.98,
+            9.93,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "05:12",
+            "tag": "MERCADO",
+            "text": "A.O. Smith Corp.: How a 150-Year-Old Water Tech Brand Is Quietly Becoming a Smart-Home Powerhouse"
+        },
+        {
+            "time": "04:58",
+            "tag": "AI",
+            "text": "PG&E Partners with Lockheed Martin to Launch AI-Powered Wildfire Solutions Venture"
+        },
+        {
             "time": "04:28",
             "tag": "MERCADO",
             "text": "Live Oak Bancshares promotes streamlined lending with Live Oak Express"
@@ -139,16 +149,6 @@
             "time": "03:48",
             "tag": "MERCADO",
             "text": "Galaxy Digital Analysts Cut Their Forecasts Following Q4 Results"
-        },
-        {
-            "time": "03:31",
-            "tag": "MERCADO",
-            "text": "Analysts Offer Insights on Technology Companies: Broadridge Financial Solutions (BR), Apple (AAPL) and Teradyne (TER)"
-        },
-        {
-            "time": "03:28",
-            "tag": "MERCADO",
-            "text": "Arlo Technologies Announces Inducement Awards Under NYSE Rule 303A.08"
         }
     ]
 }
