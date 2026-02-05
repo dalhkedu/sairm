@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-05 11:37 UTC",
+        "last_updated": "2026-02-05 13:09 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 174.19,
-            "change": "+2.78%"
+            "change": "-3.23%"
         },
         {
             "symbol": "AMD",
             "price": 200.19,
-            "change": "+2.93%"
+            "change": "-0.09%"
         },
         {
             "symbol": "MSFT",
             "price": 414.19,
-            "change": "-1.58%"
+            "change": "-2.96%"
         },
         {
             "symbol": "CEG",
             "price": 250.46,
-            "change": "+0.29%"
+            "change": "+2.13%"
         },
         {
             "symbol": "VST",
             "price": 142.52,
-            "change": "-2.84%"
+            "change": "-0.48%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.48,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.49,
-            0.49,
             0.5,
-            0.49,
+            0.5,
+            0.51,
             0.5,
             0.5,
             0.5,
+            0.51,
+            0.51,
+            0.51,
             0.51,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            23.2,
-            23.52,
-            23.98,
-            23.67,
-            23.24,
-            23.67,
-            23.75,
-            23.9,
-            23.71,
-            24.09,
-            24.39,
-            24.61
+            23.93,
+            24.3,
+            24.7,
+            24.87,
+            25.28,
+            24.92,
+            24.82,
+            24.8,
+            24.59,
+            24.4,
+            24.81,
+            24.71
         ],
         "hsd_history_software": [
-            10.11,
-            9.97,
+            10.03,
+            9.86,
+            9.88,
             10.02,
-            9.9,
-            9.82,
-            9.99,
-            9.99,
-            9.81,
-            9.75,
-            9.94,
-            9.78,
-            9.96
+            9.91,
+            10.09,
+            10.16,
+            10.07,
+            9.88,
+            9.72,
+            9.73,
+            9.92
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:27",
+            "time": "12:46",
             "tag": "MERCADO",
-            "text": "Arista Networks, Inc. $ANET Stock Position Lifted by BI Asset Management Fondsmaeglerselskab A S"
+            "text": "GM, TRV & ASML: 3 Industry Giants Boosting Buybacks in 2026"
         },
         {
-            "time": "10:57",
+            "time": "12:23",
             "tag": "MERCADO",
-            "text": "Principal Financial Group Inc. Increases Position in Seagate Technology Holdings PLC $STX"
+            "text": "SAP Is a Leader in the 2025 Gartner\u00ae Magic Quadrant\u2122 for Configure, Price, and Quote Application Suites"
         },
         {
-            "time": "10:55",
+            "time": "12:22",
             "tag": "MERCADO",
-            "text": "ABN AMRO Bank N.V. Buys 3,310 Shares of Equinix, Inc. $EQIX"
+            "text": "US utilities Xcel Energy, NextEra ink MoU to support delivery of new generation to serve large-load customers"
         },
         {
-            "time": "10:55",
-            "tag": "MERCADO",
-            "text": "Jones Financial Companies Lllp Purchases 20,758 Shares of Arista Networks, Inc. $ANET"
+            "time": "12:18",
+            "tag": "AI",
+            "text": "London Stock Exchange Shares Rebound as JPMorgan, Goldman Downplay AI Risk"
         },
         {
-            "time": "10:54",
+            "time": "12:13",
             "tag": "MERCADO",
-            "text": "AGF Management Ltd. Sells 1,223,788 Shares of Tyler Technologies, Inc. $TYL"
+            "text": "New Buy Rating for Advanced Micro Devices (AMD), the Technology Giant"
         }
     ]
 }
