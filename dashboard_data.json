@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-05 13:09 UTC",
+        "last_updated": "2026-02-05 14:47 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 174.19,
-            "change": "-3.23%"
+            "price": 176.44,
+            "change": "-1.32%"
         },
         {
             "symbol": "AMD",
-            "price": 200.19,
-            "change": "-0.09%"
+            "price": 202.71,
+            "change": "+0.88%"
         },
         {
             "symbol": "MSFT",
-            "price": 414.19,
-            "change": "-2.96%"
+            "price": 402.32,
+            "change": "-0.15%"
         },
         {
             "symbol": "CEG",
-            "price": 250.46,
-            "change": "+2.13%"
+            "price": 253.17,
+            "change": "-0.6%"
         },
         {
             "symbol": "VST",
-            "price": 142.52,
-            "change": "-0.48%"
+            "price": 142.64,
+            "change": "+1.61%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
-        "rci_current": 0.17,
+        "cer_current": 0.62,
+        "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5,
+            0.49,
             0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            23.93,
-            24.3,
-            24.7,
-            24.87,
+            24.36,
+            24.83,
+            25.19,
+            25.53,
+            25.67,
+            25.44,
+            25.51,
             25.28,
-            24.92,
-            24.82,
-            24.8,
-            24.59,
-            24.4,
-            24.81,
-            24.71
+            25.42,
+            25.57,
+            25.14,
+            24.66
         ],
         "hsd_history_software": [
-            10.03,
-            9.86,
-            9.88,
-            10.02,
-            9.91,
-            10.09,
-            10.16,
-            10.07,
-            9.88,
-            9.72,
-            9.73,
-            9.92
+            9.19,
+            9.3,
+            9.22,
+            9.31,
+            9.4,
+            9.57,
+            9.58,
+            9.5,
+            9.57,
+            9.7,
+            9.71,
+            9.9
         ],
         "rci_data": [
             85.0,
-            17.419
+            17.644
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:46",
+            "time": "14:09",
             "tag": "MERCADO",
-            "text": "GM, TRV & ASML: 3 Industry Giants Boosting Buybacks in 2026"
+            "text": "Rockwell Automation results top estimates, annual profit forecast lags"
         },
         {
-            "time": "12:23",
+            "time": "14:03",
             "tag": "MERCADO",
-            "text": "SAP Is a Leader in the 2025 Gartner\u00ae Magic Quadrant\u2122 for Configure, Price, and Quote Application Suites"
+            "text": "In 1916, hybrid cars could\u2019ve changed history. But Ford wouldn\u2019t allow it."
         },
         {
-            "time": "12:22",
+            "time": "13:50",
             "tag": "MERCADO",
-            "text": "US utilities Xcel Energy, NextEra ink MoU to support delivery of new generation to serve large-load customers"
+            "text": "Nvidia, Prologis, EPRI, InfraPartners target prefab data centers at substation sites"
         },
         {
-            "time": "12:18",
-            "tag": "AI",
-            "text": "London Stock Exchange Shares Rebound as JPMorgan, Goldman Downplay AI Risk"
+            "time": "13:48",
+            "tag": "MERCADO",
+            "text": "InterDigital Reports Fourth Quarter and Full Year 2025 Financial Results"
         },
         {
-            "time": "12:13",
-            "tag": "MERCADO",
-            "text": "New Buy Rating for Advanced Micro Devices (AMD), the Technology Giant"
+            "time": "13:48",
+            "tag": "RESULTADOS",
+            "text": "Cummins Earnings Driven by Data-Center Demand. The Stock Is Down."
         }
     ]
 }
