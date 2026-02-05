@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-05 15:44 UTC",
+        "last_updated": "2026-02-05 16:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 173.26,
-            "change": "+3.32%"
+            "price": 175.3,
+            "change": "-1.64%"
         },
         {
             "symbol": "AMD",
-            "price": 194.77,
-            "change": "+1.03%"
+            "price": 195.37,
+            "change": "-2.87%"
         },
         {
             "symbol": "MSFT",
-            "price": 402.36,
-            "change": "+1.45%"
+            "price": 405.53,
+            "change": "+0.35%"
         },
         {
             "symbol": "CEG",
-            "price": 245.92,
-            "change": "+1.46%"
+            "price": 246.86,
+            "change": "+1.38%"
         },
         {
             "symbol": "VST",
-            "price": 140.18,
-            "change": "-2.98%"
+            "price": 141.54,
+            "change": "+1.49%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
-        "rci_current": 0.17,
+        "cer_current": 0.46,
+        "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.48,
+            0.48,
             0.49,
             0.5,
-            0.49,
             0.5,
-            0.51,
-            0.5,
-            0.51
+            0.49
         ],
         "hsd_history_hardware": [
-            25.17,
-            24.71,
-            24.92,
-            24.47,
-            24.11,
+            24.09,
+            23.73,
+            24.06,
             23.78,
-            23.93,
-            24.18,
-            24.05,
-            24.16,
-            24.35,
-            24.55
+            24.25,
+            24.72,
+            24.87,
+            24.87,
+            25.37,
+            25.38,
+            25.13,
+            25.34
         ],
         "hsd_history_software": [
-            9.99,
-            9.84,
-            9.94,
-            9.8,
-            9.96,
-            9.97,
-            9.97,
-            10.04,
-            10.04,
-            10.06,
-            9.89,
-            10.08
+            10.34,
+            10.5,
+            10.36,
+            10.34,
+            10.15,
+            10.14,
+            10.25,
+            10.29,
+            10.15,
+            10.21,
+            10.23,
+            10.15
         ],
         "rci_data": [
             85.0,
-            17.326
+            17.53
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:45",
+            "time": "15:56",
             "tag": "MERCADO",
-            "text": "Fiserv Fell 8% on Strategy Shift: Why the Stock Could Rebound to $85 in 2026"
+            "text": "Form 424B2 GOLDMAN SACHS GROUP INC"
         },
         {
-            "time": "14:28",
+            "time": "15:50",
             "tag": "MERCADO",
-            "text": "IBM to Support Missile Defense Agency SHIELD Contract"
+            "text": "Johnson Fistel, PLLP Begins Investigation on Behalf of"
         },
         {
-            "time": "14:28",
+            "time": "15:45",
             "tag": "MERCADO",
-            "text": "First Solar Stock Outlook: Is Wall Street Bullish or Bearish?"
+            "text": "Oppenheimer Raises Amazon.com, Inc. (AMZN) Target as AWS Momentum and Margin Expansion Accelerate"
         },
         {
-            "time": "14:28",
+            "time": "15:40",
             "tag": "MERCADO",
-            "text": "FedEx preparing major sort center expansion at Memphis air hub"
+            "text": "TruAlt Bioenergy selects Honeywell technology for SAF project in India"
         },
         {
-            "time": "14:27",
+            "time": "15:37",
             "tag": "MERCADO",
-            "text": "FedEx preparing major sort center expansion at Memphis air hub"
+            "text": "Dow drops 215 points on losses for shares of Amazon.com Inc., Microsoft"
         }
     ]
 }
