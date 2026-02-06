@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-06 17:43 UTC",
+        "last_updated": "2026-02-06 18:56 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 185.02,
-            "change": "+0.19%"
+            "price": 184.87,
+            "change": "-1.4%"
         },
         {
             "symbol": "AMD",
-            "price": 208.06,
-            "change": "+0.05%"
+            "price": 207.57,
+            "change": "-3.2%"
         },
         {
             "symbol": "MSFT",
-            "price": 397.29,
-            "change": "+2.09%"
+            "price": 397.7,
+            "change": "-2.89%"
         },
         {
             "symbol": "CEG",
-            "price": 262.87,
-            "change": "+2.86%"
+            "price": 261.95,
+            "change": "-3.3%"
         },
         {
             "symbol": "VST",
-            "price": 151.45,
-            "change": "-2.61%"
+            "price": 150.15,
+            "change": "-1.0%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
-        "rci_current": 0.19,
+        "cer_current": 0.64,
+        "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.43,
+            0.44,
+            0.44,
+            0.45,
+            0.45,
+            0.46,
             0.47,
             0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
             0.48,
             0.48,
             0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            23.95,
-            24.14,
-            23.77,
-            24.14,
-            24.16,
-            24.0,
-            23.9,
-            24.12,
+            24.46,
             24.33,
-            24.56,
-            24.8,
-            25.13
+            24.62,
+            25.09,
+            24.83,
+            24.9,
+            24.99,
+            25.45,
+            25.03,
+            24.9,
+            25.4,
+            24.97
         ],
         "hsd_history_software": [
-            9.87,
-            9.7,
-            9.9,
-            10.05,
-            9.95,
-            10.13,
-            10.18,
+            10.1,
             10.15,
-            10.21,
-            10.03,
             9.98,
-            9.82
+            10.0,
+            9.96,
+            10.04,
+            10.07,
+            10.13,
+            10.0,
+            9.86,
+            9.82,
+            9.93
         ],
         "rci_data": [
             85.0,
-            18.502000000000002
+            18.487000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:00",
+            "time": "18:06",
             "tag": "MERCADO",
-            "text": "Apple users told check spam as $95M \u2018eavesdropping\u2019 settlement payments go out"
+            "text": "CrowdStrike Stock Up on Saudi Arabia Cybersecurity Partnership with Aramco - News and Statistics"
         },
         {
-            "time": "16:40",
-            "tag": "MERCADO",
-            "text": "Why Alphabet Will Likely Leapfrog Nvidia To Become World's Most Valuable Company (GOOG)"
-        },
-        {
-            "time": "16:33",
-            "tag": "MERCADO",
-            "text": "OMG They\u2019re Back Again: T-Mobile Teams Up with the Backstreet Boys for Big Game Commercial"
-        },
-        {
-            "time": "16:30",
-            "tag": "MERCADO",
-            "text": "TPG to Acquire Majority Stake in Sabre Industries from Blackstone Energy Transition Partners"
-        },
-        {
-            "time": "16:23",
+            "time": "18:02",
             "tag": "AI",
-            "text": "Agents in the enterprise: Salesforce and DeepL see productivity move the needle as use cases grow for AI"
+            "text": "The Home Depot debuts Material List Builder AI"
+        },
+        {
+            "time": "17:37",
+            "tag": "MERCADO",
+            "text": "10 Consumer Discretionary Stocks Whale Activity In Today's Session"
+        },
+        {
+            "time": "17:37",
+            "tag": "MERCADO",
+            "text": "Rockwell Automation Inc (NYSE:ROK) Margin Expands"
+        },
+        {
+            "time": "17:35",
+            "tag": "MERCADO",
+            "text": "Xcel Energy pursuing large load tariffs in 4 states amid data center growth"
         }
     ]
 }
