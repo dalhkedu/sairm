@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-05 23:27 UTC",
+        "last_updated": "2026-02-06 02:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": NaN,
-            "change": "-0.27%"
+            "price": 171.88,
+            "change": "-2.87%"
         },
         {
             "symbol": "AMD",
             "price": 192.5,
-            "change": "+0.08%"
+            "change": "+2.84%"
         },
         {
             "symbol": "MSFT",
             "price": 393.67,
-            "change": "-1.11%"
+            "change": "+2.62%"
         },
         {
             "symbol": "CEG",
             "price": 247.06,
-            "change": "-3.03%"
+            "change": "-1.75%"
         },
         {
             "symbol": "VST",
             "price": 143.07,
-            "change": "-0.8%"
+            "change": "-2.14%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
-        "rci_current": NaN,
+        "cer_current": 0.54,
+        "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
+            0.49,
+            0.5,
             0.49,
             0.49,
-            0.49,
-            0.48,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.99,
-            25.57,
-            25.42,
-            25.66,
-            25.85,
-            25.86,
-            25.84,
-            25.38,
-            25.85,
-            25.56,
-            25.37,
-            25.05
+            23.5,
+            23.63,
+            23.49,
+            23.73,
+            24.04,
+            24.41,
+            24.1,
+            23.67,
+            24.1,
+            24.15,
+            24.25,
+            24.52
         ],
         "hsd_history_software": [
-            9.77,
-            9.63,
-            9.79,
-            9.82,
-            9.68,
-            9.7,
-            9.7,
-            9.64,
-            9.75,
-            9.85,
-            9.71,
-            9.89
+            10.04,
+            10.22,
+            10.33,
+            10.43,
+            10.5,
+            10.48,
+            10.4,
+            10.2,
+            10.11,
+            10.1,
+            10.25,
+            10.11
         ],
         "rci_data": [
             85.0,
-            NaN
+            17.188
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:59",
+            "time": "01:29",
             "tag": "MERCADO",
-            "text": "NOV Inc (NOV) Misses Q4 EPS by 4c; offers outlook"
+            "text": "GEVO: Scaling low-carbon fuel production and targeting rapid EBITDA growth through ATJ technology"
         },
         {
-            "time": "22:49",
-            "tag": "RESULTADOS",
-            "text": "Microchip Technology Surpasses Q3 Earnings Expectations with Strong Revenue Growth"
-        },
-        {
-            "time": "22:46",
+            "time": "01:28",
             "tag": "MERCADO",
-            "text": "KLA Declares Regular Quarterly Dividend, Reinforcing Shareholder Returns"
+            "text": "DoorDash Food Delivery Specialization Is Less Exposed to Autonomous Disruption, but Amazon Lurks"
         },
         {
-            "time": "22:44",
+            "time": "01:23",
             "tag": "AI",
-            "text": "AI for investors"
+            "text": "Norfolk Southern deploys AI system to catch wheel defects before they break"
         },
         {
-            "time": "22:37",
-            "tag": "AI",
-            "text": "Capital One boosts call center results with AI"
+            "time": "01:03",
+            "tag": "MERCADO",
+            "text": "F5 (NASDAQ:FFIV) Insider Lyra Amber Schramm Sells 199 Shares"
+        },
+        {
+            "time": "00:39",
+            "tag": "MERCADO",
+            "text": "Why Intuit stock slid Thursday \u2014 then edged up after hours on a fresh ChatGPT rollout"
         }
     ]
 }
