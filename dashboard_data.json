@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-06 21:34 UTC",
+        "last_updated": "2026-02-06 22:28 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.41,
-            "change": "+2.39%"
+            "change": "+3.1%"
         },
         {
             "symbol": "AMD",
             "price": 208.44,
-            "change": "-1.61%"
+            "change": "+2.03%"
         },
         {
             "symbol": "MSFT",
             "price": 401.14,
-            "change": "+3.0%"
+            "change": "-2.73%"
         },
         {
             "symbol": "CEG",
             "price": 261.42,
-            "change": "+3.1%"
+            "change": "+0.36%"
         },
         {
             "symbol": "VST",
             "price": 149.65,
-            "change": "+0.6%"
+            "change": "+1.43%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.49,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.49,
+            0.47,
+            0.48,
+            0.48,
             0.49,
             0.5,
+            0.49,
             0.5,
-            0.51,
+            0.5,
+            0.5,
             0.5,
             0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            25.93,
-            25.81,
-            25.34,
-            24.99,
-            25.14,
-            25.31,
-            25.13,
+            25.05,
+            25.0,
+            24.55,
+            24.57,
+            24.33,
             24.7,
-            25.01,
+            24.58,
+            24.93,
             24.87,
-            24.65,
-            25.02
+            24.78,
+            24.42,
+            24.7
         ],
         "hsd_history_software": [
-            9.95,
+            9.91,
+            9.92,
+            9.92,
+            10.07,
+            10.01,
+            9.97,
             10.04,
-            10.03,
-            10.0,
-            10.18,
-            10.09,
-            9.92,
-            9.92,
-            9.9,
-            10.02,
-            9.99,
-            10.16
+            10.19,
+            10.16,
+            10.23,
+            10.07,
+            10.01
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:00",
+            "time": "21:21",
             "tag": "MERCADO",
-            "text": "Joyce Thomas Patrick Jr, Roper Technologies director, buys $501k in shares"
+            "text": "Microchip Technology (NASDAQ:MCHP) Given New $95.00 Price Target at JPMorgan Chase & Co."
         },
         {
-            "time": "20:31",
+            "time": "21:15",
             "tag": "MERCADO",
-            "text": "ARBB - ARB IOT Group Ltd Latest Stock News & Market Updates"
+            "text": "Roper Technologies (NASDAQ:ROP) Director Buys $501,844.00 in Stock"
         },
         {
-            "time": "20:25",
+            "time": "21:13",
+            "tag": "MERCADO",
+            "text": "Super Micro, Lumen, Globalstar, Amphenol, and Jabil Stocks Trade Up, What You Need To Know"
+        },
+        {
+            "time": "21:07",
             "tag": "AI",
-            "text": "KLA stock jumps 8% as AI capex talk lifts chip equipment names"
+            "text": "Exclusive-Vista Equity Partners and Intel to lead investment in AI chip startup Samba Nova, sources say"
         },
         {
-            "time": "20:25",
-            "tag": "AI",
-            "text": "Apple plans to update CarPlay to work with third-party AI chatbots: report"
-        },
-        {
-            "time": "20:08",
+            "time": "21:02",
             "tag": "MERCADO",
-            "text": "Microchip Technology (MCHP): Wells Fargo Raises Price Target to"
+            "text": "Reminder for F5 Securities Class Action"
         }
     ]
 }
