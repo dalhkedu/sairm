@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-06 14:41 UTC",
+        "last_updated": "2026-02-06 15:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 178.67,
-            "change": "+2.09%"
+            "price": 182.57,
+            "change": "+1.08%"
         },
         {
             "symbol": "AMD",
-            "price": 203.18,
-            "change": "-2.57%"
+            "price": 205.92,
+            "change": "+2.11%"
         },
         {
             "symbol": "MSFT",
-            "price": 398.95,
-            "change": "+2.9%"
+            "price": 395.63,
+            "change": "+1.3%"
         },
         {
             "symbol": "CEG",
-            "price": 258.86,
-            "change": "+1.04%"
+            "price": 258.62,
+            "change": "+0.77%"
         },
         {
             "symbol": "VST",
-            "price": 151.73,
-            "change": "-3.06%"
+            "price": 148.9,
+            "change": "-2.03%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.54,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.47,
+            0.46,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.84,
-            24.83,
-            24.36,
-            24.8,
-            25.06,
+            24.86,
+            25.29,
+            24.96,
             25.31,
-            24.98,
-            25.32,
-            25.58,
-            25.73,
-            25.37,
-            25.35
+            25.44,
+            25.2,
+            24.91,
+            24.58,
+            24.57,
+            24.56,
+            24.47,
+            24.52
         ],
         "hsd_history_software": [
-            9.83,
-            9.9,
-            9.75,
-            9.87,
-            9.86,
-            9.89,
-            9.79,
-            9.71,
-            9.69,
-            9.83,
-            9.96,
-            10.11
+            10.12,
+            10.18,
+            10.2,
+            10.29,
+            10.43,
+            10.51,
+            10.48,
+            10.33,
+            10.31,
+            10.16,
+            10.28,
+            10.19
         ],
         "rci_data": [
             85.0,
-            17.867
+            18.256999999999998
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:28",
+            "time": "15:01",
             "tag": "MERCADO",
-            "text": "Are Wall Street Analysts Predicting Teradyne Stock Will Climb or Sink?"
+            "text": "Willis Investment Counsel Has $56.05 Million Holdings in Cisco Systems, Inc. $CSCO"
         },
         {
-            "time": "14:19",
+            "time": "14:58",
             "tag": "MERCADO",
-            "text": "Micron Rallies 315% in a Year: Is the Stock Still Worth Buying?"
+            "text": "Apple heads to moon after NASA chief approves iPhones for upcoming missions"
         },
         {
-            "time": "14:14",
+            "time": "14:51",
             "tag": "MERCADO",
-            "text": "Savant Capital LLC Lowers Stake in Autodesk, Inc. $ADSK"
+            "text": "Truist Raises Price Target on MACOM Technology Solutions Holdings to $261 From $200, Keeps Buy Rating"
         },
         {
-            "time": "14:13",
+            "time": "14:49",
             "tag": "MERCADO",
-            "text": "Wall Street Analysts Are Bullish on Top Technology Picks"
+            "text": "Truist Raises Price Target on Microchip Technology to $68 From $60, Keeps Hold Rating"
         },
         {
-            "time": "14:07",
+            "time": "14:44",
             "tag": "MERCADO",
-            "text": "Microchip Technology's Q3 results, outlook demonstrate improving recovery: analysts"
+            "text": "The Truth About American Tower Corp: Why Everyone on Wall Street Is Quietly Obsessed"
         }
     ]
 }
