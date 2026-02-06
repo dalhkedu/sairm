@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-06 22:28 UTC",
+        "last_updated": "2026-02-06 23:29 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.41,
-            "change": "+3.1%"
+            "change": "+1.91%"
         },
         {
             "symbol": "AMD",
             "price": 208.44,
-            "change": "+2.03%"
+            "change": "-0.93%"
         },
         {
             "symbol": "MSFT",
             "price": 401.14,
-            "change": "-2.73%"
+            "change": "-0.05%"
         },
         {
             "symbol": "CEG",
             "price": 261.42,
-            "change": "+0.36%"
+            "change": "-1.92%"
         },
         {
             "symbol": "VST",
             "price": 149.65,
-            "change": "+1.43%"
+            "change": "+2.25%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.5,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.5,
             0.49,
             0.5,
             0.5,
             0.5,
             0.5,
             0.5,
-            0.49
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.05,
-            25.0,
-            24.55,
-            24.57,
-            24.33,
-            24.7,
-            24.58,
-            24.93,
-            24.87,
-            24.78,
-            24.42,
-            24.7
+            24.28,
+            24.32,
+            23.92,
+            23.82,
+            24.19,
+            23.82,
+            24.11,
+            24.3,
+            24.18,
+            23.98,
+            24.13,
+            24.61
         ],
         "hsd_history_software": [
+            10.12,
+            9.96,
+            9.92,
+            9.83,
+            9.76,
+            9.88,
+            9.86,
+            9.93,
+            9.98,
+            10.08,
             9.91,
-            9.92,
-            9.92,
-            10.07,
-            10.01,
-            9.97,
-            10.04,
-            10.19,
-            10.16,
-            10.23,
-            10.07,
-            10.01
+            9.94
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,9 @@
     ],
     "news_feed": [
         {
-            "time": "21:21",
-            "tag": "MERCADO",
-            "text": "Microchip Technology (NASDAQ:MCHP) Given New $95.00 Price Target at JPMorgan Chase & Co."
-        },
-        {
-            "time": "21:15",
-            "tag": "MERCADO",
-            "text": "Roper Technologies (NASDAQ:ROP) Director Buys $501,844.00 in Stock"
-        },
-        {
-            "time": "21:13",
-            "tag": "MERCADO",
-            "text": "Super Micro, Lumen, Globalstar, Amphenol, and Jabil Stocks Trade Up, What You Need To Know"
-        },
-        {
-            "time": "21:07",
-            "tag": "AI",
-            "text": "Exclusive-Vista Equity Partners and Intel to lead investment in AI chip startup Samba Nova, sources say"
-        },
-        {
-            "time": "21:02",
-            "tag": "MERCADO",
-            "text": "Reminder for F5 Securities Class Action"
+            "time": "INFO",
+            "tag": "LIMIT",
+            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
         }
     ]
 }
