@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-06 16:51 UTC",
+        "last_updated": "2026-02-06 17:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 183.59,
-            "change": "+2.05%"
+            "price": 185.02,
+            "change": "+0.19%"
         },
         {
             "symbol": "AMD",
-            "price": 207.85,
-            "change": "-2.77%"
+            "price": 208.06,
+            "change": "+0.05%"
         },
         {
             "symbol": "MSFT",
-            "price": 396.49,
-            "change": "-1.29%"
+            "price": 397.29,
+            "change": "+2.09%"
         },
         {
             "symbol": "CEG",
-            "price": 261.99,
-            "change": "-2.6%"
+            "price": 262.87,
+            "change": "+2.86%"
         },
         {
             "symbol": "VST",
-            "price": 150.15,
-            "change": "-2.62%"
+            "price": 151.45,
+            "change": "-2.61%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
-        "rci_current": 0.18,
+        "cer_current": 0.66,
+        "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.52,
-            0.51
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.5,
-            25.8,
-            25.89,
-            26.28,
-            25.97,
-            26.14,
-            25.94,
-            25.77,
-            25.89,
-            25.43,
-            25.29,
-            25.4
+            23.95,
+            24.14,
+            23.77,
+            24.14,
+            24.16,
+            24.0,
+            23.9,
+            24.12,
+            24.33,
+            24.56,
+            24.8,
+            25.13
         ],
         "hsd_history_software": [
-            9.93,
-            9.84,
-            10.04,
-            10.16,
-            10.28,
-            10.47,
-            10.47,
-            10.37,
-            10.3,
-            10.1,
-            10.0,
-            10.16
+            9.87,
+            9.7,
+            9.9,
+            10.05,
+            9.95,
+            10.13,
+            10.18,
+            10.15,
+            10.21,
+            10.03,
+            9.98,
+            9.82
         ],
         "rci_data": [
             85.0,
-            18.359
+            18.502000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "17:00",
+            "tag": "MERCADO",
+            "text": "Apple users told check spam as $95M \u2018eavesdropping\u2019 settlement payments go out"
+        },
+        {
+            "time": "16:40",
+            "tag": "MERCADO",
+            "text": "Why Alphabet Will Likely Leapfrog Nvidia To Become World's Most Valuable Company (GOOG)"
+        },
+        {
+            "time": "16:33",
+            "tag": "MERCADO",
+            "text": "OMG They\u2019re Back Again: T-Mobile Teams Up with the Backstreet Boys for Big Game Commercial"
+        },
+        {
+            "time": "16:30",
+            "tag": "MERCADO",
+            "text": "TPG to Acquire Majority Stake in Sabre Industries from Blackstone Energy Transition Partners"
+        },
+        {
             "time": "16:23",
             "tag": "AI",
             "text": "Agents in the enterprise: Salesforce and DeepL see productivity move the needle as use cases grow for AI"
-        },
-        {
-            "time": "16:12",
-            "tag": "MERCADO",
-            "text": "Tim Cook Reassures Apple Employees After Immigration Raids: \u2018You Have My Word\u2019"
-        },
-        {
-            "time": "16:07",
-            "tag": "MERCADO",
-            "text": "Mizuho Maintains Neutral on Rockwell Automation (ROK), Raises Pr"
-        },
-        {
-            "time": "15:51",
-            "tag": "MERCADO",
-            "text": "KTOS Stock Rises 17.7% in 3 Months: Worth Including in Your Portfolio?"
-        },
-        {
-            "time": "15:50",
-            "tag": "MERCADO",
-            "text": "Broadridge Financial Solutions, Inc. (NYSE:BR) entered into an agreement to acquire CQG, Inc."
         }
     ]
 }
