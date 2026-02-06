@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-06 11:36 UTC",
+        "last_updated": "2026-02-06 13:07 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 171.88,
-            "change": "+1.76%"
+            "change": "-0.02%"
         },
         {
             "symbol": "AMD",
             "price": 192.5,
-            "change": "-3.39%"
+            "change": "+0.85%"
         },
         {
             "symbol": "MSFT",
             "price": 393.67,
-            "change": "-2.02%"
+            "change": "-3.31%"
         },
         {
             "symbol": "CEG",
             "price": 247.06,
-            "change": "+1.16%"
+            "change": "-1.36%"
         },
         {
             "symbol": "VST",
             "price": 143.07,
-            "change": "+0.85%"
+            "change": "+3.02%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.61,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.48,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.51,
             0.51,
             0.5,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            25.15,
-            24.86,
-            24.73,
-            24.9,
-            25.16,
-            25.04,
-            25.25,
-            24.93,
-            24.57,
-            24.41,
-            24.44,
-            24.76
+            25.88,
+            25.57,
+            25.93,
+            25.88,
+            25.79,
+            26.16,
+            26.16,
+            26.08,
+            25.66,
+            25.67,
+            25.35,
+            25.24
         ],
         "hsd_history_software": [
-            9.13,
-            9.26,
-            9.44,
-            9.6,
-            9.63,
-            9.79,
-            9.76,
-            9.86,
-            9.78,
+            9.95,
+            9.82,
+            9.73,
+            9.89,
+            9.97,
+            9.83,
+            9.8,
             9.68,
-            9.7,
-            9.86
+            9.66,
+            9.71,
+            9.68,
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:24",
+            "time": "12:54",
             "tag": "MERCADO",
-            "text": "F5 Patches Critical Vulnerabilities in BIG-IP, NGINX, and Related Products"
+            "text": "Guinness Asset Management LTD Trims Holdings in Cisco Systems, Inc. $CSCO"
         },
         {
-            "time": "11:16",
+            "time": "12:54",
             "tag": "MERCADO",
-            "text": "Flagship Harbor Advisors LLC Acquires 3,183 Shares of International Business Machines Corporation $IBM"
+            "text": "M.D. Sass LLC Has $70.85 Million Position in AMETEK, Inc. $AME"
         },
         {
-            "time": "11:07",
+            "time": "12:54",
             "tag": "MERCADO",
-            "text": "BI Asset Management Fondsmaeglerselskab A S Increases Stock Position in Cadence Design Systems, Inc. $CDNS"
+            "text": "AMETEK, Inc. $AME Shares Sold by Guinness Asset Management LTD"
         },
         {
-            "time": "11:06",
-            "tag": "RESULTADOS",
-            "text": "Apple Earnings: Impressive Q4 Lifts Stock, but Is It a Long-Term Growth Play?"
+            "time": "12:31",
+            "tag": "MERCADO",
+            "text": "Why BetterInvesting is spotlighting ServiceNow and Deckers"
         },
         {
-            "time": "10:59",
+            "time": "12:27",
             "tag": "MERCADO",
-            "text": "Doximity Inc-Class A (NYSE:DOCS) Plummets on Weak Revenue Outlook Despite Q3 Beat"
+            "text": "Broadridge buys futures trading platform CQG"
         }
     ]
 }
