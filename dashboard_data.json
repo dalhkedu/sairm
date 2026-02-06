@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-06 05:55 UTC",
+        "last_updated": "2026-02-06 07:01 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 171.88,
-            "change": "-1.38%"
+            "change": "-1.11%"
         },
         {
             "symbol": "AMD",
             "price": 192.5,
-            "change": "+0.73%"
+            "change": "-1.25%"
         },
         {
             "symbol": "MSFT",
             "price": 393.67,
-            "change": "-0.44%"
+            "change": "+2.77%"
         },
         {
             "symbol": "CEG",
             "price": 247.06,
-            "change": "-2.14%"
+            "change": "-2.51%"
         },
         {
             "symbol": "VST",
             "price": 143.07,
-            "change": "+0.56%"
+            "change": "-3.36%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.51,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
+            0.52,
+            0.52,
             0.52,
             0.51,
             0.51,
             0.51,
-            0.5
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            23.6,
-            23.63,
-            23.82,
-            23.98,
-            24.07,
-            24.28,
-            24.44,
-            24.81,
+            25.04,
+            24.77,
+            24.43,
+            24.49,
+            24.63,
             24.61,
-            24.45,
-            24.72,
-            24.55
+            24.79,
+            25.16,
+            25.05,
+            25.25,
+            25.03,
+            25.1
         ],
         "hsd_history_software": [
-            9.42,
-            9.44,
-            9.52,
-            9.69,
-            9.77,
-            9.97,
-            9.94,
-            10.04,
-            10.18,
-            10.16,
+            10.23,
+            10.1,
+            10.25,
+            10.21,
+            10.1,
+            10.06,
+            10.1,
+            10.2,
+            10.35,
             10.29,
-            10.18
+            10.31,
+            10.11
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "06:11",
+            "tag": "MERCADO",
+            "text": "Boeing, BGU launch Aviation Cybersecurity Research Center in Israel"
+        },
+        {
+            "time": "05:59",
+            "tag": "MERCADO",
+            "text": "MPU Stock Price and Chart \u2014 AMEX:MPU"
+        },
+        {
+            "time": "05:22",
+            "tag": "MERCADO",
+            "text": "Is It Too Late To Consider Teradyne (TER) After Its Strong Share Price Run?"
+        },
+        {
             "time": "05:19",
             "tag": "RESULTADOS",
             "text": "A Look At Automatic Data Processing (ADP) Valuation After Softer Payroll Report And Solid Earnings"
@@ -134,21 +149,6 @@
             "time": "04:58",
             "tag": "MERCADO",
             "text": "Mobileye completes $900 million acquisition of Mentee Robotics, issues shares"
-        },
-        {
-            "time": "04:41",
-            "tag": "AI",
-            "text": "DexCom Expands Stelo AI Tools As It Seeks Stickier CGM Users"
-        },
-        {
-            "time": "04:28",
-            "tag": "MERCADO",
-            "text": "Outlook on the Self Storage Market: Major Segments, Strategic Developments, and Leading Companies"
-        },
-        {
-            "time": "04:23",
-            "tag": "MERCADO",
-            "text": "Revvity unveils new high-impact discovery platforms and showcases recent innovations at SLAS2026"
         }
     ]
 }
