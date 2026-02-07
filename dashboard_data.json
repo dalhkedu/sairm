@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-07 15:29 UTC",
+        "last_updated": "2026-02-07 16:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.41,
-            "change": "-2.51%"
+            "change": "-2.06%"
         },
         {
             "symbol": "AMD",
             "price": 208.44,
-            "change": "+3.21%"
+            "change": "+2.33%"
         },
         {
             "symbol": "MSFT",
             "price": 401.14,
-            "change": "+1.01%"
+            "change": "+2.67%"
         },
         {
             "symbol": "CEG",
             "price": 261.42,
-            "change": "+1.98%"
+            "change": "+1.16%"
         },
         {
             "symbol": "VST",
             "price": 149.65,
-            "change": "-1.88%"
+            "change": "+1.75%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.7,
+        "cer_current": 0.6,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
+            0.5,
+            0.5,
             0.5,
             0.49,
+            0.49,
+            0.49,
+            0.49,
             0.48,
             0.49,
-            0.5
+            0.48,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.92,
+            26.66,
+            26.24,
+            26.1,
             25.91,
-            26.07,
-            25.76,
-            26.18,
-            25.88,
-            25.81,
-            25.8,
-            25.32,
-            25.58,
-            25.2,
-            24.85
+            25.79,
+            25.62,
+            25.17,
+            24.92,
+            25.39,
+            25.22,
+            25.26,
+            25.17
         ],
         "hsd_history_software": [
-            9.7,
-            9.81,
-            9.73,
-            9.92,
-            9.87,
-            10.06,
-            9.92,
-            10.03,
-            10.08,
-            10.1,
-            10.16,
-            10.16
+            10.32,
+            10.24,
+            10.42,
+            10.22,
+            10.22,
+            10.29,
+            10.15,
+            10.12,
+            9.95,
+            10.05,
+            9.88,
+            9.98
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:34",
+            "time": "16:24",
             "tag": "MERCADO",
-            "text": "Salesforce Stock Hits New 52-Week Lows: Could MrBeast Save Things With Super Bowl Commercial?"
+            "text": "Lam Research Corporation (LRCX): A Bull Case Theory"
         },
         {
-            "time": "14:33",
-            "tag": "MERCADO",
-            "text": "HubSpot (HUBS) Price Target Cut in Broad Sweep by Piper Sandler"
-        },
-        {
-            "time": "14:32",
+            "time": "15:57",
             "tag": "AI",
-            "text": "Digital Realty Trust Proves AI Growth Remains Robust - Reiterate Buy (NYSE:DLR)"
+            "text": "Bit Digital (BTBT) moving away from bitcoin mining, focusing on AI, Ethereum"
         },
         {
-            "time": "14:00",
-            "tag": "MERCADO",
-            "text": "Analysts\u2019 Opinions Are Mixed on These Technology Stocks: Affirm Holdings (AFRM), Palantir Technologies (PLTR) and Fortinet (FTNT)"
+            "time": "15:36",
+            "tag": "AI",
+            "text": "Stifel sees upside for Teradyne (TER) from AI and semi test share gains"
         },
         {
-            "time": "13:57",
+            "time": "15:15",
             "tag": "MERCADO",
-            "text": "The Surprising Reason Enphase Stock Rocketed 30% Higher This Week (and Why It Matters Going Forward)"
+            "text": "Microsoft (MSFT) Has a Lot of Firepower, Says Jim Cramer"
+        },
+        {
+            "time": "15:15",
+            "tag": "AI",
+            "text": "KAYAK Leadership Shift Highlights Booking Holdings AI And Growth Priorities"
         }
     ]
 }
