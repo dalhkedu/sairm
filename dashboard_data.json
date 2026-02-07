@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-07 08:36 UTC",
+        "last_updated": "2026-02-07 09:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.41,
-            "change": "-0.44%"
+            "change": "-2.3%"
         },
         {
             "symbol": "AMD",
             "price": 208.44,
-            "change": "+0.96%"
+            "change": "-0.93%"
         },
         {
             "symbol": "MSFT",
             "price": 401.14,
-            "change": "-3.12%"
+            "change": "+1.56%"
         },
         {
             "symbol": "CEG",
             "price": 261.42,
-            "change": "+2.0%"
+            "change": "-0.09%"
         },
         {
             "symbol": "VST",
             "price": 149.65,
-            "change": "-0.71%"
+            "change": "+1.4%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.49,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
+            0.51,
+            0.51,
             0.5,
             0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.51,
-            24.06,
-            24.5,
-            24.37,
-            24.34,
-            24.24,
-            24.4,
-            24.79,
+            25.41,
+            25.33,
+            25.48,
+            25.42,
+            25.56,
+            25.25,
+            24.85,
+            25.25,
+            25.48,
+            25.19,
             24.91,
-            24.69,
-            25.17,
-            25.41
+            24.74
         ],
         "hsd_history_software": [
-            10.09,
-            9.95,
-            9.81,
-            9.67,
-            9.64,
-            9.53,
-            9.61,
-            9.72,
-            9.86,
-            9.89,
-            9.92,
-            10.11
+            10.42,
+            10.57,
+            10.49,
+            10.58,
+            10.55,
+            10.38,
+            10.26,
+            10.06,
+            10.1,
+            9.94,
+            10.02,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:23",
-            "tag": "AI",
-            "text": "Applied Materials Balances AI Growth Opportunity With New China Export Risks"
-        },
-        {
-            "time": "06:29",
-            "tag": "AI",
-            "text": "Lantronix, (LTRX) Safe Pro Group Partner to Develop AI-Driven Edge Intelligence for Defense Systems"
-        },
-        {
-            "time": "06:16",
+            "time": "08:52",
             "tag": "MERCADO",
-            "text": "Jim Cramer Says Stocks Like Dover Are \"Catching Up With the Rest of the Market\""
+            "text": "Twin Capital Management Inc. Sells 4,160 Shares of International Business Machines Corporation $IBM"
         },
         {
-            "time": "06:10",
+            "time": "08:52",
             "tag": "MERCADO",
-            "text": "Jim Cramer on Take-Two: \u201cI Do Think That You\u2019re Getting a Chance to Buy It\u201d"
+            "text": "Twin Capital Management Inc. Sells 2,417 Shares of The Goldman Sachs Group, Inc. $GS"
         },
         {
-            "time": "05:20",
+            "time": "08:51",
             "tag": "MERCADO",
-            "text": "What Ecolab (ECL)'s New Water Use Efficiency Index Means For Shareholders"
+            "text": "Old West Investment Management LLC Buys 38,114 Shares of Veeco Instruments Inc. $VECO"
+        },
+        {
+            "time": "08:51",
+            "tag": "MERCADO",
+            "text": "BI Asset Management Fondsmaeglerselskab A S Acquires 39,479 Shares of Western Digital Corporation $WDC"
+        },
+        {
+            "time": "08:50",
+            "tag": "MERCADO",
+            "text": "BI Asset Management Fondsmaeglerselskab A S Has $7.19 Million Stake in VeriSign, Inc. $VRSN"
         }
     ]
 }
