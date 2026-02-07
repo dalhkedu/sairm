@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-07 21:30 UTC",
+        "last_updated": "2026-02-07 22:29 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.41,
-            "change": "+0.21%"
+            "change": "+2.2%"
         },
         {
             "symbol": "AMD",
             "price": 208.44,
-            "change": "-2.81%"
+            "change": "+1.18%"
         },
         {
             "symbol": "MSFT",
             "price": 401.14,
-            "change": "-1.59%"
+            "change": "-2.38%"
         },
         {
             "symbol": "CEG",
             "price": 261.42,
-            "change": "+3.06%"
+            "change": "+1.72%"
         },
         {
             "symbol": "VST",
             "price": 149.65,
-            "change": "-2.28%"
+            "change": "+1.14%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.42,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
+            0.48,
+            0.48,
             0.48,
             0.49,
-            0.5,
             0.49,
-            0.48,
             0.49,
             0.49,
             0.5,
             0.51,
-            0.5
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.21,
-            24.37,
-            24.54,
-            24.58,
-            25.06,
-            24.61,
-            24.77,
-            24.66,
-            25.07,
-            25.32,
-            25.2,
-            25.45
+            24.57,
+            24.6,
+            25.0,
+            24.6,
+            24.22,
+            24.3,
+            24.04,
+            24.45,
+            24.16,
+            23.97,
+            24.45,
+            24.53
         ],
         "hsd_history_software": [
-            10.42,
-            10.44,
-            10.37,
-            10.42,
-            10.55,
-            10.38,
-            10.35,
-            10.15,
-            10.23,
-            10.14,
-            10.15,
-            10.01
+            9.52,
+            9.63,
+            9.48,
+            9.52,
+            9.69,
+            9.66,
+            9.76,
+            9.63,
+            9.71,
+            9.81,
+            9.89,
+            10.09
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "21:10",
+            "tag": "MERCADO",
+            "text": "Applied Materials Surged 6% on Equipment Boom: Path to a $320 Breakout in 2026"
+        },
+        {
+            "time": "20:54",
+            "tag": "MERCADO",
+            "text": "Applied Materials stock jumps 6% into a packed week \u2014 what matters before Monday"
+        },
+        {
             "time": "20:22",
             "tag": "MERCADO",
             "text": "IBM stock price jumps 3% into weekend as Confluent vote and dividend date near"
@@ -139,16 +149,6 @@
             "time": "19:15",
             "tag": "AI",
             "text": "Salesforce (CRM) Is Down 9.9% After Landmark U.S. Army AI Contract And EMBERPOINT Role - Has The Bull Case Changed?"
-        },
-        {
-            "time": "18:44",
-            "tag": "MERCADO",
-            "text": "Analysts Offer Insights on Technology Companies: Synaptics (SYNA), WEX (WEX) and Affirm Holdings (AFRM)"
-        },
-        {
-            "time": "18:29",
-            "tag": "MERCADO",
-            "text": "Roth Capital Upgraded Energy Fuels Inc. (UUUU) to Neutral from Sell"
         }
     ]
 }
