@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-07 18:40 UTC",
+        "last_updated": "2026-02-07 19:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.41,
-            "change": "-2.13%"
+            "change": "-0.89%"
         },
         {
             "symbol": "AMD",
             "price": 208.44,
-            "change": "-2.51%"
+            "change": "+2.47%"
         },
         {
             "symbol": "MSFT",
             "price": 401.14,
-            "change": "-0.09%"
+            "change": "+3.37%"
         },
         {
             "symbol": "CEG",
             "price": 261.42,
-            "change": "+0.88%"
+            "change": "+0.91%"
         },
         {
             "symbol": "VST",
             "price": 149.65,
-            "change": "-2.39%"
+            "change": "-3.25%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.45,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.5,
             0.5,
             0.5,
             0.51,
+            0.51,
+            0.51,
+            0.5,
             0.5,
             0.51,
-            0.52,
+            0.5,
             0.51,
-            0.52,
-            0.52,
+            0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            25.78,
-            25.68,
-            25.3,
-            25.26,
-            25.75,
-            25.67,
+            26.12,
+            26.18,
+            25.89,
             25.97,
-            26.02,
-            25.75,
-            25.34,
-            25.23,
-            25.26
+            26.07,
+            26.11,
+            26.06,
+            25.7,
+            25.54,
+            25.07,
+            25.08,
+            25.22
         ],
         "hsd_history_software": [
-            9.9,
-            9.88,
-            9.75,
+            9.83,
+            9.98,
+            9.84,
+            9.73,
+            9.89,
+            9.79,
+            9.73,
             9.68,
-            9.88,
-            9.95,
-            10.08,
-            10.23,
-            10.09,
-            10.01,
-            9.9,
-            10.06
+            9.84,
+            9.89,
+            9.85,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "18:29",
+            "tag": "MERCADO",
+            "text": "Roth Capital Upgraded Energy Fuels Inc. (UUUU) to Neutral from Sell"
+        },
+        {
+            "time": "17:57",
+            "tag": "MERCADO",
+            "text": "Data Center Stocks Surge Into the Weekend: Digital Realty, Equinix and Vertiv Set Up a Big Week Ahead"
+        },
+        {
             "time": "17:20",
             "tag": "MERCADO",
             "text": "Microchip Technology (MCHP) Quarterly Profit Return Tests Bullish Turnaround Narrative"
@@ -139,16 +149,6 @@
             "time": "17:01",
             "tag": "MERCADO",
             "text": "Salesforce, Inc. (CRM): A Bull Case Theory"
-        },
-        {
-            "time": "16:29",
-            "tag": "MERCADO",
-            "text": "Lightspeed price target lowered to $13.50 from $15 at Morgan Stanley"
-        },
-        {
-            "time": "16:24",
-            "tag": "MERCADO",
-            "text": "Lam Research Corporation (LRCX): A Bull Case Theory"
         }
     ]
 }
