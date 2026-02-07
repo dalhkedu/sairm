@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-07 20:31 UTC",
+        "last_updated": "2026-02-07 21:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.41,
-            "change": "-1.11%"
+            "change": "+0.21%"
         },
         {
             "symbol": "AMD",
             "price": 208.44,
-            "change": "+0.61%"
+            "change": "-2.81%"
         },
         {
             "symbol": "MSFT",
             "price": 401.14,
-            "change": "-2.65%"
+            "change": "-1.59%"
         },
         {
             "symbol": "CEG",
             "price": 261.42,
-            "change": "+3.44%"
+            "change": "+3.06%"
         },
         {
             "symbol": "VST",
             "price": 149.65,
-            "change": "-3.1%"
+            "change": "-2.28%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.43,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
             0.49,
+            0.49,
+            0.48,
             0.49,
             0.5,
             0.49,
             0.48,
-            0.48,
             0.49,
             0.49,
             0.5,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.36,
-            24.43,
-            24.3,
-            24.75,
+            24.21,
+            24.37,
+            24.54,
+            24.58,
+            25.06,
+            24.61,
             24.77,
-            25.02,
-            25.14,
-            25.08,
-            24.83,
+            24.66,
+            25.07,
             25.32,
-            25.5,
-            25.49
+            25.2,
+            25.45
         ],
         "hsd_history_software": [
-            9.46,
-            9.4,
-            9.44,
-            9.6,
-            9.73,
-            9.59,
-            9.65,
-            9.8,
-            9.82,
-            9.78,
-            9.84,
-            9.86
+            10.42,
+            10.44,
+            10.37,
+            10.42,
+            10.55,
+            10.38,
+            10.35,
+            10.15,
+            10.23,
+            10.14,
+            10.15,
+            10.01
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "20:22",
+            "tag": "MERCADO",
+            "text": "IBM stock price jumps 3% into weekend as Confluent vote and dividend date near"
+        },
+        {
+            "time": "20:13",
+            "tag": "MERCADO",
+            "text": "Lam Research stock price jumps 8% as chip rally returns \u2014 what to watch next week"
+        },
+        {
             "time": "19:15",
             "tag": "AI",
             "text": "Salesforce (CRM) Is Down 9.9% After Landmark U.S. Army AI Contract And EMBERPOINT Role - Has The Bull Case Changed?"
@@ -139,16 +149,6 @@
             "time": "18:29",
             "tag": "MERCADO",
             "text": "Roth Capital Upgraded Energy Fuels Inc. (UUUU) to Neutral from Sell"
-        },
-        {
-            "time": "17:58",
-            "tag": "MERCADO",
-            "text": "New to The Street(R) Airs Tonight on Bloomberg Television Across the U.S., MENA & Latin America"
-        },
-        {
-            "time": "17:58",
-            "tag": "MERCADO",
-            "text": "Quantum computing stocks bounce hard: IonQ, Rigetti, D\u2011Wave rally as traders reset for a data-heavy week"
         }
     ]
 }
