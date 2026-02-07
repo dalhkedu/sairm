@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-07 06:48 UTC",
+        "last_updated": "2026-02-07 07:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.41,
-            "change": "-0.29%"
+            "change": "-0.44%"
         },
         {
             "symbol": "AMD",
             "price": 208.44,
-            "change": "-0.42%"
+            "change": "-2.17%"
         },
         {
             "symbol": "MSFT",
             "price": 401.14,
-            "change": "-3.12%"
+            "change": "+3.39%"
         },
         {
             "symbol": "CEG",
             "price": 261.42,
-            "change": "-0.39%"
+            "change": "-2.45%"
         },
         {
             "symbol": "VST",
-            "price": NaN,
-            "change": "+0.85%"
+            "price": 149.65,
+            "change": "+3.25%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.48,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
+            0.5,
+            0.5,
+            0.49,
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.54,
-            24.5,
-            24.51,
-            24.57,
-            24.38,
-            24.1,
-            24.03,
-            23.9,
-            24.31,
-            24.68,
-            24.61,
-            24.5
+            26.33,
+            26.71,
+            26.63,
+            26.21,
+            25.8,
+            25.38,
+            25.4,
+            25.43,
+            25.46,
+            25.57,
+            25.2,
+            25.02
         ],
         "hsd_history_software": [
-            9.84,
-            9.77,
-            9.85,
-            9.91,
-            10.03,
-            9.95,
-            9.99,
-            10.07,
-            9.99,
-            9.94,
-            10.09,
-            10.1
+            9.17,
+            9.1,
+            9.23,
+            9.3,
+            9.46,
+            9.55,
+            9.59,
+            9.63,
+            9.8,
+            9.78,
+            9.74,
+            9.9
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "07:23",
+            "tag": "AI",
+            "text": "Applied Materials Balances AI Growth Opportunity With New China Export Risks"
+        },
+        {
+            "time": "06:16",
+            "tag": "MERCADO",
+            "text": "Jim Cramer Says Stocks Like Dover Are \"Catching Up With the Rest of the Market\""
+        },
+        {
+            "time": "06:10",
+            "tag": "MERCADO",
+            "text": "Jim Cramer on Take-Two: \u201cI Do Think That You\u2019re Getting a Chance to Buy It\u201d"
+        },
+        {
             "time": "05:20",
             "tag": "MERCADO",
             "text": "What Ecolab (ECL)'s New Water Use Efficiency Index Means For Shareholders"
@@ -134,21 +149,6 @@
             "time": "05:13",
             "tag": "MERCADO",
             "text": "The Truth About Alphabet Inc. (Class A): Is This Viral Tech Giant Still a Must-Cop or Past Its Peak?"
-        },
-        {
-            "time": "03:29",
-            "tag": "MERCADO",
-            "text": "nLIGHT Inc stock hits all-time high at 50.78 USD By Investing.com"
-        },
-        {
-            "time": "03:28",
-            "tag": "MERCADO",
-            "text": "Antipodes Partners Ltd boosts stake in Amazon.com, Inc."
-        },
-        {
-            "time": "03:26",
-            "tag": "MERCADO",
-            "text": "F5 Shareholder Alert: ClaimsFiler Reminds Investors With Losses In Excess Of $100,000 Of Lead Plaintiff Deadline In Class Action Lawsuits Against F5, Inc. - FFIV"
         }
     ]
 }
