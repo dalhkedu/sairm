@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-07 09:34 UTC",
+        "last_updated": "2026-02-07 10:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.41,
-            "change": "-2.3%"
+            "change": "-0.47%"
         },
         {
             "symbol": "AMD",
             "price": 208.44,
-            "change": "-0.93%"
+            "change": "+0.27%"
         },
         {
             "symbol": "MSFT",
             "price": 401.14,
-            "change": "+1.56%"
+            "change": "-1.67%"
         },
         {
             "symbol": "CEG",
             "price": 261.42,
-            "change": "-0.09%"
+            "change": "+1.53%"
         },
         {
             "symbol": "VST",
             "price": 149.65,
-            "change": "+1.4%"
+            "change": "-2.79%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.47,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
-            0.51,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
+            0.52,
+            0.52,
             0.51,
             0.51,
-            0.5,
-            0.5,
             0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.41,
-            25.33,
-            25.48,
-            25.42,
-            25.56,
-            25.25,
-            24.85,
-            25.25,
-            25.48,
-            25.19,
-            24.91,
-            24.74
+            24.28,
+            24.29,
+            24.74,
+            25.16,
+            25.27,
+            25.07,
+            24.67,
+            24.38,
+            24.39,
+            24.68,
+            24.89,
+            25.25
         ],
         "hsd_history_software": [
-            10.42,
-            10.57,
-            10.49,
-            10.58,
-            10.55,
-            10.38,
-            10.26,
-            10.06,
+            10.15,
+            10.08,
+            10.0,
+            9.88,
+            9.71,
+            9.91,
             10.1,
-            9.94,
-            10.02,
-            9.89
+            9.92,
+            10.03,
+            9.91,
+            9.73,
+            9.9
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:52",
+            "time": "09:20",
             "tag": "MERCADO",
-            "text": "Twin Capital Management Inc. Sells 4,160 Shares of International Business Machines Corporation $IBM"
+            "text": "Verizon (VZ) Added 1.1 Million Net Subscribers in Q4-2025"
         },
         {
-            "time": "08:52",
+            "time": "09:14",
             "tag": "MERCADO",
-            "text": "Twin Capital Management Inc. Sells 2,417 Shares of The Goldman Sachs Group, Inc. $GS"
+            "text": "Envestnet Asset Management Inc. Lowers Stock Holdings in CoStar Group, Inc. $CSGP"
         },
         {
-            "time": "08:51",
-            "tag": "MERCADO",
-            "text": "Old West Investment Management LLC Buys 38,114 Shares of Veeco Instruments Inc. $VECO"
+            "time": "09:12",
+            "tag": "AI",
+            "text": "Caterpillar: Meeting Power Demands of AI-Driven Computing"
         },
         {
-            "time": "08:51",
+            "time": "09:12",
             "tag": "MERCADO",
-            "text": "BI Asset Management Fondsmaeglerselskab A S Acquires 39,479 Shares of Western Digital Corporation $WDC"
+            "text": "Verizon (VZ) Added 1.1 Million Net Subscribers in Q4-2025"
         },
         {
-            "time": "08:50",
+            "time": "09:03",
             "tag": "MERCADO",
-            "text": "BI Asset Management Fondsmaeglerselskab A S Has $7.19 Million Stake in VeriSign, Inc. $VRSN"
+            "text": "Ironwood Investment Counsel LLC Makes New $6.56 Million Investment in Adobe Inc. $ADBE"
         }
     ]
 }
