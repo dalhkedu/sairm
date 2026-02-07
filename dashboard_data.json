@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-07 17:28 UTC",
+        "last_updated": "2026-02-07 18:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.41,
-            "change": "+2.49%"
+            "change": "-2.13%"
         },
         {
             "symbol": "AMD",
             "price": 208.44,
-            "change": "+3.33%"
+            "change": "-2.51%"
         },
         {
             "symbol": "MSFT",
             "price": 401.14,
-            "change": "-0.68%"
+            "change": "-0.09%"
         },
         {
             "symbol": "CEG",
             "price": 261.42,
-            "change": "-2.42%"
+            "change": "+0.88%"
         },
         {
             "symbol": "VST",
             "price": 149.65,
-            "change": "-1.22%"
+            "change": "-2.39%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.62,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
+            0.51,
             0.5,
             0.5,
-            0.49,
             0.5,
-            0.5
+            0.51,
+            0.5,
+            0.51,
+            0.52,
+            0.51,
+            0.52,
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.49,
-            24.35,
-            24.59,
-            25.08,
-            24.94,
-            24.93,
-            24.59,
-            24.67,
-            25.01,
-            24.61,
-            24.32,
-            24.63
+            25.78,
+            25.68,
+            25.3,
+            25.26,
+            25.75,
+            25.67,
+            25.97,
+            26.02,
+            25.75,
+            25.34,
+            25.23,
+            25.26
         ],
         "hsd_history_software": [
-            10.94,
-            10.76,
-            10.57,
-            10.62,
-            10.47,
-            10.67,
-            10.65,
-            10.52,
-            10.38,
+            9.9,
+            9.88,
+            9.75,
+            9.68,
+            9.88,
+            9.95,
+            10.08,
             10.23,
-            10.1,
-            10.03
+            10.09,
+            10.01,
+            9.9,
+            10.06
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "17:20",
+            "tag": "MERCADO",
+            "text": "Microchip Technology (MCHP) Quarterly Profit Return Tests Bullish Turnaround Narrative"
+        },
+        {
+            "time": "17:08",
+            "tag": "RESULTADOS",
+            "text": "Rockwell Automation Stock Dips After Earnings Beat: Why Bulls See a Fast Rebound"
+        },
+        {
+            "time": "17:01",
+            "tag": "MERCADO",
+            "text": "Salesforce, Inc. (CRM): A Bull Case Theory"
+        },
+        {
+            "time": "16:29",
+            "tag": "MERCADO",
+            "text": "Lightspeed price target lowered to $13.50 from $15 at Morgan Stanley"
+        },
+        {
             "time": "16:24",
             "tag": "MERCADO",
             "text": "Lam Research Corporation (LRCX): A Bull Case Theory"
-        },
-        {
-            "time": "15:57",
-            "tag": "AI",
-            "text": "Bit Digital (BTBT) moving away from bitcoin mining, focusing on AI, Ethereum"
-        },
-        {
-            "time": "15:36",
-            "tag": "AI",
-            "text": "Stifel sees upside for Teradyne (TER) from AI and semi test share gains"
-        },
-        {
-            "time": "15:15",
-            "tag": "MERCADO",
-            "text": "Microsoft (MSFT) Has a Lot of Firepower, Says Jim Cramer"
-        },
-        {
-            "time": "15:15",
-            "tag": "AI",
-            "text": "KAYAK Leadership Shift Highlights Booking Holdings AI And Growth Priorities"
         }
     ]
 }
