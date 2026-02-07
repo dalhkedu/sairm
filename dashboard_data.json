@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-07 22:29 UTC",
+        "last_updated": "2026-02-07 23:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.41,
-            "change": "+2.2%"
+            "change": "-2.9%"
         },
         {
             "symbol": "AMD",
             "price": 208.44,
-            "change": "+1.18%"
+            "change": "-1.42%"
         },
         {
             "symbol": "MSFT",
             "price": 401.14,
-            "change": "-2.38%"
+            "change": "-2.66%"
         },
         {
             "symbol": "CEG",
             "price": 261.42,
-            "change": "+1.72%"
+            "change": "+3.42%"
         },
         {
             "symbol": "VST",
             "price": 149.65,
-            "change": "+1.14%"
+            "change": "+0.36%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.69,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.46,
+            0.47,
+            0.48,
+            0.48,
             0.48,
             0.48,
             0.48,
             0.49,
-            0.49,
-            0.49,
+            0.48,
             0.49,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            24.57,
-            24.6,
-            25.0,
-            24.6,
-            24.22,
-            24.3,
-            24.04,
-            24.45,
-            24.16,
-            23.97,
-            24.45,
-            24.53
+            25.11,
+            24.67,
+            24.88,
+            24.76,
+            24.85,
+            24.96,
+            25.19,
+            24.86,
+            24.79,
+            24.78,
+            24.54,
+            24.79
         ],
         "hsd_history_software": [
-            9.52,
-            9.63,
-            9.48,
-            9.52,
-            9.69,
-            9.66,
-            9.76,
-            9.63,
-            9.71,
-            9.81,
+            9.44,
+            9.47,
+            9.6,
+            9.42,
+            9.47,
+            9.47,
+            9.6,
+            9.61,
+            9.8,
             9.89,
-            10.09
+            9.92,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "22:55",
+            "tag": "MERCADO",
+            "text": "The Truth About Expedia Group Inc: Is This Travel Giant Still Worth Your Money in 2026?"
+        },
+        {
+            "time": "22:36",
+            "tag": "AI",
+            "text": "Cisco\u2019s Stock Holds Its Ground As Wall Street Bets On AI Networking And Subscriptions"
+        },
+        {
+            "time": "22:18",
+            "tag": "AI",
+            "text": "From Edison's Light Bulbs to AI's Backbone: How Corning Bet Two Decades of Losses on Fiber Optics and Won"
+        },
+        {
             "time": "21:10",
             "tag": "MERCADO",
             "text": "Applied Materials Surged 6% on Equipment Boom: Path to a $320 Breakout in 2026"
         },
         {
-            "time": "20:54",
+            "time": "20:58",
             "tag": "MERCADO",
-            "text": "Applied Materials stock jumps 6% into a packed week \u2014 what matters before Monday"
-        },
-        {
-            "time": "20:22",
-            "tag": "MERCADO",
-            "text": "IBM stock price jumps 3% into weekend as Confluent vote and dividend date near"
-        },
-        {
-            "time": "20:13",
-            "tag": "MERCADO",
-            "text": "Lam Research stock price jumps 8% as chip rally returns \u2014 what to watch next week"
-        },
-        {
-            "time": "19:15",
-            "tag": "AI",
-            "text": "Salesforce (CRM) Is Down 9.9% After Landmark U.S. Army AI Contract And EMBERPOINT Role - Has The Bull Case Changed?"
+            "text": "SA Asks: How can PayPal turn its business around?"
         }
     ]
 }
