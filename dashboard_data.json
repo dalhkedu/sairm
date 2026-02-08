@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-08 14:31 UTC",
+        "last_updated": "2026-02-08 15:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.41,
-            "change": "+2.89%"
+            "change": "-2.57%"
         },
         {
             "symbol": "AMD",
             "price": 208.44,
-            "change": "+2.73%"
+            "change": "+1.19%"
         },
         {
             "symbol": "MSFT",
             "price": 401.14,
-            "change": "+1.9%"
+            "change": "+1.58%"
         },
         {
             "symbol": "CEG",
             "price": 261.42,
-            "change": "+2.42%"
+            "change": "-0.53%"
         },
         {
             "symbol": "VST",
             "price": 149.65,
-            "change": "-1.94%"
+            "change": "+0.12%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.46,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.47,
-            0.46,
-            0.47,
-            0.47,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
+            0.54,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.41,
-            24.11,
-            24.15,
-            24.06,
-            23.61,
-            23.74,
-            24.0,
-            24.11,
-            24.47,
-            24.87,
-            25.23,
-            24.78
+            25.24,
+            25.1,
+            25.38,
+            25.71,
+            25.36,
+            25.5,
+            25.0,
+            25.08,
+            25.17,
+            24.71,
+            25.18,
+            24.82
         ],
         "hsd_history_software": [
-            10.03,
-            10.14,
-            10.14,
+            10.48,
+            10.57,
+            10.44,
+            10.36,
+            10.17,
+            10.09,
+            9.93,
+            10.11,
+            10.23,
             10.1,
-            10.17,
-            10.16,
-            10.17,
-            10.17,
-            10.15,
-            9.99,
-            9.87,
-            9.9
+            10.2,
+            10.12
         ],
         "rci_data": [
             85.0,
@@ -136,6 +136,11 @@
             "text": "PTC Inc. Just Beat EPS By 29%: Here's What Analysts Think Will Happen Next"
         },
         {
+            "time": "13:28",
+            "tag": "MERCADO",
+            "text": "Diamond Hill Capital Management Inc. Has $27.81 Million Stock Position in Teledyne Technologies Incorporated $TDY"
+        },
+        {
             "time": "13:15",
             "tag": "MERCADO",
             "text": "VeriSign, Inc. $VRSN Shares Sold by Diamond Hill Capital Management Inc."
@@ -144,11 +149,6 @@
             "time": "13:05",
             "tag": "MERCADO",
             "text": "Apple Prepares to Kick Off 2026 With the iPhone 17e, New iPads and Macs"
-        },
-        {
-            "time": "13:03",
-            "tag": "MERCADO",
-            "text": "Fidelity National Information Services, Inc. $FIS Shares Sold by Diamond Hill Capital Management Inc."
         }
     ]
 }
