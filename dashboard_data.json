@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-08 07:40 UTC",
+        "last_updated": "2026-02-08 08:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.41,
-            "change": "+0.79%"
+            "change": "-0.12%"
         },
         {
             "symbol": "AMD",
             "price": 208.44,
-            "change": "-0.32%"
+            "change": "-0.03%"
         },
         {
             "symbol": "MSFT",
             "price": 401.14,
-            "change": "+0.4%"
+            "change": "+0.23%"
         },
         {
             "symbol": "CEG",
             "price": 261.42,
-            "change": "-2.39%"
+            "change": "+0.51%"
         },
         {
             "symbol": "VST",
             "price": 149.65,
-            "change": "-0.53%"
+            "change": "-0.08%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.59,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.47,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49
+            0.52,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.78,
-            24.54,
-            24.78,
-            24.59,
-            24.9,
-            25.11,
-            24.87,
-            24.57,
-            24.51,
-            24.44,
-            24.54,
-            24.87
+            25.22,
+            25.61,
+            25.72,
+            25.78,
+            25.69,
+            25.75,
+            25.95,
+            25.51,
+            25.03,
+            24.65,
+            25.07,
+            25.43
         ],
         "hsd_history_software": [
+            9.69,
             9.86,
+            9.87,
+            9.7,
+            9.73,
+            9.58,
+            9.46,
+            9.58,
+            9.6,
             9.78,
-            9.96,
-            9.86,
-            9.99,
-            9.84,
-            9.8,
-            9.62,
-            9.79,
-            9.72,
-            9.88,
-            10.07
+            9.81,
+            9.95
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "08:16",
+            "tag": "MERCADO",
+            "text": "Apple Inc. $AAPL Stock Holdings Lessened by Argus Investors Counsel Inc."
+        },
+        {
             "time": "07:21",
             "tag": "MERCADO",
             "text": "Why Gartner (IT) Is Down 25.4% After Soft 2026 Outlook And Massive New Buyback Plan"
@@ -136,19 +141,14 @@
             "text": "Is Broadridge (BR) Turning Recurring Revenue And CQG Deal Into A Durable Competitive Advantage?"
         },
         {
+            "time": "06:58",
+            "tag": "MERCADO",
+            "text": "The Truth About Match Group Inc: Is MTCH Still Worth Your Money or Is the Swipe Era Over?"
+        },
+        {
             "time": "06:45",
             "tag": "MERCADO",
             "text": "VeriSign\u2019s Quiet Rebound: What The Numbers Say About VRSN\u2019s Next Move"
-        },
-        {
-            "time": "06:07",
-            "tag": "AI",
-            "text": "Mid-America Apartment Communities Warns of Material Risk From Falling Behind on AI and Technology Upgrades"
-        },
-        {
-            "time": "05:58",
-            "tag": "MERCADO",
-            "text": "AT&T Inc.: Can the Old-School Telecom Giant Reinvent Itself as a Modern Connectivity Platform?"
         }
     ]
 }
