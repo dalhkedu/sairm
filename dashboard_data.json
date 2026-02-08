@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-08 16:35 UTC",
+        "last_updated": "2026-02-08 17:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.41,
-            "change": "+0.07%"
+            "change": "-1.11%"
         },
         {
             "symbol": "AMD",
             "price": 208.44,
-            "change": "+1.04%"
+            "change": "+1.69%"
         },
         {
             "symbol": "MSFT",
             "price": 401.14,
-            "change": "-0.66%"
+            "change": "-1.68%"
         },
         {
             "symbol": "CEG",
             "price": 261.42,
-            "change": "-3.16%"
+            "change": "+0.31%"
         },
         {
             "symbol": "VST",
             "price": 149.65,
-            "change": "-1.5%"
+            "change": "+1.22%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.62,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.52,
-            0.51,
-            0.51
+            0.47,
+            0.46,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.35,
-            23.99,
-            23.58,
-            23.23,
-            23.08,
-            23.13,
-            23.0,
-            23.24,
-            23.42,
-            23.88,
-            24.28,
-            24.57
+            25.76,
+            25.69,
+            25.33,
+            25.5,
+            25.09,
+            25.09,
+            25.46,
+            25.92,
+            25.65,
+            25.35,
+            25.39,
+            24.96
         ],
         "hsd_history_software": [
-            9.78,
-            9.6,
-            9.48,
-            9.48,
-            9.66,
-            9.74,
-            9.77,
-            9.65,
+            10.24,
+            10.28,
+            10.21,
+            10.09,
+            10.16,
+            10.06,
+            9.93,
             9.84,
-            9.97,
-            9.88,
-            10.07
+            9.84,
+            9.92,
+            9.81,
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -133,6 +133,11 @@
         {
             "time": "15:47",
             "tag": "MERCADO",
+            "text": "BREAKING NEWS: The 400-Megawatt Handshake: Is NextEra Building the Gas Station for Hillsboro\u2019s Secret 300-Acre User?"
+        },
+        {
+            "time": "15:47",
+            "tag": "MERCADO",
             "text": "Arista Networks (ANET) Q4 Expectations Still Driven by Q3 Guidance"
         },
         {
@@ -144,11 +149,6 @@
             "time": "15:33",
             "tag": "MERCADO",
             "text": "Alphabet (GOOGL)'s Legal Ruling Limits Damages, Analysts Remain Constructive"
-        },
-        {
-            "time": "15:20",
-            "tag": "RESULTADOS",
-            "text": "Assessing Roper Technologies (ROP) Valuation After Mixed 2025 Earnings And Software Shift"
         }
     ]
 }
