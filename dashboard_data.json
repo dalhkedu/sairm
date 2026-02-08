@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-08 05:06 UTC",
+        "last_updated": "2026-02-08 06:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.41,
-            "change": "-1.81%"
+            "change": "-0.28%"
         },
         {
             "symbol": "AMD",
             "price": 208.44,
-            "change": "+1.65%"
+            "change": "-2.0%"
         },
         {
             "symbol": "MSFT",
             "price": 401.14,
-            "change": "+1.83%"
+            "change": "+3.3%"
         },
         {
             "symbol": "CEG",
             "price": 261.42,
-            "change": "+3.4%"
+            "change": "+1.47%"
         },
         {
             "symbol": "VST",
             "price": 149.65,
-            "change": "-2.1%"
+            "change": "-1.91%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.67,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.51,
+            0.52,
             0.52,
             0.51,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
             0.51,
-            0.5,
+            0.52,
+            0.51,
+            0.52,
+            0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            25.81,
-            25.35,
-            25.72,
-            25.25,
-            24.9,
-            25.35,
-            25.47,
-            25.01,
-            24.64,
-            24.7,
-            24.5,
-            24.97
+            24.74,
+            24.94,
+            25.15,
+            25.4,
+            25.28,
+            25.46,
+            25.29,
+            25.57,
+            25.28,
+            25.6,
+            25.67,
+            25.2
         ],
         "hsd_history_software": [
-            10.64,
-            10.78,
-            10.59,
-            10.5,
-            10.3,
-            10.31,
-            10.27,
-            10.4,
-            10.24,
-            10.27,
-            10.17,
-            10.02
+            10.21,
+            10.36,
+            10.22,
+            10.23,
+            10.04,
+            9.87,
+            9.88,
+            10.03,
+            9.98,
+            10.02,
+            10.0,
+            10.03
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "05:58",
+            "tag": "MERCADO",
+            "text": "AT&T Inc.: Can the Old-School Telecom Giant Reinvent Itself as a Modern Connectivity Platform?"
+        },
+        {
+            "time": "05:29",
+            "tag": "MERCADO",
+            "text": "Netgear Arlo Review: The Smart Home Security Camera Everyone Keeps Comparing To a Doorbell"
+        },
+        {
             "time": "04:37",
             "tag": "AI",
             "text": "Equifax\u2019s AI Push, Cloud Shift And Buybacks Might Change The Case For Investing In EFX"
@@ -139,16 +149,6 @@
             "time": "03:59",
             "tag": "AI",
             "text": "The Hidden Gem AI Networking Stock That Could Own the Next 5 Years"
-        },
-        {
-            "time": "03:54",
-            "tag": "AI",
-            "text": "The Hidden Gem AI Networking Stock That Could Own the Next 5 Years"
-        },
-        {
-            "time": "03:06",
-            "tag": "MERCADO",
-            "text": "Diamond Hill Capital Management trims Alphabet Inc. Class A"
         }
     ]
 }
