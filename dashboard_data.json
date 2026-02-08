@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-08 02:48 UTC",
+        "last_updated": "2026-02-08 05:06 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.41,
-            "change": "-2.88%"
+            "change": "-1.81%"
         },
         {
             "symbol": "AMD",
             "price": 208.44,
-            "change": "+2.26%"
+            "change": "+1.65%"
         },
         {
             "symbol": "MSFT",
             "price": 401.14,
-            "change": "+0.63%"
+            "change": "+1.83%"
         },
         {
             "symbol": "CEG",
             "price": 261.42,
-            "change": "-0.9%"
+            "change": "+3.4%"
         },
         {
             "symbol": "VST",
             "price": 149.65,
-            "change": "+0.65%"
+            "change": "-2.1%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.47,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
             0.51,
             0.51,
             0.5,
             0.5,
             0.5,
+            0.5,
+            0.5,
+            0.5,
             0.51,
             0.5,
-            0.49,
-            0.48,
-            0.49,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            24.27,
-            23.9,
-            24.09,
-            24.3,
-            24.31,
-            24.29,
-            24.28,
-            24.37,
-            24.78,
-            24.91,
-            24.68,
-            24.59
+            25.81,
+            25.35,
+            25.72,
+            25.25,
+            24.9,
+            25.35,
+            25.47,
+            25.01,
+            24.64,
+            24.7,
+            24.5,
+            24.97
         ],
         "hsd_history_software": [
-            9.69,
-            9.69,
-            9.72,
-            9.75,
-            9.92,
-            10.11,
-            10.09,
-            9.91,
-            9.71,
-            9.79,
-            9.92,
-            9.87
+            10.64,
+            10.78,
+            10.59,
+            10.5,
+            10.3,
+            10.31,
+            10.27,
+            10.4,
+            10.24,
+            10.27,
+            10.17,
+            10.02
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:36",
+            "time": "04:37",
             "tag": "AI",
-            "text": "'AI's real challenge is data, not infrastructure': NetApp CEO"
+            "text": "Equifax\u2019s AI Push, Cloud Shift And Buybacks Might Change The Case For Investing In EFX"
         },
         {
-            "time": "01:26",
-            "tag": "MERCADO",
-            "text": "Microchip Technology stock price: MCHP heads into Monday after earnings outlook and mixed analyst calls"
+            "time": "04:02",
+            "tag": "RESULTADOS",
+            "text": "onsemi (ON) Reports Q4: Everything You Need To Know Ahead Of Earnings"
         },
         {
-            "time": "00:59",
-            "tag": "MERCADO",
-            "text": "NXP stock heads into Monday after $3 billion credit line refresh \u2014 what to watch for NXPI"
+            "time": "03:59",
+            "tag": "AI",
+            "text": "The Hidden Gem AI Networking Stock That Could Own the Next 5 Years"
         },
         {
-            "time": "00:59",
-            "tag": "MERCADO",
-            "text": "Marvell stock ends week with an 8% jump as chip rally returns \u2014 but a new share-sale filing hangs over Monday"
+            "time": "03:54",
+            "tag": "AI",
+            "text": "The Hidden Gem AI Networking Stock That Could Own the Next 5 Years"
         },
         {
-            "time": "00:58",
+            "time": "03:06",
             "tag": "MERCADO",
-            "text": "Blink Charging Shares Attempt a Rebound Amid Leadership Shift"
+            "text": "Diamond Hill Capital Management trims Alphabet Inc. Class A"
         }
     ]
 }
