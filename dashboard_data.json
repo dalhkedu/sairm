@@ -1,48 +1,48 @@
 {
     "metadata": {
-        "last_updated": "2026-02-07 23:33 UTC",
+        "last_updated": "2026-02-08 02:48 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.41,
-            "change": "-2.9%"
+            "change": "-2.88%"
         },
         {
             "symbol": "AMD",
             "price": 208.44,
-            "change": "-1.42%"
+            "change": "+2.26%"
         },
         {
             "symbol": "MSFT",
             "price": 401.14,
-            "change": "-2.66%"
+            "change": "+0.63%"
         },
         {
             "symbol": "CEG",
             "price": 261.42,
-            "change": "+3.42%"
+            "change": "-0.9%"
         },
         {
             "symbol": "VST",
             "price": 149.65,
-            "change": "+0.36%"
+            "change": "+0.65%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.48,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
             0.49,
             0.48,
             0.49,
@@ -50,32 +50,32 @@
             0.5
         ],
         "hsd_history_hardware": [
-            25.11,
-            24.67,
-            24.88,
-            24.76,
-            24.85,
-            24.96,
-            25.19,
-            24.86,
-            24.79,
+            24.27,
+            23.9,
+            24.09,
+            24.3,
+            24.31,
+            24.29,
+            24.28,
+            24.37,
             24.78,
-            24.54,
-            24.79
+            24.91,
+            24.68,
+            24.59
         ],
         "hsd_history_software": [
-            9.44,
-            9.47,
-            9.6,
-            9.42,
-            9.47,
-            9.47,
-            9.6,
-            9.61,
-            9.8,
-            9.89,
+            9.69,
+            9.69,
+            9.72,
+            9.75,
             9.92,
-            9.89
+            10.11,
+            10.09,
+            9.91,
+            9.71,
+            9.79,
+            9.92,
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:55",
-            "tag": "MERCADO",
-            "text": "The Truth About Expedia Group Inc: Is This Travel Giant Still Worth Your Money in 2026?"
-        },
-        {
-            "time": "22:36",
+            "time": "01:36",
             "tag": "AI",
-            "text": "Cisco\u2019s Stock Holds Its Ground As Wall Street Bets On AI Networking And Subscriptions"
+            "text": "'AI's real challenge is data, not infrastructure': NetApp CEO"
         },
         {
-            "time": "22:18",
-            "tag": "AI",
-            "text": "From Edison's Light Bulbs to AI's Backbone: How Corning Bet Two Decades of Losses on Fiber Optics and Won"
-        },
-        {
-            "time": "21:10",
+            "time": "01:26",
             "tag": "MERCADO",
-            "text": "Applied Materials Surged 6% on Equipment Boom: Path to a $320 Breakout in 2026"
+            "text": "Microchip Technology stock price: MCHP heads into Monday after earnings outlook and mixed analyst calls"
         },
         {
-            "time": "20:58",
+            "time": "00:59",
             "tag": "MERCADO",
-            "text": "SA Asks: How can PayPal turn its business around?"
+            "text": "NXP stock heads into Monday after $3 billion credit line refresh \u2014 what to watch for NXPI"
+        },
+        {
+            "time": "00:59",
+            "tag": "MERCADO",
+            "text": "Marvell stock ends week with an 8% jump as chip rally returns \u2014 but a new share-sale filing hangs over Monday"
+        },
+        {
+            "time": "00:58",
+            "tag": "MERCADO",
+            "text": "Blink Charging Shares Attempt a Rebound Amid Leadership Shift"
         }
     ]
 }
