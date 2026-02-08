@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-08 08:37 UTC",
+        "last_updated": "2026-02-08 09:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.41,
-            "change": "-0.12%"
+            "change": "-2.27%"
         },
         {
             "symbol": "AMD",
             "price": 208.44,
-            "change": "-0.03%"
+            "change": "+3.26%"
         },
         {
             "symbol": "MSFT",
             "price": 401.14,
-            "change": "+0.23%"
+            "change": "-0.56%"
         },
         {
             "symbol": "CEG",
             "price": 261.42,
-            "change": "+0.51%"
+            "change": "+2.26%"
         },
         {
             "symbol": "VST",
             "price": 149.65,
-            "change": "-0.08%"
+            "change": "+3.47%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.54,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.54,
+            0.55,
+            0.55,
+            0.54,
+            0.53,
+            0.53,
             0.52,
-            0.51,
             0.52,
-            0.51,
-            0.51,
             0.52,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.5
+            0.52,
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.22,
-            25.61,
-            25.72,
-            25.78,
-            25.69,
-            25.75,
-            25.95,
-            25.51,
-            25.03,
-            24.65,
             25.07,
-            25.43
+            24.85,
+            24.95,
+            24.63,
+            24.98,
+            25.47,
+            25.28,
+            25.33,
+            25.57,
+            25.07,
+            25.32,
+            25.25
         ],
         "hsd_history_software": [
-            9.69,
-            9.86,
-            9.87,
-            9.7,
-            9.73,
-            9.58,
-            9.46,
-            9.58,
-            9.6,
             9.78,
-            9.81,
-            9.95
+            9.79,
+            9.89,
+            9.99,
+            10.17,
+            10.06,
+            10.21,
+            10.12,
+            9.98,
+            9.89,
+            9.99,
+            10.03
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:16",
+            "time": "08:55",
             "tag": "MERCADO",
-            "text": "Apple Inc. $AAPL Stock Holdings Lessened by Argus Investors Counsel Inc."
+            "text": "Barclays Remains Bullish on Microsoft Corporation (MSFT)"
         },
         {
-            "time": "07:21",
+            "time": "08:54",
             "tag": "MERCADO",
-            "text": "Why Gartner (IT) Is Down 25.4% After Soft 2026 Outlook And Massive New Buyback Plan"
+            "text": "What Does the Street Think About Uber Technologies (UBER)?"
         },
         {
-            "time": "07:15",
+            "time": "08:47",
             "tag": "MERCADO",
-            "text": "Is Broadridge (BR) Turning Recurring Revenue And CQG Deal Into A Durable Competitive Advantage?"
+            "text": "Nwam LLC Increases Stock Holdings in Microsoft Corporation $MSFT"
         },
         {
-            "time": "06:58",
+            "time": "08:47",
             "tag": "MERCADO",
-            "text": "The Truth About Match Group Inc: Is MTCH Still Worth Your Money or Is the Swipe Era Over?"
+            "text": "Fiduciary Wealth Partners LLC Buys 6,189 Shares of Microsoft Corporation $MSFT"
         },
         {
-            "time": "06:45",
+            "time": "08:47",
             "tag": "MERCADO",
-            "text": "VeriSign\u2019s Quiet Rebound: What The Numbers Say About VRSN\u2019s Next Move"
+            "text": "Csenge Advisory Group Cuts Stake in Microsoft Corporation $MSFT"
         }
     ]
 }
