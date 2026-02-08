@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-08 06:54 UTC",
+        "last_updated": "2026-02-08 07:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.41,
-            "change": "-0.28%"
+            "change": "+0.79%"
         },
         {
             "symbol": "AMD",
             "price": 208.44,
-            "change": "-2.0%"
+            "change": "-0.32%"
         },
         {
             "symbol": "MSFT",
             "price": 401.14,
-            "change": "+3.3%"
+            "change": "+0.4%"
         },
         {
             "symbol": "CEG",
             "price": 261.42,
-            "change": "+1.47%"
+            "change": "-2.39%"
         },
         {
             "symbol": "VST",
             "price": 149.65,
-            "change": "-1.91%"
+            "change": "-0.53%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.63,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.51
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.74,
-            24.94,
-            25.15,
-            25.4,
-            25.28,
-            25.46,
-            25.29,
-            25.57,
-            25.28,
-            25.6,
-            25.67,
-            25.2
+            24.78,
+            24.54,
+            24.78,
+            24.59,
+            24.9,
+            25.11,
+            24.87,
+            24.57,
+            24.51,
+            24.44,
+            24.54,
+            24.87
         ],
         "hsd_history_software": [
-            10.21,
-            10.36,
-            10.22,
-            10.23,
-            10.04,
-            9.87,
+            9.86,
+            9.78,
+            9.96,
+            9.86,
+            9.99,
+            9.84,
+            9.8,
+            9.62,
+            9.79,
+            9.72,
             9.88,
-            10.03,
-            9.98,
-            10.02,
-            10.0,
-            10.03
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "07:21",
+            "tag": "MERCADO",
+            "text": "Why Gartner (IT) Is Down 25.4% After Soft 2026 Outlook And Massive New Buyback Plan"
+        },
+        {
+            "time": "07:15",
+            "tag": "MERCADO",
+            "text": "Is Broadridge (BR) Turning Recurring Revenue And CQG Deal Into A Durable Competitive Advantage?"
+        },
+        {
+            "time": "06:45",
+            "tag": "MERCADO",
+            "text": "VeriSign\u2019s Quiet Rebound: What The Numbers Say About VRSN\u2019s Next Move"
+        },
+        {
+            "time": "06:07",
+            "tag": "AI",
+            "text": "Mid-America Apartment Communities Warns of Material Risk From Falling Behind on AI and Technology Upgrades"
+        },
+        {
             "time": "05:58",
             "tag": "MERCADO",
             "text": "AT&T Inc.: Can the Old-School Telecom Giant Reinvent Itself as a Modern Connectivity Platform?"
-        },
-        {
-            "time": "05:29",
-            "tag": "MERCADO",
-            "text": "Netgear Arlo Review: The Smart Home Security Camera Everyone Keeps Comparing To a Doorbell"
-        },
-        {
-            "time": "04:37",
-            "tag": "AI",
-            "text": "Equifax\u2019s AI Push, Cloud Shift And Buybacks Might Change The Case For Investing In EFX"
-        },
-        {
-            "time": "04:02",
-            "tag": "RESULTADOS",
-            "text": "onsemi (ON) Reports Q4: Everything You Need To Know Ahead Of Earnings"
-        },
-        {
-            "time": "03:59",
-            "tag": "AI",
-            "text": "The Hidden Gem AI Networking Stock That Could Own the Next 5 Years"
         }
     ]
 }
