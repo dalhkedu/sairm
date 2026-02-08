@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-08 19:28 UTC",
+        "last_updated": "2026-02-08 20:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.41,
-            "change": "+3.42%"
+            "change": "-3.29%"
         },
         {
             "symbol": "AMD",
             "price": 208.44,
-            "change": "+0.03%"
+            "change": "-1.4%"
         },
         {
             "symbol": "MSFT",
-            "price": NaN,
-            "change": "+2.96%"
+            "price": 401.14,
+            "change": "-0.34%"
         },
         {
             "symbol": "CEG",
             "price": 261.42,
-            "change": "-0.8%"
+            "change": "+2.87%"
         },
         {
             "symbol": "VST",
             "price": 149.65,
-            "change": "+1.78%"
+            "change": "-1.25%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.68,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
             0.51,
             0.51,
-            0.52,
-            0.52,
-            0.52,
+            0.51,
             0.51,
             0.51,
             0.51,
             0.5,
-            0.51,
             0.5,
+            0.5,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.25,
-            25.45,
-            25.43,
-            25.12,
-            25.02,
-            25.31,
-            25.43,
-            25.12,
-            24.93,
-            25.15,
-            24.94,
-            24.79
+            23.77,
+            24.06,
+            24.44,
+            24.89,
+            24.5,
+            24.44,
+            24.58,
+            24.21,
+            24.24,
+            24.71,
+            24.69,
+            24.82
         ],
         "hsd_history_software": [
-            10.4,
-            10.27,
-            10.09,
-            10.26,
-            10.07,
-            10.25,
-            10.2,
-            10.21,
-            10.18,
-            10.31,
+            10.64,
+            10.46,
+            10.56,
+            10.51,
+            10.37,
+            10.46,
+            10.34,
+            10.37,
+            10.17,
+            10.33,
             10.13,
-            10.2
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "19:05",
+            "tag": "MERCADO",
+            "text": "Best moves for your portfolio: Buy Ulta Beauty, avoid Arista"
+        },
+        {
+            "time": "18:53",
+            "tag": "MERCADO",
+            "text": "AgEagle Aerial Systems Charts a Course for Growth Through Strategic Moves"
+        },
+        {
             "time": "18:47",
             "tag": "MERCADO",
             "text": "Jabil Strengthens Market Position with Strategic Push into India"
@@ -139,16 +149,6 @@
             "time": "18:43",
             "tag": "MERCADO",
             "text": "Qualcomm's (QCOM) Hurt By Memory, Says Jim Cramer"
-        },
-        {
-            "time": "18:41",
-            "tag": "MERCADO",
-            "text": "Broadcom (AVGO) Should Be Up A Lot, Says Jim Cramer"
-        },
-        {
-            "time": "18:37",
-            "tag": "MERCADO",
-            "text": "Oracle (ORCL) Has a Balance Sheet From Hell, Says Jim Cramer"
         }
     ]
 }
