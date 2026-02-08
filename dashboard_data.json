@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-08 10:31 UTC",
+        "last_updated": "2026-02-08 11:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 185.41,
-            "change": "+3.26%"
+            "change": "+0.43%"
         },
         {
             "symbol": "AMD",
             "price": 208.44,
-            "change": "-0.06%"
+            "change": "-1.05%"
         },
         {
             "symbol": "MSFT",
             "price": 401.14,
-            "change": "+2.82%"
+            "change": "-0.49%"
         },
         {
             "symbol": "CEG",
             "price": 261.42,
-            "change": "+0.83%"
+            "change": "+0.74%"
         },
         {
             "symbol": "VST",
             "price": 149.65,
-            "change": "+1.92%"
+            "change": "-2.73%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.41,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.47,
+            0.47,
+            0.47,
+            0.47,
             0.48,
             0.48,
             0.48,
             0.49,
-            0.5,
-            0.5,
-            0.5,
+            0.48,
+            0.48,
             0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            24.84,
-            25.11,
-            24.72,
-            24.32,
+            24.41,
+            24.24,
+            24.07,
+            24.28,
+            24.64,
+            25.1,
             24.76,
-            24.83,
-            24.52,
-            24.6,
-            24.56,
-            24.87,
-            24.46,
-            24.51
+            24.94,
+            24.7,
+            24.74,
+            25.19,
+            24.87
         ],
         "hsd_history_software": [
-            9.7,
-            9.55,
-            9.6,
-            9.79,
-            9.91,
-            9.78,
-            9.71,
-            9.85,
+            9.72,
+            9.73,
             9.82,
-            9.98,
-            9.95,
-            9.92
+            9.64,
+            9.59,
+            9.57,
+            9.59,
+            9.76,
+            9.63,
+            9.77,
+            9.92,
+            9.84
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:55",
+            "time": "10:28",
             "tag": "MERCADO",
-            "text": "Hantz Financial Services Inc. Cuts Stock Position in Gartner, Inc. $IT"
+            "text": "Northcoast Downgrades Fiserv (FISV) to Neutral"
         },
         {
-            "time": "09:54",
+            "time": "10:28",
             "tag": "MERCADO",
-            "text": "Envestnet Asset Management Inc. Grows Stock Position in Tyler Technologies, Inc. $TYL"
+            "text": "Crown Castle Inc. $CCI Position Cut by Envestnet Asset Management Inc."
         },
         {
-            "time": "09:54",
+            "time": "10:27",
             "tag": "MERCADO",
-            "text": "Envestnet Asset Management Inc. Has $91.58 Million Stake in Teledyne Technologies Incorporated $TDY"
+            "text": "Seagate Technology Holdings PLC $STX Shares Purchased by Penserra Capital Management LLC"
         },
         {
-            "time": "09:48",
+            "time": "10:26",
             "tag": "MERCADO",
-            "text": "Equifax Inc. (EFX) Unveils Credit Card Origination and Employment Insight Solutions"
+            "text": "UBS Raises Micron Technology (MU) Price Target to $450"
         },
         {
-            "time": "09:47",
+            "time": "10:26",
             "tag": "MERCADO",
-            "text": "Analysts Stay Bullish on Roper Technologies (ROP) Despite Price Target Cuts Following Mixed Q4 Results"
+            "text": "UBS Raises Micron Technology (MU) Price Target to $450"
         }
     ]
 }
