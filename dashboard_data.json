@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-09 19:20 UTC",
+        "last_updated": "2026-02-09 20:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 191.12,
-            "change": "+2.61%"
+            "price": 190.01,
+            "change": "-3.32%"
         },
         {
             "symbol": "AMD",
-            "price": 216.98,
-            "change": "-1.57%"
+            "price": 215.77,
+            "change": "-3.24%"
         },
         {
             "symbol": "MSFT",
-            "price": 414.08,
-            "change": "+0.83%"
+            "price": 413.51,
+            "change": "-1.04%"
         },
         {
             "symbol": "CEG",
-            "price": 271.23,
-            "change": "+2.21%"
+            "price": 272.17,
+            "change": "-1.94%"
         },
         {
             "symbol": "VST",
-            "price": 153.35,
-            "change": "-0.48%"
+            "price": 152.4,
+            "change": "+1.1%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.42,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
             0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
             0.51,
             0.5,
             0.51,
+            0.5,
             0.51,
-            0.51
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.13,
-            25.85,
-            25.38,
+            24.48,
+            24.88,
+            25.04,
+            25.47,
             24.98,
-            24.6,
-            24.51,
-            24.89,
-            24.81,
-            25.26,
-            25.21,
-            24.86,
-            25.07
+            24.94,
+            25.12,
+            24.79,
+            24.72,
+            24.93,
+            24.84,
+            24.5
         ],
         "hsd_history_software": [
-            9.79,
-            9.93,
+            10.21,
             10.12,
             10.13,
-            10.21,
-            10.02,
-            10.06,
-            10.15,
-            10.04,
-            9.92,
-            10.09,
-            10.05
+            10.12,
+            10.27,
+            10.1,
+            9.91,
+            9.93,
+            9.81,
+            9.93,
+            10.12,
+            9.98
         ],
         "rci_data": [
             85.0,
-            19.112000000000002
+            19.000999999999998
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:50",
-            "tag": "MERCADO",
-            "text": "Hedge Fund and Insider Trading News: Bill Ackman, Warren Buffett, Saba Capital Management, Magnetar Capital, BlueCrest Capital Management, Lamb Weston Holdings Inc (LW), Eli Lilly And Co (LLY), and More"
-        },
-        {
-            "time": "18:28",
-            "tag": "MERCADO",
-            "text": "IonQ Solidifies Quantum Dominance with $1.8 Billion SkyWater Acquisition and Massive $2 Billion War Chest"
-        },
-        {
-            "time": "18:19",
+            "time": "20:03",
             "tag": "AI",
-            "text": "How investors may respond to Humana launching AI Agent Assist with Google Cloud"
+            "text": "Yum! Brands Bets Big on Bytes and Bots: How the Fast-Food Giant Is Rewiring 60,000 Restaurants for an AI-Powered Future"
         },
         {
-            "time": "18:13",
-            "tag": "RESULTADOS",
-            "text": "Should You Buy, Sell or Hold ANET Stock Ahead of Q4 Earnings?"
-        },
-        {
-            "time": "17:54",
+            "time": "20:00",
             "tag": "MERCADO",
-            "text": "CoStar Group (NASDAQ:CSGP) Hits New 52-Week Low - Here's Why"
+            "text": "Morgan Stanley's Michael Grimes, the $10.5m salary and the $56m stock bonus"
+        },
+        {
+            "time": "19:53",
+            "tag": "MERCADO",
+            "text": "AMD hires Salesforce's Kelman as new chief marketing officer"
+        },
+        {
+            "time": "19:52",
+            "tag": "MERCADO",
+            "text": "GM Hires Lucid Strategy Chief Claudia Gast as Deputy CFO and VP"
+        },
+        {
+            "time": "19:44",
+            "tag": "MERCADO",
+            "text": "3 Reasons to Hold ServiceNow Stock Despite a 42% Decline in 3 Months"
         }
     ]
 }
