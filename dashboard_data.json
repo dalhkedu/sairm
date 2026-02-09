@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-09 22:40 UTC",
+        "last_updated": "2026-02-09 23:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 190.04,
-            "change": "-2.62%"
+            "change": "+1.31%"
         },
         {
             "symbol": "AMD",
             "price": 216.0,
-            "change": "-2.4%"
+            "change": "+2.7%"
         },
         {
             "symbol": "MSFT",
             "price": 413.6,
-            "change": "-3.25%"
+            "change": "+0.56%"
         },
         {
             "symbol": "CEG",
             "price": 272.15,
-            "change": "+3.14%"
+            "change": "+0.79%"
         },
         {
             "symbol": "VST",
             "price": 152.97,
-            "change": "-0.09%"
+            "change": "-0.1%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.67,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.46,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.49,
             0.49,
             0.5,
-            0.5,
-            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.38,
-            25.62,
-            25.46,
-            25.18,
-            25.16,
-            24.92,
-            24.97,
-            25.47,
-            25.02,
-            25.18,
-            25.27,
-            25.45
+            24.48,
+            24.79,
+            24.89,
+            25.11,
+            25.58,
+            25.54,
+            25.69,
+            25.2,
+            24.95,
+            25.39,
+            25.1,
+            25.27
         ],
         "hsd_history_software": [
-            10.87,
-            10.77,
-            10.8,
-            10.86,
-            10.95,
-            10.8,
-            10.6,
-            10.5,
-            10.33,
-            10.18,
-            10.19,
-            10.07
+            9.46,
+            9.57,
+            9.56,
+            9.63,
+            9.62,
+            9.72,
+            9.64,
+            9.81,
+            10.0,
+            9.94,
+            9.96,
+            9.84
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:18",
+            "time": "23:28",
             "tag": "MERCADO",
-            "text": "Cisco Systems (NASDAQ:CSCO) Stock Price Up 2.3% After Analyst Upgrade"
+            "text": "Nvidia Reportedly Faces Gaming GPU Delays: Does That Weaken the Bull Case for NVDA Stock Here?"
         },
         {
-            "time": "22:12",
-            "tag": "MERCADO",
-            "text": "Forecasting The Future: 9 Analyst Projections For Intuit"
-        },
-        {
-            "time": "22:06",
-            "tag": "AI",
-            "text": "Autodesk vs. Google: A Trademark Showdown Over 'Flow' Threatens to Reshape AI Entertainment Software"
-        },
-        {
-            "time": "21:59",
+            "time": "23:25",
             "tag": "RESULTADOS",
-            "text": "ON Semiconductor (NASDAQ:ON) Releases Earnings Results, Beats Expectations By $0.02 EPS"
+            "text": "ON Semiconductor Tops Q4 Earnings Expectations with Slight EPS Beat"
         },
         {
-            "time": "21:54",
+            "time": "23:15",
             "tag": "MERCADO",
-            "text": "onsemi (NASDAQ:ON) Reports Q4 In Line With Expectations, Inventory Levels Improve"
+            "text": "Jack Henry & Associates, Inc. (NASDAQ:JKHY) Declares Quarterly Dividend of $0.61"
+        },
+        {
+            "time": "23:10",
+            "tag": "MERCADO",
+            "text": "COHR Stock Update: BofA Leads as Sole Bookrunner for Upcoming Of"
+        },
+        {
+            "time": "22:58",
+            "tag": "MERCADO",
+            "text": "Netgear Nighthawk Router Review: Is This the Wi?Fi Upgrade Your Home Has Been Waiting For?"
         }
     ]
 }
