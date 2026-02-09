@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-09 14:55 UTC",
+        "last_updated": "2026-02-09 16:00 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 191.29,
-            "change": "-0.44%"
+            "price": 191.96,
+            "change": "-2.48%"
         },
         {
             "symbol": "AMD",
-            "price": 212.43,
-            "change": "+1.9%"
+            "price": 215.42,
+            "change": "-3.1%"
         },
         {
             "symbol": "MSFT",
-            "price": 406.07,
-            "change": "+0.4%"
+            "price": 411.77,
+            "change": "+2.29%"
         },
         {
             "symbol": "CEG",
-            "price": 266.61,
-            "change": "-0.35%"
+            "price": 270.31,
+            "change": "+2.56%"
         },
         {
             "symbol": "VST",
-            "price": 151.13,
-            "change": "-2.78%"
+            "price": 155.2,
+            "change": "-1.24%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.7,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.48,
+            0.49,
+            0.5,
             0.5,
             0.5,
             0.51,
-            0.51,
-            0.52,
-            0.53,
-            0.52,
-            0.51,
-            0.51,
             0.5,
-            0.5,
+            0.51,
+            0.51,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            26.71,
-            26.7,
-            26.93,
-            26.49,
-            26.45,
-            26.13,
-            25.97,
-            25.47,
-            25.09,
-            24.64,
-            24.72,
-            25.2
+            24.67,
+            25.15,
+            24.79,
+            25.19,
+            25.1,
+            25.59,
+            25.27,
+            24.91,
+            24.56,
+            24.88,
+            24.77,
+            24.8
         ],
         "hsd_history_software": [
-            10.23,
-            10.18,
+            9.62,
+            9.69,
+            9.59,
+            9.71,
+            9.74,
+            9.89,
             10.03,
-            9.83,
-            9.85,
-            9.73,
-            9.88,
-            10.02,
-            9.92,
-            10.05,
-            10.2,
-            10.03
+            10.1,
+            10.0,
+            9.87,
+            10.04,
+            10.15
         ],
         "rci_data": [
             85.0,
-            19.128999999999998
+            19.196
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:17",
-            "tag": "AI",
-            "text": "La Rosa Holdings wipes $5.5M debt amid AI data center push"
-        },
-        {
-            "time": "13:55",
+            "time": "15:23",
             "tag": "MERCADO",
-            "text": "Jack Henry increases quarterly dividend by 6% to $0.61 per share"
+            "text": "Kyndryl (NYSE:KD) Stock Rating Lowered by JPMorgan Chase & Co."
         },
         {
-            "time": "13:48",
+            "time": "15:03",
             "tag": "MERCADO",
-            "text": "Eltek secures $12.2 million in orders from U.S. defense customer"
+            "text": "American Water Joins Dialogue on Resilience, Affordability, Innovation and Reliability at 2026 NARUC Winter Policy Summit \u2013 Company Announcement - FT.com"
         },
         {
-            "time": "13:47",
+            "time": "15:01",
             "tag": "MERCADO",
-            "text": "RBC Capital Raises its Price Target on Verizon Communications Inc. (VZ) to $48"
+            "text": "Palmetto Grain Brokerage - Is Wall Street Bullish or Bearish on Fortive Stock?"
         },
         {
-            "time": "13:47",
-            "tag": "AI",
-            "text": "Mofy VFX \u00d7 Tencent Video: Breakout Urban Comedy Series \u201cNo Pain No Gain\u201d Premieres, with Global Mofy Delivering End-to-End VFX Production Powered by AI-Native Workflow"
+            "time": "14:59",
+            "tag": "MERCADO",
+            "text": "UBS Maintains Analog Devices(ADI.US) With Buy Rating, Raises Target Price to $400"
+        },
+        {
+            "time": "14:58",
+            "tag": "MERCADO",
+            "text": "DSI and NexGen Solutions Merge to Form Premier Autodesk Design and Make Partner"
         }
     ]
 }
