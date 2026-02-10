@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-10 08:59 UTC",
+        "last_updated": "2026-02-10 10:07 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": NaN,
-            "change": "+2.48%"
+            "price": 190.04,
+            "change": "-2.58%"
         },
         {
             "symbol": "AMD",
             "price": 216.0,
-            "change": "+2.44%"
+            "change": "+1.57%"
         },
         {
             "symbol": "MSFT",
             "price": 413.6,
-            "change": "-1.79%"
+            "change": "-2.24%"
         },
         {
             "symbol": "CEG",
             "price": 272.15,
-            "change": "-3.23%"
+            "change": "-0.91%"
         },
         {
             "symbol": "VST",
-            "price": 152.97,
-            "change": "-0.99%"
+            "price": NaN,
+            "change": "-2.77%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
-        "rci_current": NaN,
+        "cer_current": 0.53,
+        "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.5,
             0.49,
-            0.49,
-            0.49,
+            0.48,
+            0.48,
             0.49,
             0.49,
             0.5,
-            0.51,
-            0.51,
             0.5,
-            0.49,
-            0.49,
-            0.49
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.55,
-            24.34,
-            24.54,
-            24.34,
-            24.65,
-            24.4,
-            24.24,
-            23.94,
-            24.11,
-            24.09,
-            24.56,
-            24.55
+            25.16,
+            24.94,
+            24.72,
+            25.01,
+            25.47,
+            25.17,
+            24.75,
+            25.07,
+            24.84,
+            24.69,
+            25.15,
+            24.86
         ],
         "hsd_history_software": [
-            10.4,
-            10.49,
-            10.39,
-            10.41,
-            10.31,
-            10.37,
-            10.36,
-            10.21,
-            10.23,
-            10.07,
-            10.14,
+            9.6,
+            9.76,
+            9.94,
+            9.97,
+            10.06,
+            10.09,
+            10.09,
+            10.06,
+            10.16,
+            10.05,
+            10.01,
             10.13
         ],
         "rci_data": [
             85.0,
-            NaN
+            19.003999999999998
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:22",
+            "time": "09:42",
             "tag": "MERCADO",
-            "text": "Apple Inc. $AAPL is Ritholtz Wealth Management's 6th Largest Position"
+            "text": "Broadcom Inc. $AVGO Shares Acquired by Guinness Atkinson Asset Management Inc"
         },
         {
-            "time": "08:14",
+            "time": "09:42",
             "tag": "MERCADO",
-            "text": "Cisco Systems, Inc. $CSCO Position Boosted by Wesbanco Bank Inc."
+            "text": "Federated Hermes Inc. Has $87,000 Position in Gartner, Inc. $IT"
         },
         {
-            "time": "08:14",
+            "time": "09:42",
             "tag": "MERCADO",
-            "text": "Midwest Trust Co Has $74.43 Million Stake in Cisco Systems, Inc. $CSCO"
+            "text": "Envestnet Asset Management Inc. Has $61.95 Million Holdings in Fidelity National Information Services, Inc. $FIS"
         },
         {
-            "time": "07:59",
+            "time": "09:42",
             "tag": "MERCADO",
-            "text": "AMWL - American Well Corp Latest Stock News & Market Updates"
+            "text": "Alps Advisors Inc. Has $5.10 Million Position in Enphase Energy, Inc. $ENPH"
         },
         {
-            "time": "07:59",
+            "time": "09:36",
             "tag": "MERCADO",
-            "text": "Advanced Energy Industries stock hits all-time high at 281.38 USD"
+            "text": "Oppenheimer Asset Management Inc. Buys 10,742 Shares of Cadence Design Systems, Inc. $CDNS"
         }
     ]
 }
