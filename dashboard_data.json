@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-10 21:45 UTC",
+        "last_updated": "2026-02-10 22:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 188.54,
-            "change": "+1.76%"
+            "change": "+1.46%"
         },
         {
             "symbol": "AMD",
             "price": 213.57,
-            "change": "+0.78%"
+            "change": "+2.06%"
         },
         {
             "symbol": "MSFT",
             "price": 413.27,
-            "change": "-1.31%"
+            "change": "+1.1%"
         },
         {
             "symbol": "CEG",
             "price": 271.14,
-            "change": "+0.62%"
+            "change": "+3.04%"
         },
         {
             "symbol": "VST",
             "price": 159.6,
-            "change": "-0.53%"
+            "change": "-2.24%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.62,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
             0.51,
             0.51,
-            0.5,
-            0.5,
+            0.51,
             0.5,
             0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.48,
             0.49
         ],
         "hsd_history_hardware": [
-            25.41,
-            25.23,
-            25.38,
-            25.48,
-            25.19,
-            25.28,
-            25.54,
-            25.17,
-            24.94,
-            24.8,
-            24.56,
-            24.85
+            24.9,
+            24.48,
+            24.29,
+            24.44,
+            24.29,
+            23.92,
+            23.94,
+            23.56,
+            23.97,
+            24.37,
+            24.21,
+            24.59
         ],
         "hsd_history_software": [
-            10.25,
+            10.42,
             10.36,
-            10.16,
-            10.17,
-            10.17,
-            10.21,
-            10.01,
-            9.84,
-            9.92,
-            9.85,
-            9.74,
-            9.87
+            10.47,
+            10.66,
+            10.46,
+            10.41,
+            10.33,
+            10.29,
+            10.47,
+            10.42,
+            10.22,
+            10.04
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:22",
+            "time": "21:57",
             "tag": "MERCADO",
-            "text": "Danantara to Run BUMN Merger, Telkom to Pupuk to Enter Consolidation 2026"
+            "text": "Alkami to Announce Fourth Quarter 2025 Financial Results"
         },
         {
-            "time": "20:49",
+            "time": "21:49",
             "tag": "MERCADO",
-            "text": "Salesforce Reorganizes Leadership While Cutting Around 1,000 Jobs"
+            "text": "Applied Materials unveils new chipmaking systems for 2nm transistors By Investing.com"
         },
         {
-            "time": "20:45",
+            "time": "21:49",
             "tag": "MERCADO",
-            "text": "onsemi (ON) Stock Is Up, What You Need To Know"
+            "text": "Alphabet (GOOG) stock slips as Google lines up rare 100-year bond and EU pressure builds"
         },
         {
-            "time": "20:38",
+            "time": "21:31",
             "tag": "MERCADO",
-            "text": "Morgan Stanley drops 'run it hot' roadmap"
+            "text": "Why Charles Schwab (SCHW) Shares Are Sliding Today"
         },
         {
-            "time": "20:26",
-            "tag": "MERCADO",
-            "text": "Automata raises $45M to scale lab automation platform, adds Danaher as strategic investor"
+            "time": "21:29",
+            "tag": "AI",
+            "text": "Artificial Intelligence Will Remain a Key Swing Factor, but We Like Datadog's Positioning"
         }
     ]
 }
