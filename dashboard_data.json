@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-10 15:01 UTC",
+        "last_updated": "2026-02-10 17:05 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 188.89,
-            "change": "-1.86%"
+            "price": 189.44,
+            "change": "-2.75%"
         },
         {
             "symbol": "AMD",
-            "price": 215.48,
-            "change": "+0.75%"
+            "price": 216.03,
+            "change": "-2.38%"
         },
         {
             "symbol": "MSFT",
-            "price": 422.6,
-            "change": "+1.14%"
+            "price": 419.84,
+            "change": "-1.36%"
         },
         {
             "symbol": "CEG",
-            "price": 272.97,
-            "change": "-1.97%"
+            "price": 271.19,
+            "change": "-2.22%"
         },
         {
             "symbol": "VST",
-            "price": 157.41,
-            "change": "+3.05%"
+            "price": 159.31,
+            "change": "-0.85%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.54,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.49,
             0.49,
             0.49,
-            0.5,
+            0.48,
             0.49,
             0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.49
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.12,
-            24.61,
-            24.99,
+            25.64,
+            25.41,
+            25.55,
+            25.08,
+            24.92,
             24.69,
-            24.9,
-            25.28,
-            25.54,
-            25.59,
-            26.09,
-            25.78,
-            25.36,
-            25.23
+            24.56,
+            24.94,
+            25.38,
+            25.6,
+            25.44,
+            25.11
         ],
         "hsd_history_software": [
-            9.82,
+            10.12,
+            10.07,
+            10.07,
+            10.08,
+            10.02,
+            10.01,
+            9.87,
             9.75,
-            9.83,
-            9.93,
-            9.88,
-            10.03,
-            9.86,
-            9.81,
-            9.76,
-            9.89,
-            9.96,
-            10.15
+            9.8,
+            9.78,
+            9.9,
+            10.05
         ],
         "rci_data": [
             85.0,
-            18.888999999999996
+            18.944
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:53",
+            "time": "16:20",
             "tag": "MERCADO",
-            "text": "Wells Fargo & Company Has Lowered Expectations for Dynatrace (NYSE:DT) Stock Price"
+            "text": "Google Parent Alphabet To Raise $20 Billion Via Bond Sale, Stock Slides"
         },
         {
-            "time": "14:48",
+            "time": "16:17",
             "tag": "MERCADO",
-            "text": "Jim Cramer Says \u201cI\u2019d Actually Be a Trimmer of Dow (DOW) Right Here\u201d"
+            "text": "Stifel lowers Palo Alto Networks stock price target to $200 from $225 By Investing.com"
         },
         {
-            "time": "14:42",
+            "time": "16:12",
             "tag": "MERCADO",
-            "text": "On Semiconductor stock hits 52-week high at $66.87"
+            "text": "MKS Instruments (MKSI) Boosts Quarterly Dividend by 14%"
         },
         {
-            "time": "14:35",
+            "time": "16:11",
             "tag": "MERCADO",
-            "text": "Goldman\u2019s Solomon Says Software Selloff Has Been \u2018Too Broad\u2019"
+            "text": "Jim Cramer on Intuit: \"I'd Be a Buyer Right Here, Right Now\""
         },
         {
-            "time": "14:32",
+            "time": "16:11",
             "tag": "MERCADO",
-            "text": "Crown Castle Refocuses On Towers While Balancing Debt Cuts And Payouts"
+            "text": "This Unity Software Analyst Turns Bullish; Here Are Top 3 Upgrades For Tuesday"
         }
     ]
 }
