@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-10 17:05 UTC",
+        "last_updated": "2026-02-10 19:09 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 189.44,
-            "change": "-2.75%"
+            "price": 189.27,
+            "change": "+0.87%"
         },
         {
             "symbol": "AMD",
-            "price": 216.03,
-            "change": "-2.38%"
+            "price": 215.25,
+            "change": "-0.91%"
         },
         {
             "symbol": "MSFT",
-            "price": 419.84,
-            "change": "-1.36%"
+            "price": 416.64,
+            "change": "-1.64%"
         },
         {
             "symbol": "CEG",
-            "price": 271.19,
-            "change": "-2.22%"
+            "price": 273.0,
+            "change": "+0.65%"
         },
         {
             "symbol": "VST",
-            "price": 159.31,
-            "change": "-0.85%"
+            "price": 159.29,
+            "change": "+2.04%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.41,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.48,
             0.48,
             0.48,
             0.48,
             0.48,
             0.49,
-            0.49,
-            0.49,
             0.48,
+            0.49,
             0.49,
             0.5,
-            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            25.64,
-            25.41,
-            25.55,
-            25.08,
-            24.92,
-            24.69,
-            24.56,
+            25.7,
+            25.62,
+            25.26,
+            24.78,
+            24.68,
+            24.78,
+            24.57,
+            24.76,
+            24.8,
             24.94,
-            25.38,
-            25.6,
-            25.44,
-            25.11
+            24.89,
+            24.97
         ],
         "hsd_history_software": [
-            10.12,
-            10.07,
-            10.07,
-            10.08,
+            10.11,
+            10.13,
             10.02,
-            10.01,
-            9.87,
-            9.75,
-            9.8,
-            9.78,
-            9.9,
+            9.99,
+            9.97,
+            9.84,
+            9.83,
+            9.91,
+            10.07,
+            9.91,
+            10.09,
             10.05
         ],
         "rci_data": [
             85.0,
-            18.944
+            18.927000000000003
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:20",
+            "time": "18:06",
             "tag": "MERCADO",
-            "text": "Google Parent Alphabet To Raise $20 Billion Via Bond Sale, Stock Slides"
+            "text": "Here\u2019s the Broadcom Stock\u2019s Scenario for a 70% Upside Case"
         },
         {
-            "time": "16:17",
+            "time": "18:03",
             "tag": "MERCADO",
-            "text": "Stifel lowers Palo Alto Networks stock price target to $200 from $225 By Investing.com"
+            "text": "Microsoft Stock and 18 More Software Companies That Can Survive"
         },
         {
-            "time": "16:12",
-            "tag": "MERCADO",
-            "text": "MKS Instruments (MKSI) Boosts Quarterly Dividend by 14%"
+            "time": "18:01",
+            "tag": "AI",
+            "text": "Forget Traditional Storage, IBM's FlashSystem Revolutionizes With AI"
         },
         {
-            "time": "16:11",
+            "time": "17:53",
             "tag": "MERCADO",
-            "text": "Jim Cramer on Intuit: \"I'd Be a Buyer Right Here, Right Now\""
+            "text": "SPAM ETF Holds 36 Cybersecurity Stocks But Can\u2019t Beat the Market"
         },
         {
-            "time": "16:11",
-            "tag": "MERCADO",
-            "text": "This Unity Software Analyst Turns Bullish; Here Are Top 3 Upgrades For Tuesday"
+            "time": "17:48",
+            "tag": "AI",
+            "text": "Blackstone at Bank of America Conference: Strategic Growth and AI Focus"
         }
     ]
 }
