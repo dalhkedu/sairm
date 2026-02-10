@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-10 19:09 UTC",
+        "last_updated": "2026-02-10 20:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 189.27,
-            "change": "+0.87%"
+            "price": 189.32,
+            "change": "+3.42%"
         },
         {
             "symbol": "AMD",
-            "price": 215.25,
-            "change": "-0.91%"
+            "price": 213.73,
+            "change": "+1.44%"
         },
         {
             "symbol": "MSFT",
-            "price": 416.64,
-            "change": "-1.64%"
+            "price": 414.02,
+            "change": "-0.87%"
         },
         {
             "symbol": "CEG",
-            "price": 273.0,
-            "change": "+0.65%"
+            "price": 272.26,
+            "change": "-0.53%"
         },
         {
             "symbol": "VST",
-            "price": 159.29,
-            "change": "+2.04%"
+            "price": 159.62,
+            "change": "-2.11%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.7,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
+            0.52,
+            0.51,
+            0.52,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.7,
-            25.62,
-            25.26,
-            24.78,
-            24.68,
-            24.78,
-            24.57,
-            24.76,
-            24.8,
-            24.94,
-            24.89,
-            24.97
+            23.0,
+            22.95,
+            23.04,
+            23.03,
+            23.02,
+            23.44,
+            23.83,
+            24.25,
+            24.56,
+            24.54,
+            24.54,
+            24.56
         ],
         "hsd_history_software": [
-            10.11,
-            10.13,
-            10.02,
+            10.77,
+            10.94,
+            10.78,
+            10.61,
+            10.81,
+            10.64,
+            10.45,
+            10.3,
+            10.16,
             9.99,
-            9.97,
-            9.84,
-            9.83,
-            9.91,
-            10.07,
-            9.91,
-            10.09,
-            10.05
+            9.85,
+            9.82
         ],
         "rci_data": [
             85.0,
-            18.927000000000003
+            18.932
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:06",
-            "tag": "MERCADO",
-            "text": "Here\u2019s the Broadcom Stock\u2019s Scenario for a 70% Upside Case"
-        },
-        {
-            "time": "18:03",
-            "tag": "MERCADO",
-            "text": "Microsoft Stock and 18 More Software Companies That Can Survive"
-        },
-        {
-            "time": "18:01",
+            "time": "19:57",
             "tag": "AI",
-            "text": "Forget Traditional Storage, IBM's FlashSystem Revolutionizes With AI"
+            "text": "Microchip Technology Expands Edge AI Solutions for Real-Time Applications"
         },
         {
-            "time": "17:53",
+            "time": "19:47",
+            "tag": "RESULTADOS",
+            "text": "Upstart (UPST) Sees Surge in Options Activity Ahead of Earnings Report"
+        },
+        {
+            "time": "19:46",
             "tag": "MERCADO",
-            "text": "SPAM ETF Holds 36 Cybersecurity Stocks But Can\u2019t Beat the Market"
+            "text": "JPMorgan Wins Apple Card Role And Expands Undervalued Consumer Payments Reach"
         },
         {
-            "time": "17:48",
-            "tag": "AI",
-            "text": "Blackstone at Bank of America Conference: Strategic Growth and AI Focus"
+            "time": "19:39",
+            "tag": "MERCADO",
+            "text": "Jeff Kagan comments on Boeing\u2019s $10.3M investment in Solace Power"
+        },
+        {
+            "time": "19:30",
+            "tag": "MERCADO",
+            "text": "Accelerating innovation in 2026: turning digital potential into physical reality across industries"
         }
     ]
 }
