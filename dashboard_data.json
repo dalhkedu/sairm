@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-10 22:43 UTC",
+        "last_updated": "2026-02-10 23:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 188.54,
-            "change": "+1.46%"
+            "change": "-2.21%"
         },
         {
             "symbol": "AMD",
             "price": 213.57,
-            "change": "+2.06%"
+            "change": "-1.79%"
         },
         {
             "symbol": "MSFT",
             "price": 413.27,
-            "change": "+1.1%"
+            "change": "+1.77%"
         },
         {
             "symbol": "CEG",
             "price": 271.14,
-            "change": "+3.04%"
+            "change": "-3.36%"
         },
         {
             "symbol": "VST",
             "price": 159.6,
-            "change": "-2.24%"
+            "change": "-0.87%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.52,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
             0.5,
             0.49,
             0.49,
-            0.48,
-            0.48,
             0.49,
-            0.48,
-            0.48,
-            0.49
+            0.5,
+            0.51,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.9,
-            24.48,
-            24.29,
-            24.44,
-            24.29,
-            23.92,
-            23.94,
-            23.56,
+            23.86,
+            24.1,
+            24.19,
             23.97,
-            24.37,
-            24.21,
-            24.59
+            24.43,
+            24.86,
+            25.36,
+            24.88,
+            25.16,
+            24.69,
+            24.78,
+            24.61
         ],
         "hsd_history_software": [
-            10.42,
-            10.36,
-            10.47,
-            10.66,
-            10.46,
-            10.41,
-            10.33,
-            10.29,
-            10.47,
-            10.42,
-            10.22,
-            10.04
+            9.55,
+            9.55,
+            9.61,
+            9.66,
+            9.67,
+            9.68,
+            9.85,
+            9.75,
+            9.89,
+            9.98,
+            10.08,
+            10.13
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:57",
+            "time": "23:29",
             "tag": "MERCADO",
-            "text": "Alkami to Announce Fourth Quarter 2025 Financial Results"
+            "text": "Here's How Much $100 Invested In Alphabet 20 Years Ago Would Be Worth Today"
         },
         {
-            "time": "21:49",
+            "time": "22:46",
             "tag": "MERCADO",
-            "text": "Applied Materials unveils new chipmaking systems for 2nm transistors By Investing.com"
+            "text": "Paycom declares $0.375 per share quarterly dividend By Investing.com"
         },
         {
-            "time": "21:49",
-            "tag": "MERCADO",
-            "text": "Alphabet (GOOG) stock slips as Google lines up rare 100-year bond and EU pressure builds"
+            "time": "22:42",
+            "tag": "RESULTADOS",
+            "text": "Fiserv: Q4 Earnings Snapshot"
         },
         {
-            "time": "21:31",
+            "time": "22:27",
             "tag": "MERCADO",
-            "text": "Why Charles Schwab (SCHW) Shares Are Sliding Today"
+            "text": "Capital One at UBS Conference: Strategic Moves and Challenges"
         },
         {
-            "time": "21:29",
+            "time": "22:27",
             "tag": "AI",
-            "text": "Artificial Intelligence Will Remain a Key Swing Factor, but We Like Datadog's Positioning"
+            "text": "Morgan Stanley\u2019s Wealth Head Addresses AI-Driven Pressures"
         }
     ]
 }
