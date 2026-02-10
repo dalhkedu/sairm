@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-10 05:07 UTC",
+        "last_updated": "2026-02-10 07:09 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 190.04,
-            "change": "-1.14%"
+            "change": "+0.56%"
         },
         {
             "symbol": "AMD",
             "price": 216.0,
-            "change": "-0.01%"
+            "change": "+2.06%"
         },
         {
             "symbol": "MSFT",
             "price": 413.6,
-            "change": "+2.09%"
+            "change": "-0.2%"
         },
         {
             "symbol": "CEG",
             "price": 272.15,
-            "change": "+0.28%"
+            "change": "-0.98%"
         },
         {
             "symbol": "VST",
             "price": 152.97,
-            "change": "+2.49%"
+            "change": "+3.25%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.52,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.5
+            0.52,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.53,
+            0.53,
+            0.52,
+            0.51,
+            0.52,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.07,
-            24.17,
-            24.22,
-            24.32,
-            24.63,
+            25.26,
+            24.91,
+            24.95,
+            24.58,
+            24.81,
+            24.44,
+            24.84,
             24.68,
-            24.36,
-            24.73,
-            25.18,
-            24.98,
-            25.12,
-            24.84
+            24.57,
+            24.31,
+            24.58,
+            24.75
         ],
         "hsd_history_software": [
-            9.54,
-            9.7,
+            9.47,
+            9.39,
+            9.51,
+            9.61,
+            9.78,
+            9.6,
+            9.67,
             9.84,
-            9.8,
-            9.91,
-            9.86,
-            9.82,
+            9.92,
+            10.03,
             10.0,
-            10.16,
-            10.18,
-            10.15,
-            10.18
+            10.19
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:29",
-            "tag": "MERCADO",
-            "text": "NETGEAR\u00ae Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)"
-        },
-        {
-            "time": "04:27",
-            "tag": "MERCADO",
-            "text": "Amazon.com Inc. (AMZN) Citigroup Cuts Price Target to $265"
-        },
-        {
-            "time": "04:08",
-            "tag": "MERCADO",
-            "text": "Synthace collaborates with Charles River to offer the global pharma industry more robust, faster and cost-effective assays"
-        },
-        {
-            "time": "04:04",
+            "time": "05:58",
             "tag": "AI",
-            "text": "Fair Isaac (FICO) Stock: Can This Quiet AI Powerhouse Keep Beating Wall Street\u2019s Playbook?"
+            "text": "Salesforce quietly lays off employees in a new round of job cuts, impacted teams include Agentforce AI product that CEO Marc Benioff said: People don\u2019t ..."
         },
         {
-            "time": "04:01",
+            "time": "05:41",
             "tag": "MERCADO",
-            "text": "Inside Papa Johns plans in Asia"
+            "text": "Lam Research (LRCX) director Brandt sells $7.8m in stock"
+        },
+        {
+            "time": "05:30",
+            "tag": "AI",
+            "text": "Blackstone Warns AI Disruption Risk Is a Top Strategic Focus:"
+        },
+        {
+            "time": "05:08",
+            "tag": "MERCADO",
+            "text": "Microsoft Stock Rises 3% Buts Trades Cheaper Than IBM"
+        },
+        {
+            "time": "04:39",
+            "tag": "MERCADO",
+            "text": "LG Display Sells Its China LCD Plant for Focusing on OLED"
         }
     ]
 }
