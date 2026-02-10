@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-10 20:49 UTC",
+        "last_updated": "2026-02-10 21:45 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 189.32,
-            "change": "+3.42%"
+            "price": 188.54,
+            "change": "+1.76%"
         },
         {
             "symbol": "AMD",
-            "price": 213.73,
-            "change": "+1.44%"
+            "price": 213.57,
+            "change": "+0.78%"
         },
         {
             "symbol": "MSFT",
-            "price": 414.02,
-            "change": "-0.87%"
+            "price": 413.27,
+            "change": "-1.31%"
         },
         {
             "symbol": "CEG",
-            "price": 272.26,
-            "change": "-0.53%"
+            "price": 271.14,
+            "change": "+0.62%"
         },
         {
             "symbol": "VST",
-            "price": 159.62,
-            "change": "-2.11%"
+            "price": 159.6,
+            "change": "-0.53%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.7,
+        "cer_current": 0.64,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.52,
+            0.52,
+            0.52,
             0.51,
-            0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
             0.52,
             0.51,
             0.51,
             0.5,
-            0.5
+            0.5,
+            0.5,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            23.0,
-            22.95,
-            23.04,
-            23.03,
-            23.02,
-            23.44,
-            23.83,
-            24.25,
+            25.41,
+            25.23,
+            25.38,
+            25.48,
+            25.19,
+            25.28,
+            25.54,
+            25.17,
+            24.94,
+            24.8,
             24.56,
-            24.54,
-            24.54,
-            24.56
+            24.85
         ],
         "hsd_history_software": [
-            10.77,
-            10.94,
-            10.78,
-            10.61,
-            10.81,
-            10.64,
-            10.45,
-            10.3,
+            10.25,
+            10.36,
             10.16,
-            9.99,
+            10.17,
+            10.17,
+            10.21,
+            10.01,
+            9.84,
+            9.92,
             9.85,
-            9.82
+            9.74,
+            9.87
         ],
         "rci_data": [
             85.0,
-            18.932
+            18.854
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:57",
-            "tag": "AI",
-            "text": "Microchip Technology Expands Edge AI Solutions for Real-Time Applications"
-        },
-        {
-            "time": "19:47",
-            "tag": "RESULTADOS",
-            "text": "Upstart (UPST) Sees Surge in Options Activity Ahead of Earnings Report"
-        },
-        {
-            "time": "19:46",
+            "time": "21:22",
             "tag": "MERCADO",
-            "text": "JPMorgan Wins Apple Card Role And Expands Undervalued Consumer Payments Reach"
+            "text": "Danantara to Run BUMN Merger, Telkom to Pupuk to Enter Consolidation 2026"
         },
         {
-            "time": "19:39",
+            "time": "20:49",
             "tag": "MERCADO",
-            "text": "Jeff Kagan comments on Boeing\u2019s $10.3M investment in Solace Power"
+            "text": "Salesforce Reorganizes Leadership While Cutting Around 1,000 Jobs"
         },
         {
-            "time": "19:30",
+            "time": "20:45",
             "tag": "MERCADO",
-            "text": "Accelerating innovation in 2026: turning digital potential into physical reality across industries"
+            "text": "onsemi (ON) Stock Is Up, What You Need To Know"
+        },
+        {
+            "time": "20:38",
+            "tag": "MERCADO",
+            "text": "Morgan Stanley drops 'run it hot' roadmap"
+        },
+        {
+            "time": "20:26",
+            "tag": "MERCADO",
+            "text": "Automata raises $45M to scale lab automation platform, adds Danaher as strategic investor"
         }
     ]
 }
