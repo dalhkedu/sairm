@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-10 23:41 UTC",
+        "last_updated": "2026-02-11 02:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 188.54,
-            "change": "-2.21%"
+            "change": "+2.12%"
         },
         {
             "symbol": "AMD",
             "price": 213.57,
-            "change": "-1.79%"
+            "change": "-2.79%"
         },
         {
             "symbol": "MSFT",
             "price": 413.27,
-            "change": "+1.77%"
+            "change": "+0.36%"
         },
         {
             "symbol": "CEG",
             "price": 271.14,
-            "change": "-3.36%"
+            "change": "+0.81%"
         },
         {
             "symbol": "VST",
             "price": 159.6,
-            "change": "-0.87%"
+            "change": "+0.29%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.47,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.49,
+            0.49,
             0.48,
-            0.48,
             0.49,
-            0.49,
-            0.5,
             0.49,
             0.49,
             0.49,
             0.5,
-            0.51,
-            0.5,
-            0.51
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.86,
-            24.1,
-            24.19,
-            23.97,
-            24.43,
-            24.86,
-            25.36,
-            24.88,
-            25.16,
-            24.69,
-            24.78,
-            24.61
+            23.78,
+            24.25,
+            24.04,
+            24.01,
+            23.72,
+            23.88,
+            24.22,
+            24.59,
+            24.85,
+            24.75,
+            24.52,
+            25.0
         ],
         "hsd_history_software": [
-            9.55,
-            9.55,
-            9.61,
-            9.66,
-            9.67,
-            9.68,
-            9.85,
-            9.75,
-            9.89,
-            9.98,
+            10.38,
+            10.34,
+            10.14,
+            10.06,
             10.08,
-            10.13
+            10.27,
+            10.35,
+            10.49,
+            10.33,
+            10.21,
+            10.01,
+            10.02
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "23:29",
-            "tag": "MERCADO",
-            "text": "Here's How Much $100 Invested In Alphabet 20 Years Ago Would Be Worth Today"
-        },
-        {
-            "time": "22:46",
-            "tag": "MERCADO",
-            "text": "Paycom declares $0.375 per share quarterly dividend By Investing.com"
-        },
-        {
-            "time": "22:42",
+            "time": "00:28",
             "tag": "RESULTADOS",
-            "text": "Fiserv: Q4 Earnings Snapshot"
+            "text": "Cognex to Report Q4 Earnings: What's in Store for the Stock?"
         },
         {
-            "time": "22:27",
+            "time": "00:27",
             "tag": "MERCADO",
-            "text": "Capital One at UBS Conference: Strategic Moves and Challenges"
+            "text": "Microsoft issues DMCA takedown of Minecraft-like Steam game, raising copyright debate"
         },
         {
-            "time": "22:27",
-            "tag": "AI",
-            "text": "Morgan Stanley\u2019s Wealth Head Addresses AI-Driven Pressures"
+            "time": "00:04",
+            "tag": "RESULTADOS",
+            "text": "Forex Signals Feb 11: Cisco, McDonald\u2019s, T-Mobile, Shopify and AppLovin Earnings Preview"
+        },
+        {
+            "time": "23:57",
+            "tag": "MERCADO",
+            "text": "Five9 (FIVN) Experiences Weak Share Price Momentum Amid Broader SaaS Sector Headwinds"
+        },
+        {
+            "time": "23:56",
+            "tag": "MERCADO",
+            "text": "Bank of America Says AWS Capex Returns Will Drive Amazon.com (AMZN) Shares"
         }
     ]
 }
