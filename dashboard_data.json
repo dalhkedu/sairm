@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-11 09:56 UTC",
+        "last_updated": "2026-02-11 10:57 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 188.54,
-            "change": "-0.48%"
+            "change": "-0.2%"
         },
         {
             "symbol": "AMD",
             "price": 213.57,
-            "change": "+2.52%"
+            "change": "-0.06%"
         },
         {
             "symbol": "MSFT",
             "price": 413.27,
-            "change": "+2.92%"
+            "change": "+0.83%"
         },
         {
             "symbol": "CEG",
             "price": 271.14,
-            "change": "+0.94%"
+            "change": "+2.5%"
         },
         {
             "symbol": "VST",
             "price": 159.6,
-            "change": "-1.61%"
+            "change": "+1.5%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.69,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.52,
             0.52,
-            0.52,
-            0.53,
-            0.52,
             0.51,
             0.51,
             0.51,
             0.5,
             0.5,
+            0.51,
             0.5,
-            0.5
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            23.62,
-            23.78,
-            24.12,
-            24.14,
-            24.01,
-            24.16,
-            23.96,
-            23.78,
-            24.02,
-            24.41,
-            24.42,
-            24.72
+            23.88,
+            23.99,
+            24.26,
+            24.59,
+            24.37,
+            24.06,
+            24.25,
+            24.61,
+            25.02,
+            25.22,
+            25.4,
+            25.35
         ],
         "hsd_history_software": [
-            10.41,
-            10.33,
-            10.32,
-            10.42,
-            10.25,
-            10.42,
-            10.34,
-            10.47,
-            10.49,
-            10.3,
-            10.32,
-            10.16
+            9.2,
+            9.28,
+            9.46,
+            9.56,
+            9.71,
+            9.89,
+            9.82,
+            9.9,
+            10.05,
+            10.06,
+            9.95,
+            10.02
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:27",
+            "time": "09:57",
             "tag": "MERCADO",
-            "text": "J.Safra Asset Management Corp Has $11.24 Million Stake in Microsoft Corporation $MSFT"
+            "text": "Unity Software chief accounting officer to retire in June"
         },
         {
-            "time": "09:08",
+            "time": "09:54",
             "tag": "MERCADO",
-            "text": "Amalgamated Bank Acquires 1,643 Shares of Microsoft Corporation $MSFT"
+            "text": "First National Trust Co Sells 6,092 Shares of Adobe Inc. $ADBE"
         },
         {
-            "time": "09:06",
+            "time": "09:44",
             "tag": "MERCADO",
-            "text": "Data centre investments drive Blackstone record assets"
+            "text": "HORAN Wealth LLC Has $1.78 Million Stake in Alphabet Inc. $GOOG"
         },
         {
-            "time": "09:01",
-            "tag": "RESULTADOS",
-            "text": "Analog Devices (ADI) Expected to Announce Earnings on Wednesday"
+            "time": "09:44",
+            "tag": "MERCADO",
+            "text": "AMETEK, Inc. $AME Stock Holdings Reduced by Envestnet Asset Management Inc."
         },
         {
-            "time": "08:58",
-            "tag": "AI",
-            "text": "SKT 6G Tech Team Prepares for Next-Gen Telecom Shaped by AI \u2013 SK telecom newsroom"
+            "time": "09:42",
+            "tag": "MERCADO",
+            "text": "Alphabet Inc. $GOOG Stock Holdings Cut by Bessemer Group Inc."
         }
     ]
 }
