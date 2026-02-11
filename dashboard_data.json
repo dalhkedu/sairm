@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-11 13:18 UTC",
+        "last_updated": "2026-02-11 14:56 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 188.54,
-            "change": "-0.43%"
+            "price": 191.73,
+            "change": "+0.82%"
         },
         {
             "symbol": "AMD",
-            "price": 213.57,
-            "change": "-0.35%"
+            "price": 216.66,
+            "change": "-2.08%"
         },
         {
             "symbol": "MSFT",
-            "price": 413.27,
-            "change": "+2.15%"
+            "price": 406.98,
+            "change": "-2.87%"
         },
         {
             "symbol": "CEG",
-            "price": 271.14,
-            "change": "+0.27%"
+            "price": 272.95,
+            "change": "+2.57%"
         },
         {
             "symbol": "VST",
-            "price": 159.6,
-            "change": "+0.04%"
+            "price": 163.0,
+            "change": "-0.57%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.4,
+        "cer_current": 0.64,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.5,
+            0.53,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
             0.5,
             0.51,
             0.5,
-            0.49,
             0.5,
-            0.51,
-            0.51,
             0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.73,
-            25.58,
-            25.62,
-            25.79,
-            26.21,
-            25.74,
-            25.96,
-            25.93,
-            25.61,
-            25.57,
-            25.23,
-            25.1
+            24.95,
+            24.78,
+            24.98,
+            25.08,
+            25.06,
+            24.81,
+            25.07,
+            25.43,
+            25.06,
+            25.1,
+            25.53,
+            25.31
         ],
         "hsd_history_software": [
-            10.25,
-            10.09,
-            9.9,
-            9.76,
-            9.88,
-            10.05,
-            9.9,
-            9.73,
-            9.66,
-            9.63,
-            9.77,
-            9.94
+            10.63,
+            10.57,
+            10.53,
+            10.48,
+            10.3,
+            10.48,
+            10.48,
+            10.67,
+            10.48,
+            10.33,
+            10.23,
+            10.06
         ],
         "rci_data": [
             85.0,
-            18.854
+            19.173
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:27",
-            "tag": "MERCADO",
-            "text": "Cricut to Announce Fourth Quarter 2025 Financial Results on March 3, 2026"
+            "time": "13:58",
+            "tag": "AI",
+            "text": "ACCESS Newswire Launches ACCESS Verified(TM), an AI-Driven Verification and Distribution Enhancement Delivering Industry-Leading Speed and Accuracy"
         },
         {
-            "time": "12:19",
+            "time": "13:54",
             "tag": "MERCADO",
-            "text": "What's Going On With Qualcomm Stock Wednesday?"
+            "text": "T-Mobile stock slumps after tepid forecast, lower postpaid phone net adds in Q4 (TMUS:NASDAQ)"
         },
         {
-            "time": "12:15",
-            "tag": "MERCADO",
-            "text": "Arista Networks, Inc. $ANET Shares Sold by SVB Wealth LLC"
+            "time": "13:50",
+            "tag": "RESULTADOS",
+            "text": "5 Must-Read Analyst Questions From Align Technology's Q4 Earnings Call"
         },
         {
-            "time": "12:13",
+            "time": "13:50",
             "tag": "MERCADO",
-            "text": "Midwest Trust Co Lowers Stake in Synopsys, Inc. $SNPS"
+            "text": "CyberArk Completes Merger Into Palo Alto Networks and Prepares Nasdaq Delisting"
         },
         {
-            "time": "12:12",
+            "time": "13:45",
             "tag": "MERCADO",
-            "text": "Versor Investments LP Invests $963,000 in Microchip Technology Incorporated $MCHP"
+            "text": "RBC Cuts Price Target on Autodesk to $340 From $380, Keeps Outperform Rating"
         }
     ]
 }
