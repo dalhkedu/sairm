@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-11 16:08 UTC",
+        "last_updated": "2026-02-11 17:58 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 191.05,
-            "change": "+0.59%"
+            "price": 191.87,
+            "change": "+2.33%"
         },
         {
             "symbol": "AMD",
-            "price": 212.73,
-            "change": "+0.26%"
+            "price": 211.24,
+            "change": "-3.14%"
         },
         {
             "symbol": "MSFT",
-            "price": 402.73,
-            "change": "-0.79%"
+            "price": 403.48,
+            "change": "+2.6%"
         },
         {
             "symbol": "CEG",
-            "price": 270.38,
-            "change": "+3.35%"
+            "price": 274.18,
+            "change": "-1.67%"
         },
         {
             "symbol": "VST",
-            "price": 159.41,
-            "change": "+1.36%"
+            "price": 159.79,
+            "change": "+2.95%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.5,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
+            0.52,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
             0.52,
             0.51,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.89,
-            25.66,
-            25.4,
-            25.03,
-            25.53,
-            25.72,
-            25.48,
-            25.92,
-            25.87,
-            25.78,
-            25.49,
-            25.05
+            24.1,
+            24.21,
+            24.32,
+            24.35,
+            24.49,
+            24.52,
+            24.13,
+            24.26,
+            24.28,
+            24.57,
+            24.15,
+            24.54
         ],
         "hsd_history_software": [
-            10.66,
-            10.75,
-            10.7,
-            10.72,
-            10.51,
-            10.64,
-            10.76,
-            10.8,
-            10.61,
-            10.41,
-            10.32,
-            10.15
+            10.04,
+            10.19,
+            10.0,
+            9.95,
+            9.79,
+            9.95,
+            9.93,
+            10.1,
+            10.22,
+            10.21,
+            10.01,
+            10.04
         ],
         "rci_data": [
             85.0,
-            19.105
+            19.187
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:25",
+            "time": "16:57",
             "tag": "MERCADO",
-            "text": "Palo Alto acquires CyberArk. A new leader in cybersecurity!"
+            "text": "iQIYI Reaches New Heights: 880 Invention Patents Filed in 2025"
         },
         {
-            "time": "15:23",
+            "time": "16:41",
+            "tag": "MERCADO",
+            "text": "TER stock: Teradyne (TER) NASDAQ intraday at $310.01 on 11 Feb 2026 \u2014 what to watch next"
+        },
+        {
+            "time": "16:27",
+            "tag": "MERCADO",
+            "text": "Bad Bunny\u2019s Apple Music Super Bowl LX Halftime Show sees 39% household viewership drop vs. last year, Samba TV data shows"
+        },
+        {
+            "time": "16:22",
+            "tag": "MERCADO",
+            "text": "Thermo Fisher Scientific Expands Real-World Data Interoperability and Linkage Through Strategic Collaboration with Datavant"
+        },
+        {
+            "time": "16:18",
             "tag": "AI",
-            "text": "AI Power Crunch: Why Bloom Energy Is the Hidden Winner"
-        },
-        {
-            "time": "15:19",
-            "tag": "MERCADO",
-            "text": "Autodesk stock hits 52-week low at $232.47 By Investing.com"
-        },
-        {
-            "time": "15:19",
-            "tag": "MERCADO",
-            "text": "Texas Instruments stock hits all-time high at $228.87 By Investing.com"
-        },
-        {
-            "time": "15:13",
-            "tag": "MERCADO",
-            "text": "Intuit stock hits 52-week low at $410.59 By Investing.com"
+            "text": "Williams-Sonoma (WSM) Joins OpenAI Ad Pilot Program to Test ChatGPT Ads"
         }
     ]
 }
