@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-11 21:36 UTC",
+        "last_updated": "2026-02-11 22:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 190.05,
-            "change": "+2.22%"
+            "change": "-1.85%"
         },
         {
             "symbol": "AMD",
             "price": 213.58,
-            "change": "-0.67%"
+            "change": "+1.54%"
         },
         {
             "symbol": "MSFT",
             "price": 404.37,
-            "change": "+1.06%"
+            "change": "-3.01%"
         },
         {
             "symbol": "CEG",
             "price": 276.85,
-            "change": "-1.54%"
+            "change": "+3.08%"
         },
         {
             "symbol": "VST",
             "price": 160.15,
-            "change": "-3.14%"
+            "change": "+2.09%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.48,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.52,
-            0.53,
-            0.53,
-            0.52,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
             0.51,
             0.51,
-            0.51
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.78,
-            24.39,
-            24.33,
-            24.46,
-            24.68,
-            25.16,
-            24.67,
-            25.16,
-            24.95,
-            24.46,
-            24.85,
-            25.2
+            25.71,
+            26.19,
+            25.89,
+            25.72,
+            25.99,
+            25.53,
+            25.4,
+            25.02,
+            25.01,
+            24.83,
+            25.32,
+            25.11
         ],
         "hsd_history_software": [
-            10.77,
-            10.83,
-            10.67,
-            10.86,
-            10.66,
-            10.72,
-            10.55,
-            10.53,
-            10.41,
-            10.25,
-            10.25,
-            10.18
+            10.12,
+            9.93,
+            9.76,
+            9.87,
+            9.93,
+            9.81,
+            9.91,
+            9.97,
+            9.98,
+            10.02,
+            10.02,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:49",
-            "tag": "AI",
-            "text": "Should AI-Driven Tax Tools Reshape Investors\u2019 View of Raymond James Financial\u2019s (RJF) Advisor-Centric Model?"
+            "time": "21:50",
+            "tag": "RESULTADOS",
+            "text": "Paycom: Q4 Earnings Snapshot"
         },
         {
-            "time": "20:47",
+            "time": "21:48",
             "tag": "MERCADO",
-            "text": "Fortive (NYSE:FTV) Price Target Raised to $63.00"
+            "text": "Corning (NYSE:GLW) EVP Sells $2,000,960.52 in Stock"
         },
         {
-            "time": "20:43",
+            "time": "21:46",
             "tag": "MERCADO",
-            "text": "TE Connectivity stock today: TEL edges up after $750 million notes deal, with CPI next"
+            "text": "Starlink is coming to Southwest, promising faster in-flight WiFi"
         },
         {
-            "time": "20:32",
-            "tag": "MERCADO",
-            "text": "PayPal: What\u2019s next after its Q4 earnings crash and CEO transition? (PYPL:NASDAQ)"
+            "time": "21:46",
+            "tag": "RESULTADOS",
+            "text": "Arista Networks (ANET) Valuation Check As AI Networking Growth And Earnings Outlook Draw Investor Attention"
         },
         {
-            "time": "20:28",
+            "time": "21:45",
             "tag": "MERCADO",
-            "text": "5 changes coming to Coca-Cola in 2026"
+            "text": "Equinix stock surges amid exceptionally strong guidance after Q4 miss (EQIX:NASDAQ)"
         }
     ]
 }
