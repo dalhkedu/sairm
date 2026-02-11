@@ -1,45 +1,44 @@
 {
     "metadata": {
-        "last_updated": "2026-02-11 14:56 UTC",
+        "last_updated": "2026-02-11 16:08 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 191.73,
-            "change": "+0.82%"
+            "price": 191.05,
+            "change": "+0.59%"
         },
         {
             "symbol": "AMD",
-            "price": 216.66,
-            "change": "-2.08%"
+            "price": 212.73,
+            "change": "+0.26%"
         },
         {
             "symbol": "MSFT",
-            "price": 406.98,
-            "change": "-2.87%"
+            "price": 402.73,
+            "change": "-0.79%"
         },
         {
             "symbol": "CEG",
-            "price": 272.95,
-            "change": "+2.57%"
+            "price": 270.38,
+            "change": "+3.35%"
         },
         {
             "symbol": "VST",
-            "price": 163.0,
-            "change": "-0.57%"
+            "price": 159.41,
+            "change": "+1.36%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.52,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
+            0.51,
+            0.51,
             0.52,
-            0.52,
-            0.51,
             0.51,
             0.5,
             0.51,
@@ -47,39 +46,40 @@
             0.5,
             0.5,
             0.5,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.95,
-            24.78,
-            24.98,
-            25.08,
-            25.06,
-            24.81,
-            25.07,
-            25.43,
-            25.06,
-            25.1,
+            25.89,
+            25.66,
+            25.4,
+            25.03,
             25.53,
-            25.31
+            25.72,
+            25.48,
+            25.92,
+            25.87,
+            25.78,
+            25.49,
+            25.05
         ],
         "hsd_history_software": [
-            10.63,
-            10.57,
-            10.53,
-            10.48,
-            10.3,
-            10.48,
-            10.48,
-            10.67,
-            10.48,
-            10.33,
-            10.23,
-            10.06
+            10.66,
+            10.75,
+            10.7,
+            10.72,
+            10.51,
+            10.64,
+            10.76,
+            10.8,
+            10.61,
+            10.41,
+            10.32,
+            10.15
         ],
         "rci_data": [
             85.0,
-            19.173
+            19.105
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:58",
+            "time": "15:25",
+            "tag": "MERCADO",
+            "text": "Palo Alto acquires CyberArk. A new leader in cybersecurity!"
+        },
+        {
+            "time": "15:23",
             "tag": "AI",
-            "text": "ACCESS Newswire Launches ACCESS Verified(TM), an AI-Driven Verification and Distribution Enhancement Delivering Industry-Leading Speed and Accuracy"
+            "text": "AI Power Crunch: Why Bloom Energy Is the Hidden Winner"
         },
         {
-            "time": "13:54",
+            "time": "15:19",
             "tag": "MERCADO",
-            "text": "T-Mobile stock slumps after tepid forecast, lower postpaid phone net adds in Q4 (TMUS:NASDAQ)"
+            "text": "Autodesk stock hits 52-week low at $232.47 By Investing.com"
         },
         {
-            "time": "13:50",
-            "tag": "RESULTADOS",
-            "text": "5 Must-Read Analyst Questions From Align Technology's Q4 Earnings Call"
-        },
-        {
-            "time": "13:50",
+            "time": "15:19",
             "tag": "MERCADO",
-            "text": "CyberArk Completes Merger Into Palo Alto Networks and Prepares Nasdaq Delisting"
+            "text": "Texas Instruments stock hits all-time high at $228.87 By Investing.com"
         },
         {
-            "time": "13:45",
+            "time": "15:13",
             "tag": "MERCADO",
-            "text": "RBC Cuts Price Target on Autodesk to $340 From $380, Keeps Outperform Rating"
+            "text": "Intuit stock hits 52-week low at $410.59 By Investing.com"
         }
     ]
 }
