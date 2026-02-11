@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-11 10:57 UTC",
+        "last_updated": "2026-02-11 11:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 188.54,
-            "change": "-0.2%"
+            "change": "+0.78%"
         },
         {
             "symbol": "AMD",
             "price": 213.57,
-            "change": "-0.06%"
+            "change": "-0.19%"
         },
         {
             "symbol": "MSFT",
             "price": 413.27,
-            "change": "+0.83%"
+            "change": "-2.63%"
         },
         {
             "symbol": "CEG",
             "price": 271.14,
-            "change": "+2.5%"
+            "change": "+3.07%"
         },
         {
             "symbol": "VST",
             "price": 159.6,
-            "change": "+1.5%"
+            "change": "+1.52%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.45,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
             0.51,
             0.51,
             0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.5,
             0.5,
             0.51,
             0.5,
-            0.5,
-            0.5,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            23.88,
-            23.99,
-            24.26,
-            24.59,
-            24.37,
-            24.06,
-            24.25,
-            24.61,
-            25.02,
+            25.68,
             25.22,
-            25.4,
-            25.35
+            25.19,
+            25.49,
+            25.19,
+            25.45,
+            25.09,
+            25.22,
+            25.38,
+            25.02,
+            24.74,
+            25.09
         ],
         "hsd_history_software": [
-            9.2,
-            9.28,
-            9.46,
-            9.56,
-            9.71,
-            9.89,
-            9.82,
-            9.9,
-            10.05,
-            10.06,
-            9.95,
-            10.02
+            9.98,
+            10.04,
+            10.12,
+            9.93,
+            9.86,
+            9.84,
+            9.93,
+            10.12,
+            9.94,
+            10.1,
+            9.92,
+            9.93
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:57",
+            "time": "11:18",
             "tag": "MERCADO",
-            "text": "Unity Software chief accounting officer to retire in June"
+            "text": "Exclusive: RTX downs drone swarms at Army trials"
         },
         {
-            "time": "09:54",
+            "time": "11:08",
             "tag": "MERCADO",
-            "text": "First National Trust Co Sells 6,092 Shares of Adobe Inc. $ADBE"
+            "text": "Arete Research Adjusts Price Target on Uber Technologies to $120 From $125, Maintains Buy Rating"
         },
         {
-            "time": "09:44",
+            "time": "11:07",
             "tag": "MERCADO",
-            "text": "HORAN Wealth LLC Has $1.78 Million Stake in Alphabet Inc. $GOOG"
+            "text": "Honeywell spinoff Solstice sees 2026 profit below estimate as margins remain under pressure"
         },
         {
-            "time": "09:44",
-            "tag": "MERCADO",
-            "text": "AMETEK, Inc. $AME Stock Holdings Reduced by Envestnet Asset Management Inc."
+            "time": "11:06",
+            "tag": "AI",
+            "text": "Synopsys to Present AI-Enabled Engineering Capabilities at India AI Impact Summit 2026"
         },
         {
-            "time": "09:42",
-            "tag": "MERCADO",
-            "text": "Alphabet Inc. $GOOG Stock Holdings Cut by Bessemer Group Inc."
+            "time": "10:57",
+            "tag": "AI",
+            "text": "This AI Autonomous Driving Firm Joins MSCI China Index \u2014What\u2019s On The Cards?"
         }
     ]
 }
