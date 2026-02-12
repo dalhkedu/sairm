@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-12 20:42 UTC",
+        "last_updated": "2026-02-12 21:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 187.55,
-            "change": "+1.67%"
+            "price": 186.94,
+            "change": "-2.32%"
         },
         {
             "symbol": "AMD",
-            "price": 206.98,
-            "change": "-0.16%"
+            "price": 205.94,
+            "change": "-0.14%"
         },
         {
             "symbol": "MSFT",
-            "price": 403.05,
-            "change": "+1.8%"
+            "price": 401.84,
+            "change": "-2.71%"
         },
         {
             "symbol": "CEG",
-            "price": 276.1,
-            "change": "-1.2%"
+            "price": 276.12,
+            "change": "+0.9%"
         },
         {
             "symbol": "VST",
-            "price": 163.96,
-            "change": "-1.61%"
+            "price": 163.1,
+            "change": "+2.28%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.68,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.38,
-            24.42,
-            24.18,
-            23.75,
-            23.91,
-            23.68,
-            23.59,
-            23.98,
-            24.15,
-            24.38,
-            24.42,
-            24.62
+            24.0,
+            24.32,
+            24.48,
+            24.51,
+            24.74,
+            25.15,
+            25.08,
+            25.2,
+            24.95,
+            24.89,
+            25.28,
+            25.15
         ],
         "hsd_history_software": [
-            10.07,
-            10.06,
-            10.01,
-            9.88,
-            9.74,
-            9.81,
-            10.01,
-            10.04,
-            9.93,
-            10.1,
-            10.14,
-            10.05
+            10.3,
+            10.29,
+            10.34,
+            10.29,
+            10.31,
+            10.47,
+            10.27,
+            10.11,
+            10.28,
+            10.2,
+            10.29,
+            10.18
         ],
         "rci_data": [
             85.0,
-            18.755000000000003
+            18.694
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:57",
+            "time": "21:07",
+            "tag": "MERCADO",
+            "text": "L3Harris Pitches Red Wolf and OA-1K Skyraider II Integration for Standoff Strike Capability"
+        },
+        {
+            "time": "20:55",
             "tag": "AI",
-            "text": "Infosys, Wipro ADRs slide amid AI fears; US tech wobbles"
+            "text": "AI deployments gone wrong: The fallout and lessons learned"
         },
         {
-            "time": "19:29",
-            "tag": "AI",
-            "text": "Datavault AI Death Cross Collides With IBM, Super Bowl Boost"
-        },
-        {
-            "time": "19:28",
+            "time": "20:55",
             "tag": "MERCADO",
-            "text": "Mariner Has Big Growth Plans. State Street\u2019s Charles River Is Supplying the Tech Platform."
+            "text": "GE HealthCare Installs Allia Moveo at USF Center for Simulation Training"
         },
         {
-            "time": "19:09",
+            "time": "20:53",
             "tag": "MERCADO",
-            "text": "Disney to pay $2.75 million to settle alleged violations of the California Consumer Privacy Act"
+            "text": "How CIOs can tackle subscription sprawl and costs"
         },
         {
-            "time": "19:05",
+            "time": "20:01",
             "tag": "MERCADO",
-            "text": "Motorola Solutions Surges with Record Financial Performance and Strategic Moves"
+            "text": "Sallie Mae Names Tech Veteran Steve Turner to Top Role"
         }
     ]
 }
