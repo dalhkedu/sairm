@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-12 11:42 UTC",
+        "last_updated": "2026-02-12 13:15 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 190.05,
-            "change": "-0.93%"
+            "change": "+0.71%"
         },
         {
             "symbol": "AMD",
             "price": 213.58,
-            "change": "-2.16%"
+            "change": "-2.61%"
         },
         {
             "symbol": "MSFT",
             "price": 404.37,
-            "change": "-0.08%"
+            "change": "+0.38%"
         },
         {
             "symbol": "CEG",
             "price": 276.85,
-            "change": "+2.53%"
+            "change": "-1.28%"
         },
         {
             "symbol": "VST",
             "price": 160.15,
-            "change": "-1.48%"
+            "change": "+1.87%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.61,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
             0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.49,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            25.66,
-            26.16,
-            26.23,
-            26.37,
-            26.56,
-            26.3,
-            26.02,
-            25.61,
-            25.13,
-            24.88,
-            24.59,
-            24.94
+            24.18,
+            24.15,
+            24.54,
+            24.69,
+            24.38,
+            24.16,
+            24.37,
+            24.83,
+            24.77,
+            24.94,
+            24.47,
+            24.74
         ],
         "hsd_history_software": [
-            10.77,
-            10.77,
-            10.62,
-            10.54,
-            10.49,
-            10.42,
-            10.34,
-            10.17,
-            10.21,
-            10.07,
-            9.92,
-            10.12
+            9.32,
+            9.45,
+            9.41,
+            9.46,
+            9.59,
+            9.71,
+            9.79,
+            9.91,
+            9.72,
+            9.69,
+            9.71,
+            9.83
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:58",
-            "tag": "AI",
-            "text": "Aehr Test Systems Secures AI Chip Order"
-        },
-        {
-            "time": "10:54",
+            "time": "12:57",
             "tag": "MERCADO",
-            "text": "Connable Office Inc. Makes New Investment in Analog Devices, Inc. $ADI"
+            "text": "VSEE - VSee Health, Inc. Latest Stock News & Market Updates"
         },
         {
-            "time": "10:52",
+            "time": "12:24",
             "tag": "MERCADO",
-            "text": "Locust Wood Capital Advisers LLC Decreases Stock Position in NVIDIA Corporation $NVDA"
+            "text": "GlobalFoundries price target raised to $50 from $40 at Wedbush"
         },
         {
-            "time": "10:52",
+            "time": "12:22",
             "tag": "MERCADO",
-            "text": "Microsoft Corporation $MSFT Shares Purchased by Tradewinds LLC."
+            "text": "Iron Mountain Q4 earnings beat, with growth businesses setting stage for strong 2026 (IRM:NYSE)"
         },
         {
-            "time": "10:51",
-            "tag": "RESULTADOS",
-            "text": "5 Insightful Analyst Questions From Viasat\u2019s Q4 Earnings Call"
+            "time": "12:19",
+            "tag": "MERCADO",
+            "text": "BorgWarner (BWA) Climbs to All-Time High as Firm Clinches Multiple Deals"
+        },
+        {
+            "time": "12:16",
+            "tag": "MERCADO",
+            "text": "BMO Capital Maintains an Outperform Rating on Intuit Inc. (INTU)"
         }
     ]
 }
