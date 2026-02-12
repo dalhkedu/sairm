@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-12 15:56 UTC",
+        "last_updated": "2026-02-12 17:05 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 189.41,
-            "change": "+0.12%"
+            "price": 189.63,
+            "change": "-0.63%"
         },
         {
             "symbol": "AMD",
-            "price": 210.29,
-            "change": "+2.07%"
+            "price": 207.74,
+            "change": "+2.04%"
         },
         {
             "symbol": "MSFT",
-            "price": 400.37,
-            "change": "+0.03%"
+            "price": 401.1,
+            "change": "+1.96%"
         },
         {
             "symbol": "CEG",
-            "price": 278.21,
-            "change": "-1.16%"
+            "price": 272.97,
+            "change": "+2.81%"
         },
         {
             "symbol": "VST",
-            "price": 164.43,
-            "change": "+2.0%"
+            "price": 161.4,
+            "change": "-2.27%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.49,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
+            0.5,
+            0.5,
             0.5,
             0.5,
             0.49,
             0.5,
-            0.49
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.63,
-            25.23,
-            25.6,
-            25.72,
-            25.38,
-            25.27,
-            25.32,
-            25.11,
-            24.96,
-            24.86,
-            25.3,
-            25.13
+            24.75,
+            24.67,
+            24.56,
+            24.87,
+            25.06,
+            25.4,
+            25.22,
+            25.41,
+            25.36,
+            24.92,
+            24.95,
+            25.2
         ],
         "hsd_history_software": [
-            10.16,
-            10.3,
-            10.21,
-            10.19,
-            10.36,
-            10.44,
-            10.54,
-            10.46,
-            10.26,
-            10.15,
-            10.1,
-            10.05
+            9.16,
+            9.27,
+            9.37,
+            9.23,
+            9.37,
+            9.27,
+            9.46,
+            9.31,
+            9.46,
+            9.53,
+            9.65,
+            9.8
         ],
         "rci_data": [
             85.0,
-            18.941
+            18.963
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:14",
+            "time": "16:28",
             "tag": "MERCADO",
-            "text": "Stephens Keeps an Equal Weight Rating on Global Payments Inc. (GPN)"
+            "text": "Intercont (Cayman) Limited 2026 Strategic Plan Release - Anchoring the Core Shipping Business, Multi-Sector Synergy Opens New Growth Trajectories"
         },
         {
-            "time": "15:05",
+            "time": "16:24",
             "tag": "MERCADO",
-            "text": "Globant SA stock hits 52-week low at 54.13 USD"
+            "text": "FICO stock hits 52-week low at 1284.03 USD"
         },
         {
-            "time": "14:48",
+            "time": "16:11",
             "tag": "MERCADO",
-            "text": "Western Digital stock hits all-time high at 297.8 USD By Investing.com"
+            "text": "DA Davidson Adjusts Price Target on Akamai Technologies to $125 From $115, Maintains Buy Rating"
         },
         {
-            "time": "14:47",
+            "time": "16:07",
             "tag": "MERCADO",
-            "text": "NXP Semiconductors stock hits 52-week high at 256.36 USD By Investing.com"
+            "text": "Renaissance Loads Up on Netflix, Lam Research, ServiceNow \u2014 Smart Money Signals Shift"
         },
         {
-            "time": "14:46",
-            "tag": "MERCADO",
-            "text": "2 Reasons Qualcomm's Risk/Reward Is Now Red Hot"
+            "time": "16:07",
+            "tag": "RESULTADOS",
+            "text": "Akamai Technologies (AKAM) Earnings Expected to Grow: Should You Buy?"
         }
     ]
 }
