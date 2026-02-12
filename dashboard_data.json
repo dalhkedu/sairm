@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-12 21:37 UTC",
+        "last_updated": "2026-02-12 22:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 186.94,
-            "change": "-2.32%"
+            "change": "-0.27%"
         },
         {
             "symbol": "AMD",
             "price": 205.94,
-            "change": "-0.14%"
+            "change": "-2.92%"
         },
         {
             "symbol": "MSFT",
             "price": 401.84,
-            "change": "-2.71%"
+            "change": "-0.23%"
         },
         {
             "symbol": "CEG",
             "price": 276.12,
-            "change": "+0.9%"
+            "change": "-0.86%"
         },
         {
             "symbol": "VST",
             "price": 163.1,
-            "change": "+2.28%"
+            "change": "+2.98%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.62,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.48,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
             0.5,
-            0.5,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            24.0,
-            24.32,
-            24.48,
-            24.51,
-            24.74,
-            25.15,
+            25.02,
+            24.76,
+            24.85,
+            25.21,
+            25.43,
+            25.43,
             25.08,
-            25.2,
-            24.95,
-            24.89,
-            25.28,
-            25.15
+            25.3,
+            25.12,
+            25.35,
+            24.92,
+            25.33
         ],
         "hsd_history_software": [
-            10.3,
-            10.29,
-            10.34,
-            10.29,
-            10.31,
-            10.47,
-            10.27,
-            10.11,
-            10.28,
+            10.48,
+            10.35,
+            10.16,
+            10.16,
+            10.06,
+            9.94,
+            10.04,
+            10.21,
+            10.33,
             10.2,
-            10.29,
-            10.18
+            10.01,
+            10.2
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:07",
+            "time": "21:47",
             "tag": "MERCADO",
-            "text": "L3Harris Pitches Red Wolf and OA-1K Skyraider II Integration for Standoff Strike Capability"
+            "text": "Expedia (NASDAQ:EXPE) Beats Expectations in Strong Q4 CY2025"
         },
         {
-            "time": "20:55",
-            "tag": "AI",
-            "text": "AI deployments gone wrong: The fallout and lessons learned"
+            "time": "21:44",
+            "tag": "RESULTADOS",
+            "text": "Arista Networks: Q4 Earnings Snapshot"
         },
         {
-            "time": "20:55",
+            "time": "21:39",
             "tag": "MERCADO",
-            "text": "GE HealthCare Installs Allia Moveo at USF Center for Simulation Training"
+            "text": "(SPSC) SPS Commerce, Inc. Expects Q1 Revenue Range $191.6M - $193.6M"
         },
         {
-            "time": "20:53",
+            "time": "21:39",
             "tag": "MERCADO",
-            "text": "How CIOs can tackle subscription sprawl and costs"
+            "text": "Gartner Predicts 50% Of Orgs Will Adopt Zero-Trust Data Governance by 2028"
         },
         {
-            "time": "20:01",
+            "time": "21:36",
             "tag": "MERCADO",
-            "text": "Sallie Mae Names Tech Veteran Steve Turner to Top Role"
+            "text": "Dexcom beats Street in Q4 on 13% sales growth"
         }
     ]
 }
