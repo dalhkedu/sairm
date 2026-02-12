@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-12 02:34 UTC",
+        "last_updated": "2026-02-12 05:01 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 190.05,
-            "change": "+1.54%"
+            "change": "-2.31%"
         },
         {
             "symbol": "AMD",
             "price": 213.58,
-            "change": "+2.44%"
+            "change": "+1.13%"
         },
         {
             "symbol": "MSFT",
             "price": 404.37,
-            "change": "+0.13%"
+            "change": "+1.03%"
         },
         {
             "symbol": "CEG",
             "price": 276.85,
-            "change": "+0.82%"
+            "change": "-3.32%"
         },
         {
             "symbol": "VST",
             "price": 160.15,
-            "change": "+2.3%"
+            "change": "-0.91%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.68,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.52,
             0.51,
             0.5,
-            0.5,
             0.49,
-            0.5,
             0.49,
-            0.5
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.16,
-            26.35,
-            26.47,
-            26.27,
-            26.28,
-            26.09,
-            25.73,
-            25.4,
-            25.24,
-            25.4,
-            25.58,
-            25.41
+            25.28,
+            25.43,
+            25.37,
+            25.26,
+            25.65,
+            25.53,
+            25.65,
+            25.83,
+            25.82,
+            25.69,
+            25.71,
+            25.42
         ],
         "hsd_history_software": [
-            9.47,
+            9.68,
+            9.82,
+            9.64,
+            9.75,
+            9.73,
+            9.57,
+            9.43,
+            9.51,
             9.6,
-            9.6,
-            9.47,
-            9.39,
-            9.54,
-            9.6,
-            9.61,
-            9.72,
-            9.6,
-            9.79,
-            9.81
+            9.56,
+            9.62,
+            9.8
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:24",
+            "time": "04:10",
             "tag": "MERCADO",
-            "text": "U.S. review ends over China shipments as Applied Materials pays $252.5M"
+            "text": "Coforge, Infosys, TCS, LTIM \u2014 All IT Stocks Tank, Bringing Year-To-Date Loss To 12%"
         },
         {
-            "time": "02:17",
+            "time": "03:42",
             "tag": "MERCADO",
-            "text": "Insider Sell: Victor Lee Sells Shares of Monolithic Power Systems Inc"
+            "text": "SCS Capital Management Cuts Amazon.com Stake Under Abbiati"
         },
         {
-            "time": "02:15",
-            "tag": "MERCADO",
-            "text": "Applied Materials to pay $252 million to resolve illegal chip exports, US says"
+            "time": "03:37",
+            "tag": "AI",
+            "text": "Caterpillar stock hits record high as AI data center boom supercharges turbine sales"
         },
         {
-            "time": "01:49",
+            "time": "03:36",
             "tag": "MERCADO",
-            "text": "Applied Materials to pay $252 million to resolve illegal chip exports, US says By Reuters"
+            "text": "ZoomInfo Technologies Stock Under Pressure in February: Here\u2019s the Path to $12 by Year-End"
         },
         {
-            "time": "01:38",
+            "time": "03:30",
             "tag": "MERCADO",
-            "text": "Revvity Unveils SLAS2026 Platforms As Valuation Gap Attracts Attention"
+            "text": "SCS Capital Management trims Nvidia Corporation stake by 3,092 shares"
         }
     ]
 }
