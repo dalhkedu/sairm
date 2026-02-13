@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-13 16:53 UTC",
+        "last_updated": "2026-02-13 17:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 183.63,
-            "change": "-2.84%"
+            "price": 184.67,
+            "change": "+2.81%"
         },
         {
             "symbol": "AMD",
-            "price": 207.24,
-            "change": "-2.2%"
+            "price": 209.03,
+            "change": "+0.01%"
         },
         {
             "symbol": "MSFT",
-            "price": 401.96,
-            "change": "+0.32%"
+            "price": 403.79,
+            "change": "+3.19%"
         },
         {
             "symbol": "CEG",
-            "price": 290.06,
-            "change": "+1.91%"
+            "price": 291.11,
+            "change": "+1.68%"
         },
         {
             "symbol": "VST",
-            "price": 170.26,
-            "change": "-1.35%"
+            "price": 170.21,
+            "change": "+0.14%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.48,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
+            0.49,
+            0.49,
+            0.49,
             0.49,
             0.5,
+            0.49,
+            0.49,
             0.5,
-            0.5,
+            0.51,
+            0.51,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.2,
-            23.93,
-            23.47,
-            23.57,
-            23.82,
-            24.08,
-            24.08,
-            24.28,
-            24.28,
-            24.55,
-            24.19,
-            24.64
+            24.15,
+            24.06,
+            23.9,
+            24.01,
+            24.11,
+            24.1,
+            24.01,
+            24.14,
+            24.54,
+            24.97,
+            24.97,
+            24.5
         ],
         "hsd_history_software": [
-            9.35,
-            9.53,
-            9.62,
+            9.91,
+            9.82,
+            9.89,
+            9.86,
+            9.94,
+            9.91,
             9.78,
-            9.71,
-            9.59,
-            9.47,
-            9.57,
-            9.69,
-            9.87,
-            9.68,
-            9.87
+            9.83,
+            9.91,
+            9.97,
+            9.99,
+            10.12
         ],
         "rci_data": [
             85.0,
-            18.363
+            18.467
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:54",
+            "time": "16:23",
             "tag": "MERCADO",
-            "text": "Halliburton launches XTR CS injection system for CCUS and CO\u2082 injection wells"
+            "text": "Horizon Kinetics buys Texas Pacific Land (TPL) share worth $413"
         },
         {
-            "time": "15:39",
+            "time": "16:05",
             "tag": "MERCADO",
-            "text": "Amazon's Lost Puppy Super Bowl Commercial Backfires: 'Get This Creepy Technology Away From Our Homes'"
+            "text": "Wells Fargo & Company Forecasts Strong Price Appreciation for Roku (NASDAQ:ROKU) Stock"
         },
         {
-            "time": "15:32",
+            "time": "16:05",
             "tag": "MERCADO",
-            "text": "FedEx Enters Hedera Network Council With Eye on Supply Chain Transformation"
+            "text": "Tyler Technologies (NYSE:TYL) Price Target Lowered to $335.00 at Wells Fargo & Company"
         },
         {
-            "time": "15:32",
+            "time": "16:02",
             "tag": "MERCADO",
-            "text": "FedEx Enters Hedera Network Council With Eye on Supply Chain Transformation"
+            "text": "Corning Options Trading: A Deep Dive into Market Sentiment"
         },
         {
-            "time": "15:31",
+            "time": "15:56",
             "tag": "MERCADO",
-            "text": "Ex-Dividend Reminder: KLAC, Jabil and Wabtec"
+            "text": "Oppenheimer Lowers Tyler Technologies (TYL) Price Target to $450"
         }
     ]
 }
