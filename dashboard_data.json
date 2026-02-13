@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-12 23:33 UTC",
+        "last_updated": "2026-02-13 02:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 186.94,
-            "change": "-1.53%"
+            "change": "-1.49%"
         },
         {
             "symbol": "AMD",
             "price": 205.94,
-            "change": "-2.27%"
+            "change": "-2.71%"
         },
         {
             "symbol": "MSFT",
             "price": 401.84,
-            "change": "-2.54%"
+            "change": "-2.55%"
         },
         {
             "symbol": "CEG",
             "price": 276.12,
-            "change": "+3.45%"
+            "change": "+1.14%"
         },
         {
             "symbol": "VST",
             "price": 163.1,
-            "change": "+1.06%"
+            "change": "-1.23%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.41,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.5,
             0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.51
+            0.49
         ],
         "hsd_history_hardware": [
-            24.41,
-            24.87,
-            24.41,
-            24.55,
-            24.17,
-            24.64,
-            24.32,
-            24.33,
-            24.44,
-            24.67,
-            25.07,
-            25.24
+            25.6,
+            25.58,
+            25.15,
+            25.17,
+            25.24,
+            25.4,
+            25.82,
+            25.93,
+            25.69,
+            25.51,
+            25.54,
+            25.48
         ],
         "hsd_history_software": [
-            10.78,
-            10.7,
-            10.72,
-            10.55,
-            10.56,
-            10.45,
-            10.43,
-            10.28,
-            10.15,
-            10.01,
-            10.11,
-            10.05
+            9.92,
+            9.94,
+            10.05,
+            10.04,
+            9.87,
+            9.91,
+            9.88,
+            9.91,
+            10.02,
+            10.18,
+            10.14,
+            10.14
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:51",
-            "tag": "AI",
-            "text": "Applied Materials jumps on earnings strength and bullish forecast tied to AI chip boom"
+            "time": "01:58",
+            "tag": "MERCADO",
+            "text": "GB Capital Ltd. Co-Advises on the Acquisition of SVM Machining, Inc."
         },
         {
-            "time": "22:36",
+            "time": "01:49",
             "tag": "MERCADO",
-            "text": "PTC (NASDAQ:PTC) EVP Sells $38,664.00 in Stock"
+            "text": "Richard Mora Sells 1,100 Shares of Enphase Energy (NASDAQ:ENPH) Stock"
         },
         {
-            "time": "22:25",
+            "time": "01:31",
             "tag": "MERCADO",
-            "text": "Google confirms $10B Project Mica in Northland"
+            "text": "Arista Networks\u2019 stock jumps after-hours on another strong earnings and revenue beat"
         },
         {
-            "time": "22:24",
+            "time": "01:28",
             "tag": "MERCADO",
-            "text": "Fair Isaac (NYSE:FICO) Sets New 52-Week Low - Here's What Happened"
+            "text": "Morris Kandinov LLP Investigating Fastly, Inc. (FSLY); Shareholders Encouraged to Contact Firm"
         },
         {
-            "time": "22:14",
+            "time": "01:27",
             "tag": "MERCADO",
-            "text": "Trump's FTC chairman chides Apple boss Tim Cook for content of Apple news feed"
+            "text": "Bill allowing Uber Technologies, Inc. (UBER) and Lyft in Israel receives committee approval"
         }
     ]
 }
