@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-13 07:51 UTC",
+        "last_updated": "2026-02-13 08:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 186.94,
-            "change": "-0.65%"
+            "change": "+0.73%"
         },
         {
             "symbol": "AMD",
             "price": 205.94,
-            "change": "+2.32%"
+            "change": "-0.49%"
         },
         {
             "symbol": "MSFT",
             "price": 401.84,
-            "change": "-1.12%"
+            "change": "+1.96%"
         },
         {
             "symbol": "CEG",
             "price": 276.12,
-            "change": "-1.4%"
+            "change": "+0.23%"
         },
         {
             "symbol": "VST",
             "price": 163.1,
-            "change": "+2.93%"
+            "change": "+0.8%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.49,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.5,
+            0.51,
             0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            26.34,
-            26.11,
-            25.6,
-            25.88,
+            26.35,
+            26.51,
+            26.07,
+            26.05,
+            26.25,
+            26.24,
+            26.14,
+            25.91,
             25.59,
-            25.65,
-            25.84,
-            25.93,
-            25.84,
-            25.84,
-            25.38,
-            25.27
+            25.47,
+            25.09,
+            25.03
         ],
         "hsd_history_software": [
-            10.81,
-            10.62,
-            10.5,
-            10.32,
-            10.37,
-            10.45,
-            10.46,
-            10.43,
-            10.38,
-            10.27,
-            10.15,
-            10.08
+            10.17,
+            10.18,
+            10.31,
+            10.34,
+            10.16,
+            10.12,
+            10.12,
+            10.2,
+            10.18,
+            9.99,
+            9.89,
+            9.86
         ],
         "rci_data": [
             85.0,
@@ -131,24 +131,24 @@
             "text": "Procore Technologies Inc (NYSE:PCOR) Surpasses Q4 Estimates, Stock Jumps on Strong Outlook"
         },
         {
+            "time": "07:08",
+            "tag": "MERCADO",
+            "text": "Analysts Have Conflicting Sentiments on These Technology Companies: Block (XYZ) and MNTN, Inc Class A (MNTN)"
+        },
+        {
+            "time": "07:03",
+            "tag": "MERCADO",
+            "text": "F5, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - FFIV"
+        },
+        {
+            "time": "06:55",
+            "tag": "AI",
+            "text": "State Street's 2026 'grey swan' warning: AI 'fails to scale'"
+        },
+        {
             "time": "06:39",
             "tag": "MERCADO",
             "text": "Equinix (EQIX) Valuation Check After Strong 2025 Results And Confident 2026 Growth Outlook"
-        },
-        {
-            "time": "06:38",
-            "tag": "MERCADO",
-            "text": "Teledyne Marine Showcased Advanced Sonar & Autonomous Tech at SeaSEC Harbour Challenge"
-        },
-        {
-            "time": "06:34",
-            "tag": "MERCADO",
-            "text": "Tesla and the Trillion-Dollar Question"
-        },
-        {
-            "time": "05:45",
-            "tag": "MERCADO",
-            "text": "Decoding Gartner Inc (IT): A Strategic SWOT Insight"
         }
     ]
 }
