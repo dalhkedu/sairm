@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-13 08:49 UTC",
+        "last_updated": "2026-02-13 09:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 186.94,
-            "change": "+0.73%"
+            "change": "-1.82%"
         },
         {
             "symbol": "AMD",
             "price": 205.94,
-            "change": "-0.49%"
+            "change": "-3.08%"
         },
         {
             "symbol": "MSFT",
             "price": 401.84,
-            "change": "+1.96%"
+            "change": "-0.72%"
         },
         {
             "symbol": "CEG",
             "price": 276.12,
-            "change": "+0.23%"
+            "change": "-1.77%"
         },
         {
             "symbol": "VST",
             "price": 163.1,
-            "change": "+0.8%"
+            "change": "-1.34%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.44,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
+            0.5,
             0.5,
             0.51,
             0.5,
-            0.49
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            26.35,
-            26.51,
-            26.07,
-            26.05,
-            26.25,
-            26.24,
-            26.14,
-            25.91,
-            25.59,
-            25.47,
-            25.09,
-            25.03
+            25.26,
+            24.82,
+            24.97,
+            25.31,
+            24.84,
+            24.36,
+            24.81,
+            25.05,
+            24.66,
+            24.97,
+            24.63,
+            24.54
         ],
         "hsd_history_software": [
-            10.17,
-            10.18,
-            10.31,
-            10.34,
-            10.16,
+            10.27,
             10.12,
-            10.12,
-            10.2,
-            10.18,
-            9.99,
-            9.89,
-            9.86
+            10.14,
+            10.03,
+            9.84,
+            10.01,
+            10.01,
+            9.83,
+            9.98,
+            9.96,
+            10.0,
+            9.85
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:27",
+            "time": "08:53",
             "tag": "MERCADO",
-            "text": "Procore Technologies Inc (NYSE:PCOR) Surpasses Q4 Estimates, Stock Jumps on Strong Outlook"
+            "text": "Hartford Investment Management Co. Cuts Stock Holdings in JPMorgan Chase & Co. $JPM"
         },
         {
-            "time": "07:08",
+            "time": "08:53",
             "tag": "MERCADO",
-            "text": "Analysts Have Conflicting Sentiments on These Technology Companies: Block (XYZ) and MNTN, Inc Class A (MNTN)"
+            "text": "Generac Holdings Inc. (NYSE:GNRC) Receives Consensus Rating of \"Moderate Buy\" from Brokerages"
         },
         {
-            "time": "07:03",
+            "time": "08:53",
             "tag": "MERCADO",
-            "text": "F5, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - FFIV"
+            "text": "Fortinet, Inc. $FTNT Shares Sold by Envestnet Asset Management Inc."
         },
         {
-            "time": "06:55",
-            "tag": "AI",
-            "text": "State Street's 2026 'grey swan' warning: AI 'fails to scale'"
+            "time": "08:51",
+            "tag": "MERCADO",
+            "text": "GR Financial Group LLC Sells 11,196 Shares of Alphabet Inc. $GOOG"
         },
         {
-            "time": "06:39",
+            "time": "08:47",
             "tag": "MERCADO",
-            "text": "Equinix (EQIX) Valuation Check After Strong 2025 Results And Confident 2026 Growth Outlook"
+            "text": "Apple Inc. $AAPL is Financial Management Network Inc.'s 9th Largest Position"
         }
     ]
 }
