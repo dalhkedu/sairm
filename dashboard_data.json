@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-14 09:35 UTC",
+        "last_updated": "2026-02-14 10:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "+2.07%"
+            "change": "-3.24%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "+2.53%"
+            "change": "-0.07%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "+3.47%"
+            "change": "-1.83%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "-1.26%"
+            "change": "-0.48%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "-3.26%"
+            "change": "+3.1%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.52,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.49,
-            0.49,
             0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            26.12,
-            26.15,
-            26.49,
-            26.51,
-            26.12,
-            26.09,
-            25.96,
-            25.7,
-            25.59,
-            25.24,
-            25.31,
-            25.01
+            24.4,
+            24.75,
+            24.95,
+            25.16,
+            25.13,
+            25.33,
+            25.76,
+            25.28,
+            25.2,
+            25.56,
+            25.32,
+            25.27
         ],
         "hsd_history_software": [
-            9.24,
-            9.42,
-            9.59,
-            9.68,
-            9.57,
-            9.45,
-            9.59,
-            9.76,
-            9.78,
-            9.68,
-            9.76,
-            9.85
+            9.64,
+            9.75,
+            9.92,
+            9.88,
+            9.83,
+            9.94,
+            10.06,
+            10.05,
+            10.16,
+            9.99,
+            10.07,
+            9.96
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:47",
+            "time": "09:20",
             "tag": "MERCADO",
-            "text": "Caprock Group LLC Makes New Investment in ON Semiconductor Corporation $ON"
+            "text": "Intuitive Surgical, Inc. $ISRG Shares Purchased by DDD Partners LLC"
         },
         {
-            "time": "08:47",
+            "time": "09:20",
             "tag": "MERCADO",
-            "text": "Caprock Group LLC Invests $2.03 Million in Motorola Solutions, Inc. $MSI"
+            "text": "DDD Partners LLC Takes $2.45 Million Position in PayPal Holdings, Inc. $PYPL"
         },
         {
-            "time": "08:44",
+            "time": "09:10",
             "tag": "MERCADO",
-            "text": "Apple Inc. $AAPL is Florida Trust Wealth Management Co's 2nd Largest Position"
+            "text": "Autodesk, Inc. $ADSK Shares Sold by Cibc World Market Inc."
         },
         {
-            "time": "08:43",
+            "time": "09:09",
             "tag": "MERCADO",
-            "text": "Cypress Capital Group Raises Stock Holdings in Alphabet Inc. $GOOGL"
+            "text": "Motorola Solutions, Inc. $MSI Stock Position Lowered by Cookson Peirce & Co. Inc."
         },
         {
-            "time": "08:40",
+            "time": "09:08",
             "tag": "MERCADO",
-            "text": "Assetmark Inc. Has $50.02 Million Stake in Uber Technologies, Inc. $UBER"
+            "text": "Illinois Municipal Retirement Fund Raises Position in F5, Inc. $FFIV"
         }
     ]
 }
