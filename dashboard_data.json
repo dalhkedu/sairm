@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-14 02:24 UTC",
+        "last_updated": "2026-02-14 04:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "-1.23%"
+            "change": "-2.93%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "-2.17%"
+            "change": "+2.14%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "+0.75%"
+            "change": "-0.88%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "-3.15%"
+            "change": "-0.24%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "-2.09%"
+            "change": "-0.24%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.58,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.51,
-            0.5,
             0.49,
             0.5,
             0.49,
-            0.5
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.5,
+            0.49,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.99,
-            24.84,
-            24.81,
-            24.54,
-            24.19,
-            24.65,
-            24.65,
-            25.12,
-            25.28,
-            24.82,
-            24.95,
-            25.39
+            27.95,
+            27.78,
+            27.46,
+            27.15,
+            26.72,
+            26.33,
+            25.89,
+            25.42,
+            25.27,
+            25.55,
+            25.07,
+            24.92
         ],
         "hsd_history_software": [
-            10.08,
-            10.07,
-            10.15,
-            9.99,
-            9.9,
-            10.06,
-            9.98,
-            10.11,
-            10.2,
-            10.31,
+            10.4,
+            10.56,
+            10.42,
             10.28,
-            10.14
+            10.27,
+            10.25,
+            10.16,
+            10.0,
+            10.07,
+            10.04,
+            10.0,
+            10.16
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "00:13",
+            "time": "03:27",
             "tag": "MERCADO",
-            "text": "ServiceNow buys Pyramid Analytics"
+            "text": "Ideal Power Inc Is Exploding In Energy Tech \u2013 But Is IPWR Stock A Sneaky 10X Or Total Trap?"
         },
         {
-            "time": "23:57",
-            "tag": "MERCADO",
-            "text": "Aci Worldwide stock hits 52-week low at 38.88 USD By Investing.com"
-        },
-        {
-            "time": "23:50",
-            "tag": "AI",
-            "text": "NVIDIA vs. SMCI: Which AI Hardware Stock Is the Better Buy Now?"
-        },
-        {
-            "time": "23:50",
-            "tag": "MERCADO",
-            "text": "Cirrus Logic (NASDAQ:CRUS) EVP Sells $458,739.57 in Stock"
-        },
-        {
-            "time": "23:28",
+            "time": "03:08",
             "tag": "RESULTADOS",
-            "text": "Himax Technologies (HIMX) Margin Compression Challenges Bullish Earnings Growth Narrative"
+            "text": "Gartner (IT) Margin Reset To 11.2% Challenges Bullish Earnings Narratives"
+        },
+        {
+            "time": "02:32",
+            "tag": "MERCADO",
+            "text": "Home-improvement giant eliminates hundreds of jobs in digital and design teams"
+        },
+        {
+            "time": "01:26",
+            "tag": "AI",
+            "text": "Arista Results And AI Demand Reset Expectations For Growth And Valuation"
+        },
+        {
+            "time": "00:57",
+            "tag": "MERCADO",
+            "text": "Kratos Autonomy Tests Dual Use Truck Platooning Across NASCAR And Defense"
         }
     ]
 }
