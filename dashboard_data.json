@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-13 23:34 UTC",
+        "last_updated": "2026-02-14 02:24 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "+1.13%"
+            "change": "-1.23%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "-1.99%"
+            "change": "-2.17%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "+0.69%"
+            "change": "+0.75%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "+3.29%"
+            "change": "-3.15%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "-0.04%"
+            "change": "-2.09%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.65,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.51,
+            0.5,
             0.49,
             0.5,
-            0.5,
-            0.49
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.85,
-            26.65,
-            26.23,
-            25.97,
-            26.49,
-            26.23,
-            26.11,
-            25.9,
-            25.62,
-            25.37,
-            25.33,
-            25.17
+            24.99,
+            24.84,
+            24.81,
+            24.54,
+            24.19,
+            24.65,
+            24.65,
+            25.12,
+            25.28,
+            24.82,
+            24.95,
+            25.39
         ],
         "hsd_history_software": [
-            10.22,
-            10.16,
-            9.97,
-            10.02,
-            10.21,
-            10.12,
-            9.97,
-            10.04,
-            10.13,
-            9.96,
-            9.84,
-            9.95
+            10.08,
+            10.07,
+            10.15,
+            9.99,
+            9.9,
+            10.06,
+            9.98,
+            10.11,
+            10.2,
+            10.31,
+            10.28,
+            10.14
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "23:27",
+            "time": "00:13",
             "tag": "MERCADO",
-            "text": "$400M to $1B: IQSTEL (Nasdaq: IQST) Builds Momentum"
+            "text": "ServiceNow buys Pyramid Analytics"
         },
         {
-            "time": "23:27",
+            "time": "23:57",
+            "tag": "MERCADO",
+            "text": "Aci Worldwide stock hits 52-week low at 38.88 USD By Investing.com"
+        },
+        {
+            "time": "23:50",
+            "tag": "AI",
+            "text": "NVIDIA vs. SMCI: Which AI Hardware Stock Is the Better Buy Now?"
+        },
+        {
+            "time": "23:50",
+            "tag": "MERCADO",
+            "text": "Cirrus Logic (NASDAQ:CRUS) EVP Sells $458,739.57 in Stock"
+        },
+        {
+            "time": "23:28",
             "tag": "RESULTADOS",
-            "text": "JFrog (FROG) Reports Q4 Earnings: What Key Metrics Have to Say"
-        },
-        {
-            "time": "22:28",
-            "tag": "MERCADO",
-            "text": "DHI GROUP, INC. SEC 10-K Report"
-        },
-        {
-            "time": "22:25",
-            "tag": "MERCADO",
-            "text": "Christopher Grady Joins Northrop Grumman Board of Directors"
-        },
-        {
-            "time": "22:24",
-            "tag": "MERCADO",
-            "text": "Alphabet (NASDAQ:GOOG) Stock Price Down 1.1% - Should You Sell?"
+            "text": "Himax Technologies (HIMX) Margin Compression Challenges Bullish Earnings Growth Narrative"
         }
     ]
 }
