@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-14 10:30 UTC",
+        "last_updated": "2026-02-14 11:25 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "-3.24%"
+            "change": "+0.26%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "-0.07%"
+            "change": "-1.12%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "-1.83%"
+            "change": "+1.99%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "-0.48%"
+            "change": "+0.5%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "+3.1%"
+            "change": "-2.7%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.7,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
             0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.53,
+            0.52,
             0.51,
             0.52,
             0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.4,
-            24.75,
-            24.95,
-            25.16,
-            25.13,
-            25.33,
-            25.76,
-            25.28,
-            25.2,
-            25.56,
-            25.32,
-            25.27
+            24.9,
+            24.65,
+            24.25,
+            24.71,
+            25.17,
+            25.17,
+            25.08,
+            24.69,
+            24.68,
+            25.0,
+            24.85,
+            25.0
         ],
         "hsd_history_software": [
-            9.64,
-            9.75,
-            9.92,
-            9.88,
-            9.83,
-            9.94,
-            10.06,
-            10.05,
-            10.16,
-            9.99,
-            10.07,
-            9.96
+            9.79,
+            9.66,
+            9.84,
+            9.8,
+            9.7,
+            9.73,
+            9.8,
+            9.81,
+            9.93,
+            10.01,
+            10.08,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:20",
+            "time": "09:46",
             "tag": "MERCADO",
-            "text": "Intuitive Surgical, Inc. $ISRG Shares Purchased by DDD Partners LLC"
+            "text": "Cheetah Mobile (NYSE:CMCM) Shares Cross Below 50-Day Moving Average - Here's What Happened"
         },
         {
-            "time": "09:20",
+            "time": "09:42",
             "tag": "MERCADO",
-            "text": "DDD Partners LLC Takes $2.45 Million Position in PayPal Holdings, Inc. $PYPL"
+            "text": "DDD Partners LLC Acquires New Position in Cadence Design Systems, Inc. $CDNS"
         },
         {
-            "time": "09:10",
+            "time": "09:41",
             "tag": "MERCADO",
-            "text": "Autodesk, Inc. $ADSK Shares Sold by Cibc World Market Inc."
+            "text": "First Solar Inquiry Puts Governance And Valuation In Investor Focus"
         },
         {
-            "time": "09:09",
+            "time": "09:32",
             "tag": "MERCADO",
-            "text": "Motorola Solutions, Inc. $MSI Stock Position Lowered by Cookson Peirce & Co. Inc."
+            "text": "Oracle Corporation $ORCL Holdings Decreased by BTC Capital Management Inc."
         },
         {
-            "time": "09:08",
+            "time": "09:30",
             "tag": "MERCADO",
-            "text": "Illinois Municipal Retirement Fund Raises Position in F5, Inc. $FFIV"
+            "text": "Seagate Technology Holdings PLC $STX Stock Position Trimmed by BTC Capital Management Inc."
         }
     ]
 }
