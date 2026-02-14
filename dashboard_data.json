@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-14 14:30 UTC",
+        "last_updated": "2026-02-14 15:29 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "-3.23%"
+            "change": "+3.18%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "+0.19%"
+            "change": "+0.23%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "+3.26%"
+            "change": "-3.33%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "+2.25%"
+            "change": "+1.94%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "+2.31%"
+            "change": "-0.74%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.65,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.47,
-            0.46,
-            0.46,
             0.47,
             0.48,
             0.48,
+            0.47,
+            0.47,
             0.48,
-            0.49,
-            0.49,
+            0.48,
+            0.47,
+            0.48,
+            0.48,
             0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            25.31,
-            25.03,
-            24.71,
-            24.6,
-            24.75,
-            25.1,
-            24.76,
-            24.36,
-            24.56,
-            24.67,
-            24.87,
-            24.96
+            25.33,
+            25.44,
+            25.79,
+            25.94,
+            25.86,
+            26.04,
+            25.63,
+            25.72,
+            25.91,
+            25.97,
+            25.72,
+            25.37
         ],
         "hsd_history_software": [
-            9.98,
-            10.15,
-            9.98,
-            10.01,
-            9.82,
-            9.81,
-            9.65,
-            9.66,
-            9.73,
-            9.82,
-            9.94,
-            9.83
+            10.29,
+            10.24,
+            10.14,
+            10.28,
+            10.33,
+            10.3,
+            10.38,
+            10.36,
+            10.18,
+            10.1,
+            9.96,
+            9.94
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "14:25",
+            "tag": "MERCADO",
+            "text": "Texas Instruments Climbed 20% in the Last 30 Days. Here\u2019s Where It Could Go in 2026"
+        },
+        {
+            "time": "14:20",
+            "tag": "MERCADO",
+            "text": "NASDAQ logs fifth straight weekly loss; Datadog, T-Mobile lead weekly movers"
+        },
+        {
+            "time": "13:59",
+            "tag": "MERCADO",
+            "text": "Intuitive Surgical Fell 14% in the Last 30 Days. Here\u2019s How Much the Stock Could Rise in 2026"
+        },
+        {
             "time": "13:48",
             "tag": "MERCADO",
             "text": "The Bull Case For Agilent Technologies (A) Could Change Following New PD-L1 Test Approval And Dividend News"
@@ -134,21 +149,6 @@
             "time": "13:14",
             "tag": "RESULTADOS",
             "text": "JFrog Ltd. (NASDAQ:FROG) Q4 2025 Earnings Call Transcript"
-        },
-        {
-            "time": "13:14",
-            "tag": "RESULTADOS",
-            "text": "Bridgeline Digital, Inc. (NASDAQ:BLIN) Q1 2026 Earnings Call Transcript"
-        },
-        {
-            "time": "13:06",
-            "tag": "AI",
-            "text": "Hasbro CEO Discusses AI's Impact on Toy Development"
-        },
-        {
-            "time": "12:58",
-            "tag": "MERCADO",
-            "text": "Why Investors Shouldn't Be Surprised By CISO Global Inc.'s (NASDAQ:CISO) 29% Share Price Plunge"
         }
     ]
 }
