@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-14 04:43 UTC",
+        "last_updated": "2026-02-14 05:48 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "-2.93%"
+            "change": "+1.35%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "+2.14%"
+            "change": "+1.3%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "-0.88%"
+            "change": "+3.29%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "-0.24%"
+            "change": "-1.81%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "-0.24%"
+            "change": "-2.71%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.55,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
             0.5,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
+            0.5,
+            0.5,
             0.49,
             0.5,
             0.49,
             0.5,
-            0.49
+            0.5,
+            0.51,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            27.95,
-            27.78,
-            27.46,
-            27.15,
-            26.72,
-            26.33,
-            25.89,
-            25.42,
-            25.27,
-            25.55,
-            25.07,
-            24.92
+            23.53,
+            23.12,
+            23.28,
+            23.11,
+            23.52,
+            23.49,
+            23.84,
+            24.26,
+            24.41,
+            24.16,
+            24.45,
+            24.69
         ],
         "hsd_history_software": [
-            10.4,
-            10.56,
-            10.42,
-            10.28,
-            10.27,
+            10.18,
             10.25,
-            10.16,
-            10.0,
-            10.07,
-            10.04,
-            10.0,
-            10.16
+            10.05,
+            9.87,
+            10.02,
+            10.1,
+            10.12,
+            10.01,
+            9.87,
+            9.89,
+            9.91,
+            9.93
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "04:05",
+            "tag": "MERCADO",
+            "text": "Vincent Retort Sells 45,026 Shares of Lumentum (NASDAQ:LITE) Stock"
+        },
+        {
             "time": "03:27",
             "tag": "MERCADO",
             "text": "Ideal Power Inc Is Exploding In Energy Tech \u2013 But Is IPWR Stock A Sneaky 10X Or Total Trap?"
@@ -136,19 +141,14 @@
             "text": "Gartner (IT) Margin Reset To 11.2% Challenges Bullish Earnings Narratives"
         },
         {
+            "time": "02:57",
+            "tag": "RESULTADOS",
+            "text": "IPG Photonics Corporation (NASDAQ:IPGP) Q4 2025 Earnings Call Transcript"
+        },
+        {
             "time": "02:32",
             "tag": "MERCADO",
             "text": "Home-improvement giant eliminates hundreds of jobs in digital and design teams"
-        },
-        {
-            "time": "01:26",
-            "tag": "AI",
-            "text": "Arista Results And AI Demand Reset Expectations For Growth And Valuation"
-        },
-        {
-            "time": "00:57",
-            "tag": "MERCADO",
-            "text": "Kratos Autonomy Tests Dual Use Truck Platooning Across NASCAR And Defense"
         }
     ]
 }
