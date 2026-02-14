@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-14 07:36 UTC",
+        "last_updated": "2026-02-14 08:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "-2.69%"
+            "change": "-2.32%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "-0.65%"
+            "change": "-0.97%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "-0.45%"
+            "change": "-1.12%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "-1.72%"
+            "change": "-1.2%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "+3.24%"
+            "change": "-3.36%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.4,
+        "cer_current": 0.64,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.5
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.52,
+            0.53,
+            0.52,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            27.15,
-            27.6,
-            27.2,
-            26.94,
-            26.76,
-            26.33,
-            26.15,
-            25.89,
             25.88,
-            25.53,
+            25.58,
+            25.57,
+            25.78,
             25.43,
-            25.05
+            25.76,
+            25.48,
+            24.98,
+            24.9,
+            24.65,
+            24.78,
+            24.98
         ],
         "hsd_history_software": [
+            10.52,
+            10.32,
+            10.25,
+            10.29,
+            10.21,
+            10.18,
             10.19,
-            10.31,
-            10.27,
-            10.35,
-            10.37,
-            10.38,
-            10.28,
-            10.14,
-            9.95,
-            9.92,
-            10.03,
-            9.88
+            10.23,
+            10.05,
+            10.0,
+            9.81,
+            10.01
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "07:45",
+            "tag": "MERCADO",
+            "text": "Big Boost for Tamil Nadu: US chip giant KLA bets Rs. 3,600 crore on Chennai"
+        },
+        {
+            "time": "07:09",
+            "tag": "MERCADO",
+            "text": "Silicon Motion Technology (NASDAQ:SIMO) Rating Increased to Strong-Buy at Wall Street Zen"
+        },
+        {
+            "time": "06:57",
+            "tag": "MERCADO",
+            "text": "Sirius XM (SIRI) Upgraded to Neutral by JPMorgan Following Better-Than-Expected Q4 Results"
+        },
+        {
             "time": "06:50",
             "tag": "MERCADO",
             "text": "Rockwell Automation Reports First Quarter Fiscal 2026 Results with Double-Digit Sales Growth"
@@ -134,21 +149,6 @@
             "time": "06:46",
             "tag": "AI",
             "text": "Dan Ives Calls AI-Driven Software Selloff 'Most Disconnected Trade,' Says Salesforce And ServiceNow Are Historic Buys"
-        },
-        {
-            "time": "06:26",
-            "tag": "MERCADO",
-            "text": "Match Group (MTCH) Long-Term Estimates Reduced by TD Cowen"
-        },
-        {
-            "time": "05:51",
-            "tag": "AI",
-            "text": "Microchip Technology Targets Edge AI Servers And EVs With New Push"
-        },
-        {
-            "time": "05:42",
-            "tag": "MERCADO",
-            "text": "Nvidia (NVDA) Falls 2% as AMD Gains on Arista Deployment Update"
         }
     ]
 }
