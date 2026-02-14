@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-14 12:56 UTC",
+        "last_updated": "2026-02-14 13:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "-1.5%"
+            "change": "-3.12%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "-0.17%"
+            "change": "-1.49%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "+3.47%"
+            "change": "-2.24%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "+3.01%"
+            "change": "+0.66%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "+3.39%"
+            "change": "+1.4%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.7,
+        "cer_current": 0.58,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.48,
             0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.49
         ],
         "hsd_history_hardware": [
-            24.71,
-            24.27,
-            24.52,
-            24.4,
-            24.64,
-            24.29,
-            24.34,
-            24.08,
-            24.41,
-            24.71,
-            24.87,
-            25.18
+            25.3,
+            25.28,
+            25.12,
+            25.15,
+            25.44,
+            25.06,
+            24.82,
+            24.97,
+            24.75,
+            24.49,
+            24.7,
+            24.69
         ],
         "hsd_history_software": [
-            10.08,
-            9.98,
-            9.88,
-            9.83,
-            9.93,
-            9.91,
-            9.91,
-            9.97,
-            9.81,
-            9.92,
-            10.08,
-            10.13
+            11.06,
+            10.96,
+            10.84,
+            10.63,
+            10.47,
+            10.42,
+            10.54,
+            10.58,
+            10.49,
+            10.31,
+            10.16,
+            10.18
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "12:47",
+            "tag": "MERCADO",
+            "text": "Broadcom (NASDAQ: AVGO) Stock Price Prediction and Forecast 2026-2030 (Feb 2026)"
+        },
+        {
+            "time": "12:45",
+            "tag": "MERCADO",
+            "text": "DigitalOcean Holdings, Inc. (NYSE:DOCN) Stock Rockets 29% As Investors Are Less Pessimistic Than Expected"
+        },
+        {
+            "time": "12:21",
+            "tag": "MERCADO",
+            "text": "FFIV Faruqi & Faruqi, LLP Reminds F5 (FFIV) Investors of Securities Class Action Deadline on February 17, 2026"
+        },
+        {
             "time": "12:17",
             "tag": "MERCADO",
             "text": "AMETEK, Inc. $AME Shares Acquired by Varma Mutual Pension Insurance Co"
@@ -134,21 +149,6 @@
             "time": "12:03",
             "tag": "MERCADO",
             "text": "Wealthfront Advisers LLC Increases Stock Holdings in Teledyne Technologies Incorporated $TDY"
-        },
-        {
-            "time": "11:53",
-            "tag": "MERCADO",
-            "text": "NETAPP INC (NASDAQ:NTAP) Passes a Rigorous Dividend Longevity Screen"
-        },
-        {
-            "time": "11:52",
-            "tag": "MERCADO",
-            "text": "Twin City Private Wealth LLC Lowers Stock Position in Alphabet Inc. $GOOGL"
-        },
-        {
-            "time": "11:52",
-            "tag": "MERCADO",
-            "text": "Wealthfront Advisers LLC Increases Position in Fortive Corporation $FTV"
         }
     ]
 }
