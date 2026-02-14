@@ -1,37 +1,37 @@
 {
     "metadata": {
-        "last_updated": "2026-02-14 21:28 UTC",
+        "last_updated": "2026-02-14 22:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "-0.12%"
+            "change": "-0.35%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "-3.28%"
+            "change": "-2.02%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "+1.99%"
+            "change": "+0.18%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "-3.19%"
+            "change": "-2.21%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "+3.06%"
+            "change": "+1.17%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.59,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
@@ -39,43 +39,43 @@
             0.5,
             0.49,
             0.5,
-            0.51,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5,
             0.5,
             0.5,
             0.5,
-            0.51,
-            0.5,
-            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.54,
-            24.42,
-            24.16,
-            23.92,
-            24.12,
-            24.61,
-            24.91,
-            24.65,
-            24.75,
-            25.02,
+            24.49,
+            24.98,
             24.68,
-            24.85
+            24.35,
+            24.52,
+            24.88,
+            24.4,
+            24.77,
+            24.46,
+            24.57,
+            24.89,
+            24.62
         ],
         "hsd_history_software": [
-            10.51,
-            10.64,
-            10.58,
-            10.55,
-            10.45,
-            10.42,
-            10.52,
-            10.33,
-            10.21,
-            10.07,
-            10.07,
-            10.03
+            9.56,
+            9.5,
+            9.6,
+            9.8,
+            9.99,
+            10.05,
+            10.08,
+            10.0,
+            9.91,
+            9.9,
+            9.88,
+            9.88
         ],
         "rci_data": [
             85.0,
@@ -126,9 +126,19 @@
     ],
     "news_feed": [
         {
+            "time": "21:20",
+            "tag": "MERCADO",
+            "text": "Verizon stock (VZ) slips off a 52-week high as traders size up the week ahead"
+        },
+        {
             "time": "20:57",
             "tag": "MERCADO",
             "text": "IPG Photonics Stock Hits 52-Week High After Strong Quarter"
+        },
+        {
+            "time": "20:32",
+            "tag": "MERCADO",
+            "text": "Three Problems Explain Why Intel Stock Dropped 7.5% This Week"
         },
         {
             "time": "19:56",
@@ -139,16 +149,6 @@
             "time": "19:52",
             "tag": "AI",
             "text": "Expedia Group Inc.: Can the Travel Super-App Keep Its Edge in an AI-First Booking World?"
-        },
-        {
-            "time": "19:45",
-            "tag": "AI",
-            "text": "Intuit (INTU) stock price near $400: AI scare trade, cooler CPI and the Feb. 26 earnings test"
-        },
-        {
-            "time": "19:27",
-            "tag": "MERCADO",
-            "text": "13 Best Innovative Stocks to Buy According to Wall Street Analysts"
         }
     ]
 }
