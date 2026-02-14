@@ -1,23 +1,23 @@
 {
     "metadata": {
-        "last_updated": "2026-02-14 17:29 UTC",
+        "last_updated": "2026-02-14 18:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "+0.43%"
+            "change": "+2.87%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "-1.64%"
+            "change": "+2.46%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "+0.57%"
+            "change": "-2.44%"
         },
         {
             "symbol": "CEG",
@@ -27,55 +27,55 @@
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "-0.4%"
+            "change": "+0.15%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.5,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.51,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.49
+            0.51
         ],
         "hsd_history_hardware": [
-            26.96,
-            26.62,
-            26.22,
-            25.85,
-            25.73,
-            25.56,
-            25.96,
-            25.85,
-            25.37,
-            25.18,
+            24.83,
             24.82,
-            25.22
+            24.43,
+            23.98,
+            24.11,
+            24.41,
+            24.73,
+            24.8,
+            24.34,
+            24.33,
+            24.62,
+            25.12
         ],
         "hsd_history_software": [
-            10.2,
-            10.31,
-            10.36,
-            10.19,
-            10.05,
-            10.21,
-            10.24,
-            10.11,
-            10.06,
-            9.99,
-            9.92,
-            10.09
+            10.16,
+            10.37,
+            10.29,
+            10.27,
+            10.37,
+            10.28,
+            10.3,
+            10.46,
+            10.34,
+            10.13,
+            9.94,
+            10.03
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:20",
-            "tag": "AI",
-            "text": "SPDR S&P 500 ETF Trust Sees Outflows Amid AI Volatility"
-        },
-        {
-            "time": "15:54",
-            "tag": "AI",
-            "text": "The Bull Case For Advanced Micro Devices (AMD) Could Change Following AI-Focused Q4 Beat And New CMO Appointment"
-        },
-        {
-            "time": "15:46",
+            "time": "17:50",
             "tag": "MERCADO",
-            "text": "NiSource (NI) Is Up 5.1% After Amazon Power Deal And $28 Billion Grid Plan - Has The Bull Case Changed?"
+            "text": "Caterpillar (CAT)'s So Amazing Your Eyes Will Burn, Says Jim Cramer"
         },
         {
-            "time": "15:35",
+            "time": "17:49",
             "tag": "MERCADO",
-            "text": "Alphabet (GOOG) stock slips into the long weekend \u2014 EU ad-auction warning and debt sale set up next trade"
+            "text": "ServiceNow (NOW) Is a Great Company, Says Jim Cramer"
         },
         {
-            "time": "15:31",
+            "time": "17:37",
             "tag": "MERCADO",
-            "text": "Blockchain Goes Big: FedEx Joins Google And IBM On Hedera Council"
+            "text": "Down 55%, Is Oracle Stock a Buy in 2026?"
+        },
+        {
+            "time": "17:11",
+            "tag": "MERCADO",
+            "text": "Is Keysight Technologies the Sleeper Tech Stock Everyone\u2019s Sleeping On?"
+        },
+        {
+            "time": "17:09",
+            "tag": "MERCADO",
+            "text": "Synopsys Week In Review: China Headwinds, NVIDIA Partnership, and Margin Expansion"
         }
     ]
 }
