@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-15 08:37 UTC",
+        "last_updated": "2026-02-15 09:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "-0.09%"
+            "change": "+2.65%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "-0.22%"
+            "change": "+1.06%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "+0.33%"
+            "change": "-2.4%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "+2.78%"
+            "change": "-2.78%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "+3.19%"
+            "change": "+2.13%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.57,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.47,
-            0.48,
+            0.5,
             0.49,
             0.49,
             0.49,
-            0.49
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.61,
             25.03,
-            24.54,
-            24.91,
-            25.25,
-            25.13,
-            25.59,
-            25.11,
-            25.56,
-            25.06,
-            24.75,
-            24.88
+            24.96,
+            25.09,
+            24.78,
+            25.28,
+            25.39,
+            25.2,
+            24.76,
+            25.04,
+            25.02,
+            24.86,
+            24.53
         ],
         "hsd_history_software": [
-            9.78,
-            9.95,
+            9.98,
+            9.84,
+            9.97,
+            9.98,
+            9.8,
+            9.84,
+            10.04,
+            10.03,
+            9.93,
+            10.03,
             9.87,
-            10.01,
-            9.82,
-            9.82,
-            10.0,
-            10.16,
-            10.24,
-            10.31,
-            10.18,
-            10.17
+            9.96
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:00",
-            "tag": "AI",
-            "text": "Gartner Unveils Top Cybersecurity Trends for 2026: AI Agents and Quantum Threats Take Centre Stage"
-        },
-        {
-            "time": "06:56",
+            "time": "08:44",
             "tag": "MERCADO",
-            "text": "Jabil (NYSE:JBL) Stock Rating Upgraded by Wall Street Zen"
+            "text": "Andar Capital Management HK Ltd Purchases New Holdings in ON Semiconductor Corporation $ON"
         },
         {
-            "time": "06:43",
-            "tag": "AI",
-            "text": "Is ServiceNow (NOW) Quietly Recasting Itself as the AI Workflow Control Tower of the Enterprise?"
-        },
-        {
-            "time": "06:19",
+            "time": "08:43",
             "tag": "MERCADO",
-            "text": "Becton, Dickinson and Company\u2019s Bilal Muhsin on the future of Connected Care"
+            "text": "Arista Networks, Inc. $ANET Shares Acquired by Andar Capital Management HK Ltd"
         },
         {
-            "time": "05:59",
+            "time": "08:43",
             "tag": "MERCADO",
-            "text": "Photronics Stock Under the Microscope: Quiet Pullback Or The Start Of A Deeper Reset?"
+            "text": "Advanced Micro Devices, Inc. $AMD Shares Sold by Andar Capital Management HK Ltd"
+        },
+        {
+            "time": "08:43",
+            "tag": "MERCADO",
+            "text": "Ameritas Advisory Services LLC Decreases Stock Holdings in AT&T Inc. $T"
+        },
+        {
+            "time": "08:43",
+            "tag": "MERCADO",
+            "text": "Andar Capital Management HK Ltd Acquires New Shares in Synopsys, Inc. $SNPS"
         }
     ]
 }
