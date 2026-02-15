@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-15 10:31 UTC",
+        "last_updated": "2026-02-15 11:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "+1.42%"
+            "change": "-1.37%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "+0.56%"
+            "change": "+1.82%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "-1.61%"
+            "change": "-2.99%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "+1.56%"
+            "change": "-0.04%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "+0.85%"
+            "change": "+2.33%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.41,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
+            0.52,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.5,
             0.51,
             0.51,
-            0.5,
-            0.5,
             0.51,
             0.5,
-            0.5,
-            0.51
+            0.49
         ],
         "hsd_history_hardware": [
-            25.65,
-            26.13,
-            26.3,
             25.9,
-            25.7,
-            25.2,
-            24.7,
-            25.16,
-            24.94,
-            25.2,
-            24.99,
-            25.19
+            26.21,
+            25.98,
+            25.62,
+            25.23,
+            25.31,
+            25.26,
+            25.75,
+            25.72,
+            25.78,
+            25.41,
+            25.5
         ],
         "hsd_history_software": [
-            10.5,
-            10.56,
-            10.63,
-            10.52,
-            10.53,
-            10.73,
-            10.55,
-            10.7,
-            10.57,
-            10.51,
-            10.33,
-            10.15
+            9.98,
+            9.83,
+            9.92,
+            9.8,
+            9.8,
+            9.87,
+            10.05,
+            9.93,
+            10.09,
+            10.0,
+            10.19,
+            10.14
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:26",
+            "time": "10:42",
             "tag": "MERCADO",
-            "text": "Will Micron Be the Next Nvidia -- or the Next Intel?"
+            "text": "Tradewinds LLC. Has $20.36 Million Stake in Apple Inc. $AAPL"
         },
         {
-            "time": "09:26",
+            "time": "10:42",
             "tag": "MERCADO",
-            "text": "KKR & Co. Inc. (KKR) Builds Scale Across Markets and Sectors"
+            "text": "NorthCrest Asset Manangement LLC Raises Position in Apple Inc. $AAPL"
         },
         {
-            "time": "09:18",
+            "time": "10:42",
             "tag": "MERCADO",
-            "text": "Caprock Group LLC Acquires New Position in MSCI Inc $MSCI"
+            "text": "Cidel Asset Management Inc. Acquires 13,312 Shares of Motorola Solutions, Inc. $MSI"
         },
         {
-            "time": "08:59",
+            "time": "10:42",
             "tag": "MERCADO",
-            "text": "Envestnet Asset Management Inc. Has $19.79 Million Stock Holdings in Skyworks Solutions, Inc. $SWKS"
+            "text": "Microsoft Corporation $MSFT Shares Acquired by Triad Wealth Partners LLC"
         },
         {
-            "time": "08:44",
+            "time": "10:40",
             "tag": "MERCADO",
-            "text": "Andar Capital Management HK Ltd Purchases New Holdings in ON Semiconductor Corporation $ON"
+            "text": "Avanda Investment Management Pte. Ltd. Acquires New Position in Advanced Micro Devices, Inc. $AMD"
         }
     ]
 }
