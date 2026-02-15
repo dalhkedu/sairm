@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-14 23:28 UTC",
+        "last_updated": "2026-02-15 02:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "-0.49%"
+            "change": "-2.96%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "-2.44%"
+            "change": "+1.89%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "-2.87%"
+            "change": "+0.4%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "+0.38%"
+            "change": "-1.85%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "-2.84%"
+            "change": "+2.01%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.48,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.53,
-            0.52,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
             0.51,
             0.51,
             0.5,
+            0.49,
             0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            23.58,
-            23.57,
-            23.75,
-            23.71,
+            22.65,
+            23.03,
             23.37,
             23.61,
-            23.57,
-            23.44,
-            23.6,
-            23.85,
-            24.1,
-            24.52
+            23.93,
+            24.24,
+            24.62,
+            24.85,
+            24.4,
+            24.6,
+            24.87,
+            24.58
         ],
         "hsd_history_software": [
-            10.19,
-            10.38,
-            10.31,
-            10.11,
+            9.93,
+            10.08,
             10.06,
-            10.07,
-            10.17,
-            9.99,
-            10.11,
-            10.31,
-            10.3,
-            10.16
+            9.89,
+            9.77,
+            9.59,
+            9.74,
+            9.93,
+            9.87,
+            9.93,
+            9.88,
+            9.84
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:26",
+            "time": "01:39",
             "tag": "MERCADO",
-            "text": "KLA stock in focus: KLAC heads into holiday week after $400 million India R&D pact"
+            "text": "Why Generac (GNRC) Is Up 22.3% After Data Center-Focused 2026 Outlook And New Buyback Plan"
         },
         {
-            "time": "21:20",
+            "time": "00:58",
             "tag": "MERCADO",
-            "text": "Verizon stock (VZ) slips off a 52-week high as traders size up the week ahead"
+            "text": "|\u3010\u5373\u6642\u65b0\u805e\u3011iShares LDRH ETF\u5ba3\u5e03\u6708\u914d\u606f0.1376\u7f8e\u5143\uff0c\u6b96\u5229\u73876.61%"
         },
         {
-            "time": "20:57",
+            "time": "00:49",
             "tag": "MERCADO",
-            "text": "IPG Photonics Stock Hits 52-Week High After Strong Quarter"
+            "text": "Should Raytheon\u2019s Coyote Counter\u2011Drone Wins and Dividend Hike Reset the RTX (RTX) Risk\u2011Reward Debate?"
         },
         {
-            "time": "20:32",
-            "tag": "MERCADO",
-            "text": "Three Problems Explain Why Intel Stock Dropped 7.5% This Week"
+            "time": "00:29",
+            "tag": "RESULTADOS",
+            "text": "Bridgeline Digital Earnings Call Highlights HawkSearch Momentum"
         },
         {
-            "time": "19:58",
-            "tag": "MERCADO",
-            "text": "Why Argan Stock Soared This Week"
+            "time": "00:21",
+            "tag": "RESULTADOS",
+            "text": "Youdao Inc Earnings Call Highlights AI-Led Growth"
         }
     ]
 }
