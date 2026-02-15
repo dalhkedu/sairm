@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-15 11:26 UTC",
+        "last_updated": "2026-02-15 12:58 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "-1.37%"
+            "change": "-3.24%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "+1.82%"
+            "change": "-3.34%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "-2.99%"
+            "change": "-1.26%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "-0.04%"
+            "change": "-2.26%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "+2.33%"
+            "change": "+1.46%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.49,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
-            0.52,
             0.51,
             0.51,
+            0.5,
+            0.5,
             0.51,
             0.5,
             0.51,
             0.51,
+            0.5,
             0.51,
             0.5,
-            0.49
+            0.51
         ],
         "hsd_history_hardware": [
-            25.9,
-            26.21,
-            25.98,
-            25.62,
-            25.23,
-            25.31,
-            25.26,
-            25.75,
-            25.72,
-            25.78,
-            25.41,
-            25.5
+            24.75,
+            24.52,
+            24.82,
+            24.4,
+            24.21,
+            23.93,
+            24.3,
+            24.72,
+            24.81,
+            24.64,
+            25.06,
+            24.93
         ],
         "hsd_history_software": [
-            9.98,
-            9.83,
-            9.92,
-            9.8,
-            9.8,
+            9.67,
+            9.62,
+            9.75,
+            9.72,
+            9.63,
+            9.69,
+            9.73,
+            9.85,
             9.87,
-            10.05,
-            9.93,
-            10.09,
-            10.0,
-            10.19,
-            10.14
+            9.86,
+            9.72,
+            9.85
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:42",
+            "time": "12:23",
             "tag": "MERCADO",
-            "text": "Tradewinds LLC. Has $20.36 Million Stake in Apple Inc. $AAPL"
+            "text": "Leeward Investments LLC MA Purchases 168,847 Shares of Viavi Solutions Inc. $VIAV"
         },
         {
-            "time": "10:42",
+            "time": "12:12",
             "tag": "MERCADO",
-            "text": "NorthCrest Asset Manangement LLC Raises Position in Apple Inc. $AAPL"
+            "text": "These 3 Stocks Just Graduated to the MSCI World Index"
         },
         {
-            "time": "10:42",
-            "tag": "MERCADO",
-            "text": "Cidel Asset Management Inc. Acquires 13,312 Shares of Motorola Solutions, Inc. $MSI"
+            "time": "12:02",
+            "tag": "RESULTADOS",
+            "text": "ResMed Inc. (RMD) Gains Analyst Confidence as Price Targets Rise on Strong Earnings"
         },
         {
-            "time": "10:42",
+            "time": "12:02",
             "tag": "MERCADO",
-            "text": "Microsoft Corporation $MSFT Shares Acquired by Triad Wealth Partners LLC"
+            "text": "Insulet Corporation (PODD) Announces Strategic Expansion and Supply Agreement Update"
         },
         {
-            "time": "10:40",
+            "time": "12:02",
             "tag": "MERCADO",
-            "text": "Avanda Investment Management Pte. Ltd. Acquires New Position in Advanced Micro Devices, Inc. $AMD"
+            "text": "DexCom Inc. (DXCM) Reports Strong Performance While Maintaining Forward Outlook"
         }
     ]
 }
