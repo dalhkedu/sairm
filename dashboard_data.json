@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-15 04:56 UTC",
+        "last_updated": "2026-02-15 06:00 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "+3.05%"
+            "change": "-0.42%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "-1.83%"
+            "change": "+2.85%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "+1.33%"
+            "change": "+0.68%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "-1.67%"
+            "change": "+1.9%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "+0.19%"
+            "change": "+2.74%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.55,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.5,
             0.51,
             0.51,
+            0.52,
+            0.52,
+            0.52,
             0.51,
             0.51,
+            0.52,
+            0.51,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            27.22,
-            27.66,
-            27.21,
-            26.81,
-            26.39,
-            26.54,
-            26.26,
-            25.97,
-            25.5,
-            25.35,
+            25.78,
+            25.49,
             25.61,
-            25.36
+            25.25,
+            25.35,
+            25.42,
+            24.95,
+            24.61,
+            24.78,
+            24.81,
+            24.44,
+            24.7
         ],
         "hsd_history_software": [
-            10.27,
-            10.46,
-            10.45,
-            10.66,
-            10.56,
-            10.41,
-            10.57,
-            10.44,
             10.39,
-            10.36,
-            10.19,
-            10.13
+            10.33,
+            10.42,
+            10.42,
+            10.25,
+            10.35,
+            10.18,
+            10.03,
+            9.85,
+            9.82,
+            9.94,
+            9.97
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "04:21",
+            "tag": "AI",
+            "text": "Oracle Lawsuits Put AI Spending Disclosures And New Contracts In Focus"
+        },
+        {
+            "time": "03:50",
+            "tag": "MERCADO",
+            "text": "Soros Fund Management boosts Amazon.com stake by 133,385 shares"
+        },
+        {
+            "time": "03:38",
+            "tag": "MERCADO",
+            "text": "American Electric Power (AEP) Is Up 7.6% After Strong 2025 Results And Data Center Load Surge \u2013 Has The Bull Case Changed?"
+        },
+        {
             "time": "03:38",
             "tag": "MERCADO",
             "text": "Public Storage\u2019s PS4.0 Pivot and Leadership Shake-Up Might Change The Case For Investing In PSA"
@@ -134,21 +149,6 @@
             "time": "03:34",
             "tag": "MERCADO",
             "text": "Sands Capital Management LLC Boosts Broadcom Inc. Stake"
-        },
-        {
-            "time": "03:28",
-            "tag": "MERCADO",
-            "text": "Gardner Russo & Gardner LLC Boosts Amazon.com Stake"
-        },
-        {
-            "time": "03:27",
-            "tag": "MERCADO",
-            "text": "Night Owl Capital boosts Alphabet Class C stake by 5,343 shares"
-        },
-        {
-            "time": "03:27",
-            "tag": "MERCADO",
-            "text": "Maverick Capital Boosts Alphabet Inc. Stake by 1.14M Shares"
         }
     ]
 }
