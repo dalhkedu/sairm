@@ -1,48 +1,48 @@
 {
     "metadata": {
-        "last_updated": "2026-02-15 13:51 UTC",
+        "last_updated": "2026-02-15 14:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "+2.36%"
+            "change": "+3.0%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "-2.32%"
+            "change": "+3.41%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "+2.1%"
+            "change": "+1.75%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "-0.39%"
+            "change": "-0.68%"
         },
         {
             "symbol": "VST",
-            "price": 171.49,
-            "change": "+0.23%"
+            "price": NaN,
+            "change": "+0.8%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.64,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
             0.53,
             0.53,
             0.52,
-            0.51,
-            0.5,
-            0.51,
+            0.53,
+            0.53,
+            0.52,
+            0.53,
             0.52,
             0.51,
             0.51,
@@ -50,32 +50,32 @@
             0.5
         ],
         "hsd_history_hardware": [
-            24.88,
-            25.38,
-            25.44,
-            25.43,
-            25.84,
-            25.84,
-            25.95,
-            25.71,
-            25.71,
-            25.32,
-            24.96,
-            25.06
+            23.71,
+            23.85,
+            23.51,
+            23.56,
+            23.5,
+            23.96,
+            23.96,
+            24.3,
+            24.46,
+            24.68,
+            24.36,
+            24.56
         ],
         "hsd_history_software": [
-            9.78,
-            9.79,
-            9.88,
-            9.99,
+            9.92,
             10.07,
+            10.17,
             10.27,
-            10.23,
-            10.3,
+            10.11,
             10.21,
-            10.05,
-            10.21,
-            10.17
+            10.28,
+            10.28,
+            10.13,
+            10.16,
+            9.97,
+            9.98
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:48",
-            "tag": "MERCADO",
-            "text": "Intuit Fell 10% in the Last 30 Days. Here\u2019s Where the Stock Could Go in 2026"
+            "time": "13:43",
+            "tag": "CRYPTO",
+            "text": "Circle Internet (CRCL) Faces Regulatory and Crypto Volatility, Says Morgan Stanley"
         },
         {
-            "time": "12:48",
+            "time": "13:39",
             "tag": "MERCADO",
-            "text": "TimesSquare Capital Management LLC Sells 4,708 Shares of Tyler Technologies, Inc. $TYL"
+            "text": "MACOM Technology Solutions Holdings, Inc. $MTSI Stake Boosted by TimesSquare Capital Management LLC"
         },
         {
-            "time": "12:42",
+            "time": "13:39",
             "tag": "MERCADO",
-            "text": "Public Sector Pension Investment Board Lowers Stock Holdings in Adobe Inc. $ADBE"
+            "text": "QUALCOMM Incorporated $QCOM Shares Bought by State of New Jersey Common Pension Fund D"
         },
         {
-            "time": "12:36",
+            "time": "13:38",
             "tag": "MERCADO",
-            "text": "Snider Financial Group Purchases Shares of 16,259 Arista Networks, Inc. $ANET"
+            "text": "TimesSquare Capital Management LLC Sells 53,274 Shares of CyberArk Software Ltd. $CYBR"
         },
         {
-            "time": "12:36",
+            "time": "13:38",
             "tag": "MERCADO",
-            "text": "Public Sector Pension Investment Board Purchases 9,945 Shares of Texas Instruments Incorporated $TXN"
+            "text": "TimesSquare Capital Management LLC Sells 102,700 Shares of Credo Technology Group Holding Ltd. $CRDO"
         }
     ]
 }
