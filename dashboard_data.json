@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-16 19:33 UTC",
+        "last_updated": "2026-02-16 20:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "+2.52%"
+            "change": "-2.23%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "+1.87%"
+            "change": "-1.06%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "+3.34%"
+            "change": "-0.76%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "-2.41%"
+            "change": "+0.14%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "+3.34%"
+            "change": "-1.18%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.44,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.52,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5
+            0.46,
+            0.47,
+            0.47,
+            0.48,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.94,
-            25.11,
-            25.0,
-            25.12,
-            24.84,
-            24.95,
-            25.1,
-            25.16,
-            24.98,
+            26.14,
+            26.03,
+            25.61,
+            25.93,
+            26.11,
+            25.62,
+            25.28,
             25.45,
-            25.34,
-            24.97
+            25.11,
+            24.83,
+            25.07,
+            25.32
         ],
         "hsd_history_software": [
-            10.31,
-            10.24,
-            10.33,
-            10.37,
-            10.22,
-            10.33,
-            10.22,
-            10.03,
-            9.95,
+            9.92,
+            9.87,
+            9.94,
+            10.04,
+            9.86,
+            9.8,
+            9.99,
+            10.09,
+            9.89,
             9.88,
-            9.95,
-            9.93
+            9.81,
+            10.01
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:17",
-            "tag": "MERCADO",
-            "text": "AT&T, T-Mobile, Verizon Hit With Location Sharing Patent Suits"
-        },
-        {
-            "time": "18:15",
-            "tag": "MERCADO",
-            "text": "AT&T, T-Mobile, Verizon Hit With Location Sharing Patent Suits"
-        },
-        {
-            "time": "18:01",
-            "tag": "MERCADO",
-            "text": "Oracle Wins Role in CMS Cloud Consolidation Effort"
-        },
-        {
-            "time": "17:57",
-            "tag": "MERCADO",
-            "text": "SkyWater Technology Appoints Christine Dunbar as Senior Vice President of Sales and Solutions Engineering"
-        },
-        {
-            "time": "17:49",
+            "time": "19:27",
             "tag": "AI",
-            "text": "AI Spending Shock Triggers Big Tech Selloff And Small-Cap Revival"
+            "text": "Alibaba Faces Pentagon Scrutiny While Advancing Qwen 3.5 AI Ambitions"
+        },
+        {
+            "time": "19:15",
+            "tag": "MERCADO",
+            "text": "Autodesk Stock Analysis 2026: Strong Buy Rating Amid Market Underperformance - News and Statistics"
+        },
+        {
+            "time": "19:11",
+            "tag": "MERCADO",
+            "text": "TUESDAY DEADLINE: F5, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action, Robbins Geller Rudman & Dowd LLP Announces \u2013 Company Announcement"
+        },
+        {
+            "time": "19:11",
+            "tag": "MERCADO",
+            "text": "TUESDAY DEADLINE: F5, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action, Robbins Geller Rudman & Dowd LLP Announces"
+        },
+        {
+            "time": "19:05",
+            "tag": "MERCADO",
+            "text": "Cadence Design, Palo Alto Networks, Kenvue to report earnings Tuesday"
         }
     ]
 }
