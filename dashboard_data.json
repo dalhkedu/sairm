@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-16 14:44 UTC",
+        "last_updated": "2026-02-16 15:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "+0.8%"
+            "change": "-2.23%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "-2.16%"
+            "change": "+1.29%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "+2.54%"
+            "change": "+1.51%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "+2.92%"
+            "change": "+2.0%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "-3.08%"
+            "change": "+3.2%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.52,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
+            0.5,
+            0.49,
+            0.5,
             0.49,
             0.49,
             0.49,
             0.5,
+            0.5,
+            0.5,
             0.49,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.54,
-            24.14,
-            24.13,
-            24.22,
-            24.59,
+            24.81,
+            24.51,
+            24.76,
             24.91,
+            24.75,
+            25.03,
+            25.32,
+            25.76,
+            25.65,
             25.28,
-            25.27,
-            25.04,
-            25.4,
-            25.4,
-            24.94
+            24.81,
+            24.53
         ],
         "hsd_history_software": [
-            10.72,
-            10.57,
-            10.49,
-            10.48,
-            10.52,
-            10.51,
-            10.45,
-            10.3,
+            10.44,
             10.34,
-            10.36,
-            10.35,
-            10.16
+            10.15,
+            9.99,
+            10.08,
+            10.22,
+            10.04,
+            10.02,
+            10.0,
+            10.05,
+            9.91,
+            9.95
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:31",
-            "tag": "MERCADO",
-            "text": "Tyler Technologies (TYL) Is Down 14.4% After 2026 Outlook And New US$1 Billion Buyback Announcement"
+            "time": "14:38",
+            "tag": "AI",
+            "text": "IBM vs. Intel: Which AI-Focused Stock is the Better Buy Today?"
         },
         {
-            "time": "13:27",
-            "tag": "MERCADO",
-            "text": "Have Lattice Semiconductor Insiders Been Selling Stock?"
+            "time": "14:37",
+            "tag": "AI",
+            "text": "Western Digital has exhausted its HDD production capacity for the entire year of 2026 due to the AI boom"
         },
         {
-            "time": "13:25",
+            "time": "14:32",
             "tag": "MERCADO",
-            "text": "RTX Advances Drone Defense with Reusable Counter-System Technology"
+            "text": "Salesforce Isn't Going Anywhere. The SaaS Apocalypse Is Overdone (NYSE:CRM)"
         },
         {
-            "time": "13:17",
+            "time": "14:29",
             "tag": "MERCADO",
-            "text": "Is Wall Street Bullish or Bearish on ServiceNow Stock?"
+            "text": "3 Fidelity ETFs to Buy in February and Hold for a Decade (Or Longer)"
         },
         {
-            "time": "13:11",
+            "time": "14:15",
             "tag": "MERCADO",
-            "text": "M&G PLC Acquires 2,221 Shares of Equinix, Inc. $EQIX"
+            "text": "L3Harris To Begin Modification Work on Korean AEW&C Global 6500s"
         }
     ]
 }
