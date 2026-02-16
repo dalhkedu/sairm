@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-16 22:32 UTC",
+        "last_updated": "2026-02-16 23:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "-2.43%"
+            "change": "+1.22%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "-2.46%"
+            "change": "-0.5%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "+1.13%"
+            "change": "+1.39%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "-1.14%"
+            "change": "+2.5%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "+0.56%"
+            "change": "-0.29%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.51,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.52,
-            0.51,
-            0.52,
-            0.52,
-            0.53,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
+            0.49,
+            0.48,
+            0.47,
+            0.46,
+            0.46,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
+            0.5,
+            0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            24.79,
-            24.79,
-            24.93,
-            25.03,
-            25.29,
-            25.55,
-            25.52,
-            25.79,
-            25.64,
-            25.74,
-            25.31,
-            24.93
+            25.18,
+            25.56,
+            25.27,
+            25.5,
+            25.69,
+            25.39,
+            25.06,
+            25.17,
+            24.75,
+            24.91,
+            24.91,
+            24.67
         ],
         "hsd_history_software": [
-            10.11,
-            9.95,
-            9.81,
-            9.77,
-            9.96,
-            9.97,
-            10.08,
-            10.03,
-            9.95,
-            9.98,
-            9.91,
-            9.95
+            10.3,
+            10.46,
+            10.3,
+            10.21,
+            10.2,
+            10.34,
+            10.24,
+            10.42,
+            10.34,
+            10.15,
+            10.16,
+            9.98
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:43",
-            "tag": "MERCADO",
-            "text": "Inspiring Curiosity, Energizing the Future: NiSource Charitable Foundation Hosts Annual \u2018Introduce a Girl to STEAM\u2019 Event Across Five States"
+            "time": "23:26",
+            "tag": "AI",
+            "text": "Hardware is King: Applied Materials Defies AI Software Slump with Massive Breakout"
         },
         {
-            "time": "21:34",
+            "time": "23:13",
             "tag": "MERCADO",
-            "text": "Elon Musk, Tim Cook add voices to chorus of warnings about \u2018unprecedented\u2019 chip crisis"
+            "text": "GlobalFoundries and Renesas Expand Strategic Collaboration to Enhance Semiconductor Manufacturing and Supply Chain Resilience"
         },
         {
-            "time": "21:22",
+            "time": "23:02",
             "tag": "MERCADO",
-            "text": "Google stock price: Alphabet\u2019s GOOG faces a Tuesday test after Presidents Day pause"
+            "text": "Multibillion-dollar chip deal aims to steady supply for smarter cars, factories"
         },
         {
-            "time": "21:14",
-            "tag": "MERCADO",
-            "text": "Garmin Opens Aviation Facility At Mesa Gateway Airport"
+            "time": "22:30",
+            "tag": "AI",
+            "text": "US Blackstone invests $600M in India\u2019s AI company Neysa"
         },
         {
-            "time": "20:40",
+            "time": "22:27",
             "tag": "MERCADO",
-            "text": "Why Analysts Still See Big Upside in Salesforce After the SaaS Scare"
+            "text": "Apple Announces Unusual Multi-City \u201cApple Experience\u201d for March 4"
         }
     ]
 }
