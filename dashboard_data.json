@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-02-16 02:31 UTC",
+        "last_updated": "2026-02-16 05:02 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "-1.06%"
+            "change": "+0.27%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "+3.11%"
+            "change": "-2.53%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "-3.28%"
+            "change": "-3.19%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "-2.97%"
+            "change": "+1.24%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "+1.69%"
+            "change": "-0.79%"
         }
     ],
     "dashboard_metrics": {
@@ -36,46 +36,46 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.51,
+            0.5,
             0.51,
             0.5,
             0.5,
-            0.51,
-            0.51,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
             0.5,
-            0.51
+            0.51,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.75,
-            25.14,
-            24.69,
-            24.94,
+            24.71,
+            24.57,
+            24.91,
             25.03,
-            25.46,
-            25.56,
-            25.51,
-            26.01,
-            25.64,
-            25.24,
-            24.81
+            24.59,
+            24.75,
+            24.37,
+            24.66,
+            24.18,
+            24.36,
+            24.39,
+            24.6
         ],
         "hsd_history_software": [
-            10.13,
-            10.17,
-            10.28,
-            10.12,
-            10.12,
-            10.13,
-            10.18,
-            10.05,
-            10.11,
-            10.0,
-            9.96,
-            9.8
+            10.24,
+            10.14,
+            10.21,
+            10.27,
+            10.41,
+            10.42,
+            10.39,
+            10.33,
+            10.31,
+            10.3,
+            10.27,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "00:45",
-            "tag": "AI",
-            "text": "Blackstone to Lead $600 Million Investment in AI Firm Neysa"
-        },
-        {
-            "time": "00:44",
-            "tag": "AI",
-            "text": "Rampant AI demand for memory is fueling a growing chip crisis"
-        },
-        {
-            "time": "00:32",
-            "tag": "AI",
-            "text": "Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure"
-        },
-        {
-            "time": "00:27",
-            "tag": "RESULTADOS",
-            "text": "Hinge Health Earnings Call Signals Profitable Growth Path"
-        },
-        {
-            "time": "00:27",
+            "time": "04:37",
             "tag": "MERCADO",
-            "text": "Microsoft, NTT, Others to Form Tech Alliance"
+            "text": "Uber Targets $1 Billion In New Gross Bookings With Expansion Into 7 European Delivery Markets: Report"
+        },
+        {
+            "time": "04:27",
+            "tag": "MERCADO",
+            "text": "Autonomous & Self-Driving Vehicle News: Pony.ai, Toyota, Ouster, StereoLabs, Baidu, Uber, Apollo Go, MSCI, Aurora, Waymo & CaoCao | auto connected car news"
+        },
+        {
+            "time": "03:26",
+            "tag": "MERCADO",
+            "text": "Progressive Investment Management Corp Cuts Amazon.com Position"
+        },
+        {
+            "time": "03:22",
+            "tag": "RESULTADOS",
+            "text": "Palo Alto Networks (PANW) Reports Q4: Everything You Need To Know Ahead Of Earnings"
+        },
+        {
+            "time": "03:11",
+            "tag": "MERCADO",
+            "text": "Sands Capital Trims Nearly 1M Amazon.Com Shares"
         }
     ]
 }
