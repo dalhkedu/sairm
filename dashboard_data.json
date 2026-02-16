@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-16 21:32 UTC",
+        "last_updated": "2026-02-16 22:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "-2.07%"
+            "change": "-2.43%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "-0.79%"
+            "change": "-2.46%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "-2.31%"
+            "change": "+1.13%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "-3.22%"
+            "change": "-1.14%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "+2.29%"
+            "change": "+0.56%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.67,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
+            0.53,
+            0.53,
             0.52,
             0.51,
             0.52,
             0.52,
             0.53,
-            0.53,
-            0.53,
             0.52,
             0.51,
-            0.5
+            0.52,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.81,
-            25.98,
-            26.34,
-            26.35,
-            26.38,
-            26.24,
-            25.98,
-            25.61,
-            25.66,
-            25.23,
-            25.4,
-            25.24
+            24.79,
+            24.79,
+            24.93,
+            25.03,
+            25.29,
+            25.55,
+            25.52,
+            25.79,
+            25.64,
+            25.74,
+            25.31,
+            24.93
         ],
         "hsd_history_software": [
-            9.56,
-            9.63,
+            10.11,
+            9.95,
             9.81,
-            9.65,
-            9.47,
-            9.6,
-            9.69,
-            9.55,
-            9.74,
-            9.85,
-            9.82,
-            9.92
+            9.77,
+            9.96,
+            9.97,
+            10.08,
+            10.03,
+            9.95,
+            9.98,
+            9.91,
+            9.95
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "21:43",
+            "tag": "MERCADO",
+            "text": "Inspiring Curiosity, Energizing the Future: NiSource Charitable Foundation Hosts Annual \u2018Introduce a Girl to STEAM\u2019 Event Across Five States"
+        },
+        {
+            "time": "21:34",
+            "tag": "MERCADO",
+            "text": "Elon Musk, Tim Cook add voices to chorus of warnings about \u2018unprecedented\u2019 chip crisis"
+        },
+        {
             "time": "21:22",
             "tag": "MERCADO",
             "text": "Google stock price: Alphabet\u2019s GOOG faces a Tuesday test after Presidents Day pause"
@@ -136,19 +146,9 @@
             "text": "Garmin Opens Aviation Facility At Mesa Gateway Airport"
         },
         {
-            "time": "20:32",
-            "tag": "AI",
-            "text": "Deere\u2019s AI Push And Tenna Deal Reframe Growth And Cycle Resilience"
-        },
-        {
-            "time": "20:16",
+            "time": "20:40",
             "tag": "MERCADO",
-            "text": "Fidelity National Information Services (NYSE:FIS) Gains Visibility With Russell 1000 Status Change"
-        },
-        {
-            "time": "20:01",
-            "tag": "MERCADO",
-            "text": "Amazon Stock Analysis: Can Amazon Sustain Growth Beyond E-Commerce Dominance?"
+            "text": "Why Analysts Still See Big Upside in Salesforce After the SaaS Scare"
         }
     ]
 }
