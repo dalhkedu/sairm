@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-16 17:39 UTC",
+        "last_updated": "2026-02-16 18:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "-1.89%"
+            "change": "-2.75%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "-2.66%"
+            "change": "+2.13%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "+0.46%"
+            "change": "+2.35%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "+2.46%"
+            "change": "+1.64%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "-0.86%"
+            "change": "+0.45%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.65,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.53,
-            0.52,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
+            0.48,
+            0.48,
+            0.49,
             0.5,
             0.5,
-            0.51
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.19,
-            24.15,
-            24.14,
-            24.49,
-            24.93,
-            24.84,
-            24.39,
-            24.01,
-            24.01,
-            24.43,
-            24.52,
-            24.53
+            24.06,
+            24.28,
+            24.4,
+            24.44,
+            24.47,
+            24.36,
+            24.77,
+            24.36,
+            24.8,
+            25.08,
+            24.64,
+            24.74
         ],
         "hsd_history_software": [
-            10.16,
-            10.13,
-            10.23,
-            10.28,
-            10.11,
-            10.22,
-            10.24,
-            10.16,
+            10.07,
+            9.97,
+            10.04,
             10.12,
-            10.0,
+            10.01,
+            10.15,
+            9.97,
+            10.1,
+            10.03,
             9.99,
-            9.91
+            9.98,
+            10.02
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:46",
-            "tag": "MERCADO",
-            "text": "Allegion earnings on deck as security maker tests margin shift"
-        },
-        {
-            "time": "16:27",
-            "tag": "RESULTADOS",
-            "text": "Assessing Take-Two Interactive Software (TTWO) Valuation After Earnings Beat And Raised Guidance"
-        },
-        {
-            "time": "16:14",
+            "time": "17:49",
             "tag": "AI",
-            "text": "Western Digital Stock: AI Demand Drives 453% Rally, $440 Price Target | 2026 Outlook - News and Statistics"
+            "text": "AI Spending Shock Triggers Big Tech Selloff And Small-Cap Revival"
         },
         {
-            "time": "16:12",
-            "tag": "RESULTADOS",
-            "text": "BKNG Gears Up to Report Q4 Earnings: What's in Store for the Stock?"
-        },
-        {
-            "time": "16:08",
+            "time": "17:37",
             "tag": "MERCADO",
-            "text": "$11.88 Bn Semiconductor Cleanroom Markets - Global Forecast to 2030 with Daifuku, MURATA MACHINERY, Exyte Group, DuPont, and Thermo Fisher Scientific Leading"
+            "text": "10 Information Technology Stocks With Whale Alerts In Today's Session"
+        },
+        {
+            "time": "17:29",
+            "tag": "MERCADO",
+            "text": "Intel Corporation (NASDAQ:INTC) Sees Significant Decline in Short Interest"
+        },
+        {
+            "time": "17:25",
+            "tag": "RESULTADOS",
+            "text": "What to Expect Ahead of Cadence Design's Q4 Earnings Release?"
+        },
+        {
+            "time": "17:01",
+            "tag": "MERCADO",
+            "text": "Bronstein, Gewirtz & Grossman LLC Urges Oracle Corporation"
         }
     ]
 }
