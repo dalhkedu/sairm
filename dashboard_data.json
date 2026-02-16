@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-15 23:30 UTC",
+        "last_updated": "2026-02-16 02:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "-1.96%"
+            "change": "-1.06%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "-2.08%"
+            "change": "+3.11%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "-3.21%"
+            "change": "-3.28%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "+0.01%"
+            "change": "-2.97%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "+1.5%"
+            "change": "+1.69%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.44,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.53,
+            0.53,
+            0.53,
             0.52,
             0.51,
             0.51,
-            0.52,
+            0.5,
+            0.5,
+            0.51,
             0.51,
             0.5,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            23.91,
-            24.02,
-            24.13,
-            24.42,
-            24.15,
-            24.59,
-            24.81,
-            24.48,
-            24.09,
-            24.27,
-            24.64,
-            24.56
+            24.75,
+            25.14,
+            24.69,
+            24.94,
+            25.03,
+            25.46,
+            25.56,
+            25.51,
+            26.01,
+            25.64,
+            25.24,
+            24.81
         ],
         "hsd_history_software": [
-            9.99,
-            9.99,
-            9.93,
-            9.93,
-            10.01,
-            9.86,
-            9.89,
-            10.04,
-            10.07,
+            10.13,
+            10.17,
+            10.28,
+            10.12,
+            10.12,
+            10.13,
+            10.18,
             10.05,
-            10.21,
-            10.09
+            10.11,
+            10.0,
+            9.96,
+            9.8
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:55",
-            "tag": "MERCADO",
-            "text": "Is Apple (AAPL) John Overdeck's Top Pick?"
+            "time": "00:45",
+            "tag": "AI",
+            "text": "Blackstone to Lead $600 Million Investment in AI Firm Neysa"
         },
         {
-            "time": "22:54",
-            "tag": "MERCADO",
-            "text": "Is PG&E Corporation (PCG) Michael Platt's Top Pick?"
+            "time": "00:44",
+            "tag": "AI",
+            "text": "Rampant AI demand for memory is fueling a growing chip crisis"
         },
         {
-            "time": "22:53",
-            "tag": "MERCADO",
-            "text": "Is Amazon.com (AMZN) Mason Morfit's Top Pick?"
+            "time": "00:32",
+            "tag": "AI",
+            "text": "Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure"
         },
         {
-            "time": "22:04",
-            "tag": "MERCADO",
-            "text": "ChartWatch ASX Scans: Cochlear, CSL, Pro Medicus, Telix Pharmaceuticals, Technology One, Rio Tinto"
+            "time": "00:27",
+            "tag": "RESULTADOS",
+            "text": "Hinge Health Earnings Call Signals Profitable Growth Path"
         },
         {
-            "time": "20:47",
+            "time": "00:27",
             "tag": "MERCADO",
-            "text": "Progressive Corp Reinvents Insurance as a Product, Not a Policy"
+            "text": "Microsoft, NTT, Others to Form Tech Alliance"
         }
     ]
 }
