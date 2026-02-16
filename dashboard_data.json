@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-16 09:58 UTC",
+        "last_updated": "2026-02-16 10:58 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "-3.42%"
+            "change": "-2.74%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "-0.09%"
+            "change": "-1.68%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "-0.51%"
+            "change": "+2.65%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "+3.45%"
+            "change": "+0.74%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "+1.25%"
+            "change": "+0.13%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.66,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.51,
             0.5,
             0.51,
             0.52,
             0.52,
             0.52,
-            0.51,
-            0.51,
-            0.51,
             0.52,
             0.52,
             0.51,
-            0.51
+            0.51,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.65,
-            23.36,
-            23.8,
-            24.25,
-            24.14,
-            24.07,
+            25.29,
+            24.87,
+            24.79,
             24.34,
-            24.52,
-            25.0,
-            25.45,
-            25.24,
-            24.78
+            23.94,
+            24.34,
+            24.13,
+            23.89,
+            24.36,
+            24.82,
+            25.16,
+            25.15
         ],
         "hsd_history_software": [
-            10.47,
-            10.47,
-            10.56,
-            10.43,
-            10.56,
-            10.42,
-            10.29,
-            10.4,
-            10.3,
-            10.51,
-            10.31,
-            10.2
+            9.67,
+            9.77,
+            9.95,
+            9.93,
+            10.04,
+            10.04,
+            10.19,
+            10.1,
+            10.16,
+            9.97,
+            10.03,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:20",
-            "tag": "AI",
-            "text": "IBM Expands Entry-Level Hiring Even as AI Reshapes Work"
+            "time": "09:47",
+            "tag": "MERCADO",
+            "text": "Costco launches mobile app ordering for custom cakes and deli trays, easing customer woes"
         },
         {
-            "time": "09:16",
+            "time": "09:44",
             "tag": "MERCADO",
-            "text": "NVIDIA Corporation $NVDA Position Reduced by Barrett & Company Inc."
+            "text": "Bastion Asset Management Inc. Lowers Stake in PayPal Holdings, Inc. $PYPL"
         },
         {
-            "time": "08:36",
+            "time": "09:42",
             "tag": "MERCADO",
-            "text": "Amica Mutual Insurance Co. Sells 3,842 Shares of Tesla, Inc. $TSLA"
+            "text": "Doximity Inc. (NYSE:DOCS) Fits the \"Affordable Growth\" Investment Strategy"
         },
         {
-            "time": "08:36",
+            "time": "09:31",
             "tag": "MERCADO",
-            "text": "Synopsys, Inc. $SNPS Shares Bought by Amica Mutual Insurance Co."
+            "text": "Visual Inspection Software Market to Unlock Strong Revenue"
         },
         {
-            "time": "08:35",
+            "time": "09:31",
             "tag": "MERCADO",
-            "text": "Lam Research Corporation $LRCX Holdings Lowered by Amica Mutual Insurance Co."
+            "text": "Eagle Rock Investment Company LLC Sells 6,809 Shares of Electronic Arts Inc. $EA"
         }
     ]
 }
