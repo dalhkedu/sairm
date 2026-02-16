@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-16 05:02 UTC",
+        "last_updated": "2026-02-16 07:07 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "+0.27%"
+            "change": "+0.68%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "-2.53%"
+            "change": "+1.09%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "-3.19%"
+            "change": "+0.38%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "+1.24%"
+            "change": "-2.37%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "-0.79%"
+            "change": "+2.35%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.63,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.49,
+            0.49,
+            0.5,
             0.5,
             0.51,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.5,
+            0.52,
+            0.51,
+            0.52,
             0.51,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.71,
-            24.57,
+            24.41,
+            24.84,
+            24.92,
+            25.41,
+            25.35,
             24.91,
-            25.03,
-            24.59,
-            24.75,
-            24.37,
-            24.66,
-            24.18,
-            24.36,
-            24.39,
-            24.6
+            24.72,
+            24.24,
+            24.53,
+            24.85,
+            24.9,
+            25.19
         ],
         "hsd_history_software": [
-            10.24,
-            10.14,
-            10.21,
-            10.27,
-            10.41,
-            10.42,
-            10.39,
-            10.33,
-            10.31,
-            10.3,
-            10.27,
-            10.1
+            9.79,
+            9.67,
+            9.52,
+            9.65,
+            9.74,
+            9.68,
+            9.71,
+            9.65,
+            9.83,
+            9.9,
+            9.83,
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:37",
+            "time": "07:00",
             "tag": "MERCADO",
-            "text": "Uber Targets $1 Billion In New Gross Bookings With Expansion Into 7 European Delivery Markets: Report"
+            "text": "Honda racing again to show top carbon-neutral tech in F1"
         },
         {
-            "time": "04:27",
-            "tag": "MERCADO",
-            "text": "Autonomous & Self-Driving Vehicle News: Pony.ai, Toyota, Ouster, StereoLabs, Baidu, Uber, Apollo Go, MSCI, Aurora, Waymo & CaoCao | auto connected car news"
+            "time": "06:28",
+            "tag": "AI",
+            "text": "AI and jobs what? IBM plans to hire 3X more entry-level employees this year"
         },
         {
-            "time": "03:26",
-            "tag": "MERCADO",
-            "text": "Progressive Investment Management Corp Cuts Amazon.com Position"
+            "time": "05:26",
+            "tag": "AI",
+            "text": "ISRG (Intuitive Surgical) NASDAQ pre-market $485.84 16 Feb 2026: AI edge in surgeries"
         },
         {
-            "time": "03:22",
-            "tag": "RESULTADOS",
-            "text": "Palo Alto Networks (PANW) Reports Q4: Everything You Need To Know Ahead Of Earnings"
+            "time": "05:09",
+            "tag": "MERCADO",
+            "text": "The Truth About Paycom Software Inc.: Is This HR Tech Stock a Silent Wreck or a Comeback Story?"
         },
         {
-            "time": "03:11",
+            "time": "05:02",
             "tag": "MERCADO",
-            "text": "Sands Capital Trims Nearly 1M Amazon.Com Shares"
+            "text": "Spok Holdings: Quiet Outperformance From A Healthcare Communications Veteran"
         }
     ]
 }
