@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-16 08:54 UTC",
+        "last_updated": "2026-02-16 09:58 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "-2.74%"
+            "change": "-3.42%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "-2.24%"
+            "change": "-0.09%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "+1.06%"
+            "change": "-0.51%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "-0.66%"
+            "change": "+3.45%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "+0.92%"
+            "change": "+1.25%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.65,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
             0.5,
-            0.5
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.02,
-            24.82,
-            24.99,
-            24.55,
-            24.46,
-            24.28,
-            24.1,
-            24.5,
-            24.35,
-            24.09,
-            24.55,
-            24.6
+            23.65,
+            23.36,
+            23.8,
+            24.25,
+            24.14,
+            24.07,
+            24.34,
+            24.52,
+            25.0,
+            25.45,
+            25.24,
+            24.78
         ],
         "hsd_history_software": [
-            10.27,
-            10.08,
-            9.95,
-            10.02,
-            10.14,
-            9.96,
-            10.08,
-            10.05,
-            9.86,
-            9.9,
-            9.91,
-            10.03
+            10.47,
+            10.47,
+            10.56,
+            10.43,
+            10.56,
+            10.42,
+            10.29,
+            10.4,
+            10.3,
+            10.51,
+            10.31,
+            10.2
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:18",
-            "tag": "MERCADO",
-            "text": "Aberdeen Group plc Increases Stake in TE Connectivity Ltd. $TEL"
-        },
-        {
-            "time": "08:17",
-            "tag": "MERCADO",
-            "text": "Aberdeen Group plc Raises Holdings in Synopsys, Inc. $SNPS"
-        },
-        {
-            "time": "08:02",
-            "tag": "MERCADO",
-            "text": "Alibaba shares fall after Pentagon briefly adds it to 'blacklist'"
-        },
-        {
-            "time": "07:54",
+            "time": "09:20",
             "tag": "AI",
-            "text": "Pre-market TER Teradyne (NASDAQ) $314.66 16 Feb 2026: AI stocks momentum to watch"
+            "text": "IBM Expands Entry-Level Hiring Even as AI Reshapes Work"
         },
         {
-            "time": "07:27",
+            "time": "09:16",
             "tag": "MERCADO",
-            "text": "Fortinet enhances FortiCNAPP with unified cloud risk visibility across network and data layers"
+            "text": "NVIDIA Corporation $NVDA Position Reduced by Barrett & Company Inc."
+        },
+        {
+            "time": "08:36",
+            "tag": "MERCADO",
+            "text": "Amica Mutual Insurance Co. Sells 3,842 Shares of Tesla, Inc. $TSLA"
+        },
+        {
+            "time": "08:36",
+            "tag": "MERCADO",
+            "text": "Synopsys, Inc. $SNPS Shares Bought by Amica Mutual Insurance Co."
+        },
+        {
+            "time": "08:35",
+            "tag": "MERCADO",
+            "text": "Lam Research Corporation $LRCX Holdings Lowered by Amica Mutual Insurance Co."
         }
     ]
 }
