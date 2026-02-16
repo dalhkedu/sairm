@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-16 18:50 UTC",
+        "last_updated": "2026-02-16 19:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "-2.75%"
+            "change": "+2.52%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "+2.13%"
+            "change": "+1.87%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "+2.35%"
+            "change": "+3.34%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "+1.64%"
+            "change": "-2.41%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "+0.45%"
+            "change": "+3.34%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.55,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.53,
+            0.53,
+            0.52,
+            0.51,
+            0.51,
             0.5,
             0.5,
             0.51,
             0.51,
+            0.51,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.06,
-            24.28,
-            24.4,
-            24.44,
-            24.47,
-            24.36,
-            24.77,
-            24.36,
-            24.8,
-            25.08,
-            24.64,
-            24.74
+            24.94,
+            25.11,
+            25.0,
+            25.12,
+            24.84,
+            24.95,
+            25.1,
+            25.16,
+            24.98,
+            25.45,
+            25.34,
+            24.97
         ],
         "hsd_history_software": [
-            10.07,
-            9.97,
-            10.04,
-            10.12,
-            10.01,
-            10.15,
-            9.97,
-            10.1,
+            10.31,
+            10.24,
+            10.33,
+            10.37,
+            10.22,
+            10.33,
+            10.22,
             10.03,
-            9.99,
-            9.98,
-            10.02
+            9.95,
+            9.88,
+            9.95,
+            9.93
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "18:17",
+            "tag": "MERCADO",
+            "text": "AT&T, T-Mobile, Verizon Hit With Location Sharing Patent Suits"
+        },
+        {
+            "time": "18:15",
+            "tag": "MERCADO",
+            "text": "AT&T, T-Mobile, Verizon Hit With Location Sharing Patent Suits"
+        },
+        {
+            "time": "18:01",
+            "tag": "MERCADO",
+            "text": "Oracle Wins Role in CMS Cloud Consolidation Effort"
+        },
+        {
+            "time": "17:57",
+            "tag": "MERCADO",
+            "text": "SkyWater Technology Appoints Christine Dunbar as Senior Vice President of Sales and Solutions Engineering"
+        },
+        {
             "time": "17:49",
             "tag": "AI",
             "text": "AI Spending Shock Triggers Big Tech Selloff And Small-Cap Revival"
-        },
-        {
-            "time": "17:37",
-            "tag": "MERCADO",
-            "text": "10 Information Technology Stocks With Whale Alerts In Today's Session"
-        },
-        {
-            "time": "17:29",
-            "tag": "MERCADO",
-            "text": "Intel Corporation (NASDAQ:INTC) Sees Significant Decline in Short Interest"
-        },
-        {
-            "time": "17:25",
-            "tag": "RESULTADOS",
-            "text": "What to Expect Ahead of Cadence Design's Q4 Earnings Release?"
-        },
-        {
-            "time": "17:01",
-            "tag": "MERCADO",
-            "text": "Bronstein, Gewirtz & Grossman LLC Urges Oracle Corporation"
         }
     ]
 }
