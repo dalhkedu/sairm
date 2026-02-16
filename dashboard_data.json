@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-16 07:07 UTC",
+        "last_updated": "2026-02-16 08:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "+0.68%"
+            "change": "-2.74%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "+1.09%"
+            "change": "-2.24%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "+0.38%"
+            "change": "+1.06%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "-2.37%"
+            "change": "-0.66%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "+2.35%"
+            "change": "+0.92%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.52,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.47,
+            0.48,
+            0.48,
             0.49,
-            0.49,
+            0.48,
             0.49,
             0.5,
-            0.5,
-            0.51,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.41,
-            24.84,
-            24.92,
-            25.41,
-            25.35,
-            24.91,
-            24.72,
-            24.24,
-            24.53,
-            24.85,
-            24.9,
-            25.19
+            25.02,
+            24.82,
+            24.99,
+            24.55,
+            24.46,
+            24.28,
+            24.1,
+            24.5,
+            24.35,
+            24.09,
+            24.55,
+            24.6
         ],
         "hsd_history_software": [
-            9.79,
-            9.67,
-            9.52,
-            9.65,
-            9.74,
-            9.68,
-            9.71,
-            9.65,
-            9.83,
+            10.27,
+            10.08,
+            9.95,
+            10.02,
+            10.14,
+            9.96,
+            10.08,
+            10.05,
+            9.86,
             9.9,
-            9.83,
-            9.87
+            9.91,
+            10.03
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:00",
+            "time": "08:18",
             "tag": "MERCADO",
-            "text": "Honda racing again to show top carbon-neutral tech in F1"
+            "text": "Aberdeen Group plc Increases Stake in TE Connectivity Ltd. $TEL"
         },
         {
-            "time": "06:28",
+            "time": "08:17",
+            "tag": "MERCADO",
+            "text": "Aberdeen Group plc Raises Holdings in Synopsys, Inc. $SNPS"
+        },
+        {
+            "time": "08:02",
+            "tag": "MERCADO",
+            "text": "Alibaba shares fall after Pentagon briefly adds it to 'blacklist'"
+        },
+        {
+            "time": "07:54",
             "tag": "AI",
-            "text": "AI and jobs what? IBM plans to hire 3X more entry-level employees this year"
+            "text": "Pre-market TER Teradyne (NASDAQ) $314.66 16 Feb 2026: AI stocks momentum to watch"
         },
         {
-            "time": "05:26",
-            "tag": "AI",
-            "text": "ISRG (Intuitive Surgical) NASDAQ pre-market $485.84 16 Feb 2026: AI edge in surgeries"
-        },
-        {
-            "time": "05:09",
+            "time": "07:27",
             "tag": "MERCADO",
-            "text": "The Truth About Paycom Software Inc.: Is This HR Tech Stock a Silent Wreck or a Comeback Story?"
-        },
-        {
-            "time": "05:02",
-            "tag": "MERCADO",
-            "text": "Spok Holdings: Quiet Outperformance From A Healthcare Communications Veteran"
+            "text": "Fortinet enhances FortiCNAPP with unified cloud risk visibility across network and data layers"
         }
     ]
 }
