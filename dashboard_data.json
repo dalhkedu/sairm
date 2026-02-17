@@ -1,37 +1,37 @@
 {
     "metadata": {
-        "last_updated": "2026-02-17 14:50 UTC",
+        "last_updated": "2026-02-17 15:56 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 180.82,
-            "change": "-0.27%"
+            "price": 181.45,
+            "change": "+0.25%"
         },
         {
             "symbol": "AMD",
-            "price": 200.36,
-            "change": "-2.76%"
+            "price": 199.48,
+            "change": "+2.67%"
         },
         {
             "symbol": "MSFT",
-            "price": 396.62,
-            "change": "+2.62%"
+            "price": 398.12,
+            "change": "+2.49%"
         },
         {
             "symbol": "CEG",
-            "price": 295.52,
-            "change": "-2.01%"
+            "price": 300.53,
+            "change": "+0.75%"
         },
         {
             "symbol": "VST",
-            "price": 171.74,
-            "change": "+2.52%"
+            "price": 174.12,
+            "change": "-2.99%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.6,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
@@ -42,7 +42,7 @@
             0.5,
             0.5,
             0.51,
-            0.51,
+            0.5,
             0.51,
             0.51,
             0.5,
@@ -50,36 +50,36 @@
             0.5
         ],
         "hsd_history_hardware": [
-            23.34,
-            23.3,
-            23.54,
-            23.91,
-            24.29,
-            24.36,
-            24.67,
-            24.61,
-            24.62,
-            25.06,
-            24.94,
-            25.01
+            26.02,
+            26.12,
+            26.04,
+            26.32,
+            26.83,
+            26.81,
+            26.64,
+            26.35,
+            25.88,
+            25.42,
+            25.65,
+            25.32
         ],
         "hsd_history_software": [
-            10.04,
-            10.08,
-            9.97,
-            10.06,
-            10.08,
-            9.91,
-            9.93,
-            9.84,
-            10.0,
-            9.93,
-            9.95,
-            10.02
+            10.13,
+            10.18,
+            10.02,
+            10.14,
+            10.26,
+            10.19,
+            10.13,
+            10.14,
+            10.1,
+            10.03,
+            10.19,
+            10.19
         ],
         "rci_data": [
             85.0,
-            18.081999999999997
+            18.145
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:56",
+            "time": "14:58",
             "tag": "MERCADO",
-            "text": "Should You Invest in the Invesco Dorsey Wright Technology Momentum ETF (PTF)?"
+            "text": "Kratos (KTOS) Secures Ground Segment Contract for OmanSat-1 Proj"
         },
         {
-            "time": "13:45",
+            "time": "14:54",
             "tag": "MERCADO",
-            "text": "NetXD Positioned as a Visionary in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Banking Payment Hub Platforms"
+            "text": "Mariner, State Street to scale operations via Charles River platform"
         },
         {
-            "time": "13:32",
-            "tag": "MERCADO",
-            "text": "Jabil Releases Fiscal Year 2025 Sustainability Progress Report"
+            "time": "14:52",
+            "tag": "AI",
+            "text": "GE HealthCare, BARDA expand collab with $35M AI-powered ultrasound expansion"
         },
         {
-            "time": "13:32",
+            "time": "14:44",
             "tag": "MERCADO",
-            "text": "New tech and quality chiefs signal Integra\u2019s next growth push"
+            "text": "ServiceNow CEO steps up with $3 million stock purchase announcement as executives cancel stock-selling plans"
         },
         {
-            "time": "13:32",
+            "time": "14:41",
             "tag": "MERCADO",
-            "text": "SimuTech Group Named 2025 Worldwide Channel Partner of the Year at Synopsys' Simulation and Analysis Global Sales Conference"
+            "text": "Palo Alto Networks To Acquire \u2018Agentic Endpoint\u2019 Security Startup Koi"
         }
     ]
 }
