@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-17 17:03 UTC",
+        "last_updated": "2026-02-17 19:01 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 183.9,
-            "change": "-3.05%"
+            "price": 185.5,
+            "change": "+1.23%"
         },
         {
             "symbol": "AMD",
-            "price": 202.8,
-            "change": "-3.25%"
+            "price": 203.96,
+            "change": "+1.59%"
         },
         {
             "symbol": "MSFT",
-            "price": 398.27,
-            "change": "+0.69%"
+            "price": 397.01,
+            "change": "-3.09%"
         },
         {
             "symbol": "CEG",
-            "price": 301.94,
-            "change": "-2.74%"
+            "price": 300.79,
+            "change": "+0.12%"
         },
         {
             "symbol": "VST",
-            "price": 175.37,
-            "change": "-1.35%"
+            "price": 173.97,
+            "change": "+3.14%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
-        "rci_current": 0.18,
+        "cer_current": 0.57,
+        "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.46,
-            0.46,
-            0.47,
-            0.47,
-            0.47,
+            0.49,
+            0.49,
             0.48,
-            0.47,
-            0.47,
+            0.48,
+            0.48,
+            0.48,
             0.48,
             0.49,
-            0.49
+            0.48,
+            0.49,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.57,
+            24.46,
             24.92,
-            24.8,
-            24.81,
-            24.87,
-            24.62,
-            24.69,
-            24.59,
-            25.01,
-            25.21,
-            25.07,
-            24.96
+            25.23,
+            24.96,
+            25.13,
+            25.31,
+            25.27,
+            25.27,
+            24.94,
+            25.41,
+            25.27,
+            25.29
         ],
         "hsd_history_software": [
-            9.59,
-            9.69,
-            9.63,
+            9.87,
+            9.96,
+            10.0,
+            9.88,
             9.83,
-            9.75,
-            9.71,
-            9.91,
-            10.09,
-            10.13,
-            10.26,
-            10.2,
-            10.19
+            9.9,
+            9.72,
+            9.78,
+            9.8,
+            9.87,
+            9.94,
+            9.93
         ],
         "rci_data": [
             85.0,
-            18.39
+            18.55
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:23",
+            "time": "18:23",
             "tag": "MERCADO",
-            "text": "Enphase launches software-based export management"
+            "text": "Saudi's Public Investment Fund dissolves stake in Take-Two Interactive"
         },
         {
-            "time": "16:20",
+            "time": "18:16",
             "tag": "MERCADO",
-            "text": "DTE nears deal to serve second major Michigan data center, with more in line"
+            "text": "Insider Sell: Reuben Shaffer Sells 1,425 Shares of TE Connectivi"
         },
         {
-            "time": "16:17",
+            "time": "18:06",
             "tag": "MERCADO",
-            "text": "HP Inc (HPQ) Trading Down 3.12% on Feb 17"
+            "text": "Jabil cuts emissions 47% since 2019"
         },
         {
-            "time": "16:17",
+            "time": "18:02",
             "tag": "MERCADO",
-            "text": "DTE Energy\u2019s 5-year spending plan jumps 20% on data center, reliability investments"
+            "text": "New Uber\u2013Life360 link lets parents track every teen ride in real time"
         },
         {
-            "time": "16:17",
+            "time": "18:02",
             "tag": "MERCADO",
-            "text": "Why Gartner keeps ranking Salesforce's Informatica a data quality Leader"
+            "text": "Life360 and Uber Announce New Integration to Help Families Stay Connected on Every Trip"
         }
     ]
 }
