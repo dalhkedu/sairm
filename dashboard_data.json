@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-17 08:52 UTC",
+        "last_updated": "2026-02-17 09:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "-1.96%"
+            "change": "-0.31%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "-3.11%"
+            "change": "+1.7%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "-0.52%"
+            "change": "+1.44%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "+3.05%"
+            "change": "+1.77%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "+3.04%"
+            "change": "-1.85%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.64,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.5,
             0.51,
-            0.51,
-            0.5,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
             0.5,
             0.5,
-            0.49,
             0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            23.33,
-            23.42,
-            23.88,
+            25.43,
+            25.04,
+            24.59,
+            24.73,
+            24.57,
             24.32,
-            23.85,
-            23.87,
-            24.21,
-            24.31,
-            24.3,
-            24.65,
-            24.55,
-            24.79
+            24.37,
+            24.8,
+            24.52,
+            24.39,
+            24.04,
+            24.53
         ],
         "hsd_history_software": [
-            9.94,
-            10.03,
-            10.12,
+            10.37,
+            10.4,
+            10.43,
+            10.32,
+            10.35,
+            10.55,
+            10.55,
+            10.38,
+            10.29,
+            10.16,
             10.05,
-            10.06,
-            9.92,
-            10.12,
-            9.92,
-            9.79,
-            9.63,
-            9.74,
-            9.83
+            10.16
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:23",
+            "time": "08:48",
             "tag": "MERCADO",
-            "text": "Compass Point Upgrades Upstart Holdings Inc (UPST) to Neutral"
+            "text": "Exchange Bank Buys 3,105 Shares of NVIDIA Corporation $NVDA"
         },
         {
-            "time": "07:10",
+            "time": "08:47",
             "tag": "MERCADO",
-            "text": "Roper Technologies Stock: Analyst Estimates & Ratings"
+            "text": "Atria Investments Inc Sells 5,452 Shares of Electronic Arts Inc. $EA"
         },
         {
-            "time": "07:06",
+            "time": "08:47",
             "tag": "MERCADO",
-            "text": "Jabil\u2019s Graham Scott Engages Strategic Suppliers Through Procurement Technology: Pros to Know Award"
+            "text": "Envestnet Asset Management Inc. Buys 30,686 Shares of Align Technology, Inc. $ALGN"
         },
         {
-            "time": "06:56",
+            "time": "08:35",
             "tag": "MERCADO",
-            "text": "Cloudflare, Inc. (NET) Citigroup Maintains Coverage with a Buy Rating"
+            "text": "Ziff Davis, Inc. (NASDAQ:ZD) Given Average Rating of \"Hold\" by Brokerages"
         },
         {
-            "time": "06:42",
+            "time": "08:31",
             "tag": "MERCADO",
-            "text": "Short Interest in Similarweb Ltd. (NYSE:SMWB) Expands By 23.1%"
+            "text": "Applied Materials expands Israel R&D hub months after layoffs"
         }
     ]
 }
