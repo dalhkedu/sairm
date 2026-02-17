@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-16 23:32 UTC",
+        "last_updated": "2026-02-17 02:28 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "+1.22%"
+            "change": "+1.27%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "-0.5%"
+            "change": "+1.84%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "+1.39%"
+            "change": "-0.84%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "+2.5%"
+            "change": "+0.36%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "-0.29%"
+            "change": "+2.24%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.52,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
-            0.48,
-            0.47,
-            0.46,
-            0.46,
-            0.47,
-            0.47,
-            0.48,
+            0.49,
+            0.49,
             0.49,
             0.5,
+            0.49,
+            0.5,
+            0.49,
+            0.5,
+            0.49,
             0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            25.18,
-            25.56,
-            25.27,
-            25.5,
-            25.69,
-            25.39,
+            25.02,
+            24.63,
+            24.68,
+            24.85,
             25.06,
-            25.17,
-            24.75,
-            24.91,
-            24.91,
-            24.67
+            25.55,
+            25.57,
+            25.57,
+            25.78,
+            25.44,
+            25.68,
+            25.4
         ],
         "hsd_history_software": [
-            10.3,
-            10.46,
-            10.3,
-            10.21,
-            10.2,
-            10.34,
-            10.24,
-            10.42,
-            10.34,
+            9.81,
+            9.86,
+            9.96,
+            10.12,
+            10.32,
             10.15,
+            10.28,
             10.16,
-            9.98
+            10.04,
+            10.12,
+            10.25,
+            10.16
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "23:26",
+            "time": "01:58",
+            "tag": "RESULTADOS",
+            "text": "5 Must-Read Analyst Questions From monday.com's Q4 Earnings Call"
+        },
+        {
+            "time": "01:09",
             "tag": "AI",
-            "text": "Hardware is King: Applied Materials Defies AI Software Slump with Massive Breakout"
+            "text": "Faraday Future Announces Improvement Plan for EAI Robotics"
         },
         {
-            "time": "23:13",
+            "time": "01:02",
             "tag": "MERCADO",
-            "text": "GlobalFoundries and Renesas Expand Strategic Collaboration to Enhance Semiconductor Manufacturing and Supply Chain Resilience"
+            "text": "F5, Inc. Deadline Tomorrow: Rosen Law Firm Urges F5, Inc. (NASDAQ: FFIV) Stockholders to Contact the Firm for Information About Their Rights"
         },
         {
-            "time": "23:02",
+            "time": "00:41",
+            "tag": "RESULTADOS",
+            "text": "Forex Signals Feb 7: Palo Alto PANW, Coca-Cola, and Medtronic Earnings Preview"
+        },
+        {
+            "time": "00:00",
             "tag": "MERCADO",
-            "text": "Multibillion-dollar chip deal aims to steady supply for smarter cars, factories"
-        },
-        {
-            "time": "22:30",
-            "tag": "AI",
-            "text": "US Blackstone invests $600M in India\u2019s AI company Neysa"
-        },
-        {
-            "time": "22:27",
-            "tag": "MERCADO",
-            "text": "Apple Announces Unusual Multi-City \u201cApple Experience\u201d for March 4"
+            "text": "Decoding early synaptic failure in Alzheimer\u2019s disease through multiomic analysis"
         }
     ]
 }
