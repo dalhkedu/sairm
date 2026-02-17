@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-17 11:41 UTC",
+        "last_updated": "2026-02-17 13:11 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "-0.31%"
+            "change": "+3.43%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "+0.94%"
+            "change": "+0.54%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "+0.62%"
+            "change": "-1.18%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "-2.43%"
+            "change": "-0.68%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "-2.49%"
+            "change": "-3.3%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.65,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.49,
             0.5,
             0.49,
             0.49,
+            0.5,
+            0.49,
             0.49,
             0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
+            24.76,
             24.96,
-            24.94,
-            25.11,
-            24.7,
-            24.87,
-            24.41,
-            24.29,
-            24.71,
-            24.83,
-            25.21,
-            25.55,
-            25.45
+            25.42,
+            24.99,
+            24.76,
+            24.63,
+            24.43,
+            24.58,
+            24.61,
+            24.42,
+            24.64,
+            24.61
         ],
         "hsd_history_software": [
-            9.32,
-            9.41,
-            9.57,
+            9.75,
+            9.91,
+            9.82,
             9.66,
-            9.79,
-            9.98,
-            10.08,
-            10.26,
-            10.2,
-            10.38,
-            10.37,
-            10.19
+            9.65,
+            9.72,
+            9.84,
+            9.76,
+            9.85,
+            9.99,
+            9.8,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:15",
+            "time": "12:26",
             "tag": "MERCADO",
-            "text": "ServiceNow Inc (NOW) Sees Subscription Sales Accelerating in 2026"
+            "text": "NEOS Investment Management LLC Buys 178,825 Shares of Verizon Communications Inc. $VZ"
         },
         {
-            "time": "11:05",
+            "time": "12:26",
             "tag": "MERCADO",
-            "text": "NetApp, Inc. $NTAP Shares Sold by Shell Asset Management Co."
+            "text": "NEOS Investment Management LLC Buys 39,353 Shares of Synopsys, Inc. $SNPS"
         },
         {
-            "time": "11:03",
-            "tag": "AI",
-            "text": "Dan Ives Calls AI-Driven Software Selloff 'Most Disconnected Trade,' Says Salesforce And ServiceNow Are Historic Buys"
+            "time": "12:25",
+            "tag": "MERCADO",
+            "text": "Thrivent Financial for Lutherans Sells 1,532,992 Shares of Best Buy Co., Inc. $BBY"
         },
         {
-            "time": "11:02",
+            "time": "12:25",
             "tag": "MERCADO",
-            "text": "Palo Alto Networks Introduces MSIAM 2.0 with the Industry's Most Comprehensive Breach Response Guarantee"
+            "text": "Salesforce Inc. $CRM Position Lifted by NEOS Investment Management LLC"
         },
         {
-            "time": "11:02",
+            "time": "12:25",
             "tag": "MERCADO",
-            "text": "Palo Alto Networks Introduces MSIAM 2.0 with the Industry's Most Comprehensive Breach Response Guarantee"
+            "text": "NEOS Investment Management LLC Purchases 74,292 Shares of Analog Devices, Inc. $ADI"
         }
     ]
 }
