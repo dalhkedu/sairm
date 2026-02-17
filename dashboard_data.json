@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-17 19:01 UTC",
+        "last_updated": "2026-02-17 20:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 185.5,
-            "change": "+1.23%"
+            "price": 184.97,
+            "change": "+1.17%"
         },
         {
             "symbol": "AMD",
-            "price": 203.96,
-            "change": "+1.59%"
+            "price": 202.28,
+            "change": "+0.43%"
         },
         {
             "symbol": "MSFT",
-            "price": 397.01,
-            "change": "-3.09%"
+            "price": 396.43,
+            "change": "+0.78%"
         },
         {
             "symbol": "CEG",
-            "price": 300.79,
-            "change": "+0.12%"
+            "price": 299.15,
+            "change": "+2.86%"
         },
         {
             "symbol": "VST",
-            "price": 173.97,
-            "change": "+3.14%"
+            "price": 173.29,
+            "change": "+1.71%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
-        "rci_current": 0.19,
+        "cer_current": 0.47,
+        "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.5,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            24.46,
-            24.92,
-            25.23,
-            24.96,
-            25.13,
-            25.31,
-            25.27,
-            25.27,
-            24.94,
-            25.41,
-            25.27,
-            25.29
+            27.34,
+            26.81,
+            26.68,
+            27.12,
+            26.92,
+            26.83,
+            26.35,
+            26.07,
+            25.92,
+            25.95,
+            25.48,
+            25.32
         ],
         "hsd_history_software": [
-            9.87,
-            9.96,
-            10.0,
-            9.88,
-            9.83,
-            9.9,
-            9.72,
-            9.78,
-            9.8,
-            9.87,
-            9.94,
-            9.93
+            10.56,
+            10.4,
+            10.49,
+            10.68,
+            10.47,
+            10.38,
+            10.22,
+            10.04,
+            10.07,
+            10.2,
+            10.13,
+            10.0
         ],
         "rci_data": [
             85.0,
-            18.55
+            18.497
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:23",
+            "time": "20:00",
             "tag": "MERCADO",
-            "text": "Saudi's Public Investment Fund dissolves stake in Take-Two Interactive"
+            "text": "NeoVolta updates fiscal 2026 financial performance"
         },
         {
-            "time": "18:16",
+            "time": "19:45",
             "tag": "MERCADO",
-            "text": "Insider Sell: Reuben Shaffer Sells 1,425 Shares of TE Connectivi"
+            "text": "Upstart Stock Up 4.8% After Neutral Rating & $30 Price Target - News and Statistics"
         },
         {
-            "time": "18:06",
+            "time": "19:31",
             "tag": "MERCADO",
-            "text": "Jabil cuts emissions 47% since 2019"
+            "text": "Medtronic completes first U.S. cases with Hugo"
         },
         {
-            "time": "18:02",
+            "time": "19:27",
             "tag": "MERCADO",
-            "text": "New Uber\u2013Life360 link lets parents track every teen ride in real time"
+            "text": "Portnoy Law Firm Announces Class Action on Behalf of Oracle Corporation Investors"
         },
         {
-            "time": "18:02",
+            "time": "19:05",
             "tag": "MERCADO",
-            "text": "Life360 and Uber Announce New Integration to Help Families Stay Connected on Every Trip"
+            "text": "T1 Energy Stock Surges Amid Expansion Plans and Strategic Moves"
         }
     ]
 }
