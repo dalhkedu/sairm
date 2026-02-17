@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-17 04:55 UTC",
+        "last_updated": "2026-02-17 05:59 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "+0.82%"
+            "change": "-0.92%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "+2.98%"
+            "change": "+1.85%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "+3.18%"
+            "change": "-1.28%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "-0.74%"
+            "change": "-0.38%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "+2.7%"
+            "change": "-1.37%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.62,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.52,
+            0.52,
+            0.52,
             0.51,
             0.51,
-            0.52,
-            0.53,
-            0.52,
+            0.51,
+            0.51,
             0.51,
             0.51,
             0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            25.9,
-            25.56,
-            25.56,
-            25.27,
-            24.9,
-            25.18,
-            25.63,
-            25.13,
-            24.98,
-            24.65,
-            24.69,
-            24.92
+            24.56,
+            24.61,
+            24.45,
+            24.56,
+            24.12,
+            24.46,
+            24.68,
+            24.89,
+            24.91,
+            24.88,
+            24.5,
+            24.88
         ],
         "hsd_history_software": [
-            9.64,
-            9.54,
-            9.73,
-            9.57,
-            9.67,
-            9.75,
-            9.78,
-            9.92,
             9.78,
             9.66,
+            9.67,
+            9.63,
+            9.7,
+            9.58,
             9.71,
-            9.87
+            9.68,
+            9.8,
+            9.99,
+            10.13,
+            9.96
         ],
         "rci_data": [
             85.0,
@@ -146,9 +146,9 @@
             "text": "What To Expect From Omnicom Group's (OMC) Q4 Earnings"
         },
         {
-            "time": "02:45",
-            "tag": "AI",
-            "text": "Infosys AI Day 2026: Nandan Nilekani, Salil Parekh To Outline Strategy As AI Reshapes IT Services"
+            "time": "03:33",
+            "tag": "RESULTADOS",
+            "text": "Analog Devices Earnings Report 2026: Revenue Forecast & Analyst Expectations - News and Statistics"
         }
     ]
 }
