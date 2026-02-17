@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-17 09:54 UTC",
+        "last_updated": "2026-02-17 10:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.81,
-            "change": "-0.31%"
+            "change": "-0.65%"
         },
         {
             "symbol": "AMD",
             "price": 207.32,
-            "change": "+1.7%"
+            "change": "-1.12%"
         },
         {
             "symbol": "MSFT",
             "price": 401.32,
-            "change": "+1.44%"
+            "change": "-2.57%"
         },
         {
             "symbol": "CEG",
             "price": 288.43,
-            "change": "+1.77%"
+            "change": "+2.08%"
         },
         {
             "symbol": "VST",
             "price": 171.49,
-            "change": "-1.85%"
+            "change": "+3.01%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.56,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
             0.5,
+            0.5,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.5
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.43,
-            25.04,
-            24.59,
-            24.73,
-            24.57,
-            24.32,
-            24.37,
-            24.8,
-            24.52,
-            24.39,
-            24.04,
-            24.53
+            24.94,
+            25.15,
+            25.58,
+            25.22,
+            25.14,
+            25.25,
+            25.03,
+            25.28,
+            24.79,
+            24.63,
+            24.27,
+            24.66
         ],
         "hsd_history_software": [
-            10.37,
-            10.4,
-            10.43,
-            10.32,
-            10.35,
-            10.55,
-            10.55,
-            10.38,
-            10.29,
-            10.16,
-            10.05,
-            10.16
+            9.24,
+            9.17,
+            9.3,
+            9.38,
+            9.42,
+            9.61,
+            9.67,
+            9.75,
+            9.8,
+            9.88,
+            9.92,
+            9.91
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:48",
+            "time": "09:57",
             "tag": "MERCADO",
-            "text": "Exchange Bank Buys 3,105 Shares of NVIDIA Corporation $NVDA"
+            "text": "ChartWatch ASX Scans: Treasury Wine Estates, Telix Pharmaceuticals, Audinate, Accent Group, G50 Corp, Webjet"
         },
         {
-            "time": "08:47",
+            "time": "09:52",
             "tag": "MERCADO",
-            "text": "Atria Investments Inc Sells 5,452 Shares of Electronic Arts Inc. $EA"
+            "text": "Merit Financial Group LLC Buys 58,081 Shares of Intel Corporation $INTC"
         },
         {
-            "time": "08:47",
+            "time": "09:46",
             "tag": "MERCADO",
-            "text": "Envestnet Asset Management Inc. Buys 30,686 Shares of Align Technology, Inc. $ALGN"
+            "text": "Crestwood Advisors Group LLC Sells 37,682 Shares of Fiserv, Inc. $FISV"
         },
         {
-            "time": "08:35",
+            "time": "09:40",
             "tag": "MERCADO",
-            "text": "Ziff Davis, Inc. (NASDAQ:ZD) Given Average Rating of \"Hold\" by Brokerages"
+            "text": "Crestwood Advisors Group LLC Boosts Stock Position in International Business Machines Corporation $IBM"
         },
         {
-            "time": "08:31",
+            "time": "09:32",
             "tag": "MERCADO",
-            "text": "Applied Materials expands Israel R&D hub months after layoffs"
+            "text": "Cardano Risk Management B.V. Buys 19,857 Shares of Salesforce Inc. $CRM"
         }
     ]
 }
