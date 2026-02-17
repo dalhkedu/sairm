@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-17 15:56 UTC",
+        "last_updated": "2026-02-17 17:03 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 181.45,
-            "change": "+0.25%"
+            "price": 183.9,
+            "change": "-3.05%"
         },
         {
             "symbol": "AMD",
-            "price": 199.48,
-            "change": "+2.67%"
+            "price": 202.8,
+            "change": "-3.25%"
         },
         {
             "symbol": "MSFT",
-            "price": 398.12,
-            "change": "+2.49%"
+            "price": 398.27,
+            "change": "+0.69%"
         },
         {
             "symbol": "CEG",
-            "price": 300.53,
-            "change": "+0.75%"
+            "price": 301.94,
+            "change": "-2.74%"
         },
         {
             "symbol": "VST",
-            "price": 174.12,
-            "change": "-2.99%"
+            "price": 175.37,
+            "change": "-1.35%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.49,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.51,
-            0.5
+            0.46,
+            0.46,
+            0.46,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.02,
-            26.12,
-            26.04,
-            26.32,
-            26.83,
-            26.81,
-            26.64,
-            26.35,
-            25.88,
-            25.42,
-            25.65,
-            25.32
+            24.57,
+            24.92,
+            24.8,
+            24.81,
+            24.87,
+            24.62,
+            24.69,
+            24.59,
+            25.01,
+            25.21,
+            25.07,
+            24.96
         ],
         "hsd_history_software": [
+            9.59,
+            9.69,
+            9.63,
+            9.83,
+            9.75,
+            9.71,
+            9.91,
+            10.09,
             10.13,
-            10.18,
-            10.02,
-            10.14,
             10.26,
-            10.19,
-            10.13,
-            10.14,
-            10.1,
-            10.03,
-            10.19,
+            10.2,
             10.19
         ],
         "rci_data": [
             85.0,
-            18.145
+            18.39
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:58",
+            "time": "16:23",
             "tag": "MERCADO",
-            "text": "Kratos (KTOS) Secures Ground Segment Contract for OmanSat-1 Proj"
+            "text": "Enphase launches software-based export management"
         },
         {
-            "time": "14:54",
+            "time": "16:20",
             "tag": "MERCADO",
-            "text": "Mariner, State Street to scale operations via Charles River platform"
+            "text": "DTE nears deal to serve second major Michigan data center, with more in line"
         },
         {
-            "time": "14:52",
-            "tag": "AI",
-            "text": "GE HealthCare, BARDA expand collab with $35M AI-powered ultrasound expansion"
+            "time": "16:17",
+            "tag": "MERCADO",
+            "text": "HP Inc (HPQ) Trading Down 3.12% on Feb 17"
         },
         {
-            "time": "14:44",
+            "time": "16:17",
             "tag": "MERCADO",
-            "text": "ServiceNow CEO steps up with $3 million stock purchase announcement as executives cancel stock-selling plans"
+            "text": "DTE Energy\u2019s 5-year spending plan jumps 20% on data center, reliability investments"
         },
         {
-            "time": "14:41",
+            "time": "16:17",
             "tag": "MERCADO",
-            "text": "Palo Alto Networks To Acquire \u2018Agentic Endpoint\u2019 Security Startup Koi"
+            "text": "Why Gartner keeps ranking Salesforce's Informatica a data quality Leader"
         }
     ]
 }
