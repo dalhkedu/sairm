@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-18 11:41 UTC",
+        "last_updated": "2026-02-18 13:12 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 184.97,
-            "change": "+1.03%"
+            "change": "+3.22%"
         },
         {
             "symbol": "AMD",
             "price": 203.08,
-            "change": "-2.19%"
+            "change": "-0.44%"
         },
         {
             "symbol": "MSFT",
             "price": 396.86,
-            "change": "-3.23%"
+            "change": "-1.43%"
         },
         {
             "symbol": "CEG",
             "price": 303.01,
-            "change": "+1.42%"
+            "change": "+2.27%"
         },
         {
             "symbol": "VST",
             "price": 173.68,
-            "change": "+0.73%"
+            "change": "+2.14%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.44,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
-            0.48,
             0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.5
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.52,
+            0.53,
+            0.52,
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.29,
-            24.76,
-            24.55,
-            24.24,
-            23.77,
-            24.23,
+            24.89,
+            24.96,
+            25.2,
+            24.91,
+            25.07,
+            25.01,
+            24.64,
             24.28,
-            24.52,
-            24.69,
-            24.9,
-            24.86,
-            24.55
+            24.74,
+            24.99,
+            24.65,
+            24.78
         ],
         "hsd_history_software": [
-            10.4,
-            10.33,
-            10.37,
-            10.38,
-            10.59,
-            10.52,
-            10.44,
-            10.29,
+            9.82,
+            9.95,
+            9.95,
+            9.81,
+            9.86,
+            10.04,
             10.11,
-            10.21,
-            10.07,
-            9.93
+            9.95,
+            9.88,
+            9.96,
+            9.81,
+            9.83
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:19",
+            "time": "12:23",
             "tag": "MERCADO",
-            "text": "S&P Global Highlights Climate And Liquidity Analytics Opportunity For Investors"
+            "text": "Microchip Technology Surges 45% as PCIe Gen 6 Wins Stack Up: Here\u2019s the Path to $134"
         },
         {
-            "time": "11:17",
+            "time": "12:21",
+            "tag": "MERCADO",
+            "text": "Amazon Abandons Blue Jay Warehouse Robot In Less Than Six Months, Pivots To New Technologies: Report"
+        },
+        {
+            "time": "12:20",
+            "tag": "MERCADO",
+            "text": "DTE Energy outlines 6%\u20138% EPS growth through 2030 as data center contracts expand capital plan by $6.5B"
+        },
+        {
+            "time": "12:20",
             "tag": "RESULTADOS",
-            "text": "Should Credicorp\u2019s Rising Earnings and Mibanco\u2019s SaaS Shift Require Action From Credicorp (BAP) Investors?"
+            "text": "Earnings Flash (ADI) Analog Devices, Inc. Reports Q1 Revenue $3.16B, vs. FactSet Est of $3.12B"
         },
         {
-            "time": "11:12",
-            "tag": "MERCADO",
-            "text": "Condor Capital Management Buys Shares of 5,484 Teledyne Technologies Incorporated $TDY"
-        },
-        {
-            "time": "10:59",
-            "tag": "MERCADO",
-            "text": "JPMorgan Adjusts Price Target on Keysight Technologies to $255 From $207, Maintains Overweight Rating"
-        },
-        {
-            "time": "10:45",
-            "tag": "MERCADO",
-            "text": "Cathie Wood Buys Broadcom, AMD, and Coinbase While Selling $13M of Teradyne"
+            "time": "12:16",
+            "tag": "RESULTADOS",
+            "text": "Analog Devices Stock Rises After Earnings. Chip Maker\u2019s Strong Year Continues."
         }
     ]
 }
