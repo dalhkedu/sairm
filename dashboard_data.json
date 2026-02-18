@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-18 15:55 UTC",
+        "last_updated": "2026-02-18 17:08 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 189.68,
-            "change": "-2.69%"
+            "price": 189.39,
+            "change": "+1.68%"
         },
         {
             "symbol": "AMD",
-            "price": 201.51,
-            "change": "+2.89%"
+            "price": 202.6,
+            "change": "-2.85%"
         },
         {
             "symbol": "MSFT",
-            "price": 401.77,
-            "change": "-2.69%"
+            "price": 402.03,
+            "change": "-0.06%"
         },
         {
             "symbol": "CEG",
-            "price": 298.53,
-            "change": "-1.16%"
+            "price": 299.36,
+            "change": "-0.26%"
         },
         {
             "symbol": "VST",
-            "price": 173.06,
-            "change": "-2.35%"
+            "price": 172.76,
+            "change": "-2.51%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.55,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.53,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.51,
             0.52,
             0.52,
             0.51,
-            0.5,
+            0.51,
+            0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            24.94,
-            25.18,
-            24.82,
-            25.29,
-            25.68,
-            25.61,
-            25.5,
-            25.65,
-            25.25,
-            25.62,
-            25.33,
-            24.88
+            24.44,
+            24.57,
+            24.97,
+            24.71,
+            24.96,
+            25.02,
+            24.72,
+            24.38,
+            24.55,
+            24.85,
+            25.07,
+            24.98
         ],
         "hsd_history_software": [
-            10.09,
+            9.84,
             10.03,
-            10.09,
-            10.14,
-            10.32,
-            10.35,
-            10.21,
-            10.24,
-            10.09,
-            9.96,
-            9.91,
-            9.83
+            9.89,
+            9.72,
+            9.86,
+            9.81,
+            9.84,
+            10.02,
+            10.07,
+            9.94,
+            9.95,
+            9.88
         ],
         "rci_data": [
             85.0,
-            18.968
+            18.938999999999997
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:56",
-            "tag": "RESULTADOS",
-            "text": "Verisk Analytics Q4 2026 Earnings Results"
-        },
-        {
-            "time": "14:52",
+            "time": "16:24",
             "tag": "AI",
-            "text": "Travelers (TRV) Unveils AIClaim Assistant to Enhance Claims Proc"
+            "text": "GE HealthCare, BARDA ink $35M expansion to AI-enabled imaging deal"
         },
         {
-            "time": "14:47",
+            "time": "16:17",
             "tag": "MERCADO",
-            "text": "Parsons subsidiary SealingTech awarded $500 million cyber defense contract"
+            "text": "Uber Technologies (UBER) Stock: Surges 2.7% as $100M Robotaxi Charging Push Gains Momentum"
         },
         {
-            "time": "14:44",
+            "time": "16:17",
             "tag": "MERCADO",
-            "text": "How Ralph Lauren and Microsoft are shaping luxury retail\u2019s next era"
+            "text": "Thermo Fisher boosts connected planning with Oracle Cloud EPM"
         },
         {
-            "time": "14:39",
-            "tag": "AI",
-            "text": "Palo Alto shares sink 8%, CEO defends cybersecurity's position as AI hits software stocks"
+            "time": "16:13",
+            "tag": "MERCADO",
+            "text": "ASTS vs. ANET: Which Connectivity Stock is the Better Buy Today?"
+        },
+        {
+            "time": "16:10",
+            "tag": "MERCADO",
+            "text": "Verizon to speak at Barclays Communications and Content Symposium on February 24"
         }
     ]
 }
