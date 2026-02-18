@@ -1,42 +1,44 @@
 {
     "metadata": {
-        "last_updated": "2026-02-18 21:37 UTC",
+        "last_updated": "2026-02-18 22:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 187.98,
-            "change": "+1.55%"
+            "change": "+3.3%"
         },
         {
             "symbol": "AMD",
             "price": 200.12,
-            "change": "+0.59%"
+            "change": "+0.57%"
         },
         {
             "symbol": "MSFT",
             "price": 399.6,
-            "change": "+2.06%"
+            "change": "-2.79%"
         },
         {
             "symbol": "CEG",
             "price": 294.05,
-            "change": "-2.05%"
+            "change": "-1.51%"
         },
         {
             "symbol": "VST",
             "price": 170.57,
-            "change": "+2.18%"
+            "change": "-3.48%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.62,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
+            0.5,
+            0.5,
+            0.5,
             0.51,
             0.51,
             0.51,
@@ -44,38 +46,36 @@
             0.5,
             0.5,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.6,
-            25.85,
-            25.56,
-            25.17,
-            24.76,
-            24.86,
-            24.44,
-            24.87,
-            25.05,
-            24.86,
-            25.05,
-            25.34
+            24.15,
+            24.53,
+            24.85,
+            24.92,
+            24.52,
+            24.28,
+            24.65,
+            24.57,
+            24.82,
+            24.68,
+            25.1,
+            24.61
         ],
         "hsd_history_software": [
-            9.69,
-            9.8,
-            9.98,
-            10.12,
+            10.4,
+            10.55,
+            10.43,
+            10.29,
+            10.11,
             10.0,
-            10.01,
-            10.0,
-            10.09,
-            10.0,
-            10.09,
-            10.04,
-            9.94
+            10.08,
+            10.02,
+            9.95,
+            10.11,
+            10.05,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:27",
+            "time": "21:47",
             "tag": "MERCADO",
-            "text": "Understanding the Setup: (WLDR) and Scalable Risk"
+            "text": "MOODYS CORP /DE/ SEC 10-K Report"
         },
         {
-            "time": "20:57",
+            "time": "21:32",
             "tag": "MERCADO",
-            "text": "ECS Appoints Donnie Scott as President"
+            "text": "Synopsys Inc. stock outperforms competitors on strong trading day"
         },
         {
-            "time": "20:51",
+            "time": "21:31",
             "tag": "MERCADO",
-            "text": "Tide thinks it's unlocked the future of the $25 billion laundry industry. Meet the evo tile, a waterless detergent pod"
+            "text": "Johnson Controls signs agreement to acquire Alloy Enterprises, strengthening data center thermal management leadership"
         },
         {
-            "time": "20:39",
-            "tag": "AI",
-            "text": "AI Pioneer Fei-Fei Li's World Labs Raises $1 Billion Funding Round"
+            "time": "21:31",
+            "tag": "RESULTADOS",
+            "text": "EBay: Q4 Earnings Snapshot"
         },
         {
-            "time": "20:32",
+            "time": "21:29",
             "tag": "MERCADO",
-            "text": "Amazon.com Inc., Goldman Sachs share gains lead Dow's nearly 150-point jump"
+            "text": "Booking Holdings beats Q4 expectations as room nights rise 9% By Investing.com"
         }
     ]
 }
