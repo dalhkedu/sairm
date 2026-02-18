@@ -1,41 +1,43 @@
 {
     "metadata": {
-        "last_updated": "2026-02-18 09:53 UTC",
+        "last_updated": "2026-02-18 10:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 184.97,
-            "change": "+3.14%"
+            "change": "-0.34%"
         },
         {
             "symbol": "AMD",
             "price": 203.08,
-            "change": "+1.44%"
+            "change": "-2.55%"
         },
         {
             "symbol": "MSFT",
-            "price": NaN,
-            "change": "-2.9%"
+            "price": 396.86,
+            "change": "+2.08%"
         },
         {
             "symbol": "CEG",
             "price": 303.01,
-            "change": "+1.54%"
+            "change": "-0.4%"
         },
         {
             "symbol": "VST",
             "price": 173.68,
-            "change": "-1.54%"
+            "change": "+0.85%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.51,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.49,
             0.49,
             0.49,
             0.49,
@@ -43,39 +45,37 @@
             0.51,
             0.5,
             0.5,
-            0.49,
-            0.49,
             0.5,
-            0.5,
-            0.51
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.58,
-            25.3,
-            24.83,
-            24.63,
-            24.45,
-            24.27,
-            24.06,
-            24.0,
-            24.16,
-            24.5,
-            24.66,
-            24.89
+            24.93,
+            25.15,
+            24.99,
+            24.56,
+            24.53,
+            24.69,
+            24.68,
+            25.16,
+            24.86,
+            24.99,
+            25.01,
+            24.7
         ],
         "hsd_history_software": [
-            10.48,
-            10.51,
-            10.41,
-            10.21,
-            10.3,
-            10.45,
-            10.24,
-            10.21,
-            10.15,
-            9.98,
-            10.12,
-            10.06
+            9.91,
+            10.06,
+            10.22,
+            10.33,
+            10.14,
+            10.04,
+            9.94,
+            9.87,
+            9.91,
+            9.94,
+            9.92,
+            10.03
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:36",
-            "tag": "MERCADO",
-            "text": "Rothschild Investment LLC Buys 25,901 Shares of Intel Corporation $INTC"
+            "time": "09:55",
+            "tag": "RESULTADOS",
+            "text": "Synopsys (SNPS) Expected to Announce Earnings on Wednesday"
         },
         {
-            "time": "08:36",
+            "time": "09:49",
             "tag": "MERCADO",
-            "text": "Skandinaviska Enskilda Banken AB publ Acquires 6,905 Shares of F5, Inc. $FFIV"
+            "text": "Principal Financial Group Inc. Buys Shares of 56,468 WhiteFiber, Inc. $WYFI"
         },
         {
-            "time": "08:35",
+            "time": "09:49",
             "tag": "MERCADO",
-            "text": "NEOS Investment Management LLC Increases Holdings in Microchip Technology Incorporated $MCHP"
+            "text": "Principal Financial Group Inc. Sells 111,997 Shares of Shoals Technologies Group, Inc. $SHLS"
         },
         {
-            "time": "08:35",
+            "time": "09:48",
             "tag": "MERCADO",
-            "text": "First National Bank of Omaha Takes $3.63 Million Position in Microchip Technology Incorporated $MCHP"
+            "text": "CenterBook Partners LP Grows Holdings in Enphase Energy, Inc. $ENPH"
         },
         {
-            "time": "08:24",
+            "time": "09:45",
             "tag": "MERCADO",
-            "text": "Saxon Interests Inc. Has $6.60 Million Stake in NVIDIA Corporation $NVDA"
+            "text": "CenterBook Partners LP Buys 140,702 Shares of Texas Instruments Incorporated $TXN"
         }
     ]
 }
