@@ -1,48 +1,48 @@
 {
     "metadata": {
-        "last_updated": "2026-02-18 22:36 UTC",
+        "last_updated": "2026-02-18 23:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 187.98,
-            "change": "+3.3%"
+            "change": "-3.31%"
         },
         {
             "symbol": "AMD",
             "price": 200.12,
-            "change": "+0.57%"
+            "change": "+1.22%"
         },
         {
             "symbol": "MSFT",
             "price": 399.6,
-            "change": "-2.79%"
+            "change": "-3.34%"
         },
         {
             "symbol": "CEG",
             "price": 294.05,
-            "change": "-1.51%"
+            "change": "+2.81%"
         },
         {
             "symbol": "VST",
             "price": 170.57,
-            "change": "-3.48%"
+            "change": "+1.39%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.64,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5,
             0.5,
             0.5,
@@ -50,32 +50,32 @@
             0.5
         ],
         "hsd_history_hardware": [
-            24.15,
-            24.53,
-            24.85,
-            24.92,
-            24.52,
-            24.28,
-            24.65,
-            24.57,
-            24.82,
-            24.68,
-            25.1,
-            24.61
+            25.3,
+            24.86,
+            24.56,
+            24.89,
+            24.79,
+            25.12,
+            25.61,
+            25.58,
+            25.14,
+            24.97,
+            24.76,
+            25.01
         ],
         "hsd_history_software": [
-            10.4,
-            10.55,
-            10.43,
-            10.29,
-            10.11,
-            10.0,
-            10.08,
-            10.02,
-            9.95,
-            10.11,
+            10.25,
+            10.22,
             10.05,
-            10.1
+            10.11,
+            10.15,
+            10.28,
+            10.21,
+            10.21,
+            10.37,
+            10.26,
+            10.26,
+            10.08
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:47",
+            "time": "22:41",
             "tag": "MERCADO",
-            "text": "MOODYS CORP /DE/ SEC 10-K Report"
+            "text": "Booking (NASDAQ:BKNG) Delivers Impressive Q4 CY2025"
         },
         {
-            "time": "21:32",
+            "time": "22:35",
             "tag": "MERCADO",
-            "text": "Synopsys Inc. stock outperforms competitors on strong trading day"
+            "text": "eBay just bought Depop, one of the internet's favorite secondhand stores, for more than $1 billion"
         },
         {
-            "time": "21:31",
+            "time": "22:26",
             "tag": "MERCADO",
-            "text": "Johnson Controls signs agreement to acquire Alloy Enterprises, strengthening data center thermal management leadership"
+            "text": "Layoffs continue at CoStar Group"
         },
         {
-            "time": "21:31",
-            "tag": "RESULTADOS",
-            "text": "EBay: Q4 Earnings Snapshot"
+            "time": "22:23",
+            "tag": "MERCADO",
+            "text": "Is Deere & Co. the Smartest Investment You Can Make Today?"
         },
         {
-            "time": "21:29",
-            "tag": "MERCADO",
-            "text": "Booking Holdings beats Q4 expectations as room nights rise 9% By Investing.com"
+            "time": "22:22",
+            "tag": "AI",
+            "text": "F5 and Scality Expand Partnership to Deliver Secure, High-Performance Data Infrastructure for AI Workloads"
         }
     ]
 }
