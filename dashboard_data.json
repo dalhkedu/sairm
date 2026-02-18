@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-17 23:33 UTC",
+        "last_updated": "2026-02-18 02:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 184.97,
-            "change": "-3.2%"
+            "change": "-1.8%"
         },
         {
             "symbol": "AMD",
             "price": 203.08,
-            "change": "-1.88%"
+            "change": "-2.08%"
         },
         {
             "symbol": "MSFT",
             "price": 396.86,
-            "change": "-0.96%"
+            "change": "+2.7%"
         },
         {
             "symbol": "CEG",
             "price": 303.01,
-            "change": "+1.7%"
+            "change": "+0.3%"
         },
         {
             "symbol": "VST",
             "price": 173.68,
-            "change": "-1.5%"
+            "change": "-0.71%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.46,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
+            0.49,
             0.48,
             0.48,
             0.49,
             0.49,
+            0.48,
             0.49,
-            0.48,
-            0.48,
+            0.49,
             0.49,
             0.5,
-            0.5
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.39,
-            26.02,
-            25.57,
-            25.45,
-            25.54,
-            25.21,
-            25.48,
+            26.55,
+            26.3,
+            25.97,
             25.61,
+            25.45,
+            25.6,
+            26.02,
+            25.74,
             25.54,
-            25.1,
-            24.75,
-            24.65
+            25.24,
+            25.62,
+            25.41
         ],
         "hsd_history_software": [
-            9.74,
-            9.8,
-            9.7,
-            9.64,
-            9.76,
-            9.76,
-            9.87,
-            9.84,
-            10.03,
+            10.24,
+            10.08,
+            10.2,
+            10.23,
+            10.04,
+            10.23,
+            10.27,
+            10.35,
+            10.19,
             10.05,
-            10.13,
-            9.95
+            10.2,
+            10.01
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,14 @@
     ],
     "news_feed": [
         {
-            "time": "23:05",
-            "tag": "MERCADO",
-            "text": "Analog Devices (ADI) Boosts Dividend by 11%, Continuing Growth Streak"
+            "time": "14:00",
+            "tag": "ALERTA",
+            "text": "Monitoramento de Risco AI ativo. Aguardando feed..."
         },
         {
-            "time": "22:57",
-            "tag": "MERCADO",
-            "text": "Analog Devices Raises Quarterly Dividend to $1.10 a Share From $0.99, Payable March 17 to Holders of Record March 3"
-        },
-        {
-            "time": "22:44",
-            "tag": "MERCADO",
-            "text": "Palo Alto Networks shares fall after outlook disappoints despite second quarter beat"
-        },
-        {
-            "time": "22:41",
-            "tag": "MERCADO",
-            "text": "Coatue Management dissolves share stake in KKR, Peloton Interactive; cuts in Synopsys, GE Vernova"
-        },
-        {
-            "time": "22:32",
-            "tag": "MERCADO",
-            "text": "Analog Devices Raises Quarterly Dividend by 11%"
+            "time": "13:30",
+            "tag": "MACRO",
+            "text": "Volatilidade no setor de semicondutores esperada."
         }
     ]
 }
