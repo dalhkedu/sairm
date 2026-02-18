@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-18 10:51 UTC",
+        "last_updated": "2026-02-18 11:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 184.97,
-            "change": "-0.34%"
+            "change": "+1.03%"
         },
         {
             "symbol": "AMD",
             "price": 203.08,
-            "change": "-2.55%"
+            "change": "-2.19%"
         },
         {
             "symbol": "MSFT",
             "price": 396.86,
-            "change": "+2.08%"
+            "change": "-3.23%"
         },
         {
             "symbol": "CEG",
             "price": 303.01,
-            "change": "-0.4%"
+            "change": "+1.42%"
         },
         {
             "symbol": "VST",
             "price": 173.68,
-            "change": "+0.85%"
+            "change": "+0.73%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.45,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.47,
+            0.48,
             0.48,
             0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.93,
-            25.15,
-            24.99,
-            24.56,
-            24.53,
+            24.29,
+            24.76,
+            24.55,
+            24.24,
+            23.77,
+            24.23,
+            24.28,
+            24.52,
             24.69,
-            24.68,
-            25.16,
+            24.9,
             24.86,
-            24.99,
-            25.01,
-            24.7
+            24.55
         ],
         "hsd_history_software": [
-            9.91,
-            10.06,
-            10.22,
+            10.4,
             10.33,
-            10.14,
-            10.04,
-            9.94,
-            9.87,
-            9.91,
-            9.94,
-            9.92,
-            10.03
+            10.37,
+            10.38,
+            10.59,
+            10.52,
+            10.44,
+            10.29,
+            10.11,
+            10.21,
+            10.07,
+            9.93
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:55",
+            "time": "11:19",
+            "tag": "MERCADO",
+            "text": "S&P Global Highlights Climate And Liquidity Analytics Opportunity For Investors"
+        },
+        {
+            "time": "11:17",
             "tag": "RESULTADOS",
-            "text": "Synopsys (SNPS) Expected to Announce Earnings on Wednesday"
+            "text": "Should Credicorp\u2019s Rising Earnings and Mibanco\u2019s SaaS Shift Require Action From Credicorp (BAP) Investors?"
         },
         {
-            "time": "09:49",
+            "time": "11:12",
             "tag": "MERCADO",
-            "text": "Principal Financial Group Inc. Buys Shares of 56,468 WhiteFiber, Inc. $WYFI"
+            "text": "Condor Capital Management Buys Shares of 5,484 Teledyne Technologies Incorporated $TDY"
         },
         {
-            "time": "09:49",
+            "time": "10:59",
             "tag": "MERCADO",
-            "text": "Principal Financial Group Inc. Sells 111,997 Shares of Shoals Technologies Group, Inc. $SHLS"
+            "text": "JPMorgan Adjusts Price Target on Keysight Technologies to $255 From $207, Maintains Overweight Rating"
         },
         {
-            "time": "09:48",
+            "time": "10:45",
             "tag": "MERCADO",
-            "text": "CenterBook Partners LP Grows Holdings in Enphase Energy, Inc. $ENPH"
-        },
-        {
-            "time": "09:45",
-            "tag": "MERCADO",
-            "text": "CenterBook Partners LP Buys 140,702 Shares of Texas Instruments Incorporated $TXN"
+            "text": "Cathie Wood Buys Broadcom, AMD, and Coinbase While Selling $13M of Teradyne"
         }
     ]
 }
