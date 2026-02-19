@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-19 19:41 UTC",
+        "last_updated": "2026-02-19 20:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 186.61,
-            "change": "-0.42%"
+            "price": 187.2,
+            "change": "+0.85%"
         },
         {
             "symbol": "AMD",
-            "price": 202.22,
-            "change": "+1.37%"
+            "price": 202.38,
+            "change": "+2.31%"
         },
         {
             "symbol": "MSFT",
-            "price": 397.22,
-            "change": "+0.49%"
+            "price": 397.09,
+            "change": "-0.41%"
         },
         {
             "symbol": "CEG",
-            "price": 291.01,
-            "change": "+0.17%"
+            "price": 290.84,
+            "change": "+2.28%"
         },
         {
             "symbol": "VST",
-            "price": 171.29,
-            "change": "+1.27%"
+            "price": 170.98,
+            "change": "-0.65%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.45,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.5,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            22.43,
-            22.52,
-            22.72,
-            22.91,
-            23.19,
-            23.47,
-            23.31,
-            23.71,
-            24.17,
+            24.13,
             24.53,
-            24.1,
-            24.57
+            24.34,
+            24.24,
+            24.38,
+            24.66,
+            25.15,
+            24.74,
+            24.52,
+            24.7,
+            24.82,
+            24.98
         ],
         "hsd_history_software": [
+            10.25,
+            10.31,
+            10.44,
+            10.25,
+            10.16,
+            10.35,
             10.45,
-            10.34,
             10.29,
-            10.2,
-            10.06,
-            10.2,
-            10.13,
+            10.21,
+            10.26,
             10.08,
-            10.03,
-            10.09,
-            9.9,
-            9.82
+            10.19
         ],
         "rci_data": [
             85.0,
-            18.661
+            18.72
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:41",
+            "time": "19:57",
             "tag": "AI",
-            "text": "CoStar confirms layoffs following investor criticism, AI push"
+            "text": "Sagtec Global Limited Expands AI Ecosystem and Revenue Opportunities in Global Market"
         },
         {
-            "time": "18:39",
+            "time": "19:51",
             "tag": "MERCADO",
-            "text": "Is Hewlett Packard Enterprise (HPE) Attractively Priced After Recent Share Price Pullback?"
+            "text": "West Virginia Sues Apple Over Alleged Child Sexual Abuse Content on iCloud"
         },
         {
-            "time": "18:36",
-            "tag": "RESULTADOS",
-            "text": "A Look At Roper Technologies (ROP) Valuation After Mixed Q4 2025 Earnings And Moderated Guidance"
+            "time": "19:42",
+            "tag": "MERCADO",
+            "text": "CoStar cuts Richmond jobs as Homes.com faces scrutiny"
         },
         {
-            "time": "18:16",
+            "time": "19:21",
             "tag": "AI",
-            "text": "Supermicro Eyes 'Make In India' Move For AI Servers"
+            "text": "Equinix: Strong Bookings Momentum And AI Tailwinds, But The Stock Is Overvalued"
         },
         {
-            "time": "18:15",
-            "tag": "AI",
-            "text": "Merck, Mayo Clinic launch AI-driven drug discovery partnership"
+            "time": "19:09",
+            "tag": "MERCADO",
+            "text": "Amazon Fails to Stop Reinstated Teen Suicide Substance Claims"
         }
     ]
 }
