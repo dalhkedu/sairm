@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-18 23:33 UTC",
+        "last_updated": "2026-02-19 02:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 187.98,
-            "change": "-3.31%"
+            "change": "-1.39%"
         },
         {
             "symbol": "AMD",
             "price": 200.12,
-            "change": "+1.22%"
+            "change": "+1.55%"
         },
         {
             "symbol": "MSFT",
             "price": 399.6,
-            "change": "-3.34%"
+            "change": "+0.31%"
         },
         {
             "symbol": "CEG",
             "price": 294.05,
-            "change": "+2.81%"
+            "change": "-0.04%"
         },
         {
             "symbol": "VST",
             "price": 170.57,
-            "change": "+1.39%"
+            "change": "+2.63%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.6,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
+            0.53,
+            0.54,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.5,
+            0.51,
             0.5,
             0.5,
-            0.5,
-            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            25.3,
-            24.86,
+            25.24,
+            25.2,
+            25.16,
+            25.25,
+            24.84,
+            24.62,
+            24.67,
+            24.88,
             24.56,
-            24.89,
-            24.79,
-            25.12,
-            25.61,
-            25.58,
-            25.14,
-            24.97,
-            24.76,
-            25.01
+            24.44,
+            24.5,
+            24.83
         ],
         "hsd_history_software": [
-            10.25,
-            10.22,
-            10.05,
-            10.11,
+            10.27,
+            10.24,
+            10.07,
+            9.99,
+            10.12,
+            9.98,
+            10.08,
+            10.0,
             10.15,
-            10.28,
-            10.21,
-            10.21,
-            10.37,
-            10.26,
-            10.26,
-            10.08
+            10.06,
+            10.01,
+            10.19
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:41",
+            "time": "01:26",
             "tag": "MERCADO",
-            "text": "Booking (NASDAQ:BKNG) Delivers Impressive Q4 CY2025"
+            "text": "Discipline and Rules-Based Execution in CPAY Response"
         },
         {
-            "time": "22:35",
+            "time": "01:16",
             "tag": "MERCADO",
-            "text": "eBay just bought Depop, one of the internet's favorite secondhand stores, for more than $1 billion"
+            "text": "Is It Time To Reassess ServiceNow (NOW) After Sharp Share Price Swings?"
         },
         {
-            "time": "22:26",
+            "time": "01:15",
             "tag": "MERCADO",
-            "text": "Layoffs continue at CoStar Group"
+            "text": "Apple Podcast Connect's terms of service, Feb 18, 2026"
         },
         {
-            "time": "22:23",
-            "tag": "MERCADO",
-            "text": "Is Deere & Co. the Smartest Investment You Can Make Today?"
-        },
-        {
-            "time": "22:22",
+            "time": "01:00",
             "tag": "AI",
-            "text": "F5 and Scality Expand Partnership to Deliver Secure, High-Performance Data Infrastructure for AI Workloads"
+            "text": "Sundar Pichai Justified Big Investments Amid Bubble Narrative, Google CEO Highlights AI As Ticket To Future Growth: 'We Are Seeing The Opportunities'"
+        },
+        {
+            "time": "00:57",
+            "tag": "MERCADO",
+            "text": "Heartflow to Participate in the Morgan Stanley Technology, Media & Telecom Conference"
         }
     ]
 }
