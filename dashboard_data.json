@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-19 13:14 UTC",
+        "last_updated": "2026-02-19 14:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 187.98,
-            "change": "+3.36%"
+            "price": 186.31,
+            "change": "-3.12%"
         },
         {
             "symbol": "AMD",
-            "price": 200.12,
-            "change": "-1.28%"
+            "price": 200.8,
+            "change": "+0.66%"
         },
         {
             "symbol": "MSFT",
-            "price": 399.6,
-            "change": "-1.52%"
+            "price": 401.52,
+            "change": "+0.82%"
         },
         {
             "symbol": "CEG",
-            "price": 294.05,
-            "change": "+2.72%"
+            "price": 294.52,
+            "change": "-2.91%"
         },
         {
             "symbol": "VST",
-            "price": 170.57,
-            "change": "+2.24%"
+            "price": 170.08,
+            "change": "-0.07%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.46,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
-            0.48,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
+            0.55,
+            0.54,
+            0.54,
+            0.54,
+            0.53,
+            0.53,
+            0.52,
+            0.51,
+            0.5,
             0.49,
-            0.48,
             0.49,
-            0.49,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            25.56,
-            25.46,
-            25.17,
-            24.84,
-            24.37,
-            24.55,
-            24.31,
-            24.52,
-            24.75,
-            24.98,
-            25.1,
-            24.81
+            26.0,
+            26.21,
+            25.94,
+            26.16,
+            26.33,
+            26.3,
+            25.99,
+            25.49,
+            25.15,
+            25.42,
+            25.25,
+            24.76
         ],
         "hsd_history_software": [
-            10.62,
-            10.47,
-            10.57,
-            10.39,
-            10.34,
-            10.43,
-            10.6,
-            10.45,
-            10.35,
-            10.29,
-            10.2,
-            10.1
+            9.36,
+            9.48,
+            9.57,
+            9.62,
+            9.5,
+            9.64,
+            9.58,
+            9.75,
+            9.83,
+            9.93,
+            10.08,
+            10.05
         ],
         "rci_data": [
             85.0,
-            18.798
+            18.631
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:26",
+            "time": "13:46",
             "tag": "MERCADO",
-            "text": "CISO Global Lands 30 Year Sales Veteran Michael Czerneda to Ignite the Next Wave of Software Growth"
+            "text": "Comgest Global Investors S.A.S. Decreases Stake in Verisk Analytics, Inc. $VRSK"
         },
         {
-            "time": "12:17",
+            "time": "13:45",
             "tag": "MERCADO",
-            "text": "The Buyout Case for Salesforce Is Real, but Marc Benioff Stands in the Way"
+            "text": "King Luther Capital Management Corp Trims Stock Position in Teledyne Technologies Incorporated $TDY"
         },
         {
-            "time": "12:14",
+            "time": "13:43",
             "tag": "MERCADO",
-            "text": "Freehand Recognized in the 2026 Gartner\u00ae Market Guide for Freight Audit and Payment Providers"
+            "text": "Cumberland Partners Ltd Makes New Investment in Intuit Inc. $INTU"
         },
         {
-            "time": "12:08",
+            "time": "13:37",
             "tag": "MERCADO",
-            "text": "CoStar Group Stock Experiences Significant Volatility"
+            "text": "Iron Mountain partners with energy storage firm Calibrant to deploy 23MWh BESS unit at New Jersey data center"
         },
         {
-            "time": "12:01",
-            "tag": "AI",
-            "text": "AI lawsuits, opt-in claims and $4B payouts reshape investor recoveries"
+            "time": "13:36",
+            "tag": "MERCADO",
+            "text": "Lockheed Martin to provide C-130J training devices and upgrades to RAAF"
         }
     ]
 }
