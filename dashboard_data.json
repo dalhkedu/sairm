@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-19 09:52 UTC",
+        "last_updated": "2026-02-19 10:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 187.98,
-            "change": "+0.24%"
+            "change": "+0.25%"
         },
         {
             "symbol": "AMD",
             "price": 200.12,
-            "change": "+0.05%"
+            "change": "-2.15%"
         },
         {
             "symbol": "MSFT",
             "price": 399.6,
-            "change": "-3.16%"
+            "change": "-1.25%"
         },
         {
             "symbol": "CEG",
             "price": 294.05,
-            "change": "+0.57%"
+            "change": "-0.06%"
         },
         {
             "symbol": "VST",
             "price": 170.57,
-            "change": "-1.78%"
+            "change": "-0.97%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.57,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.51,
+            0.52,
+            0.52,
             0.53,
             0.52,
             0.52,
-            0.51,
-            0.52,
             0.52,
             0.52,
             0.51,
             0.51,
-            0.5,
-            0.5,
-            0.49
+            0.51
         ],
         "hsd_history_hardware": [
-            24.98,
-            24.77,
-            24.32,
-            24.23,
-            24.22,
-            24.34,
-            24.79,
-            24.51,
-            24.2,
-            24.57,
-            24.82,
-            24.93
+            25.07,
+            25.08,
+            25.27,
+            24.99,
+            24.6,
+            24.6,
+            24.76,
+            25.02,
+            25.24,
+            25.43,
+            25.03,
+            24.59
         ],
         "hsd_history_software": [
-            10.24,
-            10.33,
-            10.18,
-            10.07,
-            10.06,
-            9.96,
-            9.81,
-            9.72,
-            9.8,
-            9.9,
-            9.81,
-            9.9
+            10.88,
+            10.92,
+            10.92,
+            10.89,
+            10.72,
+            10.65,
+            10.78,
+            10.79,
+            10.62,
+            10.45,
+            10.3,
+            10.18
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "09:02",
+            "tag": "MERCADO",
+            "text": "Rudding Park Selects Agilysys Hospitality Software Solutions to Modernise Guest Journeys and Streamline Operations Across Its Hotel Ecosystem"
+        },
+        {
             "time": "08:27",
             "tag": "MERCADO",
             "text": "Cboe Global Markets Stock: Is Wall Street Sleeping on This Power Play?"
@@ -144,11 +149,6 @@
             "time": "06:57",
             "tag": "MERCADO",
             "text": "QUALCOMM Back in the Untethered Trailer Tracking Business"
-        },
-        {
-            "time": "06:48",
-            "tag": "AI",
-            "text": "Qualcomm to invest up to $150 Million for strategic AI Venture Fund in India"
         }
     ]
 }
