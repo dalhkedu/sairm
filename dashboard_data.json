@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-19 17:54 UTC",
+        "last_updated": "2026-02-19 18:55 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 185.96,
-            "change": "-1.61%"
+            "price": 186.43,
+            "change": "+0.94%"
         },
         {
             "symbol": "AMD",
-            "price": 200.34,
-            "change": "+0.9%"
+            "price": 201.11,
+            "change": "+2.97%"
         },
         {
             "symbol": "MSFT",
-            "price": 398.03,
-            "change": "-0.12%"
+            "price": 397.74,
+            "change": "-3.21%"
         },
         {
             "symbol": "CEG",
-            "price": 290.08,
-            "change": "+1.04%"
+            "price": 290.87,
+            "change": "-1.08%"
         },
         {
             "symbol": "VST",
-            "price": 169.1,
-            "change": "+1.76%"
+            "price": 170.98,
+            "change": "+0.47%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.51,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
+            0.52,
+            0.52,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
             0.51,
             0.5,
-            0.5,
-            0.5,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            24.04,
-            23.75,
-            24.19,
-            24.12,
+            23.69,
+            23.81,
+            23.38,
+            23.84,
+            24.28,
+            24.61,
+            24.61,
+            24.18,
             24.37,
-            24.75,
-            24.48,
-            24.76,
-            24.58,
-            25.06,
-            25.15,
-            25.01
+            24.34,
+            24.25,
+            24.65
         ],
         "hsd_history_software": [
-            10.19,
+            10.09,
+            10.21,
             10.02,
-            10.16,
-            10.13,
-            10.12,
-            10.15,
-            10.17,
-            10.36,
-            10.5,
-            10.32,
-            10.13,
-            10.0
+            9.97,
+            9.99,
+            9.82,
+            9.74,
+            9.94,
+            9.99,
+            9.96,
+            10.0,
+            10.08
         ],
         "rci_data": [
             85.0,
-            18.596
+            18.643
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:53",
-            "tag": "MERCADO",
-            "text": "Submarine communications systems to be supplied for U.S. Navy submarines by L3Harris"
-        },
-        {
-            "time": "16:37",
-            "tag": "MERCADO",
-            "text": "L3Harris to deliver communications systems for US Navy submarines"
-        },
-        {
-            "time": "16:30",
-            "tag": "RESULTADOS",
-            "text": "Intuit (INTU) Reports Next Week: Wall Street Expects Earnings Growth"
-        },
-        {
-            "time": "16:29",
-            "tag": "RESULTADOS",
-            "text": "NetApp (NTAP) Earnings Expected to Grow: What to Know Ahead of Next Week's Release"
-        },
-        {
-            "time": "16:20",
+            "time": "17:54",
             "tag": "AI",
-            "text": "NVIDIA's 13F Bombshell: A New AI Power Trio Emerges"
+            "text": "Hasbro CEO: \u2018We\u2019re beyond experimentation\u2019 with AI"
+        },
+        {
+            "time": "17:52",
+            "tag": "MERCADO",
+            "text": "Guarantor: JPMorgan Chase & Co."
+        },
+        {
+            "time": "17:39",
+            "tag": "MERCADO",
+            "text": "How Booking\u2019s Q4 Profit Beat and Mixed EPS Picture Will Impact Booking Holdings (BKNG) Investors"
+        },
+        {
+            "time": "17:39",
+            "tag": "RESULTADOS",
+            "text": "Vertex Casgevy Rollout Tests Gene Editing Role In Vertex Earnings Story"
+        },
+        {
+            "time": "17:29",
+            "tag": "AI",
+            "text": "VRSK Q4 Deep Dive: AI Adoption and Portfolio Refocus Shape Outlook"
         }
     ]
 }
