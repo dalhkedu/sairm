@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-19 04:55 UTC",
+        "last_updated": "2026-02-19 06:02 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 187.98,
-            "change": "-2.89%"
+            "change": "-1.53%"
         },
         {
             "symbol": "AMD",
             "price": 200.12,
-            "change": "-2.45%"
+            "change": "-0.77%"
         },
         {
             "symbol": "MSFT",
             "price": 399.6,
-            "change": "-1.39%"
+            "change": "-1.5%"
         },
         {
             "symbol": "CEG",
             "price": 294.05,
-            "change": "+2.51%"
+            "change": "-0.15%"
         },
         {
             "symbol": "VST",
             "price": 170.57,
-            "change": "+3.29%"
+            "change": "+0.35%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.45,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.52,
-            0.52,
-            0.53,
-            0.52,
-            0.52,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.51,
             0.52,
-            0.51,
-            0.51,
-            0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            25.16,
-            25.08,
-            25.5,
-            25.8,
-            25.67,
-            25.41,
-            25.23,
-            25.26,
-            25.0,
-            25.45,
-            25.65,
-            25.29
+            26.45,
+            26.58,
+            26.21,
+            25.87,
+            25.99,
+            25.83,
+            26.09,
+            25.59,
+            25.3,
+            25.59,
+            25.15,
+            25.22
         ],
         "hsd_history_software": [
-            11.02,
-            10.99,
-            10.82,
-            10.71,
-            10.68,
-            10.65,
-            10.47,
-            10.53,
-            10.37,
-            10.32,
-            10.13,
-            10.03
+            10.25,
+            10.4,
+            10.27,
+            10.1,
+            10.11,
+            10.11,
+            10.09,
+            10.07,
+            10.09,
+            10.2,
+            10.07,
+            9.9
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "03:58",
+            "time": "05:23",
             "tag": "MERCADO",
-            "text": "UBS Lowers Caution with Raised Price Target for Opendoor Technologies"
+            "text": "Here is What Makes Fidelity (FIS) Appear so Attractive"
         },
         {
-            "time": "03:58",
-            "tag": "AI",
-            "text": "AI data centers and Aussie mega-battery anchor Energy Vault\u2019s $135.5M cash boost"
+            "time": "05:23",
+            "tag": "MERCADO",
+            "text": "LKC Technologies Announces Acquisition by AMETEK, Strengthening Its Long-Term Commitment to ECPs"
         },
         {
-            "time": "03:55",
+            "time": "05:21",
             "tag": "MERCADO",
-            "text": "Woodline Partners LP Boosts Tesla Stake by 104,003 Shares"
+            "text": "S&P Global (SPGI) Offers Attractive Entry Point"
         },
         {
-            "time": "03:33",
+            "time": "05:21",
             "tag": "MERCADO",
-            "text": "Woodline Partners LP boosts Alphabet Inc. Class A stake"
+            "text": "Index Business Strength Bodes Well For MSCI Inc. (MSCI)"
         },
         {
-            "time": "03:33",
+            "time": "05:16",
             "tag": "MERCADO",
-            "text": "Chilton Investment Co LLC Boosts Alphabet Inc. Class A Stake"
+            "text": "Qlik named Leader in Gartner data quality MQ"
         }
     ]
 }
