@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-19 22:35 UTC",
+        "last_updated": "2026-02-19 23:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 187.9,
-            "change": "+0.56%"
+            "change": "+0.86%"
         },
         {
             "symbol": "AMD",
             "price": 203.37,
-            "change": "-0.15%"
+            "change": "+2.89%"
         },
         {
             "symbol": "MSFT",
             "price": 398.46,
-            "change": "+2.13%"
+            "change": "-0.62%"
         },
         {
             "symbol": "CEG",
-            "price": NaN,
-            "change": "-1.73%"
+            "price": 291.66,
+            "change": "+2.23%"
         },
         {
             "symbol": "VST",
             "price": 172.5,
-            "change": "-2.11%"
+            "change": "+2.11%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.43,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.52,
+            0.53,
+            0.53,
             0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
+            0.51,
+            0.51,
             0.52,
             0.51,
             0.52,
             0.52,
-            0.51,
-            0.5
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.97,
-            25.61,
-            26.07,
-            26.44,
-            25.94,
-            25.57,
-            25.45,
-            25.38,
-            25.54,
-            25.36,
-            25.67,
-            25.22
+            24.68,
+            25.06,
+            24.74,
+            24.62,
+            24.73,
+            24.95,
+            25.04,
+            24.96,
+            24.52,
+            24.52,
+            24.99,
+            25.05
         ],
         "hsd_history_software": [
-            10.18,
-            10.21,
-            10.03,
-            9.93,
-            9.93,
-            10.09,
+            10.04,
+            10.24,
+            10.17,
+            10.07,
             9.97,
-            9.87,
-            10.06,
-            10.09,
-            9.91,
-            10.05
+            10.15,
+            10.15,
+            10.08,
+            10.27,
+            10.1,
+            9.99,
+            10.0
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:57",
+            "time": "22:25",
             "tag": "MERCADO",
-            "text": "Fiverr International Ltd. (FVRR) PT Lowered to $16 at RBC Capital"
+            "text": "Synopsys Updates Board as Part of Governance Refresh"
         },
         {
-            "time": "21:55",
+            "time": "22:23",
             "tag": "MERCADO",
-            "text": "Freeport McMorRan: Is the Future of Mining Automated?"
+            "text": "AXT Inc. Q4 Financial Results: Loss Reported, Stock Soars - News and Statistics"
         },
         {
-            "time": "21:45",
-            "tag": "MERCADO",
-            "text": "Match Group to Present at the Morgan Stanley Technology, Media & Telecom Conference"
+            "time": "22:05",
+            "tag": "RESULTADOS",
+            "text": "Akamai Q4 2025 Earnings Report: Financial Results and 2026 Outlook - News and Statistics"
         },
         {
-            "time": "21:32",
+            "time": "22:00",
             "tag": "MERCADO",
-            "text": "Align Technology connects with dentists at Chicago Midwinter Meeting"
+            "text": "Akamai Technologies's (NASDAQ:AKAM) Q4 CY2025 Sales Beat Estimates But Stock Drops"
         },
         {
-            "time": "21:27",
+            "time": "21:59",
             "tag": "MERCADO",
-            "text": "Roper Technologies announces $0.91 per share dividend for April By Investing.com"
+            "text": "Data centers are still boosting Southern Co.\u2019s sales growth"
         }
     ]
 }
