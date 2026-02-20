@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-20 17:40 UTC",
+        "last_updated": "2026-02-20 18:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 188.32,
-            "change": "-1.82%"
+            "price": 189.77,
+            "change": "-0.61%"
         },
         {
             "symbol": "AMD",
-            "price": 199.82,
-            "change": "+3.16%"
+            "price": 201.21,
+            "change": "-3.2%"
         },
         {
             "symbol": "MSFT",
-            "price": 396.75,
-            "change": "-0.3%"
+            "price": 398.74,
+            "change": "+2.48%"
         },
         {
             "symbol": "CEG",
-            "price": 294.03,
-            "change": "-2.05%"
+            "price": 294.74,
+            "change": "-2.39%"
         },
         {
             "symbol": "VST",
-            "price": 170.71,
-            "change": "-3.17%"
+            "price": 170.12,
+            "change": "-3.48%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.43,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
-            0.51,
-            0.5,
-            0.51,
             0.5,
             0.5,
             0.5,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.51,
+            0.49,
+            0.49,
             0.5,
-            0.5,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            24.99,
-            24.77,
-            24.58,
-            24.42,
-            24.49,
-            24.31,
-            24.29,
-            24.72,
-            24.46,
-            24.52,
-            24.69,
-            24.98
+            26.29,
+            26.16,
+            26.03,
+            25.87,
+            25.57,
+            25.62,
+            25.87,
+            26.22,
+            25.95,
+            25.48,
+            25.12,
+            24.74
         ],
         "hsd_history_software": [
-            10.19,
-            10.18,
-            10.24,
-            10.26,
-            10.1,
-            10.3,
-            10.37,
-            10.24,
-            10.25,
-            10.28,
-            10.1,
-            10.16
+            9.66,
+            9.81,
+            9.97,
+            9.92,
+            9.97,
+            10.06,
+            9.92,
+            9.92,
+            9.99,
+            10.0,
+            9.94,
+            9.81
         ],
         "rci_data": [
             85.0,
-            18.831999999999997
+            18.977000000000004
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:24",
-            "tag": "MERCADO",
-            "text": "President & CEO of Qualcomm Inc. Meets PM"
-        },
-        {
-            "time": "17:15",
-            "tag": "MERCADO",
-            "text": "Amplify ETFs for stablecoins, tokenization go live for trading"
-        },
-        {
-            "time": "17:12",
+            "time": "18:07",
             "tag": "AI",
-            "text": "Safe Pro Awarded Contract to Provide U.S. Government with AI Powered Edge Processing Systems"
+            "text": "Lam Research Named Top Semiconductor Pick As AI-Driven Manufacturing Supercycle Shifts Into High Gear"
         },
         {
-            "time": "17:08",
+            "time": "17:49",
             "tag": "MERCADO",
-            "text": "News brief: Nation-state hackers active on the global stage"
+            "text": "Youdao (NYSE:DAO) Trading 7.9% Higher - Should You Buy?"
         },
         {
-            "time": "17:07",
+            "time": "17:45",
             "tag": "MERCADO",
-            "text": "Caterpillar\u2019s Dual-Pronged Strategy: Cementing Leadership Through Tech and Batteries"
+            "text": "KKR explores $1.5 billion sale of BMC Helix, sources say"
+        },
+        {
+            "time": "17:38",
+            "tag": "MERCADO",
+            "text": "Keysight Technologies (KEYS) Price Target Raised by Baird to $257"
+        },
+        {
+            "time": "17:37",
+            "tag": "MERCADO",
+            "text": "Li Auto Inc. (LI) Expands EV Reach with Supercharging Milestone"
         }
     ]
 }
