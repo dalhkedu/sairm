@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-20 20:36 UTC",
+        "last_updated": "2026-02-20 21:29 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": NaN,
-            "change": "-2.56%"
+            "price": 189.82,
+            "change": "+0.97%"
         },
         {
             "symbol": "AMD",
-            "price": 199.65,
-            "change": "-2.61%"
+            "price": 200.15,
+            "change": "-0.51%"
         },
         {
             "symbol": "MSFT",
-            "price": 396.67,
-            "change": "+0.18%"
+            "price": 397.23,
+            "change": "-0.04%"
         },
         {
             "symbol": "CEG",
-            "price": 295.27,
-            "change": "+2.09%"
+            "price": 294.84,
+            "change": "-1.58%"
         },
         {
             "symbol": "VST",
-            "price": 170.26,
-            "change": "+3.23%"
+            "price": 171.4,
+            "change": "+3.07%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
-        "rci_current": NaN,
+        "cer_current": 0.42,
+        "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
-            0.48,
             0.49,
             0.48,
             0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.49,
             0.49,
-            0.49,
-            0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.78,
-            24.99,
-            24.83,
-            25.03,
-            25.34,
-            25.34,
-            25.19,
-            25.4,
-            25.04,
-            25.24,
-            24.79,
-            25.09
+            23.96,
+            24.26,
+            23.86,
+            24.28,
+            24.59,
+            24.57,
+            24.72,
+            24.35,
+            24.61,
+            24.76,
+            25.09,
+            25.13
         ],
         "hsd_history_software": [
-            9.6,
-            9.79,
-            9.79,
-            9.95,
-            9.98,
-            9.85,
-            9.79,
-            9.7,
-            9.82,
-            9.89,
+            9.99,
+            9.93,
+            10.04,
+            9.94,
             10.02,
-            9.98
+            9.97,
+            9.88,
+            9.81,
+            9.94,
+            10.04,
+            10.14,
+            10.17
         ],
         "rci_data": [
             85.0,
-            NaN
+            18.982
         ],
         "energy_data": [
             1.2,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "20:26",
+            "tag": "MERCADO",
+            "text": "Intuit Inc. (INTU) Launched a New Campaign with Uber Advertising"
+        },
+        {
+            "time": "20:23",
+            "tag": "MERCADO",
+            "text": "What\u2019s Next For Fortinet Stock?"
+        },
+        {
             "time": "20:22",
             "tag": "MERCADO",
             "text": "Apple Just Took a Page Straight Out of the Netflix Playbook. Here's Why It Could Be a Brilliant Move"
@@ -139,16 +149,6 @@
             "time": "20:13",
             "tag": "MERCADO",
             "text": "S&P Global (SPGI) Enters a Strategic Data Sharing Agreement with Verisk"
-        },
-        {
-            "time": "20:13",
-            "tag": "MERCADO",
-            "text": "SAP SE (SAP) to Raise Annual Dividend"
-        },
-        {
-            "time": "20:04",
-            "tag": "MERCADO",
-            "text": "Key facts: RTX delays GTF engine shipments to Airbus; Raytheon gains Navy approval for StormBreaker"
         }
     ]
 }
