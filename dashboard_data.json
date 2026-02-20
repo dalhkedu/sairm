@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-20 16:44 UTC",
+        "last_updated": "2026-02-20 17:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 189.99,
-            "change": "-2.1%"
+            "price": 188.32,
+            "change": "-1.82%"
         },
         {
             "symbol": "AMD",
-            "price": 202.38,
-            "change": "+0.22%"
+            "price": 199.82,
+            "change": "+3.16%"
         },
         {
             "symbol": "MSFT",
-            "price": 398.73,
-            "change": "-1.44%"
+            "price": 396.75,
+            "change": "-0.3%"
         },
         {
             "symbol": "CEG",
-            "price": 294.91,
-            "change": "+2.01%"
+            "price": 294.03,
+            "change": "-2.05%"
         },
         {
             "symbol": "VST",
-            "price": 171.54,
-            "change": "+1.44%"
+            "price": 170.71,
+            "change": "-3.17%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.58,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.51,
+            0.51,
+            0.5,
+            0.51,
             0.5,
             0.5,
-            0.49,
-            0.5,
-            0.49,
             0.5,
             0.5,
-            0.49,
+            0.51,
             0.5,
-            0.49,
             0.5,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            26.13,
-            25.92,
-            25.72,
-            25.36,
-            25.35,
-            25.77,
-            25.7,
-            26.2,
-            25.77,
-            25.62,
-            25.13,
-            24.94
+            24.99,
+            24.77,
+            24.58,
+            24.42,
+            24.49,
+            24.31,
+            24.29,
+            24.72,
+            24.46,
+            24.52,
+            24.69,
+            24.98
         ],
         "hsd_history_software": [
-            10.09,
-            10.07,
-            10.2,
-            10.04,
-            9.89,
-            9.83,
-            9.91,
-            9.97,
-            10.03,
-            10.11,
-            10.02,
+            10.19,
+            10.18,
+            10.24,
+            10.26,
+            10.1,
+            10.3,
+            10.37,
+            10.24,
+            10.25,
+            10.28,
+            10.1,
             10.16
         ],
         "rci_data": [
             85.0,
-            18.999000000000002
+            18.831999999999997
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:12",
+            "time": "17:24",
             "tag": "MERCADO",
-            "text": "Brown & Brown Names New Chief Info. Technology Officer"
+            "text": "President & CEO of Qualcomm Inc. Meets PM"
         },
         {
-            "time": "16:12",
+            "time": "17:15",
             "tag": "MERCADO",
-            "text": "Broadcom stock edges up after 6G BroadPeak chip news \u2014 what could move AVGO next"
+            "text": "Amplify ETFs for stablecoins, tokenization go live for trading"
         },
         {
-            "time": "16:07",
-            "tag": "MERCADO",
-            "text": "Akamai Tumbles 11% Despite Q4 Beat As 2026 Outlook Disappoints"
-        },
-        {
-            "time": "16:04",
-            "tag": "MERCADO",
-            "text": "Caterpillar Stock Surges 32.8% Amid Market Volatility"
-        },
-        {
-            "time": "15:58",
+            "time": "17:12",
             "tag": "AI",
-            "text": "Cisco Stock Rises 17% in 6 Months: Will AI Endeavors Fuel More Gains?"
+            "text": "Safe Pro Awarded Contract to Provide U.S. Government with AI Powered Edge Processing Systems"
+        },
+        {
+            "time": "17:08",
+            "tag": "MERCADO",
+            "text": "News brief: Nation-state hackers active on the global stage"
+        },
+        {
+            "time": "17:07",
+            "tag": "MERCADO",
+            "text": "Caterpillar\u2019s Dual-Pronged Strategy: Cementing Leadership Through Tech and Batteries"
         }
     ]
 }
