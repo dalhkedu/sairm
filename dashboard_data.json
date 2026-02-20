@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-20 10:41 UTC",
+        "last_updated": "2026-02-20 11:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 187.9,
-            "change": "-1.25%"
+            "change": "-2.75%"
         },
         {
             "symbol": "AMD",
             "price": 203.37,
-            "change": "+0.11%"
+            "change": "-0.84%"
         },
         {
             "symbol": "MSFT",
             "price": 398.46,
-            "change": "+0.19%"
+            "change": "+1.99%"
         },
         {
             "symbol": "CEG",
             "price": 291.66,
-            "change": "-1.52%"
+            "change": "-0.58%"
         },
         {
             "symbol": "VST",
             "price": 172.5,
-            "change": "-1.75%"
+            "change": "+1.59%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.55,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
             0.5,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.5,
-            0.5,
-            0.5
+            0.49,
+            0.48,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            27.07,
-            26.95,
-            26.46,
-            26.08,
-            25.67,
-            25.42,
-            25.2,
-            24.76,
-            24.61,
-            24.39,
-            24.67,
-            25.15
+            23.93,
+            24.33,
+            24.11,
+            24.22,
+            24.23,
+            24.25,
+            24.68,
+            25.09,
+            24.92,
+            25.12,
+            25.59,
+            25.38
         ],
         "hsd_history_software": [
-            9.77,
-            9.75,
-            9.92,
-            9.88,
-            9.92,
-            9.74,
-            9.85,
-            9.72,
-            9.83,
-            9.98,
-            10.07,
-            10.07
+            10.15,
+            10.3,
+            10.46,
+            10.4,
+            10.34,
+            10.49,
+            10.42,
+            10.26,
+            10.18,
+            10.05,
+            10.03,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:04",
+            "time": "10:54",
             "tag": "MERCADO",
-            "text": "Bundled Pay Management Software Analysis Report 2026-2035: A $7.25+ Billion Market by 2030 with UnitedHealth, McKesson, Oracle, Tata Consultancy Services Leading"
+            "text": "Intuit Inc. $INTU Shares Sold by BNP PARIBAS ASSET MANAGEMENT Holding S.A."
         },
         {
-            "time": "09:47",
+            "time": "10:54",
             "tag": "MERCADO",
-            "text": "Why this $2.7-billion money manager is buying Netflix and selling Adobe"
+            "text": "BNP PARIBAS ASSET MANAGEMENT Holding S.A. Has $20.51 Million Stock Position in NetApp, Inc. $NTAP"
         },
         {
-            "time": "09:44",
+            "time": "10:52",
             "tag": "MERCADO",
-            "text": "Alberta Investment Management Corp Grows Position in F5, Inc. $FFIV"
+            "text": "13,232 Shares in Take-Two Interactive Software, Inc. $TTWO Purchased by Compass Wealth Management LLC"
         },
         {
-            "time": "09:44",
+            "time": "10:52",
             "tag": "MERCADO",
-            "text": "Waste Management and Remediation Services Industry Report"
+            "text": "Compass Wealth Management LLC Purchases Shares of 14,989 Teledyne Technologies Incorporated $TDY"
         },
         {
-            "time": "09:32",
+            "time": "10:52",
             "tag": "MERCADO",
-            "text": "W.Va. sues Apple over alleged child abuse material on iCloud"
+            "text": "Synopsys, Inc. $SNPS Shares Acquired by BNP PARIBAS ASSET MANAGEMENT Holding S.A."
         }
     ]
 }
