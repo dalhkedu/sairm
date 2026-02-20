@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-20 08:46 UTC",
+        "last_updated": "2026-02-20 09:45 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 187.9,
-            "change": "-2.67%"
+            "change": "-2.12%"
         },
         {
             "symbol": "AMD",
             "price": 203.37,
-            "change": "+3.44%"
+            "change": "-1.33%"
         },
         {
             "symbol": "MSFT",
             "price": 398.46,
-            "change": "+2.54%"
+            "change": "-2.68%"
         },
         {
             "symbol": "CEG",
             "price": 291.66,
-            "change": "+0.03%"
+            "change": "+1.4%"
         },
         {
             "symbol": "VST",
             "price": 172.5,
-            "change": "-0.42%"
+            "change": "+2.05%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.69,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
+            0.45,
+            0.45,
+            0.46,
+            0.47,
+            0.47,
+            0.48,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
             0.49
         ],
         "hsd_history_hardware": [
-            25.06,
-            24.64,
-            24.99,
-            25.19,
-            25.41,
-            25.06,
-            25.18,
-            25.04,
-            25.47,
-            25.09,
-            25.12,
-            25.19
+            24.39,
+            24.41,
+            24.51,
+            24.59,
+            24.83,
+            24.59,
+            24.65,
+            24.22,
+            24.25,
+            24.68,
+            24.4,
+            24.67
         ],
         "hsd_history_software": [
-            9.53,
-            9.41,
-            9.56,
-            9.73,
-            9.89,
-            10.06,
-            10.14,
-            10.21,
+            10.23,
+            10.31,
+            10.3,
+            10.34,
+            10.45,
+            10.25,
+            10.28,
+            10.16,
             10.29,
-            10.17,
-            10.09,
-            9.96
+            10.46,
+            10.33,
+            10.14
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:28",
-            "tag": "MERCADO",
-            "text": "Halliburton\u2019s New Oilfield Play: What It Really Means For U.S. Energy"
-        },
-        {
-            "time": "07:15",
-            "tag": "MERCADO",
-            "text": "Rick Smith\u2019s Tasers and the Social-Control Economy"
-        },
-        {
-            "time": "06:34",
+            "time": "08:49",
             "tag": "AI",
-            "text": "Travelers to enhance customer experience with new Agentic AI Claim Assistant"
+            "text": "Benchmark Sees Advanced Micro Devices (AMD) Generating Tens of Billions in AI Revenue by 2027"
         },
         {
-            "time": "06:27",
+            "time": "08:43",
             "tag": "MERCADO",
-            "text": "Qualcomm and Tata Electronics partner to manufacture Qualcomm Automotive Modules in India"
+            "text": "Citi Lowers PT on Hewlett Packard Enterprise Company (HPE)"
         },
         {
-            "time": "06:02",
+            "time": "08:42",
             "tag": "MERCADO",
-            "text": "Radware warns of surging DDoS & app attacks in 2025"
+            "text": "Here\u2019s What the Street Thinks About AT&T Inc. (T)\u2019s Lumen\u2019s Mass Markets Fiber Business Acquisition"
+        },
+        {
+            "time": "08:08",
+            "tag": "MERCADO",
+            "text": "How Elevance Health Brings Sustainability into Healthcare"
+        },
+        {
+            "time": "07:30",
+            "tag": "MERCADO",
+            "text": "Teledyne Delivers Four GAVIA AUVs to Sweden & Modernizes Subsea Fleet"
         }
     ]
 }
