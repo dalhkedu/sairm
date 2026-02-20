@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-20 05:56 UTC",
+        "last_updated": "2026-02-20 07:03 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 187.9,
-            "change": "-0.18%"
+            "change": "-0.43%"
         },
         {
             "symbol": "AMD",
             "price": 203.37,
-            "change": "+0.34%"
+            "change": "-0.39%"
         },
         {
             "symbol": "MSFT",
             "price": 398.46,
-            "change": "+0.82%"
+            "change": "+3.31%"
         },
         {
             "symbol": "CEG",
             "price": 291.66,
-            "change": "-1.8%"
+            "change": "-0.03%"
         },
         {
             "symbol": "VST",
             "price": 172.5,
-            "change": "-1.82%"
+            "change": "+0.91%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.47,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
             0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            22.98,
-            23.16,
-            23.62,
-            23.93,
-            24.32,
-            24.73,
-            24.93,
-            24.77,
-            24.74,
-            24.52,
-            25.0,
-            24.87
+            25.61,
+            25.96,
+            25.83,
+            25.5,
+            25.43,
+            25.56,
+            25.46,
+            25.09,
+            24.97,
+            25.01,
+            25.1,
+            24.66
         ],
         "hsd_history_software": [
-            9.38,
-            9.51,
-            9.45,
-            9.55,
-            9.71,
             9.86,
+            9.78,
+            9.89,
+            9.84,
+            9.83,
+            9.98,
+            10.01,
             9.92,
-            9.81,
+            9.91,
+            9.93,
             9.94,
-            9.88,
-            9.88,
-            10.05
+            10.14
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "03:56",
-            "tag": "MERCADO",
-            "text": "Longview Partners trims Alphabet Class A stake by 698K"
+            "time": "05:34",
+            "tag": "AI",
+            "text": "Intel in India for the 'long haul', supporting semiconductor manufacturing and AI ambitions"
         },
         {
-            "time": "03:43",
+            "time": "05:26",
             "tag": "MERCADO",
-            "text": "Hotchkis & Wiley Cuts Alphabet Inc. Class A Stake"
+            "text": "Zillow Group to present at Bernstein 4th Annual TMT Forum"
         },
         {
-            "time": "03:37",
+            "time": "05:21",
             "tag": "MERCADO",
-            "text": "Altimeter Capital\u2019s Brad Gerstner Slashes Broadcom Inc. Stake"
+            "text": "Western Digital\u2019s Davis sells $2.79m in stock"
         },
         {
-            "time": "03:37",
+            "time": "05:05",
             "tag": "MERCADO",
-            "text": "Altimeter Capital\u2019s Brad Gerstner Boosts Alphabet Class A Stake"
+            "text": "Analysts Offer Insights on Technology Companies: Palo Alto Networks (PANW) and Nvidia (NVDA)"
         },
         {
-            "time": "03:37",
+            "time": "05:03",
             "tag": "MERCADO",
-            "text": "Route One Investment Company trims Alphabet Inc. Class A stake"
+            "text": "Qualcomm and Tata Electronics Partner to Manufacture Qualcomm Automotive Modules in India"
         }
     ]
 }
