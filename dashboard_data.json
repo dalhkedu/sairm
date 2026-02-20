@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-20 11:35 UTC",
+        "last_updated": "2026-02-20 13:05 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 187.9,
-            "change": "-2.75%"
+            "change": "-0.3%"
         },
         {
             "symbol": "AMD",
             "price": 203.37,
-            "change": "-0.84%"
+            "change": "-2.36%"
         },
         {
             "symbol": "MSFT",
             "price": 398.46,
-            "change": "+1.99%"
+            "change": "-1.99%"
         },
         {
             "symbol": "CEG",
             "price": 291.66,
-            "change": "-0.58%"
+            "change": "-1.55%"
         },
         {
             "symbol": "VST",
             "price": 172.5,
-            "change": "+1.59%"
+            "change": "+1.41%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.45,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
             0.5,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.5,
-            0.49,
-            0.48,
-            0.49,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
+            24.35,
+            24.07,
             23.93,
-            24.33,
-            24.11,
-            24.22,
-            24.23,
-            24.25,
-            24.68,
-            25.09,
-            24.92,
-            25.12,
-            25.59,
-            25.38
+            23.83,
+            23.44,
+            23.55,
+            24.0,
+            24.06,
+            24.46,
+            24.39,
+            24.73,
+            25.16
         ],
         "hsd_history_software": [
-            10.15,
-            10.3,
-            10.46,
-            10.4,
-            10.34,
-            10.49,
-            10.42,
-            10.26,
-            10.18,
-            10.05,
-            10.03,
-            10.05
+            10.01,
+            9.93,
+            10.0,
+            9.87,
+            9.7,
+            9.84,
+            10.02,
+            10.21,
+            10.13,
+            10.23,
+            10.24,
+            10.08
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:54",
+            "time": "12:25",
             "tag": "MERCADO",
-            "text": "Intuit Inc. $INTU Shares Sold by BNP PARIBAS ASSET MANAGEMENT Holding S.A."
+            "text": "William Blair initiates Stryker stock coverage citing diversified growth"
         },
         {
-            "time": "10:54",
+            "time": "12:25",
             "tag": "MERCADO",
-            "text": "BNP PARIBAS ASSET MANAGEMENT Holding S.A. Has $20.51 Million Stock Position in NetApp, Inc. $NTAP"
+            "text": "Client Relationship Retention and Steady Sales Momentum Make Jack Henry & Associates (JKHY) a Resilient Business"
         },
         {
-            "time": "10:52",
-            "tag": "MERCADO",
-            "text": "13,232 Shares in Take-Two Interactive Software, Inc. $TTWO Purchased by Compass Wealth Management LLC"
+            "time": "12:03",
+            "tag": "AI",
+            "text": "AI fears are hammering shares of brokers like Charles Schwab and LPL \u2014 but the humans aren\u2019t panicking"
         },
         {
-            "time": "10:52",
+            "time": "12:02",
             "tag": "MERCADO",
-            "text": "Compass Wealth Management LLC Purchases Shares of 14,989 Teledyne Technologies Incorporated $TDY"
+            "text": "BCE to participate in the Barclays Communications and Content Symposium"
         },
         {
-            "time": "10:52",
+            "time": "11:58",
             "tag": "MERCADO",
-            "text": "Synopsys, Inc. $SNPS Shares Acquired by BNP PARIBAS ASSET MANAGEMENT Holding S.A."
+            "text": "HighTower Advisors LLC Reduces Holdings in Marvell Technology, Inc. $MRVL"
         }
     ]
 }
