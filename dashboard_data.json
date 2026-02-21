@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-21 11:26 UTC",
+        "last_updated": "2026-02-21 12:55 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 189.82,
-            "change": "+1.91%"
+            "change": "+1.41%"
         },
         {
             "symbol": "AMD",
             "price": 200.15,
-            "change": "+2.21%"
+            "change": "-1.51%"
         },
         {
             "symbol": "MSFT",
             "price": 397.23,
-            "change": "+1.81%"
+            "change": "+0.31%"
         },
         {
             "symbol": "CEG",
             "price": 294.84,
-            "change": "+2.08%"
+            "change": "-0.64%"
         },
         {
             "symbol": "VST",
             "price": 171.4,
-            "change": "+2.61%"
+            "change": "+1.37%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.68,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.53,
+            0.54,
             0.54,
             0.53,
-            0.52,
             0.53,
             0.52,
-            0.51,
-            0.5,
-            0.51,
+            0.52,
             0.51,
             0.51,
             0.5,
+            0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            24.73,
+            24.18,
             24.61,
-            24.4,
-            24.73,
-            24.26,
-            24.49,
-            24.07,
-            24.09,
-            23.86,
-            24.25,
-            24.24,
-            24.59
+            24.6,
+            24.64,
+            24.82,
+            24.97,
+            24.59,
+            24.19,
+            24.28,
+            24.5,
+            24.58,
+            24.6
         ],
         "hsd_history_software": [
-            10.8,
-            10.91,
-            11.06,
-            11.06,
-            10.85,
-            10.65,
-            10.5,
-            10.47,
-            10.28,
-            10.44,
-            10.26,
-            10.09
+            9.81,
+            9.67,
+            9.7,
+            9.59,
+            9.6,
+            9.53,
+            9.44,
+            9.56,
+            9.66,
+            9.68,
+            9.8,
+            9.97
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:44",
+            "time": "12:14",
             "tag": "MERCADO",
-            "text": "Digital Realty Trust, Inc. $DLR Position Lessened by HighTower Advisors LLC"
+            "text": "38,152 Shares in Synopsys, Inc. $SNPS Acquired by Jupiter Asset Management Ltd."
         },
         {
-            "time": "10:30",
+            "time": "12:11",
             "tag": "MERCADO",
-            "text": "Wipro Stock: Quiet Rally, Big Question for US Tech Investors"
+            "text": "Equinix, Inc. $EQIX Shares Sold by Raiffeisen Bank International AG"
         },
         {
-            "time": "10:21",
+            "time": "12:03",
             "tag": "MERCADO",
-            "text": "Citigroup Inc. Lowers Position in Mastercard Incorporated $MA"
+            "text": "Hewlett Packard Enterprise (HPE) Receives a Rating Update from a Top Analyst"
         },
         {
-            "time": "10:21",
+            "time": "12:00",
             "tag": "MERCADO",
-            "text": "Citigroup Inc. Purchases 33,516 Shares of Spotify Technology $SPOT"
+            "text": "HP (HPQ) Receives a Rating Update from a Top Analyst"
         },
         {
-            "time": "10:21",
+            "time": "11:52",
             "tag": "MERCADO",
-            "text": "Envestnet Asset Management Inc. Has $6.54 Million Position in AeroVironment, Inc. $AVAV"
+            "text": "ICICI Prudential Asset Management Co Ltd Sells 78,992 Shares of Microchip Technology Incorporated $MCHP"
         }
     ]
 }
