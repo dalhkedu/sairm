@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-21 08:36 UTC",
+        "last_updated": "2026-02-21 09:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 189.82,
-            "change": "+3.19%"
+            "change": "+2.56%"
         },
         {
             "symbol": "AMD",
             "price": 200.15,
-            "change": "+1.05%"
+            "change": "-0.1%"
         },
         {
             "symbol": "MSFT",
             "price": 397.23,
-            "change": "-3.07%"
+            "change": "+2.34%"
         },
         {
             "symbol": "CEG",
             "price": 294.84,
-            "change": "+2.49%"
+            "change": "+1.86%"
         },
         {
             "symbol": "VST",
             "price": 171.4,
-            "change": "-3.24%"
+            "change": "-2.77%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.64,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.5,
             0.5,
             0.51,
             0.51,
-            0.5,
+            0.51,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.42,
-            24.73,
-            25.02,
-            25.0,
-            25.21,
+            24.29,
+            24.25,
             24.72,
-            25.16,
-            25.58,
-            25.83,
-            25.43,
-            25.71,
-            25.45
+            24.6,
+            24.73,
+            24.3,
+            24.25,
+            23.92,
+            24.35,
+            24.24,
+            24.33,
+            24.78
         ],
         "hsd_history_software": [
-            10.19,
-            10.18,
-            10.09,
-            10.05,
-            9.99,
-            10.04,
-            9.9,
-            10.09,
-            10.03,
+            10.21,
+            10.08,
+            10.12,
+            10.01,
+            9.95,
             9.93,
-            9.92,
-            10.03
+            10.0,
+            9.81,
+            9.96,
+            9.93,
+            9.98,
+            10.15
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "08:40",
+            "tag": "MERCADO",
+            "text": "Annis Gardner Whiting Capital Advisors LLC Purchases 22,940 Shares of NVIDIA Corporation $NVDA"
+        },
+        {
+            "time": "08:40",
+            "tag": "MERCADO",
+            "text": "Super Micro Computer: The Less Discussed FQ2 Accounting Items (NASDAQ:SMCI)"
+        },
+        {
+            "time": "08:20",
+            "tag": "MERCADO",
+            "text": "Anthropic's new tool wipes down billions from CrowdStrike, Cloudflare, Palo Alto Networks, and Zscaler, Okta stocks; company says: We also... - The Times of India"
+        },
+        {
+            "time": "08:20",
+            "tag": "MERCADO",
+            "text": "NVIDIA Corporation $NVDA is Activest Wealth Management's 7th Largest Position"
+        },
+        {
             "time": "08:19",
             "tag": "AI",
             "text": "Nvidia and Broadcom Compete in AI Infrastructure"
-        },
-        {
-            "time": "08:10",
-            "tag": "MERCADO",
-            "text": "Uber Technologies Stock To $96?"
-        },
-        {
-            "time": "07:42",
-            "tag": "MERCADO",
-            "text": "Roadzen (NASDAQ:RDZN) Cut to Sell at Wall Street Zen"
-        },
-        {
-            "time": "07:24",
-            "tag": "MERCADO",
-            "text": "Lemonade, Inc. (NYSE:LMND) Receives Consensus Recommendation of \"Hold\" from Brokerages"
-        },
-        {
-            "time": "07:23",
-            "tag": "RESULTADOS",
-            "text": "Nautilus Biotechnology (NAUT) to Release Earnings on Thursday"
         }
     ]
 }
