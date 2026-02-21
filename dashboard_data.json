@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-21 22:28 UTC",
+        "last_updated": "2026-02-21 23:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 189.82,
-            "change": "+0.35%"
+            "change": "+2.67%"
         },
         {
             "symbol": "AMD",
             "price": 200.15,
-            "change": "+2.41%"
+            "change": "+3.24%"
         },
         {
             "symbol": "MSFT",
             "price": 397.23,
-            "change": "-0.22%"
+            "change": "-2.83%"
         },
         {
             "symbol": "CEG",
             "price": 294.84,
-            "change": "-1.86%"
+            "change": "-0.07%"
         },
         {
             "symbol": "VST",
             "price": 171.4,
-            "change": "-3.47%"
+            "change": "+0.6%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.42,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
             0.5,
-            0.5,
-            0.51,
-            0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.73,
-            24.13,
-            24.12,
-            24.25,
-            24.47,
-            24.28,
-            24.1,
-            24.52,
-            24.9,
-            24.73,
-            24.72,
-            25.04
+            25.07,
+            25.41,
+            24.94,
+            24.84,
+            25.31,
+            25.42,
+            25.58,
+            25.35,
+            25.38,
+            24.95,
+            24.86,
+            25.11
         ],
         "hsd_history_software": [
-            10.22,
-            10.19,
-            10.23,
-            10.27,
-            10.08,
-            10.1,
-            9.92,
-            9.77,
-            9.74,
-            9.92,
-            9.91,
-            9.88
+            10.77,
+            10.72,
+            10.51,
+            10.65,
+            10.45,
+            10.26,
+            10.18,
+            10.06,
+            10.04,
+            9.89,
+            9.81,
+            9.81
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "21:47",
+            "tag": "AI",
+            "text": "Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks"
+        },
+        {
             "time": "21:06",
             "tag": "MERCADO",
             "text": "Whetstone Capital Fully Exits monday.com Position"
@@ -144,11 +149,6 @@
             "time": "18:58",
             "tag": "MERCADO",
             "text": "PayPal Faces Class Action Lawsuit Risk"
-        },
-        {
-            "time": "18:46",
-            "tag": "MERCADO",
-            "text": "Analysts Are Bullish on These Technology Stocks: NICE (NICE), Solstice Advanced Materials, Inc. (SOLS)"
         }
     ]
 }
