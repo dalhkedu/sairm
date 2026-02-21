@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-21 20:29 UTC",
+        "last_updated": "2026-02-21 21:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 189.82,
-            "change": "+0.09%"
+            "change": "-2.66%"
         },
         {
             "symbol": "AMD",
             "price": 200.15,
-            "change": "-3.44%"
+            "change": "-0.15%"
         },
         {
             "symbol": "MSFT",
             "price": 397.23,
-            "change": "+0.29%"
+            "change": "-0.96%"
         },
         {
             "symbol": "CEG",
             "price": 294.84,
-            "change": "+2.82%"
+            "change": "+2.15%"
         },
         {
             "symbol": "VST",
             "price": 171.4,
-            "change": "-2.59%"
+            "change": "-3.28%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.64,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
+            0.5,
+            0.5,
+            0.51,
             0.5,
             0.51,
             0.51,
-            0.52,
-            0.52,
-            0.52,
             0.51,
             0.51,
-            0.5
+            0.5,
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.58,
-            25.07,
+            25.47,
+            25.64,
+            25.57,
+            25.31,
+            25.06,
+            24.72,
+            24.88,
+            25.15,
+            25.25,
+            25.4,
             25.03,
-            24.62,
-            24.67,
-            25.01,
-            24.53,
-            24.8,
-            25.27,
-            25.12,
-            24.77,
-            24.9
+            24.69
         ],
         "hsd_history_software": [
-            9.52,
-            9.38,
-            9.54,
-            9.53,
-            9.63,
-            9.79,
-            9.93,
+            10.21,
             10.03,
+            10.05,
+            10.14,
             10.06,
-            9.92,
-            10.0,
-            9.89
+            10.05,
+            9.99,
+            9.96,
+            9.96,
+            10.11,
+            9.98,
+            9.9
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "20:02",
+            "tag": "MERCADO",
+            "text": "Analog Devices stock nears a fresh high after upbeat outlook \u2014 what to watch before Monday"
+        },
+        {
+            "time": "19:52",
+            "tag": "MERCADO",
+            "text": "Cisco stock holds near $79 after insider sale filing as Nvidia earnings loom for CSCO"
+        },
+        {
             "time": "18:58",
             "tag": "MERCADO",
             "text": "PayPal Faces Class Action Lawsuit Risk"
         },
         {
-            "time": "18:29",
-            "tag": "AI",
-            "text": "Movano\u2019s Strategic Pivot: A Pending Merger to Forge a Pure-Play AI Infrastructure Firm"
-        },
-        {
-            "time": "18:21",
+            "time": "18:46",
             "tag": "MERCADO",
-            "text": "Schlumberger NV Stock: Why Wall Street Just Flipped the Script"
+            "text": "Analysts Are Bullish on These Technology Stocks: NICE (NICE), Solstice Advanced Materials, Inc. (SOLS)"
         },
         {
-            "time": "18:14",
+            "time": "18:38",
             "tag": "MERCADO",
-            "text": "Dian Siswarini, Dirut Perempuan Pertama Telkom: Bukan Sekadar Memimpin, tapi Mentransformasi"
-        },
-        {
-            "time": "18:05",
-            "tag": "AI",
-            "text": "SAIC launches alliance to support state rural healthcare efforts"
+            "text": "Analysts Offer Insights on Technology Companies: NICE (NICE), RingCentral (RNG) and Sensata (ST)"
         }
     ]
 }
