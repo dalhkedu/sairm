@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-21 02:20 UTC",
+        "last_updated": "2026-02-21 04:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 189.82,
-            "change": "+0.74%"
+            "change": "+0.63%"
         },
         {
             "symbol": "AMD",
             "price": 200.15,
-            "change": "+0.11%"
+            "change": "+2.62%"
         },
         {
             "symbol": "MSFT",
             "price": 397.23,
-            "change": "-0.77%"
+            "change": "-1.66%"
         },
         {
             "symbol": "CEG",
             "price": 294.84,
-            "change": "-2.61%"
+            "change": "-1.43%"
         },
         {
             "symbol": "VST",
-            "price": NaN,
-            "change": "-0.46%"
+            "price": 171.4,
+            "change": "+0.33%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.41,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.51
+            0.45,
+            0.45,
+            0.46,
+            0.46,
+            0.46,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            27.25,
-            26.79,
-            26.76,
-            26.54,
-            26.57,
-            26.62,
-            26.16,
-            25.8,
-            26.23,
-            25.77,
-            25.51,
-            25.22
+            23.74,
+            24.15,
+            24.61,
+            24.66,
+            24.52,
+            24.28,
+            24.59,
+            24.37,
+            24.71,
+            24.31,
+            24.65,
+            25.11
         ],
         "hsd_history_software": [
-            9.79,
-            9.93,
-            9.77,
-            9.65,
-            9.77,
-            9.59,
-            9.73,
-            9.91,
+            11.03,
+            10.91,
+            10.75,
+            10.55,
+            10.42,
+            10.24,
+            10.09,
+            9.98,
+            9.81,
             9.72,
-            9.92,
-            10.04,
-            10.05
+            9.83,
+            9.85
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:31",
+            "time": "03:30",
             "tag": "MERCADO",
-            "text": "AeroVironment (NASDAQ:AVAV) Director Sells $68,750.00 in Stock"
+            "text": "DXC Technology Stock Spikes on Apollo\u2013Kyndryl Bid: Buy the Rebound or Exit?"
         },
         {
-            "time": "01:25",
+            "time": "03:27",
             "tag": "MERCADO",
-            "text": "Hillhouse Capital Management, Ltd. Reduces Stake in Webull Corp"
+            "text": "Eminence Capital Trims Amazon.com Stake, Sheds 73,281 Shares"
         },
         {
-            "time": "01:19",
+            "time": "03:21",
             "tag": "MERCADO",
-            "text": "CDT Equity acquires 20% stake in Sarborg for $115 million By Investing.com"
+            "text": "Synopsys Investigation Initiated: Kahn Swick & Foti, LLC Investigates the Officers and Directors of Synopsys, Inc. - SNPS"
         },
         {
-            "time": "00:54",
+            "time": "03:00",
             "tag": "MERCADO",
-            "text": "Insider Sell: Alan Higginson Sells 1,770 Shares of F5 Inc (FFIV)"
+            "text": "HIVE Digital Technologies finance chief discusses record third quarter results - ICYMI"
         },
         {
-            "time": "00:53",
+            "time": "03:00",
             "tag": "AI",
-            "text": "BigBear.ai (NYSE:BBAI) Stock Price Down 7.5% - What's Next?"
+            "text": "VivoPower secures $30M for AI data centers - ICYMI"
         }
     ]
 }
