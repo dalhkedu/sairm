@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-21 10:30 UTC",
+        "last_updated": "2026-02-21 11:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 189.82,
-            "change": "+0.66%"
+            "change": "+1.91%"
         },
         {
             "symbol": "AMD",
             "price": 200.15,
-            "change": "-3.39%"
+            "change": "+2.21%"
         },
         {
             "symbol": "MSFT",
             "price": 397.23,
-            "change": "+1.99%"
+            "change": "+1.81%"
         },
         {
             "symbol": "CEG",
             "price": 294.84,
-            "change": "+3.08%"
+            "change": "+2.08%"
         },
         {
             "symbol": "VST",
             "price": 171.4,
-            "change": "-0.36%"
+            "change": "+2.61%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.54,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
+            0.54,
+            0.53,
+            0.52,
+            0.53,
+            0.52,
+            0.51,
             0.5,
-            0.49,
-            0.48,
-            0.48,
-            0.47,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.47,
-            24.83,
-            24.62,
-            24.96,
-            25.06,
+            24.73,
             24.61,
-            24.66,
+            24.4,
+            24.73,
+            24.26,
             24.49,
-            24.56,
-            24.39,
-            24.57,
-            24.98
+            24.07,
+            24.09,
+            23.86,
+            24.25,
+            24.24,
+            24.59
         ],
         "hsd_history_software": [
-            10.33,
-            10.25,
-            10.07,
-            10.01,
-            9.85,
-            9.8,
-            9.75,
-            9.94,
-            9.86,
-            9.95,
-            9.95,
-            10.12
+            10.8,
+            10.91,
+            11.06,
+            11.06,
+            10.85,
+            10.65,
+            10.5,
+            10.47,
+            10.28,
+            10.44,
+            10.26,
+            10.09
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:49",
+            "time": "10:44",
             "tag": "MERCADO",
-            "text": "Empirical Financial Services LLC d.b.a. Empirical Wealth Management Sells 25,908 Shares of Analog Devices, Inc. $ADI"
+            "text": "Digital Realty Trust, Inc. $DLR Position Lessened by HighTower Advisors LLC"
         },
         {
-            "time": "09:49",
+            "time": "10:30",
             "tag": "MERCADO",
-            "text": "International Business Machines Corporation $IBM Shares Bought by Empirical Financial Services LLC d.b.a. Empirical Wealth Management"
+            "text": "Wipro Stock: Quiet Rally, Big Question for US Tech Investors"
         },
         {
-            "time": "09:49",
+            "time": "10:21",
             "tag": "MERCADO",
-            "text": "Empirical Financial Services LLC d.b.a. Empirical Wealth Management Sells 39,713 Shares of Texas Instruments Incorporated $TXN"
+            "text": "Citigroup Inc. Lowers Position in Mastercard Incorporated $MA"
         },
         {
-            "time": "09:38",
+            "time": "10:21",
             "tag": "MERCADO",
-            "text": "Convergence Financial LLC Raises Stock Position in International Business Machines Corporation $IBM"
+            "text": "Citigroup Inc. Purchases 33,516 Shares of Spotify Technology $SPOT"
         },
         {
-            "time": "09:21",
-            "tag": "AI",
-            "text": "Billionaire Israel Englander Sells Nvidia Stock and Buys an AI Stock Up 2,000% Since Early 2023"
+            "time": "10:21",
+            "tag": "MERCADO",
+            "text": "Envestnet Asset Management Inc. Has $6.54 Million Position in AeroVironment, Inc. $AVAV"
         }
     ]
 }
