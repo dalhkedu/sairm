@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-21 05:44 UTC",
+        "last_updated": "2026-02-21 06:48 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 189.82,
-            "change": "-1.34%"
+            "change": "-1.86%"
         },
         {
             "symbol": "AMD",
             "price": 200.15,
-            "change": "-0.44%"
+            "change": "-2.34%"
         },
         {
             "symbol": "MSFT",
             "price": 397.23,
-            "change": "+2.11%"
+            "change": "+0.74%"
         },
         {
             "symbol": "CEG",
             "price": 294.84,
-            "change": "-2.53%"
+            "change": "+2.63%"
         },
         {
             "symbol": "VST",
             "price": 171.4,
-            "change": "-2.36%"
+            "change": "+2.6%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.42,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
+            0.5,
             0.51,
             0.5,
+            0.49,
             0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.51,
+            0.51,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.67,
-            25.03,
-            24.8,
-            24.84,
-            25.3,
-            24.86,
-            25.26,
-            24.87,
-            24.59,
-            24.62,
-            24.96,
-            24.76
+            24.81,
+            25.2,
+            25.65,
+            25.74,
+            25.33,
+            25.24,
+            25.01,
+            25.48,
+            25.59,
+            25.68,
+            25.49,
+            24.99
         ],
         "hsd_history_software": [
-            9.34,
-            9.39,
-            9.41,
-            9.46,
-            9.53,
-            9.57,
-            9.51,
-            9.67,
+            9.87,
+            10.0,
+            9.99,
+            9.91,
+            9.81,
+            9.62,
             9.69,
-            9.76,
-            9.8,
-            9.81
+            9.62,
+            9.71,
+            9.52,
+            9.71,
+            9.86
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "05:42",
+            "tag": "MERCADO",
+            "text": "Qualys: A Profitable Cybersecurity Stock Without A Catalyst (NASDAQ:QLYS)"
+        },
+        {
+            "time": "05:18",
+            "tag": "MERCADO",
+            "text": "HealthStream, Inc. (HSTM) Stock Analysis: Exploring a Potential 60.89% Upside in the Health Information Services Sector"
+        },
+        {
             "time": "04:26",
             "tag": "MERCADO",
             "text": "Clearwater Analytics CEO Sahai Sandeep sells $5.48 million in shares By Investing.com"
@@ -139,16 +149,6 @@
             "time": "04:01",
             "tag": "AI",
             "text": "R1 RCM Stock Pops on Guidance, AI Hype \u2014 Is the Rally for Real?"
-        },
-        {
-            "time": "03:30",
-            "tag": "MERCADO",
-            "text": "DXC Technology Stock Spikes on Apollo\u2013Kyndryl Bid: Buy the Rebound or Exit?"
-        },
-        {
-            "time": "03:27",
-            "tag": "MERCADO",
-            "text": "Eminence Capital Trims Amazon.com Stake, Sheds 73,281 Shares"
         }
     ]
 }
