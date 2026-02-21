@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-21 15:28 UTC",
+        "last_updated": "2026-02-21 16:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 189.82,
-            "change": "+1.75%"
+            "change": "+1.05%"
         },
         {
             "symbol": "AMD",
             "price": 200.15,
-            "change": "+1.12%"
+            "change": "+3.43%"
         },
         {
             "symbol": "MSFT",
             "price": 397.23,
-            "change": "+1.38%"
+            "change": "-1.88%"
         },
         {
             "symbol": "CEG",
             "price": 294.84,
-            "change": "-0.34%"
+            "change": "+2.87%"
         },
         {
             "symbol": "VST",
             "price": 171.4,
-            "change": "+2.57%"
+            "change": "+3.48%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.41,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
+            0.53,
+            0.53,
             0.52,
             0.51,
-            0.51
+            0.51,
+            0.51,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.67,
-            23.53,
-            23.94,
-            24.3,
-            24.04,
-            23.78,
-            23.63,
-            23.96,
-            24.33,
-            24.55,
-            24.58,
-            24.98
+            25.15,
+            24.74,
+            24.93,
+            24.99,
+            25.0,
+            24.7,
+            24.77,
+            25.09,
+            25.45,
+            25.12,
+            25.09,
+            25.39
         ],
         "hsd_history_software": [
-            9.72,
+            9.63,
+            9.45,
+            9.45,
+            9.52,
+            9.63,
+            9.65,
+            9.83,
+            9.99,
+            9.84,
             9.87,
-            10.02,
-            10.02,
-            10.2,
-            10.21,
-            10.16,
-            10.28,
-            10.12,
-            9.93,
-            10.06,
-            9.91
+            9.99,
+            10.13
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:21",
+            "time": "16:07",
             "tag": "MERCADO",
-            "text": "BMO Reaffirms Bullish View on Equinix (EQIX) amid Strong Operational Performance"
+            "text": "Getmany \u2013 Lead Generation for Upwork: How to Win More Clients"
         },
         {
-            "time": "14:15",
+            "time": "15:58",
             "tag": "MERCADO",
-            "text": "Tredje AP fonden Sells 265,369 Shares of Verizon Communications Inc. $VZ"
+            "text": "Choice Hotels International, Inc. Data Breach Alert Issued By Wolf Haldenstein"
         },
         {
-            "time": "14:15",
+            "time": "15:45",
             "tag": "MERCADO",
-            "text": "Tredje AP fonden Buys 54,970 Shares of Take-Two Interactive Software, Inc. $TTWO"
+            "text": "Baird Lowers its Price Target on Trimble Inc. (TRMB) to $90 but Maintains an Outperform Rating"
         },
         {
-            "time": "14:15",
+            "time": "15:39",
             "tag": "MERCADO",
-            "text": "Tredje AP fonden Has $47.19 Million Stock Holdings in Texas Instruments Incorporated $TXN"
+            "text": "RBC Capital Lowers its Price Target on Autodesk, Inc. (ADSK) to $340 and Maintains an Outperform Rating"
         },
         {
-            "time": "14:15",
+            "time": "15:36",
             "tag": "MERCADO",
-            "text": "Tredje AP fonden Decreases Holdings in Synopsys, Inc. $SNPS"
+            "text": "Better Stock to Buy Right Now: Amazon vs. Home Depot"
         }
     ]
 }
