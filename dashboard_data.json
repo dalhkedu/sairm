@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-21 07:34 UTC",
+        "last_updated": "2026-02-21 08:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 189.82,
-            "change": "+2.79%"
+            "change": "+3.19%"
         },
         {
             "symbol": "AMD",
             "price": 200.15,
-            "change": "-2.24%"
+            "change": "+1.05%"
         },
         {
             "symbol": "MSFT",
             "price": 397.23,
-            "change": "+3.37%"
+            "change": "-3.07%"
         },
         {
             "symbol": "CEG",
             "price": 294.84,
-            "change": "-0.58%"
+            "change": "+2.49%"
         },
         {
             "symbol": "VST",
             "price": 171.4,
-            "change": "+3.32%"
+            "change": "-3.24%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.42,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
             0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
             0.5,
             0.5,
             0.5,
             0.5,
-            0.49,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.25,
-            25.73,
-            25.59,
-            26.01,
-            25.84,
-            25.56,
-            25.37,
-            25.01,
-            24.97,
-            24.99,
+            24.42,
+            24.73,
+            25.02,
             25.0,
-            24.99
+            25.21,
+            24.72,
+            25.16,
+            25.58,
+            25.83,
+            25.43,
+            25.71,
+            25.45
         ],
         "hsd_history_software": [
-            9.72,
-            9.82,
-            9.71,
-            9.8,
-            9.96,
-            10.12,
-            10.11,
+            10.19,
+            10.18,
+            10.09,
+            10.05,
+            9.99,
+            10.04,
+            9.9,
+            10.09,
+            10.03,
+            9.93,
             9.92,
-            9.77,
-            9.67,
-            9.8,
-            9.8
+            10.03
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:00",
+            "time": "08:19",
+            "tag": "AI",
+            "text": "Nvidia and Broadcom Compete in AI Infrastructure"
+        },
+        {
+            "time": "08:10",
+            "tag": "MERCADO",
+            "text": "Uber Technologies Stock To $96?"
+        },
+        {
+            "time": "07:42",
+            "tag": "MERCADO",
+            "text": "Roadzen (NASDAQ:RDZN) Cut to Sell at Wall Street Zen"
+        },
+        {
+            "time": "07:24",
+            "tag": "MERCADO",
+            "text": "Lemonade, Inc. (NYSE:LMND) Receives Consensus Recommendation of \"Hold\" from Brokerages"
+        },
+        {
+            "time": "07:23",
             "tag": "RESULTADOS",
-            "text": "Garmin Stock Pops on Strong Earnings: Can the Rally Last for US Investors?"
-        },
-        {
-            "time": "06:51",
-            "tag": "MERCADO",
-            "text": "Yext (NYSE:YEXT) Given Consensus Recommendation of \"Moderate Buy\" by Brokerages"
-        },
-        {
-            "time": "06:50",
-            "tag": "MERCADO",
-            "text": "Absci Corporation (NASDAQ:ABSI) Receives Consensus Recommendation of \"Moderate Buy\" from Brokerages"
-        },
-        {
-            "time": "06:37",
-            "tag": "MERCADO",
-            "text": "Down 24%, Is ServiceNow Stock a Buy Now?"
-        },
-        {
-            "time": "05:44",
-            "tag": "MERCADO",
-            "text": "Telkom: Perang Harga Sudah \u201cSo Yesterday\u201d, Kini Fokus Kualitas Layanan"
+            "text": "Nautilus Biotechnology (NAUT) to Release Earnings on Thursday"
         }
     ]
 }
