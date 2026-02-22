@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-02-22 22:28 UTC",
+        "last_updated": "2026-02-22 23:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 189.82,
-            "change": "-0.57%"
+            "change": "-0.59%"
         },
         {
             "symbol": "AMD",
             "price": 200.15,
-            "change": "+2.74%"
+            "change": "-1.14%"
         },
         {
             "symbol": "MSFT",
             "price": 397.23,
-            "change": "+3.35%"
+            "change": "-0.74%"
         },
         {
             "symbol": "CEG",
             "price": 294.84,
-            "change": "-3.08%"
+            "change": "+1.46%"
         },
         {
             "symbol": "VST",
-            "price": 171.4,
-            "change": "-1.44%"
+            "price": NaN,
+            "change": "-3.44%"
         }
     ],
     "dashboard_metrics": {
@@ -36,46 +36,46 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            24.17,
-            24.65,
-            24.52,
-            24.41,
-            24.6,
-            24.47,
-            24.56,
-            24.71,
-            24.67,
-            24.25,
-            24.62,
-            24.9
+            26.44,
+            26.19,
+            26.01,
+            25.64,
+            25.16,
+            25.17,
+            25.16,
+            25.34,
+            25.18,
+            25.31,
+            24.86,
+            24.62
         ],
         "hsd_history_software": [
-            9.73,
-            9.78,
-            9.97,
-            10.04,
-            10.21,
-            10.27,
-            10.36,
-            10.32,
-            10.26,
-            10.22,
+            10.05,
+            9.98,
+            9.99,
+            10.13,
+            9.98,
+            10.09,
+            9.94,
             10.07,
-            9.98
+            9.88,
+            10.02,
+            10.14,
+            10.08
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "22:59",
+            "tag": "MERCADO",
+            "text": "Halliburton pact targets Indonesia\u2019s mature fields, energy supply"
+        },
+        {
+            "time": "22:52",
+            "tag": "MERCADO",
+            "text": "Bitdeer Hits Zero Bitcoin Holdings - Sold Every Coin It Mined While Raising $300M In Debt"
+        },
+        {
+            "time": "21:59",
+            "tag": "MERCADO",
+            "text": "Rick Smith: Pioneering Public Safety Solutions with Axon"
+        },
+        {
+            "time": "21:51",
+            "tag": "MERCADO",
+            "text": "Paycom Software Inc.: Why Wall Street Can\u2019t Ignore This HR Tech Bet"
+        },
+        {
             "time": "20:59",
             "tag": "MERCADO",
             "text": "LG Display (NYSE:LPL) Gains as NYSE Composite Rises"
-        },
-        {
-            "time": "20:42",
-            "tag": "MERCADO",
-            "text": "Investment Outlook for IonQ and Rigetti in Quantum Computing"
-        },
-        {
-            "time": "19:38",
-            "tag": "MERCADO",
-            "text": "2 Quantum Computing Stocks That Could Make a Millionaire"
-        },
-        {
-            "time": "19:22",
-            "tag": "MERCADO",
-            "text": "2 Quantum Computing Stocks That Could Make a Millionaire"
-        },
-        {
-            "time": "19:20",
-            "tag": "MERCADO",
-            "text": "Infosys Limited (INFY) Collaborates With Anthropic"
         }
     ]
 }
