@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-22 12:57 UTC",
+        "last_updated": "2026-02-22 13:48 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 189.82,
-            "change": "-3.14%"
+            "change": "+3.21%"
         },
         {
             "symbol": "AMD",
             "price": 200.15,
-            "change": "+1.88%"
+            "change": "-2.01%"
         },
         {
             "symbol": "MSFT",
             "price": 397.23,
-            "change": "-0.85%"
+            "change": "-0.57%"
         },
         {
             "symbol": "CEG",
             "price": 294.84,
-            "change": "-1.48%"
+            "change": "+0.09%"
         },
         {
             "symbol": "VST",
             "price": 171.4,
-            "change": "+2.78%"
+            "change": "-3.13%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.67,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.52,
+            0.52,
             0.51,
-            0.51,
+            0.52,
             0.52,
             0.51,
             0.5,
             0.5,
+            0.5,
+            0.5,
             0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            24.99,
-            25.01,
-            25.51,
-            25.53,
-            25.29,
+            22.78,
+            22.74,
+            23.09,
+            23.43,
+            23.89,
+            24.26,
+            24.71,
+            24.64,
+            24.85,
             25.3,
-            25.65,
-            25.34,
-            25.02,
-            24.99,
-            25.46,
-            25.03
+            25.43,
+            25.44
         ],
         "hsd_history_software": [
-            10.21,
-            10.27,
-            10.23,
-            10.09,
-            10.02,
-            9.94,
-            10.08,
-            9.92,
-            9.94,
-            10.08,
-            10.06,
-            9.96
+            9.8,
+            9.89,
+            9.71,
+            9.69,
+            9.78,
+            9.88,
+            9.75,
+            9.59,
+            9.7,
+            9.81,
+            9.68,
+            9.83
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:11",
+            "time": "13:07",
             "tag": "MERCADO",
-            "text": "SYM FINANCIAL Corp Reduces Position in NVIDIA Corporation $NVDA"
+            "text": "Telemark Asset Management LLC Acquires 100,000 Shares of Microchip Technology Incorporated $MCHP"
         },
         {
-            "time": "12:05",
+            "time": "13:05",
             "tag": "MERCADO",
-            "text": "CoTec Holdings Corp. Publishes Updated Corporate Presentation"
+            "text": "Analog Devices, Inc. $ADI Stock Holdings Increased by Telemark Asset Management LLC"
         },
         {
-            "time": "12:03",
+            "time": "13:04",
             "tag": "MERCADO",
-            "text": "Kovitz Investment Group Partners LLC Has $85.14 Million Position in Analog Devices, Inc. $ADI"
+            "text": "Stevens Capital Management LP Invests $13.78 Million in Broadcom Inc. $AVGO"
         },
         {
-            "time": "12:01",
-            "tag": "AI",
-            "text": "Apple's AI Valuation, Zuckerberg's Consultation With Tim Cook And More: This Week In Appleverse"
+            "time": "13:03",
+            "tag": "MERCADO",
+            "text": "Trivest Advisors Ltd Takes $10.04 Million Position in Lam Research Corporation $LRCX"
         },
         {
-            "time": "11:59",
+            "time": "13:03",
             "tag": "MERCADO",
-            "text": "Endpoint Protection Platforms: Gartner Magic Quadrant 2022"
+            "text": "Tredje AP fonden Takes Position in Lam Research Corporation $LRCX"
         }
     ]
 }
