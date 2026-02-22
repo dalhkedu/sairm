@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-21 23:27 UTC",
+        "last_updated": "2026-02-22 02:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 189.82,
-            "change": "+2.67%"
+            "change": "+2.34%"
         },
         {
             "symbol": "AMD",
             "price": 200.15,
-            "change": "+3.24%"
+            "change": "-0.45%"
         },
         {
             "symbol": "MSFT",
             "price": 397.23,
-            "change": "-2.83%"
+            "change": "-0.99%"
         },
         {
             "symbol": "CEG",
             "price": 294.84,
-            "change": "-0.07%"
+            "change": "+0.59%"
         },
         {
             "symbol": "VST",
             "price": 171.4,
-            "change": "+0.6%"
+            "change": "+1.48%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.64,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
             0.5,
             0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.5
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.07,
-            25.41,
-            24.94,
-            24.84,
-            25.31,
-            25.42,
-            25.58,
-            25.35,
-            25.38,
+            25.82,
+            26.33,
+            26.87,
+            26.42,
+            26.03,
+            25.71,
+            25.43,
+            25.25,
+            25.33,
+            25.25,
             24.95,
-            24.86,
-            25.11
+            24.97
         ],
         "hsd_history_software": [
-            10.77,
-            10.72,
-            10.51,
+            10.95,
+            10.93,
+            10.74,
+            10.56,
+            10.5,
             10.65,
-            10.45,
-            10.26,
-            10.18,
-            10.06,
-            10.04,
-            9.89,
-            9.81,
-            9.81
+            10.7,
+            10.61,
+            10.46,
+            10.27,
+            10.24,
+            10.19
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:47",
-            "tag": "AI",
-            "text": "Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks"
+            "time": "01:15",
+            "tag": "MERCADO",
+            "text": "FormFactor Director Sells Shares and Announces Retirement"
         },
         {
-            "time": "21:06",
+            "time": "00:15",
             "tag": "MERCADO",
-            "text": "Whetstone Capital Fully Exits monday.com Position"
+            "text": "FormFactor Director Kevin J. Brewer Sells 3,000 Shares"
         },
         {
-            "time": "20:02",
-            "tag": "MERCADO",
-            "text": "Analog Devices stock nears a fresh high after upbeat outlook \u2014 what to watch before Monday"
+            "time": "00:13",
+            "tag": "RESULTADOS",
+            "text": "Harmonic Earnings Call: Bookings Surge, Margins Tested"
         },
         {
-            "time": "19:52",
+            "time": "23:31",
             "tag": "MERCADO",
-            "text": "Cisco stock holds near $79 after insider sale filing as Nvidia earnings loom for CSCO"
+            "text": "Hedge Fund Bets Big on Unity Software Turnaround"
         },
         {
-            "time": "18:58",
+            "time": "23:31",
             "tag": "MERCADO",
-            "text": "PayPal Faces Class Action Lawsuit Risk"
+            "text": "DOJ Probes Netflix\u2019s Power Over Filmmakers in Warner Deal Review"
         }
     ]
 }
