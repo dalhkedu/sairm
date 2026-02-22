@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-22 09:34 UTC",
+        "last_updated": "2026-02-22 10:29 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 189.82,
-            "change": "-3.29%"
+            "change": "+3.43%"
         },
         {
             "symbol": "AMD",
             "price": 200.15,
-            "change": "-1.13%"
+            "change": "-1.95%"
         },
         {
             "symbol": "MSFT",
             "price": 397.23,
-            "change": "+0.93%"
+            "change": "-1.77%"
         },
         {
             "symbol": "CEG",
             "price": 294.84,
-            "change": "-1.05%"
+            "change": "+2.08%"
         },
         {
             "symbol": "VST",
             "price": 171.4,
-            "change": "+3.02%"
+            "change": "-3.43%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.54,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.52,
+            0.52,
+            0.52,
+            0.53,
+            0.52,
             0.51,
             0.52,
             0.51,
             0.51,
+            0.52,
             0.51,
-            0.5,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            24.41,
-            24.87,
-            24.43,
-            24.74,
-            24.92,
-            25.35,
-            25.45,
-            25.31,
-            25.45,
-            25.65,
-            25.38,
-            25.37
+            25.32,
+            25.0,
+            25.29,
+            24.89,
+            25.0,
+            24.75,
+            24.57,
+            24.81,
+            25.24,
+            25.62,
+            25.32,
+            25.13
         ],
         "hsd_history_software": [
-            10.16,
-            10.04,
-            9.88,
-            9.79,
-            9.7,
-            9.52,
-            9.48,
-            9.64,
-            9.65,
-            9.83,
-            9.81,
-            9.8
+            10.27,
+            10.18,
+            10.33,
+            10.42,
+            10.44,
+            10.39,
+            10.41,
+            10.25,
+            10.09,
+            9.91,
+            9.76,
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "09:50",
+            "tag": "MERCADO",
+            "text": "51,019 Shares in Crown Castle Inc. $CCI Bought by Channing Capital Management LLC"
+        },
+        {
             "time": "09:06",
             "tag": "MERCADO",
             "text": "China Universal Asset Management Co. Ltd. Acquires 10,609 Shares of Broadcom Inc. $AVGO"
@@ -144,11 +149,6 @@
             "time": "08:30",
             "tag": "MERCADO",
             "text": "BioNTech Sues Moderna Over mNEXSPIKE, Alleges Patent Infringement Linked to Comirnaty Technology"
-        },
-        {
-            "time": "08:08",
-            "tag": "MERCADO",
-            "text": "Advisors Preferred LLC Buys New Position in SAP SE $SAP"
         }
     ]
 }
