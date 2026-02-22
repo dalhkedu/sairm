@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-02-22 08:37 UTC",
+        "last_updated": "2026-02-22 09:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 189.82,
-            "change": "-3.11%"
+            "change": "-3.29%"
         },
         {
             "symbol": "AMD",
             "price": 200.15,
-            "change": "+1.56%"
+            "change": "-1.13%"
         },
         {
             "symbol": "MSFT",
             "price": 397.23,
-            "change": "+1.06%"
+            "change": "+0.93%"
         },
         {
             "symbol": "CEG",
             "price": 294.84,
-            "change": "+2.3%"
+            "change": "-1.05%"
         },
         {
             "symbol": "VST",
             "price": 171.4,
-            "change": "-1.11%"
+            "change": "+3.02%"
         }
     ],
     "dashboard_metrics": {
@@ -36,46 +36,46 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.55,
-            0.54,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
             0.52,
             0.51,
             0.51,
+            0.51,
+            0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.73,
-            24.28,
-            24.51,
-            24.28,
-            24.69,
-            24.71,
-            25.17,
-            24.94,
-            24.7,
-            24.73,
-            25.23,
-            25.19
+            24.41,
+            24.87,
+            24.43,
+            24.74,
+            24.92,
+            25.35,
+            25.45,
+            25.31,
+            25.45,
+            25.65,
+            25.38,
+            25.37
         ],
         "hsd_history_software": [
-            10.0,
+            10.16,
+            10.04,
             9.88,
-            9.76,
-            9.61,
-            9.71,
-            9.86,
-            9.88,
-            9.91,
-            9.77,
-            9.84,
-            9.82,
-            9.81
+            9.79,
+            9.7,
+            9.52,
+            9.48,
+            9.64,
+            9.65,
+            9.83,
+            9.81,
+            9.8
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "09:06",
+            "tag": "MERCADO",
+            "text": "China Universal Asset Management Co. Ltd. Acquires 10,609 Shares of Broadcom Inc. $AVGO"
+        },
+        {
+            "time": "08:51",
+            "tag": "MERCADO",
+            "text": "AMG National Trust Bank Decreases Stock Position in Broadcom Inc. $AVGO"
+        },
+        {
+            "time": "08:50",
+            "tag": "MERCADO",
+            "text": "AMG National Trust Bank Purchases 46,930 Shares of PayPal Holdings, Inc. $PYPL"
+        },
+        {
+            "time": "08:30",
+            "tag": "MERCADO",
+            "text": "BioNTech Sues Moderna Over mNEXSPIKE, Alleges Patent Infringement Linked to Comirnaty Technology"
+        },
+        {
             "time": "08:08",
             "tag": "MERCADO",
             "text": "Advisors Preferred LLC Buys New Position in SAP SE $SAP"
-        },
-        {
-            "time": "07:59",
-            "tag": "AI",
-            "text": "CoStar\u2019s Stock Decline: Homes.com and AI Features Face Investor Scrutiny"
-        },
-        {
-            "time": "07:14",
-            "tag": "MERCADO",
-            "text": "Kyndryl (NYSE:KD) Upgraded to \"Buy\" at Wall Street Zen"
-        },
-        {
-            "time": "06:34",
-            "tag": "MERCADO",
-            "text": "Fiverr International (NYSE:FVRR) Given Average Rating of \"Hold\" by Analysts"
-        },
-        {
-            "time": "06:33",
-            "tag": "MERCADO",
-            "text": "TechTarget, Inc. (NASDAQ:TTGT) Receives Consensus Rating of \"Hold\" from Analysts"
         }
     ]
 }
