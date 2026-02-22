@@ -1,80 +1,80 @@
 {
     "metadata": {
-        "last_updated": "2026-02-22 05:53 UTC",
+        "last_updated": "2026-02-22 06:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 189.82,
-            "change": "+3.4%"
+            "change": "-1.81%"
         },
         {
             "symbol": "AMD",
             "price": 200.15,
-            "change": "-3.31%"
+            "change": "-0.03%"
         },
         {
             "symbol": "MSFT",
             "price": 397.23,
-            "change": "-0.98%"
+            "change": "-3.19%"
         },
         {
             "symbol": "CEG",
             "price": 294.84,
-            "change": "+0.47%"
+            "change": "-0.8%"
         },
         {
             "symbol": "VST",
             "price": 171.4,
-            "change": "+0.48%"
+            "change": "-0.59%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.54,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.48,
+            0.48,
             0.49,
-            0.5,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.5
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.28,
-            24.73,
-            24.69,
-            24.46,
-            24.11,
-            24.49,
-            24.71,
-            24.3,
-            24.47,
-            24.17,
-            24.41,
-            24.75
+            25.91,
+            25.85,
+            25.79,
+            25.84,
+            25.57,
+            25.47,
+            25.53,
+            25.5,
+            25.44,
+            25.82,
+            25.44,
+            25.01
         ],
         "hsd_history_software": [
-            10.19,
-            10.21,
-            10.24,
-            10.19,
+            9.34,
+            9.52,
+            9.53,
+            9.68,
+            9.81,
+            9.87,
+            9.88,
             10.08,
-            10.03,
-            9.89,
-            9.95,
+            10.22,
+            10.02,
             9.98,
-            10.0,
-            9.89,
             9.85
         ],
         "rci_data": [
@@ -141,14 +141,14 @@
             "text": "The Smartest Dividend Stocks to Buy With $2,000 Right Now"
         },
         {
+            "time": "02:34",
+            "tag": "AI",
+            "text": "Top 10 AI Stocks in Focus on Wall Street \u2013 Nvidia, Broadcom & More"
+        },
+        {
             "time": "01:42",
             "tag": "MERCADO",
             "text": "Cirrus Logic Executive Sells Shares, Significant Reduction in Holdings"
-        },
-        {
-            "time": "01:15",
-            "tag": "MERCADO",
-            "text": "FormFactor Director Sells Shares and Announces Retirement"
         }
     ]
 }
