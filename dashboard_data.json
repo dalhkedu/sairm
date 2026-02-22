@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-22 10:29 UTC",
+        "last_updated": "2026-02-22 11:25 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 189.82,
-            "change": "+3.43%"
+            "change": "-1.59%"
         },
         {
             "symbol": "AMD",
             "price": 200.15,
-            "change": "-1.95%"
+            "change": "-3.04%"
         },
         {
             "symbol": "MSFT",
             "price": 397.23,
-            "change": "-1.77%"
+            "change": "+2.47%"
         },
         {
             "symbol": "CEG",
             "price": 294.84,
-            "change": "+2.08%"
+            "change": "+3.43%"
         },
         {
             "symbol": "VST",
             "price": 171.4,
-            "change": "-3.43%"
+            "change": "+3.02%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.5,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.52,
-            0.53,
-            0.52,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
             0.51,
-            0.52,
+            0.5,
             0.51,
-            0.51,
-            0.52,
-            0.51,
+            0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            25.32,
+            25.89,
+            25.52,
+            25.02,
+            25.34,
+            25.77,
+            25.3,
+            24.92,
+            24.63,
             25.0,
-            25.29,
-            24.89,
-            25.0,
-            24.75,
-            24.57,
-            24.81,
-            25.24,
-            25.62,
-            25.32,
-            25.13
+            24.73,
+            24.61,
+            24.68
         ],
         "hsd_history_software": [
-            10.27,
-            10.18,
-            10.33,
-            10.42,
-            10.44,
-            10.39,
-            10.41,
-            10.25,
-            10.09,
-            9.91,
-            9.76,
-            9.87
+            9.93,
+            9.99,
+            9.89,
+            9.89,
+            9.82,
+            9.9,
+            9.82,
+            9.88,
+            10.01,
+            9.88,
+            10.03,
+            10.01
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:50",
+            "time": "10:13",
             "tag": "MERCADO",
-            "text": "51,019 Shares in Crown Castle Inc. $CCI Bought by Channing Capital Management LLC"
+            "text": "PNC Financial Services Group Inc. Buys 12,663 Shares of CoreWeave Inc. $CRWV"
         },
         {
-            "time": "09:06",
+            "time": "10:12",
             "tag": "MERCADO",
-            "text": "China Universal Asset Management Co. Ltd. Acquires 10,609 Shares of Broadcom Inc. $AVGO"
+            "text": "HighTower Advisors LLC Acquires 14,859 Shares of SiTime Corporation $SITM"
         },
         {
-            "time": "08:51",
+            "time": "10:04",
             "tag": "MERCADO",
-            "text": "AMG National Trust Bank Decreases Stock Position in Broadcom Inc. $AVGO"
+            "text": "Synopsys, Inc. $SNPS Shares Purchased by HighTower Advisors LLC"
         },
         {
-            "time": "08:50",
+            "time": "09:52",
             "tag": "MERCADO",
-            "text": "AMG National Trust Bank Purchases 46,930 Shares of PayPal Holdings, Inc. $PYPL"
+            "text": "IFC Advisors LLC Has $11.22 Million Stock Position in NVIDIA Corporation $NVDA"
         },
         {
-            "time": "08:30",
+            "time": "09:52",
             "tag": "MERCADO",
-            "text": "BioNTech Sues Moderna Over mNEXSPIKE, Alleges Patent Infringement Linked to Comirnaty Technology"
+            "text": "International Business Machines Corporation $IBM Stake Boosted by Channing Capital Management LLC"
         }
     ]
 }
