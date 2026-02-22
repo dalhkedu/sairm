@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-22 16:35 UTC",
+        "last_updated": "2026-02-22 17:28 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 189.82,
-            "change": "-0.37%"
+            "change": "+0.24%"
         },
         {
             "symbol": "AMD",
             "price": 200.15,
-            "change": "+2.05%"
+            "change": "+2.72%"
         },
         {
             "symbol": "MSFT",
             "price": 397.23,
-            "change": "+0.48%"
+            "change": "+0.57%"
         },
         {
             "symbol": "CEG",
             "price": 294.84,
-            "change": "-1.22%"
+            "change": "-2.8%"
         },
         {
             "symbol": "VST",
             "price": 171.4,
-            "change": "+1.65%"
+            "change": "-0.17%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.47,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.55,
-            0.54,
-            0.54,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.5,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            26.6,
-            26.24,
-            25.88,
-            25.74,
-            25.27,
-            25.72,
-            25.52,
-            25.13,
             24.77,
-            25.11,
-            25.3,
-            24.88
+            24.45,
+            24.83,
+            24.47,
+            24.26,
+            24.06,
+            24.17,
+            23.76,
+            24.01,
+            24.34,
+            24.25,
+            24.65
         ],
         "hsd_history_software": [
-            9.8,
-            9.98,
-            9.99,
-            9.96,
+            10.41,
+            10.46,
+            10.32,
+            10.22,
+            10.12,
             10.0,
-            9.83,
-            9.69,
-            9.59,
-            9.71,
-            9.86,
-            9.82,
-            9.97
+            10.01,
+            10.15,
+            10.21,
+            10.04,
+            10.11,
+            10.19
         ],
         "rci_data": [
             85.0,
@@ -136,6 +136,11 @@
             "text": "Monolithic Power Systems\u2019 Huge Run Has A Price Tag"
         },
         {
+            "time": "15:36",
+            "tag": "MERCADO",
+            "text": "UK\u2019s National Grid Just Sent US Energy Prices a Warning Shot"
+        },
+        {
             "time": "15:33",
             "tag": "MERCADO",
             "text": "Needham Raises Micron (MU) Target to $450, Maintains Buy Rating"
@@ -144,11 +149,6 @@
             "time": "15:32",
             "tag": "MERCADO",
             "text": "Analysts Maintain Buy on Amazon (AMZN) Despite 18% Share Depreciation"
-        },
-        {
-            "time": "15:31",
-            "tag": "MERCADO",
-            "text": "Benzinga's 'Stock Whisper' Index: 5 Stocks Investors Secretly Monitor But Don't Talk About Yet"
         }
     ]
 }
