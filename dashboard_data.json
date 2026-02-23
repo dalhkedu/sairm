@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-23 11:47 UTC",
+        "last_updated": "2026-02-23 13:12 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 189.82,
-            "change": "+0.38%"
+            "change": "+3.01%"
         },
         {
             "symbol": "AMD",
             "price": 200.15,
-            "change": "-2.62%"
+            "change": "-2.65%"
         },
         {
             "symbol": "MSFT",
             "price": 397.23,
-            "change": "-1.41%"
+            "change": "+3.22%"
         },
         {
             "symbol": "CEG",
             "price": 294.84,
-            "change": "-0.96%"
+            "change": "-1.65%"
         },
         {
             "symbol": "VST",
             "price": 171.4,
-            "change": "-1.89%"
+            "change": "-0.25%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.7,
+        "cer_current": 0.69,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
+            0.52,
+            0.52,
+            0.53,
+            0.54,
+            0.53,
+            0.53,
+            0.52,
+            0.51,
+            0.5,
             0.5,
             0.49,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            24.03,
-            24.0,
-            24.46,
-            24.33,
-            24.25,
-            23.88,
-            23.76,
-            24.1,
-            24.41,
-            24.56,
-            24.36,
-            24.54
+            25.73,
+            25.25,
+            25.52,
+            25.24,
+            24.81,
+            24.52,
+            24.84,
+            25.3,
+            25.77,
+            25.37,
+            25.12,
+            24.85
         ],
         "hsd_history_software": [
-            10.39,
-            10.27,
-            10.38,
-            10.37,
-            10.26,
-            10.24,
-            10.25,
-            10.22,
-            10.26,
-            10.1,
-            10.15,
-            10.01
+            9.5,
+            9.55,
+            9.65,
+            9.51,
+            9.67,
+            9.69,
+            9.83,
+            9.84,
+            9.98,
+            10.02,
+            9.95,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:24",
+            "time": "12:48",
             "tag": "MERCADO",
-            "text": "Broadcom Inc. $AVGO Shares Sold by Koshinski Asset Management Inc."
+            "text": "Asia Pacific Dividend Fund Outperforms Amid Regional Divergence"
         },
         {
-            "time": "11:24",
-            "tag": "MERCADO",
-            "text": "Broadcom Inc. $AVGO is Kovitz Investment Group Partners LLC's 9th Largest Position"
-        },
-        {
-            "time": "11:24",
-            "tag": "MERCADO",
-            "text": "Kovitz Investment Group Partners LLC Purchases 5,637 Shares of Intuit Inc. $INTU"
-        },
-        {
-            "time": "11:24",
-            "tag": "MERCADO",
-            "text": "Kovitz Investment Group Partners LLC Acquires 28,446 Shares of Verizon Communications Inc. $VZ"
-        },
-        {
-            "time": "11:21",
+            "time": "12:30",
             "tag": "AI",
-            "text": "DEPT\u00ae Launches AI-Powered Global Content Engine Powered by Adobe"
+            "text": "Russian Cyber Threat Actor Uses GenAI to Compromise Fortinet Firewalls"
+        },
+        {
+            "time": "12:26",
+            "tag": "MERCADO",
+            "text": "Equinix Sales Leadership Shift Tests Growth And Dividend Confidence"
+        },
+        {
+            "time": "12:18",
+            "tag": "MERCADO",
+            "text": "Volume spike at 4333.HK Cisco Systems (HKSE) 23 Feb 2026: breakout possible"
+        },
+        {
+            "time": "12:16",
+            "tag": "AI",
+            "text": "AI won't replace software engineers, will uplevel skills: Microsoft's Smith"
         }
     ]
 }
