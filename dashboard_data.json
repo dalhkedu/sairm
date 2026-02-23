@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-23 05:00 UTC",
+        "last_updated": "2026-02-23 07:08 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 189.82,
-            "change": "+2.03%"
+            "change": "+2.49%"
         },
         {
             "symbol": "AMD",
             "price": 200.15,
-            "change": "-1.49%"
+            "change": "+2.49%"
         },
         {
             "symbol": "MSFT",
             "price": 397.23,
-            "change": "-1.12%"
+            "change": "-0.35%"
         },
         {
             "symbol": "CEG",
             "price": 294.84,
-            "change": "-3.25%"
+            "change": "+3.17%"
         },
         {
             "symbol": "VST",
             "price": 171.4,
-            "change": "-3.04%"
+            "change": "+2.1%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
+        "cer_current": 0.65,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.47,
+            0.47,
+            0.47,
             0.48,
             0.47,
             0.48,
-            0.49,
-            0.48,
-            0.48,
             0.48,
             0.48,
             0.49,
-            0.49,
+            0.48,
+            0.48,
             0.49
         ],
         "hsd_history_hardware": [
-            25.19,
-            24.82,
+            23.12,
+            23.29,
+            23.01,
+            23.1,
+            23.18,
+            23.31,
+            23.29,
+            23.52,
+            23.89,
+            24.08,
             24.52,
-            24.54,
-            24.85,
-            24.53,
-            24.84,
-            24.78,
-            24.44,
-            24.61,
-            24.4,
-            24.6
+            24.66
         ],
         "hsd_history_software": [
-            9.66,
-            9.85,
+            9.75,
+            9.7,
+            9.79,
+            9.99,
+            10.08,
+            9.97,
+            9.91,
             9.78,
-            9.65,
-            9.74,
-            9.72,
-            9.86,
-            9.75,
-            9.67,
-            9.86,
-            9.75,
-            9.81
+            9.92,
+            9.82,
+            9.94,
+            10.11
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "03:48",
+            "time": "06:29",
             "tag": "MERCADO",
-            "text": "Governance and Strategy in Focus for AT&T Investors ()"
+            "text": "Leidos Holdings, Inc. (NYSE:LDOS) Receives Consensus Recommendation of \"Moderate Buy\" from Brokerages"
         },
         {
-            "time": "03:47",
+            "time": "06:28",
             "tag": "MERCADO",
-            "text": "Lumen Technologies expands APAC cybersecurity capabilities in collaboration with Palo Alto Networks"
+            "text": "Microchip Technology Incorporated (NASDAQ:MCHP) Receives Consensus Recommendation of \"Moderate Buy\" from Brokerages"
         },
         {
-            "time": "03:21",
-            "tag": "RESULTADOS",
-            "text": "Flywire (FLYW) To Report Earnings Tomorrow: Here Is What To Expect"
+            "time": "06:24",
+            "tag": "AI",
+            "text": "AI Accelerator Chip Market to hit US$ 283.13 Billion by 2032 | North America leads with 35% share | Major Market Players - NVIDIA Corporation, Google Inc., Advanced Micro Devices Inc."
         },
         {
-            "time": "03:21",
+            "time": "06:23",
             "tag": "MERCADO",
-            "text": "Oklo and NuScale Compete in Nuclear Technology"
+            "text": "New wealth platform helps advisers launch businesses for rich clients"
         },
         {
-            "time": "03:12",
-            "tag": "RESULTADOS",
-            "text": "Novanta Earnings: What To Look For From NOVT"
+            "time": "06:10",
+            "tag": "MERCADO",
+            "text": "Rockwell Automation Helps Perth County Ingredients Cut Maintenance Costs with Fiix CMMS"
         }
     ]
 }
