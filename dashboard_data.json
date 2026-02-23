@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-23 14:51 UTC",
+        "last_updated": "2026-02-23 15:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 193.04,
-            "change": "-2.29%"
+            "price": 191.42,
+            "change": "-1.23%"
         },
         {
             "symbol": "AMD",
-            "price": 199.12,
-            "change": "+2.29%"
+            "price": 197.21,
+            "change": "+0.46%"
         },
         {
             "symbol": "MSFT",
-            "price": 388.53,
-            "change": "+1.73%"
+            "price": 388.06,
+            "change": "+1.61%"
         },
         {
             "symbol": "CEG",
-            "price": 297.15,
-            "change": "-1.05%"
+            "price": 296.02,
+            "change": "+1.44%"
         },
         {
             "symbol": "VST",
-            "price": 170.72,
-            "change": "+1.64%"
+            "price": 169.91,
+            "change": "-1.98%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.55,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
             0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.52,
+            0.52,
+            0.53,
+            0.52,
+            0.52,
             0.51
         ],
         "hsd_history_hardware": [
-            26.08,
-            26.6,
-            26.31,
-            26.02,
-            25.66,
-            25.74,
-            25.85,
-            25.5,
-            25.14,
-            24.69,
-            25.1,
-            25.49
+            25.05,
+            25.08,
+            24.97,
+            24.94,
+            24.9,
+            25.22,
+            25.18,
+            24.85,
+            24.89,
+            25.01,
+            25.21,
+            24.97
         ],
         "hsd_history_software": [
-            10.24,
-            10.19,
-            10.04,
-            10.05,
-            10.05,
-            9.91,
-            10.0,
-            10.06,
-            9.94,
+            9.83,
             9.96,
-            9.97,
-            9.83
+            9.92,
+            10.09,
+            10.07,
+            9.98,
+            10.02,
+            10.12,
+            10.32,
+            10.23,
+            10.17,
+            9.98
         ],
         "rci_data": [
             85.0,
-            19.304
+            19.142
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:12",
-            "tag": "MERCADO",
-            "text": "Kaplan Fox Alerts CoreWeave (CRWV) Investors With Losses to the March 13, 2026 Securities Class Action Deadline"
-        },
-        {
-            "time": "14:05",
+            "time": "15:10",
             "tag": "AI",
-            "text": "ServiceNow (NOW) and TCS Partner to Enhance AI Adoption"
+            "text": "Assessing SailPoint (SAIL) Valuation After Recent Share Price Weakness"
         },
         {
-            "time": "14:01",
+            "time": "15:04",
             "tag": "MERCADO",
-            "text": "Economic environment remains leading emerging risk in Q4\u201925, reports Gartner"
+            "text": "L3Harris (LHX) Poised to Benefit from Growing Investments"
         },
         {
-            "time": "14:00",
+            "time": "15:03",
             "tag": "MERCADO",
-            "text": "Trimble Sponsors Global Design Challenge to Empower Future Engineers"
+            "text": "Palo Alto Networks Q2 FY 2026: ARR Accelerates as Platform Strategy Scales"
         },
         {
-            "time": "14:00",
+            "time": "15:03",
+            "tag": "AI",
+            "text": "Morgan Stanley upgrades these two stocks on AI-led ABF substrate up-cycle"
+        },
+        {
+            "time": "15:02",
             "tag": "MERCADO",
-            "text": "DHI Group Names Elizabeth Andora as Chief People Officer"
+            "text": "Verizon Communications stock hits 52-week high at 50.25 USD By Investing.com"
         }
     ]
 }
