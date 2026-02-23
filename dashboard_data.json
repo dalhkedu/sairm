@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-23 21:50 UTC",
+        "last_updated": "2026-02-23 22:44 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 191.55,
-            "change": "+2.0%"
+            "change": "+2.04%"
         },
         {
             "symbol": "AMD",
             "price": 196.6,
-            "change": "+1.97%"
+            "change": "+2.55%"
         },
         {
             "symbol": "MSFT",
             "price": 384.47,
-            "change": "+3.43%"
+            "change": "-0.94%"
         },
         {
             "symbol": "CEG",
             "price": 293.8,
-            "change": "+0.38%"
+            "change": "-2.96%"
         },
         {
             "symbol": "VST",
             "price": 167.8,
-            "change": "-0.03%"
+            "change": "+2.65%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.69,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.54,
-            0.53,
-            0.53,
-            0.54,
-            0.55,
-            0.54,
-            0.53,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.52,
             0.52,
             0.52,
             0.52,
             0.51
         ],
         "hsd_history_hardware": [
-            24.37,
-            24.4,
-            24.16,
-            23.76,
-            23.86,
-            24.1,
-            24.06,
-            24.0,
-            23.92,
-            24.19,
+            25.06,
+            25.23,
+            24.96,
+            25.19,
+            24.84,
+            24.86,
             24.58,
-            24.73
+            24.6,
+            25.04,
+            24.75,
+            24.66,
+            24.86
         ],
         "hsd_history_software": [
-            10.2,
-            10.34,
-            10.27,
+            10.39,
             10.24,
-            10.24,
-            10.17,
-            10.05,
-            10.01,
-            9.85,
-            9.91,
-            9.74,
-            9.87
+            10.44,
+            10.48,
+            10.42,
+            10.3,
+            10.26,
+            10.08,
+            10.25,
+            10.06,
+            10.06,
+            10.12
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:21",
-            "tag": "MERCADO",
-            "text": "Goldman Sachs Raises PT on Arista Networks, Inc. (ANET) Stock"
-        },
-        {
-            "time": "21:19",
-            "tag": "MERCADO",
-            "text": "Cadence Design Systems, Inc. (CDNS) Drops 5.6% \u2014 Developing Story"
-        },
-        {
-            "time": "21:12",
-            "tag": "MERCADO",
-            "text": "Options Corner: Reignited Tariff Fears Facilitate A Contrarian Position In Super Micro Computer"
-        },
-        {
-            "time": "21:11",
-            "tag": "MERCADO",
-            "text": "B. Riley Raises PT on Onto Innovation Inc. (ONTO) Stock"
-        },
-        {
-            "time": "21:10",
+            "time": "22:04",
             "tag": "RESULTADOS",
-            "text": "Earnings Flash (KEYS) Keysight Technologies, Inc. Reports Q1 Revenue $1.60B, vs. FactSet Est of $1.54B"
+            "text": "Keysight Stock Rallies After Q1 Earnings Beat Estimates"
+        },
+        {
+            "time": "22:02",
+            "tag": "AI",
+            "text": "Equifax (EFX) Valuation Check As New AI Credit Planner Optimal Path Rolls Out To Consumers"
+        },
+        {
+            "time": "21:48",
+            "tag": "MERCADO",
+            "text": "Leidos Holdings, Inc. (LDOS) Releases Financial Results for Q4 2025 and FY 2025"
+        },
+        {
+            "time": "21:48",
+            "tag": "MERCADO",
+            "text": "This Las Vegas resort company is the latest to be cyberattacked"
+        },
+        {
+            "time": "21:47",
+            "tag": "MERCADO",
+            "text": "Uber acquiring parking app SpotHero"
         }
     ]
 }
