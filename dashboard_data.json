@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-23 08:54 UTC",
+        "last_updated": "2026-02-23 09:58 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 189.82,
-            "change": "-0.36%"
+            "change": "-3.42%"
         },
         {
             "symbol": "AMD",
             "price": 200.15,
-            "change": "+2.97%"
+            "change": "-0.63%"
         },
         {
             "symbol": "MSFT",
             "price": 397.23,
-            "change": "+0.79%"
+            "change": "+2.17%"
         },
         {
             "symbol": "CEG",
             "price": 294.84,
-            "change": "+1.49%"
+            "change": "-0.07%"
         },
         {
             "symbol": "VST",
             "price": 171.4,
-            "change": "-2.09%"
+            "change": "+1.22%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.5,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
+            0.53,
+            0.52,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
             0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            23.83,
-            24.11,
-            24.54,
-            25.04,
-            25.49,
-            25.77,
-            25.58,
-            25.24,
-            25.35,
-            25.03,
-            24.82,
-            24.56
+            23.85,
+            23.59,
+            23.69,
+            24.05,
+            24.46,
+            24.74,
+            24.89,
+            24.86,
+            24.55,
+            25.05,
+            25.19,
+            25.09
         ],
         "hsd_history_software": [
-            9.83,
-            9.79,
-            9.61,
-            9.42,
-            9.53,
-            9.41,
-            9.42,
-            9.6,
-            9.56,
-            9.71,
-            9.65,
-            9.81
+            9.47,
+            9.45,
+            9.51,
+            9.7,
+            9.63,
+            9.72,
+            9.82,
+            9.98,
+            10.02,
+            9.9,
+            9.93,
+            9.93
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:17",
-            "tag": "AI",
-            "text": "KT and Nokia Verify \"AI-Based Beam Pattern Optimization\" Technology...Advancing AI-RAN"
-        },
-        {
-            "time": "07:07",
+            "time": "09:18",
             "tag": "MERCADO",
-            "text": "Electric Scooters Market Surges at 9.81% CAGR to USD 83.40 Billion by 2032 as Last-Mile Delivery and Shared Mobility Expand: Key Players- Yadea Group Holdings Ltd., NIU Technologies, and Segway-Ninebot: AnalystView Market Insights"
+            "text": "Oracle Recognized as a Leader in the 2025 Gartner Magic Quadrant for Financial Planning Software"
         },
         {
-            "time": "07:07",
-            "tag": "RESULTADOS",
-            "text": "Markets Brief: Nvidia\u2019s Earnings Preview by the Numbers, and What It Means for Investors"
-        },
-        {
-            "time": "07:00",
-            "tag": "AI",
-            "text": "Micron and Its Memory-Chip Peers Are Riding the AI Surge. How and When It Could Turn Sour."
-        },
-        {
-            "time": "06:29",
+            "time": "09:09",
             "tag": "MERCADO",
-            "text": "Leidos Holdings, Inc. (NYSE:LDOS) Receives Consensus Recommendation of \"Moderate Buy\" from Brokerages"
+            "text": "Avalon Trust Co Lowers Stock Holdings in Broadcom Inc. $AVGO"
+        },
+        {
+            "time": "09:09",
+            "tag": "MERCADO",
+            "text": "Bleakley Financial Group LLC Buys 4,038 Shares of Broadcom Inc. $AVGO"
+        },
+        {
+            "time": "09:07",
+            "tag": "AI",
+            "text": "23rd February \u2013 Threat Intelligence Report"
+        },
+        {
+            "time": "09:05",
+            "tag": "MERCADO",
+            "text": "Avalon Trust Co Increases Stock Holdings in Equinix, Inc. $EQIX"
         }
     ]
 }
