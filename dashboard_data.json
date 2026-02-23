@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-23 09:58 UTC",
+        "last_updated": "2026-02-23 10:58 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 189.82,
-            "change": "-3.42%"
+            "change": "+2.25%"
         },
         {
             "symbol": "AMD",
             "price": 200.15,
-            "change": "-0.63%"
+            "change": "-0.5%"
         },
         {
             "symbol": "MSFT",
             "price": 397.23,
-            "change": "+2.17%"
+            "change": "-2.96%"
         },
         {
             "symbol": "CEG",
             "price": 294.84,
-            "change": "-0.07%"
+            "change": "+2.82%"
         },
         {
             "symbol": "VST",
             "price": 171.4,
-            "change": "+1.22%"
+            "change": "+0.95%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.64,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.52,
+            0.5,
             0.51,
-            0.51,
-            0.52,
+            0.5,
             0.51,
             0.52,
             0.51,
             0.51,
             0.5,
             0.5,
+            0.51,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            23.85,
-            23.59,
-            23.69,
-            24.05,
-            24.46,
-            24.74,
-            24.89,
-            24.86,
-            24.55,
-            25.05,
-            25.19,
-            25.09
+            25.15,
+            25.6,
+            26.11,
+            26.25,
+            25.83,
+            25.78,
+            26.18,
+            25.7,
+            25.82,
+            25.69,
+            25.34,
+            25.27
         ],
         "hsd_history_software": [
-            9.47,
-            9.45,
-            9.51,
-            9.7,
-            9.63,
-            9.72,
-            9.82,
-            9.98,
-            10.02,
-            9.9,
-            9.93,
-            9.93
+            9.97,
+            10.01,
+            10.1,
+            10.2,
+            10.2,
+            10.07,
+            9.97,
+            9.8,
+            9.95,
+            9.86,
+            10.0,
+            10.16
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:18",
+            "time": "10:13",
             "tag": "MERCADO",
-            "text": "Oracle Recognized as a Leader in the 2025 Gartner Magic Quadrant for Financial Planning Software"
+            "text": "JPMorgan Chase & Co. Trims Stock Holdings in IAC Inc. $IAC"
         },
         {
-            "time": "09:09",
+            "time": "10:13",
             "tag": "MERCADO",
-            "text": "Avalon Trust Co Lowers Stock Holdings in Broadcom Inc. $AVGO"
+            "text": "JPMorgan Chase & Co. Increases Stake in F5, Inc. $FFIV"
         },
         {
-            "time": "09:09",
-            "tag": "MERCADO",
-            "text": "Bleakley Financial Group LLC Buys 4,038 Shares of Broadcom Inc. $AVGO"
-        },
-        {
-            "time": "09:07",
+            "time": "10:13",
             "tag": "AI",
-            "text": "23rd February \u2013 Threat Intelligence Report"
+            "text": "SoftBank\u2019s SAIMEMORY and Intel collaborate on next-gen Z\u2011Angle memory"
         },
         {
-            "time": "09:05",
+            "time": "10:08",
             "tag": "MERCADO",
-            "text": "Avalon Trust Co Increases Stock Holdings in Equinix, Inc. $EQIX"
+            "text": "Buy Now, Pay Later (BNPL) Fraud Prevention Market Analysis"
+        },
+        {
+            "time": "10:05",
+            "tag": "MERCADO",
+            "text": "Public Sector Pension Investment Board Sells 9,868 Shares of Gartner, Inc. $IT"
         }
     ]
 }
