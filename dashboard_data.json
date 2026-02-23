@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-23 07:08 UTC",
+        "last_updated": "2026-02-23 08:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 189.82,
-            "change": "+2.49%"
+            "change": "-0.36%"
         },
         {
             "symbol": "AMD",
             "price": 200.15,
-            "change": "+2.49%"
+            "change": "+2.97%"
         },
         {
             "symbol": "MSFT",
             "price": 397.23,
-            "change": "-0.35%"
+            "change": "+0.79%"
         },
         {
             "symbol": "CEG",
             "price": 294.84,
-            "change": "+3.17%"
+            "change": "+1.49%"
         },
         {
             "symbol": "VST",
             "price": 171.4,
-            "change": "+2.1%"
+            "change": "-2.09%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.61,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.47,
             0.47,
-            0.47,
+            0.48,
+            0.48,
             0.48,
             0.47,
-            0.48,
             0.48,
             0.48,
             0.49,
-            0.48,
-            0.48,
-            0.49
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.12,
-            23.29,
-            23.01,
-            23.1,
-            23.18,
-            23.31,
-            23.29,
-            23.52,
-            23.89,
-            24.08,
-            24.52,
-            24.66
+            23.83,
+            24.11,
+            24.54,
+            25.04,
+            25.49,
+            25.77,
+            25.58,
+            25.24,
+            25.35,
+            25.03,
+            24.82,
+            24.56
         ],
         "hsd_history_software": [
-            9.75,
-            9.7,
+            9.83,
             9.79,
-            9.99,
-            10.08,
-            9.97,
-            9.91,
-            9.78,
-            9.92,
-            9.82,
-            9.94,
-            10.11
+            9.61,
+            9.42,
+            9.53,
+            9.41,
+            9.42,
+            9.6,
+            9.56,
+            9.71,
+            9.65,
+            9.81
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "07:17",
+            "tag": "AI",
+            "text": "KT and Nokia Verify \"AI-Based Beam Pattern Optimization\" Technology...Advancing AI-RAN"
+        },
+        {
+            "time": "07:07",
+            "tag": "MERCADO",
+            "text": "Electric Scooters Market Surges at 9.81% CAGR to USD 83.40 Billion by 2032 as Last-Mile Delivery and Shared Mobility Expand: Key Players- Yadea Group Holdings Ltd., NIU Technologies, and Segway-Ninebot: AnalystView Market Insights"
+        },
+        {
+            "time": "07:07",
+            "tag": "RESULTADOS",
+            "text": "Markets Brief: Nvidia\u2019s Earnings Preview by the Numbers, and What It Means for Investors"
+        },
+        {
+            "time": "07:00",
+            "tag": "AI",
+            "text": "Micron and Its Memory-Chip Peers Are Riding the AI Surge. How and When It Could Turn Sour."
+        },
+        {
             "time": "06:29",
             "tag": "MERCADO",
             "text": "Leidos Holdings, Inc. (NYSE:LDOS) Receives Consensus Recommendation of \"Moderate Buy\" from Brokerages"
-        },
-        {
-            "time": "06:28",
-            "tag": "MERCADO",
-            "text": "Microchip Technology Incorporated (NASDAQ:MCHP) Receives Consensus Recommendation of \"Moderate Buy\" from Brokerages"
-        },
-        {
-            "time": "06:24",
-            "tag": "AI",
-            "text": "AI Accelerator Chip Market to hit US$ 283.13 Billion by 2032 | North America leads with 35% share | Major Market Players - NVIDIA Corporation, Google Inc., Advanced Micro Devices Inc."
-        },
-        {
-            "time": "06:23",
-            "tag": "MERCADO",
-            "text": "New wealth platform helps advisers launch businesses for rich clients"
-        },
-        {
-            "time": "06:10",
-            "tag": "MERCADO",
-            "text": "Rockwell Automation Helps Perth County Ingredients Cut Maintenance Costs with Fiix CMMS"
         }
     ]
 }
