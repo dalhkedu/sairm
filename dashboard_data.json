@@ -1,37 +1,37 @@
 {
     "metadata": {
-        "last_updated": "2026-02-23 22:44 UTC",
+        "last_updated": "2026-02-23 23:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 191.55,
-            "change": "+2.04%"
+            "change": "+0.23%"
         },
         {
             "symbol": "AMD",
             "price": 196.6,
-            "change": "+2.55%"
+            "change": "-1.51%"
         },
         {
             "symbol": "MSFT",
             "price": 384.47,
-            "change": "-0.94%"
+            "change": "+2.22%"
         },
         {
             "symbol": "CEG",
             "price": 293.8,
-            "change": "-2.96%"
+            "change": "+0.36%"
         },
         {
             "symbol": "VST",
             "price": 167.8,
-            "change": "+2.65%"
+            "change": "+3.14%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.55,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
@@ -41,41 +41,41 @@
             0.51,
             0.51,
             0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.06,
-            25.23,
-            24.96,
-            25.19,
-            24.84,
-            24.86,
-            24.58,
-            24.6,
-            25.04,
-            24.75,
-            24.66,
-            24.86
+            26.18,
+            25.93,
+            26.02,
+            26.53,
+            26.2,
+            25.77,
+            25.38,
+            25.59,
+            25.75,
+            25.87,
+            25.66,
+            25.23
         ],
         "hsd_history_software": [
-            10.39,
-            10.24,
-            10.44,
-            10.48,
-            10.42,
-            10.3,
-            10.26,
-            10.08,
-            10.25,
-            10.06,
-            10.06,
-            10.12
+            9.64,
+            9.64,
+            9.75,
+            9.77,
+            9.59,
+            9.69,
+            9.81,
+            9.81,
+            9.96,
+            9.87,
+            10.03,
+            10.2
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:04",
-            "tag": "RESULTADOS",
-            "text": "Keysight Stock Rallies After Q1 Earnings Beat Estimates"
-        },
-        {
-            "time": "22:02",
-            "tag": "AI",
-            "text": "Equifax (EFX) Valuation Check As New AI Credit Planner Optimal Path Rolls Out To Consumers"
-        },
-        {
-            "time": "21:48",
+            "time": "23:16",
             "tag": "MERCADO",
-            "text": "Leidos Holdings, Inc. (LDOS) Releases Financial Results for Q4 2025 and FY 2025"
+            "text": "Demolition starts on Oracle's Nashville world headquarters campus"
         },
         {
-            "time": "21:48",
+            "time": "23:07",
             "tag": "MERCADO",
-            "text": "This Las Vegas resort company is the latest to be cyberattacked"
+            "text": "Align Technology urges early dental habits for healthy smiles"
         },
         {
-            "time": "21:47",
+            "time": "22:50",
             "tag": "MERCADO",
-            "text": "Uber acquiring parking app SpotHero"
+            "text": "CDW Files for Automatic Mixed Securities Shelf"
+        },
+        {
+            "time": "22:50",
+            "tag": "MERCADO",
+            "text": "Pre-market volume spike 24 Feb 2026: 9181.HK (HKSE) Premia Asia ETF HKD 17.28 up"
+        },
+        {
+            "time": "22:38",
+            "tag": "MERCADO",
+            "text": "Shutterstock, Getty Images Merger Gains Unconditional U.S. Clearance"
         }
     ]
 }
