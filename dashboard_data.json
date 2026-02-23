@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-23 20:49 UTC",
+        "last_updated": "2026-02-23 21:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 191.24,
-            "change": "+1.92%"
+            "price": 191.55,
+            "change": "+2.0%"
         },
         {
             "symbol": "AMD",
-            "price": 195.48,
-            "change": "-1.28%"
+            "price": 196.6,
+            "change": "+1.97%"
         },
         {
             "symbol": "MSFT",
-            "price": 383.56,
-            "change": "+0.26%"
+            "price": 384.47,
+            "change": "+3.43%"
         },
         {
             "symbol": "CEG",
-            "price": 293.53,
-            "change": "-0.33%"
+            "price": 293.8,
+            "change": "+0.38%"
         },
         {
             "symbol": "VST",
-            "price": 167.4,
-            "change": "+2.32%"
+            "price": 167.8,
+            "change": "-0.03%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.56,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
+            0.54,
+            0.54,
+            0.53,
+            0.53,
+            0.54,
+            0.55,
+            0.54,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
             0.51
         ],
         "hsd_history_hardware": [
-            24.91,
-            25.04,
-            24.8,
-            25.01,
-            24.83,
-            25.2,
-            24.98,
-            24.52,
-            24.77,
-            24.67,
-            24.75,
-            25.22
+            24.37,
+            24.4,
+            24.16,
+            23.76,
+            23.86,
+            24.1,
+            24.06,
+            24.0,
+            23.92,
+            24.19,
+            24.58,
+            24.73
         ],
         "hsd_history_software": [
-            10.4,
+            10.2,
             10.34,
             10.27,
-            10.29,
-            10.2,
-            10.14,
-            10.33,
+            10.24,
+            10.24,
             10.17,
-            10.0,
-            9.87,
-            9.69,
-            9.86
+            10.05,
+            10.01,
+            9.85,
+            9.91,
+            9.74,
+            9.87
         ],
         "rci_data": [
             85.0,
-            19.124000000000002
+            19.155
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:05",
+            "time": "21:21",
             "tag": "MERCADO",
-            "text": "Upstart Holdings Inc. (UPST) Counters Unreliable and Predatory Credit Lines with Cash Line"
+            "text": "Goldman Sachs Raises PT on Arista Networks, Inc. (ANET) Stock"
         },
         {
-            "time": "20:03",
+            "time": "21:19",
             "tag": "MERCADO",
-            "text": "Lam Research (LRCX) Expands Footprint Amid Industry Momentum"
+            "text": "Cadence Design Systems, Inc. (CDNS) Drops 5.6% \u2014 Developing Story"
         },
         {
-            "time": "20:02",
-            "tag": "AI",
-            "text": "Broadcom (AVGO) Draws Investor Interest Amid AI Growth Expectations"
-        },
-        {
-            "time": "20:02",
+            "time": "21:12",
             "tag": "MERCADO",
-            "text": "Meta (META) Strengthens Investor Appeal With Dividend Payout and Platform Expansion Efforts"
+            "text": "Options Corner: Reignited Tariff Fears Facilitate A Contrarian Position In Super Micro Computer"
         },
         {
-            "time": "20:00",
-            "tag": "AI",
-            "text": "ServiceNow Inc (NOW) Expands AI Strategy With Key Acquisitions"
+            "time": "21:11",
+            "tag": "MERCADO",
+            "text": "B. Riley Raises PT on Onto Innovation Inc. (ONTO) Stock"
+        },
+        {
+            "time": "21:10",
+            "tag": "RESULTADOS",
+            "text": "Earnings Flash (KEYS) Keysight Technologies, Inc. Reports Q1 Revenue $1.60B, vs. FactSet Est of $1.54B"
         }
     ]
 }
