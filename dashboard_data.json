@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-23 19:08 UTC",
+        "last_updated": "2026-02-23 20:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 191.2,
-            "change": "+1.0%"
+            "price": 191.24,
+            "change": "+1.92%"
         },
         {
             "symbol": "AMD",
-            "price": 195.73,
-            "change": "-1.18%"
+            "price": 195.48,
+            "change": "-1.28%"
         },
         {
             "symbol": "MSFT",
-            "price": 386.65,
-            "change": "-0.16%"
+            "price": 383.56,
+            "change": "+0.26%"
         },
         {
             "symbol": "CEG",
-            "price": 291.78,
-            "change": "+0.85%"
+            "price": 293.53,
+            "change": "-0.33%"
         },
         {
             "symbol": "VST",
-            "price": 165.71,
-            "change": "+1.32%"
+            "price": 167.4,
+            "change": "+2.32%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.54,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.48,
+            0.47,
             0.47,
             0.48,
-            0.49
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            22.96,
-            23.29,
-            23.74,
-            23.92,
-            24.12,
-            24.14,
-            24.28,
-            24.52,
-            24.57,
             24.91,
-            24.74,
-            24.96
+            25.04,
+            24.8,
+            25.01,
+            24.83,
+            25.2,
+            24.98,
+            24.52,
+            24.77,
+            24.67,
+            24.75,
+            25.22
         ],
         "hsd_history_software": [
-            10.02,
-            9.94,
-            9.77,
-            9.66,
-            9.49,
-            9.58,
-            9.43,
-            9.61,
-            9.8,
-            9.78,
-            9.97,
-            9.85
+            10.4,
+            10.34,
+            10.27,
+            10.29,
+            10.2,
+            10.14,
+            10.33,
+            10.17,
+            10.0,
+            9.87,
+            9.69,
+            9.86
         ],
         "rci_data": [
             85.0,
-            19.119999999999997
+            19.124000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:33",
+            "time": "20:05",
             "tag": "MERCADO",
-            "text": "Why Are Amphenol, Royal Caribbean, and Freeport Insiders Selling?"
+            "text": "Upstart Holdings Inc. (UPST) Counters Unreliable and Predatory Credit Lines with Cash Line"
         },
         {
-            "time": "18:30",
+            "time": "20:03",
+            "tag": "MERCADO",
+            "text": "Lam Research (LRCX) Expands Footprint Amid Industry Momentum"
+        },
+        {
+            "time": "20:02",
             "tag": "AI",
-            "text": "SaaS Stocks Buried In AI Blizzard: Atlassian, Salesforce Hit 52-Week Lows"
+            "text": "Broadcom (AVGO) Draws Investor Interest Amid AI Growth Expectations"
         },
         {
-            "time": "18:26",
-            "tag": "RESULTADOS",
-            "text": "Surging Earnings Estimates Signal Upside for Analog Devices (ADI) Stock"
-        },
-        {
-            "time": "18:23",
+            "time": "20:02",
             "tag": "MERCADO",
-            "text": "Analysts\u2019 Opinions Are Mixed on These Technology Stocks: Grab (GRAB) and NetApp (NTAP)"
+            "text": "Meta (META) Strengthens Investor Appeal With Dividend Payout and Platform Expansion Efforts"
         },
         {
-            "time": "18:21",
-            "tag": "MERCADO",
-            "text": "Analysts\u2019 Opinions Are Mixed on These Technology Stocks: Grab (GRAB) and NetApp (NTAP)"
+            "time": "20:00",
+            "tag": "AI",
+            "text": "ServiceNow Inc (NOW) Expands AI Strategy With Key Acquisitions"
         }
     ]
 }
