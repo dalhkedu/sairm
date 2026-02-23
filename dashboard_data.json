@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-23 02:32 UTC",
+        "last_updated": "2026-02-23 05:00 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 189.82,
-            "change": "+1.85%"
+            "change": "+2.03%"
         },
         {
             "symbol": "AMD",
             "price": 200.15,
-            "change": "+0.84%"
+            "change": "-1.49%"
         },
         {
             "symbol": "MSFT",
             "price": 397.23,
-            "change": "+2.51%"
+            "change": "-1.12%"
         },
         {
             "symbol": "CEG",
             "price": 294.84,
-            "change": "-1.89%"
+            "change": "-3.25%"
         },
         {
             "symbol": "VST",
             "price": 171.4,
-            "change": "+3.3%"
+            "change": "-3.04%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.53,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
+            0.47,
+            0.48,
+            0.47,
+            0.48,
             0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.55,
-            25.04,
-            25.2,
-            24.91,
-            25.3,
-            25.34,
-            25.17,
-            25.5,
-            25.72,
-            25.51,
-            25.42,
-            25.13
+            25.19,
+            24.82,
+            24.52,
+            24.54,
+            24.85,
+            24.53,
+            24.84,
+            24.78,
+            24.44,
+            24.61,
+            24.4,
+            24.6
         ],
         "hsd_history_software": [
-            9.69,
-            9.85,
             9.66,
-            9.77,
-            9.87,
-            9.88,
-            9.99,
-            9.84,
-            9.83,
-            9.95,
-            9.99,
-            10.03
+            9.85,
+            9.78,
+            9.65,
+            9.74,
+            9.72,
+            9.86,
+            9.75,
+            9.67,
+            9.86,
+            9.75,
+            9.81
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:21",
+            "time": "03:48",
             "tag": "MERCADO",
-            "text": "Barclays Sees Microchip Technology (MCHP) Less Sensitive to Industrial Demand Swings"
+            "text": "Governance and Strategy in Focus for AT&T Investors ()"
         },
         {
-            "time": "02:06",
-            "tag": "AI",
-            "text": "Wedbush Maintains Bullish View on Apple (AAPL) despite AI Delay Concerns"
-        },
-        {
-            "time": "01:24",
-            "tag": "AI",
-            "text": "Lumen Technologies Shifts Focus to AI Infrastructure Amid Financial Challenges"
-        },
-        {
-            "time": "00:53",
+            "time": "03:47",
             "tag": "MERCADO",
-            "text": "OSI Systems, Inc. (OSIS) Gains PT Increase as Analysts Monitor Execution and Valuation"
+            "text": "Lumen Technologies expands APAC cybersecurity capabilities in collaboration with Palo Alto Networks"
         },
         {
-            "time": "00:41",
+            "time": "03:21",
+            "tag": "RESULTADOS",
+            "text": "Flywire (FLYW) To Report Earnings Tomorrow: Here Is What To Expect"
+        },
+        {
+            "time": "03:21",
             "tag": "MERCADO",
-            "text": "Why Texas Pacific Land (TPL) Is Up 15.6% After Record 2025 Results And Data-Center Pivot"
+            "text": "Oklo and NuScale Compete in Nuclear Technology"
+        },
+        {
+            "time": "03:12",
+            "tag": "RESULTADOS",
+            "text": "Novanta Earnings: What To Look For From NOVT"
         }
     ]
 }
