@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-24 21:38 UTC",
+        "last_updated": "2026-02-24 22:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 192.85,
-            "change": "-3.09%"
+            "change": "-2.54%"
         },
         {
             "symbol": "AMD",
             "price": 213.84,
-            "change": "+3.3%"
+            "change": "-0.54%"
         },
         {
             "symbol": "MSFT",
             "price": 389.0,
-            "change": "+2.4%"
+            "change": "0.0%"
         },
         {
             "symbol": "CEG",
             "price": 312.64,
-            "change": "-1.81%"
+            "change": "+2.31%"
         },
         {
             "symbol": "VST",
             "price": 171.62,
-            "change": "-1.98%"
+            "change": "-0.65%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.59,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.46,
+            0.45,
+            0.46,
+            0.47,
             0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
+            0.47,
+            0.47,
             0.48,
             0.49,
-            0.5,
-            0.51
+            0.48,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.39,
-            25.12,
-            25.05,
-            24.9,
-            24.79,
+            25.45,
             25.28,
-            24.91,
-            24.8,
-            24.89,
-            24.6,
-            25.04,
-            24.9
+            25.6,
+            25.53,
+            25.35,
+            24.94,
+            25.3,
+            25.05,
+            25.34,
+            25.44,
+            25.53,
+            25.31
         ],
         "hsd_history_software": [
-            10.53,
-            10.33,
-            10.2,
-            10.27,
-            10.44,
-            10.4,
-            10.3,
-            10.19,
-            10.11,
-            9.95,
-            9.84,
-            9.81
+            10.15,
+            10.15,
+            10.32,
+            10.12,
+            10.29,
+            10.39,
+            10.41,
+            10.31,
+            10.17,
+            10.07,
+            10.07,
+            9.95
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:28",
+            "time": "21:47",
             "tag": "MERCADO",
-            "text": "Why FactSet (FDS) Stock Is Up Today"
+            "text": "Axon (NASDAQ:AXON) Beats Expectations in Strong Q4 CY2025, Stock Jumps 15.1%"
         },
         {
-            "time": "20:21",
-            "tag": "AI",
-            "text": "IQVIA Holdings Inc. (IQV) Offers Impressive Upside Despite AI-Linked Threats"
-        },
-        {
-            "time": "20:01",
-            "tag": "AI",
-            "text": "Jamie Dimon says AI is already reshaping JPMorgan Chase's workforce as bank plans 'huge redeployment\u2019"
-        },
-        {
-            "time": "19:50",
-            "tag": "AI",
-            "text": "IQVIA Holdings Inc. (IQV) Offers Impressive Upside Despite AI-Linked Threats"
-        },
-        {
-            "time": "19:41",
+            "time": "21:36",
             "tag": "MERCADO",
-            "text": "Agilent Technologies, Inc. (A) Sparks Confidence With Latest Approvals"
+            "text": "Axon Enterprise Tops Q4 Estimates, Issues Strong Guidance As Momentum Accelerates"
+        },
+        {
+            "time": "21:30",
+            "tag": "MERCADO",
+            "text": "General Mills veteran tapped to modernize Hormel Foods\u2019 tech"
+        },
+        {
+            "time": "21:30",
+            "tag": "MERCADO",
+            "text": "Hormel Foods Appoints Donald Monk as Company's First Chief Technology Officer"
+        },
+        {
+            "time": "21:26",
+            "tag": "MERCADO",
+            "text": "MARKETAXESS HOLDINGS INC SEC 10-K Report"
         }
     ]
 }
