@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-24 14:54 UTC",
+        "last_updated": "2026-02-24 16:02 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": NaN,
-            "change": "-2.27%"
+            "price": 192.54,
+            "change": "+0.61%"
         },
         {
             "symbol": "AMD",
-            "price": 210.4,
-            "change": "+1.68%"
+            "price": 211.16,
+            "change": "-0.68%"
         },
         {
             "symbol": "MSFT",
-            "price": 386.82,
-            "change": "-2.65%"
+            "price": 387.01,
+            "change": "+0.97%"
         },
         {
             "symbol": "CEG",
-            "price": 303.38,
-            "change": "-0.42%"
+            "price": 301.08,
+            "change": "+2.58%"
         },
         {
             "symbol": "VST",
-            "price": 167.48,
-            "change": "-2.95%"
+            "price": 167.28,
+            "change": "-1.95%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
-        "rci_current": NaN,
+        "cer_current": 0.54,
+        "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.5,
-            0.5,
-            0.5
+            0.52,
+            0.52,
+            0.53,
+            0.52,
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            23.06,
-            23.33,
-            23.63,
-            23.62,
-            24.1,
-            24.42,
-            24.82,
-            24.77,
+            24.69,
+            24.7,
+            24.68,
+            24.99,
+            24.86,
+            25.1,
+            24.88,
             24.47,
-            24.93,
-            25.14,
-            25.36
+            24.92,
+            24.79,
+            24.43,
+            24.78
         ],
         "hsd_history_software": [
-            10.18,
-            10.0,
-            9.95,
-            10.08,
-            10.19,
+            9.81,
+            9.98,
+            9.88,
+            9.81,
+            9.87,
+            9.96,
+            10.03,
+            10.12,
             10.23,
             10.24,
-            10.29,
-            10.22,
-            10.21,
-            10.12,
-            9.92
+            10.19,
+            10.16
         ],
         "rci_data": [
             85.0,
-            NaN
+            19.253999999999998
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:39",
+            "time": "15:45",
+            "tag": "MERCADO",
+            "text": "RIME Stock Surged Nearly 25% Today \u2013 What Is The Coca-Cola Connection?"
+        },
+        {
+            "time": "15:45",
             "tag": "AI",
-            "text": "Driving innovation in AI transformation and multicloud"
+            "text": "Salesforce faces its AI reckoning on Wednesday, but Wedbush sees a buying opportunity in the wreckage"
         },
         {
-            "time": "13:35",
-            "tag": "MERCADO",
-            "text": "AES Corp signs power supply agreements for Google data center in Texas"
+            "time": "15:44",
+            "tag": "AI",
+            "text": "ExlService : EXL announces speaker roster for AI in Action Americas virtual event \u2013 accelerating enterprise AI from pilot to impact"
         },
         {
-            "time": "13:34",
+            "time": "15:36",
             "tag": "MERCADO",
-            "text": "Oppenheimer Cuts Price Target on Autodesk to $325 From $375, Keeps Outperform Rating"
+            "text": "CSX Modernizes Data Platform with Infosys & Microsoft"
         },
         {
-            "time": "13:29",
+            "time": "15:34",
             "tag": "MERCADO",
-            "text": "Google Partners with AES Corp for Major Texas Data Center Power Deal"
-        },
-        {
-            "time": "13:25",
-            "tag": "MERCADO",
-            "text": "Here are Tuesday's biggest analyst calls: Nvidia, Broadcom, Qualcomm, Booking Holdings, Blue Owl & more"
+            "text": "Does Entegris\u2019 Q4 Miss And Strong Q1 Guide Reframe Its Materials Cycle Edge (ENTG)?"
         }
     ]
 }
