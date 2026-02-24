@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-24 02:28 UTC",
+        "last_updated": "2026-02-24 04:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 191.55,
-            "change": "-3.1%"
+            "change": "-0.53%"
         },
         {
             "symbol": "AMD",
             "price": 196.6,
-            "change": "+0.56%"
+            "change": "+1.53%"
         },
         {
             "symbol": "MSFT",
             "price": 384.47,
-            "change": "+2.85%"
+            "change": "-3.05%"
         },
         {
             "symbol": "CEG",
             "price": 293.8,
-            "change": "+1.32%"
+            "change": "-3.18%"
         },
         {
             "symbol": "VST",
             "price": 167.8,
-            "change": "-0.27%"
+            "change": "-3.18%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.63,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
             0.49,
             0.49,
-            0.5
+            0.5,
+            0.5,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            26.02,
-            25.76,
-            26.16,
-            26.57,
-            26.12,
-            25.62,
-            25.83,
-            25.99,
-            25.76,
-            25.58,
-            25.31,
-            25.25
+            26.03,
+            26.11,
+            26.37,
+            26.0,
+            25.71,
+            26.22,
+            26.49,
+            26.5,
+            26.0,
+            25.5,
+            25.26,
+            24.77
         ],
         "hsd_history_software": [
-            10.8,
-            10.62,
-            10.58,
-            10.38,
-            10.22,
-            10.29,
-            10.22,
-            10.02,
-            10.01,
-            10.13,
-            9.99,
-            9.82
+            10.17,
+            10.15,
+            10.14,
+            10.17,
+            10.32,
+            10.17,
+            10.32,
+            10.41,
+            10.32,
+            10.24,
+            10.12,
+            10.11
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:54",
-            "tag": "MERCADO",
-            "text": "Assessing Whether Texas Instruments (TXN) Shares Still Justify Their Valuation After Strong Recent Gains"
-        },
-        {
-            "time": "01:53",
-            "tag": "MERCADO",
-            "text": "Should Pegasystems\u2019 (PEGA) Buybacks and Profitability Jump Require Action From Investors?"
-        },
-        {
-            "time": "01:51",
+            "time": "03:59",
             "tag": "AI",
-            "text": "JPMorgan\u2019s Dimon Positions AI as Competitive Banking Battleground"
+            "text": "Our insurance AI is nicer than our agents - Allstate"
         },
         {
-            "time": "01:15",
+            "time": "03:48",
             "tag": "MERCADO",
-            "text": "Destiny Tech100 (NYSE:DXYZ) Shares Down 3.7% - Here's What Happened"
+            "text": "A Look At One Stop Systems (OSS) Valuation After New P\u20118A Poseidon Contract Wins"
         },
         {
-            "time": "01:12",
+            "time": "03:48",
+            "tag": "AI",
+            "text": "Does Colgate-Palmolive\u2019s Premium Push and AI Marketing Pivot Change The Bull Case For CL?"
+        },
+        {
+            "time": "03:21",
+            "tag": "RESULTADOS",
+            "text": "Salesforce (CRM) Reports Earnings Tomorrow: What To Expect"
+        },
+        {
+            "time": "03:13",
             "tag": "MERCADO",
-            "text": "Uber Buys Parking App SpotHero to Grow Its Customer Base"
+            "text": "Does Stryker\u2019s (SYK) New Humerus Nailing System Clarify Its Long-Term Medtech Edge?"
         }
     ]
 }
