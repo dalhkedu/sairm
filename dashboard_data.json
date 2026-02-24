@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-24 07:52 UTC",
+        "last_updated": "2026-02-24 08:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 191.55,
-            "change": "+3.2%"
+            "change": "-3.45%"
         },
         {
             "symbol": "AMD",
             "price": 196.6,
-            "change": "-2.75%"
+            "change": "-1.56%"
         },
         {
             "symbol": "MSFT",
             "price": 384.47,
-            "change": "-2.7%"
+            "change": "+0.87%"
         },
         {
             "symbol": "CEG",
             "price": 293.8,
-            "change": "-2.25%"
+            "change": "+0.23%"
         },
         {
             "symbol": "VST",
             "price": 167.8,
-            "change": "+1.77%"
+            "change": "-2.28%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.43,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
+            0.51,
             0.5,
             0.51,
+            0.5,
+            0.5,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.06,
+            23.89,
+            24.08,
+            23.9,
+            24.21,
+            24.32,
+            24.47,
             24.02,
-            23.92,
-            24.29,
-            24.62,
-            24.72,
-            24.62,
-            24.54,
-            24.17,
-            23.91,
-            24.4,
-            24.5
+            23.97,
+            24.32,
+            24.75,
+            24.83,
+            25.06
         ],
         "hsd_history_software": [
+            9.75,
+            9.6,
             9.77,
-            9.8,
-            9.67,
-            9.83,
-            9.83,
+            9.71,
+            9.63,
+            9.78,
+            9.59,
+            9.76,
+            9.84,
             10.01,
-            9.98,
-            10.06,
-            9.9,
-            9.91,
-            10.01,
-            10.04
+            10.21,
+            10.16
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:35",
+            "time": "07:47",
             "tag": "MERCADO",
-            "text": "Why Ultra Clean (UCTT) Is Up 10.9% After Posting a 2025 Loss but Firm 2026 Outlook"
+            "text": "Assessing Whether Take Two Interactive Software (TTWO) Looks Undervalued After Recent Share Price Weakness"
         },
         {
-            "time": "06:27",
+            "time": "07:46",
             "tag": "MERCADO",
-            "text": "What TD Cowen's $60 EPS Call Means for Micron Technology (MU)"
+            "text": "Tesla vs. California DMV not over yet: sues to reverse FSD false advertising ruling (TSLA:NASDAQ)"
         },
         {
-            "time": "06:25",
+            "time": "07:33",
             "tag": "MERCADO",
-            "text": "Should You Buy Vistra Stock While It's Below $200 -- Or Wait for a Better Yield?"
+            "text": "Stryker's Strategic Push in Robotic Surgery Gains Momentum"
         },
         {
-            "time": "06:16",
+            "time": "07:33",
             "tag": "MERCADO",
-            "text": "Oracle Stock Drop Looks Sharp, But How Deep Can It Go?"
+            "text": "Stronger Bet Than Verizon Communications Stock: RCI Delivers More"
         },
         {
-            "time": "06:15",
+            "time": "07:23",
             "tag": "MERCADO",
-            "text": "Can Uber Technologies Stock Recover If Markets Fall?"
+            "text": "Elon Musk Says 'Nothing To Do' With Amazon's Kuiper As Starlink Moves To Offer Free Hardware: 'Trying To Make Starlink More Affordable\u2026'"
         }
     ]
 }
