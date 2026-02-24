@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-23 23:36 UTC",
+        "last_updated": "2026-02-24 02:28 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 191.55,
-            "change": "+0.23%"
+            "change": "-3.1%"
         },
         {
             "symbol": "AMD",
             "price": 196.6,
-            "change": "-1.51%"
+            "change": "+0.56%"
         },
         {
             "symbol": "MSFT",
             "price": 384.47,
-            "change": "+2.22%"
+            "change": "+2.85%"
         },
         {
             "symbol": "CEG",
             "price": 293.8,
-            "change": "+0.36%"
+            "change": "+1.32%"
         },
         {
             "symbol": "VST",
             "price": 167.8,
-            "change": "+3.14%"
+            "change": "-0.27%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.65,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.5,
             0.51,
             0.5,
             0.5,
-            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.5,
             0.49,
             0.49,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            26.18,
-            25.93,
             26.02,
-            26.53,
-            26.2,
-            25.77,
-            25.38,
-            25.59,
-            25.75,
-            25.87,
-            25.66,
-            25.23
+            25.76,
+            26.16,
+            26.57,
+            26.12,
+            25.62,
+            25.83,
+            25.99,
+            25.76,
+            25.58,
+            25.31,
+            25.25
         ],
         "hsd_history_software": [
-            9.64,
-            9.64,
-            9.75,
-            9.77,
-            9.59,
-            9.69,
-            9.81,
-            9.81,
-            9.96,
-            9.87,
-            10.03,
-            10.2
+            10.8,
+            10.62,
+            10.58,
+            10.38,
+            10.22,
+            10.29,
+            10.22,
+            10.02,
+            10.01,
+            10.13,
+            9.99,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "23:16",
+            "time": "01:54",
             "tag": "MERCADO",
-            "text": "Demolition starts on Oracle's Nashville world headquarters campus"
+            "text": "Assessing Whether Texas Instruments (TXN) Shares Still Justify Their Valuation After Strong Recent Gains"
         },
         {
-            "time": "23:07",
+            "time": "01:53",
             "tag": "MERCADO",
-            "text": "Align Technology urges early dental habits for healthy smiles"
+            "text": "Should Pegasystems\u2019 (PEGA) Buybacks and Profitability Jump Require Action From Investors?"
         },
         {
-            "time": "22:50",
-            "tag": "MERCADO",
-            "text": "CDW Files for Automatic Mixed Securities Shelf"
+            "time": "01:51",
+            "tag": "AI",
+            "text": "JPMorgan\u2019s Dimon Positions AI as Competitive Banking Battleground"
         },
         {
-            "time": "22:50",
+            "time": "01:15",
             "tag": "MERCADO",
-            "text": "Pre-market volume spike 24 Feb 2026: 9181.HK (HKSE) Premia Asia ETF HKD 17.28 up"
+            "text": "Destiny Tech100 (NYSE:DXYZ) Shares Down 3.7% - Here's What Happened"
         },
         {
-            "time": "22:38",
+            "time": "01:12",
             "tag": "MERCADO",
-            "text": "Shutterstock, Getty Images Merger Gains Unconditional U.S. Clearance"
+            "text": "Uber Buys Parking App SpotHero to Grow Its Customer Base"
         }
     ]
 }
