@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-24 20:40 UTC",
+        "last_updated": "2026-02-24 21:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 192.93,
-            "change": "+2.27%"
+            "price": 192.85,
+            "change": "-3.09%"
         },
         {
             "symbol": "AMD",
             "price": 213.84,
-            "change": "+3.34%"
+            "change": "+3.3%"
         },
         {
             "symbol": "MSFT",
-            "price": 388.01,
-            "change": "-2.21%"
+            "price": 389.0,
+            "change": "+2.4%"
         },
         {
             "symbol": "CEG",
-            "price": 311.86,
-            "change": "-2.69%"
+            "price": 312.64,
+            "change": "-1.81%"
         },
         {
             "symbol": "VST",
-            "price": 170.56,
-            "change": "-0.41%"
+            "price": 171.62,
+            "change": "-1.98%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.45,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.48,
             0.49,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.5
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.41,
-            25.34,
+            25.39,
+            25.12,
+            25.05,
+            24.9,
+            24.79,
+            25.28,
+            24.91,
+            24.8,
             24.89,
-            24.65,
-            24.74,
-            24.32,
-            24.5,
-            24.77,
-            24.37,
-            24.66,
-            24.5,
-            24.85
+            24.6,
+            25.04,
+            24.9
         ],
         "hsd_history_software": [
-            9.36,
-            9.43,
-            9.42,
-            9.42,
-            9.53,
-            9.57,
-            9.58,
-            9.75,
-            9.8,
-            9.98,
-            10.03,
-            10.06
+            10.53,
+            10.33,
+            10.2,
+            10.27,
+            10.44,
+            10.4,
+            10.3,
+            10.19,
+            10.11,
+            9.95,
+            9.84,
+            9.81
         ],
         "rci_data": [
             85.0,
-            19.293000000000003
+            19.285
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "20:28",
+            "tag": "MERCADO",
+            "text": "Why FactSet (FDS) Stock Is Up Today"
+        },
+        {
+            "time": "20:21",
+            "tag": "AI",
+            "text": "IQVIA Holdings Inc. (IQV) Offers Impressive Upside Despite AI-Linked Threats"
+        },
+        {
+            "time": "20:01",
+            "tag": "AI",
+            "text": "Jamie Dimon says AI is already reshaping JPMorgan Chase's workforce as bank plans 'huge redeployment\u2019"
+        },
+        {
+            "time": "19:50",
+            "tag": "AI",
+            "text": "IQVIA Holdings Inc. (IQV) Offers Impressive Upside Despite AI-Linked Threats"
+        },
+        {
             "time": "19:41",
             "tag": "MERCADO",
             "text": "Agilent Technologies, Inc. (A) Sparks Confidence With Latest Approvals"
-        },
-        {
-            "time": "19:32",
-            "tag": "MERCADO",
-            "text": "Tesla must face lawsuit alleging anti-American bias in hiring, US judge rules"
-        },
-        {
-            "time": "19:28",
-            "tag": "AI",
-            "text": "Is Centene\u2019s (CNC) AI-Driven Transport And Community Spend Redefining Its Medicaid Moat?"
-        },
-        {
-            "time": "19:20",
-            "tag": "MERCADO",
-            "text": "Apple in focus as Morgan Stanley sees App Store revenue growth, Mac strength (AAPL:NASDAQ)"
-        },
-        {
-            "time": "19:18",
-            "tag": "MERCADO",
-            "text": "Unusual Machines Stock Exhibits Sharp Price Swings"
         }
     ]
 }
