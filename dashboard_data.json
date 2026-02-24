@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-24 17:57 UTC",
+        "last_updated": "2026-02-24 19:13 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": NaN,
-            "change": "+2.14%"
+            "price": 192.6,
+            "change": "+0.67%"
         },
         {
             "symbol": "AMD",
-            "price": 215.86,
-            "change": "-1.81%"
+            "price": 214.0,
+            "change": "+0.51%"
         },
         {
             "symbol": "MSFT",
-            "price": 386.83,
-            "change": "+1.24%"
+            "price": 387.96,
+            "change": "-1.07%"
         },
         {
             "symbol": "CEG",
-            "price": 310.37,
-            "change": "+0.09%"
+            "price": 310.2,
+            "change": "-2.01%"
         },
         {
             "symbol": "VST",
-            "price": 169.99,
-            "change": "-2.05%"
+            "price": 171.2,
+            "change": "-0.04%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
-        "rci_current": NaN,
+        "cer_current": 0.61,
+        "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.49,
-            0.49,
             0.49,
             0.5,
-            0.51,
-            0.51
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.62,
-            26.21,
-            26.31,
-            26.61,
-            26.66,
-            26.29,
-            26.19,
-            25.78,
-            25.32,
-            25.1,
-            24.7,
-            25.01
+            25.28,
+            25.01,
+            25.43,
+            25.04,
+            25.46,
+            25.08,
+            25.41,
+            24.93,
+            24.72,
+            25.22,
+            25.15,
+            25.32
         ],
         "hsd_history_software": [
+            10.33,
+            10.47,
+            10.36,
+            10.27,
+            10.47,
+            10.41,
+            10.49,
+            10.29,
+            10.21,
             10.18,
-            10.0,
-            9.96,
-            9.83,
-            9.69,
-            9.81,
-            9.78,
-            9.74,
-            9.73,
-            9.78,
-            9.8,
-            9.83
+            9.99,
+            9.96
         ],
         "rci_data": [
             85.0,
-            NaN
+            19.259999999999998
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:49",
+            "time": "18:51",
             "tag": "MERCADO",
-            "text": "Google to build new data center in Wilbarger County"
+            "text": "Skyworks to Present at the Morgan Stanley Technology, Media & Telecom Conference"
         },
         {
-            "time": "16:29",
-            "tag": "MERCADO",
-            "text": "Inside Motorola\u2019s $10M push for first responders and STEM students"
-        },
-        {
-            "time": "16:28",
-            "tag": "MERCADO",
-            "text": "The Zacks Analyst Blog Highlights NVIDIA, Taiwan Semiconductor, Micron Technology and Super Micro Computer"
-        },
-        {
-            "time": "16:21",
+            "time": "18:39",
             "tag": "AI",
-            "text": "Will AI kill brokerages? Landstar, C.H. Robinson, RXO stocks tanked in 'scare trade'"
+            "text": "Brown And Brown Taps New CIO To Shape AI And Technology Path"
         },
         {
-            "time": "16:14",
+            "time": "18:35",
+            "tag": "RESULTADOS",
+            "text": "HP Inc. Earnings Preview: What Wall Street Is Watching"
+        },
+        {
+            "time": "18:35",
             "tag": "MERCADO",
-            "text": "Texas Instruments sees 2026 CapEx $2B-$3B"
+            "text": "Teledyne FLIR OEM Launches Lepton XDS Dual Thermal-Visible Camera Module"
+        },
+        {
+            "time": "18:19",
+            "tag": "MERCADO",
+            "text": "Xcel Energy to power new Google data center in Minnesota"
         }
     ]
 }
