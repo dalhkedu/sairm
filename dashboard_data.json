@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-25 19:18 UTC",
+        "last_updated": "2026-02-25 20:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 197.29,
-            "change": "-0.07%"
+            "price": 196.81,
+            "change": "-3.43%"
         },
         {
             "symbol": "AMD",
-            "price": 213.11,
-            "change": "+3.24%"
+            "price": 211.45,
+            "change": "-0.11%"
         },
         {
             "symbol": "MSFT",
-            "price": 399.02,
-            "change": "-3.34%"
+            "price": 400.94,
+            "change": "-1.38%"
         },
         {
             "symbol": "CEG",
-            "price": 325.36,
-            "change": "-2.77%"
+            "price": 327.05,
+            "change": "+2.37%"
         },
         {
             "symbol": "VST",
-            "price": 174.61,
-            "change": "-1.01%"
+            "price": 175.3,
+            "change": "+0.63%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.49,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
             0.49,
-            0.48,
+            0.49,
             0.48,
             0.49,
             0.49,
+            0.48,
             0.49,
             0.5,
-            0.49,
-            0.49
+            0.5,
+            0.51,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.57,
-            24.63,
-            24.95,
-            24.87,
-            24.78,
-            24.57,
-            24.5,
-            24.36,
-            24.57,
-            24.48,
-            24.65,
-            24.91
+            25.86,
+            25.49,
+            25.73,
+            25.75,
+            25.98,
+            25.65,
+            25.71,
+            25.58,
+            25.31,
+            25.37,
+            24.9,
+            24.53
         ],
         "hsd_history_software": [
-            10.32,
-            10.15,
-            9.99,
-            9.99,
-            9.81,
-            9.88,
-            9.69,
-            9.85,
-            9.7,
-            9.85,
             9.75,
-            9.82
+            9.82,
+            9.85,
+            9.89,
+            10.03,
+            9.93,
+            9.95,
+            9.92,
+            9.8,
+            9.74,
+            9.7,
+            9.88
         ],
         "rci_data": [
             85.0,
-            19.729
+            19.681
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:46",
+            "time": "19:22",
             "tag": "MERCADO",
-            "text": "The Goldman Sachs Group Cuts Flywire (NASDAQ:FLYW) Price Target to $15.00"
+            "text": "Danish sonar pioneer RESON turns 50, bringing new underwater tech to Oi26"
         },
         {
-            "time": "17:26",
+            "time": "19:07",
+            "tag": "MERCADO",
+            "text": "Hut 8 Corp. (HUT) Stock: Drops as Revenue Jumps and $401M Bitcoin Losses Hit Hard"
+        },
+        {
+            "time": "18:56",
             "tag": "AI",
-            "text": "IBM Stock Got Crushed Over AI Worries. This Analyst Upgraded the Shares Anyway."
+            "text": "Vusion and Qualcomm Unveil their AI-Native Store\u2122 Vision"
         },
         {
-            "time": "17:24",
-            "tag": "MERCADO",
-            "text": "EBay, Former Executives Settle Stalking Case Days Before Trial"
+            "time": "18:55",
+            "tag": "AI",
+            "text": "Intuit Anthropic AI Agents Partnership And What It May Mean For Valuation"
         },
         {
-            "time": "17:22",
-            "tag": "MERCADO",
-            "text": "Sunrise New Energy Advances Sodium-Ion Battery Projects with Guizhou Approvals"
-        },
-        {
-            "time": "17:22",
-            "tag": "MERCADO",
-            "text": "Xcel Energy Locks In Google and Doubles Its Pipeline to 6 GW: Here\u2019s What Investors Need to Know"
+            "time": "18:55",
+            "tag": "AI",
+            "text": "T-Mobile US AI Translation Launch Puts Network And Valuation In Focus"
         }
     ]
 }
