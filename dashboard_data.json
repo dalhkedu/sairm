@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-25 10:59 UTC",
+        "last_updated": "2026-02-25 11:48 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 192.85,
-            "change": "+2.44%"
+            "change": "-1.16%"
         },
         {
             "symbol": "AMD",
             "price": 213.84,
-            "change": "+1.23%"
+            "change": "-2.18%"
         },
         {
             "symbol": "MSFT",
             "price": 389.0,
-            "change": "+2.0%"
+            "change": "+1.76%"
         },
         {
             "symbol": "CEG",
             "price": 312.64,
-            "change": "+2.82%"
+            "change": "-1.92%"
         },
         {
             "symbol": "VST",
             "price": 171.62,
-            "change": "+1.02%"
+            "change": "+0.75%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.49,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.52,
-            0.51,
+            0.48,
+            0.49,
+            0.49,
             0.5,
             0.5,
             0.51,
-            0.5,
-            0.5,
+            0.51,
             0.51,
             0.5,
+            0.51,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.29,
-            25.2,
+            25.88,
+            25.52,
+            25.11,
+            25.24,
             24.79,
-            25.13,
-            24.75,
-            24.66,
-            24.67,
-            24.3,
-            23.84,
-            24.25,
-            24.33,
-            24.58
+            24.85,
+            25.14,
+            24.82,
+            24.95,
+            25.03,
+            24.95,
+            25.45
         ],
         "hsd_history_software": [
-            10.16,
-            10.36,
-            10.35,
-            10.29,
-            10.31,
-            10.28,
-            10.4,
-            10.36,
-            10.32,
-            10.27,
-            10.27,
-            10.08
+            10.17,
+            9.97,
+            9.94,
+            9.96,
+            9.92,
+            10.04,
+            10.24,
+            10.2,
+            10.1,
+            9.91,
+            9.75,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:45",
+            "time": "10:44",
             "tag": "MERCADO",
-            "text": "Is Hormel (HRL) Quietly Rewiring Its Investment Story Around Tech-Led Supply Chain Modernization?"
+            "text": "F5 to Participate in Upcoming Financial Conference"
         },
         {
-            "time": "09:27",
+            "time": "10:41",
+            "tag": "MERCADO",
+            "text": "2 Reasons to Like CDNS and 1 to Stay Skeptical"
+        },
+        {
+            "time": "10:41",
+            "tag": "RESULTADOS",
+            "text": "eBay's Q4 Earnings Call: Our Top 5 Analyst Questions"
+        },
+        {
+            "time": "10:34",
             "tag": "AI",
-            "text": "AECOM calls for creation of sovereign data centre framework to safeguard UK\u2019s AI future"
+            "text": "GoDaddy Inc. (GDDY) Integrates with Salesforce's AI Agents Discovering Software"
         },
         {
-            "time": "09:24",
+            "time": "10:32",
             "tag": "MERCADO",
-            "text": "Citigroup Inc. Sells 60,784 Shares of HP Inc. $HPQ"
-        },
-        {
-            "time": "09:23",
-            "tag": "MERCADO",
-            "text": "Citigroup Inc. Sells 4,964 Shares of Tyler Technologies, Inc. $TYL"
-        },
-        {
-            "time": "09:21",
-            "tag": "AI",
-            "text": "Palantir Director Cohen Sells $43.7M as Rackspace AI Deal Launches"
+            "text": "GSA Capital Partners LLP Sells 12,738 Shares of QUALCOMM Incorporated $QCOM"
         }
     ]
 }
