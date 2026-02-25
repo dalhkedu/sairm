@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-25 20:39 UTC",
+        "last_updated": "2026-02-25 21:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 196.81,
-            "change": "-3.43%"
+            "price": 195.56,
+            "change": "-0.71%"
         },
         {
             "symbol": "AMD",
-            "price": 211.45,
-            "change": "-0.11%"
+            "price": 210.86,
+            "change": "+2.11%"
         },
         {
             "symbol": "MSFT",
-            "price": 400.94,
-            "change": "-1.38%"
+            "price": 400.6,
+            "change": "-3.43%"
         },
         {
             "symbol": "CEG",
-            "price": 327.05,
-            "change": "+2.37%"
+            "price": 325.84,
+            "change": "+2.85%"
         },
         {
             "symbol": "VST",
-            "price": 175.3,
-            "change": "+0.63%"
+            "price": 175.36,
+            "change": "+0.27%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.54,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.5,
-            0.5,
+            0.52,
+            0.52,
+            0.52,
             0.51,
             0.51,
-            0.5
+            0.52,
+            0.52,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.86,
-            25.49,
-            25.73,
-            25.75,
-            25.98,
-            25.65,
-            25.71,
-            25.58,
-            25.31,
-            25.37,
-            24.9,
-            24.53
+            24.35,
+            24.51,
+            25.0,
+            24.91,
+            25.4,
+            25.61,
+            25.54,
+            25.32,
+            25.11,
+            24.66,
+            25.08,
+            25.34
         ],
         "hsd_history_software": [
-            9.75,
-            9.82,
-            9.85,
-            9.89,
-            10.03,
-            9.93,
-            9.95,
-            9.92,
+            10.05,
+            10.08,
+            10.15,
+            9.99,
+            10.14,
+            10.16,
+            9.99,
             9.8,
-            9.74,
-            9.7,
-            9.88
+            9.85,
+            9.95,
+            10.1,
+            10.15
         ],
         "rci_data": [
             85.0,
-            19.681
+            19.556
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,9 @@
     ],
     "news_feed": [
         {
-            "time": "19:22",
-            "tag": "MERCADO",
-            "text": "Danish sonar pioneer RESON turns 50, bringing new underwater tech to Oi26"
-        },
-        {
-            "time": "19:07",
-            "tag": "MERCADO",
-            "text": "Hut 8 Corp. (HUT) Stock: Drops as Revenue Jumps and $401M Bitcoin Losses Hit Hard"
-        },
-        {
-            "time": "18:56",
-            "tag": "AI",
-            "text": "Vusion and Qualcomm Unveil their AI-Native Store\u2122 Vision"
-        },
-        {
-            "time": "18:55",
-            "tag": "AI",
-            "text": "Intuit Anthropic AI Agents Partnership And What It May Mean For Valuation"
-        },
-        {
-            "time": "18:55",
-            "tag": "AI",
-            "text": "T-Mobile US AI Translation Launch Puts Network And Valuation In Focus"
+            "time": "INFO",
+            "tag": "LIMIT",
+            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
         }
     ]
 }
