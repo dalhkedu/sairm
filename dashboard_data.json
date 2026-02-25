@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-25 13:13 UTC",
+        "last_updated": "2026-02-25 14:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 192.85,
-            "change": "-1.47%"
+            "price": 195.41,
+            "change": "-1.78%"
         },
         {
             "symbol": "AMD",
-            "price": 213.84,
-            "change": "-2.42%"
+            "price": 213.1,
+            "change": "-3.17%"
         },
         {
             "symbol": "MSFT",
-            "price": 389.0,
-            "change": "+1.84%"
+            "price": 395.89,
+            "change": "+3.08%"
         },
         {
             "symbol": "CEG",
-            "price": 312.64,
-            "change": "+1.43%"
+            "price": 321.33,
+            "change": "-1.84%"
         },
         {
             "symbol": "VST",
-            "price": 171.62,
-            "change": "+2.59%"
+            "price": 171.8,
+            "change": "-2.13%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
-        "rci_current": 0.19,
+        "cer_current": 0.5,
+        "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.51,
             0.5,
+            0.51,
             0.5,
             0.49,
-            0.48,
-            0.49,
-            0.48,
-            0.48,
+            0.5,
             0.49,
             0.49,
             0.5,
-            0.5,
-            0.49
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.86,
-            25.97,
-            26.08,
-            26.04,
-            25.63,
-            25.51,
-            25.01,
-            24.62,
-            24.87,
-            24.85,
-            24.55,
-            24.71
+            25.65,
+            25.36,
+            25.0,
+            25.45,
+            25.34,
+            25.18,
+            24.88,
+            24.64,
+            24.77,
+            24.68,
+            24.66,
+            25.1
         ],
         "hsd_history_software": [
-            10.18,
-            10.23,
-            10.24,
-            10.23,
-            10.3,
-            10.43,
-            10.22,
+            10.29,
+            10.48,
+            10.49,
+            10.31,
+            10.45,
+            10.4,
+            10.25,
             10.17,
-            10.19,
-            10.18,
-            10.03,
-            9.94
+            10.06,
+            10.13,
+            9.97,
+            9.9
         ],
         "rci_data": [
             85.0,
-            19.285
+            19.541
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:35",
+            "time": "13:52",
             "tag": "MERCADO",
-            "text": "Amazon (AMZN) Tops Walmart With $716.9 Billion in Annual Revenue"
+            "text": "Taiwan telecoms tackle phone scams"
         },
         {
-            "time": "11:35",
+            "time": "13:48",
             "tag": "MERCADO",
-            "text": "Wynn Resorts Confirms Data Breach After Hackers Remove It From Leak Site"
+            "text": "Cantor Fitzgerald reiterates Texas Instruments stock rating at Neutral"
         },
         {
-            "time": "11:26",
-            "tag": "AI",
-            "text": "Carrier Global\u2019s Strategic Pivot: Capitalizing on AI\u2019s Cooling Demands"
-        },
-        {
-            "time": "11:25",
-            "tag": "AI",
-            "text": "Wells Fargo Reiterates Overweight Rating for Amazon (AMZN) as AI Compute Demand Doubles"
-        },
-        {
-            "time": "11:24",
+            "time": "13:30",
             "tag": "MERCADO",
-            "text": "B. Riley Maintains Buy Rating for Bitmine Immersion (BMNR) with Revised $30 PT"
+            "text": "TD Asset Management Inc Has $352.41 Million Stock Position in Arista Networks, Inc. $ANET"
+        },
+        {
+            "time": "13:30",
+            "tag": "MERCADO",
+            "text": "ScanSource CFO Steve Jones to speak at Raymond James event, webcast live"
+        },
+        {
+            "time": "13:29",
+            "tag": "MERCADO",
+            "text": "Medtronic begins EMEA commercial launch of MiniMed Go Smart MDI system with Simplera sensor"
         }
     ]
 }
