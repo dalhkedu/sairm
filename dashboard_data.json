@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-26 13:14 UTC",
+        "last_updated": "2026-02-26 14:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 195.56,
-            "change": "+3.35%"
+            "price": 189.4,
+            "change": "-3.34%"
         },
         {
             "symbol": "AMD",
-            "price": 210.86,
-            "change": "+2.64%"
+            "price": 205.3,
+            "change": "-1.14%"
         },
         {
             "symbol": "MSFT",
-            "price": 400.6,
-            "change": "+2.76%"
+            "price": 404.58,
+            "change": "-2.19%"
         },
         {
             "symbol": "CEG",
-            "price": 325.84,
-            "change": "-2.91%"
+            "price": 315.18,
+            "change": "+0.44%"
         },
         {
             "symbol": "VST",
-            "price": 175.36,
-            "change": "-0.64%"
+            "price": 169.96,
+            "change": "+0.41%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
-        "rci_current": 0.2,
+        "cer_current": 0.43,
+        "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.5,
-            0.5,
-            0.51,
             0.5,
             0.5,
             0.5,
             0.49,
-            0.49
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.28,
-            25.77,
-            25.41,
-            25.13,
-            25.05,
-            24.86,
-            24.72,
-            25.01,
-            25.11,
-            24.83,
+            25.26,
+            25.23,
+            25.44,
+            25.66,
+            25.18,
+            25.68,
+            25.92,
+            25.45,
+            25.35,
+            25.16,
             24.85,
-            25.06
+            24.56
         ],
         "hsd_history_software": [
-            9.7,
-            9.88,
-            9.99,
-            10.08,
+            10.57,
+            10.5,
+            10.31,
+            10.32,
+            10.12,
             9.95,
-            10.08,
-            10.24,
-            10.09,
-            10.21,
-            10.16,
-            10.09,
-            9.9
+            9.98,
+            9.84,
+            9.74,
+            9.82,
+            9.75,
+            9.95
         ],
         "rci_data": [
             85.0,
-            19.556
+            18.94
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:51",
-            "tag": "AI",
-            "text": "Rockwell Automation Champions AI-Driven Transformation to Accelerate Smart and Sustainable Manufacturing in India"
-        },
-        {
-            "time": "12:46",
+            "time": "13:40",
             "tag": "MERCADO",
-            "text": "Cadence Design Systems, Inc. $CDNS Shares Bought by Mitsubishi UFJ Asset Management Co. Ltd."
+            "text": "New John Deere 8R series up to 634 hp, prepared for \u2018Supervised Autonomy\u2019"
         },
         {
-            "time": "12:46",
+            "time": "13:33",
             "tag": "MERCADO",
-            "text": "Mitsubishi UFJ Asset Management Co. Ltd. Has $257.28 Million Position in Analog Devices, Inc. $ADI"
+            "text": "TD Asset Management Inc Reduces Holdings in Analog Devices, Inc. $ADI"
         },
         {
-            "time": "12:42",
-            "tag": "AI",
-            "text": "What CSX (CSX)'s AI-Ready Cloud Data Overhaul Means For Shareholders"
-        },
-        {
-            "time": "12:31",
+            "time": "13:33",
             "tag": "MERCADO",
-            "text": "Anterix Deepens Collaboration with Qualcomm to Accelerate Utility Grid Connectivity"
+            "text": "Waratah Capital Advisors Ltd. Acquires Shares of 3,135 Teradyne, Inc. $TER"
+        },
+        {
+            "time": "13:30",
+            "tag": "MERCADO",
+            "text": "Thermo Fisher Scientific Introduces New Laboratory Developed Test to Help Transplant Patients Receive the Right Dose of Critical Anti-Rejection Medication Sooner"
+        },
+        {
+            "time": "13:21",
+            "tag": "MERCADO",
+            "text": "Oracle Red Bull Racing Extends Title Partnership with Oracle in Multi-Year Deal to Power a New Era of Data-Driven Performance"
         }
     ]
 }
