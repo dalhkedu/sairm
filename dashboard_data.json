@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-26 05:59 UTC",
+        "last_updated": "2026-02-26 07:12 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 195.56,
-            "change": "+1.1%"
+            "change": "+1.99%"
         },
         {
             "symbol": "AMD",
             "price": 210.86,
-            "change": "-0.04%"
+            "change": "+1.0%"
         },
         {
             "symbol": "MSFT",
             "price": 400.6,
-            "change": "-3.22%"
+            "change": "+1.15%"
         },
         {
             "symbol": "CEG",
-            "price": NaN,
-            "change": "-3.1%"
+            "price": 325.84,
+            "change": "-3.33%"
         },
         {
             "symbol": "VST",
             "price": 175.36,
-            "change": "-2.49%"
+            "change": "+3.17%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.52,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.49,
+            0.49,
             0.49,
             0.5,
             0.5,
             0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            24.68,
-            24.39,
-            24.52,
-            24.4,
-            24.68,
-            24.62,
-            25.01,
-            25.31,
-            25.75,
-            25.44,
-            25.04,
-            25.38
+            22.96,
+            22.95,
+            23.06,
+            23.47,
+            23.82,
+            23.78,
+            24.21,
+            23.88,
+            24.3,
+            24.67,
+            24.55,
+            24.85
         ],
         "hsd_history_software": [
-            10.52,
-            10.52,
-            10.56,
-            10.55,
-            10.63,
-            10.48,
-            10.3,
-            10.13,
-            9.99,
-            10.19,
-            10.24,
-            10.07
+            9.92,
+            9.89,
+            10.08,
+            10.18,
+            10.04,
+            10.03,
+            9.97,
+            9.8,
+            9.63,
+            9.46,
+            9.64,
+            9.8
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:31",
-            "tag": "RESULTADOS",
-            "text": "Alphabet (GOOGL) Stock Steady Near $311 as AI Investments Surge Post-Q4 2025 Earnings Beat"
-        },
-        {
-            "time": "05:04",
-            "tag": "AI",
-            "text": "How Rekor's AI Technology Is Transforming Electric Vehicle Infrastructure Planning in Phoenix"
-        },
-        {
-            "time": "05:03",
+            "time": "06:37",
             "tag": "MERCADO",
-            "text": "Unusual Machines Stock In Spotlight After Orders From Red Cat Holdings: Retail Cheers The Deal"
+            "text": "Assessing Skyworks Solutions (SWKS) Valuation After Mixed Share Price Performance And Undervalued Narrative"
         },
         {
-            "time": "04:51",
+            "time": "06:25",
             "tag": "MERCADO",
-            "text": "Teradyne (TER) Price Target Increased by 27.38% to 308.37"
+            "text": "Arista Networks Stock Surged 50%, Here\u2019s Why"
         },
         {
-            "time": "04:11",
+            "time": "06:05",
             "tag": "MERCADO",
-            "text": "Trimble Inc.: The Quiet Tech Powerhouse Traders Are Suddenly Watching"
+            "text": "Would You Still Hold ServiceNow Stock If It Fell Another 30%?"
+        },
+        {
+            "time": "06:02",
+            "tag": "MERCADO",
+            "text": "With Intuit Stock Sliding, Have You Assessed The Risk?"
+        },
+        {
+            "time": "05:53",
+            "tag": "MERCADO",
+            "text": "Tigo Energy to Showcase New Software at 2026 Energy Transition Expo"
         }
     ]
 }
