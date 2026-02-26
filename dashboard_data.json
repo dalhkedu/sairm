@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-26 04:53 UTC",
+        "last_updated": "2026-02-26 05:59 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 195.56,
-            "change": "-0.85%"
+            "change": "+1.1%"
         },
         {
             "symbol": "AMD",
             "price": 210.86,
-            "change": "-1.47%"
+            "change": "-0.04%"
         },
         {
             "symbol": "MSFT",
             "price": 400.6,
-            "change": "-2.94%"
+            "change": "-3.22%"
         },
         {
             "symbol": "CEG",
-            "price": 325.84,
-            "change": "+2.22%"
+            "price": NaN,
+            "change": "-3.1%"
         },
         {
             "symbol": "VST",
             "price": 175.36,
-            "change": "+1.57%"
+            "change": "-2.49%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.59,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.45,
-            0.46,
-            0.46,
-            0.47,
-            0.46,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.49,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.13,
-            25.28,
-            25.18,
-            24.93,
-            24.56,
-            25.05,
-            25.01,
-            24.79,
+            24.68,
+            24.39,
+            24.52,
+            24.4,
+            24.68,
             24.62,
-            24.82,
-            24.69,
-            25.17
+            25.01,
+            25.31,
+            25.75,
+            25.44,
+            25.04,
+            25.38
         ],
         "hsd_history_software": [
-            9.4,
-            9.55,
-            9.49,
-            9.57,
-            9.55,
-            9.56,
-            9.73,
-            9.89,
-            9.8,
-            9.84,
-            9.89,
-            9.83
+            10.52,
+            10.52,
+            10.56,
+            10.55,
+            10.63,
+            10.48,
+            10.3,
+            10.13,
+            9.99,
+            10.19,
+            10.24,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "03:05",
-            "tag": "MERCADO",
-            "text": "MIG Capital Cuts Alphabet Inc. Class C Stake"
+            "time": "05:31",
+            "tag": "RESULTADOS",
+            "text": "Alphabet (GOOGL) Stock Steady Near $311 as AI Investments Surge Post-Q4 2025 Earnings Beat"
         },
         {
-            "time": "02:51",
-            "tag": "MERCADO",
-            "text": "Why Analysts Are Closely Watching Thermo Fisher Scientific Inc. (TMO)"
-        },
-        {
-            "time": "02:49",
-            "tag": "MERCADO",
-            "text": "QT Imaging posts new investor presentation on technology"
-        },
-        {
-            "time": "02:43",
+            "time": "05:04",
             "tag": "AI",
-            "text": "Assessing Micron Technology (MU) Valuation As AI Demand Drives Fully Booked HBM Capacity And Major US Expansion Plans"
+            "text": "How Rekor's AI Technology Is Transforming Electric Vehicle Infrastructure Planning in Phoenix"
         },
         {
-            "time": "02:42",
+            "time": "05:03",
             "tag": "MERCADO",
-            "text": "A Look At Intercontinental Exchange (ICE) Valuation As Blockchain Settlement Platform Gains Attention"
+            "text": "Unusual Machines Stock In Spotlight After Orders From Red Cat Holdings: Retail Cheers The Deal"
+        },
+        {
+            "time": "04:51",
+            "tag": "MERCADO",
+            "text": "Teradyne (TER) Price Target Increased by 27.38% to 308.37"
+        },
+        {
+            "time": "04:11",
+            "tag": "MERCADO",
+            "text": "Trimble Inc.: The Quiet Tech Powerhouse Traders Are Suddenly Watching"
         }
     ]
 }
