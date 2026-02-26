@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-26 18:56 UTC",
+        "last_updated": "2026-02-26 19:46 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 185.26,
-            "change": "+0.88%"
+            "price": 185.51,
+            "change": "-1.78%"
         },
         {
             "symbol": "AMD",
-            "price": 203.19,
-            "change": "-3.08%"
+            "price": 203.83,
+            "change": "+0.47%"
         },
         {
             "symbol": "MSFT",
-            "price": 401.37,
-            "change": "+2.02%"
+            "price": 401.76,
+            "change": "+1.42%"
         },
         {
             "symbol": "CEG",
-            "price": 320.56,
-            "change": "+3.04%"
+            "price": 320.01,
+            "change": "+0.45%"
         },
         {
             "symbol": "VST",
-            "price": 173.04,
-            "change": "-0.56%"
+            "price": 174.6,
+            "change": "-1.72%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.55,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
             0.48,
             0.48,
-            0.49,
-            0.49,
+            0.48,
             0.49,
             0.49,
             0.49,
             0.5,
-            0.5,
+            0.51,
+            0.51,
+            0.52,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.01,
-            23.83,
-            24.14,
-            24.17,
-            24.03,
-            23.75,
-            23.97,
+            24.84,
+            24.53,
+            24.39,
             24.37,
-            24.47,
-            24.13,
-            24.58,
-            24.59
+            24.57,
+            24.45,
+            24.03,
+            23.99,
+            24.37,
+            24.81,
+            24.55,
+            24.57
         ],
         "hsd_history_software": [
-            9.72,
-            9.75,
-            9.74,
-            9.89,
-            10.07,
-            10.09,
+            9.84,
+            9.85,
+            9.92,
+            10.04,
+            10.16,
+            10.1,
+            9.92,
+            10.0,
             10.14,
-            10.2,
-            10.27,
-            10.24,
-            10.05,
-            9.96
+            10.03,
+            9.97,
+            10.01
         ],
         "rci_data": [
             85.0,
-            18.525999999999996
+            18.551
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:47",
+            "time": "18:49",
             "tag": "MERCADO",
-            "text": "Jefferies Sees Credit Karma Driving Potential Upside for Intuit Inc. (INTU)"
+            "text": "Wynn hit with more class-action lawsuits after data breach"
         },
         {
-            "time": "17:46",
-            "tag": "AI",
-            "text": "Gartner: How Agentic AI is Reshaping Supply Chain Roles"
-        },
-        {
-            "time": "17:37",
-            "tag": "AI",
-            "text": "ServiceNow Launches Autonomous Workforce That Think and Acts; Adds Moveworks to the ServiceNow AI Platform"
-        },
-        {
-            "time": "17:37",
-            "tag": "RESULTADOS",
-            "text": "Did Thermo Fisher\u2019s (TMO) 10% Dividend Hike After Earnings Beat Just Reframe Its Capital Return Story?"
-        },
-        {
-            "time": "17:37",
+            "time": "18:38",
             "tag": "MERCADO",
-            "text": "eBay announces workforce reduction amid business restructuring"
+            "text": "Here\u2019s Why Verizon Stock Could Hit $70 After Closing Its $20 Billion Frontier Deal"
+        },
+        {
+            "time": "18:19",
+            "tag": "MERCADO",
+            "text": "eBay layoffs today: 6% of jobs cut days after buying Depop from Etsy"
+        },
+        {
+            "time": "18:15",
+            "tag": "MERCADO",
+            "text": "BMO Capital Markets Has Lowered Expectations for CoStar Group (NASDAQ:CSGP) Stock Price"
+        },
+        {
+            "time": "18:14",
+            "tag": "MERCADO",
+            "text": "Reasons Why You Should Hold ADP Stock in Your Portfolio for Now"
         }
     ]
 }
