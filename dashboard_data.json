@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-25 23:30 UTC",
+        "last_updated": "2026-02-26 02:25 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 195.56,
-            "change": "+1.23%"
+            "change": "+1.42%"
         },
         {
             "symbol": "AMD",
             "price": 210.86,
-            "change": "+1.49%"
+            "change": "+0.39%"
         },
         {
             "symbol": "MSFT",
             "price": 400.6,
-            "change": "+1.04%"
+            "change": "-2.25%"
         },
         {
             "symbol": "CEG",
             "price": 325.84,
-            "change": "+3.19%"
+            "change": "+1.29%"
         },
         {
             "symbol": "VST",
             "price": 175.36,
-            "change": "-2.38%"
+            "change": "+1.32%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.54,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
             0.49,
-            0.48,
-            0.48,
-            0.47,
-            0.48,
-            0.48,
             0.49,
             0.49,
-            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
             0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            24.64,
-            24.82,
-            25.12,
-            24.68,
-            24.53,
-            24.4,
-            24.31,
-            24.11,
-            24.36,
-            24.57,
-            24.2,
-            24.64
+            23.67,
+            23.66,
+            23.66,
+            23.6,
+            23.79,
+            23.64,
+            23.46,
+            23.87,
+            24.18,
+            24.5,
+            24.22,
+            24.59
         ],
         "hsd_history_software": [
-            10.05,
-            10.08,
-            10.17,
-            10.1,
-            10.24,
-            10.16,
-            10.0,
-            10.06,
-            9.91,
-            10.11,
-            10.08,
-            9.96
+            9.65,
+            9.66,
+            9.76,
+            9.81,
+            9.94,
+            10.14,
+            10.18,
+            10.3,
+            10.28,
+            10.12,
+            10.12,
+            10.0
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:48",
+            "time": "01:52",
             "tag": "MERCADO",
-            "text": "Lattice Ties FPGAs To Post Quantum Security As Valuation Stays Stretched"
+            "text": "Pacific Gas and Electric Company Launches Online Tool to Help Customers Evaluate Electrification Costs"
         },
         {
-            "time": "22:40",
+            "time": "01:46",
             "tag": "MERCADO",
-            "text": "Andrew Teed Buys 1,600 Shares of Tyler Technologies (NYSE:TYL) Stock"
+            "text": "Synopsys forecasts muted quarter on China export restrictions, shares fall"
         },
         {
-            "time": "22:39",
-            "tag": "MERCADO",
-            "text": "Magnite (NASDAQ:MGNI) Misses Q4 CY2025 Revenue Estimates"
+            "time": "01:42",
+            "tag": "RESULTADOS",
+            "text": "How Investors Are Reacting To Fortinet (FTNT) Margin Concerns After a Strong Earnings Beat"
         },
         {
-            "time": "22:28",
-            "tag": "MERCADO",
-            "text": "ServiceNow (NYSE:NOW) Stock Price Up 1.7% - Here's What Happened"
+            "time": "01:29",
+            "tag": "RESULTADOS",
+            "text": "Axon Enterprise Inc (AXON) Q4 2025 Earnings Call Highlights: Record Bookings and Strategic Growth Amid Challenges"
         },
         {
-            "time": "22:21",
+            "time": "01:10",
             "tag": "MERCADO",
-            "text": "GOOG stock slips after hours as Google tests EU search changes, fine risk in focus"
+            "text": "Crown Castle Declares Quarterly Common Stock Dividend"
         }
     ]
 }
