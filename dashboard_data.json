@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-26 21:35 UTC",
+        "last_updated": "2026-02-26 22:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 184.89,
-            "change": "+1.21%"
+            "change": "-0.35%"
         },
         {
             "symbol": "AMD",
             "price": 203.68,
-            "change": "+3.4%"
+            "change": "-0.18%"
         },
         {
             "symbol": "MSFT",
             "price": 401.72,
-            "change": "+1.17%"
+            "change": "-3.48%"
         },
         {
             "symbol": "CEG",
             "price": 323.56,
-            "change": "+2.34%"
+            "change": "+1.43%"
         },
         {
             "symbol": "VST",
             "price": 176.82,
-            "change": "-1.28%"
+            "change": "+2.89%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.59,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.49,
+            0.48,
             0.49,
             0.5,
-            0.49,
             0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.51,
-            0.52,
-            0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            25.63,
-            25.88,
-            25.98,
-            25.98,
-            25.75,
-            25.4,
-            25.85,
-            25.93,
-            25.65,
-            25.48,
-            25.4,
-            25.15
+            23.81,
+            24.07,
+            24.27,
+            24.6,
+            24.57,
+            24.82,
+            25.32,
+            25.69,
+            25.49,
+            25.28,
+            24.86,
+            24.95
         ],
         "hsd_history_software": [
-            10.46,
-            10.26,
-            10.37,
-            10.41,
-            10.24,
-            10.06,
-            10.13,
-            10.32,
-            10.18,
-            10.2,
-            10.06,
-            10.1
+            9.88,
+            9.96,
+            10.0,
+            10.01,
+            10.02,
+            9.94,
+            9.83,
+            9.98,
+            9.79,
+            9.73,
+            9.67,
+            9.84
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:38",
+            "time": "21:51",
             "tag": "MERCADO",
-            "text": "Itron SVP Hooper sells $91k in common stock"
+            "text": "JinkoSolar Achieves Rcord-Breaking 26.66% Efficiency for TOPCon Solar Cell Based on M10-size Wafer"
         },
         {
-            "time": "20:30",
+            "time": "21:51",
             "tag": "MERCADO",
-            "text": "Veeva Systems, Upstart, Paycom, Commvault, and Agilysys Shares Skyrocket, What You Need To Know"
+            "text": "Embraer unveils next-gen Praetor bizjets"
         },
         {
-            "time": "20:29",
+            "time": "21:50",
             "tag": "MERCADO",
-            "text": "Why Are IMAX (IMAX) Shares Soaring Today"
+            "text": "Jefferies Sees Credit Karma Driving Potential Upside for Intuit Inc. (INTU)"
         },
         {
-            "time": "20:20",
+            "time": "21:35",
             "tag": "MERCADO",
-            "text": "Monolithic Power Systems and Photronics Stocks Trade Down, What You Need To Know"
+            "text": "Honeywell Methanol-to-Jet Selected for European e-SAF plants"
         },
         {
-            "time": "20:13",
+            "time": "21:35",
             "tag": "MERCADO",
-            "text": "Applied Materials, Broadcom, Lam Research, Western Digital, and Allegro MicroSystems Shares Are Falling, What You Need To Know"
+            "text": "SBA Communications Corporation Reports Fourth Quarter 2025 Results"
         }
     ]
 }
