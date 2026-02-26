@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-26 19:46 UTC",
+        "last_updated": "2026-02-26 20:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 185.51,
-            "change": "-1.78%"
+            "price": 184.9,
+            "change": "+3.38%"
         },
         {
             "symbol": "AMD",
-            "price": 203.83,
-            "change": "+0.47%"
+            "price": 203.35,
+            "change": "-0.93%"
         },
         {
             "symbol": "MSFT",
-            "price": 401.76,
-            "change": "+1.42%"
+            "price": 401.51,
+            "change": "-2.28%"
         },
         {
             "symbol": "CEG",
-            "price": 320.01,
-            "change": "+0.45%"
+            "price": 322.77,
+            "change": "+0.47%"
         },
         {
             "symbol": "VST",
-            "price": 174.6,
-            "change": "-1.72%"
+            "price": 176.07,
+            "change": "+3.47%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
-        "rci_current": 0.19,
+        "cer_current": 0.6,
+        "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
+            0.51,
             0.51,
             0.51,
             0.52,
             0.51,
-            0.5
+            0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.84,
-            24.53,
-            24.39,
-            24.37,
-            24.57,
-            24.45,
-            24.03,
-            23.99,
-            24.37,
-            24.81,
-            24.55,
-            24.57
+            25.45,
+            25.28,
+            24.82,
+            24.8,
+            24.79,
+            24.9,
+            25.04,
+            25.11,
+            25.1,
+            24.73,
+            25.14,
+            25.3
         ],
         "hsd_history_software": [
-            9.84,
-            9.85,
-            9.92,
-            10.04,
-            10.16,
-            10.1,
-            9.92,
-            10.0,
-            10.14,
-            10.03,
-            9.97,
-            10.01
+            10.32,
+            10.49,
+            10.3,
+            10.36,
+            10.31,
+            10.39,
+            10.24,
+            10.27,
+            10.15,
+            10.2,
+            10.26,
+            10.19
         ],
         "rci_data": [
             85.0,
-            18.551
+            18.490000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:49",
+            "time": "19:17",
             "tag": "MERCADO",
-            "text": "Wynn hit with more class-action lawsuits after data breach"
+            "text": "eBay cuts 800 jobs after spending $1.2B to acquire fashion resale platform"
         },
         {
-            "time": "18:38",
+            "time": "19:16",
             "tag": "MERCADO",
-            "text": "Here\u2019s Why Verizon Stock Could Hit $70 After Closing Its $20 Billion Frontier Deal"
+            "text": "Equinix and CPPIB near $4 billion deal for data center firm Atnorth - Bloomberg News"
         },
         {
-            "time": "18:19",
+            "time": "19:08",
             "tag": "MERCADO",
-            "text": "eBay layoffs today: 6% of jobs cut days after buying Depop from Etsy"
+            "text": "Bay Area tech giant eBay to lay off 800 workers"
         },
         {
-            "time": "18:15",
-            "tag": "MERCADO",
-            "text": "BMO Capital Markets Has Lowered Expectations for CoStar Group (NASDAQ:CSGP) Stock Price"
+            "time": "19:07",
+            "tag": "AI",
+            "text": "Apple vs. Adobe: Which AI-Driven Tech Stock Has an Edge Now?"
         },
         {
-            "time": "18:14",
+            "time": "19:06",
             "tag": "MERCADO",
-            "text": "Reasons Why You Should Hold ADP Stock in Your Portfolio for Now"
+            "text": "CSX raises quarterly dividend 8% to $0.14 per share"
         }
     ]
 }
