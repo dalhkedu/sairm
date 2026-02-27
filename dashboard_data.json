@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-27 21:32 UTC",
+        "last_updated": "2026-02-27 22:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.19,
-            "change": "+0.13%"
+            "change": "-3.32%"
         },
         {
             "symbol": "AMD",
             "price": 200.21,
-            "change": "-0.22%"
+            "change": "-3.15%"
         },
         {
             "symbol": "MSFT",
             "price": 392.74,
-            "change": "+0.37%"
+            "change": "-1.07%"
         },
         {
             "symbol": "CEG",
             "price": 329.88,
-            "change": "-0.82%"
+            "change": "-0.18%"
         },
         {
             "symbol": "VST",
             "price": 173.89,
-            "change": "+2.22%"
+            "change": "-2.23%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.61,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.5,
-            26.01,
-            26.38,
-            26.83,
-            26.62,
-            26.45,
-            26.42,
-            26.06,
-            25.57,
-            25.46,
-            25.22,
-            24.97
+            23.87,
+            24.1,
+            24.34,
+            24.39,
+            24.87,
+            24.59,
+            24.11,
+            24.35,
+            24.77,
+            25.12,
+            25.49,
+            25.05
         ],
         "hsd_history_software": [
-            9.92,
-            10.1,
-            10.12,
-            9.99,
-            10.15,
-            10.3,
-            10.39,
-            10.3,
-            10.1,
-            10.01,
-            10.05,
-            10.15
+            10.71,
+            10.5,
+            10.37,
+            10.2,
+            10.11,
+            10.0,
+            9.95,
+            9.9,
+            9.93,
+            9.8,
+            9.76,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:49",
+            "time": "21:52",
             "tag": "MERCADO",
-            "text": "Think Surgical announces first TMINI robot cases with Stryker knee implant"
+            "text": "IYW Top Holdings List & Exposure (iShares U.S. Technology ETF)"
         },
         {
-            "time": "20:44",
+            "time": "21:47",
             "tag": "MERCADO",
-            "text": "Rockwell Automation Is Up 15% in 6 Months. Here\u2019s Where Shares Could Head in 2026"
+            "text": "IQVIA Releases its 2025 Sustainability Report"
         },
         {
-            "time": "20:42",
-            "tag": "MERCADO",
-            "text": "Verisk And S&P Climate Data Tie Up Reshapes Risk And Capital Story"
+            "time": "21:40",
+            "tag": "AI",
+            "text": "Should Labcorp\u2019s AI Pathology Push and Buybacks Recast the Long-Term Story for Labcorp (LH) Investors?"
         },
         {
-            "time": "20:42",
+            "time": "21:37",
             "tag": "MERCADO",
-            "text": "Texas Instruments Acquisition Of Silicon Labs Raises Connectivity And Valuation Questions"
+            "text": "Security hole could let hackers take over Juniper Networks PTX core routers"
         },
         {
-            "time": "20:31",
-            "tag": "MERCADO",
-            "text": "Teledyne and M Subs join forces on underwater robots for Royal Navy"
+            "time": "21:31",
+            "tag": "AI",
+            "text": "Jeffs\u2019 Brands Trims Fort Technology Stake and Resets Warrants as KeepZone AI Expands Security Push"
         }
     ]
 }
