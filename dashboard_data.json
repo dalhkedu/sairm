@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-27 05:54 UTC",
+        "last_updated": "2026-02-27 06:59 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 184.89,
-            "change": "-3.25%"
+            "change": "+2.57%"
         },
         {
             "symbol": "AMD",
             "price": 203.68,
-            "change": "-2.45%"
+            "change": "+2.52%"
         },
         {
             "symbol": "MSFT",
             "price": 401.72,
-            "change": "-2.14%"
+            "change": "+2.85%"
         },
         {
             "symbol": "CEG",
             "price": 323.56,
-            "change": "+0.49%"
+            "change": "+1.91%"
         },
         {
             "symbol": "VST",
             "price": 176.82,
-            "change": "+1.57%"
+            "change": "+1.7%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.7,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.54,
-            0.54,
-            0.53,
+            0.51,
+            0.52,
+            0.52,
             0.53,
             0.52,
             0.51,
             0.51,
             0.51,
             0.5,
+            0.5,
             0.49,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            24.42,
-            24.25,
-            24.22,
-            24.58,
-            24.74,
-            25.0,
-            25.17,
-            25.35,
+            23.89,
+            24.19,
+            24.17,
+            24.12,
+            24.44,
+            24.05,
+            23.85,
+            24.14,
+            24.54,
+            24.84,
             25.15,
-            24.93,
-            24.89,
-            25.05
+            25.4
         ],
         "hsd_history_software": [
-            10.38,
-            10.26,
-            10.12,
-            10.21,
-            10.19,
-            10.25,
-            10.3,
-            10.28,
-            10.09,
-            10.08,
-            10.03,
-            9.84
+            9.53,
+            9.35,
+            9.42,
+            9.43,
+            9.58,
+            9.68,
+            9.73,
+            9.92,
+            9.96,
+            9.8,
+            9.81,
+            9.98
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:27",
-            "tag": "AI",
-            "text": "Broadridge Study: Financial Institutions Shift GenAI From Pilot Programs to Scaled Deployment"
-        },
-        {
-            "time": "04:09",
+            "time": "05:46",
             "tag": "MERCADO",
-            "text": "RBC Capital Raises its Price Target on Global Payments Inc. (GPN) to $97 and Maintains a Sector Perform Rating"
+            "text": "Here's What Analysts Are Saying About Expedia Group (EXPE)"
         },
         {
-            "time": "04:09",
+            "time": "05:29",
             "tag": "MERCADO",
-            "text": "Iowa attorney general suing General Motors over data privacy concerns"
+            "text": "SkyWater Technology (SKYT) Q4 Loss Challenges Bullish Narrative After Q3 EPS Surge"
         },
         {
-            "time": "04:00",
+            "time": "05:21",
             "tag": "RESULTADOS",
-            "text": "Intuit Inc (NASDAQ:INTU) Shares Dip Despite Strong Q2 Earnings Beat"
+            "text": "Is IQVIA Holdings Inc. (IQV) a Buy Post Earnings?"
         },
         {
-            "time": "03:54",
-            "tag": "MERCADO",
-            "text": "IonQ Crushes Q4 Estimates\u2014 Rigetti, Quantum Computing On Deck"
+            "time": "05:18",
+            "tag": "RESULTADOS",
+            "text": "Here's What Analysts Think About Thermo Fisher Scientific (TMO) Post Earnings"
+        },
+        {
+            "time": "05:14",
+            "tag": "RESULTADOS",
+            "text": "Wedbush Cautious on Best Buy (BBY) Ahead of Q4 Earnings"
         }
     ]
 }
