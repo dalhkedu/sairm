@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-27 15:40 UTC",
+        "last_updated": "2026-02-27 16:44 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 181.84,
-            "change": "+1.81%"
+            "price": 180.24,
+            "change": "+2.27%"
         },
         {
             "symbol": "AMD",
-            "price": 200.37,
-            "change": "+3.5%"
+            "price": 199.63,
+            "change": "+1.73%"
         },
         {
             "symbol": "MSFT",
-            "price": 395.14,
-            "change": "-2.38%"
+            "price": 394.14,
+            "change": "+2.04%"
         },
         {
             "symbol": "CEG",
-            "price": 326.6,
-            "change": "+3.47%"
+            "price": 328.31,
+            "change": "+1.58%"
         },
         {
             "symbol": "VST",
-            "price": 173.86,
-            "change": "-1.46%"
+            "price": 173.71,
+            "change": "+1.7%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.41,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
             0.5,
             0.49,
-            0.49,
-            0.49,
-            0.49
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.15,
-            24.54,
-            24.94,
-            24.97,
             24.98,
-            25.19,
-            24.97,
-            25.39,
-            25.66,
-            25.43,
-            25.05,
-            24.61
+            24.86,
+            24.44,
+            24.91,
+            24.8,
+            25.26,
+            24.93,
+            24.58,
+            24.91,
+            24.58,
+            25.08,
+            25.19
         ],
         "hsd_history_software": [
-            10.51,
-            10.42,
-            10.54,
-            10.65,
-            10.53,
-            10.68,
-            10.54,
-            10.36,
-            10.19,
+            9.88,
             10.05,
-            9.97,
-            9.8
+            10.03,
+            10.12,
+            10.07,
+            10.0,
+            10.02,
+            9.95,
+            9.94,
+            10.08,
+            10.04,
+            9.99
         ],
         "rci_data": [
             85.0,
-            18.184
+            18.024
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:30",
-            "tag": "MERCADO",
-            "text": "CPP Investments and Equinix buying data centre company atNorth"
-        },
-        {
-            "time": "14:24",
+            "time": "15:49",
             "tag": "AI",
-            "text": "HP Inc. Stock Consolidates After a 1-Year Pullback: Why AI PCs Secure a $31 Target"
+            "text": "Gartner: Will AI Transform Entry-Level Supply Chain Jobs?"
         },
         {
-            "time": "14:20",
+            "time": "15:49",
             "tag": "MERCADO",
-            "text": "Albertsons adds McDonald\u2019s CIO Brian Rice to board"
+            "text": "American Tower secures zoning permission for two Edge data center sites"
         },
         {
-            "time": "14:13",
+            "time": "15:42",
+            "tag": "MERCADO",
+            "text": "CarMax Launches First-of-Its-Kind Car Shopping and Selling Experience in ChatGPT App Store"
+        },
+        {
+            "time": "15:38",
+            "tag": "MERCADO",
+            "text": "Motorola Solutions Is Up 23% YTD. Here\u2019s How Much Higher the Stock Could Go"
+        },
+        {
+            "time": "15:35",
             "tag": "AI",
-            "text": "Amazon Bets $50 Billion On OpenAI In Landmark AI Partnership"
-        },
-        {
-            "time": "14:12",
-            "tag": "MERCADO",
-            "text": "Shares in Dell soar on record Q4 numbers"
+            "text": "Shop for a used car inside ChatGPT: CarMax brings 45,000 listings to AI"
         }
     ]
 }
