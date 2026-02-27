@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-27 07:51 UTC",
+        "last_updated": "2026-02-27 08:47 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 184.89,
-            "change": "+1.04%"
+            "change": "+0.85%"
         },
         {
             "symbol": "AMD",
             "price": 203.68,
-            "change": "+3.19%"
+            "change": "-0.5%"
         },
         {
             "symbol": "MSFT",
             "price": 401.72,
-            "change": "-3.13%"
+            "change": "-2.42%"
         },
         {
             "symbol": "CEG",
             "price": 323.56,
-            "change": "+0.9%"
+            "change": "-1.45%"
         },
         {
             "symbol": "VST",
             "price": 176.82,
-            "change": "-0.09%"
+            "change": "+1.72%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.66,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.48,
+            0.5,
+            0.5,
             0.49,
             0.49,
+            0.5,
             0.49,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            23.37,
-            23.75,
-            23.75,
-            23.98,
-            24.29,
-            24.49,
-            24.9,
-            24.75,
-            24.74,
-            24.83,
-            25.04,
-            24.58
+            24.92,
+            25.03,
+            24.98,
+            24.56,
+            24.93,
+            24.91,
+            25.32,
+            25.53,
+            25.22,
+            24.82,
+            25.31,
+            25.22
         ],
         "hsd_history_software": [
-            10.04,
-            9.95,
-            10.01,
-            9.98,
-            9.97,
-            9.85,
-            9.99,
-            9.83,
-            9.8,
-            9.83,
-            9.89,
-            9.98
+            8.71,
+            8.82,
+            8.96,
+            9.05,
+            9.23,
+            9.39,
+            9.49,
+            9.54,
+            9.7,
+            9.69,
+            9.82,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,9 @@
     ],
     "news_feed": [
         {
-            "time": "06:53",
-            "tag": "MERCADO",
-            "text": "Tencent Music (TME): Quiet Rally, Big Cash, and a US Investor Twist"
-        },
-        {
-            "time": "06:45",
-            "tag": "MERCADO",
-            "text": "Paycom Software, Inc. (NYSE:PAYC) Given Consensus Recommendation of \"Hold\" by Brokerages"
-        },
-        {
-            "time": "06:34",
-            "tag": "AI",
-            "text": "Pre-Market: SYNA Synaptics Incorporated (NASDAQ) $81.48 on 27 Feb 2026: AI demand will shape next targets"
-        },
-        {
-            "time": "06:33",
-            "tag": "MERCADO",
-            "text": "Reasons Why You Should Hold ADP Stock in Your Portfolio for Now"
-        },
-        {
-            "time": "05:55",
-            "tag": "MERCADO",
-            "text": "Cantor Fitzgerald Raises Global Payments (GPN) Price Target, Says Q4 Cleared Key Overhang"
+            "time": "INFO",
+            "tag": "LIMIT",
+            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
         }
     ]
 }
