@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-27 16:44 UTC",
+        "last_updated": "2026-02-27 17:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 180.24,
-            "change": "+2.27%"
+            "price": 179.9,
+            "change": "-2.9%"
         },
         {
             "symbol": "AMD",
-            "price": 199.63,
-            "change": "+1.73%"
+            "price": 199.55,
+            "change": "-1.73%"
         },
         {
             "symbol": "MSFT",
-            "price": 394.14,
-            "change": "+2.04%"
+            "price": 395.1,
+            "change": "+0.41%"
         },
         {
             "symbol": "CEG",
-            "price": 328.31,
-            "change": "+1.58%"
+            "price": 326.34,
+            "change": "+1.36%"
         },
         {
             "symbol": "VST",
-            "price": 173.71,
-            "change": "+1.7%"
+            "price": 172.61,
+            "change": "-2.7%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.61,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
+            0.52,
+            0.53,
             0.52,
             0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
             0.5,
             0.49,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            24.98,
-            24.86,
-            24.44,
-            24.91,
-            24.8,
-            25.26,
-            24.93,
-            24.58,
-            24.91,
-            24.58,
-            25.08,
-            25.19
+            23.82,
+            24.3,
+            24.62,
+            24.43,
+            24.09,
+            23.85,
+            23.67,
+            23.78,
+            24.09,
+            24.4,
+            24.57,
+            25.03
         ],
         "hsd_history_software": [
-            9.88,
-            10.05,
-            10.03,
-            10.12,
-            10.07,
-            10.0,
-            10.02,
-            9.95,
-            9.94,
-            10.08,
-            10.04,
-            9.99
+            9.35,
+            9.44,
+            9.31,
+            9.38,
+            9.23,
+            9.35,
+            9.47,
+            9.64,
+            9.81,
+            9.96,
+            9.96,
+            9.92
         ],
         "rci_data": [
             85.0,
-            18.024
+            17.990000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:49",
+            "time": "17:30",
+            "tag": "MERCADO",
+            "text": "Further weakness as Rapid7 (NASDAQ:RPD) drops 5.0% this week, taking three-year losses to 29%"
+        },
+        {
+            "time": "16:49",
+            "tag": "MERCADO",
+            "text": "A Look At Fair Isaac (FICO) Valuation As New Mortgage Score Simulator Draws Attention"
+        },
+        {
+            "time": "16:49",
             "tag": "AI",
-            "text": "Gartner: Will AI Transform Entry-Level Supply Chain Jobs?"
+            "text": "Applied Materials Highlights Supplier Awards As AI Demand And Valuation Scrutinized"
         },
         {
-            "time": "15:49",
+            "time": "16:49",
             "tag": "MERCADO",
-            "text": "American Tower secures zoning permission for two Edge data center sites"
+            "text": "Reassessing Arista Networks (ANET) After Strong Multi Year Gains And Recent Pullback"
         },
         {
-            "time": "15:42",
+            "time": "16:33",
             "tag": "MERCADO",
-            "text": "CarMax Launches First-of-Its-Kind Car Shopping and Selling Experience in ChatGPT App Store"
-        },
-        {
-            "time": "15:38",
-            "tag": "MERCADO",
-            "text": "Motorola Solutions Is Up 23% YTD. Here\u2019s How Much Higher the Stock Could Go"
-        },
-        {
-            "time": "15:35",
-            "tag": "AI",
-            "text": "Shop for a used car inside ChatGPT: CarMax brings 45,000 listings to AI"
+            "text": "CarMax (KMX) Integrates Car Shopping in ChatGPT App Store"
         }
     ]
 }
