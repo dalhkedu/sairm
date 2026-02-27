@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-27 02:24 UTC",
+        "last_updated": "2026-02-27 04:47 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 184.89,
-            "change": "-1.1%"
+            "change": "-0.62%"
         },
         {
             "symbol": "AMD",
             "price": 203.68,
-            "change": "-2.34%"
+            "change": "-3.08%"
         },
         {
             "symbol": "MSFT",
             "price": 401.72,
-            "change": "-2.51%"
+            "change": "+1.56%"
         },
         {
             "symbol": "CEG",
             "price": 323.56,
-            "change": "-0.71%"
+            "change": "+1.91%"
         },
         {
             "symbol": "VST",
             "price": 176.82,
-            "change": "-2.46%"
+            "change": "-0.99%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.53,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.48,
             0.49,
-            0.48,
-            0.48,
             0.49,
             0.49,
             0.49,
             0.5,
             0.49,
             0.49,
+            0.5,
+            0.5,
             0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            25.19,
-            24.91,
-            24.75,
-            24.71,
-            24.53,
-            24.99,
-            24.68,
-            24.58,
-            24.59,
-            24.86,
-            24.55,
-            24.94
+            24.51,
+            24.76,
+            25.1,
+            24.83,
+            24.61,
+            24.46,
+            24.93,
+            25.28,
+            25.41,
+            25.52,
+            25.36,
+            25.36
         ],
         "hsd_history_software": [
-            9.62,
-            9.55,
-            9.5,
-            9.54,
-            9.58,
-            9.72,
-            9.7,
             9.85,
-            10.02,
-            10.21,
-            10.26,
-            10.19
+            9.76,
+            9.69,
+            9.82,
+            9.98,
+            9.98,
+            9.98,
+            9.86,
+            9.72,
+            9.85,
+            9.94,
+            10.08
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:52",
+            "time": "03:54",
             "tag": "MERCADO",
-            "text": "OPEN - Opendoor Technologies Inc Latest Stock News & Market Updates"
+            "text": "IonQ Crushes Q4 Estimates\u2014 Rigetti, Quantum Computing On Deck"
         },
         {
-            "time": "01:51",
+            "time": "03:52",
             "tag": "MERCADO",
-            "text": "NOVONIX Seeks ASX Quotation for Over 1 Million New Shares"
+            "text": "Meta Platforms CFO Li sells $35.3 million in stock By Investing.com"
         },
         {
-            "time": "01:47",
+            "time": "03:49",
+            "tag": "MERCADO",
+            "text": "Tesla Cybertruck's Ultra-Hard Cold-Rolled Steel Confirmed By Musk"
+        },
+        {
+            "time": "03:38",
             "tag": "AI",
-            "text": "Inside the secretive data centers powering the AI boom"
+            "text": "Micron Sells Out 2026 HBM4 As US$200b AI Capacity Plan Grows"
         },
         {
-            "time": "01:34",
-            "tag": "AI",
-            "text": "How Elevance Health Is \u2014 and Isn\u2019t \u2014 Using AI"
-        },
-        {
-            "time": "01:25",
+            "time": "03:36",
             "tag": "MERCADO",
-            "text": "Western Digital (WDC) Valuation Check After Strong Recent Share Price Momentum"
+            "text": "HP Q1 2026 earnings: revenue beats, but HP flags cost headwinds"
         }
     ]
 }
