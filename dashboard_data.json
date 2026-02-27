@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-27 10:41 UTC",
+        "last_updated": "2026-02-27 11:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 184.89,
-            "change": "+0.28%"
+            "change": "+0.65%"
         },
         {
             "symbol": "AMD",
             "price": 203.68,
-            "change": "+1.44%"
+            "change": "-0.78%"
         },
         {
             "symbol": "MSFT",
             "price": 401.72,
-            "change": "-0.09%"
+            "change": "-1.23%"
         },
         {
             "symbol": "CEG",
             "price": 323.56,
-            "change": "-2.13%"
+            "change": "-2.82%"
         },
         {
             "symbol": "VST",
             "price": 176.82,
-            "change": "+2.72%"
+            "change": "-0.31%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.48,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
             0.49,
             0.49,
             0.49,
-            0.5,
+            0.48,
             0.49,
+            0.48,
+            0.48,
+            0.48,
             0.49,
+            0.48,
             0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            25.73,
-            25.98,
-            25.51,
-            25.1,
-            25.03,
-            25.42,
-            25.31,
-            25.13,
+            24.68,
+            24.96,
+            24.65,
+            24.63,
             25.07,
-            24.86,
-            24.85,
-            24.95
+            25.11,
+            24.68,
+            24.68,
+            25.05,
+            25.44,
+            25.37,
+            24.9
         ],
         "hsd_history_software": [
-            9.93,
-            9.9,
-            10.06,
-            10.08,
-            10.0,
-            10.14,
-            10.22,
-            10.34,
-            10.24,
+            10.69,
+            10.7,
+            10.54,
+            10.38,
+            10.42,
+            10.35,
+            10.31,
             10.16,
-            10.1,
-            9.99
+            10.28,
+            10.32,
+            10.14,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:50",
+            "time": "10:43",
             "tag": "MERCADO",
-            "text": "Will Cloud-Native Onshape MBD Make PTC's (PTC) Platform Central to the Product Data Workflow Narrative"
+            "text": "Magellan Asset Management Ltd Cuts Position in Alphabet Inc. $GOOG"
         },
         {
-            "time": "09:49",
+            "time": "10:42",
             "tag": "MERCADO",
-            "text": "Close Asset Management Ltd Has $199.09 Million Stake in Cadence Design Systems, Inc. $CDNS"
+            "text": "TD Asset Management Inc Sells 283,079 Shares of Microchip Technology Incorporated $MCHP"
         },
         {
-            "time": "09:48",
+            "time": "10:22",
             "tag": "MERCADO",
-            "text": "Insider Selling: Verizon Communications (NYSE:VZ) Director Sells 200,000 Shares of Stock"
+            "text": "LAM RESEARCH CORP (NASDAQ:LRCX) Embodies the Minervini Trend Template with Strong Fundamental Momentum"
         },
         {
-            "time": "09:48",
+            "time": "10:19",
             "tag": "MERCADO",
-            "text": "DNB Asset Management AS Raises Stake in Verizon Communications Inc. $VZ"
+            "text": "JPMorgan Chase & Co. Has $47.07 Million Stock Position in Fortive Corporation $FTV"
         },
         {
-            "time": "09:43",
+            "time": "10:17",
             "tag": "MERCADO",
-            "text": "Why Applied Optoelectronics Shares Are Trading Higher By Over 20%; Here Are 20 Stocks Moving Premarket"
+            "text": "Alphabet Inc. $GOOGL Stock Position Reduced by Public Sector Pension Investment Board"
         }
     ]
 }
