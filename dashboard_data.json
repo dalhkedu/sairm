@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-27 18:50 UTC",
+        "last_updated": "2026-02-27 19:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 178.46,
-            "change": "+0.52%"
+            "price": 178.83,
+            "change": "-1.32%"
         },
         {
             "symbol": "AMD",
-            "price": 197.88,
-            "change": "-1.0%"
+            "price": 198.4,
+            "change": "+3.05%"
         },
         {
             "symbol": "MSFT",
-            "price": 393.5,
-            "change": "-1.67%"
+            "price": 393.29,
+            "change": "-1.72%"
         },
         {
             "symbol": "CEG",
-            "price": 326.36,
-            "change": "+2.75%"
+            "price": 326.17,
+            "change": "-0.29%"
         },
         {
             "symbol": "VST",
-            "price": 172.13,
-            "change": "+1.3%"
+            "price": 172.55,
+            "change": "+2.66%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.44,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.49,
-            0.5,
             0.49,
-            0.49,
-            0.49,
-            0.5,
             0.5,
             0.51,
             0.5,
             0.5,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            24.48,
-            24.77,
-            24.54,
-            24.79,
-            25.08,
-            25.16,
-            25.38,
-            25.01,
-            25.34,
-            24.98,
-            24.6,
-            24.82
+            25.69,
+            25.3,
+            25.35,
+            24.95,
+            24.69,
+            25.11,
+            25.3,
+            25.17,
+            24.72,
+            25.22,
+            24.88,
+            24.76
         ],
         "hsd_history_software": [
-            9.66,
-            9.72,
-            9.65,
-            9.81,
-            9.71,
-            9.68,
-            9.58,
-            9.72,
-            9.84,
-            9.97,
-            10.02,
-            10.2
+            10.84,
+            10.83,
+            10.67,
+            10.64,
+            10.55,
+            10.38,
+            10.48,
+            10.31,
+            10.27,
+            10.25,
+            10.1,
+            10.17
         ],
         "rci_data": [
             85.0,
-            17.846
+            17.883000000000003
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:47",
+            "time": "18:40",
             "tag": "MERCADO",
-            "text": "Is Motorola Solutions (MSI) Pricing In Too Much After Strong Multi\u2011Year Share Gains?"
+            "text": "Intuitive Hit With Patent Suit Over Robotic Surgery Devices"
         },
         {
-            "time": "17:41",
-            "tag": "MERCADO",
-            "text": "Judge Dismisses Man\u2019s Disability Discrimination Suit Against Apple"
+            "time": "18:15",
+            "tag": "AI",
+            "text": "Intact Technology Named 2026 ServiceNow U.S. Federal Partner of the Year and Worldwide AI Customer Value Partner of the Year"
         },
         {
-            "time": "17:38",
+            "time": "18:04",
             "tag": "MERCADO",
-            "text": "Next Generation Handheld Raman Analyzer"
+            "text": "SBA COMMUNICATIONS CORP SEC 10-K Report"
         },
         {
-            "time": "17:33",
+            "time": "17:58",
             "tag": "MERCADO",
-            "text": "NetApp Posts Record All-Flash Revenue Amid Soaring Memory Prices"
+            "text": "Judge Dismisses Disability Discrimination Suit Against Apple"
         },
         {
-            "time": "17:30",
-            "tag": "MERCADO",
-            "text": "Further weakness as Rapid7 (NASDAQ:RPD) drops 5.0% this week, taking three-year losses to 29%"
+            "time": "17:50",
+            "tag": "AI",
+            "text": "Goldman Sachs has stark message for investors in AI stocks"
         }
     ]
 }
