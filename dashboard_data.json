@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-02-27 17:38 UTC",
+        "last_updated": "2026-02-27 18:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 179.9,
-            "change": "-2.9%"
+            "price": 178.46,
+            "change": "+0.52%"
         },
         {
             "symbol": "AMD",
-            "price": 199.55,
-            "change": "-1.73%"
+            "price": 197.88,
+            "change": "-1.0%"
         },
         {
             "symbol": "MSFT",
-            "price": 395.1,
-            "change": "+0.41%"
+            "price": 393.5,
+            "change": "-1.67%"
         },
         {
             "symbol": "CEG",
-            "price": 326.34,
-            "change": "+1.36%"
+            "price": 326.36,
+            "change": "+2.75%"
         },
         {
             "symbol": "VST",
-            "price": 172.61,
-            "change": "-2.7%"
+            "price": 172.13,
+            "change": "+1.3%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.5,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.53,
-            0.52,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
             0.5,
             0.49,
             0.5,
-            0.49
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.82,
-            24.3,
-            24.62,
-            24.43,
-            24.09,
-            23.85,
-            23.67,
-            23.78,
-            24.09,
-            24.4,
-            24.57,
-            25.03
+            24.48,
+            24.77,
+            24.54,
+            24.79,
+            25.08,
+            25.16,
+            25.38,
+            25.01,
+            25.34,
+            24.98,
+            24.6,
+            24.82
         ],
         "hsd_history_software": [
-            9.35,
-            9.44,
-            9.31,
-            9.38,
-            9.23,
-            9.35,
-            9.47,
-            9.64,
+            9.66,
+            9.72,
+            9.65,
             9.81,
-            9.96,
-            9.96,
-            9.92
+            9.71,
+            9.68,
+            9.58,
+            9.72,
+            9.84,
+            9.97,
+            10.02,
+            10.2
         ],
         "rci_data": [
             85.0,
-            17.990000000000002
+            17.846
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "17:47",
+            "tag": "MERCADO",
+            "text": "Is Motorola Solutions (MSI) Pricing In Too Much After Strong Multi\u2011Year Share Gains?"
+        },
+        {
+            "time": "17:41",
+            "tag": "MERCADO",
+            "text": "Judge Dismisses Man\u2019s Disability Discrimination Suit Against Apple"
+        },
+        {
+            "time": "17:38",
+            "tag": "MERCADO",
+            "text": "Next Generation Handheld Raman Analyzer"
+        },
+        {
+            "time": "17:33",
+            "tag": "MERCADO",
+            "text": "NetApp Posts Record All-Flash Revenue Amid Soaring Memory Prices"
+        },
+        {
             "time": "17:30",
             "tag": "MERCADO",
             "text": "Further weakness as Rapid7 (NASDAQ:RPD) drops 5.0% this week, taking three-year losses to 29%"
-        },
-        {
-            "time": "16:49",
-            "tag": "MERCADO",
-            "text": "A Look At Fair Isaac (FICO) Valuation As New Mortgage Score Simulator Draws Attention"
-        },
-        {
-            "time": "16:49",
-            "tag": "AI",
-            "text": "Applied Materials Highlights Supplier Awards As AI Demand And Valuation Scrutinized"
-        },
-        {
-            "time": "16:49",
-            "tag": "MERCADO",
-            "text": "Reassessing Arista Networks (ANET) After Strong Multi Year Gains And Recent Pullback"
-        },
-        {
-            "time": "16:33",
-            "tag": "MERCADO",
-            "text": "CarMax (KMX) Integrates Car Shopping in ChatGPT App Store"
         }
     ]
 }
