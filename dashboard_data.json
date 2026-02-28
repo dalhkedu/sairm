@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-28 11:22 UTC",
+        "last_updated": "2026-02-28 12:52 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.19,
-            "change": "-1.84%"
+            "change": "+3.37%"
         },
         {
             "symbol": "AMD",
             "price": 200.21,
-            "change": "-1.83%"
+            "change": "-1.86%"
         },
         {
             "symbol": "MSFT",
             "price": 392.74,
-            "change": "-0.61%"
+            "change": "+1.79%"
         },
         {
             "symbol": "CEG",
             "price": 329.88,
-            "change": "-0.78%"
+            "change": "-1.0%"
         },
         {
             "symbol": "VST",
             "price": 173.89,
-            "change": "-2.28%"
+            "change": "-2.87%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.47,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.5,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
             0.5,
             0.51,
             0.51,
-            0.51
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.56,
-            23.6,
-            23.62,
-            24.03,
-            24.08,
-            24.32,
-            24.11,
-            24.32,
-            24.51,
-            24.97,
-            24.73,
-            25.18
+            25.66,
+            25.64,
+            25.4,
+            25.21,
+            25.5,
+            25.75,
+            25.53,
+            25.09,
+            24.98,
+            24.63,
+            24.88,
+            24.87
         ],
         "hsd_history_software": [
-            10.18,
+            10.1,
+            10.29,
+            10.3,
             10.22,
-            10.34,
-            10.54,
-            10.36,
-            10.32,
+            10.13,
+            10.1,
+            10.19,
+            10.08,
+            9.93,
+            10.01,
             10.15,
-            9.97,
-            10.0,
-            9.97,
-            10.0,
-            9.91
+            10.0
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:44",
+            "time": "11:38",
             "tag": "MERCADO",
-            "text": "Advanced Micro Devices, Inc. $AMD Shares Sold by Crestwood Capital Management L.P."
+            "text": "DNB Asset Management AS Sells 25,130 Shares of Cadence Design Systems, Inc. $CDNS"
         },
         {
-            "time": "09:36",
+            "time": "11:32",
             "tag": "MERCADO",
-            "text": "Aster Capital Management DIFC Ltd Sells 19,241 Shares of Applied Materials, Inc. $AMAT"
+            "text": "Integrated Advisors Network LLC Increases Holdings in Advanced Micro Devices, Inc. $AMD"
         },
         {
-            "time": "09:36",
+            "time": "11:28",
             "tag": "MERCADO",
-            "text": "Analog Devices, Inc. $ADI Position Reduced by Central Securities Corp"
+            "text": "Hohimer Wealth Management LLC Lowers Stock Position in Cisco Systems, Inc. $CSCO"
         },
         {
-            "time": "09:36",
+            "time": "11:24",
             "tag": "MERCADO",
-            "text": "Clare Market Investments LLC Has $10.35 Million Stake in Zscaler, Inc. $ZS"
+            "text": "Analog Devices, Inc. $ADI Shares Acquired by DNB Asset Management AS"
         },
         {
-            "time": "09:36",
+            "time": "11:24",
             "tag": "MERCADO",
-            "text": "Clare Market Investments LLC Invests $1.32 Million in TeraWulf Inc. $WULF"
+            "text": "Monolithic Power Systems, Inc. $MPWR Shares Acquired by DNB Asset Management AS"
         }
     ]
 }
