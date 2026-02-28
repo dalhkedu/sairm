@@ -1,41 +1,44 @@
 {
     "metadata": {
-        "last_updated": "2026-02-28 05:34 UTC",
+        "last_updated": "2026-02-28 06:42 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.19,
-            "change": "-2.16%"
+            "change": "-2.3%"
         },
         {
             "symbol": "AMD",
             "price": 200.21,
-            "change": "-0.47%"
+            "change": "-1.38%"
         },
         {
             "symbol": "MSFT",
             "price": 392.74,
-            "change": "+1.86%"
+            "change": "-1.0%"
         },
         {
             "symbol": "CEG",
             "price": 329.88,
-            "change": "-0.6%"
+            "change": "+3.43%"
         },
         {
             "symbol": "VST",
             "price": 173.89,
-            "change": "+0.62%"
+            "change": "+2.21%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.55,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.51,
+            0.51,
+            0.51,
             0.52,
             0.53,
             0.52,
@@ -43,39 +46,36 @@
             0.51,
             0.51,
             0.51,
-            0.5,
-            0.5,
             0.51,
-            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.14,
-            24.82,
-            24.95,
-            25.32,
-            24.87,
+            23.6,
+            23.98,
             24.47,
-            24.54,
-            24.68,
-            24.59,
-            24.75,
-            24.52,
-            24.8
+            24.7,
+            25.08,
+            25.18,
+            25.02,
+            25.52,
+            25.2,
+            25.06,
+            25.23,
+            25.34
         ],
         "hsd_history_software": [
-            10.23,
-            10.18,
-            10.05,
-            10.19,
-            10.34,
-            10.14,
-            10.3,
-            10.15,
-            10.14,
-            10.05,
-            9.97,
-            10.0
+            9.79,
+            9.68,
+            9.83,
+            9.64,
+            9.66,
+            9.55,
+            9.65,
+            9.5,
+            9.59,
+            9.69,
+            9.64,
+            9.8
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "04:59",
+            "tag": "AI",
+            "text": "Ulta Beauty Weighs Global Growth Inclusivity And AI Against Premium Valuation"
+        },
+        {
             "time": "04:20",
             "tag": "MERCADO",
             "text": "Oracle's Ambitious Pivot Faces Scrutiny Over Mounting Debt"
@@ -141,14 +146,9 @@
             "text": "QQA Top Holdings List & Exposure (Invesco QQQ Income Advantage ETF)"
         },
         {
-            "time": "03:25",
+            "time": "03:50",
             "tag": "MERCADO",
-            "text": "HP has created a printer that provides meaningful usability benefits and real value to the user experience"
-        },
-        {
-            "time": "02:50",
-            "tag": "MERCADO",
-            "text": "Enphase Energy, Inc. Notice of April 20, 2026 Application Deadline for Class Action Lawsuit - Contact Lewis Kahn, Esq. at Kahn Swick & Foti, LLC, Before Application Deadline"
+            "text": "J6322493 Bond Price and Chart \u2014 FINRA:J6322493"
         }
     ]
 }
