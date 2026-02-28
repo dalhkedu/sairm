@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-02-28 17:23 UTC",
+        "last_updated": "2026-02-28 18:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.19,
-            "change": "+3.38%"
+            "change": "-2.6%"
         },
         {
             "symbol": "AMD",
             "price": 200.21,
-            "change": "-1.21%"
+            "change": "-2.6%"
         },
         {
             "symbol": "MSFT",
             "price": 392.74,
-            "change": "+1.17%"
+            "change": "+0.24%"
         },
         {
             "symbol": "CEG",
             "price": 329.88,
-            "change": "+0.11%"
+            "change": "+1.05%"
         },
         {
             "symbol": "VST",
             "price": 173.89,
-            "change": "-2.85%"
+            "change": "+0.85%"
         }
     ],
     "dashboard_metrics": {
@@ -36,46 +36,46 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.5,
             0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.27,
-            25.89,
-            26.16,
-            25.8,
-            26.12,
-            25.63,
-            25.54,
-            25.25,
-            25.65,
-            25.18,
+            26.35,
+            25.92,
+            25.81,
+            25.68,
+            25.64,
+            25.56,
+            25.52,
+            25.39,
+            25.55,
             25.24,
-            25.07
+            24.85,
+            24.84
         ],
         "hsd_history_software": [
-            10.16,
-            10.02,
-            9.98,
-            10.0,
-            10.13,
-            9.96,
-            9.93,
-            10.03,
-            10.18,
-            10.09,
-            9.91,
-            10.04
+            9.24,
+            9.2,
+            9.32,
+            9.42,
+            9.36,
+            9.52,
+            9.71,
+            9.7,
+            9.81,
+            9.97,
+            10.1,
+            10.17
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:55",
+            "time": "17:52",
             "tag": "MERCADO",
-            "text": "CleanSpark, Inc.'s (NASDAQ:CLSK) 145% Jump Shows Its Popularity With Investors"
+            "text": "FDCF Stock Fund Price and Chart \u2014 NASDAQ:FDCF"
         },
         {
-            "time": "15:51",
-            "tag": "AI",
-            "text": "CXApp (Nasdaq:CXAI) - Stock Analysis"
-        },
-        {
-            "time": "15:51",
+            "time": "17:35",
             "tag": "MERCADO",
-            "text": "CV Stock Price and Chart \u2014 NASDAQ:CV"
+            "text": "Jim Cramer on Arista Networks: \"You're Getting a Terrific Quarter for Free\""
         },
         {
-            "time": "15:47",
-            "tag": "AI",
-            "text": "Colgate-Palmolive 2030 Plan Links AI Spending To Brand And Margin Goals"
+            "time": "17:30",
+            "tag": "MERCADO",
+            "text": "Jim Cramer on PayPal: \"I Think It's Not Doing That Well\""
         },
         {
-            "time": "15:22",
-            "tag": "AI",
-            "text": "Apple seen as \u2018anti-AI\u2019 safe haven, says MoffettNathanson"
+            "time": "17:23",
+            "tag": "MERCADO",
+            "text": "Nvidia Stock Gained $1.5 Trillion To Surpass The FAANGs \u2014 Apple Is Next"
+        },
+        {
+            "time": "17:22",
+            "tag": "MERCADO",
+            "text": "Elastic Shares Fall on Growth Deceleration Fears | Q4 2026 Report - News and Statistics"
         }
     ]
 }
