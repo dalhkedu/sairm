@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-28 09:30 UTC",
+        "last_updated": "2026-02-28 10:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.19,
-            "change": "-2.01%"
+            "change": "-0.9%"
         },
         {
             "symbol": "AMD",
             "price": 200.21,
-            "change": "+0.82%"
+            "change": "+2.84%"
         },
         {
             "symbol": "MSFT",
             "price": 392.74,
-            "change": "+1.1%"
+            "change": "+1.24%"
         },
         {
             "symbol": "CEG",
             "price": 329.88,
-            "change": "+1.93%"
+            "change": "+2.1%"
         },
         {
             "symbol": "VST",
             "price": 173.89,
-            "change": "+1.41%"
+            "change": "+1.36%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.57,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
+            0.47,
+            0.47,
+            0.48,
             0.49,
             0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
             0.5,
-            0.51,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            25.35,
-            25.34,
-            25.33,
-            24.91,
-            24.53,
-            24.32,
-            24.56,
-            24.68,
-            25.14,
+            25.07,
+            25.23,
+            25.16,
+            24.67,
+            24.54,
+            25.02,
+            25.03,
+            25.36,
+            25.08,
+            25.45,
             25.41,
-            25.04,
-            25.42
+            25.0
         ],
         "hsd_history_software": [
-            10.96,
-            11.12,
-            10.91,
-            10.87,
-            10.74,
-            10.85,
-            10.72,
-            10.63,
+            10.61,
+            10.56,
+            10.59,
+            10.45,
+            10.5,
+            10.53,
             10.48,
-            10.41,
-            10.34,
-            10.13
+            10.5,
+            10.33,
+            10.2,
+            10.18,
+            10.11
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:52",
+            "time": "09:44",
             "tag": "MERCADO",
-            "text": "ProShares Metaverse ETF (NYSE: VERS) - Share Price"
+            "text": "Advanced Micro Devices, Inc. $AMD Shares Sold by Crestwood Capital Management L.P."
         },
         {
-            "time": "08:45",
+            "time": "09:36",
             "tag": "MERCADO",
-            "text": "Alphabet Stock: Google Cloud Is On Fire - Reiterate Buy (NASDAQ:GOOGL)"
+            "text": "Aster Capital Management DIFC Ltd Sells 19,241 Shares of Applied Materials, Inc. $AMAT"
         },
         {
-            "time": "08:44",
+            "time": "09:36",
             "tag": "MERCADO",
-            "text": "Andra AP fonden Raises Stake in Hewlett Packard Enterprise Company $HPE"
+            "text": "Analog Devices, Inc. $ADI Position Reduced by Central Securities Corp"
         },
         {
-            "time": "08:40",
+            "time": "09:36",
             "tag": "MERCADO",
-            "text": "Apple Inc. $AAPL is Annis Gardner Whiting Capital Advisors LLC's 8th Largest Position"
+            "text": "Clare Market Investments LLC Has $10.35 Million Stake in Zscaler, Inc. $ZS"
         },
         {
-            "time": "08:40",
+            "time": "09:36",
             "tag": "MERCADO",
-            "text": "Anfield Capital Management LLC Cuts Stock Position in AT&T Inc. $T"
+            "text": "Clare Market Investments LLC Invests $1.32 Million in TeraWulf Inc. $WULF"
         }
     ]
 }
