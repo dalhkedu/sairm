@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-02-28 04:17 UTC",
+        "last_updated": "2026-02-28 05:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.19,
-            "change": "-0.8%"
+            "change": "-2.16%"
         },
         {
             "symbol": "AMD",
             "price": 200.21,
-            "change": "+3.2%"
+            "change": "-0.47%"
         },
         {
             "symbol": "MSFT",
             "price": 392.74,
-            "change": "-1.74%"
+            "change": "+1.86%"
         },
         {
             "symbol": "CEG",
             "price": 329.88,
-            "change": "+3.2%"
+            "change": "-0.6%"
         },
         {
             "symbol": "VST",
             "price": 173.89,
-            "change": "-3.3%"
+            "change": "+0.62%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.49,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.48,
-            0.49,
+            0.52,
+            0.53,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.5,
             0.5,
-            0.49,
+            0.51,
             0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
+            25.14,
+            24.82,
+            24.95,
+            25.32,
+            24.87,
             24.47,
-            24.71,
-            24.83,
+            24.54,
+            24.68,
+            24.59,
+            24.75,
             24.52,
-            24.83,
-            25.22,
-            25.07,
-            24.93,
-            24.71,
-            25.03,
-            24.83,
-            24.98
+            24.8
         ],
         "hsd_history_software": [
-            9.69,
-            9.84,
-            10.0,
-            9.92,
-            9.73,
-            9.58,
-            9.68,
-            9.83,
-            10.02,
-            10.1,
-            10.27,
-            10.15
+            10.23,
+            10.18,
+            10.05,
+            10.19,
+            10.34,
+            10.14,
+            10.3,
+            10.15,
+            10.14,
+            10.05,
+            9.97,
+            10.0
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "04:20",
+            "tag": "MERCADO",
+            "text": "Oracle's Ambitious Pivot Faces Scrutiny Over Mounting Debt"
+        },
+        {
+            "time": "04:08",
+            "tag": "MERCADO",
+            "text": "Fair Isaac (FICO) director Manolis sells $638,367 in stock"
+        },
+        {
             "time": "03:52",
             "tag": "MERCADO",
             "text": "QQA Top Holdings List & Exposure (Invesco QQQ Income Advantage ETF)"
@@ -136,19 +146,9 @@
             "text": "HP has created a printer that provides meaningful usability benefits and real value to the user experience"
         },
         {
-            "time": "02:34",
+            "time": "02:50",
             "tag": "MERCADO",
-            "text": "Uber Stock Performance & Q1 2026 Forecast Analysis | 2026 Update - News and Statistics"
-        },
-        {
-            "time": "02:09",
-            "tag": "MERCADO",
-            "text": "Insider Sell: Gagan Jain Sells Shares of Power Integrations Inc (POWI)"
-        },
-        {
-            "time": "01:52",
-            "tag": "MERCADO",
-            "text": "Ferrari NV (RACE) Sits on Strong Order Book as New Models Win Traction"
+            "text": "Enphase Energy, Inc. Notice of April 20, 2026 Application Deadline for Class Action Lawsuit - Contact Lewis Kahn, Esq. at Kahn Swick & Foti, LLC, Before Application Deadline"
         }
     ]
 }
