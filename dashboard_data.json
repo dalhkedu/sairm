@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-01 06:53 UTC",
+        "last_updated": "2026-03-01 07:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.19,
-            "change": "-0.39%"
+            "change": "+2.66%"
         },
         {
             "symbol": "AMD",
             "price": 200.21,
-            "change": "-0.24%"
+            "change": "+3.48%"
         },
         {
             "symbol": "MSFT",
             "price": 392.74,
-            "change": "-2.04%"
+            "change": "+1.37%"
         },
         {
             "symbol": "CEG",
             "price": 329.88,
-            "change": "-0.64%"
+            "change": "-0.95%"
         },
         {
             "symbol": "VST",
             "price": 173.89,
-            "change": "-1.96%"
+            "change": "+1.85%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.52,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.46,
-            0.47,
-            0.48,
+            0.49,
+            0.49,
             0.49,
             0.48,
             0.48,
-            0.47,
-            0.47,
-            0.47,
             0.48,
-            0.49
+            0.48,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.9,
-            25.96,
-            26.27,
-            26.59,
-            26.22,
-            26.15,
-            25.72,
-            25.24,
-            25.68,
-            25.63,
-            25.25,
-            24.81
+            25.07,
+            24.87,
+            24.7,
+            24.8,
+            25.04,
+            24.67,
+            25.14,
+            25.19,
+            25.23,
+            25.01,
+            24.99,
+            24.65
         ],
         "hsd_history_software": [
-            9.45,
-            9.31,
-            9.46,
-            9.58,
-            9.69,
-            9.63,
-            9.76,
-            9.59,
-            9.74,
-            9.63,
-            9.76,
-            9.93
+            9.84,
+            9.82,
+            9.83,
+            9.86,
+            9.99,
+            10.19,
+            10.09,
+            10.18,
+            10.07,
+            10.19,
+            10.09,
+            10.16
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "06:43",
+            "tag": "MERCADO",
+            "text": "Robert W. Baird Maintains Buy Rating on Broadcom Inc. (AVGO) Stock"
+        },
+        {
+            "time": "06:39",
+            "tag": "MERCADO",
+            "text": "Mizuho Raises PT on Advanced Micro Devices, Inc. (AMD) Stock"
+        },
+        {
             "time": "05:52",
             "tag": "MERCADO",
             "text": "SEMI Stock Fund Price and Chart \u2014 AMEX:SEMI"
@@ -139,16 +149,6 @@
             "time": "05:49",
             "tag": "MERCADO",
             "text": "Apple Inc. Shs Unsponsored Brazilian Depository Receipt Repr 0.05 Sh Trade Ideas \u2014 BMFBOVESPA:AAPL34"
-        },
-        {
-            "time": "05:31",
-            "tag": "RESULTADOS",
-            "text": "Emerson Electric Stock After Earnings: Quiet Move, Big Portfolio Implications"
-        },
-        {
-            "time": "04:15",
-            "tag": "MERCADO",
-            "text": "Southwest Airlines Surprises Employees With A New Ban On Controversial Wearable Device"
         }
     ]
 }
