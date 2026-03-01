@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-01 07:35 UTC",
+        "last_updated": "2026-03-01 08:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.19,
-            "change": "+2.66%"
+            "change": "-3.28%"
         },
         {
             "symbol": "AMD",
             "price": 200.21,
-            "change": "+3.48%"
+            "change": "+0.44%"
         },
         {
             "symbol": "MSFT",
             "price": 392.74,
-            "change": "+1.37%"
+            "change": "+3.23%"
         },
         {
             "symbol": "CEG",
             "price": 329.88,
-            "change": "-0.95%"
+            "change": "+1.72%"
         },
         {
             "symbol": "VST",
             "price": 173.89,
-            "change": "+1.85%"
+            "change": "+2.77%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.54,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
+            0.52,
+            0.51,
+            0.51,
             0.5,
             0.5,
-            0.5,
-            0.5
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.07,
-            24.87,
-            24.7,
-            24.8,
-            25.04,
-            24.67,
+            25.71,
+            25.79,
+            26.2,
+            26.16,
+            26.27,
+            26.61,
+            26.11,
+            25.73,
+            25.42,
             25.14,
-            25.19,
-            25.23,
-            25.01,
-            24.99,
-            24.65
+            25.16,
+            24.88
         ],
         "hsd_history_software": [
-            9.84,
-            9.82,
-            9.83,
+            9.25,
+            9.37,
+            9.47,
+            9.56,
+            9.66,
+            9.74,
             9.86,
-            9.99,
-            10.19,
-            10.09,
-            10.18,
-            10.07,
-            10.19,
-            10.09,
-            10.16
+            10.05,
+            10.0,
+            10.1,
+            10.14,
+            10.13
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:43",
+            "time": "07:53",
             "tag": "MERCADO",
-            "text": "Robert W. Baird Maintains Buy Rating on Broadcom Inc. (AVGO) Stock"
+            "text": "Assessing Trupanion (TRUP) Valuation After Profitability Return And US$1b Subscription Revenue Milestone"
         },
         {
-            "time": "06:39",
+            "time": "07:51",
             "tag": "MERCADO",
-            "text": "Mizuho Raises PT on Advanced Micro Devices, Inc. (AMD) Stock"
+            "text": "Is Bancorp's (TBBK) Fintech-Heavy Deposit Base a Differentiated Edge or a Concentration Risk?"
         },
         {
-            "time": "05:52",
+            "time": "07:45",
             "tag": "MERCADO",
-            "text": "SEMI Stock Fund Price and Chart \u2014 AMEX:SEMI"
+            "text": "How Microsoft 365 innovates under evolving regulations"
         },
         {
-            "time": "05:51",
-            "tag": "MERCADO",
-            "text": "Invesco S&P 500 Equal Weight Technology ETF ETF Price, Holdings, & News (NYSEARCA:RSPT)"
+            "time": "07:04",
+            "tag": "AI",
+            "text": "NVIDIA and Global Telecom Leaders Commit to Build 6G on Open and Secure AI-Native Platforms"
         },
         {
-            "time": "05:49",
+            "time": "07:00",
             "tag": "MERCADO",
-            "text": "Apple Inc. Shs Unsponsored Brazilian Depository Receipt Repr 0.05 Sh Trade Ideas \u2014 BMFBOVESPA:AAPL34"
+            "text": "Can Hyundai zoom past Toyota in market cap? Analysts say Altas may lead the way."
         }
     ]
 }
