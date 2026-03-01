@@ -1,18 +1,18 @@
 {
     "metadata": {
-        "last_updated": "2026-02-28 23:26 UTC",
+        "last_updated": "2026-03-01 02:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.19,
-            "change": "+0.45%"
+            "change": "-1.81%"
         },
         {
             "symbol": "AMD",
             "price": 200.21,
-            "change": "-1.94%"
+            "change": "+2.2%"
         },
         {
             "symbol": "MSFT",
@@ -22,60 +22,60 @@
         {
             "symbol": "CEG",
             "price": 329.88,
-            "change": "+1.04%"
+            "change": "+1.32%"
         },
         {
             "symbol": "VST",
             "price": 173.89,
-            "change": "+0.59%"
+            "change": "-0.65%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.57,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.49,
             0.5,
             0.5,
-            0.49,
             0.5,
-            0.49,
             0.5,
             0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.11,
-            25.04,
+            23.7,
+            23.72,
+            23.56,
+            23.72,
+            24.12,
+            24.38,
+            24.52,
+            24.72,
+            24.87,
+            24.56,
             24.66,
-            24.6,
-            24.35,
-            24.59,
-            24.36,
-            24.51,
-            24.64,
-            24.98,
-            25.15,
-            24.85
+            25.06
         ],
         "hsd_history_software": [
-            9.62,
-            9.7,
+            9.56,
+            9.49,
+            9.4,
+            9.57,
+            9.66,
+            9.65,
             9.8,
-            9.98,
-            9.81,
+            9.99,
             9.86,
-            10.02,
-            9.97,
-            10.16,
-            10.31,
-            10.25,
-            10.08
+            9.86,
+            9.75,
+            9.84
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:52",
+            "time": "01:52",
             "tag": "MERCADO",
-            "text": "Iczoom Group Inc -Class A (IZM) Stock Price, News & Analyst Forecast"
+            "text": "NVDS ETF Analysis: Dividends, Returns NASDAQ:NVDS"
         },
         {
-            "time": "21:51",
+            "time": "01:52",
             "tag": "MERCADO",
-            "text": "It\u2019s Fun to Watch Movies In Imax Corporation (IMAX), Says Jim Cramer"
+            "text": "Technical Analysis of T-Rex 2X Long NVIDIA Daily Target ETF (CBOE:NVDX)"
         },
         {
-            "time": "21:22",
+            "time": "01:43",
             "tag": "MERCADO",
-            "text": "Big Changes Are Coming To Jack In The Box In 2026"
+            "text": "Nutanix (NTNX) Profitability Run With US$103 Million Q2 Net Income Tests Bearish Narratives"
         },
         {
-            "time": "20:56",
-            "tag": "AI",
-            "text": "Oracle Red Bull Deal Puts AI Cloud Strategy In F1 Spotlight"
+            "time": "00:52",
+            "tag": "MERCADO",
+            "text": "Jim Cramer on Universal Display: \"There Is Going to Come a Time When We Should Recommend This Stock, but That Time Is Not Yet Here\""
         },
         {
-            "time": "20:46",
+            "time": "00:51",
             "tag": "MERCADO",
-            "text": "Amazon vs. Costco: Which Stock Is a Better Buy?"
+            "text": "Verisk And S&P Climate Data Deal Tests Valuation And Growth Story"
         }
     ]
 }
