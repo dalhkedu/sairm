@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-01 19:25 UTC",
+        "last_updated": "2026-03-01 20:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.19,
-            "change": "+1.7%"
+            "change": "+2.89%"
         },
         {
             "symbol": "AMD",
             "price": 200.21,
-            "change": "-3.02%"
+            "change": "+1.45%"
         },
         {
             "symbol": "MSFT",
             "price": 392.74,
-            "change": "+1.71%"
+            "change": "+2.31%"
         },
         {
             "symbol": "CEG",
             "price": 329.88,
-            "change": "+1.43%"
+            "change": "-1.97%"
         },
         {
             "symbol": "VST",
             "price": 173.89,
-            "change": "+3.19%"
+            "change": "-3.42%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.61,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.49,
-            0.48,
             0.49,
             0.5,
             0.5,
-            0.49,
-            0.49,
-            0.49,
+            0.51,
             0.5,
-            0.5
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            26.21,
-            26.26,
-            26.31,
-            25.95,
-            25.51,
-            25.5,
-            25.04,
-            24.84,
-            24.5,
+            24.61,
+            25.01,
+            25.32,
+            25.48,
+            25.33,
             24.96,
-            24.93,
-            25.05
+            24.63,
+            24.7,
+            24.44,
+            24.17,
+            24.24,
+            24.68
         ],
         "hsd_history_software": [
-            10.33,
-            10.45,
-            10.4,
-            10.2,
-            10.04,
-            9.91,
-            9.77,
-            9.91,
-            9.82,
-            9.69,
-            9.86,
-            10.04
+            9.57,
+            9.67,
+            9.61,
+            9.74,
+            9.7,
+            9.74,
+            9.87,
+            9.76,
+            9.94,
+            9.96,
+            10.08,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "19:32",
+            "tag": "MERCADO",
+            "text": "Should Honeywell\u2019s Portfolio Overhaul and Aerospace-Automation Split Require Action From Honeywell International (HON) Investors?"
+        },
+        {
+            "time": "19:32",
+            "tag": "AI",
+            "text": "Is FIS\u2019s 2026 Outlook, New Debt Issuance and AI Push Altering The Investment Case For Fidelity National Information Services (FIS)?"
+        },
+        {
+            "time": "19:32",
+            "tag": "MERCADO",
+            "text": "EPAM Faces Securities Probe As NEORIS Ramp Down Tests Investor Confidence"
+        },
+        {
             "time": "18:51",
             "tag": "MERCADO",
             "text": "Expensify (EXFY) Balance Sheet & Financial Health Metrics"
@@ -134,21 +149,6 @@
             "time": "18:45",
             "tag": "MERCADO",
             "text": "The Fab Four: The Wabtec Patents That Rocked The World"
-        },
-        {
-            "time": "18:37",
-            "tag": "MERCADO",
-            "text": "Promising Hydrogen Stocks To Watch Now - March 1st"
-        },
-        {
-            "time": "18:34",
-            "tag": "MERCADO",
-            "text": "A Look At Jack Henry And Associates (JKHY) Valuation As Fintech Partnerships And Fraud Platform Adoption Build Momentum"
-        },
-        {
-            "time": "18:34",
-            "tag": "AI",
-            "text": "Homes AI Launch Tests CoStar Group\u2019s Big Bet On Homescom"
         }
     ]
 }
