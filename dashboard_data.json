@@ -1,37 +1,37 @@
 {
     "metadata": {
-        "last_updated": "2026-03-01 11:23 UTC",
+        "last_updated": "2026-03-01 12:55 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.19,
-            "change": "-3.16%"
+            "change": "-1.03%"
         },
         {
             "symbol": "AMD",
             "price": 200.21,
-            "change": "+0.52%"
+            "change": "+0.89%"
         },
         {
             "symbol": "MSFT",
             "price": 392.74,
-            "change": "+1.95%"
+            "change": "-0.8%"
         },
         {
             "symbol": "CEG",
             "price": 329.88,
-            "change": "+3.49%"
+            "change": "-0.72%"
         },
         {
             "symbol": "VST",
             "price": 173.89,
-            "change": "+2.02%"
+            "change": "+1.15%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.56,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
@@ -39,43 +39,43 @@
             0.5,
             0.5,
             0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
+            0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            25.14,
+            25.72,
+            25.35,
             25.64,
-            25.81,
-            25.53,
-            25.2,
-            24.95,
-            25.22,
-            25.0,
-            24.57,
-            24.42,
-            24.67,
-            24.51
+            25.29,
+            25.68,
+            25.27,
+            25.58,
+            25.17,
+            25.18,
+            24.7,
+            24.36,
+            24.79
         ],
         "hsd_history_software": [
-            9.25,
-            9.13,
-            9.18,
-            9.17,
-            9.31,
-            9.35,
-            9.46,
+            9.75,
+            9.74,
             9.61,
-            9.6,
-            9.56,
+            9.63,
+            9.67,
             9.72,
-            9.91
+            9.61,
+            9.69,
+            9.84,
+            9.95,
+            10.06,
+            9.92
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:52",
+            "time": "11:36",
             "tag": "MERCADO",
-            "text": "ALAB SEC Filings - ASTERA LABS INC 10-K, 10-Q, 8-K Forms"
+            "text": "Huntington National Bank Sells 4,930 Shares of Adobe Inc. $ADBE"
         },
         {
-            "time": "10:39",
+            "time": "11:35",
             "tag": "MERCADO",
-            "text": "JPMorgan Chase & Co. Sells 66,978 Shares of Agilysys, Inc. $AGYS"
+            "text": "Quantbot Technologies LP Invests $5.76 Million in Paycom Software, Inc. $PAYC"
         },
         {
-            "time": "10:31",
+            "time": "11:30",
             "tag": "MERCADO",
-            "text": "Alkami Technology, Inc. $ALKT Shares Sold by JPMorgan Chase & Co."
+            "text": "Erste Asset Management GmbH Has $3.59 Million Stake in Texas Instruments Incorporated $TXN"
         },
         {
-            "time": "10:23",
+            "time": "11:20",
             "tag": "MERCADO",
-            "text": "HighTower Advisors LLC Has $2.05 Million Holdings in Fair Isaac Corporation $FICO"
+            "text": "Erste Asset Management GmbH Trims Position in Corning Incorporated $GLW"
         },
         {
-            "time": "10:11",
+            "time": "11:19",
             "tag": "MERCADO",
-            "text": "Mizuho Lowers PT on Willis Towers Watson (WTW), Keeps a Buy Rating"
+            "text": "Erste Asset Management GmbH Sells 105,464 Shares of AMETEK, Inc. $AME"
         }
     ]
 }
