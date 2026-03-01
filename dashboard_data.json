@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-01 02:38 UTC",
+        "last_updated": "2026-03-01 04:56 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.19,
-            "change": "-1.81%"
+            "change": "+2.61%"
         },
         {
             "symbol": "AMD",
             "price": 200.21,
-            "change": "+2.2%"
+            "change": "-0.42%"
         },
         {
             "symbol": "MSFT",
             "price": 392.74,
-            "change": "-0.33%"
+            "change": "+1.19%"
         },
         {
             "symbol": "CEG",
             "price": 329.88,
-            "change": "+1.32%"
+            "change": "+2.68%"
         },
         {
             "symbol": "VST",
             "price": 173.89,
-            "change": "-0.65%"
+            "change": "+0.03%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.46,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.49,
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5,
             0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            23.7,
-            23.72,
-            23.56,
-            23.72,
-            24.12,
-            24.38,
-            24.52,
-            24.72,
-            24.87,
-            24.56,
-            24.66,
-            25.06
+            25.86,
+            26.21,
+            26.56,
+            26.84,
+            26.43,
+            26.47,
+            26.21,
+            25.77,
+            25.96,
+            25.55,
+            25.69,
+            25.42
         ],
         "hsd_history_software": [
-            9.56,
-            9.49,
-            9.4,
-            9.57,
-            9.66,
             9.65,
-            9.8,
-            9.99,
-            9.86,
-            9.86,
             9.75,
-            9.84
+            9.65,
+            9.73,
+            9.71,
+            9.67,
+            9.86,
+            9.91,
+            9.99,
+            9.99,
+            9.9,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:52",
-            "tag": "MERCADO",
-            "text": "NVDS ETF Analysis: Dividends, Returns NASDAQ:NVDS"
+            "time": "03:41",
+            "tag": "AI",
+            "text": "Everpure Rebrand And 1touch Deal Recast PSTG As Data And AI Play"
         },
         {
-            "time": "01:52",
+            "time": "03:27",
             "tag": "MERCADO",
-            "text": "Technical Analysis of T-Rex 2X Long NVIDIA Daily Target ETF (CBOE:NVDX)"
+            "text": "Agilent (A) Gets Lower Goldman Sachs Target Despite Long-Term Growth Confidence"
         },
         {
-            "time": "01:43",
+            "time": "03:22",
             "tag": "MERCADO",
-            "text": "Nutanix (NTNX) Profitability Run With US$103 Million Q2 Net Income Tests Bearish Narratives"
+            "text": "Caterpillar Inc. (NYSE:CAT) Short Interest Update"
         },
         {
-            "time": "00:52",
+            "time": "03:05",
             "tag": "MERCADO",
-            "text": "Jim Cramer on Universal Display: \"There Is Going to Come a Time When We Should Recommend This Stock, but That Time Is Not Yet Here\""
+            "text": "American Tower (AMT) Gets Lower Scotiabank Target Despite Strong Long-Term Outlook"
         },
         {
-            "time": "00:51",
+            "time": "02:52",
             "tag": "MERCADO",
-            "text": "Verisk And S&P Climate Data Deal Tests Valuation And Growth Story"
+            "text": "PG&E Deploys ABB DC Fast Chargers To Electrify Its Fleet"
         }
     ]
 }
