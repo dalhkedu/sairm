@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-01 09:33 UTC",
+        "last_updated": "2026-03-01 10:29 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.19,
-            "change": "+2.95%"
+            "change": "-2.44%"
         },
         {
             "symbol": "AMD",
             "price": 200.21,
-            "change": "-1.37%"
+            "change": "+0.97%"
         },
         {
             "symbol": "MSFT",
             "price": 392.74,
-            "change": "+2.25%"
+            "change": "-2.27%"
         },
         {
             "symbol": "CEG",
             "price": 329.88,
-            "change": "+0.08%"
+            "change": "+1.27%"
         },
         {
             "symbol": "VST",
             "price": 173.89,
-            "change": "+2.78%"
+            "change": "-0.97%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.42,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.47,
-            0.48,
+            0.49,
+            0.49,
             0.49,
             0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
             0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            25.22,
-            25.56,
-            25.64,
-            25.37,
-            25.39,
+            25.09,
+            25.33,
+            25.32,
+            24.87,
             25.0,
-            25.29,
-            24.9,
+            25.19,
+            25.42,
             25.0,
-            24.73,
-            24.78,
-            24.8
+            24.76,
+            24.87,
+            24.79,
+            24.61
         ],
         "hsd_history_software": [
-            9.83,
-            10.01,
-            10.13,
-            10.17,
-            10.2,
-            10.31,
+            10.39,
+            10.23,
+            10.33,
+            10.41,
             10.26,
-            10.16,
-            10.32,
-            10.36,
-            10.2,
-            10.1
+            10.08,
+            10.03,
+            10.05,
+            10.03,
+            10.04,
+            9.89,
+            9.95
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:46",
+            "time": "09:30",
             "tag": "MERCADO",
-            "text": "Fidelity National Information Services, Inc. $FIS Shares Sold by Andra AP fonden"
+            "text": "Analysts at Mizuho Remain Bullish on IQVIA (IQV) Following Q4 Results"
         },
         {
-            "time": "08:45",
-            "tag": "MERCADO",
-            "text": "APG Asset Management N.V. Raises Holdings in Salesforce Inc. $CRM"
+            "time": "09:29",
+            "tag": "AI",
+            "text": "Wells Fargo Bullish on QUALCOMM (QCOM) Amid $100+ Billion AI Inference Market Opportunity"
         },
         {
-            "time": "08:44",
+            "time": "09:23",
             "tag": "MERCADO",
-            "text": "APG Asset Management N.V. Has $102.61 Million Stake in Palo Alto Networks, Inc. $PANW"
+            "text": "Truist Analysts Mixed on EPAM Systems (EPAM) Despite Revenue, Operating Income Beat"
         },
         {
-            "time": "08:42",
+            "time": "09:21",
             "tag": "MERCADO",
-            "text": "APG Asset Management N.V. Grows Position in Advanced Micro Devices, Inc. $AMD"
+            "text": "Banco Santander S.A. Trims Stake in AT&T Inc. $T"
         },
         {
-            "time": "08:42",
+            "time": "09:20",
             "tag": "MERCADO",
-            "text": "Alphinity Investment Management Pty Ltd Raises Stock Position in Amazon.com, Inc. $AMZN"
+            "text": "Artisan Partners Limited Partnership Sells 1,158,197 Shares of Arista Networks, Inc. $ANET"
         }
     ]
 }
