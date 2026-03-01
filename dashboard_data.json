@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-01 18:38 UTC",
+        "last_updated": "2026-03-01 19:25 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.19,
-            "change": "+2.84%"
+            "change": "+1.7%"
         },
         {
             "symbol": "AMD",
             "price": 200.21,
-            "change": "+0.28%"
+            "change": "-3.02%"
         },
         {
             "symbol": "MSFT",
             "price": 392.74,
-            "change": "+1.94%"
+            "change": "+1.71%"
         },
         {
             "symbol": "CEG",
             "price": 329.88,
-            "change": "+0.77%"
+            "change": "+1.43%"
         },
         {
             "symbol": "VST",
             "price": 173.89,
-            "change": "+2.8%"
+            "change": "+3.19%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.69,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
             0.5,
             0.5,
+            0.49,
+            0.48,
+            0.49,
             0.5,
             0.5,
-            0.51
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.22,
-            25.86,
-            26.08,
-            26.08,
-            26.15,
-            25.71,
-            26.01,
-            26.02,
-            25.79,
+            26.21,
+            26.26,
+            26.31,
             25.95,
-            25.83,
-            25.42
+            25.51,
+            25.5,
+            25.04,
+            24.84,
+            24.5,
+            24.96,
+            24.93,
+            25.05
         ],
         "hsd_history_software": [
-            9.43,
-            9.35,
-            9.18,
-            9.16,
-            9.34,
-            9.36,
-            9.49,
-            9.35,
-            9.53,
-            9.7,
+            10.33,
+            10.45,
+            10.4,
+            10.2,
+            10.04,
+            9.91,
+            9.77,
+            9.91,
             9.82,
-            10.01
+            9.69,
+            9.86,
+            10.04
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:51",
+            "time": "18:51",
             "tag": "MERCADO",
-            "text": "8\u00d78 and KCOM Bring Carrier-Grade Reliability to UK Enterprise Communications"
+            "text": "Expensify (EXFY) Balance Sheet & Financial Health Metrics"
         },
         {
-            "time": "17:50",
-            "tag": "AI",
-            "text": "Public Storage and Welltower Announce Strategic Data Science Partnership to Advance Application of AI in Real Estate Investing"
-        },
-        {
-            "time": "16:52",
-            "tag": "AI",
-            "text": "Elastic Stock Drops 15% Despite AI \u201cOutperformance\u201d: Do Analysts See a Recovery in 2026?"
-        },
-        {
-            "time": "16:20",
-            "tag": "AI",
-            "text": "What NetApp (NTAP)'s Strong Q3 Results and Guidance Reveal About Its AI Hybrid-Cloud Ambitions"
-        },
-        {
-            "time": "15:52",
+            "time": "18:45",
             "tag": "MERCADO",
-            "text": "Barclays Upgrades Etsy (ETSY) to Overweight as Truist Raises Target"
+            "text": "The Fab Four: The Wabtec Patents That Rocked The World"
+        },
+        {
+            "time": "18:37",
+            "tag": "MERCADO",
+            "text": "Promising Hydrogen Stocks To Watch Now - March 1st"
+        },
+        {
+            "time": "18:34",
+            "tag": "MERCADO",
+            "text": "A Look At Jack Henry And Associates (JKHY) Valuation As Fintech Partnerships And Fraud Platform Adoption Build Momentum"
+        },
+        {
+            "time": "18:34",
+            "tag": "AI",
+            "text": "Homes AI Launch Tests CoStar Group\u2019s Big Bet On Homescom"
         }
     ]
 }
