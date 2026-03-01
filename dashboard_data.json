@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-01 13:41 UTC",
+        "last_updated": "2026-03-01 14:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.19,
-            "change": "-2.81%"
+            "change": "-2.63%"
         },
         {
             "symbol": "AMD",
             "price": 200.21,
-            "change": "-0.97%"
+            "change": "-0.77%"
         },
         {
             "symbol": "MSFT",
             "price": 392.74,
-            "change": "+2.27%"
+            "change": "+1.2%"
         },
         {
             "symbol": "CEG",
             "price": 329.88,
-            "change": "+0.34%"
+            "change": "-0.87%"
         },
         {
             "symbol": "VST",
             "price": 173.89,
-            "change": "+3.25%"
+            "change": "+3.44%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.5,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
             0.49,
             0.5,
             0.5,
             0.5,
-            0.51,
             0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            25.34,
-            24.95,
-            25.12,
-            24.8,
-            25.3,
-            25.17,
-            24.75,
-            24.82,
-            24.55,
-            24.75,
-            24.78,
-            24.64
+            24.0,
+            23.95,
+            24.42,
+            24.21,
+            24.4,
+            24.54,
+            24.71,
+            24.91,
+            25.15,
+            24.84,
+            25.28,
+            24.79
         ],
         "hsd_history_software": [
-            10.54,
-            10.59,
-            10.76,
-            10.61,
-            10.56,
-            10.41,
-            10.21,
             10.07,
-            9.94,
-            9.8,
+            10.19,
+            10.02,
+            10.09,
+            9.91,
+            9.82,
             9.89,
-            10.01
+            9.72,
+            9.83,
+            9.97,
+            9.9,
+            10.03
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:48",
+            "time": "13:44",
             "tag": "MERCADO",
-            "text": "Amazon.com, Inc. $AMZN is Signature Estate & Investment Advisors LLC's 8th Largest Position"
+            "text": "Alphabet Inc. (Class A): Why This Google Stock Is Back on Every Watchlist"
         },
         {
-            "time": "12:48",
+            "time": "13:38",
             "tag": "MERCADO",
-            "text": "Twin Capital Management Inc. Has $24.94 Million Stock Holdings in Amazon.com, Inc. $AMZN"
+            "text": "Sierra Summit Advisors LLC Has $2.10 Million Position in Microchip Technology Incorporated $MCHP"
         },
         {
-            "time": "12:48",
+            "time": "13:35",
             "tag": "MERCADO",
-            "text": "Smartleaf Asset Management LLC Buys 30,807 Shares of Amazon.com, Inc. $AMZN"
+            "text": "William Blair Investment Management LLC Has $259.12 Million Position in Uber Technologies, Inc. $UBER"
         },
         {
-            "time": "12:48",
+            "time": "13:35",
             "tag": "MERCADO",
-            "text": "Soundwatch Capital LLC Lowers Holdings in Amazon.com, Inc. $AMZN"
+            "text": "William Blair Investment Management LLC Has $240.19 Million Stake in Tyler Technologies, Inc. $TYL"
         },
         {
-            "time": "12:46",
+            "time": "13:34",
             "tag": "MERCADO",
-            "text": "Warner Group LLC Invests $824,000 in Alphabet Inc. $GOOGL"
+            "text": "William Blair Investment Management LLC Decreases Stock Holdings in BWX Technologies, Inc. $BWXT"
         }
     ]
 }
