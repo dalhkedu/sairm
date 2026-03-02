@@ -1,37 +1,37 @@
 {
     "metadata": {
-        "last_updated": "2026-03-02 07:03 UTC",
+        "last_updated": "2026-03-02 08:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.19,
-            "change": "+0.83%"
+            "change": "-2.57%"
         },
         {
             "symbol": "AMD",
             "price": 200.21,
-            "change": "+1.76%"
+            "change": "+0.48%"
         },
         {
             "symbol": "MSFT",
             "price": 392.74,
-            "change": "+1.78%"
+            "change": "-1.19%"
         },
         {
             "symbol": "CEG",
             "price": 329.88,
-            "change": "-3.0%"
+            "change": "-1.08%"
         },
         {
             "symbol": "VST",
             "price": 173.89,
-            "change": "+1.31%"
+            "change": "+1.71%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.54,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
@@ -41,41 +41,41 @@
             0.48,
             0.48,
             0.48,
-            0.48,
             0.49,
             0.49,
             0.49,
             0.5,
-            0.51,
-            0.5
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.13,
-            24.99,
-            24.67,
-            24.75,
-            25.2,
-            24.92,
-            25.25,
-            25.52,
+            24.73,
+            24.4,
+            23.95,
+            24.28,
+            24.55,
+            24.84,
             25.3,
-            25.03,
-            24.99,
-            25.38
+            24.89,
+            24.42,
+            24.66,
+            24.55,
+            24.94
         ],
         "hsd_history_software": [
-            9.45,
-            9.43,
-            9.45,
-            9.35,
-            9.48,
-            9.58,
-            9.7,
-            9.73,
-            9.68,
-            9.72,
-            9.88,
-            10.05
+            9.74,
+            9.83,
+            9.96,
+            10.05,
+            10.14,
+            10.18,
+            10.31,
+            10.21,
+            10.27,
+            10.11,
+            10.18,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:48",
+            "time": "07:52",
             "tag": "MERCADO",
-            "text": "Albertsons Companies adds McDonald's EVP and Global CIO Brian Rice to its board of directors"
+            "text": "STMicroelectronics supports rollout of Aliro standard for digital access control"
         },
         {
-            "time": "06:46",
+            "time": "07:33",
             "tag": "MERCADO",
-            "text": "Uber Technologies, Inc. (NYSE:UBER) Receives Consensus Recommendation of \"Moderate Buy\" from Analysts"
+            "text": "Qualcomm Launches Global 6G Alliance, Targets Commercial Rollout in 2029"
         },
         {
-            "time": "06:39",
+            "time": "07:22",
             "tag": "MERCADO",
-            "text": "Skyworks Solutions, Inc. (NASDAQ:SWKS) Receives Average Rating of \"Hold\" from Brokerages"
+            "text": "Qualcomm and Other Industry Leaders Commit to 6G Trajectory Towards Commercialization Starting from 2029 Onwards"
         },
         {
-            "time": "06:37",
-            "tag": "MERCADO",
-            "text": "Micron Technology, Inc. (NASDAQ:MU) Given Average Recommendation of \"Buy\" by Brokerages"
-        },
-        {
-            "time": "06:23",
+            "time": "07:19",
             "tag": "AI",
-            "text": "A Look At ServiceNow (NOW) Valuation After New AI Workforce And Employee Platforms Launch"
+            "text": "STMicroelectronics to host investor calls on Cloud AI and Intelligent Sensing Enabling Physical AI"
+        },
+        {
+            "time": "07:18",
+            "tag": "RESULTADOS",
+            "text": "Hewlett Packard Enterprise (HPE) Expected to Announce Earnings on Monday"
         }
     ]
 }
