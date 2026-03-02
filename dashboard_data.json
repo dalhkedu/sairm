@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-02 18:54 UTC",
+        "last_updated": "2026-03-02 19:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 182.29,
-            "change": "-2.97%"
+            "price": 182.76,
+            "change": "-2.27%"
         },
         {
             "symbol": "AMD",
-            "price": 196.65,
-            "change": "+3.2%"
+            "price": 197.93,
+            "change": "+0.32%"
         },
         {
             "symbol": "MSFT",
-            "price": 399.02,
-            "change": "+3.37%"
+            "price": 399.42,
+            "change": "-0.24%"
         },
         {
             "symbol": "CEG",
-            "price": 328.76,
-            "change": "+1.51%"
+            "price": 329.18,
+            "change": "+1.75%"
         },
         {
             "symbol": "VST",
-            "price": 168.47,
-            "change": "+2.58%"
+            "price": 169.17,
+            "change": "-2.14%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.44,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5
+            0.53,
+            0.53,
+            0.54,
+            0.53,
+            0.52,
+            0.54,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.97,
-            24.61,
-            24.92,
-            24.91,
-            25.18,
-            25.52,
-            25.81,
-            25.62,
-            25.58,
-            25.12,
-            25.32,
-            25.2
+            23.71,
+            23.6,
+            23.28,
+            23.28,
+            23.24,
+            23.24,
+            23.65,
+            23.96,
+            23.87,
+            24.33,
+            24.65,
+            24.7
         ],
         "hsd_history_software": [
-            10.29,
-            10.09,
-            10.26,
-            10.2,
+            10.93,
+            10.78,
+            10.89,
+            10.78,
+            10.66,
+            10.84,
+            10.66,
+            10.5,
+            10.32,
             10.22,
-            10.18,
-            10.2,
-            10.15,
-            10.36,
             10.17,
-            10.07,
-            10.11
+            10.06
         ],
         "rci_data": [
             85.0,
-            18.229
+            18.275999999999996
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:44",
+            "time": "18:32",
             "tag": "AI",
-            "text": "Transformation as a Living Discipline: Deloitte and ServiceNow Report Reveals Key Trends Connecting the AI-Fueled Enterprise"
+            "text": "TER Teradyne, Inc. (NASDAQ) -2.96% intraday 02 Mar 2026: AI test demand supports upside"
         },
         {
-            "time": "17:37",
-            "tag": "AI",
-            "text": "Qualcomm Releases Snapdragon Wear Elite Chip for AI-Powered Wearables"
-        },
-        {
-            "time": "17:21",
+            "time": "18:28",
             "tag": "MERCADO",
-            "text": "Corning (GLW) Stock Is Up, What You Need To Know"
+            "text": "ServiceNow sees a jump \u2014 What is fueling the stock rise"
         },
         {
-            "time": "17:12",
-            "tag": "AI",
-            "text": "ADP Marketplace Launches AI Agents to Help Make Work Easier, Smarter"
+            "time": "18:23",
+            "tag": "MERCADO",
+            "text": "Motorola Solutions at Raymond James Conference: Strategic Focus on Public Safety"
         },
         {
-            "time": "17:09",
-            "tag": "AI",
-            "text": "JPMorgan Sees Broadcom AI Revenue Topping $9B This Quarter On Strong Google TPU Demand"
+            "time": "18:20",
+            "tag": "RESULTADOS",
+            "text": "Buy, Sell or Hold Broadcom Stock? Key Tips Ahead of Q1 Earnings"
+        },
+        {
+            "time": "18:04",
+            "tag": "MERCADO",
+            "text": "RJF: Client-first values, record growth, and tech-driven strategy define the firm's outlook"
         }
     ]
 }
