@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-02 08:51 UTC",
+        "last_updated": "2026-03-02 09:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.19,
-            "change": "-2.57%"
+            "change": "+3.4%"
         },
         {
             "symbol": "AMD",
             "price": 200.21,
-            "change": "+0.48%"
+            "change": "-2.46%"
         },
         {
             "symbol": "MSFT",
             "price": 392.74,
-            "change": "-1.19%"
+            "change": "+3.19%"
         },
         {
             "symbol": "CEG",
             "price": 329.88,
-            "change": "-1.08%"
+            "change": "-2.09%"
         },
         {
             "symbol": "VST",
             "price": 173.89,
-            "change": "+1.71%"
+            "change": "-2.77%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.6,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.49
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.73,
-            24.4,
-            23.95,
-            24.28,
-            24.55,
-            24.84,
-            25.3,
-            24.89,
-            24.42,
-            24.66,
-            24.55,
-            24.94
+            25.79,
+            25.31,
+            25.19,
+            25.46,
+            24.99,
+            25.42,
+            25.22,
+            25.06,
+            24.93,
+            25.33,
+            24.97,
+            25.0
         ],
         "hsd_history_software": [
-            9.74,
-            9.83,
-            9.96,
-            10.05,
-            10.14,
-            10.18,
-            10.31,
-            10.21,
-            10.27,
-            10.11,
-            10.18,
-            10.07
+            9.31,
+            9.25,
+            9.18,
+            9.19,
+            9.14,
+            9.26,
+            9.44,
+            9.53,
+            9.5,
+            9.63,
+            9.78,
+            9.85
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:52",
-            "tag": "MERCADO",
-            "text": "STMicroelectronics supports rollout of Aliro standard for digital access control"
-        },
-        {
-            "time": "07:33",
-            "tag": "MERCADO",
-            "text": "Qualcomm Launches Global 6G Alliance, Targets Commercial Rollout in 2029"
-        },
-        {
-            "time": "07:22",
-            "tag": "MERCADO",
-            "text": "Qualcomm and Other Industry Leaders Commit to 6G Trajectory Towards Commercialization Starting from 2029 Onwards"
-        },
-        {
-            "time": "07:19",
+            "time": "08:51",
             "tag": "AI",
-            "text": "STMicroelectronics to host investor calls on Cloud AI and Intelligent Sensing Enabling Physical AI"
+            "text": "VettaFi AI Expert Reveals Key Investment Opportunities"
         },
         {
-            "time": "07:18",
-            "tag": "RESULTADOS",
-            "text": "Hewlett Packard Enterprise (HPE) Expected to Announce Earnings on Monday"
+            "time": "08:45",
+            "tag": "MERCADO",
+            "text": "American Century Companies Inc. Reduces Stock Position in F5, Inc. $FFIV"
+        },
+        {
+            "time": "08:44",
+            "tag": "MERCADO",
+            "text": "Arete Wealth Advisors LLC Purchases New Holdings in Palo Alto Networks, Inc. $PANW"
+        },
+        {
+            "time": "08:44",
+            "tag": "MERCADO",
+            "text": "Arete Wealth Advisors LLC Raises Position in Advanced Micro Devices, Inc. $AMD"
+        },
+        {
+            "time": "08:42",
+            "tag": "MERCADO",
+            "text": "Palo Alto Networks, Inc. $PANW Shares Acquired by American Century Companies Inc."
         }
     ]
 }
