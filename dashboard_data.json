@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-02 04:50 UTC",
+        "last_updated": "2026-03-02 05:55 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.19,
-            "change": "+2.29%"
+            "change": "-0.79%"
         },
         {
             "symbol": "AMD",
             "price": 200.21,
-            "change": "-0.36%"
+            "change": "-2.36%"
         },
         {
             "symbol": "MSFT",
             "price": 392.74,
-            "change": "-1.77%"
+            "change": "+1.37%"
         },
         {
             "symbol": "CEG",
             "price": 329.88,
-            "change": "+1.58%"
+            "change": "+1.62%"
         },
         {
             "symbol": "VST",
             "price": 173.89,
-            "change": "+1.01%"
+            "change": "-2.26%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.54,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.49,
             0.5,
             0.5,
-            0.5
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.13,
-            24.64,
-            24.71,
-            24.7,
-            24.44,
+            24.95,
+            24.76,
             24.89,
-            25.32,
-            25.12,
-            24.67,
-            24.66,
-            25.07,
-            24.75
+            24.55,
+            24.75,
+            24.94,
+            25.29,
+            25.39,
+            25.48,
+            25.16,
+            25.67,
+            25.25
         ],
         "hsd_history_software": [
-            10.17,
-            10.08,
+            11.02,
+            11.0,
+            10.78,
+            10.59,
+            10.51,
+            10.51,
+            10.48,
+            10.35,
+            10.41,
+            10.42,
             10.23,
-            10.32,
-            10.12,
-            9.95,
-            9.91,
-            9.78,
-            9.83,
-            9.93,
-            9.97,
-            9.87
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "04:49",
+            "tag": "AI",
+            "text": "REPORT: Blackstone To Launch Public Company To Acquire AI Data Centers"
+        },
+        {
+            "time": "04:11",
+            "tag": "MERCADO",
+            "text": "ONDS, RCAT Surge Overnight After US-Israel Strikes On Iran: Traders Speculate Heavily On Drone Stocks Exposure"
+        },
+        {
             "time": "03:52",
             "tag": "MERCADO",
             "text": "PGY | Pagaya Technologies Ltd. Class Stock Data, Price & News"
@@ -139,16 +149,6 @@
             "time": "03:47",
             "tag": "MERCADO",
             "text": "A Look At The Fair Value Of Spotify Technology S.A. (NYSE:SPOT)"
-        },
-        {
-            "time": "03:01",
-            "tag": "MERCADO",
-            "text": "Micron Celebrates Opening of India's First Semiconductor Assembly and Test Facility"
-        },
-        {
-            "time": "02:52",
-            "tag": "MERCADO",
-            "text": "William Blair Investment Management LLC Boosts Stake in Onto Innovation Inc. $ONTO"
         }
     ]
 }
