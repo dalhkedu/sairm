@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-02 02:27 UTC",
+        "last_updated": "2026-03-02 04:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.19,
-            "change": "+2.44%"
+            "change": "+2.29%"
         },
         {
             "symbol": "AMD",
             "price": 200.21,
-            "change": "-0.32%"
+            "change": "-0.36%"
         },
         {
             "symbol": "MSFT",
             "price": 392.74,
-            "change": "+2.04%"
+            "change": "-1.77%"
         },
         {
             "symbol": "CEG",
             "price": 329.88,
-            "change": "-0.74%"
+            "change": "+1.58%"
         },
         {
             "symbol": "VST",
             "price": 173.89,
-            "change": "+0.84%"
+            "change": "+1.01%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.51,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
             0.51,
             0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
+            25.13,
             24.64,
-            24.39,
-            24.03,
-            24.37,
+            24.71,
+            24.7,
+            24.44,
+            24.89,
+            25.32,
+            25.12,
+            24.67,
             24.66,
-            24.53,
-            24.31,
-            24.12,
-            24.46,
-            24.16,
-            24.43,
-            24.53
+            25.07,
+            24.75
         ],
         "hsd_history_software": [
+            10.17,
+            10.08,
             10.23,
-            10.21,
-            10.35,
-            10.24,
-            10.21,
-            10.33,
-            10.16,
-            10.2,
-            10.4,
-            10.44,
-            10.31,
-            10.13
+            10.32,
+            10.12,
+            9.95,
+            9.91,
+            9.78,
+            9.83,
+            9.93,
+            9.97,
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "00:53",
+            "time": "03:52",
             "tag": "MERCADO",
-            "text": "MSFO Stock Fund Price and Chart \u2014 AMEX:MSFO"
+            "text": "PGY | Pagaya Technologies Ltd. Class Stock Data, Price & News"
         },
         {
-            "time": "00:42",
+            "time": "03:52",
             "tag": "MERCADO",
-            "text": "Salesforce Inc \u2013 Platform Cloud Growth Strengthens"
+            "text": "PLDT\u2019s data center REIT plan seen to attract strong interest"
         },
         {
-            "time": "00:29",
-            "tag": "RESULTADOS",
-            "text": "HP Inc. Earnings Call Balances Growth With Cost Risks"
-        },
-        {
-            "time": "00:04",
-            "tag": "RESULTADOS",
-            "text": "Autodesk Inc. Earnings Call Highlights AI-Driven Momentum"
-        },
-        {
-            "time": "23:26",
+            "time": "03:47",
             "tag": "MERCADO",
-            "text": "Reassessing Synopsys (SNPS) After Recent Pullback And NVIDIA\u2019s US$2.0b Investment"
+            "text": "A Look At The Fair Value Of Spotify Technology S.A. (NYSE:SPOT)"
+        },
+        {
+            "time": "03:01",
+            "tag": "MERCADO",
+            "text": "Micron Celebrates Opening of India's First Semiconductor Assembly and Test Facility"
+        },
+        {
+            "time": "02:52",
+            "tag": "MERCADO",
+            "text": "William Blair Investment Management LLC Boosts Stake in Onto Innovation Inc. $ONTO"
         }
     ]
 }
