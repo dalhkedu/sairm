@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-02 05:55 UTC",
+        "last_updated": "2026-03-02 07:03 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.19,
-            "change": "-0.79%"
+            "change": "+0.83%"
         },
         {
             "symbol": "AMD",
             "price": 200.21,
-            "change": "-2.36%"
+            "change": "+1.76%"
         },
         {
             "symbol": "MSFT",
             "price": 392.74,
-            "change": "+1.37%"
+            "change": "+1.78%"
         },
         {
             "symbol": "CEG",
             "price": 329.88,
-            "change": "+1.62%"
+            "change": "-3.0%"
         },
         {
             "symbol": "VST",
             "price": 173.89,
-            "change": "-2.26%"
+            "change": "+1.31%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.55,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.49,
             0.49,
             0.49,
             0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.49
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.95,
-            24.76,
-            24.89,
-            24.55,
+            25.13,
+            24.99,
+            24.67,
             24.75,
-            24.94,
-            25.29,
-            25.39,
-            25.48,
-            25.16,
-            25.67,
-            25.25
+            25.2,
+            24.92,
+            25.25,
+            25.52,
+            25.3,
+            25.03,
+            24.99,
+            25.38
         ],
         "hsd_history_software": [
-            11.02,
-            11.0,
-            10.78,
-            10.59,
-            10.51,
-            10.51,
-            10.48,
-            10.35,
-            10.41,
-            10.42,
-            10.23,
-            10.07
+            9.45,
+            9.43,
+            9.45,
+            9.35,
+            9.48,
+            9.58,
+            9.7,
+            9.73,
+            9.68,
+            9.72,
+            9.88,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:49",
+            "time": "06:48",
+            "tag": "MERCADO",
+            "text": "Albertsons Companies adds McDonald's EVP and Global CIO Brian Rice to its board of directors"
+        },
+        {
+            "time": "06:46",
+            "tag": "MERCADO",
+            "text": "Uber Technologies, Inc. (NYSE:UBER) Receives Consensus Recommendation of \"Moderate Buy\" from Analysts"
+        },
+        {
+            "time": "06:39",
+            "tag": "MERCADO",
+            "text": "Skyworks Solutions, Inc. (NASDAQ:SWKS) Receives Average Rating of \"Hold\" from Brokerages"
+        },
+        {
+            "time": "06:37",
+            "tag": "MERCADO",
+            "text": "Micron Technology, Inc. (NASDAQ:MU) Given Average Recommendation of \"Buy\" by Brokerages"
+        },
+        {
+            "time": "06:23",
             "tag": "AI",
-            "text": "REPORT: Blackstone To Launch Public Company To Acquire AI Data Centers"
-        },
-        {
-            "time": "04:11",
-            "tag": "MERCADO",
-            "text": "ONDS, RCAT Surge Overnight After US-Israel Strikes On Iran: Traders Speculate Heavily On Drone Stocks Exposure"
-        },
-        {
-            "time": "03:52",
-            "tag": "MERCADO",
-            "text": "PGY | Pagaya Technologies Ltd. Class Stock Data, Price & News"
-        },
-        {
-            "time": "03:52",
-            "tag": "MERCADO",
-            "text": "PLDT\u2019s data center REIT plan seen to attract strong interest"
-        },
-        {
-            "time": "03:47",
-            "tag": "MERCADO",
-            "text": "A Look At The Fair Value Of Spotify Technology S.A. (NYSE:SPOT)"
+            "text": "A Look At ServiceNow (NOW) Valuation After New AI Workforce And Employee Platforms Launch"
         }
     ]
 }
