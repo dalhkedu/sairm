@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-02 19:39 UTC",
+        "last_updated": "2026-03-02 20:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 182.76,
-            "change": "-2.27%"
+            "price": 182.18,
+            "change": "+0.22%"
         },
         {
             "symbol": "AMD",
-            "price": 197.93,
-            "change": "+0.32%"
+            "price": 197.46,
+            "change": "-0.32%"
         },
         {
             "symbol": "MSFT",
-            "price": 399.42,
-            "change": "-0.24%"
+            "price": 397.12,
+            "change": "-2.45%"
         },
         {
             "symbol": "CEG",
-            "price": 329.18,
-            "change": "+1.75%"
+            "price": 329.89,
+            "change": "-1.68%"
         },
         {
             "symbol": "VST",
-            "price": 169.17,
-            "change": "-2.14%"
+            "price": 167.04,
+            "change": "+1.02%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.47,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.54,
+            0.52,
             0.53,
             0.52,
-            0.54,
             0.52,
             0.52,
+            0.53,
             0.52,
+            0.52,
+            0.53,
             0.52,
             0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            23.71,
-            23.6,
-            23.28,
-            23.28,
-            23.24,
-            23.24,
-            23.65,
-            23.96,
-            23.87,
-            24.33,
-            24.65,
-            24.7
+            25.23,
+            25.67,
+            26.12,
+            25.86,
+            25.72,
+            25.68,
+            25.64,
+            25.77,
+            25.3,
+            25.34,
+            25.54,
+            25.07
         ],
         "hsd_history_software": [
-            10.93,
-            10.78,
-            10.89,
-            10.78,
-            10.66,
-            10.84,
-            10.66,
-            10.5,
+            10.08,
+            10.24,
+            10.07,
+            10.13,
+            10.33,
             10.32,
-            10.22,
-            10.17,
-            10.06
+            10.18,
+            10.07,
+            9.94,
+            9.92,
+            9.83,
+            10.02
         ],
         "rci_data": [
             85.0,
-            18.275999999999996
+            18.218
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:32",
+            "time": "19:41",
+            "tag": "MERCADO",
+            "text": "Apple Launches iPhone 17e & New M4 iPad Air: Check Price, Full Specifications, Variants, Pre-Order Details & All You Need to Know"
+        },
+        {
+            "time": "19:05",
             "tag": "AI",
-            "text": "TER Teradyne, Inc. (NASDAQ) -2.96% intraday 02 Mar 2026: AI test demand supports upside"
+            "text": "ROK Rockwell Automation (NYSE) $410.29 intraday 02 Mar 2026: AI demand may lift shares"
         },
         {
-            "time": "18:28",
+            "time": "19:04",
             "tag": "MERCADO",
-            "text": "ServiceNow sees a jump \u2014 What is fueling the stock rise"
+            "text": "Microsoft Stock Testing 2 Key Levels as Options Traders Pounce"
         },
         {
-            "time": "18:23",
+            "time": "18:57",
             "tag": "MERCADO",
-            "text": "Motorola Solutions at Raymond James Conference: Strategic Focus on Public Safety"
+            "text": "Citigroup Issues Positive Forecast for NetApp (NASDAQ:NTAP) Stock Price"
         },
         {
-            "time": "18:20",
-            "tag": "RESULTADOS",
-            "text": "Buy, Sell or Hold Broadcom Stock? Key Tips Ahead of Q1 Earnings"
-        },
-        {
-            "time": "18:04",
+            "time": "18:55",
             "tag": "MERCADO",
-            "text": "RJF: Client-first values, record growth, and tech-driven strategy define the firm's outlook"
+            "text": "Is It Time To Reassess NetApp (NTAP) After Recent DCF And P/E Signals?"
         }
     ]
 }
