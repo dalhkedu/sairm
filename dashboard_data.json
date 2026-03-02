@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-02 20:40 UTC",
+        "last_updated": "2026-03-02 21:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 182.18,
-            "change": "+0.22%"
+            "price": 182.48,
+            "change": "+3.08%"
         },
         {
             "symbol": "AMD",
-            "price": 197.46,
-            "change": "-0.32%"
+            "price": 198.62,
+            "change": "+0.23%"
         },
         {
             "symbol": "MSFT",
-            "price": 397.12,
-            "change": "-2.45%"
+            "price": 398.55,
+            "change": "+2.73%"
         },
         {
             "symbol": "CEG",
-            "price": 329.89,
-            "change": "-1.68%"
+            "price": 327.16,
+            "change": "+0.79%"
         },
         {
             "symbol": "VST",
-            "price": 167.04,
-            "change": "+1.02%"
+            "price": 165.99,
+            "change": "-2.21%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.45,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.53,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.52,
             0.51,
-            0.51
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.23,
-            25.67,
-            26.12,
-            25.86,
-            25.72,
-            25.68,
-            25.64,
-            25.77,
-            25.3,
-            25.34,
-            25.54,
-            25.07
+            24.46,
+            24.45,
+            24.02,
+            24.35,
+            23.97,
+            23.5,
+            23.34,
+            23.42,
+            23.71,
+            23.85,
+            24.16,
+            24.65
         ],
         "hsd_history_software": [
-            10.08,
-            10.24,
-            10.07,
-            10.13,
-            10.33,
+            10.58,
+            10.54,
+            10.49,
+            10.66,
+            10.71,
+            10.6,
+            10.52,
             10.32,
-            10.18,
-            10.07,
-            9.94,
-            9.92,
-            9.83,
-            10.02
+            10.2,
+            10.34,
+            10.2,
+            10.09
         ],
         "rci_data": [
             85.0,
-            18.218
+            18.248
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:41",
+            "time": "20:36",
             "tag": "MERCADO",
-            "text": "Apple Launches iPhone 17e & New M4 iPad Air: Check Price, Full Specifications, Variants, Pre-Order Details & All You Need to Know"
+            "text": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Ciena (NYSE:CIEN) Stock"
         },
         {
-            "time": "19:05",
-            "tag": "AI",
-            "text": "ROK Rockwell Automation (NYSE) $410.29 intraday 02 Mar 2026: AI demand may lift shares"
+            "time": "20:18",
+            "tag": "MERCADO",
+            "text": "4333.HK Cisco Systems HKSE pre-market 03 Mar 2026: 100x volume spike ahead"
         },
         {
-            "time": "19:04",
+            "time": "20:17",
             "tag": "MERCADO",
-            "text": "Microsoft Stock Testing 2 Key Levels as Options Traders Pounce"
+            "text": "T-Mobile Pairs iPhone 17e and iPad Air with Plans that Bring Built-in Value from Day One"
         },
         {
-            "time": "18:57",
+            "time": "20:00",
             "tag": "MERCADO",
-            "text": "Citigroup Issues Positive Forecast for NetApp (NASDAQ:NTAP) Stock Price"
+            "text": "Sub-$500 PCs could disappear by 2028 as memory prices surge 130%, Gartner warns"
         },
         {
-            "time": "18:55",
+            "time": "19:55",
             "tag": "MERCADO",
-            "text": "Is It Time To Reassess NetApp (NTAP) After Recent DCF And P/E Signals?"
+            "text": "Pennant Technologies Recognised as a Representative Vendor in the 2025 Gartner\u00ae Market Guide for Commercial Loan Origination Solutions"
         }
     ]
 }
