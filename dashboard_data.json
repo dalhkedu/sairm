@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-02 13:06 UTC",
+        "last_updated": "2026-03-02 14:45 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 177.19,
-            "change": "+1.52%"
+            "price": 179.54,
+            "change": "-3.46%"
         },
         {
             "symbol": "AMD",
-            "price": 200.21,
-            "change": "+0.4%"
+            "price": 193.84,
+            "change": "-0.98%"
         },
         {
             "symbol": "MSFT",
-            "price": 392.74,
-            "change": "-3.32%"
+            "price": 395.39,
+            "change": "+1.24%"
         },
         {
             "symbol": "CEG",
-            "price": 329.88,
-            "change": "-1.23%"
+            "price": 325.81,
+            "change": "+1.15%"
         },
         {
             "symbol": "VST",
-            "price": 173.89,
-            "change": "+1.42%"
+            "price": 172.84,
+            "change": "-2.36%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.43,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.52,
-            0.51,
-            0.5,
             0.49,
-            0.49,
-            0.49,
-            0.5,
             0.5,
             0.51,
             0.51,
-            0.51
+            0.51,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            27.03,
-            27.23,
-            27.39,
-            27.52,
-            27.29,
-            26.92,
-            26.56,
-            26.45,
-            26.15,
-            26.15,
-            25.74,
-            25.29
+            24.71,
+            24.64,
+            25.08,
+            24.8,
+            25.17,
+            24.83,
+            24.73,
+            24.98,
+            24.77,
+            25.15,
+            25.03,
+            25.41
         ],
         "hsd_history_software": [
-            9.48,
-            9.36,
-            9.34,
-            9.35,
-            9.52,
-            9.63,
-            9.68,
-            9.65,
-            9.84,
-            9.97,
-            10.04,
-            10.01
+            9.6,
+            9.73,
+            9.87,
+            9.88,
+            9.69,
+            9.66,
+            9.73,
+            9.74,
+            9.88,
+            9.92,
+            9.94,
+            9.84
         ],
         "rci_data": [
             85.0,
-            17.718999999999998
+            17.954
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:50",
+            "time": "13:48",
             "tag": "MERCADO",
-            "text": "Laurel Wealth Advisors LLC Trims Stock Holdings in Texas Instruments Incorporated $TXN"
+            "text": "Blink Charging unveils scalable EV charging event targeting growing communities"
         },
         {
-            "time": "11:48",
-            "tag": "MERCADO",
-            "text": "Laurel Wealth Advisors LLC Reduces Holdings in Cisco Systems, Inc. $CSCO"
+            "time": "13:47",
+            "tag": "AI",
+            "text": "Intel Corporation Stock Rebounds Sharply in Early 2026 Amid AI Partnerships and Foundry Progress"
         },
         {
-            "time": "11:48",
+            "time": "13:38",
             "tag": "MERCADO",
-            "text": "Laurel Wealth Advisors LLC Sells 3,409,450 Shares of Salesforce Inc. $CRM"
+            "text": "T-Mobile US, Inc. $TMUS Shares Sold by Waverton Investment Management Ltd"
         },
         {
-            "time": "11:48",
+            "time": "13:30",
             "tag": "MERCADO",
-            "text": "Laurel Wealth Advisors LLC Cuts Stock Position in Verizon Communications Inc. $VZ"
+            "text": "Jack Henry Executives Set to Speak at Upcoming Investor Conferences"
         },
         {
-            "time": "11:48",
+            "time": "13:29",
             "tag": "MERCADO",
-            "text": "Uber Technologies, Inc. $UBER Shares Sold by Laurel Wealth Advisors LLC"
+            "text": "Thermo Fisher Scientific Launches New Color-Based (Chromogenic) Culture Media to Help Detect Candida Infections Faster*, Including Drug-Resistant Candida auris"
         }
     ]
 }
