@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-02 15:45 UTC",
+        "last_updated": "2026-03-02 16:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 181.18,
-            "change": "+0.17%"
+            "price": 182.62,
+            "change": "-0.05%"
         },
         {
             "symbol": "AMD",
-            "price": 194.93,
-            "change": "-2.07%"
+            "price": 196.89,
+            "change": "-2.67%"
         },
         {
             "symbol": "MSFT",
-            "price": 399.36,
-            "change": "+1.81%"
+            "price": 399.59,
+            "change": "-0.37%"
         },
         {
             "symbol": "CEG",
-            "price": 330.4,
-            "change": "+2.82%"
+            "price": 330.39,
+            "change": "-2.91%"
         },
         {
             "symbol": "VST",
-            "price": 172.6,
-            "change": "-0.51%"
+            "price": 172.88,
+            "change": "+3.2%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.57,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
             0.51,
             0.5,
             0.5,
             0.51,
             0.51,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            24.56,
-            24.71,
-            24.44,
-            24.09,
-            23.87,
-            23.94,
-            24.22,
-            24.26,
-            24.16,
-            24.51,
-            24.62,
-            24.61
+            24.86,
+            24.9,
+            24.88,
+            24.48,
+            24.81,
+            24.95,
+            24.85,
+            24.54,
+            24.69,
+            24.76,
+            24.72,
+            24.98
         ],
         "hsd_history_software": [
-            10.45,
-            10.51,
-            10.62,
-            10.72,
-            10.57,
-            10.46,
-            10.45,
-            10.32,
-            10.2,
-            10.28,
-            10.1,
-            10.14
+            9.42,
+            9.58,
+            9.59,
+            9.56,
+            9.52,
+            9.7,
+            9.78,
+            9.69,
+            9.67,
+            9.86,
+            9.83,
+            9.94
         ],
         "rci_data": [
             85.0,
-            18.118000000000002
+            18.262
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:49",
+            "time": "15:35",
             "tag": "MERCADO",
-            "text": "VeriSign, Inc. (NASDAQ:VRSN) Sees Large Decline in Short Interest"
+            "text": "Mid-America Apartment Communities: Strong Sun Belt performance, steady demand, and tech-driven efficiencies support long-term growth"
         },
         {
-            "time": "14:44",
+            "time": "15:34",
             "tag": "AI",
-            "text": "Western Digital (WDC) 2026 Feature: The Pure-Play Pivot to AI Storage Dominance"
+            "text": "IBM Stock Plunges on AI Threat From Anthropic: Time to Rethink?"
         },
         {
-            "time": "14:41",
-            "tag": "MERCADO",
-            "text": "Mining Automation Industry Research Report 2026-2035: A $6.36 Billion Market with Hexagon, Rockwell Automation, Komatsu, Rio Tinto Group, Sandvik, Caterpillar Leading"
+            "time": "15:20",
+            "tag": "AI",
+            "text": "Quest Diagnostics Rolls Out Gemini-Powered AI Tool to Explain Lab Results"
         },
         {
-            "time": "14:41",
+            "time": "15:17",
             "tag": "MERCADO",
-            "text": "Texas Instruments Is Up 22% Year to Date. Here\u2019s How Much the Stock Could Rise in 2026"
+            "text": "Verizon Communications Stock Hits 52-Week High Amid Strong Momentum and Dividend Appeal"
         },
         {
-            "time": "14:32",
+            "time": "15:14",
             "tag": "MERCADO",
-            "text": "ISRG stock: Intuitive Surgical NASDAQ $506.88 intraday 02 Mar 2026, upside"
+            "text": "Expedia Group (EXPE): From Tech Unification to B2B Powerhouse \u2013 2026 Research Feature"
         }
     ]
 }
