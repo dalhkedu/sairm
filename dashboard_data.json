@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-03 09:48 UTC",
+        "last_updated": "2026-03-03 10:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.48,
-            "change": "+2.8%"
+            "change": "+1.8%"
         },
         {
             "symbol": "AMD",
             "price": 198.62,
-            "change": "+3.0%"
+            "change": "+1.55%"
         },
         {
             "symbol": "MSFT",
             "price": 398.55,
-            "change": "+0.17%"
+            "change": "-0.55%"
         },
         {
             "symbol": "CEG",
             "price": 327.16,
-            "change": "-0.94%"
+            "change": "-3.46%"
         },
         {
             "symbol": "VST",
             "price": 165.99,
-            "change": "+3.07%"
+            "change": "-3.34%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.42,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.53,
+            0.53,
+            0.54,
+            0.53,
             0.52,
             0.51,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.52,
+            0.52,
             0.51,
             0.51,
+            0.52,
             0.51
         ],
         "hsd_history_hardware": [
-            23.24,
-            23.48,
-            23.6,
-            23.55,
-            23.87,
-            24.18,
-            24.4,
-            24.79,
-            25.09,
-            25.01,
-            25.44,
-            24.98
+            25.83,
+            25.53,
+            25.14,
+            24.68,
+            24.44,
+            24.08,
+            24.54,
+            24.95,
+            25.42,
+            25.18,
+            25.33,
+            25.26
         ],
         "hsd_history_software": [
-            9.92,
-            10.11,
-            10.24,
+            10.66,
+            10.6,
+            10.62,
+            10.74,
+            10.59,
+            10.38,
+            10.23,
+            10.08,
             10.21,
-            10.19,
-            10.03,
-            10.07,
-            9.98,
-            10.01,
-            10.03,
-            10.21,
-            10.17
+            10.25,
+            10.08,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:52",
+            "time": "09:45",
             "tag": "MERCADO",
-            "text": "Citigroup Inc. Decreases Stock Holdings in TTM Technologies, Inc. $TTMI"
+            "text": "How iTero\u2013Henry Schein One Integration and New Bylaws Will Impact Align Technology (ALGN) Investors"
         },
         {
-            "time": "08:52",
-            "tag": "RESULTADOS",
-            "text": "Toast Stock Slides On Q4 Earnings: The Details"
+            "time": "09:37",
+            "tag": "MERCADO",
+            "text": "Bernstein Sees Limited Upside for PayPal Holdings, Inc. (PYPL) at Current Levels"
         },
         {
-            "time": "08:51",
+            "time": "09:31",
             "tag": "MERCADO",
-            "text": "Teladoc Health, Inc. expands virtual care to meet broad employee needs for VSP Vision"
+            "text": "Arista Networks Inc (NYSE:ANET) Fits the CAN SLIM Growth Stock Profile"
         },
         {
-            "time": "08:51",
+            "time": "09:30",
             "tag": "MERCADO",
-            "text": "TDIV ETF Analysis: Dividends, Returns NASDAQ:TDIV"
+            "text": "Elo Mutual Pension Insurance Co Has $5.26 Million Holdings in Seagate Technology Holdings PLC $STX"
         },
         {
-            "time": "08:48",
+            "time": "09:28",
             "tag": "MERCADO",
-            "text": "Enphase Energy, Inc. (NASDAQ:ENPH) Short Interest Update"
+            "text": "Elo Mutual Pension Insurance Co Acquires 3,253 Shares of Motorola Solutions, Inc. $MSI"
         }
     ]
 }
