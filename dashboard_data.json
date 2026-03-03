@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-03 16:54 UTC",
+        "last_updated": "2026-03-03 17:46 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 180.14,
-            "change": "-1.69%"
+            "price": 179.67,
+            "change": "-1.23%"
         },
         {
             "symbol": "AMD",
-            "price": 190.85,
-            "change": "-1.14%"
+            "price": 191.35,
+            "change": "+0.05%"
         },
         {
             "symbol": "MSFT",
-            "price": 401.35,
-            "change": "-3.19%"
+            "price": 401.65,
+            "change": "-3.3%"
         },
         {
             "symbol": "CEG",
-            "price": 320.16,
-            "change": "-2.28%"
+            "price": 322.99,
+            "change": "+2.69%"
         },
         {
             "symbol": "VST",
-            "price": 158.95,
-            "change": "-0.76%"
+            "price": 160.19,
+            "change": "+2.27%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.7,
+        "cer_current": 0.44,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
             0.49,
             0.49,
-            0.49
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.83,
-            25.12,
-            25.12,
-            25.28,
-            25.15,
-            24.8,
-            24.43,
-            24.28,
+            25.53,
+            25.14,
+            25.07,
             24.59,
-            24.91,
+            25.03,
+            24.93,
+            25.21,
             24.74,
-            25.22
+            24.33,
+            24.14,
+            24.61,
+            24.95
         ],
         "hsd_history_software": [
-            10.46,
-            10.33,
-            10.46,
-            10.37,
-            10.41,
-            10.22,
-            10.2,
-            10.11,
-            9.98,
-            10.13,
-            10.08,
+            9.91,
+            9.89,
+            9.73,
+            9.57,
+            9.77,
+            9.87,
+            9.81,
+            9.7,
+            9.78,
+            9.96,
+            10.09,
             10.02
         ],
         "rci_data": [
             85.0,
-            18.014
+            17.967
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:49",
+            "time": "16:46",
             "tag": "MERCADO",
-            "text": "PTC Inc. (NASDAQ:PTC) Short Interest Up 24.6% in February"
+            "text": "OCVIBE\u2019s Immersive Anaheim LED District Might Change The Case For Investing In Daktronics (DAKT)"
         },
         {
-            "time": "15:31",
+            "time": "16:44",
             "tag": "MERCADO",
-            "text": "Intuitive Surgical, Inc. Rings the Nasdaq Stock Market Opening Bell"
+            "text": "MSCI Acquires Compass Financial Technologies"
         },
         {
-            "time": "15:28",
+            "time": "16:36",
             "tag": "MERCADO",
-            "text": "Jim Cramer on Applied Materials: \u201cIt Got Away From Us\u201d"
+            "text": "Precisely Brings Agentic-Ready Data to Gartner\u00ae Data & Analytics Summit in Orlando"
         },
         {
-            "time": "15:23",
+            "time": "16:35",
             "tag": "MERCADO",
-            "text": "Vertex Pharma Stock: Why Wall Street Is Quietly Buying the Dip"
+            "text": "Data center news: DTE Energy's data center pipeline could require power of 6 nuclear plants"
         },
         {
-            "time": "15:13",
-            "tag": "AI",
-            "text": "Palo Alto Networks teams with global partners for secure by design AI factories"
+            "time": "16:34",
+            "tag": "MERCADO",
+            "text": "Intel has manufacturing capacity issues. They may take years to fix."
         }
     ]
 }
