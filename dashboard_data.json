@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-03 17:46 UTC",
+        "last_updated": "2026-03-03 19:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 179.67,
-            "change": "-1.23%"
+            "price": 180.09,
+            "change": "-2.86%"
         },
         {
             "symbol": "AMD",
-            "price": 191.35,
-            "change": "+0.05%"
+            "price": 192.32,
+            "change": "-2.75%"
         },
         {
             "symbol": "MSFT",
-            "price": 401.65,
-            "change": "-3.3%"
+            "price": 404.82,
+            "change": "-1.33%"
         },
         {
             "symbol": "CEG",
-            "price": 322.99,
-            "change": "+2.69%"
+            "price": 325.0,
+            "change": "+1.11%"
         },
         {
             "symbol": "VST",
-            "price": 160.19,
-            "change": "+2.27%"
+            "price": 162.32,
+            "change": "-0.02%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.65,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
             0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
             0.5,
             0.49,
             0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.51
+            0.49,
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.53,
-            25.14,
-            25.07,
-            24.59,
-            25.03,
-            24.93,
-            25.21,
-            24.74,
-            24.33,
-            24.14,
+            25.11,
+            24.94,
+            24.9,
+            24.5,
+            24.64,
+            24.67,
+            24.63,
+            24.83,
+            24.39,
             24.61,
-            24.95
+            24.71,
+            24.76
         ],
         "hsd_history_software": [
-            9.91,
-            9.89,
-            9.73,
-            9.57,
-            9.77,
-            9.87,
-            9.81,
-            9.7,
-            9.78,
-            9.96,
+            10.36,
+            10.32,
+            10.31,
+            10.21,
+            10.03,
+            10.1,
+            10.26,
+            10.08,
+            10.24,
             10.09,
-            10.02
+            10.28,
+            10.14
         ],
         "rci_data": [
             85.0,
-            17.967
+            18.009
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:46",
+            "time": "18:44",
             "tag": "MERCADO",
-            "text": "OCVIBE\u2019s Immersive Anaheim LED District Might Change The Case For Investing In Daktronics (DAKT)"
+            "text": "MSCI Appoints Dinesh Gupta as Chief Data Officer and Global Head of Operations"
         },
         {
-            "time": "16:44",
-            "tag": "MERCADO",
-            "text": "MSCI Acquires Compass Financial Technologies"
+            "time": "18:43",
+            "tag": "AI",
+            "text": "Super Micro Links AI Data Centers To Grid Flexibility And New Alliances"
         },
         {
-            "time": "16:36",
+            "time": "18:29",
             "tag": "MERCADO",
-            "text": "Precisely Brings Agentic-Ready Data to Gartner\u00ae Data & Analytics Summit in Orlando"
+            "text": "MetLife, Unum Group, Wells Fargo, AWS, and Cognizant to Keynote at PegaWorld 2026"
         },
         {
-            "time": "16:35",
+            "time": "18:26",
             "tag": "MERCADO",
-            "text": "Data center news: DTE Energy's data center pipeline could require power of 6 nuclear plants"
+            "text": "Verizon Communications (NYSE:VZ) Hits New 1-Year High - Here's What Happened"
         },
         {
-            "time": "16:34",
+            "time": "18:10",
             "tag": "MERCADO",
-            "text": "Intel has manufacturing capacity issues. They may take years to fix."
+            "text": "IQVIA Rose 7% This Week. Here\u2019s Where the Stock Could Head in 2026"
         }
     ]
 }
