@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-03 15:50 UTC",
+        "last_updated": "2026-03-03 16:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 177.26,
-            "change": "+1.15%"
+            "price": 180.14,
+            "change": "-1.69%"
         },
         {
             "symbol": "AMD",
-            "price": 189.09,
-            "change": "+1.71%"
+            "price": 190.85,
+            "change": "-1.14%"
         },
         {
             "symbol": "MSFT",
-            "price": 396.41,
-            "change": "-0.81%"
+            "price": 401.35,
+            "change": "-3.19%"
         },
         {
             "symbol": "CEG",
-            "price": 316.11,
-            "change": "+1.68%"
+            "price": 320.16,
+            "change": "-2.28%"
         },
         {
             "symbol": "VST",
-            "price": 154.95,
-            "change": "+0.88%"
+            "price": 158.95,
+            "change": "-0.76%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.7,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.6,
-            24.56,
-            24.54,
-            24.75,
-            24.67,
-            25.07,
-            25.56,
-            25.52,
-            25.61,
-            25.29,
+            24.83,
+            25.12,
+            25.12,
+            25.28,
+            25.15,
             24.8,
-            24.81
+            24.43,
+            24.28,
+            24.59,
+            24.91,
+            24.74,
+            25.22
         ],
         "hsd_history_software": [
-            9.79,
-            9.97,
-            10.0,
-            10.03,
-            10.0,
-            9.85,
-            10.0,
-            9.97,
-            10.12,
-            10.12,
-            10.04,
-            10.12
+            10.46,
+            10.33,
+            10.46,
+            10.37,
+            10.41,
+            10.22,
+            10.2,
+            10.11,
+            9.98,
+            10.13,
+            10.08,
+            10.02
         ],
         "rci_data": [
             85.0,
-            17.726
+            18.014
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:47",
+            "time": "15:49",
             "tag": "MERCADO",
-            "text": "Palo Alto Networks (PANW) Receives \"Overweight\" Rating as Wells Fargo Initiates Coverage | PANW Stock News"
+            "text": "PTC Inc. (NASDAQ:PTC) Short Interest Up 24.6% in February"
         },
         {
-            "time": "14:41",
+            "time": "15:31",
             "tag": "MERCADO",
-            "text": "How Philip Morris International\u2019s Outcome\u2011Driven EA Practice Won The 2025 Forrester EA Award In EMEA"
+            "text": "Intuitive Surgical, Inc. Rings the Nasdaq Stock Market Opening Bell"
         },
         {
-            "time": "14:39",
+            "time": "15:28",
+            "tag": "MERCADO",
+            "text": "Jim Cramer on Applied Materials: \u201cIt Got Away From Us\u201d"
+        },
+        {
+            "time": "15:23",
+            "tag": "MERCADO",
+            "text": "Vertex Pharma Stock: Why Wall Street Is Quietly Buying the Dip"
+        },
+        {
+            "time": "15:13",
             "tag": "AI",
-            "text": "CoStar Group (CSGP) Is Down 5.6% After CEO\u2019s Rare Insider Buy And Homes AI Launch \u2013 Has The Bull Case Changed?"
-        },
-        {
-            "time": "14:36",
-            "tag": "MERCADO",
-            "text": "Is Jack Henry And Associates (JKHY) Fairly Priced After Recent Share Price Swings?"
-        },
-        {
-            "time": "14:35",
-            "tag": "AI",
-            "text": "Alphabet Inc. (Class C): Is Google\u2019s Stock Still a Buy After the Latest AI Push?"
+            "text": "Palo Alto Networks teams with global partners for secure by design AI factories"
         }
     ]
 }
