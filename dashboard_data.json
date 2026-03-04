@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-04 22:35 UTC",
+        "last_updated": "2026-03-04 23:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.04,
-            "change": "+2.76%"
+            "change": "-1.17%"
         },
         {
             "symbol": "AMD",
             "price": 202.07,
-            "change": "-1.22%"
+            "change": "-1.26%"
         },
         {
             "symbol": "MSFT",
             "price": 405.2,
-            "change": "+0.65%"
+            "change": "+3.41%"
         },
         {
             "symbol": "CEG",
             "price": 322.85,
-            "change": "-0.78%"
+            "change": "-0.58%"
         },
         {
             "symbol": "VST",
             "price": 163.36,
-            "change": "-2.99%"
+            "change": "+0.08%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.56,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.5,
+            0.51,
+            0.51,
+            0.52,
+            0.53,
+            0.52,
+            0.53,
+            0.52,
             0.51,
             0.52,
             0.51,
-            0.5,
-            0.49,
-            0.5,
-            0.49
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.3,
-            25.48,
-            25.06,
-            25.21,
-            25.17,
+            23.7,
+            24.16,
+            24.64,
+            24.36,
+            24.61,
+            24.56,
+            24.74,
+            25.15,
+            24.93,
             25.09,
-            25.13,
-            24.88,
-            25.23,
-            25.6,
-            25.64,
-            25.22
+            25.16,
+            25.3
         ],
         "hsd_history_software": [
-            10.83,
-            10.83,
-            10.66,
-            10.5,
-            10.67,
-            10.59,
-            10.38,
-            10.41,
-            10.46,
-            10.35,
-            10.32,
-            10.14
+            9.69,
+            9.84,
+            9.99,
+            9.87,
+            9.95,
+            10.15,
+            10.09,
+            9.94,
+            9.84,
+            9.97,
+            10.12,
+            9.93
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:44",
+            "time": "22:42",
             "tag": "MERCADO",
-            "text": "Verisign (NASDAQ: VRSN) legal chief sells 498 shares in March"
+            "text": "Dell Technologies (NYSE: DELL) backer Silver Lake reports Class C share sales"
         },
         {
-            "time": "21:40",
+            "time": "22:35",
             "tag": "MERCADO",
-            "text": "AT&T Named Founding Partner & Official Connectivity Provider of Tgl Presented by Sofi"
+            "text": "How Investors Are Reacting To Roper Technologies (ROP) Expanding Campus Commerce Into Stadium Concessions"
         },
         {
-            "time": "21:36",
-            "tag": "AI",
-            "text": "ROK Rockwell Automation NYSE down 3.78% after-hours 04 Mar 2026: AI demand supports recovery"
-        },
-        {
-            "time": "21:22",
+            "time": "22:19",
             "tag": "MERCADO",
-            "text": "Dominion's Service Area Well Positioned for Accelerating Data Center Growth"
+            "text": "Lam Research (NASDAQ:LRCX) Trading 2.6% Higher - Should You Buy?"
         },
         {
-            "time": "21:18",
-            "tag": "AI",
-            "text": "Broadcom Forecast Underwhelms Investors in Sign of AI Angst"
+            "time": "22:19",
+            "tag": "MERCADO",
+            "text": "Western Digital (NASDAQ:WDC) Trading Up 4.3% - Time to Buy?"
+        },
+        {
+            "time": "22:09",
+            "tag": "MERCADO",
+            "text": "Insider Sell Alert: VON STAATS AARON C Sells Shares of PTC Inc (PTC)"
         }
     ]
 }
