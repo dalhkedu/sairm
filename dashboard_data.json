@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-04 02:23 UTC",
+        "last_updated": "2026-03-04 04:42 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.05,
-            "change": "-1.07%"
+            "change": "+1.59%"
         },
         {
             "symbol": "AMD",
             "price": 190.95,
-            "change": "-0.1%"
+            "change": "-2.26%"
         },
         {
             "symbol": "MSFT",
             "price": 403.93,
-            "change": "+0.52%"
+            "change": "+1.04%"
         },
         {
             "symbol": "CEG",
             "price": 324.87,
-            "change": "-1.31%"
+            "change": "-2.11%"
         },
         {
             "symbol": "VST",
             "price": 161.7,
-            "change": "+2.2%"
+            "change": "+3.12%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.62,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.46,
+            0.45,
+            0.46,
+            0.47,
+            0.47,
+            0.47,
             0.48,
+            0.47,
             0.48,
             0.49,
             0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.63,
-            25.1,
-            25.5,
-            25.09,
-            24.83,
-            25.23,
-            24.9,
-            24.42,
-            24.82,
-            24.41,
-            24.71,
-            25.1
+            23.49,
+            23.96,
+            23.72,
+            24.2,
+            24.12,
+            24.61,
+            24.37,
+            24.23,
+            24.48,
+            24.38,
+            24.18,
+            24.59
         ],
         "hsd_history_software": [
-            10.96,
-            10.75,
-            10.78,
-            10.58,
-            10.46,
-            10.42,
-            10.29,
+            10.11,
+            10.07,
+            10.06,
             10.25,
-            10.41,
-            10.36,
-            10.24,
-            10.17
+            10.13,
+            10.1,
+            10.11,
+            10.07,
+            10.11,
+            10.04,
+            9.97,
+            9.8
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:42",
+            "time": "03:20",
+            "tag": "MERCADO",
+            "text": "TikTok down second time in two months; company says: 'An issue with an Oracle data center\u2026'"
+        },
+        {
+            "time": "02:52",
+            "tag": "MERCADO",
+            "text": "ETFs Investing in Cloudflare Inc Class A Stocks"
+        },
+        {
+            "time": "02:51",
+            "tag": "MERCADO",
+            "text": "LG Display and Universal Display Extend OLED Partnership"
+        },
+        {
+            "time": "02:36",
             "tag": "AI",
-            "text": "Meta Reportedly Signs $50 Million News Corp Deal As Big Tech's AI Content Arms Race Heats Up"
+            "text": "IBM Confluent Deal And Claude Code Put AI Focus In View"
         },
         {
-            "time": "01:33",
+            "time": "02:29",
             "tag": "AI",
-            "text": "ServiceNow AI Push And Telecom Partnership Meet Undervalued Stock Story"
-        },
-        {
-            "time": "01:13",
-            "tag": "MERCADO",
-            "text": "NXP Stock Dropped 5% This Week. Here\u2019s the Recovery Story Into 2026"
-        },
-        {
-            "time": "01:09",
-            "tag": "MERCADO",
-            "text": "Insider Selling: Seagate Technology (NASDAQ:STX) CEO Sells 20,000 Shares of Stock"
-        },
-        {
-            "time": "01:02",
-            "tag": "MERCADO",
-            "text": "How Investors May Respond To Mercury Systems (MRCY) Amid Rising Focus On West Asia Defense Tensions"
+            "text": "Assessing Oracle (ORCL) Valuation As AI Lawsuits Funding Needs And Analyst Upgrades Collide"
         }
     ]
 }
