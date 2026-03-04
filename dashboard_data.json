@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-04 16:52 UTC",
+        "last_updated": "2026-03-04 17:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 182.88,
-            "change": "-2.27%"
+            "price": 183.11,
+            "change": "-0.94%"
         },
         {
             "symbol": "AMD",
-            "price": 198.05,
-            "change": "+2.6%"
+            "price": 200.23,
+            "change": "+0.38%"
         },
         {
             "symbol": "MSFT",
-            "price": 405.57,
-            "change": "+1.49%"
+            "price": 408.69,
+            "change": "-2.63%"
         },
         {
             "symbol": "CEG",
-            "price": 323.44,
-            "change": "-2.02%"
+            "price": 323.71,
+            "change": "-3.16%"
         },
         {
             "symbol": "VST",
-            "price": 162.96,
-            "change": "-0.61%"
+            "price": 162.42,
+            "change": "-1.42%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.68,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.45,
-            0.46,
-            0.46,
-            0.46,
-            0.46,
-            0.47,
-            0.48,
-            0.49,
-            0.49,
+            0.51,
+            0.5,
+            0.51,
             0.5,
             0.5,
-            0.51
+            0.51,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.85,
-            25.2,
-            25.35,
-            24.93,
-            25.03,
-            25.36,
-            24.95,
-            24.58,
+            23.72,
+            24.18,
+            24.37,
+            24.22,
+            24.54,
+            24.97,
+            24.76,
             24.41,
-            24.73,
-            24.92,
-            24.56
+            24.38,
+            24.55,
+            24.66,
+            24.62
         ],
         "hsd_history_software": [
-            10.23,
-            10.38,
-            10.47,
-            10.54,
-            10.37,
-            10.23,
-            10.21,
-            10.13,
-            10.14,
-            10.24,
-            10.08,
-            10.07
+            9.58,
+            9.73,
+            9.85,
+            10.05,
+            9.88,
+            9.82,
+            9.77,
+            9.75,
+            9.76,
+            9.95,
+            10.01,
+            10.09
         ],
         "rci_data": [
             85.0,
-            18.288
+            18.311000000000003
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:19",
-            "tag": "MERCADO",
-            "text": "Microsoft acquires 124 acres in Virginia\u2019s Prince William County for $465.5m"
-        },
-        {
-            "time": "15:50",
-            "tag": "MERCADO",
-            "text": "Netflix Director Hastings Reed Sells Over $39 Million in Company Stock"
-        },
-        {
-            "time": "15:42",
-            "tag": "MERCADO",
-            "text": "Jim Cramer on Capital One: \"Stick With It\""
-        },
-        {
-            "time": "15:42",
+            "time": "16:44",
             "tag": "AI",
-            "text": "Verato to Showcase Identity Intelligence at Gartner Data & Analytics Summit 2026"
+            "text": "Keysight, Qualcomm demo AI channel feedback for 5G networks"
         },
         {
-            "time": "15:40",
+            "time": "16:43",
             "tag": "MERCADO",
-            "text": "Financial Planning Firm Achieves IT Excellence"
+            "text": "PC Connection, Inc. (NASDAQ:CNXN) Sees Significant Decline in Short Interest"
+        },
+        {
+            "time": "16:43",
+            "tag": "MERCADO",
+            "text": "Climb Global Solutions, Inc. (NASDAQ:CLMB) Short Interest Down 14.3% in February"
+        },
+        {
+            "time": "16:41",
+            "tag": "MERCADO",
+            "text": "KeyCorp CIO Resignation Puts Focus On Technology Continuity And Valuation"
+        },
+        {
+            "time": "16:40",
+            "tag": "MERCADO",
+            "text": "Microchip MASTERs Conference Highlights Community Focus And Raises Valuation Questions"
         }
     ]
 }
