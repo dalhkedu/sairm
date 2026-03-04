@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-04 04:42 UTC",
+        "last_updated": "2026-03-04 05:47 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.05,
-            "change": "+1.59%"
+            "change": "-3.3%"
         },
         {
             "symbol": "AMD",
             "price": 190.95,
-            "change": "-2.26%"
+            "change": "+2.7%"
         },
         {
             "symbol": "MSFT",
             "price": 403.93,
-            "change": "+1.04%"
+            "change": "-1.67%"
         },
         {
             "symbol": "CEG",
             "price": 324.87,
-            "change": "-2.11%"
+            "change": "-0.19%"
         },
         {
             "symbol": "VST",
             "price": 161.7,
-            "change": "+3.12%"
+            "change": "+2.31%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.69,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.45,
-            0.46,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.47,
-            0.48,
-            0.49,
-            0.49,
-            0.5
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.53,
+            0.52,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            23.49,
-            23.96,
-            23.72,
-            24.2,
-            24.12,
-            24.61,
-            24.37,
-            24.23,
-            24.48,
-            24.38,
-            24.18,
-            24.59
+            25.0,
+            25.24,
+            24.96,
+            25.31,
+            25.47,
+            25.0,
+            24.87,
+            24.98,
+            24.59,
+            24.96,
+            25.26,
+            24.97
         ],
         "hsd_history_software": [
-            10.11,
-            10.07,
-            10.06,
-            10.25,
-            10.13,
-            10.1,
-            10.11,
-            10.07,
-            10.11,
-            10.04,
-            9.97,
-            9.8
+            9.51,
+            9.59,
+            9.67,
+            9.63,
+            9.5,
+            9.55,
+            9.73,
+            9.92,
+            9.96,
+            9.85,
+            10.05,
+            10.01
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "03:20",
+            "time": "04:52",
             "tag": "MERCADO",
-            "text": "TikTok down second time in two months; company says: 'An issue with an Oracle data center\u2026'"
+            "text": "PSWD Stock Fund Price and Chart \u2014 NASDAQ:PSWD"
         },
         {
-            "time": "02:52",
-            "tag": "MERCADO",
-            "text": "ETFs Investing in Cloudflare Inc Class A Stocks"
-        },
-        {
-            "time": "02:51",
-            "tag": "MERCADO",
-            "text": "LG Display and Universal Display Extend OLED Partnership"
-        },
-        {
-            "time": "02:36",
+            "time": "04:51",
             "tag": "AI",
-            "text": "IBM Confluent Deal And Claude Code Put AI Focus In View"
+            "text": "Assessing Procore Technologies (PCOR) Valuation After AI Tailwinds And United Rentals Partnership"
         },
         {
-            "time": "02:29",
-            "tag": "AI",
-            "text": "Assessing Oracle (ORCL) Valuation As AI Lawsuits Funding Needs And Analyst Upgrades Collide"
+            "time": "04:50",
+            "tag": "MERCADO",
+            "text": "Transcript : Fortinet, Inc. Presents at Morgan Stanley Technology, Media & Telecom Conference 2026, Mar-03-2026 10"
+        },
+        {
+            "time": "04:19",
+            "tag": "MERCADO",
+            "text": "TikTok Is Experiencing Oracle-Related Server Issues Again"
+        },
+        {
+            "time": "04:03",
+            "tag": "MERCADO",
+            "text": "Diversified Offerings Aid Gartner Amid Rising Costs & Competition"
         }
     ]
 }
