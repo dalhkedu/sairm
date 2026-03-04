@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-04 08:43 UTC",
+        "last_updated": "2026-03-04 09:45 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.05,
-            "change": "+1.95%"
+            "change": "-0.95%"
         },
         {
             "symbol": "AMD",
             "price": 190.95,
-            "change": "-1.78%"
+            "change": "+3.31%"
         },
         {
             "symbol": "MSFT",
             "price": 403.93,
-            "change": "+1.97%"
+            "change": "-1.01%"
         },
         {
             "symbol": "CEG",
             "price": 324.87,
-            "change": "-0.34%"
+            "change": "+1.96%"
         },
         {
             "symbol": "VST",
             "price": 161.7,
-            "change": "+1.85%"
+            "change": "+2.63%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.52,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.49,
             0.49,
             0.5,
             0.5,
             0.5,
-            0.5,
-            0.51,
             0.51,
             0.5,
-            0.49,
-            0.5,
             0.51,
-            0.51
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.88,
-            23.76,
-            23.73,
-            23.93,
-            23.81,
-            24.28,
-            24.33,
-            24.44,
-            24.31,
+            25.06,
+            24.77,
+            25.25,
+            24.83,
+            24.64,
+            24.88,
+            24.68,
+            24.99,
+            24.77,
+            24.68,
             24.5,
-            24.49,
-            24.63
+            24.87
         ],
         "hsd_history_software": [
-            10.4,
-            10.51,
+            10.5,
+            10.46,
+            10.65,
+            10.78,
+            10.84,
             10.66,
-            10.61,
-            10.42,
-            10.29,
-            10.42,
-            10.35,
-            10.36,
-            10.32,
-            10.26,
-            10.06
+            10.7,
+            10.57,
+            10.37,
+            10.21,
+            10.24,
+            10.12
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:51",
+            "time": "09:30",
             "tag": "MERCADO",
-            "text": "Insider Sell: Richard Hume Sells 5,000 Shares of TD Synnex Corp (SNX)"
+            "text": "Instant future: leading the 5G low-latency Edge"
         },
         {
-            "time": "07:41",
+            "time": "08:52",
             "tag": "MERCADO",
-            "text": "APPLE INC : UBS reiterates its Neutral rating"
+            "text": "TRFK Stock Fund Price and Chart \u2014 AMEX:TRFK"
         },
         {
-            "time": "07:40",
+            "time": "08:47",
             "tag": "MERCADO",
-            "text": "Gartner\u00ae Recognizes OpenWay Group in the 2026 Market Guide for Digital Commerce Payment Platforms | Corporate"
+            "text": "AustralianSuper Pty Ltd Acquires 20,133 Shares of VeriSign, Inc. $VRSN"
         },
         {
-            "time": "07:22",
-            "tag": "RESULTADOS",
-            "text": "CRM Earnings History & Surprises | EPS & Revenue Results | SALESFORCE INC (NYSE:CRM)"
+            "time": "08:47",
+            "tag": "MERCADO",
+            "text": "Bellwether Advisors LLC Has $5.45 Million Stake in Take-Two Interactive Software, Inc. $TTWO"
         },
         {
-            "time": "07:01",
+            "time": "08:47",
             "tag": "MERCADO",
-            "text": "Microsoft, Dermody update tax agreement to include historic funding for La Porte schools"
+            "text": "Bellwether Advisors LLC Increases Holdings in eBay Inc. $EBAY"
         }
     ]
 }
