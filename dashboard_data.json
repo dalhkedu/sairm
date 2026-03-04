@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-03 23:31 UTC",
+        "last_updated": "2026-03-04 02:23 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.05,
-            "change": "+3.02%"
+            "change": "-1.07%"
         },
         {
             "symbol": "AMD",
             "price": 190.95,
-            "change": "+2.62%"
+            "change": "-0.1%"
         },
         {
             "symbol": "MSFT",
             "price": 403.93,
-            "change": "+2.17%"
+            "change": "+0.52%"
         },
         {
             "symbol": "CEG",
             "price": 324.87,
-            "change": "+1.54%"
+            "change": "-1.31%"
         },
         {
             "symbol": "VST",
             "price": 161.7,
-            "change": "+0.04%"
+            "change": "+2.2%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.45,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
             0.5,
-            0.51,
-            0.51,
             0.5,
-            0.51,
-            0.51,
+            0.49,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.5,
-            24.08,
-            24.36,
-            24.51,
+            24.63,
+            25.1,
+            25.5,
+            25.09,
+            24.83,
+            25.23,
+            24.9,
+            24.42,
+            24.82,
+            24.41,
             24.71,
-            24.87,
-            24.61,
-            24.5,
-            24.38,
-            24.72,
-            24.61,
-            24.93
+            25.1
         ],
         "hsd_history_software": [
-            9.93,
-            9.97,
-            9.85,
-            9.85,
-            10.02,
-            10.01,
-            10.07,
-            10.21,
-            10.03,
-            10.17,
-            10.22,
-            10.16
+            10.96,
+            10.75,
+            10.78,
+            10.58,
+            10.46,
+            10.42,
+            10.29,
+            10.25,
+            10.41,
+            10.36,
+            10.24,
+            10.17
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:52",
-            "tag": "MERCADO",
-            "text": "Handelsbanken Fonder AB Boosts Stake in Aeva Technologies"
+            "time": "01:42",
+            "tag": "AI",
+            "text": "Meta Reportedly Signs $50 Million News Corp Deal As Big Tech's AI Content Arms Race Heats Up"
         },
         {
-            "time": "22:40",
-            "tag": "MERCADO",
-            "text": "KLA Corporation (KLAC) Placed on Positive Catalyst Watch Ahead of Investor Day"
+            "time": "01:33",
+            "tag": "AI",
+            "text": "ServiceNow AI Push And Telecom Partnership Meet Undervalued Stock Story"
         },
         {
-            "time": "22:38",
+            "time": "01:13",
             "tag": "MERCADO",
-            "text": "Fortinet, Inc. (FTNT) Forecasts 13% Billings Growth for 2026, Beats EPS and Revenue Estimates"
+            "text": "NXP Stock Dropped 5% This Week. Here\u2019s the Recovery Story Into 2026"
         },
         {
-            "time": "22:37",
+            "time": "01:09",
             "tag": "MERCADO",
-            "text": "How Adding Google\u2019s Rick Osterloh To Dexcom\u2019s Board (DXCM) Could Reframe Its Investment Story"
+            "text": "Insider Selling: Seagate Technology (NASDAQ:STX) CEO Sells 20,000 Shares of Stock"
         },
         {
-            "time": "22:34",
+            "time": "01:02",
             "tag": "MERCADO",
-            "text": "Super Micro Computer (NASDAQ:SMCI) Shares Down 3.6% - Here's Why"
+            "text": "How Investors May Respond To Mercury Systems (MRCY) Amid Rising Focus On West Asia Defense Tensions"
         }
     ]
 }
