@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-04 10:40 UTC",
+        "last_updated": "2026-03-04 11:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.05,
-            "change": "+0.88%"
+            "change": "-1.66%"
         },
         {
             "symbol": "AMD",
             "price": 190.95,
-            "change": "-2.84%"
+            "change": "+0.77%"
         },
         {
             "symbol": "MSFT",
             "price": 403.93,
-            "change": "-1.57%"
+            "change": "+1.19%"
         },
         {
             "symbol": "CEG",
-            "price": 324.87,
-            "change": "+2.29%"
+            "price": NaN,
+            "change": "+2.63%"
         },
         {
             "symbol": "VST",
             "price": 161.7,
-            "change": "+1.27%"
+            "change": "-0.36%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.5,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.55,
-            0.55,
-            0.54,
-            0.53,
-            0.53,
-            0.52,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.5
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.28,
-            25.24,
-            25.37,
-            25.26,
-            25.43,
-            24.96,
-            25.02,
-            24.94,
-            24.76,
-            25.15,
-            24.89,
-            24.62
+            25.72,
+            26.15,
+            26.44,
+            26.83,
+            26.34,
+            26.57,
+            26.29,
+            26.21,
+            26.08,
+            25.59,
+            25.13,
+            25.38
         ],
         "hsd_history_software": [
-            10.09,
-            10.07,
-            10.03,
-            10.1,
-            10.29,
-            10.31,
-            10.48,
+            10.8,
+            10.78,
+            10.57,
+            10.44,
+            10.64,
             10.46,
-            10.38,
-            10.23,
+            10.27,
             10.22,
-            10.05
+            10.27,
+            10.17,
+            10.21,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:52",
+            "time": "10:30",
             "tag": "MERCADO",
-            "text": "ProShares Ultra Semiconductors Review and Aggregate Rating (USD)"
+            "text": "Assessing Whether Analog Devices (ADI) Still Looks Undervalued After Strong Recent Share Gains"
         },
         {
-            "time": "09:52",
+            "time": "10:29",
             "tag": "MERCADO",
-            "text": "UFO ETF Holdings List \u2014 NASDAQ:UFO"
+            "text": "Lockheed, Mitsubishi to Add Anti-Jamming to Japanese Defense Satellite"
         },
         {
-            "time": "09:47",
+            "time": "10:27",
             "tag": "MERCADO",
-            "text": "CI Investments Inc. Has $23.31 Million Position in Adobe Inc. $ADBE"
+            "text": "Dimensional Fund Advisors LP Has $1.97 Billion Stock Holdings in Cisco Systems, Inc. $CSCO"
         },
         {
-            "time": "09:47",
+            "time": "10:25",
             "tag": "MERCADO",
-            "text": "CI Investments Inc. Buys 12,288 Shares of International Business Machines Corporation $IBM"
+            "text": "Microsoft Corporation $MSFT Shares Purchased by Hantz Financial Services Inc."
         },
         {
-            "time": "09:47",
+            "time": "10:25",
             "tag": "MERCADO",
-            "text": "Deepwater Asset Management LLC Makes New $13.84 Million Investment in Uber Technologies, Inc. $UBER"
+            "text": "Texas Instruments Incorporated $TXN Shares Acquired by Dimensional Fund Advisors LP"
         }
     ]
 }
