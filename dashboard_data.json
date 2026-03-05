@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-05 04:47 UTC",
+        "last_updated": "2026-03-05 05:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.04,
-            "change": "+0.19%"
+            "change": "-3.39%"
         },
         {
             "symbol": "AMD",
             "price": 202.07,
-            "change": "+0.37%"
+            "change": "-3.03%"
         },
         {
             "symbol": "MSFT",
             "price": 405.2,
-            "change": "-2.26%"
+            "change": "+2.65%"
         },
         {
             "symbol": "CEG",
             "price": 322.85,
-            "change": "-0.63%"
+            "change": "-1.63%"
         },
         {
             "symbol": "VST",
             "price": 163.36,
-            "change": "-1.83%"
+            "change": "+2.39%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.69,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.49,
-            0.49
+            0.52,
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.64,
-            24.44,
-            24.06,
-            23.97,
-            23.73,
-            24.1,
-            23.84,
-            23.95,
-            24.29,
-            24.3,
-            24.43,
-            24.54
+            26.12,
+            26.33,
+            26.22,
+            25.71,
+            25.85,
+            25.78,
+            25.83,
+            25.55,
+            25.38,
+            25.46,
+            25.36,
+            25.36
         ],
         "hsd_history_software": [
-            9.92,
-            9.99,
-            10.0,
-            10.06,
-            10.23,
-            10.17,
-            10.13,
-            10.04,
             10.03,
-            9.99,
-            10.02,
-            9.99
+            10.09,
+            9.92,
+            9.79,
+            9.92,
+            9.94,
+            10.08,
+            10.28,
+            10.18,
+            10.17,
+            10.09,
+            10.06
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "04:38",
+            "tag": "MERCADO",
+            "text": "Trends in Growth, Segment Analysis, and Competitive Strategies Influencing the Solid Waste Management Market"
+        },
+        {
+            "time": "04:33",
+            "tag": "MERCADO",
+            "text": "ServiceNow : Service Gaps Cost Indians 10.8 Hours a Year; 44% Ready to Switch Brands, Finds ServiceNow\u2019s Third CX Report"
+        },
+        {
+            "time": "04:29",
+            "tag": "MERCADO",
+            "text": "Charles River Laboratories: Why Wall Street Suddenly Cares About This Quiet Biotech Powerhouse"
+        },
+        {
+            "time": "03:52",
+            "tag": "MERCADO",
+            "text": "Deere & Co. stock is ripping: should you jump in now?"
+        },
+        {
             "time": "03:44",
             "tag": "AI",
             "text": "Why IQVIA (IQV) Is Up 9.9% After Mixed Q4 Results and AI-Linked Outlook Reset"
-        },
-        {
-            "time": "03:31",
-            "tag": "MERCADO",
-            "text": "ON Semiconductor Stock: What Wall Street Just Changed for 2025 EV Bets"
-        },
-        {
-            "time": "03:30",
-            "tag": "AI",
-            "text": "Intuit: We Lower Moat Rating, Cut Fair Value Estimate on Reduced Certainty Around AI"
-        },
-        {
-            "time": "03:13",
-            "tag": "RESULTADOS",
-            "text": "Broadcom Earnings: Raising Fair Value Estimate on Strong 2027 Guidance"
-        },
-        {
-            "time": "02:49",
-            "tag": "MERCADO",
-            "text": "Cathie Wood Buys What This Billionaire Is Selling: Ark Adds Amazon And Alibaba Stock, Dumps This Chip Giant"
         }
     ]
 }
