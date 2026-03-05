@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-05 15:53 UTC",
+        "last_updated": "2026-03-05 18:07 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 183.47,
-            "change": "+3.41%"
+            "price": 179.43,
+            "change": "-2.13%"
         },
         {
             "symbol": "AMD",
-            "price": 202.22,
-            "change": "-0.29%"
+            "price": 196.27,
+            "change": "+0.81%"
         },
         {
             "symbol": "MSFT",
-            "price": 408.23,
-            "change": "-2.97%"
+            "price": 409.79,
+            "change": "+3.27%"
         },
         {
             "symbol": "CEG",
-            "price": 325.9,
-            "change": "+1.76%"
+            "price": 325.42,
+            "change": "-0.12%"
         },
         {
             "symbol": "VST",
-            "price": 166.14,
-            "change": "+1.86%"
+            "price": 164.96,
+            "change": "+0.13%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.64,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.53,
+            0.52,
             0.53,
             0.52,
+            0.52,
             0.51,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.5
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.48,
-            25.47,
-            25.49,
+            24.92,
             25.31,
-            25.64,
-            25.84,
-            25.46,
-            25.19,
-            24.9,
-            25.17,
-            25.3,
-            25.35
+            25.12,
+            24.95,
+            24.69,
+            24.83,
+            24.87,
+            24.57,
+            25.0,
+            25.4,
+            25.11,
+            24.91
         ],
         "hsd_history_software": [
-            9.95,
-            9.97,
-            9.97,
-            10.1,
-            10.07,
-            10.07,
-            10.15,
-            10.01,
-            10.16,
-            9.98,
-            9.97,
-            9.83
+            9.03,
+            9.13,
+            9.11,
+            9.27,
+            9.18,
+            9.35,
+            9.51,
+            9.62,
+            9.8,
+            9.89,
+            10.04,
+            9.96
         ],
         "rci_data": [
             85.0,
-            18.346999999999998
+            17.943
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:38",
+            "time": "17:42",
             "tag": "MERCADO",
-            "text": "Prologis details plans for data center campus outside Cincinnati, Ohio"
+            "text": "Hewlett-Packard announces it will leave Boise by the end of 2027"
         },
         {
-            "time": "14:38",
+            "time": "17:40",
             "tag": "MERCADO",
-            "text": "The Home Depot to Launch Real-Time Delivery Tracker for Pro Customers"
+            "text": "Is Coca-Cola's Digital Transformation a Catalyst for Margin Expansion?"
         },
         {
-            "time": "14:20",
+            "time": "17:28",
             "tag": "MERCADO",
-            "text": "Corning Stock Is Falling. Why Broadcom Could Be Blamed."
+            "text": "New 5D camera lets robots and self-checkouts see in 3D"
         },
         {
-            "time": "14:17",
+            "time": "17:26",
             "tag": "MERCADO",
-            "text": "Buy 5 Computers IT Services Stocks to Boost Your Portfolio in 2026"
+            "text": "Why Is ServiceNow (NOW) Stock Soaring Today"
         },
         {
-            "time": "14:16",
+            "time": "17:10",
             "tag": "MERCADO",
-            "text": "Western Digital vs Seagate After the Sell-Off: One Storage Rival Is a Clear Winner"
+            "text": "Vistra adds Enphase batteries to Texas virtual power plant | VST Stock News"
         }
     ]
 }
