@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-05 20:40 UTC",
+        "last_updated": "2026-03-05 21:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 182.3,
-            "change": "-1.53%"
+            "price": 183.34,
+            "change": "-3.17%"
         },
         {
             "symbol": "AMD",
-            "price": 198.34,
-            "change": "-2.18%"
+            "price": 199.45,
+            "change": "+3.02%"
         },
         {
             "symbol": "MSFT",
-            "price": 409.93,
+            "price": 410.68,
             "change": "-0.07%"
         },
         {
             "symbol": "CEG",
-            "price": 329.7,
-            "change": "-1.41%"
+            "price": 332.07,
+            "change": "+0.69%"
         },
         {
             "symbol": "VST",
-            "price": 166.69,
-            "change": "-0.53%"
+            "price": 167.4,
+            "change": "+3.34%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.5,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
+            0.49,
             0.5,
             0.5,
             0.5,
             0.49,
             0.5,
             0.5,
-            0.51
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.91,
-            26.25,
-            26.7,
-            26.26,
-            25.77,
-            25.44,
-            25.53,
-            25.14,
-            25.13,
-            25.06,
-            25.21,
-            25.26
+            24.08,
+            23.71,
+            24.03,
+            23.97,
+            24.11,
+            24.53,
+            24.37,
+            24.4,
+            24.17,
+            24.64,
+            24.93,
+            24.51
         ],
         "hsd_history_software": [
-            10.31,
-            10.46,
-            10.33,
-            10.5,
-            10.33,
-            10.2,
-            10.03,
-            10.15,
+            9.91,
+            9.85,
+            9.96,
+            9.95,
+            10.13,
             10.18,
-            10.11,
-            10.26,
-            10.19
+            10.29,
+            10.27,
+            10.07,
+            10.23,
+            10.3,
+            10.12
         ],
         "rci_data": [
             85.0,
-            18.23
+            18.334
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:30",
-            "tag": "AI",
-            "text": "Netflix just bought the AI company Ben Affleck apparently founded"
-        },
-        {
-            "time": "19:00",
+            "time": "20:32",
             "tag": "MERCADO",
-            "text": "Scientists create \u2018half-M\u00f6bius\u2019 molecule, probe it with an IBM quantum computer"
+            "text": "Allen Weinberg Appointed Chief Growth and Strategy Officer at Broadridge Financial Solutions"
         },
         {
-            "time": "18:56",
+            "time": "20:32",
             "tag": "AI",
-            "text": "As Supermicro Joins a Key AI Data Center Alliance, Should You Buy SMCI Stock?"
+            "text": "AI Is Increasing Uncertainty of Long-Term Moats Around Software, Including for Adobe"
         },
         {
-            "time": "18:53",
+            "time": "20:21",
+            "tag": "AI",
+            "text": "Oracle: Despite Some AI Benefits, Lowering Moat Rating On Disruption Threat"
+        },
+        {
+            "time": "20:19",
             "tag": "MERCADO",
-            "text": "Amphenol Stock Rises 20% in 6 Months: Is There More Room for Growth?"
+            "text": "Do Apple\u2019s new low-cost devices have too many compromises?"
         },
         {
-            "time": "18:50",
-            "tag": "AI",
-            "text": "Gen Blogs | Introducing AARTS: An Open Standard for AI Agent Runtime Safety"
+            "time": "20:19",
+            "tag": "MERCADO",
+            "text": "Evergy files plans for substation to help power $3B data center in De Soto"
         }
     ]
 }
