@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-04 23:34 UTC",
+        "last_updated": "2026-03-05 02:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.04,
-            "change": "-1.17%"
+            "change": "+1.73%"
         },
         {
             "symbol": "AMD",
             "price": 202.07,
-            "change": "-1.26%"
+            "change": "+1.5%"
         },
         {
             "symbol": "MSFT",
             "price": 405.2,
-            "change": "+3.41%"
+            "change": "-0.51%"
         },
         {
             "symbol": "CEG",
             "price": 322.85,
-            "change": "-0.58%"
+            "change": "-3.45%"
         },
         {
             "symbol": "VST",
             "price": 163.36,
-            "change": "+0.08%"
+            "change": "-1.91%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.63,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.5,
             0.51,
-            0.51,
-            0.52,
-            0.53,
-            0.52,
-            0.53,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.7,
-            24.16,
-            24.64,
-            24.36,
-            24.61,
-            24.56,
-            24.74,
-            25.15,
-            24.93,
+            24.85,
             25.09,
-            25.16,
-            25.3
+            24.85,
+            25.02,
+            25.22,
+            25.57,
+            25.29,
+            25.42,
+            25.84,
+            25.42,
+            25.29,
+            24.88
         ],
         "hsd_history_software": [
-            9.69,
-            9.84,
+            9.53,
+            9.59,
+            9.59,
+            9.41,
+            9.4,
+            9.46,
+            9.47,
+            9.64,
+            9.83,
             9.99,
-            9.87,
-            9.95,
-            10.15,
-            10.09,
-            9.94,
-            9.84,
-            9.97,
-            10.12,
-            9.93
+            10.06,
+            10.13
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:42",
+            "time": "00:47",
             "tag": "MERCADO",
-            "text": "Dell Technologies (NYSE: DELL) backer Silver Lake reports Class C share sales"
+            "text": "New Ryzen Series Chips Add to Advanced Micro Devices' (AMD) Bull Thesis"
         },
         {
-            "time": "22:35",
+            "time": "00:10",
             "tag": "MERCADO",
-            "text": "How Investors Are Reacting To Roper Technologies (ROP) Expanding Campus Commerce Into Stadium Concessions"
+            "text": "Why Is SPY ETF Down Today, 3/4/2026?"
         },
         {
-            "time": "22:19",
+            "time": "23:53",
             "tag": "MERCADO",
-            "text": "Lam Research (NASDAQ:LRCX) Trading 2.6% Higher - Should You Buy?"
+            "text": "Cadence Design Systems (NASDAQ:CDNS) Director Buys $13,875.30 in Stock"
         },
         {
-            "time": "22:19",
+            "time": "23:52",
             "tag": "MERCADO",
-            "text": "Western Digital (NASDAQ:WDC) Trading Up 4.3% - Time to Buy?"
+            "text": "Stride Resolves School Dispute As Undervalued Shares Retain Contract Clarity"
         },
         {
-            "time": "22:09",
+            "time": "23:52",
             "tag": "MERCADO",
-            "text": "Insider Sell Alert: VON STAATS AARON C Sells Shares of PTC Inc (PTC)"
+            "text": "Defiance\u7d0d\u65af\u9054\u514b100\u6536\u76ca\u76ee\u6a19\u4e3b\u52d5\u578bETF-QQQT-ETF\u76f8\u95dc\u5206\u6790"
         }
     ]
 }
