@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-05 02:26 UTC",
+        "last_updated": "2026-03-05 04:47 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.04,
-            "change": "+1.73%"
+            "change": "+0.19%"
         },
         {
             "symbol": "AMD",
             "price": 202.07,
-            "change": "+1.5%"
+            "change": "+0.37%"
         },
         {
             "symbol": "MSFT",
             "price": 405.2,
-            "change": "-0.51%"
+            "change": "-2.26%"
         },
         {
             "symbol": "CEG",
             "price": 322.85,
-            "change": "-3.45%"
+            "change": "-0.63%"
         },
         {
             "symbol": "VST",
             "price": 163.36,
-            "change": "-1.91%"
+            "change": "-1.83%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.47,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.5,
             0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
             0.49,
             0.49,
             0.5,
-            0.51,
             0.5,
-            0.5
+            0.5,
+            0.49,
+            0.5,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.85,
-            25.09,
-            24.85,
-            25.02,
-            25.22,
-            25.57,
-            25.29,
-            25.42,
-            25.84,
-            25.42,
-            25.29,
-            24.88
+            24.64,
+            24.44,
+            24.06,
+            23.97,
+            23.73,
+            24.1,
+            23.84,
+            23.95,
+            24.29,
+            24.3,
+            24.43,
+            24.54
         ],
         "hsd_history_software": [
-            9.53,
-            9.59,
-            9.59,
-            9.41,
-            9.4,
-            9.46,
-            9.47,
-            9.64,
-            9.83,
+            9.92,
             9.99,
+            10.0,
             10.06,
-            10.13
+            10.23,
+            10.17,
+            10.13,
+            10.04,
+            10.03,
+            9.99,
+            10.02,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "00:47",
-            "tag": "MERCADO",
-            "text": "New Ryzen Series Chips Add to Advanced Micro Devices' (AMD) Bull Thesis"
+            "time": "03:44",
+            "tag": "AI",
+            "text": "Why IQVIA (IQV) Is Up 9.9% After Mixed Q4 Results and AI-Linked Outlook Reset"
         },
         {
-            "time": "00:10",
+            "time": "03:31",
             "tag": "MERCADO",
-            "text": "Why Is SPY ETF Down Today, 3/4/2026?"
+            "text": "ON Semiconductor Stock: What Wall Street Just Changed for 2025 EV Bets"
         },
         {
-            "time": "23:53",
-            "tag": "MERCADO",
-            "text": "Cadence Design Systems (NASDAQ:CDNS) Director Buys $13,875.30 in Stock"
+            "time": "03:30",
+            "tag": "AI",
+            "text": "Intuit: We Lower Moat Rating, Cut Fair Value Estimate on Reduced Certainty Around AI"
         },
         {
-            "time": "23:52",
-            "tag": "MERCADO",
-            "text": "Stride Resolves School Dispute As Undervalued Shares Retain Contract Clarity"
+            "time": "03:13",
+            "tag": "RESULTADOS",
+            "text": "Broadcom Earnings: Raising Fair Value Estimate on Strong 2027 Guidance"
         },
         {
-            "time": "23:52",
+            "time": "02:49",
             "tag": "MERCADO",
-            "text": "Defiance\u7d0d\u65af\u9054\u514b100\u6536\u76ca\u76ee\u6a19\u4e3b\u52d5\u578bETF-QQQT-ETF\u76f8\u95dc\u5206\u6790"
+            "text": "Cathie Wood Buys What This Billionaire Is Selling: Ark Adds Amazon And Alibaba Stock, Dumps This Chip Giant"
         }
     ]
 }
