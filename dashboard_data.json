@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-05 13:07 UTC",
+        "last_updated": "2026-03-05 14:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 183.04,
-            "change": "-2.72%"
+            "price": 181.88,
+            "change": "-2.86%"
         },
         {
             "symbol": "AMD",
-            "price": 202.07,
-            "change": "-0.3%"
+            "price": 202.16,
+            "change": "+3.1%"
         },
         {
             "symbol": "MSFT",
-            "price": 405.2,
-            "change": "-2.77%"
+            "price": 409.24,
+            "change": "+2.7%"
         },
         {
             "symbol": "CEG",
-            "price": 322.85,
-            "change": "+0.38%"
+            "price": 324.96,
+            "change": "-0.01%"
         },
         {
             "symbol": "VST",
-            "price": 163.36,
-            "change": "-1.16%"
+            "price": 164.86,
+            "change": "+0.11%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.4,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.54,
-            0.54,
-            0.54,
-            0.54,
-            0.53,
-            0.52,
+            0.5,
+            0.5,
             0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            25.51,
-            26.01,
-            25.67,
-            25.75,
-            25.48,
-            25.3,
-            25.16,
-            24.9,
-            25.15,
-            25.01,
-            24.58,
-            25.01
+            25.52,
+            25.93,
+            25.59,
+            25.98,
+            25.57,
+            25.09,
+            24.85,
+            25.2,
+            25.05,
+            24.81,
+            24.52,
+            24.73
         ],
         "hsd_history_software": [
-            9.98,
-            9.82,
-            9.99,
-            9.99,
-            9.89,
-            9.8,
-            9.83,
-            9.92,
-            10.06,
-            9.95,
-            9.8,
-            9.84
+            10.14,
+            10.34,
+            10.22,
+            10.14,
+            10.0,
+            10.01,
+            10.09,
+            9.97,
+            10.1,
+            10.22,
+            10.1,
+            10.08
         ],
         "rci_data": [
             85.0,
-            18.304
+            18.188
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,9 @@
     ],
     "news_feed": [
         {
-            "time": "12:51",
-            "tag": "MERCADO",
-            "text": "Airgain receives $4M order from IoT solutions provider"
-        },
-        {
-            "time": "12:39",
-            "tag": "MERCADO",
-            "text": "KCM Investment Advisors LLC Raises Stock Position in Cadence Design Systems, Inc. $CDNS"
-        },
-        {
-            "time": "12:36",
-            "tag": "MERCADO",
-            "text": "Samsung Display Wins Largest Share of OLED Orders for Apple's iPhone 17e"
-        },
-        {
-            "time": "12:35",
-            "tag": "MERCADO",
-            "text": "This Equinix Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Thursday"
-        },
-        {
-            "time": "12:34",
-            "tag": "MERCADO",
-            "text": "Automatic Data Processing: Is ADP Still a Buy for 2026?"
+            "time": "INFO",
+            "tag": "LIMIT",
+            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
         }
     ]
 }
