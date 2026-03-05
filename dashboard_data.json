@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-05 18:07 UTC",
+        "last_updated": "2026-03-05 19:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 179.43,
-            "change": "-2.13%"
+            "price": 180.32,
+            "change": "-1.74%"
         },
         {
             "symbol": "AMD",
-            "price": 196.27,
-            "change": "+0.81%"
+            "price": 195.68,
+            "change": "-0.26%"
         },
         {
             "symbol": "MSFT",
-            "price": 409.79,
-            "change": "+3.27%"
+            "price": 409.38,
+            "change": "-0.9%"
         },
         {
             "symbol": "CEG",
-            "price": 325.42,
-            "change": "-0.12%"
+            "price": 327.5,
+            "change": "-0.67%"
         },
         {
             "symbol": "VST",
-            "price": 164.96,
-            "change": "+0.13%"
+            "price": 164.57,
+            "change": "+1.56%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.48,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.52,
-            0.53,
+            0.52,
             0.52,
             0.52,
             0.51,
             0.51,
             0.51,
             0.52,
-            0.52,
-            0.52,
-            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            24.92,
-            25.31,
-            25.12,
-            24.95,
-            24.69,
-            24.83,
-            24.87,
-            24.57,
-            25.0,
-            25.4,
+            24.67,
+            24.65,
+            24.28,
+            24.67,
+            24.47,
+            24.81,
             25.11,
-            24.91
+            25.06,
+            25.12,
+            24.82,
+            24.71,
+            24.65
         ],
         "hsd_history_software": [
-            9.03,
-            9.13,
-            9.11,
-            9.27,
-            9.18,
-            9.35,
-            9.51,
-            9.62,
-            9.8,
+            9.76,
+            9.71,
+            9.81,
+            9.66,
+            9.84,
+            9.69,
+            9.7,
+            9.68,
+            9.69,
+            9.88,
             9.89,
-            10.04,
-            9.96
+            9.95
         ],
         "rci_data": [
             85.0,
-            17.943
+            18.031999999999996
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:42",
+            "time": "18:42",
             "tag": "MERCADO",
-            "text": "Hewlett-Packard announces it will leave Boise by the end of 2027"
+            "text": "John Deere expands self-repair tools for farmers"
         },
         {
-            "time": "17:40",
+            "time": "18:24",
             "tag": "MERCADO",
-            "text": "Is Coca-Cola's Digital Transformation a Catalyst for Margin Expansion?"
+            "text": "Why Are Salesforce Shares Surging On Thursday?"
         },
         {
-            "time": "17:28",
+            "time": "18:21",
             "tag": "MERCADO",
-            "text": "New 5D camera lets robots and self-checkouts see in 3D"
+            "text": "Enphase Speicher: The Solar Battery Upgrade US Homes Crave"
         },
         {
-            "time": "17:26",
+            "time": "18:18",
             "tag": "MERCADO",
-            "text": "Why Is ServiceNow (NOW) Stock Soaring Today"
+            "text": "Walmart to add digital shelf labels to all US stores. What to know in Wisconsin"
         },
         {
-            "time": "17:10",
+            "time": "18:16",
             "tag": "MERCADO",
-            "text": "Vistra adds Enphase batteries to Texas virtual power plant | VST Stock News"
+            "text": "AMETEK Inc. stock: Is this quiet US tech giant your next sleeper win?"
         }
     ]
 }
