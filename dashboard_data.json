@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-05 06:57 UTC",
+        "last_updated": "2026-03-05 07:47 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.04,
-            "change": "-0.9%"
+            "change": "-1.98%"
         },
         {
             "symbol": "AMD",
             "price": 202.07,
-            "change": "-2.82%"
+            "change": "-3.04%"
         },
         {
             "symbol": "MSFT",
             "price": 405.2,
-            "change": "+3.06%"
+            "change": "-3.1%"
         },
         {
             "symbol": "CEG",
             "price": 322.85,
-            "change": "-0.94%"
+            "change": "-0.77%"
         },
         {
             "symbol": "VST",
             "price": 163.36,
-            "change": "+2.0%"
+            "change": "+2.16%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.51,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
-            0.48,
             0.48,
             0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
             0.49,
             0.48,
             0.49,
             0.49,
-            0.49,
-            0.49,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.38,
-            24.64,
-            24.81,
-            24.68,
-            24.34,
-            24.36,
-            24.16,
-            24.35,
-            24.72,
-            25.22,
-            25.56,
-            25.33
+            22.59,
+            22.63,
+            22.89,
+            23.16,
+            23.26,
+            23.72,
+            24.05,
+            23.8,
+            23.66,
+            24.13,
+            24.47,
+            24.5
         ],
         "hsd_history_software": [
-            9.17,
-            9.1,
-            9.15,
-            9.25,
-            9.28,
-            9.45,
-            9.51,
-            9.61,
-            9.73,
-            9.67,
-            9.76,
-            9.88
+            10.29,
+            10.43,
+            10.26,
+            10.07,
+            9.9,
+            10.06,
+            10.18,
+            10.08,
+            9.9,
+            10.1,
+            10.13,
+            10.16
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "06:05",
+            "tag": "AI",
+            "text": "AI Adoption Exposes Sana Biotechnology to Rising Data, Compliance, and Reputational Risks"
+        },
+        {
+            "time": "05:53",
+            "tag": "MERCADO",
+            "text": "SANM SEC Filings - Sanmina Corporat 10-K, 10-Q, 8-K Forms"
+        },
+        {
+            "time": "05:52",
+            "tag": "MERCADO",
+            "text": "S SEC Filings - Sentinelone Inc 10-K, 10-Q, 8-K Forms"
+        },
+        {
             "time": "05:51",
             "tag": "MERCADO",
             "text": "Ryde Group Ltd Announces Pricing of Initial Public Offering"
         },
         {
-            "time": "05:44",
-            "tag": "AI",
-            "text": "Why Autodesk (ADSK) Is Up 14.7% After Raising 2027 Guidance And Showcasing New AI Design Tools"
-        },
-        {
-            "time": "05:05",
-            "tag": "MERCADO",
-            "text": "Applied Materials (AMAT) Valuation Check After Sector Sell Off On Energy Price And Iran Conflict Fears"
-        },
-        {
-            "time": "04:38",
-            "tag": "MERCADO",
-            "text": "Trends in Growth, Segment Analysis, and Competitive Strategies Influencing the Solid Waste Management Market"
-        },
-        {
-            "time": "04:33",
-            "tag": "MERCADO",
-            "text": "ServiceNow : Service Gaps Cost Indians 10.8 Hours a Year; 44% Ready to Switch Brands, Finds ServiceNow\u2019s Third CX Report"
+            "time": "05:51",
+            "tag": "RESULTADOS",
+            "text": "Red Violet Inc (RDVT) Q4 2025 Earnings Call Highlights: Record Revenue Growth and Strategic Customer Expansion"
         }
     ]
 }
