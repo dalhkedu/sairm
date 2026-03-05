@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-05 14:49 UTC",
+        "last_updated": "2026-03-05 15:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 181.88,
-            "change": "-2.86%"
+            "price": 183.47,
+            "change": "+3.41%"
         },
         {
             "symbol": "AMD",
-            "price": 202.16,
-            "change": "+3.1%"
+            "price": 202.22,
+            "change": "-0.29%"
         },
         {
             "symbol": "MSFT",
-            "price": 409.24,
-            "change": "+2.7%"
+            "price": 408.23,
+            "change": "-2.97%"
         },
         {
             "symbol": "CEG",
-            "price": 324.96,
-            "change": "-0.01%"
+            "price": 325.9,
+            "change": "+1.76%"
         },
         {
             "symbol": "VST",
-            "price": 164.86,
-            "change": "+0.11%"
+            "price": 166.14,
+            "change": "+1.86%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.4,
+        "cer_current": 0.45,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
+            0.54,
+            0.53,
+            0.53,
+            0.52,
             0.51,
             0.5,
             0.5,
-            0.5,
-            0.5,
-            0.5,
             0.49,
             0.49,
-            0.49,
+            0.5,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.52,
-            25.93,
-            25.59,
-            25.98,
-            25.57,
-            25.09,
-            24.85,
-            25.2,
-            25.05,
-            24.81,
-            24.52,
-            24.73
+            25.48,
+            25.47,
+            25.49,
+            25.31,
+            25.64,
+            25.84,
+            25.46,
+            25.19,
+            24.9,
+            25.17,
+            25.3,
+            25.35
         ],
         "hsd_history_software": [
-            10.14,
-            10.34,
-            10.22,
-            10.14,
-            10.0,
-            10.01,
-            10.09,
+            9.95,
+            9.97,
             9.97,
             10.1,
-            10.22,
-            10.1,
-            10.08
+            10.07,
+            10.07,
+            10.15,
+            10.01,
+            10.16,
+            9.98,
+            9.97,
+            9.83
         ],
         "rci_data": [
             85.0,
-            18.188
+            18.346999999999998
         ],
         "energy_data": [
             1.2,
@@ -126,9 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "INFO",
-            "tag": "LIMIT",
-            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
+            "time": "14:38",
+            "tag": "MERCADO",
+            "text": "Prologis details plans for data center campus outside Cincinnati, Ohio"
+        },
+        {
+            "time": "14:38",
+            "tag": "MERCADO",
+            "text": "The Home Depot to Launch Real-Time Delivery Tracker for Pro Customers"
+        },
+        {
+            "time": "14:20",
+            "tag": "MERCADO",
+            "text": "Corning Stock Is Falling. Why Broadcom Could Be Blamed."
+        },
+        {
+            "time": "14:17",
+            "tag": "MERCADO",
+            "text": "Buy 5 Computers IT Services Stocks to Boost Your Portfolio in 2026"
+        },
+        {
+            "time": "14:16",
+            "tag": "MERCADO",
+            "text": "Western Digital vs Seagate After the Sell-Off: One Storage Rival Is a Clear Winner"
         }
     ]
 }
