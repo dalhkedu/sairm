@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-06 21:32 UTC",
+        "last_updated": "2026-03-06 22:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.82,
-            "change": "-1.86%"
+            "change": "-2.73%"
         },
         {
             "symbol": "AMD",
             "price": 192.43,
-            "change": "-0.54%"
+            "change": "-0.59%"
         },
         {
             "symbol": "MSFT",
             "price": 408.96,
-            "change": "+1.87%"
+            "change": "-3.4%"
         },
         {
             "symbol": "CEG",
             "price": 319.06,
-            "change": "+1.77%"
+            "change": "+1.7%"
         },
         {
             "symbol": "VST",
             "price": 158.65,
-            "change": "+2.24%"
+            "change": "-0.76%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.61,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
+            0.52,
+            0.52,
+            0.51,
+            0.52,
+            0.52,
+            0.52,
             0.52,
             0.51,
             0.51,
             0.51,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            24.67,
-            24.64,
-            24.65,
-            24.32,
+            25.46,
+            25.82,
+            25.81,
+            25.52,
+            25.61,
+            25.12,
             24.81,
-            25.32,
-            25.03,
-            24.93,
-            24.73,
-            24.74,
-            24.81,
-            24.71
+            25.19,
+            24.89,
+            25.34,
+            24.95,
+            24.9
         ],
         "hsd_history_software": [
-            9.05,
-            9.2,
-            9.22,
-            9.3,
-            9.4,
-            9.34,
-            9.41,
-            9.55,
-            9.69,
-            9.79,
-            9.98,
-            9.83
+            10.01,
+            10.11,
+            10.03,
+            9.97,
+            10.17,
+            10.03,
+            10.06,
+            10.07,
+            10.21,
+            10.05,
+            10.02,
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "21:35",
+            "tag": "AI",
+            "text": "Capital Markets Information Services: Reviewing Our Moats for the Rise of AI"
+        },
+        {
+            "time": "21:10",
+            "tag": "MERCADO",
+            "text": "JPMorgan Chase & Co. Issues Pessimistic Forecast for Pattern Group (NASDAQ:PTRN) Stock Price"
+        },
+        {
             "time": "20:52",
             "tag": "MERCADO",
             "text": "Focus Universal Inc. Announces Pricing of $1.2 Million Registered Direct Offering"
@@ -136,19 +146,9 @@
             "text": "Motorola Solutions (NYSE:MSI) Advances With Focused Growth Strategy In Russell 1000"
         },
         {
-            "time": "19:51",
+            "time": "19:52",
             "tag": "MERCADO",
-            "text": "Anterix (ATEX), Qualcomm (QCOM) Expand Collaboration for Next-Gen Utility Wireless"
-        },
-        {
-            "time": "19:44",
-            "tag": "AI",
-            "text": "Broadcom (AVGO) CEO Forecasts $100B+ in AI Chip Sales by 2027"
-        },
-        {
-            "time": "19:34",
-            "tag": "MERCADO",
-            "text": "IBM Aktie: Spannungen allgegenw\u00e4rtig?"
+            "text": "Fiverr (FVRR) reports 2025 revenue of $430.9M, 10.1% YoY growth"
         }
     ]
 }
