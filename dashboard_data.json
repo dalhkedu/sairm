@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-06 06:55 UTC",
+        "last_updated": "2026-03-06 07:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.34,
-            "change": "+2.36%"
+            "change": "+0.1%"
         },
         {
             "symbol": "AMD",
             "price": 199.45,
-            "change": "-2.1%"
+            "change": "+0.17%"
         },
         {
             "symbol": "MSFT",
             "price": 410.68,
-            "change": "-1.32%"
+            "change": "-2.86%"
         },
         {
             "symbol": "CEG",
             "price": 332.07,
-            "change": "-2.28%"
+            "change": "+0.89%"
         },
         {
             "symbol": "VST",
             "price": 167.4,
-            "change": "-0.09%"
+            "change": "-0.22%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.66,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
             0.5,
-            0.51
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.06,
-            24.08,
-            24.03,
-            24.48,
-            24.77,
-            25.25,
-            25.56,
-            25.51,
-            25.39,
-            24.97,
-            24.87,
-            25.04
+            26.74,
+            27.21,
+            27.1,
+            26.9,
+            26.98,
+            26.7,
+            26.64,
+            26.13,
+            25.85,
+            25.45,
+            25.61,
+            25.36
         ],
         "hsd_history_software": [
-            10.73,
-            10.79,
-            10.64,
-            10.66,
-            10.53,
-            10.39,
-            10.42,
-            10.29,
-            10.26,
-            10.23,
-            10.12,
-            10.12
+            10.05,
+            10.22,
+            10.16,
+            10.27,
+            10.33,
+            10.3,
+            10.37,
+            10.18,
+            10.2,
+            10.07,
+            9.91,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:42",
+            "time": "06:35",
             "tag": "MERCADO",
-            "text": "11:11 | Iran warns US against ground invasion, Morgan Stanley cuts India, SoftBank seeks $40B loan"
+            "text": "Hewlett Packard Enterprise Company (NYSE:HPE) Receives Consensus Rating of \"Hold\" from Analysts"
         },
         {
-            "time": "05:18",
+            "time": "06:35",
             "tag": "MERCADO",
-            "text": "eBay auctions are changing again: what US buyers must know"
+            "text": "Alphabet Inc. (NASDAQ:GOOGL) Given Consensus Recommendation of \"Moderate Buy\" by Brokerages"
         },
         {
-            "time": "04:51",
+            "time": "06:34",
             "tag": "MERCADO",
-            "text": "Salesforce CEO Marc Benioff's ICE jokes that upset employees and made company 'threaten' those who leaked them; make president Robin Washington tell employees at Townhall ..."
+            "text": "ServiceNow, Inc. (NYSE:NOW) Receives Consensus Rating of \"Moderate Buy\" from Analysts"
         },
         {
-            "time": "04:32",
+            "time": "06:17",
             "tag": "MERCADO",
-            "text": "Verizon Shares Rise 19.4% in a Year: Should You Invest Now?"
+            "text": "Teledyne Marine and M Subs sign MOU to accelerate maritime solutions"
         },
         {
-            "time": "04:22",
+            "time": "05:57",
             "tag": "MERCADO",
-            "text": "Microsoft says Anthropic products remain available to customers despite Pentagon blacklist (MSFT:NASDAQ)"
+            "text": "How will KC's data center boom impact electric bills? Evergy discusses new load rate for large customers"
         }
     ]
 }
