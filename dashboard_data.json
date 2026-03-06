@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-06 17:37 UTC",
+        "last_updated": "2026-03-06 18:52 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 180.66,
-            "change": "+2.79%"
+            "price": 180.95,
+            "change": "-0.44%"
         },
         {
             "symbol": "AMD",
-            "price": 197.62,
-            "change": "-2.53%"
+            "price": 197.03,
+            "change": "+2.49%"
         },
         {
             "symbol": "MSFT",
-            "price": 409.66,
-            "change": "-1.53%"
+            "price": 410.21,
+            "change": "+2.67%"
         },
         {
             "symbol": "CEG",
-            "price": 320.9,
-            "change": "+2.76%"
+            "price": 323.22,
+            "change": "+2.69%"
         },
         {
             "symbol": "VST",
-            "price": 161.88,
-            "change": "+1.24%"
+            "price": 161.06,
+            "change": "-0.61%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.51,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.5
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.48,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.99,
-            24.98,
-            24.86,
-            24.57,
-            24.67,
-            24.21,
-            24.6,
-            24.54,
-            24.48,
-            24.69,
-            24.25,
-            24.71
+            26.18,
+            26.62,
+            27.03,
+            26.8,
+            26.34,
+            26.12,
+            26.19,
+            25.76,
+            25.96,
+            25.54,
+            25.17,
+            24.73
         ],
         "hsd_history_software": [
-            9.85,
-            9.69,
-            9.74,
-            9.78,
-            9.85,
-            9.85,
+            10.44,
+            10.31,
+            10.15,
+            10.1,
+            9.91,
+            9.98,
             9.82,
-            9.8,
-            9.94,
-            10.02,
-            10.2,
+            9.88,
+            9.92,
+            10.08,
+            9.9,
             10.02
         ],
         "rci_data": [
             85.0,
-            18.066
+            18.095
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:32",
+            "time": "17:44",
             "tag": "MERCADO",
-            "text": "Barclays Raises Price Target for Trimble (TRMB) to $103 | TRMB S"
+            "text": "Marvell Technology (NASDAQ:MRVL) Given New $90.00 Price Target at TD Cowen"
         },
         {
-            "time": "16:15",
+            "time": "17:35",
             "tag": "MERCADO",
-            "text": "Corning Inc Stock (GLW) Moved Down by 4.15% on Mar 6: Drivers Behind the Movement"
+            "text": "10 Information Technology Stocks Whale Activity In Today's Session"
         },
         {
-            "time": "15:55",
+            "time": "17:30",
             "tag": "MERCADO",
-            "text": "Is Digital Realty Trust Stock Outperforming the Dow?"
+            "text": "Cloud Software Provider Salesforce to Lay Off 51 in San Francisco in May"
         },
         {
-            "time": "15:54",
+            "time": "17:19",
             "tag": "MERCADO",
-            "text": "Teradyne slides as fresh analyst downgrade amplifies valuation concerns after big run"
+            "text": "ServiceNow Stock Climbs 16% in a Month: Hold Tight or Book Profits?"
         },
         {
-            "time": "15:53",
+            "time": "17:09",
             "tag": "MERCADO",
-            "text": "Brokers Suggest Investing in Celestica (CLS): Read This Before Placing a Bet"
+            "text": "Research Alert: Cve Upgraded To Buy On De-levering Potential Amid Crude Surge: Tp $29"
         }
     ]
 }
