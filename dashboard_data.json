@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-06 04:44 UTC",
+        "last_updated": "2026-03-06 05:48 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.34,
-            "change": "+2.67%"
+            "change": "+0.65%"
         },
         {
             "symbol": "AMD",
             "price": 199.45,
-            "change": "-1.41%"
+            "change": "-2.41%"
         },
         {
             "symbol": "MSFT",
             "price": 410.68,
-            "change": "+0.63%"
+            "change": "+0.26%"
         },
         {
             "symbol": "CEG",
             "price": 332.07,
-            "change": "-0.12%"
+            "change": "+0.27%"
         },
         {
             "symbol": "VST",
             "price": 167.4,
-            "change": "-0.97%"
+            "change": "+1.19%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.6,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
+            0.48,
             0.49,
             0.49,
-            0.5,
             0.49,
-            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.43,
-            24.47,
-            24.46,
-            24.43,
-            24.92,
-            25.35,
-            25.49,
-            25.29,
-            25.01,
-            24.77,
-            24.77,
-            24.88
+            23.87,
+            24.31,
+            24.75,
+            24.75,
+            25.16,
+            25.58,
+            25.4,
+            25.72,
+            25.22,
+            25.34,
+            25.11,
+            25.33
         ],
         "hsd_history_software": [
-            9.93,
-            9.99,
-            9.89,
-            10.01,
-            10.1,
-            9.99,
-            10.15,
-            10.34,
-            10.26,
-            10.09,
-            10.08,
-            9.97
+            9.6,
+            9.49,
+            9.6,
+            9.45,
+            9.63,
+            9.51,
+            9.68,
+            9.51,
+            9.68,
+            9.64,
+            9.74,
+            9.81
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "04:32",
+            "tag": "MERCADO",
+            "text": "Verizon Shares Rise 19.4% in a Year: Should You Invest Now?"
+        },
+        {
+            "time": "04:22",
+            "tag": "MERCADO",
+            "text": "Microsoft says Anthropic products remain available to customers despite Pentagon blacklist (MSFT:NASDAQ)"
+        },
+        {
+            "time": "04:19",
+            "tag": "MERCADO",
+            "text": "PayPal Stock: Cheap For Good Reason (Rating Downgrade) (NASDAQ:PYPL)"
+        },
+        {
+            "time": "04:07",
+            "tag": "MERCADO",
+            "text": "ADP Stock Shock: Is Automatic Data Processing Still a Safe Bet for You in 2026?"
+        },
+        {
             "time": "03:40",
             "tag": "MERCADO",
             "text": "Zebra tech CMO Armstrong sells $2k in shares"
-        },
-        {
-            "time": "03:12",
-            "tag": "MERCADO",
-            "text": "Trump Admin Weighs New Export Rules That Ties Chip Purchase From Likes Of Nvidia, AMD To Investments In US Data Centers: Report"
-        },
-        {
-            "time": "03:11",
-            "tag": "MERCADO",
-            "text": "Samsara Reports Fourth Quarter and Full Fiscal Year 2025 Financial Results"
-        },
-        {
-            "time": "02:52",
-            "tag": "MERCADO",
-            "text": "Mariam Sorond Sells 69,853 Shares of NextNav (NASDAQ:NN) Stock"
-        },
-        {
-            "time": "02:26",
-            "tag": "MERCADO",
-            "text": "Western Digital (NASDAQ:WDC) Insider Vidyadhara Gubbi Sells 10,148 Shares"
         }
     ]
 }
