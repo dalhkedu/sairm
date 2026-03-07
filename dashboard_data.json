@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-07 02:11 UTC",
+        "last_updated": "2026-03-07 04:23 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.82,
-            "change": "+0.11%"
+            "change": "-0.75%"
         },
         {
             "symbol": "AMD",
             "price": 192.43,
-            "change": "+2.63%"
+            "change": "+0.61%"
         },
         {
             "symbol": "MSFT",
             "price": 408.96,
-            "change": "-3.24%"
+            "change": "+0.24%"
         },
         {
             "symbol": "CEG",
             "price": 319.06,
-            "change": "-3.28%"
+            "change": "+3.02%"
         },
         {
             "symbol": "VST",
             "price": 158.65,
-            "change": "-1.38%"
+            "change": "-2.33%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
+        "cer_current": 0.57,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.45,
-            0.46,
-            0.46,
-            0.46,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.49
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.62,
-            24.19,
-            24.25,
-            24.56,
-            24.47,
-            24.21,
-            24.45,
-            24.47,
-            24.19,
-            24.69,
-            25.11,
-            25.33
+            24.88,
+            25.25,
+            25.38,
+            25.67,
+            25.67,
+            25.36,
+            25.39,
+            25.36,
+            25.13,
+            24.97,
+            24.91,
+            25.35
         ],
         "hsd_history_software": [
-            9.7,
-            9.51,
-            9.34,
-            9.4,
-            9.51,
-            9.39,
-            9.58,
-            9.51,
-            9.67,
-            9.78,
-            9.84,
-            9.81
+            10.36,
+            10.43,
+            10.58,
+            10.58,
+            10.39,
+            10.46,
+            10.5,
+            10.58,
+            10.42,
+            10.34,
+            10.26,
+            10.15
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "02:59",
+            "tag": "MERCADO",
+            "text": "Sony buying Take-Two Interactive rumors now seem even more dubious"
+        },
+        {
+            "time": "02:12",
+            "tag": "MERCADO",
+            "text": "Is MKS (MKSI) Turning Strong China And Singapore Sales Into A Durable Margin Advantage?"
+        },
+        {
             "time": "01:07",
             "tag": "MERCADO",
             "text": "Sundar Pichai Sells 32,500 Shares of Alphabet (NASDAQ:GOOG) Stock"
@@ -139,16 +149,6 @@
             "time": "00:55",
             "tag": "AI",
             "text": "Quanta Services Inc.: The Quiet Stock Powering America\u2019s AI Grid"
-        },
-        {
-            "time": "00:16",
-            "tag": "MERCADO",
-            "text": "Skyworks Solutions: The Quiet Chip Powerhouse Wall Street Is Watching"
-        },
-        {
-            "time": "23:32",
-            "tag": "MERCADO",
-            "text": "3 Defense Stocks Under $20 With Massive Upside"
         }
     ]
 }
