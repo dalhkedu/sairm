@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-07 04:23 UTC",
+        "last_updated": "2026-03-07 05:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.82,
-            "change": "-0.75%"
+            "change": "+3.16%"
         },
         {
             "symbol": "AMD",
             "price": 192.43,
-            "change": "+0.61%"
+            "change": "-1.85%"
         },
         {
             "symbol": "MSFT",
             "price": 408.96,
-            "change": "+0.24%"
+            "change": "-2.52%"
         },
         {
             "symbol": "CEG",
             "price": 319.06,
-            "change": "+3.02%"
+            "change": "+0.58%"
         },
         {
             "symbol": "VST",
             "price": 158.65,
-            "change": "-2.33%"
+            "change": "-2.77%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.69,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
             0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.88,
-            25.25,
-            25.38,
-            25.67,
-            25.67,
-            25.36,
-            25.39,
-            25.36,
-            25.13,
-            24.97,
-            24.91,
-            25.35
+            24.12,
+            24.0,
+            23.88,
+            24.0,
+            23.92,
+            23.94,
+            24.01,
+            24.47,
+            24.28,
+            24.61,
+            24.83,
+            25.12
         ],
         "hsd_history_software": [
-            10.36,
-            10.43,
-            10.58,
-            10.58,
-            10.39,
-            10.46,
+            10.63,
+            10.56,
+            10.7,
+            10.6,
+            10.54,
             10.5,
-            10.58,
-            10.42,
-            10.34,
-            10.26,
-            10.15
+            10.47,
+            10.35,
+            10.23,
+            10.03,
+            9.97,
+            9.92
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "04:52",
+            "tag": "MERCADO",
+            "text": "NEXTracker Welcomes Jeffrey Guldner to Board of Directors"
+        },
+        {
+            "time": "04:44",
+            "tag": "MERCADO",
+            "text": "Opendoor Faces Mixed Reactions Amid Revenue Surge and Q4 Losses"
+        },
+        {
+            "time": "04:29",
+            "tag": "MERCADO",
+            "text": "Analog Devices Inc.: Is This Quiet Chip Giant Your Next Big Tech Play?"
+        },
+        {
+            "time": "03:43",
+            "tag": "MERCADO",
+            "text": "Paychex Is a Leading Payroll Firm"
+        },
+        {
             "time": "02:59",
             "tag": "MERCADO",
-            "text": "Sony buying Take-Two Interactive rumors now seem even more dubious"
-        },
-        {
-            "time": "02:12",
-            "tag": "MERCADO",
-            "text": "Is MKS (MKSI) Turning Strong China And Singapore Sales Into A Durable Margin Advantage?"
-        },
-        {
-            "time": "01:07",
-            "tag": "MERCADO",
-            "text": "Sundar Pichai Sells 32,500 Shares of Alphabet (NASDAQ:GOOG) Stock"
-        },
-        {
-            "time": "00:58",
-            "tag": "MERCADO",
-            "text": "David Carter Sells 4,000 Shares of Kratos Defense & Security Solutions (NASDAQ:KTOS) Stock"
-        },
-        {
-            "time": "00:55",
-            "tag": "AI",
-            "text": "Quanta Services Inc.: The Quiet Stock Powering America\u2019s AI Grid"
+            "text": "Jabil Inc. Stock Is Quietly Pivoting: What You Need to Know Now"
         }
     ]
 }
