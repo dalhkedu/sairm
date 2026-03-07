@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-07 22:27 UTC",
+        "last_updated": "2026-03-07 23:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.82,
-            "change": "+2.54%"
+            "change": "-1.99%"
         },
         {
             "symbol": "AMD",
             "price": 192.43,
-            "change": "-1.09%"
+            "change": "+0.62%"
         },
         {
             "symbol": "MSFT",
             "price": 408.96,
-            "change": "+0.96%"
+            "change": "+2.75%"
         },
         {
             "symbol": "CEG",
             "price": 319.06,
-            "change": "-1.13%"
+            "change": "-1.28%"
         },
         {
             "symbol": "VST",
             "price": 158.65,
-            "change": "+0.85%"
+            "change": "+2.37%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.53,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.57,
+            0.56,
+            0.55,
             0.54,
             0.53,
-            0.53,
-            0.52,
-            0.51,
             0.52,
             0.53,
             0.52,
+            0.52,
+            0.52,
             0.51,
-            0.52,
-            0.52,
             0.51
         ],
         "hsd_history_hardware": [
-            25.33,
-            25.72,
-            25.73,
-            25.27,
-            25.15,
-            25.43,
-            25.1,
-            24.78,
-            24.63,
-            24.77,
-            24.63,
-            25.05
+            25.07,
+            24.82,
+            25.26,
+            24.97,
+            24.62,
+            24.38,
+            24.39,
+            24.32,
+            24.16,
+            24.53,
+            24.91,
+            25.08
         ],
         "hsd_history_software": [
-            9.69,
-            9.78,
-            9.84,
-            9.96,
-            9.81,
-            9.94,
-            9.95,
-            9.87,
-            9.81,
-            9.92,
-            10.03,
-            9.91
+            10.83,
+            10.8,
+            10.62,
+            10.56,
+            10.42,
+            10.57,
+            10.63,
+            10.5,
+            10.56,
+            10.51,
+            10.33,
+            10.15
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "22:35",
+            "tag": "AI",
+            "text": "AMD Stock Prediction: Can AMD Stock Surge to $300 in the AI Boom?"
+        },
+        {
+            "time": "22:32",
+            "tag": "MERCADO",
+            "text": "Has Hewlett Packard Enterprise (HPE) Fallen Too Far After Recent Share Price Weakness?"
+        },
+        {
+            "time": "22:32",
+            "tag": "MERCADO",
+            "text": "Western Digital\u2019s Pure Play HDD Pivot And Fully Booked 2026 Capacity"
+        },
+        {
             "time": "21:30",
             "tag": "MERCADO",
             "text": "HP Inc extends Ferrari partnership to focus on teamwork and innovation"
         },
         {
-            "time": "19:28",
-            "tag": "MERCADO",
-            "text": "Is State Street\u2019s (STT) Neudata Alliance Quietly Recasting Its Fee\u2011Driven, Data\u2011Technology Narrative?"
-        },
-        {
-            "time": "18:50",
-            "tag": "MERCADO",
-            "text": "Dow Jones Movers: IBM Leads, Sherwin-Williams Drags as Analysts Clash on Salesforce"
-        },
-        {
-            "time": "18:49",
-            "tag": "MERCADO",
-            "text": "Is Broadridge (BR) Quietly Redefining Its Growth Story With Blockchain Repos, Voting Tech, And New Leaders?"
-        },
-        {
-            "time": "18:13",
-            "tag": "MERCADO",
-            "text": "Former U.S. trade chief Lighthizer resigns from Trump Media board"
+            "time": "19:52",
+            "tag": "AI",
+            "text": "Galaxy Digital Refocuses On US Listing AI Shift And Legal Scrutiny"
         }
     ]
 }
