@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-07 21:25 UTC",
+        "last_updated": "2026-03-07 22:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.82,
-            "change": "-1.35%"
+            "change": "+2.54%"
         },
         {
             "symbol": "AMD",
             "price": 192.43,
-            "change": "-2.2%"
+            "change": "-1.09%"
         },
         {
             "symbol": "MSFT",
             "price": 408.96,
-            "change": "+3.12%"
+            "change": "+0.96%"
         },
         {
             "symbol": "CEG",
             "price": 319.06,
-            "change": "-1.15%"
+            "change": "-1.13%"
         },
         {
             "symbol": "VST",
             "price": 158.65,
-            "change": "-3.11%"
+            "change": "+0.85%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.51,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
+            0.54,
             0.53,
             0.53,
             0.52,
             0.51,
+            0.52,
+            0.53,
+            0.52,
             0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5
+            0.52,
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.18,
-            23.8,
-            23.86,
-            24.23,
-            24.61,
-            25.06,
-            25.11,
-            24.85,
-            24.88,
-            25.25,
-            24.99,
-            25.02
+            25.33,
+            25.72,
+            25.73,
+            25.27,
+            25.15,
+            25.43,
+            25.1,
+            24.78,
+            24.63,
+            24.77,
+            24.63,
+            25.05
         ],
         "hsd_history_software": [
-            9.98,
-            10.01,
+            9.69,
+            9.78,
+            9.84,
+            9.96,
+            9.81,
+            9.94,
+            9.95,
             9.87,
             9.81,
-            9.74,
             9.92,
-            9.96,
-            9.89,
-            9.92,
-            10.12,
-            9.93,
-            9.84
+            10.03,
+            9.91
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "21:30",
+            "tag": "MERCADO",
+            "text": "HP Inc extends Ferrari partnership to focus on teamwork and innovation"
+        },
+        {
             "time": "19:28",
             "tag": "MERCADO",
             "text": "Is State Street\u2019s (STT) Neudata Alliance Quietly Recasting Its Fee\u2011Driven, Data\u2011Technology Narrative?"
@@ -136,19 +141,14 @@
             "text": "Dow Jones Movers: IBM Leads, Sherwin-Williams Drags as Analysts Clash on Salesforce"
         },
         {
+            "time": "18:49",
+            "tag": "MERCADO",
+            "text": "Is Broadridge (BR) Quietly Redefining Its Growth Story With Blockchain Repos, Voting Tech, And New Leaders?"
+        },
+        {
             "time": "18:13",
             "tag": "MERCADO",
             "text": "Former U.S. trade chief Lighthizer resigns from Trump Media board"
-        },
-        {
-            "time": "16:31",
-            "tag": "AI",
-            "text": "Why CCC Intelligent Solutions (CCC) Is Up 7.4% After New AI Board Hire And $500M Buyback"
-        },
-        {
-            "time": "16:28",
-            "tag": "MERCADO",
-            "text": "QT Imaging Pioneers Patient-Centric Breast Imaging Technology through Strategic Partnership"
         }
     ]
 }
