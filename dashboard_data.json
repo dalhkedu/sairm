@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-07 12:54 UTC",
+        "last_updated": "2026-03-07 13:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.82,
-            "change": "+1.93%"
+            "change": "-1.38%"
         },
         {
             "symbol": "AMD",
             "price": 192.43,
-            "change": "-3.25%"
+            "change": "+1.86%"
         },
         {
             "symbol": "MSFT",
             "price": 408.96,
-            "change": "-3.41%"
+            "change": "+0.6%"
         },
         {
             "symbol": "CEG",
             "price": 319.06,
-            "change": "-0.2%"
+            "change": "+2.36%"
         },
         {
             "symbol": "VST",
             "price": 158.65,
-            "change": "+1.4%"
+            "change": "-3.16%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.43,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.52,
-            0.51,
             0.5,
             0.5,
             0.51,
             0.51,
             0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.5,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            23.06,
-            23.52,
-            23.68,
-            23.8,
-            24.05,
-            24.1,
-            24.15,
-            24.46,
-            24.95,
-            24.99,
-            25.48,
-            25.18
+            25.45,
+            25.59,
+            25.22,
+            24.86,
+            24.54,
+            24.82,
+            24.68,
+            24.42,
+            24.47,
+            24.01,
+            24.42,
+            24.87
         ],
         "hsd_history_software": [
-            9.06,
-            9.11,
-            9.29,
-            9.29,
-            9.34,
-            9.34,
-            9.46,
-            9.43,
-            9.44,
-            9.63,
-            9.76,
-            9.92
+            9.75,
+            9.78,
+            9.97,
+            10.01,
+            10.09,
+            9.99,
+            10.08,
+            10.14,
+            10.06,
+            9.86,
+            9.93,
+            10.12
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:46",
+            "time": "12:32",
             "tag": "MERCADO",
-            "text": "Icon Advisers Inc. Co. Cuts Stock Position in Teradyne, Inc. $TER"
+            "text": "Hel Ved Capital Management Ltd Increases Stock Position in Synopsys, Inc. $SNPS"
         },
         {
-            "time": "11:34",
+            "time": "12:32",
             "tag": "MERCADO",
-            "text": "Gamco Investors INC. ET AL Sells 8,554 Shares of Alphabet Inc. $GOOG"
+            "text": "HUB Investment Partners LLC Has $9.26 Million Stake in Adobe Inc. $ADBE"
         },
         {
-            "time": "11:33",
+            "time": "12:32",
             "tag": "MERCADO",
-            "text": "Gamco Investors INC. ET AL Decreases Stock Holdings in AMETEK, Inc. $AME"
+            "text": "HUB Investment Partners LLC Reduces Position in Intuitive Surgical, Inc. $ISRG"
         },
         {
-            "time": "11:28",
+            "time": "12:32",
             "tag": "MERCADO",
-            "text": "Guardian Capital LP Purchases 35,140 Shares of Motorola Solutions, Inc. $MSI"
+            "text": "Victory Capital Management Inc. Acquires 188,388 Shares of HP Inc. $HPQ"
         },
         {
-            "time": "11:04",
+            "time": "12:26",
             "tag": "MERCADO",
-            "text": "How Palo Alto Networks (PANW) Is Expanding Its Industrial 5G Security Footprint With Siemens"
+            "text": "Munich Reinsurance Co Stock Corp in Munich Takes $41.66 Million Position in Cisco Systems, Inc. $CSCO"
         }
     ]
 }
