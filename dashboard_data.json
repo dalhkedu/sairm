@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-07 09:32 UTC",
+        "last_updated": "2026-03-07 10:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.82,
-            "change": "+0.68%"
+            "change": "-1.56%"
         },
         {
             "symbol": "AMD",
             "price": 192.43,
-            "change": "+0.63%"
+            "change": "+1.3%"
         },
         {
             "symbol": "MSFT",
             "price": 408.96,
-            "change": "-1.35%"
+            "change": "+1.28%"
         },
         {
             "symbol": "CEG",
             "price": 319.06,
-            "change": "+1.11%"
+            "change": "-0.34%"
         },
         {
             "symbol": "VST",
             "price": 158.65,
-            "change": "+1.39%"
+            "change": "+1.2%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.68,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.5,
             0.49,
             0.49,
             0.5,
+            0.49,
             0.5,
-            0.49
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.76,
-            24.78,
-            24.78,
-            25.04,
-            24.93,
-            24.92,
-            24.64,
-            24.35,
-            24.32,
-            24.43,
-            24.77,
-            24.89
+            25.53,
+            25.51,
+            26.02,
+            25.59,
+            25.15,
+            24.66,
+            24.83,
+            24.84,
+            25.23,
+            25.08,
+            25.03,
+            25.22
         ],
         "hsd_history_software": [
-            9.6,
-            9.73,
-            9.75,
-            9.61,
-            9.46,
-            9.5,
-            9.61,
-            9.73,
-            9.84,
-            10.01,
-            9.99,
-            9.9
+            10.43,
+            10.35,
+            10.33,
+            10.35,
+            10.17,
+            10.18,
+            10.15,
+            10.11,
+            10.09,
+            10.03,
+            9.85,
+            9.85
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:49",
+            "time": "09:52",
             "tag": "MERCADO",
-            "text": "Baltimore Washington Financial Advisors Inc. Has $38.88 Million Stock Position in Uber Technologies, Inc. $UBER"
+            "text": "Rodgers Silicon Valley Acquisition Corp. and Enovix Corporation Announce Effectiveness of Registration Statement and July 12, 2021 Special Meeting of Stockholders to Approve Business Combination"
         },
         {
-            "time": "08:48",
+            "time": "09:36",
             "tag": "MERCADO",
-            "text": "Barclays PLC Purchases 26,242 Shares of Motorola Solutions, Inc. $MSI"
+            "text": "Crossmark Global Holdings Inc. Increases Holdings in Roper Technologies, Inc. $ROP"
         },
         {
-            "time": "08:47",
+            "time": "09:36",
             "tag": "MERCADO",
-            "text": "Barclays PLC Sells 266,554 Shares of NXP Semiconductors N.V. $NXPI"
+            "text": "PTC Inc. $PTC Shares Acquired by Crossmark Global Holdings Inc."
         },
         {
-            "time": "08:43",
+            "time": "09:35",
             "tag": "MERCADO",
-            "text": "Baltimore Washington Financial Advisors Inc. Sells 6,923 Shares of Texas Instruments Incorporated $TXN"
+            "text": "AMETEK, Inc. $AME Holdings Trimmed by Gabelli Funds LLC"
         },
         {
-            "time": "08:41",
+            "time": "09:29",
             "tag": "MERCADO",
-            "text": "Baltimore Washington Financial Advisors Inc. Sells 57,365 Shares of AT&T Inc. $T"
+            "text": "Crossmark Global Holdings Inc. Purchases 17,889 Shares of Aptiv PLC $APTV"
         }
     ]
 }
