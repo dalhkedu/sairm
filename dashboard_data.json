@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-06 23:30 UTC",
+        "last_updated": "2026-03-07 02:11 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.82,
-            "change": "+1.19%"
+            "change": "+0.11%"
         },
         {
             "symbol": "AMD",
             "price": 192.43,
-            "change": "-0.7%"
+            "change": "+2.63%"
         },
         {
             "symbol": "MSFT",
             "price": 408.96,
-            "change": "+3.31%"
+            "change": "-3.24%"
         },
         {
             "symbol": "CEG",
             "price": 319.06,
-            "change": "-3.33%"
+            "change": "-3.28%"
         },
         {
             "symbol": "VST",
             "price": 158.65,
-            "change": "+2.11%"
+            "change": "-1.38%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.53,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.5
+            0.45,
+            0.46,
+            0.46,
+            0.46,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            23.88,
-            24.12,
-            24.44,
-            24.04,
-            24.09,
-            24.02,
-            24.17,
-            24.44,
-            24.54,
+            24.62,
+            24.19,
+            24.25,
             24.56,
-            24.58,
-            24.83
+            24.47,
+            24.21,
+            24.45,
+            24.47,
+            24.19,
+            24.69,
+            25.11,
+            25.33
         ],
         "hsd_history_software": [
-            9.92,
-            9.99,
-            10.14,
-            10.3,
-            10.36,
-            10.28,
-            10.15,
-            10.29,
-            10.22,
-            10.17,
-            10.29,
-            10.19
+            9.7,
+            9.51,
+            9.34,
+            9.4,
+            9.51,
+            9.39,
+            9.58,
+            9.51,
+            9.67,
+            9.78,
+            9.84,
+            9.81
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:35",
+            "time": "01:07",
+            "tag": "MERCADO",
+            "text": "Sundar Pichai Sells 32,500 Shares of Alphabet (NASDAQ:GOOG) Stock"
+        },
+        {
+            "time": "00:58",
+            "tag": "MERCADO",
+            "text": "David Carter Sells 4,000 Shares of Kratos Defense & Security Solutions (NASDAQ:KTOS) Stock"
+        },
+        {
+            "time": "00:55",
             "tag": "AI",
-            "text": "Capital Markets Information Services: Reviewing Our Moats for the Rise of AI"
+            "text": "Quanta Services Inc.: The Quiet Stock Powering America\u2019s AI Grid"
         },
         {
-            "time": "21:10",
+            "time": "00:16",
             "tag": "MERCADO",
-            "text": "JPMorgan Chase & Co. Issues Pessimistic Forecast for Pattern Group (NASDAQ:PTRN) Stock Price"
+            "text": "Skyworks Solutions: The Quiet Chip Powerhouse Wall Street Is Watching"
         },
         {
-            "time": "20:52",
+            "time": "23:32",
             "tag": "MERCADO",
-            "text": "Focus Universal Inc. Announces Pricing of $1.2 Million Registered Direct Offering"
-        },
-        {
-            "time": "20:21",
-            "tag": "MERCADO",
-            "text": "Motorola Solutions (NYSE:MSI) Advances With Focused Growth Strategy In Russell 1000"
-        },
-        {
-            "time": "19:52",
-            "tag": "MERCADO",
-            "text": "Fiverr (FVRR) reports 2025 revenue of $430.9M, 10.1% YoY growth"
+            "text": "3 Defense Stocks Under $20 With Massive Upside"
         }
     ]
 }
