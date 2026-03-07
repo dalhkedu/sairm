@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-07 10:27 UTC",
+        "last_updated": "2026-03-07 11:23 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.82,
-            "change": "-1.56%"
+            "change": "+0.37%"
         },
         {
             "symbol": "AMD",
             "price": 192.43,
-            "change": "+1.3%"
+            "change": "-0.45%"
         },
         {
             "symbol": "MSFT",
             "price": 408.96,
-            "change": "+1.28%"
+            "change": "-1.66%"
         },
         {
             "symbol": "CEG",
             "price": 319.06,
-            "change": "-0.34%"
+            "change": "-1.07%"
         },
         {
             "symbol": "VST",
             "price": 158.65,
-            "change": "+1.2%"
+            "change": "+3.07%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.45,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
             0.5,
-            0.49,
-            0.5,
-            0.49,
-            0.5,
+            0.51,
             0.5,
             0.5,
             0.51,
             0.51,
-            0.51
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.53,
-            25.51,
-            26.02,
-            25.59,
-            25.15,
-            24.66,
-            24.83,
-            24.84,
-            25.23,
+            25.91,
+            25.7,
+            25.36,
             25.08,
-            25.03,
-            25.22
+            25.53,
+            25.7,
+            25.45,
+            25.33,
+            25.5,
+            25.4,
+            24.96,
+            25.0
         ],
         "hsd_history_software": [
-            10.43,
-            10.35,
-            10.33,
-            10.35,
-            10.17,
-            10.18,
-            10.15,
-            10.11,
-            10.09,
+            10.16,
+            9.96,
+            9.99,
             10.03,
-            9.85,
-            9.85
+            10.07,
+            9.88,
+            9.74,
+            9.6,
+            9.7,
+            9.87,
+            10.06,
+            10.06
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:52",
+            "time": "10:46",
             "tag": "MERCADO",
-            "text": "Rodgers Silicon Valley Acquisition Corp. and Enovix Corporation Announce Effectiveness of Registration Statement and July 12, 2021 Special Meeting of Stockholders to Approve Business Combination"
+            "text": "Sen. Sheldon Whitehouse Sells Off Shares of Verizon Communications Inc. (NYSE:VZ)"
         },
         {
-            "time": "09:36",
+            "time": "10:45",
             "tag": "MERCADO",
-            "text": "Crossmark Global Holdings Inc. Increases Holdings in Roper Technologies, Inc. $ROP"
+            "text": "Sen. John Boozman Purchases Shares of NetApp, Inc. (NASDAQ:NTAP)"
         },
         {
-            "time": "09:36",
+            "time": "10:45",
             "tag": "MERCADO",
-            "text": "PTC Inc. $PTC Shares Acquired by Crossmark Global Holdings Inc."
+            "text": "Sen. John Boozman Sells Adobe Inc. (NASDAQ:ADBE) Stock"
         },
         {
-            "time": "09:35",
+            "time": "10:13",
             "tag": "MERCADO",
-            "text": "AMETEK, Inc. $AME Holdings Trimmed by Gabelli Funds LLC"
+            "text": "Tigo Energy (NASDAQ:TYGO) Stock Rating Upgraded by Wall Street Zen"
         },
         {
-            "time": "09:29",
+            "time": "10:03",
             "tag": "MERCADO",
-            "text": "Crossmark Global Holdings Inc. Purchases 17,889 Shares of Aptiv PLC $APTV"
+            "text": "GenTrust LLC Cuts Holdings in NVIDIA Corporation $NVDA"
         }
     ]
 }
