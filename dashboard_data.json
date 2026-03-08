@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-08 20:31 UTC",
+        "last_updated": "2026-03-08 21:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.82,
-            "change": "+0.11%"
+            "change": "-0.52%"
         },
         {
             "symbol": "AMD",
             "price": 192.43,
-            "change": "-1.46%"
+            "change": "+1.95%"
         },
         {
             "symbol": "MSFT",
             "price": 408.96,
-            "change": "+1.95%"
+            "change": "+2.48%"
         },
         {
             "symbol": "CEG",
             "price": 319.06,
-            "change": "+1.38%"
+            "change": "-1.15%"
         },
         {
             "symbol": "VST",
             "price": 158.65,
-            "change": "+0.79%"
+            "change": "+0.87%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.66,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
+            0.51,
+            0.5,
+            0.5,
+            0.49,
+            0.48,
             0.48,
             0.49,
+            0.5,
+            0.5,
             0.49,
-            0.49,
-            0.49,
-            0.49
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.32,
-            24.1,
-            24.31,
-            24.36,
-            24.77,
-            24.45,
-            24.32,
-            24.13,
-            23.78,
-            24.08,
-            24.4,
-            24.7
+            25.38,
+            25.59,
+            25.84,
+            25.48,
+            25.54,
+            25.56,
+            25.94,
+            25.49,
+            24.99,
+            25.15,
+            24.99,
+            25.24
         ],
         "hsd_history_software": [
-            9.72,
-            9.76,
-            9.69,
-            9.86,
-            9.98,
+            10.05,
+            10.24,
+            10.05,
+            9.91,
+            10.1,
+            10.18,
+            10.04,
             10.16,
-            10.15,
-            10.11,
-            10.08,
             10.02,
-            10.14,
-            10.06
+            10.16,
+            10.18,
+            10.02
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "20:42",
+            "tag": "AI",
+            "text": "Did FIS\u2019 New Debt Issuance and AI Tools Just Shift Fidelity National\u2019s (FIS) Investment Narrative?"
+        },
+        {
             "time": "19:39",
             "tag": "MERCADO",
             "text": "Palo Alto Networks (PANW) Stock Surges on Analyst Upgrades and Strategic Partnerships"
@@ -144,11 +149,6 @@
             "time": "17:21",
             "tag": "MERCADO",
             "text": "Palo Alto Networks (PANW) Stock Surges on Analyst Upgrades and Strategic Partnerships"
-        },
-        {
-            "time": "16:49",
-            "tag": "MERCADO",
-            "text": "Constellation Energy (CEG) Share Price Target Cut By Multiple Analysts"
         }
     ]
 }
