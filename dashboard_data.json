@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-08 11:24 UTC",
+        "last_updated": "2026-03-08 12:56 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.82,
-            "change": "+2.89%"
+            "change": "+2.3%"
         },
         {
             "symbol": "AMD",
             "price": 192.43,
-            "change": "+2.73%"
+            "change": "+2.61%"
         },
         {
             "symbol": "MSFT",
             "price": 408.96,
-            "change": "-0.3%"
+            "change": "-3.23%"
         },
         {
             "symbol": "CEG",
             "price": 319.06,
-            "change": "-1.75%"
+            "change": "+0.78%"
         },
         {
             "symbol": "VST",
             "price": 158.65,
-            "change": "-1.3%"
+            "change": "+2.11%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.64,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
             0.5,
-            0.51,
             0.5,
             0.51,
+            0.52,
             0.51,
             0.5,
             0.5,
             0.5,
-            0.51,
             0.5,
-            0.5
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.21,
-            25.19,
-            25.46,
-            25.14,
-            25.62,
-            25.58,
-            25.86,
-            25.35,
-            25.76,
-            25.26,
-            25.35,
-            24.91
+            25.16,
+            24.72,
+            24.67,
+            24.25,
+            23.9,
+            23.77,
+            24.05,
+            24.27,
+            24.49,
+            24.73,
+            24.61,
+            24.79
         ],
         "hsd_history_software": [
-            9.41,
-            9.31,
-            9.19,
-            9.32,
-            9.49,
-            9.35,
-            9.53,
-            9.47,
-            9.61,
-            9.8,
-            9.91,
-            9.84
+            10.16,
+            10.07,
+            10.15,
+            9.99,
+            10.12,
+            10.09,
+            10.01,
+            9.96,
+            9.78,
+            9.69,
+            9.83,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:48",
+            "time": "11:49",
             "tag": "MERCADO",
-            "text": "Super Micro Computer Outperforms Qualstar in Tech Comparison"
+            "text": "Here\u2019s Why UBS Lowered Advanced Micro Devices (AMD) Price Target"
         },
         {
-            "time": "10:31",
+            "time": "11:45",
             "tag": "MERCADO",
-            "text": "Here's Why UBS Lowered Advanced Micro Devices (AMD) Price Target"
+            "text": "104,559 Shares in Fidelity National Information Services, Inc. $FIS Purchased by Munich Reinsurance Co Stock Corp in Munich"
         },
         {
-            "time": "09:48",
+            "time": "11:45",
             "tag": "MERCADO",
-            "text": "Dynamic Technology Lab Private Ltd Invests $2.33 Million in HP Inc. $HPQ"
+            "text": "Munich Reinsurance Co Stock Corp in Munich Invests $8.85 Million in Verizon Communications Inc. $VZ"
         },
         {
-            "time": "09:47",
+            "time": "11:45",
             "tag": "MERCADO",
-            "text": "Goodman Advisory Group LLC Raises Stock Holdings in Autodesk, Inc. $ADSK"
+            "text": "Munich Reinsurance Co Stock Corp in Munich Acquires New Position in eBay Inc. $EBAY"
         },
         {
-            "time": "09:41",
+            "time": "11:44",
             "tag": "MERCADO",
-            "text": "First Trust Advisors LP Boosts Holdings in Adobe Inc. $ADBE"
+            "text": "Munich Reinsurance Co Stock Corp in Munich Invests $8.66 Million in Autodesk, Inc. $ADSK"
         }
     ]
 }
