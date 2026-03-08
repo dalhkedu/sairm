@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-08 19:26 UTC",
+        "last_updated": "2026-03-08 20:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.82,
-            "change": "+1.65%"
+            "change": "+0.11%"
         },
         {
             "symbol": "AMD",
             "price": 192.43,
-            "change": "+1.73%"
+            "change": "-1.46%"
         },
         {
             "symbol": "MSFT",
             "price": 408.96,
-            "change": "-3.02%"
+            "change": "+1.95%"
         },
         {
             "symbol": "CEG",
             "price": 319.06,
-            "change": "+0.22%"
+            "change": "+1.38%"
         },
         {
             "symbol": "VST",
             "price": 158.65,
-            "change": "+0.42%"
+            "change": "+0.79%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.6,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
             0.48,
             0.49,
-            0.5
+            0.49,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            23.35,
-            23.81,
-            24.01,
-            24.43,
-            24.75,
-            24.39,
-            24.06,
-            24.25,
-            24.7,
-            25.06,
-            24.61,
-            24.96
+            24.32,
+            24.1,
+            24.31,
+            24.36,
+            24.77,
+            24.45,
+            24.32,
+            24.13,
+            23.78,
+            24.08,
+            24.4,
+            24.7
         ],
         "hsd_history_software": [
-            10.34,
-            10.5,
-            10.51,
-            10.54,
-            10.44,
-            10.3,
-            10.45,
-            10.52,
-            10.51,
-            10.43,
-            10.27,
-            10.12
+            9.72,
+            9.76,
+            9.69,
+            9.86,
+            9.98,
+            10.16,
+            10.15,
+            10.11,
+            10.08,
+            10.02,
+            10.14,
+            10.06
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "19:39",
+            "tag": "MERCADO",
+            "text": "Palo Alto Networks (PANW) Stock Surges on Analyst Upgrades and Strategic Partnerships"
+        },
+        {
+            "time": "19:22",
+            "tag": "MERCADO",
+            "text": "2 Top Cybersecurity Stocks to Buy in March"
+        },
+        {
+            "time": "19:09",
+            "tag": "MERCADO",
+            "text": "Emerging Investment Opportunities in Cybersecurity Stocks"
+        },
+        {
             "time": "17:21",
             "tag": "MERCADO",
             "text": "Palo Alto Networks (PANW) Stock Surges on Analyst Upgrades and Strategic Partnerships"
@@ -134,21 +149,6 @@
             "time": "16:49",
             "tag": "MERCADO",
             "text": "Constellation Energy (CEG) Share Price Target Cut By Multiple Analysts"
-        },
-        {
-            "time": "16:42",
-            "tag": "MERCADO",
-            "text": "Jim Cramer on Lam Research: \"I Think It's Going Higher\""
-        },
-        {
-            "time": "16:40",
-            "tag": "MERCADO",
-            "text": "Jim Cramer on Uber: \"I Think This Is a Company That's Taking Over the World\""
-        },
-        {
-            "time": "15:51",
-            "tag": "MERCADO",
-            "text": "Baidu (BIDU) Sees Lower Price Target from Barclays"
         }
     ]
 }
