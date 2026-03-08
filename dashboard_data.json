@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-08 05:45 UTC",
+        "last_updated": "2026-03-08 06:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.82,
-            "change": "+0.61%"
+            "change": "-2.11%"
         },
         {
             "symbol": "AMD",
             "price": 192.43,
-            "change": "-1.04%"
+            "change": "-1.8%"
         },
         {
             "symbol": "MSFT",
             "price": 408.96,
-            "change": "+2.91%"
+            "change": "+0.07%"
         },
         {
             "symbol": "CEG",
             "price": 319.06,
-            "change": "+1.46%"
+            "change": "+1.25%"
         },
         {
             "symbol": "VST",
             "price": 158.65,
-            "change": "+3.09%"
+            "change": "-1.57%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.42,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.5,
             0.5,
             0.5,
             0.51,
             0.5,
-            0.51,
-            0.51
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.69,
-            25.91,
-            25.89,
-            25.39,
-            25.43,
+            24.51,
+            24.47,
+            24.82,
+            24.84,
             25.14,
-            24.75,
-            24.68,
-            24.48,
-            24.44,
-            24.5,
-            24.96
+            25.08,
+            24.83,
+            24.61,
+            25.04,
+            25.24,
+            25.45,
+            25.33
         ],
         "hsd_history_software": [
-            9.76,
-            9.65,
-            9.66,
-            9.72,
-            9.85,
-            9.73,
-            9.63,
             9.68,
-            9.84,
-            9.67,
-            9.73,
-            9.82
+            9.56,
+            9.64,
+            9.74,
+            9.86,
+            9.75,
+            9.9,
+            9.89,
+            9.79,
+            9.89,
+            10.07,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "05:37",
+            "tag": "AI",
+            "text": "Is Procore (PCOR) Using AI Telematics To Deepen Its Construction Platform Moat With United Rentals?"
+        },
+        {
+            "time": "05:36",
+            "tag": "RESULTADOS",
+            "text": "Should Record Volatility-Driven Trading Volumes and Earnings Growth Require Action From Cboe Global Markets (CBOE) Investors?"
+        },
+        {
             "time": "04:36",
             "tag": "MERCADO",
             "text": "Analog Devices CEO Share Sale Highlights Valuation And Insider Sentiment"
@@ -139,16 +149,6 @@
             "time": "04:05",
             "tag": "MERCADO",
             "text": "Salesforce CEO Marc Benioff on thousands of layoffs at Jack Dorsey's Block: We all know that company has ..."
-        },
-        {
-            "time": "03:51",
-            "tag": "RESULTADOS",
-            "text": "HPE Q1 2026 Earnings: Revenue Forecast & Analyst Expectations - News and Statistics"
-        },
-        {
-            "time": "03:36",
-            "tag": "MERCADO",
-            "text": "A Look At nCino (NCNO) Valuation As Long Term Returns Lag Despite Recent Share Price Stability"
         }
     ]
 }
