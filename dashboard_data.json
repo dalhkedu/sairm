@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-08 12:56 UTC",
+        "last_updated": "2026-03-08 13:42 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.82,
-            "change": "+2.3%"
+            "change": "-0.83%"
         },
         {
             "symbol": "AMD",
             "price": 192.43,
-            "change": "+2.61%"
+            "change": "+0.37%"
         },
         {
             "symbol": "MSFT",
             "price": 408.96,
-            "change": "-3.23%"
+            "change": "-0.05%"
         },
         {
             "symbol": "CEG",
             "price": 319.06,
-            "change": "+0.78%"
+            "change": "+0.08%"
         },
         {
             "symbol": "VST",
             "price": 158.65,
-            "change": "+2.11%"
+            "change": "+3.3%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.55,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.5,
-            0.5,
-            0.51,
+            0.54,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
             0.52,
             0.51,
+            0.51,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            25.16,
-            24.72,
-            24.67,
-            24.25,
-            23.9,
-            23.77,
-            24.05,
-            24.27,
-            24.49,
+            24.81,
+            24.7,
             24.73,
-            24.61,
-            24.79
+            25.16,
+            25.09,
+            25.25,
+            24.82,
+            25.27,
+            25.1,
+            24.73,
+            25.02,
+            25.33
         ],
         "hsd_history_software": [
-            10.16,
-            10.07,
-            10.15,
-            9.99,
-            10.12,
-            10.09,
-            10.01,
-            9.96,
-            9.78,
-            9.69,
-            9.83,
-            9.99
+            10.19,
+            10.18,
+            10.22,
+            10.3,
+            10.19,
+            10.39,
+            10.3,
+            10.17,
+            10.06,
+            9.97,
+            9.87,
+            9.93
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:49",
+            "time": "12:37",
             "tag": "MERCADO",
-            "text": "Here\u2019s Why UBS Lowered Advanced Micro Devices (AMD) Price Target"
+            "text": "Verizon Communications Inc. $VZ Shares Sold by Parallel Advisors LLC"
         },
         {
-            "time": "11:45",
+            "time": "12:37",
             "tag": "MERCADO",
-            "text": "104,559 Shares in Fidelity National Information Services, Inc. $FIS Purchased by Munich Reinsurance Co Stock Corp in Munich"
+            "text": "Uber Technologies, Inc. $UBER Shares Sold by Parallel Advisors LLC"
         },
         {
-            "time": "11:45",
+            "time": "12:36",
             "tag": "MERCADO",
-            "text": "Munich Reinsurance Co Stock Corp in Munich Invests $8.85 Million in Verizon Communications Inc. $VZ"
+            "text": "Parallel Advisors LLC Decreases Stock Position in Crown Castle Inc. $CCI"
         },
         {
-            "time": "11:45",
+            "time": "12:15",
             "tag": "MERCADO",
-            "text": "Munich Reinsurance Co Stock Corp in Munich Acquires New Position in eBay Inc. $EBAY"
+            "text": "Arista Networks, Inc. $ANET Shares Sold by Korea Investment CORP"
         },
         {
-            "time": "11:44",
+            "time": "12:15",
             "tag": "MERCADO",
-            "text": "Munich Reinsurance Co Stock Corp in Munich Invests $8.66 Million in Autodesk, Inc. $ADSK"
+            "text": "Grantham Mayo Van Otterloo & Co. LLC Raises Stock Position in Jack Henry & Associates, Inc. $JKHY"
         }
     ]
 }
