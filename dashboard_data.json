@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-08 08:35 UTC",
+        "last_updated": "2026-03-08 09:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.82,
-            "change": "-0.24%"
+            "change": "-2.87%"
         },
         {
             "symbol": "AMD",
             "price": 192.43,
-            "change": "+3.39%"
+            "change": "+0.42%"
         },
         {
             "symbol": "MSFT",
             "price": 408.96,
-            "change": "-3.41%"
+            "change": "+2.54%"
         },
         {
             "symbol": "CEG",
             "price": 319.06,
-            "change": "-2.95%"
+            "change": "-3.28%"
         },
         {
             "symbol": "VST",
             "price": 158.65,
-            "change": "+0.64%"
+            "change": "-1.93%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.59,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.47,
+            0.48,
+            0.47,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.41,
-            25.98,
-            25.85,
-            25.9,
-            25.91,
-            26.18,
-            25.78,
-            25.49,
-            25.4,
-            25.9,
-            25.42,
-            25.39
+            25.15,
+            24.99,
+            25.02,
+            24.59,
+            24.88,
+            24.49,
+            24.64,
+            25.04,
+            25.08,
+            24.81,
+            24.87,
+            25.18
         ],
         "hsd_history_software": [
-            9.99,
-            10.19,
-            10.05,
-            9.93,
-            9.91,
-            10.07,
-            10.05,
-            9.96,
-            9.78,
-            9.82,
-            9.94,
-            10.07
+            10.14,
+            10.23,
+            10.3,
+            10.2,
+            10.39,
+            10.49,
+            10.29,
+            10.26,
+            10.1,
+            9.98,
+            10.0,
+            10.01
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:46",
+            "time": "08:43",
             "tag": "MERCADO",
-            "text": "Gen Digital Inc. (NASDAQ:GEN) Receives Average Recommendation of \"Hold\" from Brokerages"
+            "text": "B. Metzler seel. Sohn & Co. AG Acquires 13,338 Shares of Analog Devices, Inc. $ADI"
         },
         {
-            "time": "07:35",
+            "time": "08:41",
             "tag": "MERCADO",
-            "text": "General Motors executive reveals company's 'risky' EV strategy: 'We are going to win the \u2026 race'"
+            "text": "B. Metzler seel. Sohn & Co. AG Has $12.10 Million Stock Position in Lam Research Corporation $LRCX"
         },
         {
-            "time": "07:23",
-            "tag": "AI",
-            "text": "Tyler Technologies (TYL) Is Up 5.6% After Mixed Q4 And AI-SaaS Push Update Has The Bull Case Changed?"
+            "time": "08:41",
+            "tag": "MERCADO",
+            "text": "Blair William & Co. IL Buys 16,182 Shares of Generac Holdings Inc. $GNRC"
         },
         {
-            "time": "05:37",
-            "tag": "AI",
-            "text": "Is Procore (PCOR) Using AI Telematics To Deepen Its Construction Platform Moat With United Rentals?"
+            "time": "08:41",
+            "tag": "MERCADO",
+            "text": "Barclays PLC Has $109.71 Million Stock Holdings in Fidelity National Information Services, Inc. $FIS"
         },
         {
-            "time": "05:36",
-            "tag": "RESULTADOS",
-            "text": "Should Record Volatility-Driven Trading Volumes and Earnings Growth Require Action From Cboe Global Markets (CBOE) Investors?"
+            "time": "08:41",
+            "tag": "MERCADO",
+            "text": "Digital Realty Trust, Inc. $DLR Shares Bought by Barclays PLC"
         }
     ]
 }
