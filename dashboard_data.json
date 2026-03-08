@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-07 23:26 UTC",
+        "last_updated": "2026-03-08 02:29 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.82,
-            "change": "-1.99%"
+            "change": "+1.27%"
         },
         {
             "symbol": "AMD",
             "price": 192.43,
-            "change": "+0.62%"
+            "change": "+1.98%"
         },
         {
             "symbol": "MSFT",
             "price": 408.96,
-            "change": "+2.75%"
+            "change": "-0.8%"
         },
         {
             "symbol": "CEG",
             "price": 319.06,
-            "change": "-1.28%"
+            "change": "+0.4%"
         },
         {
             "symbol": "VST",
             "price": 158.65,
-            "change": "+2.37%"
+            "change": "+1.27%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
+        "cer_current": 0.61,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.57,
-            0.56,
-            0.55,
-            0.54,
-            0.53,
-            0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            25.07,
-            24.82,
-            25.26,
-            24.97,
+            24.6,
+            25.08,
+            25.37,
+            25.06,
+            25.03,
+            25.23,
+            24.84,
+            24.63,
             24.62,
-            24.38,
-            24.39,
-            24.32,
-            24.16,
-            24.53,
-            24.91,
-            25.08
+            24.92,
+            24.57,
+            24.83
         ],
         "hsd_history_software": [
-            10.83,
-            10.8,
-            10.62,
-            10.56,
-            10.42,
-            10.57,
-            10.63,
-            10.5,
-            10.56,
-            10.51,
             10.33,
-            10.15
+            10.13,
+            10.09,
+            10.04,
+            9.93,
+            10.04,
+            9.86,
+            9.69,
+            9.87,
+            10.04,
+            9.91,
+            9.81
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "00:53",
+            "tag": "MERCADO",
+            "text": "PT - Pintec Technology Holdings Latest Stock News & Market Updates"
+        },
+        {
+            "time": "00:39",
+            "tag": "AI",
+            "text": "Do New AI Chip Export Risks Undermine Applied Materials' (AMAT) S&P 100 Moment?"
+        },
+        {
+            "time": "00:09",
+            "tag": "MERCADO",
+            "text": "New hybrid system brings electric efficiency to regional aircraft"
+        },
+        {
+            "time": "23:52",
+            "tag": "AI",
+            "text": "SoundHound AI Partnerships Test Enterprise Demand Versus Weak Recent Share Momentum"
+        },
+        {
             "time": "22:35",
             "tag": "AI",
             "text": "AMD Stock Prediction: Can AMD Stock Surge to $300 in the AI Boom?"
-        },
-        {
-            "time": "22:32",
-            "tag": "MERCADO",
-            "text": "Has Hewlett Packard Enterprise (HPE) Fallen Too Far After Recent Share Price Weakness?"
-        },
-        {
-            "time": "22:32",
-            "tag": "MERCADO",
-            "text": "Western Digital\u2019s Pure Play HDD Pivot And Fully Booked 2026 Capacity"
-        },
-        {
-            "time": "21:30",
-            "tag": "MERCADO",
-            "text": "HP Inc extends Ferrari partnership to focus on teamwork and innovation"
-        },
-        {
-            "time": "19:52",
-            "tag": "AI",
-            "text": "Galaxy Digital Refocuses On US Listing AI Shift And Legal Scrutiny"
         }
     ]
 }
