@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-08 22:27 UTC",
+        "last_updated": "2026-03-08 23:28 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.82,
-            "change": "-3.29%"
+            "change": "-2.91%"
         },
         {
             "symbol": "AMD",
             "price": 192.43,
-            "change": "+3.42%"
+            "change": "+1.26%"
         },
         {
             "symbol": "MSFT",
             "price": 408.96,
-            "change": "+1.06%"
+            "change": "+3.22%"
         },
         {
             "symbol": "CEG",
             "price": 319.06,
-            "change": "+0.64%"
+            "change": "+1.76%"
         },
         {
             "symbol": "VST",
             "price": 158.65,
-            "change": "+3.44%"
+            "change": "+1.14%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.69,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
-            0.48,
-            0.48,
+            0.52,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
             0.49,
             0.5,
-            0.5,
-            0.51,
-            0.51,
             0.51,
             0.5,
-            0.5
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.04,
-            25.12,
-            25.41,
-            25.05,
-            24.71,
+            24.5,
+            24.76,
+            24.85,
+            24.98,
             24.68,
-            24.21,
-            24.36,
-            24.77,
-            25.22,
-            25.62,
-            25.34
+            24.8,
+            25.28,
+            24.9,
+            25.4,
+            25.04,
+            25.24,
+            24.99
         ],
         "hsd_history_software": [
+            9.45,
+            9.57,
+            9.63,
+            9.72,
+            9.89,
             9.85,
-            9.93,
-            9.98,
-            10.18,
-            10.19,
-            10.11,
-            9.93,
-            10.06,
-            10.05,
-            10.05,
-            10.1,
-            10.1
+            9.72,
+            9.64,
+            9.64,
+            9.83,
+            9.79,
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "20:50",
+            "tag": "MERCADO",
+            "text": "KKR eyes multibillion-dollar sale of CoolIT Systems, FT reports"
+        },
+        {
             "time": "20:42",
             "tag": "AI",
             "text": "Did FIS\u2019 New Debt Issuance and AI Tools Just Shift Fidelity National\u2019s (FIS) Investment Narrative?"
@@ -144,11 +149,6 @@
             "time": "19:09",
             "tag": "MERCADO",
             "text": "Emerging Investment Opportunities in Cybersecurity Stocks"
-        },
-        {
-            "time": "17:21",
-            "tag": "MERCADO",
-            "text": "Palo Alto Networks (PANW) Stock Surges on Analyst Upgrades and Strategic Partnerships"
         }
     ]
 }
