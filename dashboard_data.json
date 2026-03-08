@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-08 18:39 UTC",
+        "last_updated": "2026-03-08 19:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.82,
-            "change": "+0.09%"
+            "change": "+1.65%"
         },
         {
             "symbol": "AMD",
             "price": 192.43,
-            "change": "-2.18%"
+            "change": "+1.73%"
         },
         {
             "symbol": "MSFT",
             "price": 408.96,
-            "change": "+2.45%"
+            "change": "-3.02%"
         },
         {
             "symbol": "CEG",
             "price": 319.06,
-            "change": "+0.76%"
+            "change": "+0.22%"
         },
         {
             "symbol": "VST",
             "price": 158.65,
-            "change": "+3.26%"
+            "change": "+0.42%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.47,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
-            0.5,
-            0.5,
             0.49,
             0.49,
+            0.48,
+            0.48,
             0.49,
             0.49,
+            0.48,
             0.49,
+            0.48,
             0.49,
-            0.49,
-            0.49,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            24.62,
-            24.27,
-            24.36,
-            24.38,
+            23.35,
+            23.81,
+            24.01,
+            24.43,
+            24.75,
+            24.39,
+            24.06,
+            24.25,
+            24.7,
+            25.06,
             24.61,
-            25.1,
-            25.21,
-            24.76,
-            24.79,
-            24.74,
-            24.33,
-            24.59
+            24.96
         ],
         "hsd_history_software": [
-            9.98,
-            9.94,
-            9.93,
-            10.13,
-            10.13,
-            10.32,
-            10.32,
-            10.17,
-            10.11,
-            10.01,
-            9.88,
-            9.99
+            10.34,
+            10.5,
+            10.51,
+            10.54,
+            10.44,
+            10.3,
+            10.45,
+            10.52,
+            10.51,
+            10.43,
+            10.27,
+            10.12
         ],
         "rci_data": [
             85.0,
@@ -131,6 +131,11 @@
             "text": "Palo Alto Networks (PANW) Stock Surges on Analyst Upgrades and Strategic Partnerships"
         },
         {
+            "time": "16:49",
+            "tag": "MERCADO",
+            "text": "Constellation Energy (CEG) Share Price Target Cut By Multiple Analysts"
+        },
+        {
             "time": "16:42",
             "tag": "MERCADO",
             "text": "Jim Cramer on Lam Research: \"I Think It's Going Higher\""
@@ -144,11 +149,6 @@
             "time": "15:51",
             "tag": "MERCADO",
             "text": "Baidu (BIDU) Sees Lower Price Target from Barclays"
-        },
-        {
-            "time": "15:50",
-            "tag": "MERCADO",
-            "text": "Duke Energy Corporation (DUK) Price Target Raised by $4, Here\u2019s Why"
         }
     ]
 }
