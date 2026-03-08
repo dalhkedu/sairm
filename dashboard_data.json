@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-08 07:32 UTC",
+        "last_updated": "2026-03-08 08:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.82,
-            "change": "+2.94%"
+            "change": "-0.24%"
         },
         {
             "symbol": "AMD",
             "price": 192.43,
-            "change": "+2.97%"
+            "change": "+3.39%"
         },
         {
             "symbol": "MSFT",
             "price": 408.96,
-            "change": "+0.73%"
+            "change": "-3.41%"
         },
         {
             "symbol": "CEG",
             "price": 319.06,
-            "change": "-0.04%"
+            "change": "-2.95%"
         },
         {
             "symbol": "VST",
             "price": 158.65,
-            "change": "-3.12%"
+            "change": "+0.64%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.45,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.43,
-            25.25,
-            24.88,
-            25.34,
-            25.33,
-            25.52,
-            25.1,
-            25.06,
-            25.11,
-            25.06,
-            25.06,
-            25.23
+            26.41,
+            25.98,
+            25.85,
+            25.9,
+            25.91,
+            26.18,
+            25.78,
+            25.49,
+            25.4,
+            25.9,
+            25.42,
+            25.39
         ],
         "hsd_history_software": [
-            9.65,
-            9.77,
-            9.94,
             9.99,
-            10.17,
-            10.27,
-            10.17,
+            10.19,
             10.05,
-            9.88,
-            9.83,
-            10.03,
-            9.93
+            9.93,
+            9.91,
+            10.07,
+            10.05,
+            9.96,
+            9.78,
+            9.82,
+            9.94,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "07:46",
+            "tag": "MERCADO",
+            "text": "Gen Digital Inc. (NASDAQ:GEN) Receives Average Recommendation of \"Hold\" from Brokerages"
+        },
+        {
+            "time": "07:35",
+            "tag": "MERCADO",
+            "text": "General Motors executive reveals company's 'risky' EV strategy: 'We are going to win the \u2026 race'"
+        },
+        {
+            "time": "07:23",
+            "tag": "AI",
+            "text": "Tyler Technologies (TYL) Is Up 5.6% After Mixed Q4 And AI-SaaS Push Update Has The Bull Case Changed?"
+        },
+        {
             "time": "05:37",
             "tag": "AI",
             "text": "Is Procore (PCOR) Using AI Telematics To Deepen Its Construction Platform Moat With United Rentals?"
@@ -134,21 +149,6 @@
             "time": "05:36",
             "tag": "RESULTADOS",
             "text": "Should Record Volatility-Driven Trading Volumes and Earnings Growth Require Action From Cboe Global Markets (CBOE) Investors?"
-        },
-        {
-            "time": "04:36",
-            "tag": "MERCADO",
-            "text": "Analog Devices CEO Share Sale Highlights Valuation And Insider Sentiment"
-        },
-        {
-            "time": "04:32",
-            "tag": "MERCADO",
-            "text": "Jeff Bezos' Amazon Urges FCC To Prevent Elon Musk's SpaceX Proposal To Launch A Million Satellites"
-        },
-        {
-            "time": "04:05",
-            "tag": "MERCADO",
-            "text": "Salesforce CEO Marc Benioff on thousands of layoffs at Jack Dorsey's Block: We all know that company has ..."
         }
     ]
 }
