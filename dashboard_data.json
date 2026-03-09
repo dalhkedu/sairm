@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-09 22:33 UTC",
+        "last_updated": "2026-03-09 23:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.65,
-            "change": "+1.67%"
+            "change": "+3.37%"
         },
         {
             "symbol": "AMD",
             "price": 202.68,
-            "change": "-3.15%"
+            "change": "+0.14%"
         },
         {
             "symbol": "MSFT",
             "price": 409.41,
-            "change": "+2.57%"
+            "change": "-2.61%"
         },
         {
             "symbol": "CEG",
             "price": 322.99,
-            "change": "+1.63%"
+            "change": "+2.69%"
         },
         {
             "symbol": "VST",
             "price": 163.62,
-            "change": "-2.23%"
+            "change": "+0.04%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.6,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.49,
             0.5,
+            0.5,
+            0.51,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.6,
-            25.17,
-            25.35,
-            24.87,
-            25.29,
-            25.36,
-            25.54,
-            25.47,
-            25.43,
-            25.75,
-            25.54,
-            25.19
+            24.37,
+            23.96,
+            24.45,
+            24.51,
+            24.28,
+            24.14,
+            24.17,
+            24.48,
+            24.49,
+            24.3,
+            24.51,
+            24.55
         ],
         "hsd_history_software": [
-            9.97,
-            9.97,
-            10.02,
-            9.82,
+            10.18,
+            10.15,
+            10.01,
+            10.07,
             9.95,
-            9.83,
-            9.96,
-            10.01,
-            10.01,
+            9.87,
+            10.06,
+            10.15,
+            10.15,
             10.12,
-            10.13,
-            10.15
+            10.14,
+            10.12
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:50",
+            "time": "22:34",
+            "tag": "MERCADO",
+            "text": "Akamai Technologies (NASDAQ:AKAM) EVP Mani Sundaram Sells 1,722 Shares"
+        },
+        {
+            "time": "22:34",
+            "tag": "MERCADO",
+            "text": "Insider Selling: F5 (NASDAQ:FFIV) EVP Sells 688 Shares of Stock"
+        },
+        {
+            "time": "22:27",
             "tag": "AI",
-            "text": "Hewlett Packard Enterprise forecasts revenue above estimates on AI boom"
+            "text": "AMD Extends Ryzen AI Embedded P100 Series for Edge AI Applications"
         },
         {
-            "time": "21:37",
+            "time": "22:20",
             "tag": "MERCADO",
-            "text": "Agilent Technologies to acquire Biocare Medical for $950 million"
+            "text": "KKR looks to sell Calgary\u2019s CoolIT, maker of data centre cooling technology"
         },
         {
-            "time": "21:20",
+            "time": "22:18",
             "tag": "MERCADO",
-            "text": "Has Intel's Stock Peaked?"
-        },
-        {
-            "time": "21:17",
-            "tag": "MERCADO",
-            "text": "Super Micro Computer (NASDAQ:SMCI) Trading Up 2.1% - Here's What Happened"
-        },
-        {
-            "time": "21:17",
-            "tag": "MERCADO",
-            "text": "PayPal (NASDAQ:PYPL) Trading Down 1.7% - What's Next?"
+            "text": "Top Superinvestors Are Buying ServiceNow, Inc. (NOW)"
         }
     ]
 }
