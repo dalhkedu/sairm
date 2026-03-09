@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-09 07:14 UTC",
+        "last_updated": "2026-03-09 08:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.82,
-            "change": "-0.17%"
+            "change": "-1.67%"
         },
         {
             "symbol": "AMD",
             "price": 192.43,
-            "change": "-3.12%"
+            "change": "+3.34%"
         },
         {
             "symbol": "MSFT",
             "price": 408.96,
-            "change": "+2.24%"
+            "change": "-0.49%"
         },
         {
             "symbol": "CEG",
             "price": 319.06,
-            "change": "-1.06%"
+            "change": "-2.4%"
         },
         {
             "symbol": "VST",
             "price": 158.65,
-            "change": "+1.41%"
+            "change": "+2.95%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.53,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
             0.51,
-            0.5,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
             0.51,
             0.51,
             0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.52,
             0.51
         ],
         "hsd_history_hardware": [
-            23.93,
-            24.18,
-            24.05,
-            24.31,
-            24.46,
-            24.46,
-            24.32,
-            24.61,
-            24.23,
-            24.72,
-            25.08,
-            24.72
+            24.17,
+            24.24,
+            24.55,
+            24.41,
+            24.06,
+            24.19,
+            24.06,
+            24.04,
+            24.14,
+            24.28,
+            24.6,
+            24.68
         ],
         "hsd_history_software": [
-            10.81,
-            10.64,
-            10.59,
-            10.43,
-            10.42,
-            10.5,
-            10.3,
-            10.31,
-            10.17,
-            10.25,
-            10.09,
-            9.89
+            9.84,
+            9.96,
+            9.95,
+            9.81,
+            10.0,
+            9.94,
+            9.94,
+            10.02,
+            10.22,
+            10.05,
+            10.12,
+            10.17
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:39",
+            "time": "07:49",
             "tag": "MERCADO",
-            "text": "Cadence Design Systems, Inc. (NASDAQ:CDNS) Given Average Rating of \"Moderate Buy\" by Analysts"
+            "text": "Blair William & Co. IL Reduces Stake in Fidelity National Information Services, Inc. $FIS"
         },
         {
-            "time": "06:39",
+            "time": "07:49",
             "tag": "MERCADO",
-            "text": "Amazon.com, Inc. (NASDAQ:AMZN) Receives Average Rating of \"Moderate Buy\" from Analysts"
+            "text": "Bell Asset Management Ltd Sells 5,785 Shares of Motorola Solutions, Inc. $MSI"
         },
         {
-            "time": "06:39",
+            "time": "07:49",
             "tag": "MERCADO",
-            "text": "AT&T Inc. (NYSE:T) Receives Consensus Rating of \"Moderate Buy\" from Analysts"
+            "text": "Bell Asset Management Ltd Sells 7,386 Shares of Keysight Technologies Inc. $KEYS"
         },
         {
-            "time": "05:59",
-            "tag": "RESULTADOS",
-            "text": "Zacks Research Forecasts Paycom Software FY2028 Earnings"
+            "time": "07:41",
+            "tag": "MERCADO",
+            "text": "EDENTREE ASSET MANAGEMENT Ltd Increases Position in NVIDIA Corporation $NVDA"
         },
         {
-            "time": "05:54",
-            "tag": "AI",
-            "text": "Tech Data Collaborates with NetApp to Launch AI Test Drive Center to Accelerate Enterprise Transformation"
+            "time": "07:41",
+            "tag": "MERCADO",
+            "text": "Microsoft Corporation $MSFT is Dearborn Partners LLC's 2nd Largest Position"
         }
     ]
 }
