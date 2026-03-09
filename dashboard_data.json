@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-09 19:44 UTC",
+        "last_updated": "2026-03-09 20:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 181.88,
-            "change": "-1.05%"
+            "price": 182.65,
+            "change": "-1.86%"
         },
         {
             "symbol": "AMD",
-            "price": NaN,
-            "change": "+0.73%"
+            "price": 202.68,
+            "change": "+0.87%"
         },
         {
             "symbol": "MSFT",
-            "price": 408.78,
-            "change": "+2.47%"
+            "price": 409.41,
+            "change": "+2.89%"
         },
         {
             "symbol": "CEG",
-            "price": 322.96,
-            "change": "+2.03%"
+            "price": 322.99,
+            "change": "+0.53%"
         },
         {
             "symbol": "VST",
-            "price": 163.71,
-            "change": "+0.05%"
+            "price": 163.62,
+            "change": "-0.38%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.52,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.5,
             0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
             0.49,
             0.49,
             0.5,
-            0.51
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.9,
-            25.55,
-            25.79,
-            26.21,
-            26.31,
-            25.82,
-            25.51,
-            25.2,
-            25.19,
-            24.82,
-            25.16,
-            25.24
+            24.14,
+            23.85,
+            23.64,
+            23.82,
+            24.03,
+            24.35,
+            24.35,
+            23.96,
+            24.21,
+            24.63,
+            24.37,
+            24.71
         ],
         "hsd_history_software": [
-            9.67,
-            9.71,
-            9.81,
-            9.69,
-            9.85,
-            10.04,
+            10.13,
+            10.19,
+            10.09,
+            10.13,
+            10.28,
+            10.32,
+            10.22,
             10.16,
-            10.04,
-            9.92,
-            9.98,
-            10.06,
-            10.15
+            10.02,
+            9.95,
+            10.13,
+            10.05
         ],
         "rci_data": [
             85.0,
-            18.188
+            18.265
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:42",
+            "time": "19:37",
+            "tag": "MERCADO",
+            "text": "Tesla Finance VP Exits in Latest Departure for Musk\u2019s EV Maker"
+        },
+        {
+            "time": "19:29",
             "tag": "AI",
-            "text": "Apple Postpones Smart Home Display Launch as It Waits for New AI and Siri"
+            "text": "Gartner Identifies 3 Pillars for Deriving Value from AI"
         },
         {
-            "time": "18:37",
-            "tag": "MERCADO",
-            "text": "GM Revives Chevrolet Bolt: Strategy Behind the EV's Return - News and Statistics"
+            "time": "19:23",
+            "tag": "AI",
+            "text": "ServiceNow (NOW) Valuation Check After New Public Sector AI Solutions And Rising Investor Interest"
         },
         {
-            "time": "18:08",
+            "time": "19:20",
             "tag": "MERCADO",
-            "text": "Jim Cramer on Take-Two Interactive: \"I Think You've Gotta Get In Before GTA\""
+            "text": "A Look At Roper Technologies (ROP) Valuation After Mixed Q4 Results And 2026 Growth Targets"
         },
         {
-            "time": "18:08",
+            "time": "18:56",
             "tag": "MERCADO",
-            "text": "TER Stock Down 10% in a Month: Should Investors Buy the Dip or Wait?"
-        },
-        {
-            "time": "17:50",
-            "tag": "MERCADO",
-            "text": "Jim Cramer on Honeywell International: \"We Want to Own It Right Into the Split, But Be Aware It's Had a Big Run\""
+            "text": "Adeia settles semiconductor patent lawsuits against AMD"
         }
     ]
 }
