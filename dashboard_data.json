@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-09 18:57 UTC",
+        "last_updated": "2026-03-09 19:44 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 179.47,
-            "change": "-1.86%"
+            "price": 181.88,
+            "change": "-1.05%"
         },
         {
             "symbol": "AMD",
-            "price": 197.3,
-            "change": "-2.89%"
+            "price": NaN,
+            "change": "+0.73%"
         },
         {
             "symbol": "MSFT",
-            "price": 405.11,
-            "change": "-0.65%"
+            "price": 408.78,
+            "change": "+2.47%"
         },
         {
             "symbol": "CEG",
-            "price": 318.21,
-            "change": "+1.06%"
+            "price": 322.96,
+            "change": "+2.03%"
         },
         {
             "symbol": "VST",
-            "price": 160.35,
-            "change": "-2.13%"
+            "price": 163.71,
+            "change": "+0.05%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.65,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.51,
+            0.5,
+            0.49,
+            0.49,
             0.48,
-            0.47,
+            0.48,
+            0.48,
             0.48,
             0.49,
-            0.5,
-            0.49,
-            0.49,
             0.49,
             0.5,
-            0.49,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            25.76,
-            25.69,
+            25.9,
+            25.55,
+            25.79,
+            26.21,
+            26.31,
+            25.82,
+            25.51,
+            25.2,
             25.19,
-            24.93,
-            25.27,
-            25.22,
-            25.33,
-            25.45,
-            25.24,
-            25.43,
-            25.07,
-            24.97
+            24.82,
+            25.16,
+            25.24
         ],
         "hsd_history_software": [
-            9.99,
-            9.87,
-            9.9,
-            9.72,
-            9.57,
-            9.59,
-            9.64,
-            9.77,
-            9.84,
-            9.95,
-            9.96,
-            10.09
+            9.67,
+            9.71,
+            9.81,
+            9.69,
+            9.85,
+            10.04,
+            10.16,
+            10.04,
+            9.92,
+            9.98,
+            10.06,
+            10.15
         ],
         "rci_data": [
             85.0,
-            17.947
+            18.188
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:36",
-            "tag": "MERCADO",
-            "text": "Tyler Technologies COO Puckett sells $1.9 million in stock"
-        },
-        {
-            "time": "17:35",
-            "tag": "MERCADO",
-            "text": "Jim Cramer on Take-Two Interactive: \u201cI Think You\u2019ve Gotta Get In Before GTA\u201d"
-        },
-        {
-            "time": "17:20",
+            "time": "18:42",
             "tag": "AI",
-            "text": "Booking Holdings (BKNG) Is Up 8.9% After Stock Split, Dividend Hike and AI Efficiency Gains \u2013 What's Changed"
+            "text": "Apple Postpones Smart Home Display Launch as It Waits for New AI and Siri"
         },
         {
-            "time": "17:20",
+            "time": "18:37",
             "tag": "MERCADO",
-            "text": "Saxonburg tech manufacturer Coherent joins S&P 500 after Nvidia investment"
+            "text": "GM Revives Chevrolet Bolt: Strategy Behind the EV's Return - News and Statistics"
         },
         {
-            "time": "17:17",
+            "time": "18:08",
             "tag": "MERCADO",
-            "text": "How Investors Are Reacting To Verisk Analytics (VRSK) Aggressive Free Cash Flow Return Commitment"
+            "text": "Jim Cramer on Take-Two Interactive: \"I Think You've Gotta Get In Before GTA\""
+        },
+        {
+            "time": "18:08",
+            "tag": "MERCADO",
+            "text": "TER Stock Down 10% in a Month: Should Investors Buy the Dip or Wait?"
+        },
+        {
+            "time": "17:50",
+            "tag": "MERCADO",
+            "text": "Jim Cramer on Honeywell International: \"We Want to Own It Right Into the Split, But Be Aware It's Had a Big Run\""
         }
     ]
 }
