@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-09 11:36 UTC",
+        "last_updated": "2026-03-09 13:11 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.82,
-            "change": "+2.4%"
+            "change": "+2.18%"
         },
         {
             "symbol": "AMD",
             "price": 192.43,
-            "change": "+0.27%"
+            "change": "-2.65%"
         },
         {
             "symbol": "MSFT",
             "price": 408.96,
-            "change": "-1.09%"
+            "change": "+2.19%"
         },
         {
             "symbol": "CEG",
             "price": 319.06,
-            "change": "-0.22%"
+            "change": "+2.65%"
         },
         {
             "symbol": "VST",
             "price": 158.65,
-            "change": "+0.69%"
+            "change": "+2.31%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.42,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.46,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
+            0.49,
+            0.5,
             0.49,
             0.5,
             0.5,
-            0.5
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.47,
-            26.27,
-            26.02,
-            25.65,
-            25.32,
-            25.14,
-            25.16,
-            25.61,
-            25.21,
-            25.37,
+            25.25,
+            24.95,
+            25.0,
+            25.1,
             25.38,
-            25.31
+            25.6,
+            25.14,
+            24.92,
+            24.43,
+            24.61,
+            25.11,
+            25.2
         ],
         "hsd_history_software": [
-            9.52,
-            9.51,
-            9.58,
-            9.73,
-            9.9,
-            9.96,
-            9.79,
+            9.86,
+            9.81,
+            9.8,
+            9.85,
+            9.71,
+            9.56,
+            9.7,
+            9.8,
+            9.71,
             9.82,
-            9.84,
-            9.93,
-            10.1,
-            9.95
+            9.8,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:47",
+            "time": "12:47",
             "tag": "MERCADO",
-            "text": "Jefferies Financial Group Inc. Has $28.77 Million Holdings in AT&T Inc. $T"
+            "text": "Sienna Gestion Cuts Stock Holdings in Caterpillar Inc. $CAT"
         },
         {
-            "time": "10:46",
+            "time": "12:47",
             "tag": "MERCADO",
-            "text": "Jefferies Financial Group Inc. Takes Position in Hewlett Packard Enterprise Company $HPE"
+            "text": "Sienna Gestion Lowers Stock Holdings in Advanced Micro Devices, Inc. $AMD"
         },
         {
-            "time": "10:38",
+            "time": "12:45",
             "tag": "MERCADO",
-            "text": "Alphabet Inc. $GOOG is ProVise Management Group LLC's 3rd Largest Position"
+            "text": "Uber Expands Female Driver Option in the US Amid Mounting Assault Cases"
         },
         {
-            "time": "10:32",
+            "time": "12:44",
             "tag": "MERCADO",
-            "text": "Why Texas Pacific Land Corporation Rallied Over 50% in February"
+            "text": "Verizon Communications Inc. $VZ Shares Acquired by Sienna Gestion"
         },
         {
-            "time": "10:29",
+            "time": "12:43",
             "tag": "MERCADO",
-            "text": "A Donut-shaped Market: Stratasys\u2019 Yoav Zeif outlines Additive\u2019s Next Phase at AMS 2026"
+            "text": "Vestcor Inc Trims Stock Position in Fair Isaac Corporation $FICO"
         }
     ]
 }
