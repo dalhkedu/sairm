@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-09 09:55 UTC",
+        "last_updated": "2026-03-09 10:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.82,
-            "change": "-0.15%"
+            "change": "-2.9%"
         },
         {
             "symbol": "AMD",
             "price": 192.43,
-            "change": "+1.13%"
+            "change": "-3.4%"
         },
         {
             "symbol": "MSFT",
             "price": 408.96,
-            "change": "-2.86%"
+            "change": "-0.64%"
         },
         {
             "symbol": "CEG",
             "price": 319.06,
-            "change": "-2.04%"
+            "change": "+1.34%"
         },
         {
             "symbol": "VST",
             "price": 158.65,
-            "change": "-1.78%"
+            "change": "-1.19%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.59,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.5,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
             0.49,
             0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            22.83,
-            23.25,
-            22.92,
-            22.78,
-            23.09,
-            23.46,
-            23.74,
-            24.09,
-            24.17,
-            24.63,
-            24.63,
-            25.03
+            24.82,
+            24.98,
+            24.51,
+            24.46,
+            24.71,
+            24.31,
+            24.33,
+            24.67,
+            24.37,
+            24.73,
+            25.0,
+            25.04
         ],
         "hsd_history_software": [
-            9.71,
-            9.88,
-            9.81,
-            9.76,
-            9.79,
-            9.63,
-            9.57,
-            9.5,
-            9.56,
-            9.65,
-            9.79,
-            9.97
+            10.15,
+            10.32,
+            10.34,
+            10.2,
+            10.11,
+            10.14,
+            10.33,
+            10.16,
+            10.0,
+            10.03,
+            10.13,
+            10.06
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:48",
+            "time": "09:49",
             "tag": "MERCADO",
-            "text": "QUALCOMM, Inc. (QCOM) and T-Mobile Expand Strategic Collaboration to Expedite the Industry's Evolution from 5G Advanced to 6G"
+            "text": "Grantham Mayo Van Otterloo & Co. LLC Decreases Stock Position in STMicroelectronics N.V. $STM"
         },
         {
-            "time": "08:47",
+            "time": "09:43",
+            "tag": "MERCADO",
+            "text": "Research Alert: CFRA Cuts View On Shares Of Coterra Energy Inc. To Hold From Buy"
+        },
+        {
+            "time": "09:40",
+            "tag": "MERCADO",
+            "text": "Neo Ivy Capital Management Cuts Position in Motorola Solutions, Inc. $MSI"
+        },
+        {
+            "time": "09:22",
             "tag": "AI",
-            "text": "SAP.DE SAP SE XETRA \u20ac169.96 intraday 09 Mar 2026: AI focus could deliver 62.36% upside"
+            "text": "ROK Rockwell Automation (NYSE) pre-mkt $369.83 09 Mar 2026: AI dip, buy signal"
         },
         {
-            "time": "08:40",
+            "time": "09:12",
             "tag": "MERCADO",
-            "text": "DLD Asset Management LP Takes Position in Electronic Arts Inc. $EA"
-        },
-        {
-            "time": "08:38",
-            "tag": "MERCADO",
-            "text": "Dundas Partners LLP Purchases 8,779 Shares of Analog Devices, Inc. $ADI"
-        },
-        {
-            "time": "08:37",
-            "tag": "MERCADO",
-            "text": "Diversify Advisory Services LLC Acquires 33,461 Shares of Micron Technology, Inc. $MU"
+            "text": "Alphabet Inc. $GOOGL Shares Bought by LaFleur & Godfrey LLC"
         }
     ]
 }
