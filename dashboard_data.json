@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-09 08:50 UTC",
+        "last_updated": "2026-03-09 09:55 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.82,
-            "change": "-1.67%"
+            "change": "-0.15%"
         },
         {
             "symbol": "AMD",
             "price": 192.43,
-            "change": "+3.34%"
+            "change": "+1.13%"
         },
         {
             "symbol": "MSFT",
             "price": 408.96,
-            "change": "-0.49%"
+            "change": "-2.86%"
         },
         {
             "symbol": "CEG",
             "price": 319.06,
-            "change": "-2.4%"
+            "change": "-2.04%"
         },
         {
             "symbol": "VST",
             "price": 158.65,
-            "change": "+2.95%"
+            "change": "-1.78%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
+        "cer_current": 0.55,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.51
+            0.5,
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
+            22.83,
+            23.25,
+            22.92,
+            22.78,
+            23.09,
+            23.46,
+            23.74,
+            24.09,
             24.17,
-            24.24,
-            24.55,
-            24.41,
-            24.06,
-            24.19,
-            24.06,
-            24.04,
-            24.14,
-            24.28,
-            24.6,
-            24.68
+            24.63,
+            24.63,
+            25.03
         ],
         "hsd_history_software": [
-            9.84,
-            9.96,
-            9.95,
+            9.71,
+            9.88,
             9.81,
-            10.0,
-            9.94,
-            9.94,
-            10.02,
-            10.22,
-            10.05,
-            10.12,
-            10.17
+            9.76,
+            9.79,
+            9.63,
+            9.57,
+            9.5,
+            9.56,
+            9.65,
+            9.79,
+            9.97
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:49",
+            "time": "08:48",
             "tag": "MERCADO",
-            "text": "Blair William & Co. IL Reduces Stake in Fidelity National Information Services, Inc. $FIS"
+            "text": "QUALCOMM, Inc. (QCOM) and T-Mobile Expand Strategic Collaboration to Expedite the Industry's Evolution from 5G Advanced to 6G"
         },
         {
-            "time": "07:49",
-            "tag": "MERCADO",
-            "text": "Bell Asset Management Ltd Sells 5,785 Shares of Motorola Solutions, Inc. $MSI"
+            "time": "08:47",
+            "tag": "AI",
+            "text": "SAP.DE SAP SE XETRA \u20ac169.96 intraday 09 Mar 2026: AI focus could deliver 62.36% upside"
         },
         {
-            "time": "07:49",
+            "time": "08:40",
             "tag": "MERCADO",
-            "text": "Bell Asset Management Ltd Sells 7,386 Shares of Keysight Technologies Inc. $KEYS"
+            "text": "DLD Asset Management LP Takes Position in Electronic Arts Inc. $EA"
         },
         {
-            "time": "07:41",
+            "time": "08:38",
             "tag": "MERCADO",
-            "text": "EDENTREE ASSET MANAGEMENT Ltd Increases Position in NVIDIA Corporation $NVDA"
+            "text": "Dundas Partners LLP Purchases 8,779 Shares of Analog Devices, Inc. $ADI"
         },
         {
-            "time": "07:41",
+            "time": "08:37",
             "tag": "MERCADO",
-            "text": "Microsoft Corporation $MSFT is Dearborn Partners LLC's 2nd Largest Position"
+            "text": "Diversify Advisory Services LLC Acquires 33,461 Shares of Micron Technology, Inc. $MU"
         }
     ]
 }
