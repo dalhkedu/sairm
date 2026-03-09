@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-09 16:01 UTC",
+        "last_updated": "2026-03-09 17:48 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 179.59,
-            "change": "-2.67%"
+            "price": 179.55,
+            "change": "+0.2%"
         },
         {
             "symbol": "AMD",
-            "price": 196.1,
-            "change": "-0.26%"
+            "price": 196.61,
+            "change": "-1.94%"
         },
         {
             "symbol": "MSFT",
-            "price": 408.03,
-            "change": "-0.43%"
+            "price": 405.27,
+            "change": "+2.26%"
         },
         {
             "symbol": "CEG",
-            "price": 317.5,
-            "change": "+0.38%"
+            "price": 316.7,
+            "change": "+1.65%"
         },
         {
             "symbol": "VST",
-            "price": 160.51,
-            "change": "-3.46%"
+            "price": 159.89,
+            "change": "-0.84%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.52,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.52,
-            0.53,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
             0.5,
             0.51,
             0.51,
             0.52,
-            0.51
+            0.52,
+            0.53,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.52,
-            24.22,
-            24.67,
-            24.26,
-            24.22,
-            24.64,
-            24.68,
-            24.97,
-            25.15,
-            25.57,
-            25.15,
-            24.99
+            25.31,
+            25.33,
+            25.51,
+            25.53,
+            25.18,
+            24.77,
+            24.79,
+            24.93,
+            25.39,
+            24.95,
+            24.95,
+            24.98
         ],
         "hsd_history_software": [
-            10.17,
-            10.1,
-            9.98,
+            10.19,
+            10.03,
+            10.11,
+            10.05,
+            10.09,
+            10.09,
             10.02,
-            9.88,
-            9.72,
-            9.71,
-            9.64,
-            9.83,
-            9.88,
-            9.87,
-            10.06
+            9.99,
+            9.93,
+            9.98,
+            10.07,
+            10.19
         ],
         "rci_data": [
             85.0,
-            17.959
+            17.955000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:52",
+            "time": "16:45",
             "tag": "MERCADO",
-            "text": "Trump brothers-backed Aureus to merge with drone maker Powerus"
+            "text": "These Two Nvidia-Backed Companies Are Joining the S&P 500 Later This Month"
         },
         {
-            "time": "14:51",
-            "tag": "MERCADO",
-            "text": "Applied Optoelectronics stock rises on $200M transceiver order"
+            "time": "16:40",
+            "tag": "AI",
+            "text": "Qualcomm plots out 6G, Wi-Fi 8 future with AI as the new user interface"
         },
         {
-            "time": "14:45",
-            "tag": "MERCADO",
-            "text": "FedEx Joins $160M Harbinger Raise"
+            "time": "16:31",
+            "tag": "AI",
+            "text": "MDC and Intel Mark Five Years of AI Leadership, Announce Expansion Through the National Applied AI Consortium"
         },
         {
-            "time": "14:37",
-            "tag": "RESULTADOS",
-            "text": "Broadcom\u2019s \"AI Factory\" Surge: Q1 Earnings Restore Confidence in the Semiconductor Supercycle"
+            "time": "16:30",
+            "tag": "MERCADO",
+            "text": "Is the MacBook Neo a 'Recession Indicator'? Tech CEOs Are Divided Over Apple\u2019s $599 Laptop"
         },
         {
-            "time": "14:22",
-            "tag": "MERCADO",
-            "text": "Assessing AAON (AAON) Valuation After Record Revenue And Data Center Backlog Growth"
+            "time": "16:29",
+            "tag": "AI",
+            "text": "Schwab Trading Activity Index\u2122: STAX Score Soared in February, Defying AI Panic"
         }
     ]
 }
