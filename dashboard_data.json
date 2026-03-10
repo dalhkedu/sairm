@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-10 06:55 UTC",
+        "last_updated": "2026-03-10 07:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.65,
-            "change": "+3.18%"
+            "change": "-0.78%"
         },
         {
             "symbol": "AMD",
             "price": 202.68,
-            "change": "-0.38%"
+            "change": "+2.56%"
         },
         {
             "symbol": "MSFT",
             "price": 409.41,
-            "change": "-0.19%"
+            "change": "-2.63%"
         },
         {
             "symbol": "CEG",
             "price": 322.99,
-            "change": "+1.36%"
+            "change": "-2.67%"
         },
         {
             "symbol": "VST",
             "price": 163.62,
-            "change": "+2.01%"
+            "change": "+0.57%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.53,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.22,
-            24.2,
-            24.56,
-            24.67,
-            25.07,
-            25.1,
-            25.17,
-            25.61,
-            25.78,
-            25.7,
-            25.28,
-            24.91
+            25.35,
+            25.67,
+            25.54,
+            25.45,
+            25.33,
+            24.92,
+            25.26,
+            25.48,
+            25.62,
+            25.2,
+            25.15,
+            25.04
         ],
         "hsd_history_software": [
-            9.89,
-            9.85,
-            10.0,
-            10.0,
-            10.13,
             10.25,
-            10.05,
-            9.96,
-            9.95,
+            10.46,
+            10.37,
+            10.25,
+            10.4,
+            10.39,
+            10.35,
+            10.33,
             10.13,
-            10.17,
-            10.12
+            10.07,
+            10.0,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:52",
+            "time": "06:44",
             "tag": "MERCADO",
-            "text": "Nayax (TASE:NYAX) Profitability Turnaround Tests High 85.3x P/E Narrative"
+            "text": "Adobe Inc. (NASDAQ:ADBE) Given Consensus Recommendation of \"Hold\" by Brokerages"
         },
         {
-            "time": "05:30",
+            "time": "06:37",
             "tag": "MERCADO",
-            "text": "Autodesk: High Quality Remains, Price Too High For Now (NASDAQ:ADSK)"
+            "text": "Teledyne Marine Signs Strategic MoU for Maritime Unmanned Systems"
         },
         {
-            "time": "05:25",
+            "time": "06:19",
             "tag": "MERCADO",
-            "text": "Groupe Dynamite Inc. Sr Salesforce Core & Service Cloud Architect job with Groupe Dynamite Inc. | 306633"
+            "text": "PTC Tops Autodesk Stock on Price & Potential"
         },
         {
-            "time": "05:19",
+            "time": "06:14",
             "tag": "MERCADO",
-            "text": "Bank of America bullish on Seattle's burgeoning nuclear energy sector"
+            "text": "PagerDuty (NYSE:PD) Receives Consensus Rating of \"Hold\" from Analysts"
         },
         {
-            "time": "05:05",
+            "time": "06:12",
             "tag": "MERCADO",
-            "text": "Would You Still Hold Equinix Stock If It Fell 30%?"
+            "text": "Rep. David Taylor Purchases Shares of Amazon.com, Inc. (NASDAQ:AMZN)"
         }
     ]
 }
