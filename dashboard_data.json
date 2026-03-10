@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-10 09:50 UTC",
+        "last_updated": "2026-03-10 10:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.65,
-            "change": "-1.34%"
+            "change": "+3.45%"
         },
         {
             "symbol": "AMD",
             "price": 202.68,
-            "change": "+0.86%"
+            "change": "+3.3%"
         },
         {
             "symbol": "MSFT",
             "price": 409.41,
-            "change": "-2.98%"
+            "change": "+3.24%"
         },
         {
             "symbol": "CEG",
             "price": 322.99,
-            "change": "-1.86%"
+            "change": "-1.11%"
         },
         {
             "symbol": "VST",
             "price": 163.62,
-            "change": "+0.28%"
+            "change": "-2.68%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.57,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
             0.5,
             0.5,
             0.51,
             0.51,
             0.5,
             0.5,
-            0.51
+            0.5,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
+            25.86,
+            25.49,
+            25.06,
+            25.28,
+            25.23,
+            24.74,
+            24.5,
+            24.24,
             24.48,
-            24.39,
-            24.73,
-            24.7,
-            24.89,
-            24.77,
-            24.61,
-            24.71,
-            24.39,
-            24.41,
-            24.8,
-            24.78
+            24.82,
+            25.25,
+            24.92
         ],
         "hsd_history_software": [
-            10.39,
+            10.34,
+            10.2,
+            10.27,
+            10.43,
+            10.56,
+            10.72,
+            10.62,
+            10.52,
             10.36,
-            10.32,
-            10.13,
-            9.94,
-            10.06,
-            10.03,
-            10.21,
-            10.07,
-            10.06,
-            9.88,
-            9.94
+            10.2,
+            10.3,
+            10.12
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:48",
-            "tag": "MERCADO",
-            "text": "Orion Porfolio Solutions LLC Makes New $2.84 Million Investment in Rigetti Computing, Inc. $RGTI"
+            "time": "09:50",
+            "tag": "AI",
+            "text": "BofA Calls Open AI News a Positive for Walmart Inc. (WMT)"
         },
         {
-            "time": "08:44",
+            "time": "09:45",
             "tag": "MERCADO",
-            "text": "Dimensional Fund Advisors LP Grows Stock Holdings in Akamai Technologies, Inc. $AKAM"
+            "text": "Keysight Technologies Inc. $KEYS Shares Sold by Vinva Investment Management Ltd"
         },
         {
-            "time": "08:44",
+            "time": "09:45",
             "tag": "MERCADO",
-            "text": "Gartner, Inc. $IT Holdings Reduced by Dimensional Fund Advisors LP"
+            "text": "Vinva Investment Management Ltd Invests $2.54 Million in Take-Two Interactive Software, Inc. $TTWO"
         },
         {
-            "time": "08:44",
+            "time": "09:43",
             "tag": "MERCADO",
-            "text": "SAP Sapphire 2026: sessions and events"
+            "text": "Thermo Fisher Scientific Inc. (TMO) Announces the Opening of Cryo-Electron Microscopy Drug Discovery Center in South San Francisco"
         },
         {
-            "time": "08:41",
+            "time": "09:42",
             "tag": "MERCADO",
-            "text": "Cresset Asset Management LLC Increases Position in Western Digital Corporation $WDC"
+            "text": "Grantham Mayo Van Otterloo & Co. LLC Boosts Stock Holdings in Best Buy Co., Inc. $BBY"
         }
     ]
 }
