@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-09 23:31 UTC",
+        "last_updated": "2026-03-10 02:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.65,
-            "change": "+3.37%"
+            "change": "-1.84%"
         },
         {
             "symbol": "AMD",
             "price": 202.68,
-            "change": "+0.14%"
+            "change": "-2.34%"
         },
         {
             "symbol": "MSFT",
             "price": 409.41,
-            "change": "-2.61%"
+            "change": "-0.27%"
         },
         {
             "symbol": "CEG",
             "price": 322.99,
-            "change": "+2.69%"
+            "change": "+3.21%"
         },
         {
             "symbol": "VST",
             "price": 163.62,
-            "change": "+0.04%"
+            "change": "+2.09%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.59,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
+            0.51,
             0.5,
             0.51,
             0.51,
-            0.5
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.37,
-            23.96,
-            24.45,
-            24.51,
-            24.28,
+            25.29,
+            24.82,
+            24.81,
+            24.62,
             24.14,
-            24.17,
-            24.48,
-            24.49,
-            24.3,
-            24.51,
-            24.55
+            24.26,
+            24.29,
+            24.75,
+            24.46,
+            24.11,
+            24.54,
+            24.94
         ],
         "hsd_history_software": [
-            10.18,
-            10.15,
-            10.01,
-            10.07,
-            9.95,
-            9.87,
-            10.06,
-            10.15,
-            10.15,
-            10.12,
-            10.14,
-            10.12
+            8.88,
+            9.05,
+            8.99,
+            9.08,
+            9.26,
+            9.43,
+            9.46,
+            9.39,
+            9.34,
+            9.52,
+            9.66,
+            9.84
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:34",
+            "time": "00:39",
             "tag": "MERCADO",
-            "text": "Akamai Technologies (NASDAQ:AKAM) EVP Mani Sundaram Sells 1,722 Shares"
+            "text": "Nissan, Uber reportedly finalizing deal for Wayve-powered robotaxi rollout"
         },
         {
-            "time": "22:34",
+            "time": "00:18",
             "tag": "MERCADO",
-            "text": "Insider Selling: F5 (NASDAQ:FFIV) EVP Sells 688 Shares of Stock"
+            "text": "Synopsys (SNPS) Enters $250M Accelerated Share Repurchase Agreement With Initial ~513K Share Delivery"
         },
         {
-            "time": "22:27",
-            "tag": "AI",
-            "text": "AMD Extends Ryzen AI Embedded P100 Series for Edge AI Applications"
+            "time": "00:11",
+            "tag": "MERCADO",
+            "text": "German publishers reject Apple's revised app tracking rules, urge antitrust fine"
         },
         {
-            "time": "22:20",
+            "time": "23:53",
             "tag": "MERCADO",
-            "text": "KKR looks to sell Calgary\u2019s CoolIT, maker of data centre cooling technology"
+            "text": "Oracle under pressure from more than $100 billion in debt and massive layoffs"
         },
         {
-            "time": "22:18",
+            "time": "23:51",
             "tag": "MERCADO",
-            "text": "Top Superinvestors Are Buying ServiceNow, Inc. (NOW)"
+            "text": "How Investors May Respond To IAC (IAC) Meta Deal And People Inc. Digital Sales Growth"
         }
     ]
 }
