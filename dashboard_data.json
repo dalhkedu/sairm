@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-10 08:49 UTC",
+        "last_updated": "2026-03-10 09:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.65,
-            "change": "+1.74%"
+            "change": "-1.34%"
         },
         {
             "symbol": "AMD",
             "price": 202.68,
-            "change": "-1.66%"
+            "change": "+0.86%"
         },
         {
             "symbol": "MSFT",
             "price": 409.41,
-            "change": "-1.99%"
+            "change": "-2.98%"
         },
         {
             "symbol": "CEG",
             "price": 322.99,
-            "change": "+1.81%"
+            "change": "-1.86%"
         },
         {
             "symbol": "VST",
             "price": 163.62,
-            "change": "+1.46%"
+            "change": "+0.28%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.54,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
             0.49,
-            0.48,
             0.49,
-            0.48,
-            0.48,
-            0.47,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.36,
-            24.33,
-            24.24,
-            23.97,
-            24.2,
-            24.26,
-            24.54,
-            24.36,
-            24.68,
-            24.9,
-            24.82,
-            25.15
+            24.48,
+            24.39,
+            24.73,
+            24.7,
+            24.89,
+            24.77,
+            24.61,
+            24.71,
+            24.39,
+            24.41,
+            24.8,
+            24.78
         ],
         "hsd_history_software": [
-            9.66,
-            9.68,
-            9.76,
-            9.9,
-            10.05,
-            10.16,
+            10.39,
+            10.36,
+            10.32,
+            10.13,
+            9.94,
+            10.06,
+            10.03,
+            10.21,
             10.07,
-            9.97,
-            9.95,
-            9.83,
-            9.69,
-            9.83
+            10.06,
+            9.88,
+            9.94
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:47",
+            "time": "08:48",
             "tag": "MERCADO",
-            "text": "Bank of Montreal Can Sells 306,746 Shares of Texas Instruments Incorporated $TXN"
+            "text": "Orion Porfolio Solutions LLC Makes New $2.84 Million Investment in Rigetti Computing, Inc. $RGTI"
         },
         {
-            "time": "07:47",
+            "time": "08:44",
             "tag": "MERCADO",
-            "text": "Bank of Montreal Can Has $327.50 Million Stock Position in AT&T Inc. $T"
+            "text": "Dimensional Fund Advisors LP Grows Stock Holdings in Akamai Technologies, Inc. $AKAM"
         },
         {
-            "time": "07:47",
+            "time": "08:44",
             "tag": "MERCADO",
-            "text": "Qualcomm Incorporated $QCOM Shares Acquired by Bank of Montreal Can"
+            "text": "Gartner, Inc. $IT Holdings Reduced by Dimensional Fund Advisors LP"
         },
         {
-            "time": "07:47",
+            "time": "08:44",
             "tag": "MERCADO",
-            "text": "Bank of Montreal Can Boosts Stake in Cisco Systems, Inc. $CSCO"
+            "text": "SAP Sapphire 2026: sessions and events"
         },
         {
-            "time": "07:46",
+            "time": "08:41",
             "tag": "MERCADO",
-            "text": "Citigroup Inc. Has $1.77 Million Stock Position in Cognex Corporation $CGNX"
+            "text": "Cresset Asset Management LLC Increases Position in Western Digital Corporation $WDC"
         }
     ]
 }
