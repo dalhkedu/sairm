@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-10 18:55 UTC",
+        "last_updated": "2026-03-10 19:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 184.79,
-            "change": "-2.7%"
+            "price": 184.23,
+            "change": "-2.91%"
         },
         {
             "symbol": "AMD",
-            "price": 204.2,
-            "change": "+3.27%"
+            "price": 203.54,
+            "change": "+2.72%"
         },
         {
             "symbol": "MSFT",
-            "price": 404.75,
-            "change": "+2.33%"
+            "price": 404.63,
+            "change": "-0.39%"
         },
         {
             "symbol": "CEG",
-            "price": 318.58,
-            "change": "+1.73%"
+            "price": 318.0,
+            "change": "-2.59%"
         },
         {
             "symbol": "VST",
-            "price": 166.8,
-            "change": "-0.52%"
+            "price": 165.96,
+            "change": "-1.11%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.67,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
+            0.51,
             0.51,
             0.51,
             0.51,
             0.51,
             0.5,
-            0.5
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.31,
-            25.71,
-            26.15,
-            25.73,
-            25.59,
-            25.18,
-            24.91,
-            24.76,
-            24.53,
-            24.37,
-            24.52,
-            24.75
+            23.91,
+            23.58,
+            24.0,
+            23.66,
+            24.11,
+            24.31,
+            24.74,
+            24.95,
+            25.35,
+            25.06,
+            24.73,
+            25.14
         ],
         "hsd_history_software": [
-            10.18,
-            10.31,
-            10.28,
-            10.43,
-            10.26,
-            10.15,
-            10.26,
-            10.46,
-            10.55,
-            10.4,
+            10.49,
+            10.32,
+            10.24,
             10.22,
-            10.02
+            10.09,
+            9.93,
+            9.98,
+            10.18,
+            10.2,
+            10.39,
+            10.24,
+            10.11
         ],
         "rci_data": [
             85.0,
-            18.479
+            18.423
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:40",
-            "tag": "RESULTADOS",
-            "text": "IBM (IBM): Buy, Sell, or Hold Post Q4 Earnings?"
+            "time": "18:44",
+            "tag": "AI",
+            "text": "Super Micro Computer, Inc. (SMCI) Expands Support for Sovereign Artificial Intelligence Platforms"
         },
         {
-            "time": "17:35",
+            "time": "18:44",
             "tag": "MERCADO",
-            "text": "10 Information Technology Stocks Whale Activity In Today's Session"
+            "text": "lululemon athletica inc. (LULU) Unveils Sweat Concealing Technology to Capitalize on Tennis Opportunity"
         },
         {
-            "time": "17:33",
+            "time": "18:44",
             "tag": "MERCADO",
-            "text": "Texas Instruments (TXN) Signals Recovery in Factory and Automation Markets, CEO Says"
+            "text": "IQVIA Holdings Inc. (IQV) Advances Clinical Research and Data Capabilities to Drive Growth"
         },
         {
-            "time": "17:29",
+            "time": "18:40",
             "tag": "MERCADO",
-            "text": "Amazon Trades at a Premium P/E: Time to Hold or Fold the Stock?"
+            "text": "Gartner (NYSE:IT) Stock Price Down 4.7% - Should You Sell?"
         },
         {
-            "time": "17:28",
+            "time": "18:23",
             "tag": "MERCADO",
-            "text": "Scotiabank Lifts Verizon (VZ) to Outperform, Calls Shares \u201cCheap\u201d at Current Levels"
+            "text": "Why Cipher Digital (CIFR) Is Down 9.2% After Surging Revenue But Deepening 2025 Net Losses"
         }
     ]
 }
