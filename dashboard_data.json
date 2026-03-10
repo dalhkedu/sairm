@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-10 05:49 UTC",
+        "last_updated": "2026-03-10 06:55 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.65,
-            "change": "-0.52%"
+            "change": "+3.18%"
         },
         {
             "symbol": "AMD",
             "price": 202.68,
-            "change": "-2.57%"
+            "change": "-0.38%"
         },
         {
             "symbol": "MSFT",
             "price": 409.41,
-            "change": "+3.34%"
+            "change": "-0.19%"
         },
         {
             "symbol": "CEG",
             "price": 322.99,
-            "change": "-3.4%"
+            "change": "+1.36%"
         },
         {
             "symbol": "VST",
             "price": 163.62,
-            "change": "+2.22%"
+            "change": "+2.01%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.67,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.49,
+            0.48,
+            0.48,
             0.49,
             0.49,
             0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51
+            0.49
         ],
         "hsd_history_hardware": [
-            24.77,
-            24.39,
-            24.44,
-            24.59,
-            24.7,
-            24.68,
-            24.99,
-            24.94,
-            24.87,
-            24.69,
-            24.45,
-            24.85
+            24.22,
+            24.2,
+            24.56,
+            24.67,
+            25.07,
+            25.1,
+            25.17,
+            25.61,
+            25.78,
+            25.7,
+            25.28,
+            24.91
         ],
         "hsd_history_software": [
-            10.12,
-            9.99,
-            10.02,
-            10.12,
-            9.92,
-            9.87,
+            9.89,
+            9.85,
+            10.0,
+            10.0,
+            10.13,
+            10.25,
+            10.05,
             9.96,
-            9.98,
-            9.93,
-            9.88,
             9.95,
-            10.02
+            10.13,
+            10.17,
+            10.12
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:52",
-            "tag": "AI",
-            "text": "MACOM Technology Solutions (MTSI) Stock Gains on Analyst AI Data Center Outlook | 2026 - News and Statistics"
-        },
-        {
-            "time": "04:03",
-            "tag": "AI",
-            "text": "Synopsys Launches Electronics Digital Twin Platform to Accelerate Physical AI System Development"
-        },
-        {
-            "time": "03:59",
+            "time": "05:52",
             "tag": "MERCADO",
-            "text": "New Synopsys tool lets carmakers test 90% of code before hardware"
+            "text": "Nayax (TASE:NYAX) Profitability Turnaround Tests High 85.3x P/E Narrative"
         },
         {
-            "time": "03:14",
-            "tag": "AI",
-            "text": "Aiva Health Partners with ServiceNow to Bring Voice-Driven AI to the Bedside--Connecting Frontline Care Teams to Enterprise Operations in Real Time"
+            "time": "05:30",
+            "tag": "MERCADO",
+            "text": "Autodesk: High Quality Remains, Price Too High For Now (NASDAQ:ADSK)"
         },
         {
-            "time": "02:37",
-            "tag": "RESULTADOS",
-            "text": "LifeMD Inc (LFMD) Q4 2025 Earnings Call Highlights: Strong Revenue Growth and Strategic Investments Propel Future Prospects"
+            "time": "05:25",
+            "tag": "MERCADO",
+            "text": "Groupe Dynamite Inc. Sr Salesforce Core & Service Cloud Architect job with Groupe Dynamite Inc. | 306633"
+        },
+        {
+            "time": "05:19",
+            "tag": "MERCADO",
+            "text": "Bank of America bullish on Seattle's burgeoning nuclear energy sector"
+        },
+        {
+            "time": "05:05",
+            "tag": "MERCADO",
+            "text": "Would You Still Hold Equinix Stock If It Fell 30%?"
         }
     ]
 }
