@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-10 19:40 UTC",
+        "last_updated": "2026-03-10 20:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 184.23,
-            "change": "-2.91%"
+            "price": 184.77,
+            "change": "+1.02%"
         },
         {
             "symbol": "AMD",
-            "price": 203.54,
-            "change": "+2.72%"
+            "price": 203.23,
+            "change": "+2.6%"
         },
         {
             "symbol": "MSFT",
-            "price": 404.63,
-            "change": "-0.39%"
+            "price": 405.76,
+            "change": "-3.15%"
         },
         {
             "symbol": "CEG",
-            "price": 318.0,
-            "change": "-2.59%"
+            "price": 317.09,
+            "change": "+1.85%"
         },
         {
             "symbol": "VST",
-            "price": 165.96,
-            "change": "-1.11%"
+            "price": 164.4,
+            "change": "+2.73%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.4,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.5,
             0.5,
             0.5,
             0.49,
             0.5,
-            0.5,
             0.51,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            23.91,
-            23.58,
-            24.0,
-            23.66,
-            24.11,
-            24.31,
-            24.74,
-            24.95,
-            25.35,
-            25.06,
-            24.73,
-            25.14
+            24.37,
+            24.8,
+            24.77,
+            25.26,
+            25.34,
+            25.07,
+            25.29,
+            25.55,
+            25.56,
+            25.21,
+            25.29,
+            25.25
         ],
         "hsd_history_software": [
-            10.49,
-            10.32,
-            10.24,
-            10.22,
+            10.83,
+            10.66,
+            10.61,
+            10.56,
+            10.47,
+            10.29,
+            10.4,
+            10.23,
+            10.1,
             10.09,
-            9.93,
-            9.98,
-            10.18,
-            10.2,
-            10.39,
-            10.24,
-            10.11
+            10.06,
+            9.92
         ],
         "rci_data": [
             85.0,
-            18.423
+            18.477
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:44",
-            "tag": "AI",
-            "text": "Super Micro Computer, Inc. (SMCI) Expands Support for Sovereign Artificial Intelligence Platforms"
+            "time": "19:52",
+            "tag": "MERCADO",
+            "text": "Cyngn Sets Record for Enterprise Customer Expansion"
         },
         {
-            "time": "18:44",
+            "time": "19:39",
             "tag": "MERCADO",
-            "text": "lululemon athletica inc. (LULU) Unveils Sweat Concealing Technology to Capitalize on Tennis Opportunity"
+            "text": "Salesforce confirms ShinyHunters exploited Experience Cloud sites"
         },
         {
-            "time": "18:44",
+            "time": "19:15",
             "tag": "MERCADO",
-            "text": "IQVIA Holdings Inc. (IQV) Advances Clinical Research and Data Capabilities to Drive Growth"
+            "text": "Jim Cramer Discussed 8 Stocks Amid the S&P 500 Reshuffle: Vertiv, Paycom, and More"
         },
         {
-            "time": "18:40",
+            "time": "19:12",
             "tag": "MERCADO",
-            "text": "Gartner (NYSE:IT) Stock Price Down 4.7% - Should You Sell?"
+            "text": "Qualcomm faces loss of Apple business, competitive pressures, says Bank of America"
         },
         {
-            "time": "18:23",
+            "time": "19:07",
             "tag": "MERCADO",
-            "text": "Why Cipher Digital (CIFR) Is Down 9.2% After Surging Revenue But Deepening 2025 Net Losses"
+            "text": "PayPal Valuation Disconnect Widens Despite $6.4 Billion Free Cash Flow"
         }
     ]
 }
