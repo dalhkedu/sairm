@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-11 18:57 UTC",
+        "last_updated": "2026-03-11 19:45 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 185.66,
-            "change": "+2.25%"
+            "price": 185.61,
+            "change": "-0.56%"
         },
         {
             "symbol": "AMD",
-            "price": 204.78,
-            "change": "-0.24%"
+            "price": 205.02,
+            "change": "-1.29%"
         },
         {
             "symbol": "MSFT",
-            "price": 404.27,
-            "change": "-1.96%"
+            "price": 404.51,
+            "change": "+3.41%"
         },
         {
             "symbol": "CEG",
-            "price": 300.82,
-            "change": "+0.72%"
+            "price": 300.3,
+            "change": "+0.46%"
         },
         {
             "symbol": "VST",
-            "price": 156.96,
-            "change": "+0.23%"
+            "price": 158.48,
+            "change": "+0.46%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.65,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.49,
             0.5,
-            0.49,
-            0.49,
             0.5,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.49
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
+            0.51,
+            0.5,
+            0.51,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.79,
             23.82,
-            23.65,
-            23.72,
-            23.71,
-            23.94,
-            23.71,
-            23.82,
-            24.2,
-            24.19,
-            24.41,
-            24.74
+            23.86,
+            23.96,
+            23.7,
+            23.98,
+            23.81,
+            23.39,
+            23.61,
+            23.97,
+            23.95,
+            24.43,
+            24.67
         ],
         "hsd_history_software": [
-            9.94,
-            10.13,
-            10.06,
+            9.98,
+            9.92,
+            9.96,
+            10.02,
+            9.86,
+            9.77,
+            9.95,
+            10.05,
+            10.09,
+            10.03,
             10.15,
-            10.17,
-            10.22,
-            10.1,
-            10.14,
-            10.27,
-            10.26,
-            10.28,
-            10.13
+            10.03
         ],
         "rci_data": [
             85.0,
-            18.566
+            18.561000000000003
         ],
         "energy_data": [
             1.2,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "18:43",
+            "tag": "MERCADO",
+            "text": "Alhambra Resident Who Defrauded Apple Inc. Sentenced to Federal Prison"
+        },
+        {
+            "time": "17:52",
+            "tag": "MERCADO",
+            "text": "Watch THE PLAYERS in near real-time 4K and track 4 games at once"
+        },
+        {
             "time": "17:39",
             "tag": "AI",
             "text": "A Look At MarketAxess Holdings (MKTX) Valuation After Analyst Upgrades And New AI Focused CTO Appointment"
@@ -139,16 +149,6 @@
             "time": "17:35",
             "tag": "MERCADO",
             "text": "10 Information Technology Stocks Whale Activity In Today's Session"
-        },
-        {
-            "time": "17:34",
-            "tag": "AI",
-            "text": "Synopsys AI Chip Design Tools for Chiplet Complexity | 2026 - News and Statistics"
-        },
-        {
-            "time": "17:33",
-            "tag": "AI",
-            "text": "Synopsys Unveils AI-Driven Product Innovation Solutions at Converge 2026"
         }
     ]
 }
