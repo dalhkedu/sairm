@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-11 17:53 UTC",
+        "last_updated": "2026-03-11 18:57 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": NaN,
-            "change": "+2.72%"
+            "price": 185.66,
+            "change": "+2.25%"
         },
         {
             "symbol": "AMD",
-            "price": 204.88,
-            "change": "+2.41%"
+            "price": 204.78,
+            "change": "-0.24%"
         },
         {
             "symbol": "MSFT",
-            "price": 403.72,
-            "change": "-0.14%"
+            "price": 404.27,
+            "change": "-1.96%"
         },
         {
             "symbol": "CEG",
-            "price": 300.75,
-            "change": "+1.24%"
+            "price": 300.82,
+            "change": "+0.72%"
         },
         {
             "symbol": "VST",
-            "price": 157.25,
-            "change": "+1.28%"
+            "price": 156.96,
+            "change": "+0.23%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
-        "rci_current": NaN,
+        "cer_current": 0.59,
+        "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.49,
             0.49,
             0.5,
             0.49,
             0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
+            0.5,
             0.49,
             0.48,
             0.49,
-            0.5
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.21,
-            26.21,
-            25.83,
-            25.33,
-            25.59,
-            25.36,
-            25.7,
-            26.01,
-            25.54,
-            25.61,
-            25.3,
-            25.02
+            23.79,
+            23.82,
+            23.65,
+            23.72,
+            23.71,
+            23.94,
+            23.71,
+            23.82,
+            24.2,
+            24.19,
+            24.41,
+            24.74
         ],
         "hsd_history_software": [
-            10.13,
-            10.33,
-            10.35,
-            10.15,
-            10.27,
-            10.22,
-            10.03,
-            10.16,
-            10.11,
             9.94,
-            9.81,
-            9.84
+            10.13,
+            10.06,
+            10.15,
+            10.17,
+            10.22,
+            10.1,
+            10.14,
+            10.27,
+            10.26,
+            10.28,
+            10.13
         ],
         "rci_data": [
             85.0,
-            NaN
+            18.566
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:38",
-            "tag": "MERCADO",
-            "text": "A Look At Array Technologies (ARRY) Valuation After Recent Share Price Volatility"
-        },
-        {
-            "time": "16:38",
+            "time": "17:39",
             "tag": "AI",
-            "text": "ASGN Bets On Quinnox And Everforth Rebrand To Grow AI Platform"
+            "text": "A Look At MarketAxess Holdings (MKTX) Valuation After Analyst Upgrades And New AI Focused CTO Appointment"
         },
         {
-            "time": "16:31",
+            "time": "17:39",
             "tag": "MERCADO",
-            "text": "Comscore Transforms Local and National Ad Campaigns with Pioneering Cross-Platform Audience Measurement"
+            "text": "Is It Time To Reassess Enphase Energy (ENPH) After Sharp Multi\u2011Year Share Price Swings"
         },
         {
-            "time": "16:26",
+            "time": "17:35",
             "tag": "MERCADO",
-            "text": "Why Is Leidos Stock Gaining Wednesday? - Leidos Holdings (NYSE:LDOS)"
+            "text": "10 Information Technology Stocks Whale Activity In Today's Session"
         },
         {
-            "time": "16:26",
-            "tag": "MERCADO",
-            "text": "Hedge Fund and Insider Trading News: Bill Ackman, Stanley Druckenmiller, Ken Griffin, Caxton Associates, Braidwell LP, Rokos Capital Management, ResMed Inc (RMD), Accel Entertainment Inc (ACEL), and More"
+            "time": "17:34",
+            "tag": "AI",
+            "text": "Synopsys AI Chip Design Tools for Chiplet Complexity | 2026 - News and Statistics"
+        },
+        {
+            "time": "17:33",
+            "tag": "AI",
+            "text": "Synopsys Unveils AI-Driven Product Innovation Solutions at Converge 2026"
         }
     ]
 }
