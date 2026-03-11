@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-11 19:45 UTC",
+        "last_updated": "2026-03-11 20:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 185.61,
-            "change": "-0.56%"
+            "price": 186.03,
+            "change": "-0.51%"
         },
         {
             "symbol": "AMD",
-            "price": 205.02,
-            "change": "-1.29%"
+            "price": 204.83,
+            "change": "-0.15%"
         },
         {
             "symbol": "MSFT",
-            "price": 404.51,
-            "change": "+3.41%"
+            "price": 404.88,
+            "change": "+0.55%"
         },
         {
             "symbol": "CEG",
-            "price": 300.3,
-            "change": "+0.46%"
+            "price": 300.69,
+            "change": "+3.06%"
         },
         {
             "symbol": "VST",
-            "price": 158.48,
-            "change": "+0.46%"
+            "price": 159.16,
+            "change": "-1.2%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.56,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.52,
+            0.52,
             0.51,
-            0.51,
-            0.5,
+            0.52,
+            0.52,
             0.51,
             0.5,
-            0.51,
-            0.51,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            23.82,
-            23.86,
-            23.96,
-            23.7,
-            23.98,
-            23.81,
-            23.39,
-            23.61,
-            23.97,
-            23.95,
-            24.43,
-            24.67
+            25.84,
+            25.83,
+            26.26,
+            26.16,
+            26.41,
+            25.94,
+            25.48,
+            25.9,
+            25.41,
+            25.6,
+            25.51,
+            25.4
         ],
         "hsd_history_software": [
+            10.16,
+            10.26,
+            10.31,
+            10.13,
             9.98,
-            9.92,
-            9.96,
-            10.02,
-            9.86,
-            9.77,
-            9.95,
-            10.05,
-            10.09,
-            10.03,
+            10.04,
+            9.84,
+            9.98,
             10.15,
-            10.03
+            10.11,
+            10.19,
+            10.14
         ],
         "rci_data": [
             85.0,
-            18.561000000000003
+            18.603
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:43",
+            "time": "19:52",
             "tag": "MERCADO",
-            "text": "Alhambra Resident Who Defrauded Apple Inc. Sentenced to Federal Prison"
+            "text": "This Zoox supplier is up more than 50% on robotaxi developments (CVGI:NASDAQ)"
         },
         {
-            "time": "17:52",
+            "time": "19:51",
             "tag": "MERCADO",
-            "text": "Watch THE PLAYERS in near real-time 4K and track 4 games at once"
+            "text": "Jim Cramer on Coherent Corp.: \u201cI Think This Company\u2019s Just Terrific\u201d"
         },
         {
-            "time": "17:39",
-            "tag": "AI",
-            "text": "A Look At MarketAxess Holdings (MKTX) Valuation After Analyst Upgrades And New AI Focused CTO Appointment"
+            "time": "19:28",
+            "tag": "MERCADO",
+            "text": "This $9 Million Institutional Buy Targeted a Semiconductor Stock Down 19% Over the Past Year"
         },
         {
-            "time": "17:39",
+            "time": "19:20",
             "tag": "MERCADO",
-            "text": "Is It Time To Reassess Enphase Energy (ENPH) After Sharp Multi\u2011Year Share Price Swings"
+            "text": "Lucid Tops The Most-Shorted Stock List\u2014Here Are 9 More Short Targets"
         },
         {
-            "time": "17:35",
+            "time": "19:15",
             "tag": "MERCADO",
-            "text": "10 Information Technology Stocks Whale Activity In Today's Session"
+            "text": "Qualcomm Drops 21% in 2026 \u2014 Is BofA Right to Call It a Sell?"
         }
     ]
 }
