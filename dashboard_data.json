@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-11 14:50 UTC",
+        "last_updated": "2026-03-11 15:52 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 186.35,
-            "change": "+1.5%"
+            "price": 185.6,
+            "change": "-3.38%"
         },
         {
             "symbol": "AMD",
-            "price": 206.49,
-            "change": "-1.64%"
+            "price": 205.24,
+            "change": "+3.07%"
         },
         {
             "symbol": "MSFT",
-            "price": 404.38,
-            "change": "-1.37%"
+            "price": 403.21,
+            "change": "-1.41%"
         },
         {
             "symbol": "CEG",
-            "price": 304.5,
-            "change": "+1.54%"
+            "price": 300.6,
+            "change": "+2.29%"
         },
         {
             "symbol": "VST",
-            "price": 160.32,
-            "change": "-2.17%"
+            "price": 159.44,
+            "change": "+0.96%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.51,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.49,
             0.48,
             0.49,
+            0.48,
             0.49,
             0.5,
-            0.5,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.23,
-            26.31,
-            26.02,
-            26.17,
-            25.75,
-            25.7,
-            26.15,
-            25.83,
-            25.66,
-            25.37,
-            25.01,
-            25.32
+            24.78,
+            24.46,
+            24.42,
+            24.61,
+            25.11,
+            25.26,
+            25.0,
+            24.92,
+            25.26,
+            24.81,
+            25.11,
+            24.9
         ],
         "hsd_history_software": [
-            9.67,
-            9.64,
             9.84,
-            9.94,
-            9.98,
-            10.08,
+            9.92,
+            9.83,
+            9.74,
+            9.83,
+            9.85,
+            10.04,
             10.0,
-            10.02,
-            10.07,
-            10.08,
-            10.02,
-            9.85
+            9.82,
+            9.7,
+            9.86,
+            9.81
         ],
         "rci_data": [
             85.0,
-            18.634999999999998
+            18.56
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:52",
+            "time": "14:52",
             "tag": "MERCADO",
-            "text": "Wipro signs multi-year deal with TruStage to transform retirement services business"
+            "text": "Unusual Machines Posts 130% Revenue Growth Due To US Drone Supercycle: Analyst"
         },
         {
-            "time": "13:51",
-            "tag": "MERCADO",
-            "text": "ALL.SPACE and Viasat advance assured Ka-band connectivity for global defense operations"
+            "time": "14:43",
+            "tag": "AI",
+            "text": "Qualcomm and Wayve Advance Production-Ready End-to-End AI for ADAS and Automated Driving"
         },
         {
-            "time": "13:50",
-            "tag": "MERCADO",
-            "text": "JPMorgan Chase reins in lending to private credit firms after marking down software loans"
+            "time": "14:39",
+            "tag": "AI",
+            "text": "Assessing Skyworks Solutions (SWKS) Valuation After New Connectivity And AI\u2011Focused Product Showcases"
         },
         {
-            "time": "13:45",
+            "time": "14:35",
             "tag": "MERCADO",
-            "text": "Uber Stock Rises. Amazon\u2019s Zoox Robo-Taxis to Deploy on the Uber App."
+            "text": "Stryker Cyber Attack: Did Iranian-linked hackers use wiper malware to shut down Cork systems and disrupt global medical device production? 4,000 workers offline in suspected wiper attack"
         },
         {
-            "time": "13:41",
+            "time": "14:28",
             "tag": "MERCADO",
-            "text": "DuPont Honored for Transformational Innovation in Industrial Water Reuse"
+            "text": "Stryker Hit With Suspected Iran-Linked Cyberattack"
         }
     ]
 }
