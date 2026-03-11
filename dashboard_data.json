@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-11 16:57 UTC",
+        "last_updated": "2026-03-11 17:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 185.82,
-            "change": "-0.82%"
+            "price": NaN,
+            "change": "+2.72%"
         },
         {
             "symbol": "AMD",
-            "price": 204.95,
-            "change": "+3.3%"
+            "price": 204.88,
+            "change": "+2.41%"
         },
         {
             "symbol": "MSFT",
-            "price": 403.88,
-            "change": "+1.88%"
+            "price": 403.72,
+            "change": "-0.14%"
         },
         {
             "symbol": "CEG",
-            "price": 303.52,
-            "change": "-0.76%"
+            "price": 300.75,
+            "change": "+1.24%"
         },
         {
             "symbol": "VST",
-            "price": 161.23,
-            "change": "-0.98%"
+            "price": 157.25,
+            "change": "+1.28%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
-        "rci_current": 0.19,
+        "cer_current": 0.69,
+        "rci_current": NaN,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
+            0.49,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.51
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.48,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.88,
-            25.17,
-            24.7,
-            24.24,
-            24.3,
-            24.71,
-            24.47,
-            24.54,
-            24.35,
-            24.25,
-            24.27,
-            24.64
+            26.21,
+            26.21,
+            25.83,
+            25.33,
+            25.59,
+            25.36,
+            25.7,
+            26.01,
+            25.54,
+            25.61,
+            25.3,
+            25.02
         ],
         "hsd_history_software": [
-            9.71,
-            9.88,
-            10.04,
-            9.86,
-            9.88,
-            9.75,
+            10.13,
+            10.33,
+            10.35,
+            10.15,
+            10.27,
+            10.22,
+            10.03,
+            10.16,
+            10.11,
             9.94,
-            9.85,
-            9.74,
-            9.75,
-            9.84,
-            9.94
+            9.81,
+            9.84
         ],
         "rci_data": [
             85.0,
-            18.581999999999997
+            NaN
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:52",
+            "time": "16:38",
+            "tag": "MERCADO",
+            "text": "A Look At Array Technologies (ARRY) Valuation After Recent Share Price Volatility"
+        },
+        {
+            "time": "16:38",
             "tag": "AI",
-            "text": "AIHS - Senmiao Technology Ltd Latest Stock News & Market Updates"
+            "text": "ASGN Bets On Quinnox And Everforth Rebrand To Grow AI Platform"
         },
         {
-            "time": "15:40",
+            "time": "16:31",
             "tag": "MERCADO",
-            "text": "Advanced Micro Devices (AMD) Enters a Multi-Year Partnership With Adeia"
+            "text": "Comscore Transforms Local and National Ad Campaigns with Pioneering Cross-Platform Audience Measurement"
         },
         {
-            "time": "15:37",
+            "time": "16:26",
             "tag": "MERCADO",
-            "text": "Texas Instruments Incorporated (TXN) Partners With Nvidia for Safe Deployment of Robots"
+            "text": "Why Is Leidos Stock Gaining Wednesday? - Leidos Holdings (NYSE:LDOS)"
         },
         {
-            "time": "15:36",
+            "time": "16:26",
             "tag": "MERCADO",
-            "text": "Analog Devices (ADI) Presents at Morgan Stanley\u2019s Conference, Here\u2019s What You Need to Know"
-        },
-        {
-            "time": "15:36",
-            "tag": "MERCADO",
-            "text": "Wolters Kluwer named 3x Leader for CCH Tagetik in 2026 Gartner MQ Financial Close and Consolidation"
+            "text": "Hedge Fund and Insider Trading News: Bill Ackman, Stanley Druckenmiller, Ken Griffin, Caxton Associates, Braidwell LP, Rokos Capital Management, ResMed Inc (RMD), Accel Entertainment Inc (ACEL), and More"
         }
     ]
 }
