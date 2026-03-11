@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-11 15:52 UTC",
+        "last_updated": "2026-03-11 16:57 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 185.6,
-            "change": "-3.38%"
+            "price": 185.82,
+            "change": "-0.82%"
         },
         {
             "symbol": "AMD",
-            "price": 205.24,
-            "change": "+3.07%"
+            "price": 204.95,
+            "change": "+3.3%"
         },
         {
             "symbol": "MSFT",
-            "price": 403.21,
-            "change": "-1.41%"
+            "price": 403.88,
+            "change": "+1.88%"
         },
         {
             "symbol": "CEG",
-            "price": 300.6,
-            "change": "+2.29%"
+            "price": 303.52,
+            "change": "-0.76%"
         },
         {
             "symbol": "VST",
-            "price": 159.44,
-            "change": "+0.96%"
+            "price": 161.23,
+            "change": "-0.98%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.41,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
+            0.52,
+            0.51,
             0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.78,
-            24.46,
-            24.42,
-            24.61,
-            25.11,
-            25.26,
-            25.0,
-            24.92,
-            25.26,
-            24.81,
-            25.11,
-            24.9
+            24.88,
+            25.17,
+            24.7,
+            24.24,
+            24.3,
+            24.71,
+            24.47,
+            24.54,
+            24.35,
+            24.25,
+            24.27,
+            24.64
         ],
         "hsd_history_software": [
-            9.84,
-            9.92,
-            9.83,
-            9.74,
-            9.83,
-            9.85,
+            9.71,
+            9.88,
             10.04,
-            10.0,
-            9.82,
-            9.7,
             9.86,
-            9.81
+            9.88,
+            9.75,
+            9.94,
+            9.85,
+            9.74,
+            9.75,
+            9.84,
+            9.94
         ],
         "rci_data": [
             85.0,
-            18.56
+            18.581999999999997
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:52",
-            "tag": "MERCADO",
-            "text": "Unusual Machines Posts 130% Revenue Growth Due To US Drone Supercycle: Analyst"
-        },
-        {
-            "time": "14:43",
+            "time": "15:52",
             "tag": "AI",
-            "text": "Qualcomm and Wayve Advance Production-Ready End-to-End AI for ADAS and Automated Driving"
+            "text": "AIHS - Senmiao Technology Ltd Latest Stock News & Market Updates"
         },
         {
-            "time": "14:39",
-            "tag": "AI",
-            "text": "Assessing Skyworks Solutions (SWKS) Valuation After New Connectivity And AI\u2011Focused Product Showcases"
-        },
-        {
-            "time": "14:35",
+            "time": "15:40",
             "tag": "MERCADO",
-            "text": "Stryker Cyber Attack: Did Iranian-linked hackers use wiper malware to shut down Cork systems and disrupt global medical device production? 4,000 workers offline in suspected wiper attack"
+            "text": "Advanced Micro Devices (AMD) Enters a Multi-Year Partnership With Adeia"
         },
         {
-            "time": "14:28",
+            "time": "15:37",
             "tag": "MERCADO",
-            "text": "Stryker Hit With Suspected Iran-Linked Cyberattack"
+            "text": "Texas Instruments Incorporated (TXN) Partners With Nvidia for Safe Deployment of Robots"
+        },
+        {
+            "time": "15:36",
+            "tag": "MERCADO",
+            "text": "Analog Devices (ADI) Presents at Morgan Stanley\u2019s Conference, Here\u2019s What You Need to Know"
+        },
+        {
+            "time": "15:36",
+            "tag": "MERCADO",
+            "text": "Wolters Kluwer named 3x Leader for CCH Tagetik in 2026 Gartner MQ Financial Close and Consolidation"
         }
     ]
 }
