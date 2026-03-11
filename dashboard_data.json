@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-11 20:37 UTC",
+        "last_updated": "2026-03-11 21:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 186.03,
-            "change": "-0.51%"
+            "change": "+2.01%"
         },
         {
             "symbol": "AMD",
             "price": 204.83,
-            "change": "-0.15%"
+            "change": "+2.76%"
         },
         {
             "symbol": "MSFT",
             "price": 404.88,
-            "change": "+0.55%"
+            "change": "+0.02%"
         },
         {
             "symbol": "CEG",
             "price": 300.69,
-            "change": "+3.06%"
+            "change": "-0.79%"
         },
         {
             "symbol": "VST",
             "price": 159.16,
-            "change": "-1.2%"
+            "change": "-2.69%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.69,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.5,
-            0.5,
+            0.48,
+            0.48,
+            0.47,
+            0.46,
+            0.47,
+            0.48,
+            0.48,
             0.49,
             0.49,
+            0.48,
             0.49,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            25.84,
-            25.83,
-            26.26,
-            26.16,
-            26.41,
-            25.94,
-            25.48,
-            25.9,
-            25.41,
-            25.6,
-            25.51,
-            25.4
+            24.38,
+            24.17,
+            24.17,
+            24.05,
+            24.5,
+            25.0,
+            24.57,
+            24.65,
+            24.78,
+            24.54,
+            24.84,
+            25.21
         ],
         "hsd_history_software": [
-            10.16,
-            10.26,
-            10.31,
+            10.48,
+            10.49,
+            10.52,
+            10.35,
+            10.28,
+            10.14,
+            9.97,
+            9.85,
+            9.94,
+            10.14,
             10.13,
-            9.98,
-            10.04,
-            9.84,
-            9.98,
-            10.15,
-            10.11,
-            10.19,
-            10.14
+            10.02
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:52",
+            "time": "20:45",
             "tag": "MERCADO",
-            "text": "This Zoox supplier is up more than 50% on robotaxi developments (CVGI:NASDAQ)"
+            "text": "Akamai Technologies (NASDAQ:AKAM) EVP Anthony Williams Sells 15,000 Shares"
         },
         {
-            "time": "19:51",
+            "time": "20:29",
             "tag": "MERCADO",
-            "text": "Jim Cramer on Coherent Corp.: \u201cI Think This Company\u2019s Just Terrific\u201d"
+            "text": "Regions Bank Taps Whitney Stewart Russell to Drive Innovation Across Consumer Products and Origination Partnerships"
         },
         {
-            "time": "19:28",
-            "tag": "MERCADO",
-            "text": "This $9 Million Institutional Buy Targeted a Semiconductor Stock Down 19% Over the Past Year"
+            "time": "20:26",
+            "tag": "AI",
+            "text": "Does DocuSign\u2019s New Director and AI Push Signal a Shift in Strategy for DOCU?"
         },
         {
-            "time": "19:20",
+            "time": "20:25",
             "tag": "MERCADO",
-            "text": "Lucid Tops The Most-Shorted Stock List\u2014Here Are 9 More Short Targets"
+            "text": "Teradyne, tech ETF: Investment insights from top market experts"
         },
         {
-            "time": "19:15",
-            "tag": "MERCADO",
-            "text": "Qualcomm Drops 21% in 2026 \u2014 Is BofA Right to Call It a Sell?"
+            "time": "20:15",
+            "tag": "AI",
+            "text": "Broadcom Delivers 400G/lane Optical DSP for Next-Gen AI Networks"
         }
     ]
 }
