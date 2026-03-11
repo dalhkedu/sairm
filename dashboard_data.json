@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-11 22:30 UTC",
+        "last_updated": "2026-03-11 23:29 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 186.03,
-            "change": "-1.93%"
+            "price": NaN,
+            "change": "+0.42%"
         },
         {
             "symbol": "AMD",
             "price": 204.83,
-            "change": "+3.29%"
+            "change": "+2.2%"
         },
         {
             "symbol": "MSFT",
             "price": 404.88,
-            "change": "+1.71%"
+            "change": "-2.11%"
         },
         {
             "symbol": "CEG",
             "price": 300.69,
-            "change": "-3.05%"
+            "change": "-1.36%"
         },
         {
             "symbol": "VST",
             "price": 159.16,
-            "change": "-0.54%"
+            "change": "-0.75%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
-        "rci_current": 0.19,
+        "cer_current": 0.61,
+        "rci_current": NaN,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.51,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.5,
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.5,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.88,
-            25.02,
-            25.07,
-            24.84,
-            24.76,
-            24.86,
-            24.92,
-            25.17,
-            25.26,
-            25.6,
-            25.14,
-            25.36
+            26.41,
+            26.42,
+            26.12,
+            26.01,
+            25.62,
+            25.28,
+            25.06,
+            24.58,
+            24.9,
+            25.18,
+            24.82,
+            24.57
         ],
         "hsd_history_software": [
+            9.77,
+            9.77,
+            9.6,
+            9.63,
+            9.56,
+            9.5,
+            9.43,
             9.48,
             9.62,
-            9.7,
-            9.78,
-            9.69,
-            9.68,
-            9.8,
-            9.62,
-            9.6,
-            9.73,
-            9.8,
+            9.53,
+            9.71,
             9.88
         ],
         "rci_data": [
             85.0,
-            18.603
+            NaN
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:45",
+            "time": "22:51",
             "tag": "MERCADO",
-            "text": "Akamai Technologies (NASDAQ:AKAM) EVP Anthony Williams Sells 15,000 Shares"
+            "text": "Assessing Viasat (VSAT) Valuation After A Powerful One Year Share Price Surge"
         },
         {
-            "time": "20:29",
+            "time": "21:36",
             "tag": "MERCADO",
-            "text": "Regions Bank Taps Whitney Stewart Russell to Drive Innovation Across Consumer Products and Origination Partnerships"
+            "text": "Is It Too Late To Consider Arista Networks (ANET) After Its Strong Multi Year Rally?"
         },
         {
-            "time": "20:26",
+            "time": "21:20",
             "tag": "AI",
-            "text": "Does DocuSign\u2019s New Director and AI Push Signal a Shift in Strategy for DOCU?"
+            "text": "F5 Expands Platform With AI\u2011Era Observability To \u2018Get In Front Of Problems,\u2019 Top Execs Says"
         },
         {
-            "time": "20:25",
+            "time": "21:08",
             "tag": "MERCADO",
-            "text": "Teradyne, tech ETF: Investment insights from top market experts"
+            "text": "Tesla VP explains latest updates in trade secret theft case"
         },
         {
-            "time": "20:15",
-            "tag": "AI",
-            "text": "Broadcom Delivers 400G/lane Optical DSP for Next-Gen AI Networks"
+            "time": "21:03",
+            "tag": "MERCADO",
+            "text": "Lam Research (NASDAQ:LRCX) Trading 1.7% Higher Following Analyst Upgrade"
         }
     ]
 }
