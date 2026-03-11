@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-11 09:48 UTC",
+        "last_updated": "2026-03-11 10:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 184.77,
-            "change": "-1.84%"
+            "change": "-2.07%"
         },
         {
             "symbol": "AMD",
             "price": 203.23,
-            "change": "+1.85%"
+            "change": "+0.51%"
         },
         {
             "symbol": "MSFT",
             "price": 405.76,
-            "change": "+2.62%"
+            "change": "+0.7%"
         },
         {
             "symbol": "CEG",
             "price": 317.09,
-            "change": "-2.86%"
+            "change": "+1.34%"
         },
         {
             "symbol": "VST",
             "price": 164.4,
-            "change": "+3.48%"
+            "change": "-1.98%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.65,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.48,
+            0.48,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
             0.49,
             0.5,
             0.5,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
             0.5,
-            0.5,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            25.31,
-            25.32,
-            25.26,
-            24.82,
-            25.3,
-            25.55,
-            25.39,
-            25.82,
-            25.43,
-            25.26,
-            25.21,
-            24.89
+            25.05,
+            25.5,
+            25.19,
+            25.15,
+            24.97,
+            25.14,
+            25.19,
+            25.15,
+            25.36,
+            25.19,
+            24.98,
+            25.36
         ],
         "hsd_history_software": [
-            9.47,
-            9.54,
-            9.72,
-            9.79,
-            9.8,
-            9.74,
-            9.87,
-            9.91,
-            9.81,
-            9.88,
-            9.99,
-            10.02
+            10.34,
+            10.3,
+            10.27,
+            10.09,
+            10.07,
+            10.16,
+            10.32,
+            10.28,
+            10.27,
+            10.23,
+            10.1,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:52",
+            "time": "09:49",
             "tag": "MERCADO",
-            "text": "Quantum Computing News: Rigetti (RGTI) Reports Progress as Venture Returns Rise and China Steps Up Quantum Push"
+            "text": "First Trust Advisors LP Purchases 174,321 Shares of Jack Henry & Associates, Inc. $JKHY"
         },
         {
-            "time": "08:43",
+            "time": "09:49",
             "tag": "MERCADO",
-            "text": "Capital World Investors Sells 86,072 Shares of AT&T Inc. $T"
+            "text": "CoStar Group, Inc. $CSGP Shares Purchased by First Trust Advisors LP"
         },
         {
-            "time": "08:41",
+            "time": "09:49",
             "tag": "MERCADO",
-            "text": "Verizon Communications Inc. $VZ Shares Bought by Capital World Investors"
+            "text": "Western Digital Corporation $WDC Shares Sold by First Trust Advisors LP"
         },
         {
-            "time": "08:40",
+            "time": "09:49",
             "tag": "MERCADO",
-            "text": "Capital Research Global Investors Purchases 1,062,452 Shares of CoStar Group, Inc. $CSGP"
+            "text": "Digital Realty Trust, Inc. $DLR Shares Sold by Korea Investment CORP"
         },
         {
-            "time": "08:40",
+            "time": "09:49",
             "tag": "MERCADO",
-            "text": "Capital Research Global Investors Sells 229,347 Shares of ServiceNow, Inc. $NOW"
+            "text": "First Trust Advisors LP Sells 8,533 Shares of Take-Two Interactive Software, Inc. $TTWO"
         }
     ]
 }
