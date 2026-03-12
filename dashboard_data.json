@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-12 08:50 UTC",
+        "last_updated": "2026-03-12 09:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 186.03,
-            "change": "-0.32%"
+            "change": "+0.43%"
         },
         {
             "symbol": "AMD",
             "price": 204.83,
-            "change": "+2.85%"
+            "change": "+3.36%"
         },
         {
             "symbol": "MSFT",
             "price": 404.88,
-            "change": "-2.95%"
+            "change": "-3.01%"
         },
         {
             "symbol": "CEG",
             "price": 300.69,
-            "change": "+3.09%"
+            "change": "+3.2%"
         },
         {
             "symbol": "VST",
             "price": 159.16,
-            "change": "-3.45%"
+            "change": "-2.77%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.52,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
             0.51,
+            0.52,
             0.51,
             0.5,
             0.5,
             0.49,
+            0.48,
             0.49,
             0.49,
-            0.5,
-            0.51,
-            0.5,
-            0.51
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.02,
-            25.79,
-            26.13,
-            26.39,
-            26.26,
-            26.26,
-            25.95,
-            25.61,
-            25.14,
-            25.16,
-            24.88,
-            25.13
+            24.65,
+            25.03,
+            24.92,
+            24.53,
+            24.99,
+            25.25,
+            25.23,
+            25.51,
+            25.69,
+            25.46,
+            25.37,
+            25.21
         ],
         "hsd_history_software": [
-            9.84,
-            9.9,
+            10.06,
             10.03,
+            10.0,
             9.89,
-            9.74,
-            9.61,
-            9.72,
+            9.97,
+            10.02,
             9.9,
-            9.8,
-            9.71,
-            9.72,
-            9.92
+            9.82,
+            9.91,
+            9.76,
+            9.95,
+            9.8
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:44",
+            "time": "08:48",
             "tag": "MERCADO",
-            "text": "Dimensional Fund Advisors LP Cuts Stake in Axon Enterprise, Inc $AXON"
+            "text": "Qualys Recognized as a Leader in the 2026 Forrester Wave\u2122 for Cloud-Native Application Protection Solutions (CNAPP)"
         },
         {
-            "time": "07:44",
+            "time": "08:39",
             "tag": "MERCADO",
-            "text": "Dimensional Fund Advisors LP Has $121.02 Million Holdings in Koninklijke Philips N.V. $PHG"
+            "text": "Bokf Na Acquires 13,259 Shares of Salesforce Inc. $CRM"
         },
         {
-            "time": "07:44",
+            "time": "08:37",
             "tag": "MERCADO",
-            "text": "HP Inc. $HPQ Shares Sold by Dimensional Fund Advisors LP"
+            "text": "Duff & Phelps Investment Management Co. Has $342.09 Million Stock Position in Equinix, Inc. $EQIX"
         },
         {
-            "time": "07:44",
+            "time": "08:37",
             "tag": "MERCADO",
-            "text": "DNB Asset Management AS Lowers Stake in Alphabet Inc. $GOOGL"
+            "text": "Elevatus Welath Management Makes New $4.28 Million Investment in Rigetti Computing, Inc. $RGTI"
         },
         {
-            "time": "07:44",
+            "time": "08:36",
             "tag": "MERCADO",
-            "text": "Alphabet Inc. $GOOGL is Close Asset Management Ltd's 3rd Largest Position"
+            "text": "Connor Clark & Lunn Investment Management Ltd. Has $56.37 Million Stock Holdings in NetApp, Inc. $NTAP"
         }
     ]
 }
