@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-12 04:49 UTC",
+        "last_updated": "2026-03-12 05:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 186.03,
-            "change": "-3.11%"
+            "change": "-2.59%"
         },
         {
             "symbol": "AMD",
             "price": 204.83,
-            "change": "+0.82%"
+            "change": "-0.19%"
         },
         {
             "symbol": "MSFT",
             "price": 404.88,
-            "change": "-0.01%"
+            "change": "-2.1%"
         },
         {
             "symbol": "CEG",
             "price": 300.69,
-            "change": "+3.42%"
+            "change": "+0.31%"
         },
         {
             "symbol": "VST",
             "price": 159.16,
-            "change": "-1.69%"
+            "change": "+2.82%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.48,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.54,
-            0.55,
-            0.55,
-            0.54,
             0.54,
             0.53,
+            0.52,
+            0.52,
             0.53,
-            0.53,
+            0.52,
             0.52,
             0.52,
             0.51,
+            0.52,
             0.51
         ],
         "hsd_history_hardware": [
-            23.61,
-            23.96,
-            23.6,
-            23.82,
-            23.85,
-            24.26,
-            24.63,
-            24.55,
-            24.55,
-            24.6,
-            24.2,
-            24.52
+            25.12,
+            25.55,
+            25.9,
+            25.75,
+            25.47,
+            25.04,
+            24.82,
+            24.79,
+            25.21,
+            25.39,
+            25.29,
+            25.1
         ],
         "hsd_history_software": [
-            9.52,
-            9.65,
-            9.8,
-            9.95,
-            10.0,
-            9.81,
-            9.76,
-            9.8,
-            9.63,
+            9.59,
+            9.55,
+            9.49,
+            9.56,
+            9.62,
+            9.62,
             9.78,
+            9.92,
+            9.79,
+            9.9,
             9.91,
-            9.9
+            10.11
         ],
         "rci_data": [
             85.0,
@@ -126,9 +126,19 @@
     ],
     "news_feed": [
         {
+            "time": "04:32",
+            "tag": "AI",
+            "text": "Ceva's NeuPro-Nano NPU Wins Artificial Intelligence Award at embedded world 2026"
+        },
+        {
             "time": "02:59",
             "tag": "MERCADO",
             "text": "Insider Sell: Thomas Indelicarto Sells Shares of VeriSign Inc (VRSN)"
+        },
+        {
+            "time": "02:50",
+            "tag": "MERCADO",
+            "text": "Equinix sees data center demand staying resilient"
         },
         {
             "time": "02:49",
@@ -139,16 +149,6 @@
             "time": "02:35",
             "tag": "MERCADO",
             "text": "Instacart, Booking, and Grindr: Three Platform Plays Investors Are Sleeping On"
-        },
-        {
-            "time": "02:27",
-            "tag": "MERCADO",
-            "text": "How SprintRay\u2019s Midas Tour Partnership Shapes Align Technology\u2019s (ALGN) Chairside Digital Dentistry Role"
-        },
-        {
-            "time": "02:04",
-            "tag": "AI",
-            "text": "Anthropic in Talks With Blackstone, Other PE Firms to Form AI Consulting Venture"
         }
     ]
 }
