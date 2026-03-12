@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-12 05:53 UTC",
+        "last_updated": "2026-03-12 07:00 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 186.03,
-            "change": "-2.59%"
+            "change": "-2.23%"
         },
         {
             "symbol": "AMD",
             "price": 204.83,
-            "change": "-0.19%"
+            "change": "-1.89%"
         },
         {
             "symbol": "MSFT",
             "price": 404.88,
-            "change": "-2.1%"
+            "change": "+1.38%"
         },
         {
             "symbol": "CEG",
             "price": 300.69,
-            "change": "+0.31%"
+            "change": "+1.0%"
         },
         {
             "symbol": "VST",
             "price": 159.16,
-            "change": "+2.82%"
+            "change": "-2.48%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.54,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.54,
-            0.53,
-            0.52,
-            0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.51
+            0.47,
+            0.47,
+            0.47,
+            0.46,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.12,
-            25.55,
-            25.9,
-            25.75,
-            25.47,
-            25.04,
-            24.82,
-            24.79,
-            25.21,
-            25.39,
-            25.29,
-            25.1
+            25.58,
+            25.19,
+            24.72,
+            24.58,
+            24.74,
+            24.99,
+            24.87,
+            24.68,
+            25.14,
+            25.07,
+            24.96,
+            25.11
         ],
         "hsd_history_software": [
-            9.59,
-            9.55,
-            9.49,
-            9.56,
-            9.62,
-            9.62,
-            9.78,
-            9.92,
-            9.79,
-            9.9,
-            9.91,
-            10.11
+            10.47,
+            10.53,
+            10.6,
+            10.44,
+            10.39,
+            10.4,
+            10.21,
+            10.13,
+            10.19,
+            10.23,
+            10.16,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "05:51",
+            "tag": "MERCADO",
+            "text": "The MSG Family of Companies Launch Expansive Multi-Year Partnership with Global Technology Powerhouse Lenovo and Subsidiary Motorola"
+        },
+        {
+            "time": "05:24",
+            "tag": "MERCADO",
+            "text": "Insurance moves: Markel, AXA XL, Chubb, Assurant and Banyan Risk"
+        },
+        {
+            "time": "05:04",
+            "tag": "MERCADO",
+            "text": "India Prepares Smartphone Export Incentives in a Boost for Apple"
+        },
+        {
+            "time": "05:03",
+            "tag": "AI",
+            "text": "Ecolab Southeast Asia launches intelligent solutions, wins innovation award at THAIFEX - HOREC Asia 2026"
+        },
+        {
             "time": "04:32",
             "tag": "AI",
             "text": "Ceva's NeuPro-Nano NPU Wins Artificial Intelligence Award at embedded world 2026"
-        },
-        {
-            "time": "02:59",
-            "tag": "MERCADO",
-            "text": "Insider Sell: Thomas Indelicarto Sells Shares of VeriSign Inc (VRSN)"
-        },
-        {
-            "time": "02:50",
-            "tag": "MERCADO",
-            "text": "Equinix sees data center demand staying resilient"
-        },
-        {
-            "time": "02:49",
-            "tag": "MERCADO",
-            "text": "Anthropic in talks with Blackstone, PE firms on consulting tie-up- The Information"
-        },
-        {
-            "time": "02:35",
-            "tag": "MERCADO",
-            "text": "Instacart, Booking, and Grindr: Three Platform Plays Investors Are Sleeping On"
         }
     ]
 }
