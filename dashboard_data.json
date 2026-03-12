@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-12 16:01 UTC",
+        "last_updated": "2026-03-12 17:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 184.6,
-            "change": "-2.6%"
+            "price": 183.66,
+            "change": "-1.28%"
         },
         {
             "symbol": "AMD",
-            "price": 198.5,
-            "change": "-2.06%"
+            "price": 198.39,
+            "change": "-1.7%"
         },
         {
             "symbol": "MSFT",
-            "price": 403.97,
-            "change": "-3.17%"
+            "price": 404.2,
+            "change": "-2.84%"
         },
         {
             "symbol": "CEG",
-            "price": 306.05,
-            "change": "-2.67%"
+            "price": 307.18,
+            "change": "-0.55%"
         },
         {
             "symbol": "VST",
-            "price": 162.3,
-            "change": "+2.46%"
+            "price": 161.32,
+            "change": "+2.04%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.46,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.56,
-            0.56,
-            0.56,
-            0.56,
-            0.55,
-            0.54,
-            0.54,
-            0.54,
-            0.53,
-            0.53,
+            0.51,
+            0.5,
+            0.51,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.52,
-            0.51
+            0.51,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.56,
-            24.95,
-            24.67,
-            24.84,
-            24.93,
-            24.84,
-            24.48,
-            24.77,
-            24.88,
-            24.63,
-            24.97,
-            24.84
+            24.18,
+            24.49,
+            24.99,
+            24.89,
+            25.39,
+            24.92,
+            25.39,
+            25.71,
+            25.4,
+            25.49,
+            25.1,
+            24.8
         ],
         "hsd_history_software": [
-            9.75,
-            9.88,
-            10.03,
-            9.85,
-            10.01,
-            9.99,
-            10.12,
+            10.41,
+            10.33,
+            10.33,
+            10.13,
             10.18,
-            10.39,
-            10.44,
-            10.25,
-            10.16
+            10.12,
+            10.06,
+            10.17,
+            10.26,
+            10.24,
+            10.06,
+            9.98
         ],
         "rci_data": [
             85.0,
-            18.459999999999997
+            18.366
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:52",
-            "tag": "MERCADO",
-            "text": "Astera Labs to Participate in the 38th Annual Roth Conference"
+            "time": "16:42",
+            "tag": "AI",
+            "text": "Adobe sued for trademark infringement over 'Foundry' AI tool"
         },
         {
-            "time": "15:41",
-            "tag": "MERCADO",
-            "text": "Zeta Network Group (NASDAQ:ZNB) Hits New 52-Week Low - Here's Why"
+            "time": "16:42",
+            "tag": "AI",
+            "text": "Is GE HealthCare (GEHC) Quietly Redefining Its Moat With FDA-Cleared Cloud Imaging and AI?"
         },
         {
-            "time": "15:38",
+            "time": "16:36",
             "tag": "MERCADO",
-            "text": "T-Mobile Expands 5G Mission Critical Reach And Rural Broadband Opportunity"
+            "text": "CEO Albert Bourla Reflects on Pfizer\u2019s Year of Bold Moves and Relentless Innovation in 2025 Annual Review"
         },
         {
-            "time": "15:37",
-            "tag": "MERCADO",
-            "text": "Prologis\u2019 Data Center And China REIT Expansion Could Be A Game Changer For Prologis (PLD)"
+            "time": "16:33",
+            "tag": "AI",
+            "text": "Assessing Applied Materials (AMAT) Valuation After New AI Memory Partnerships With Micron And SK Hynix"
         },
         {
-            "time": "15:37",
-            "tag": "MERCADO",
-            "text": "Alchemer Positioned as a Challenger in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Voice of the Customer Platforms"
+            "time": "16:21",
+            "tag": "AI",
+            "text": "Why BWS Financial Sees A10 Networks (ATEN) Benefiting From Rising AI Network Traffic"
         }
     ]
 }
