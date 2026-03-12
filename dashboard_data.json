@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-12 19:47 UTC",
+        "last_updated": "2026-03-12 20:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 182.93,
-            "change": "+0.25%"
+            "price": 183.14,
+            "change": "-1.24%"
         },
         {
             "symbol": "AMD",
-            "price": 197.59,
-            "change": "-0.69%"
+            "price": 197.74,
+            "change": "+1.76%"
         },
         {
             "symbol": "MSFT",
-            "price": 402.7,
-            "change": "-2.36%"
+            "price": 401.86,
+            "change": "-1.08%"
         },
         {
             "symbol": "CEG",
-            "price": 302.12,
-            "change": "-1.3%"
+            "price": 301.55,
+            "change": "+0.75%"
         },
         {
             "symbol": "VST",
-            "price": 159.61,
-            "change": "+0.32%"
+            "price": 159.58,
+            "change": "+0.2%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.65,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.51,
+            0.51,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
             0.48,
             0.49,
             0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.48,
             0.49,
             0.49,
-            0.49,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            25.26,
-            24.83,
-            24.64,
-            25.13,
-            25.48,
-            25.52,
-            25.11,
-            25.36,
-            24.87,
-            24.64,
-            24.71,
-            24.79
+            23.48,
+            23.77,
+            24.17,
+            24.42,
+            24.42,
+            24.77,
+            24.89,
+            25.21,
+            24.94,
+            24.77,
+            24.4,
+            24.7
         ],
         "hsd_history_software": [
-            9.55,
-            9.57,
-            9.51,
-            9.61,
-            9.8,
-            9.99,
-            10.16,
-            10.27,
-            10.22,
-            10.29,
-            10.23,
-            10.12
+            10.26,
+            10.07,
+            10.09,
+            10.25,
+            10.14,
+            10.08,
+            10.17,
+            10.25,
+            10.35,
+            10.28,
+            10.11,
+            9.95
         ],
         "rci_data": [
             85.0,
-            18.293
+            18.314
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:47",
-            "tag": "MERCADO",
-            "text": "Qualtrics named a Leader in 2026 Gartner\u00ae Magic Quadrant\u2122 for Voice of the Customer Platforms"
-        },
-        {
-            "time": "18:31",
-            "tag": "MERCADO",
-            "text": "Amazon (AMZN) Retains AWS Users\u2019 Access to Claude Following Layoffs in Robotics Unit"
-        },
-        {
-            "time": "18:30",
-            "tag": "MERCADO",
-            "text": "Partnership with TOURChamp drives community initiatives, Southern Company asserts"
-        },
-        {
-            "time": "18:28",
+            "time": "19:43",
             "tag": "AI",
-            "text": "Is Leidos\u2019 New Air Force Cloud Deal And AI Cyber Push Altering The Investment Case For Leidos Holdings (LDOS)?"
+            "text": "Intelligent service: Salesforce, Zoom and RingCentral unveil AI agents to drive a transformed customer experience"
         },
         {
-            "time": "18:26",
+            "time": "19:29",
             "tag": "MERCADO",
-            "text": "Apple (AAPL) Launches Budget $599 Macbook in New Device Lineup"
+            "text": "Is It Time To Reconsider Palo Alto Networks (PANW) After Recent Share Price Weakness"
+        },
+        {
+            "time": "19:29",
+            "tag": "AI",
+            "text": "Honeywell Partnership Targets AI Battery Automation While Shares Sit Near Fair Value"
+        },
+        {
+            "time": "19:22",
+            "tag": "RESULTADOS",
+            "text": "Adobe Earnings May Not Help the Stock Bounce Back\u2014Even If They\u2019re Good"
+        },
+        {
+            "time": "19:18",
+            "tag": "MERCADO",
+            "text": "Wells Fargo is making 4 big changes in 2026 and millions will be affected"
         }
     ]
 }
