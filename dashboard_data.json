@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-12 09:49 UTC",
+        "last_updated": "2026-03-12 10:42 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 186.03,
-            "change": "+0.43%"
+            "change": "-1.79%"
         },
         {
             "symbol": "AMD",
             "price": 204.83,
-            "change": "+3.36%"
+            "change": "+0.42%"
         },
         {
             "symbol": "MSFT",
             "price": 404.88,
-            "change": "-3.01%"
+            "change": "+2.84%"
         },
         {
             "symbol": "CEG",
             "price": 300.69,
-            "change": "+3.2%"
+            "change": "-2.63%"
         },
         {
             "symbol": "VST",
             "price": 159.16,
-            "change": "-2.77%"
+            "change": "+0.83%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.58,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.5,
-            0.5,
-            0.49,
             0.48,
             0.49,
             0.49,
             0.49,
-            0.49
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.65,
-            25.03,
-            24.92,
-            24.53,
-            24.99,
-            25.25,
-            25.23,
-            25.51,
-            25.69,
-            25.46,
-            25.37,
-            25.21
+            23.82,
+            23.83,
+            23.72,
+            23.96,
+            23.91,
+            23.91,
+            24.02,
+            24.18,
+            24.23,
+            24.16,
+            24.59,
+            24.56
         ],
         "hsd_history_software": [
-            10.06,
-            10.03,
-            10.0,
-            9.89,
+            9.84,
+            9.8,
+            9.72,
+            9.83,
             9.97,
-            10.02,
-            9.9,
+            9.8,
+            9.73,
             9.82,
-            9.91,
-            9.76,
-            9.95,
-            9.8
+            9.84,
+            9.71,
+            9.73,
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:48",
-            "tag": "MERCADO",
-            "text": "Qualys Recognized as a Leader in the 2026 Forrester Wave\u2122 for Cloud-Native Application Protection Solutions (CNAPP)"
+            "time": "09:48",
+            "tag": "AI",
+            "text": "Super Micro Computer (SMCI) Valuation Check As New AI Infrastructure Partnerships Gain Traction"
         },
         {
-            "time": "08:39",
-            "tag": "MERCADO",
-            "text": "Bokf Na Acquires 13,259 Shares of Salesforce Inc. $CRM"
+            "time": "09:47",
+            "tag": "AI",
+            "text": "Will AI-Focused Clean Energy Deals and 3 GW Nuclear Pact Redefine NextEra Energy's (NEE) Narrative?"
         },
         {
-            "time": "08:37",
+            "time": "09:40",
             "tag": "MERCADO",
-            "text": "Duff & Phelps Investment Management Co. Has $342.09 Million Stock Position in Equinix, Inc. $EQIX"
+            "text": "Lenovo to Launch Gaming Tablet With Qualcomm's Snapdragon 8 Elite in South Korea"
         },
         {
-            "time": "08:37",
-            "tag": "MERCADO",
-            "text": "Elevatus Welath Management Makes New $4.28 Million Investment in Rigetti Computing, Inc. $RGTI"
+            "time": "09:36",
+            "tag": "AI",
+            "text": "Genuine Parts Unveils Breakup Plan, AI Initiatives at UBS Conference"
         },
         {
-            "time": "08:36",
+            "time": "09:30",
             "tag": "MERCADO",
-            "text": "Connor Clark & Lunn Investment Management Ltd. Has $56.37 Million Stock Holdings in NetApp, Inc. $NTAP"
+            "text": "Capital International Inc. CA Acquires 3,752 Shares of Adobe Inc."
         }
     ]
 }
