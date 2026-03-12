@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-12 11:34 UTC",
+        "last_updated": "2026-03-12 13:07 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 186.03,
-            "change": "+2.06%"
+            "change": "-0.41%"
         },
         {
             "symbol": "AMD",
             "price": 204.83,
-            "change": "+1.38%"
+            "change": "-0.18%"
         },
         {
             "symbol": "MSFT",
             "price": 404.88,
-            "change": "+1.56%"
+            "change": "+2.89%"
         },
         {
             "symbol": "CEG",
             "price": 300.69,
-            "change": "+1.56%"
+            "change": "-0.28%"
         },
         {
             "symbol": "VST",
             "price": 159.16,
-            "change": "-1.75%"
+            "change": "-1.19%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.69,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.48,
             0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
+            0.48,
+            0.48,
             0.49,
             0.49,
             0.48,
             0.49,
-            0.48,
             0.49,
-            0.49
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.08,
-            25.11,
-            25.17,
-            25.31,
-            25.23,
-            25.62,
-            26.13,
+            25.76,
+            25.26,
+            25.59,
+            25.38,
             25.68,
-            25.32,
-            25.67,
-            25.55,
-            25.44
+            25.58,
+            25.16,
+            25.21,
+            25.2,
+            25.47,
+            25.16,
+            25.47
         ],
         "hsd_history_software": [
-            10.25,
-            10.34,
-            10.2,
-            10.25,
-            10.2,
-            10.16,
-            10.03,
-            9.88,
-            9.84,
-            9.75,
-            9.93,
-            10.04
+            9.87,
+            9.74,
+            9.9,
+            9.83,
+            9.86,
+            9.79,
+            9.64,
+            9.68,
+            9.7,
+            9.89,
+            10.06,
+            10.03
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:45",
-            "tag": "MERCADO",
-            "text": "Franklin Resources Inc. Reduces Stake in HubSpot, Inc. $HUBS"
+            "time": "11:32",
+            "tag": "AI",
+            "text": "Software Leaders Reject AI Industry Collapse Narrative | 2026 Analysis - News and Statistics"
         },
         {
-            "time": "10:45",
-            "tag": "MERCADO",
-            "text": "Kepler Cheuvreux Suisse SA Buys New Stake in Arista Networks, Inc. $ANET"
+            "time": "11:32",
+            "tag": "AI",
+            "text": "Is Western Digital\u2019s Fully Booked 2026 AI HDD Capacity Altering The Investment Case For WDC?"
         },
         {
-            "time": "10:45",
+            "time": "11:32",
             "tag": "MERCADO",
-            "text": "11,476 Shares in Lam Research Corporation $LRCX Acquired by Kepler Cheuvreux Suisse SA"
+            "text": "McGowan Group Asset Management Inc. Grows Position in Texas Instruments Incorporated $TXN"
         },
         {
-            "time": "10:45",
+            "time": "11:32",
             "tag": "MERCADO",
-            "text": "Franklin Resources Inc. Has $725.40 Million Holdings in Adobe Inc. $ADBE"
+            "text": "Prudent Man Advisors LLC Sells 9,999 Shares of Corning Incorporated $GLW"
         },
         {
-            "time": "10:45",
+            "time": "11:32",
             "tag": "MERCADO",
-            "text": "Kepler Cheuvreux Suisse SA Acquires Shares of 14,857 Fortinet, Inc. $FTNT"
+            "text": "KLCM Advisors Inc. Has $2.11 Million Stock Position in Qualcomm Incorporated $QCOM"
         }
     ]
 }
