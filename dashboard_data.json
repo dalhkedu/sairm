@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-11 23:29 UTC",
+        "last_updated": "2026-03-12 02:28 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": NaN,
-            "change": "+0.42%"
+            "price": 186.03,
+            "change": "+1.54%"
         },
         {
             "symbol": "AMD",
             "price": 204.83,
-            "change": "+2.2%"
+            "change": "-3.18%"
         },
         {
             "symbol": "MSFT",
             "price": 404.88,
-            "change": "-2.11%"
+            "change": "-3.32%"
         },
         {
             "symbol": "CEG",
             "price": 300.69,
-            "change": "-1.36%"
+            "change": "-2.16%"
         },
         {
             "symbol": "VST",
             "price": 159.16,
-            "change": "-0.75%"
+            "change": "-2.15%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
-        "rci_current": NaN,
+        "cer_current": 0.51,
+        "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
+            0.52,
+            0.52,
             0.51,
-            0.5
+            0.51,
+            0.52,
+            0.52,
+            0.53,
+            0.52,
+            0.51,
+            0.51,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.41,
-            26.42,
-            26.12,
-            26.01,
-            25.62,
-            25.28,
-            25.06,
-            24.58,
-            24.9,
-            25.18,
-            24.82,
-            24.57
+            25.22,
+            25.37,
+            25.76,
+            25.64,
+            25.24,
+            25.15,
+            24.85,
+            25.15,
+            24.98,
+            25.37,
+            25.16,
+            25.48
         ],
         "hsd_history_software": [
-            9.77,
-            9.77,
-            9.6,
-            9.63,
-            9.56,
-            9.5,
-            9.43,
-            9.48,
-            9.62,
-            9.53,
-            9.71,
-            9.88
+            9.99,
+            9.95,
+            9.95,
+            9.88,
+            9.95,
+            10.05,
+            9.93,
+            9.8,
+            9.92,
+            10.12,
+            10.14,
+            10.06
         ],
         "rci_data": [
             85.0,
-            NaN
+            18.603
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:51",
-            "tag": "MERCADO",
-            "text": "Assessing Viasat (VSAT) Valuation After A Powerful One Year Share Price Surge"
-        },
-        {
-            "time": "21:36",
-            "tag": "MERCADO",
-            "text": "Is It Too Late To Consider Arista Networks (ANET) After Its Strong Multi Year Rally?"
-        },
-        {
-            "time": "21:20",
+            "time": "01:33",
             "tag": "AI",
-            "text": "F5 Expands Platform With AI\u2011Era Observability To \u2018Get In Front Of Problems,\u2019 Top Execs Says"
+            "text": "A Look At Digital Realty (DLR) Valuation As AI Data Center And Lisbon Expansion Plans Gain Attention"
         },
         {
-            "time": "21:08",
+            "time": "01:30",
             "tag": "MERCADO",
-            "text": "Tesla VP explains latest updates in trade secret theft case"
+            "text": "Park MGM Likely to Debut First Recording-Enabled Gaming Salon"
         },
         {
-            "time": "21:03",
+            "time": "01:29",
             "tag": "MERCADO",
-            "text": "Lam Research (NASDAQ:LRCX) Trading 1.7% Higher Following Analyst Upgrade"
+            "text": "Infleqtion Quantum Push Links DOE Funding National Labs And NVIDIA Integration"
+        },
+        {
+            "time": "01:17",
+            "tag": "MERCADO",
+            "text": "Nissan, Uber, Wayve announce robotaxi tie-up"
+        },
+        {
+            "time": "00:56",
+            "tag": "MERCADO",
+            "text": "VeriSign (NASDAQ:VRSN) EVP Sells $79,885.84 in Stock"
         }
     ]
 }
