@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-13 09:43 UTC",
+        "last_updated": "2026-03-13 10:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.14,
-            "change": "+0.1%"
+            "change": "+1.44%"
         },
         {
             "symbol": "AMD",
             "price": 197.74,
-            "change": "-2.14%"
+            "change": "0.0%"
         },
         {
             "symbol": "MSFT",
             "price": 401.86,
-            "change": "-2.43%"
+            "change": "+1.35%"
         },
         {
             "symbol": "CEG",
             "price": 301.55,
-            "change": "-2.37%"
+            "change": "+0.13%"
         },
         {
             "symbol": "VST",
             "price": 159.58,
-            "change": "-1.47%"
+            "change": "+3.03%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.66,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
-            0.48,
-            0.47,
-            0.48,
+            0.5,
+            0.5,
             0.49,
-            0.48,
             0.49,
             0.5,
             0.5,
-            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.86,
-            25.11,
-            24.78,
-            24.98,
-            24.73,
-            25.1,
-            24.93,
-            24.49,
-            24.38,
-            24.5,
-            24.47,
-            24.75
+            23.89,
+            24.12,
+            24.46,
+            24.24,
+            24.71,
+            24.27,
+            24.65,
+            24.9,
+            25.05,
+            24.96,
+            24.95,
+            24.96
         ],
         "hsd_history_software": [
-            9.12,
-            9.28,
-            9.43,
-            9.47,
-            9.56,
-            9.74,
-            9.73,
-            9.72,
-            9.91,
-            10.03,
-            9.94,
-            9.86
+            9.36,
+            9.46,
+            9.62,
+            9.81,
+            9.86,
+            9.98,
+            10.07,
+            10.14,
+            10.14,
+            10.01,
+            9.98,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:49",
+            "time": "09:46",
             "tag": "MERCADO",
-            "text": "Alphabet Inc. $GOOG is Employees Retirement System of Texas' 9th Largest Position"
+            "text": "Assessing Gartner (IT) Valuation After Legal Probes And Guidance Concerns Weigh On Sentiment"
         },
         {
-            "time": "08:46",
+            "time": "09:41",
+            "tag": "MERCADO",
+            "text": "Blue Grotto Capital LLC Invests $26.78 Million in Generac Holdings Inc. $GNRC"
+        },
+        {
+            "time": "09:39",
+            "tag": "MERCADO",
+            "text": "Schroder Investment Management Group Increases Stake in Monolithic Power Systems, Inc. $MPWR"
+        },
+        {
+            "time": "09:37",
             "tag": "AI",
-            "text": "Eschler Asset Management LLP Decreases Stock Position in Pony AI Inc. - Sponsored ADR $PONY"
+            "text": "Qualcomm Stock Slides to 52-Week Lows Amid Smartphone Weakness\u2014But AI Chips Offer a Lifeline"
         },
         {
-            "time": "08:46",
-            "tag": "AI",
-            "text": "Synopsys Ansys Launch Puts AI Era Chip Design At The Center"
-        },
-        {
-            "time": "08:45",
+            "time": "09:36",
             "tag": "MERCADO",
-            "text": "Bristol John W & Co. Inc. NY Cuts Stake in Texas Instruments Incorporated $TXN"
-        },
-        {
-            "time": "08:43",
-            "tag": "MERCADO",
-            "text": "Bristol John W & Co. Inc. NY Has $103.07 Million Position in T-Mobile US, Inc. $TMUS"
+            "text": "70,000 Shares in Advanced Micro Devices, Inc. $AMD Acquired by Blue Grotto Capital LLC"
         }
     ]
 }
