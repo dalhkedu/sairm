@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-13 04:46 UTC",
+        "last_updated": "2026-03-13 05:52 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.14,
-            "change": "-1.97%"
+            "change": "+2.88%"
         },
         {
             "symbol": "AMD",
             "price": 197.74,
-            "change": "-2.35%"
+            "change": "+1.84%"
         },
         {
             "symbol": "MSFT",
             "price": 401.86,
-            "change": "-1.56%"
+            "change": "+0.4%"
         },
         {
             "symbol": "CEG",
             "price": 301.55,
-            "change": "-2.77%"
+            "change": "-2.51%"
         },
         {
             "symbol": "VST",
             "price": 159.58,
-            "change": "-2.79%"
+            "change": "+0.9%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.41,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.53,
             0.52,
+            0.52,
+            0.53,
+            0.52,
+            0.52,
             0.51,
-            0.52,
             0.51,
             0.51,
             0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
+            0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            24.77,
-            25.27,
-            25.7,
-            25.81,
-            26.17,
-            26.11,
-            25.81,
-            25.52,
-            25.53,
-            25.35,
-            25.06,
-            24.58
+            23.25,
+            23.5,
+            23.73,
+            23.79,
+            24.2,
+            24.47,
+            24.59,
+            25.01,
+            25.18,
+            24.7,
+            24.28,
+            24.66
         ],
         "hsd_history_software": [
-            10.5,
+            10.55,
+            10.55,
             10.46,
+            10.34,
             10.27,
-            10.37,
-            10.31,
-            10.23,
-            10.27,
-            10.27,
+            10.24,
             10.15,
-            10.02,
-            10.13,
-            10.01
+            10.15,
+            10.1,
+            9.93,
+            9.8,
+            9.83
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "04:49",
+            "tag": "AI",
+            "text": "Assessing Whether F5 (FFIV) Still Looks Undervalued After New AI And Security Product Launches"
+        },
+        {
+            "time": "04:43",
+            "tag": "MERCADO",
+            "text": "Inside Digital Realty: Why US Data Centers Are Becoming Your Next Real Competitive Edge"
+        },
+        {
+            "time": "04:18",
+            "tag": "AI",
+            "text": "S&P Global: Capital IQ Pro Enhanced With AI Capabilities, Drift AI Acquisition, And Expanded Market Data"
+        },
+        {
+            "time": "04:04",
+            "tag": "AI",
+            "text": "Applied Materials: $5 Billion EPIC Center Partnership With SK hynix To Advance AI Memory Technologies"
+        },
+        {
             "time": "02:05",
             "tag": "AI",
             "text": "Qualcomm and Arduino unleash VENTUNO Q that lets AI move offline"
-        },
-        {
-            "time": "01:54",
-            "tag": "AI",
-            "text": "Should Fortinet's AI-Driven FortiOS 8.0 Overhaul Prompt Action From Fortinet (FTNT) Investors?"
-        },
-        {
-            "time": "01:52",
-            "tag": "MERCADO",
-            "text": "Bamco Expands FactSet Stake to $838 Million as Financial Data Platform Drives Recurring Revenue"
-        },
-        {
-            "time": "01:15",
-            "tag": "MERCADO",
-            "text": "Apple Lowers App Store Cut to 25% from 30% in China to Fend Off Local Regulators"
-        },
-        {
-            "time": "00:52",
-            "tag": "MERCADO",
-            "text": "Reassessing nLIGHT (LASR) Valuation After A Sharp Share Price Move"
         }
     ]
 }
