@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-13 05:52 UTC",
+        "last_updated": "2026-03-13 06:59 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.14,
-            "change": "+2.88%"
+            "change": "-0.56%"
         },
         {
             "symbol": "AMD",
             "price": 197.74,
-            "change": "+1.84%"
+            "change": "-2.94%"
         },
         {
             "symbol": "MSFT",
             "price": 401.86,
-            "change": "+0.4%"
+            "change": "+0.37%"
         },
         {
             "symbol": "CEG",
             "price": 301.55,
-            "change": "-2.51%"
+            "change": "-2.85%"
         },
         {
             "symbol": "VST",
             "price": 159.58,
-            "change": "+0.9%"
+            "change": "-0.79%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.53,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.54,
+            0.55,
+            0.54,
+            0.55,
+            0.54,
+            0.53,
+            0.54,
             0.53,
             0.52,
             0.52,
-            0.53,
-            0.52,
-            0.52,
             0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            23.25,
-            23.5,
-            23.73,
-            23.79,
-            24.2,
-            24.47,
-            24.59,
-            25.01,
+            23.99,
+            24.11,
+            24.22,
+            24.56,
+            24.61,
+            24.97,
+            25.34,
+            25.26,
             25.18,
-            24.7,
-            24.28,
-            24.66
+            25.29,
+            25.28,
+            24.91
         ],
         "hsd_history_software": [
-            10.55,
-            10.55,
-            10.46,
+            10.01,
+            10.18,
+            10.37,
+            10.35,
             10.34,
-            10.27,
-            10.24,
-            10.15,
-            10.15,
+            10.25,
             10.1,
-            9.93,
-            9.8,
-            9.83
+            10.18,
+            10.18,
+            10.19,
+            10.27,
+            10.09
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "05:14",
+            "tag": "MERCADO",
+            "text": "Apple Inc. (AAPL) Analysts Update Coverage"
+        },
+        {
             "time": "04:49",
             "tag": "AI",
             "text": "Assessing Whether F5 (FFIV) Still Looks Undervalued After New AI And Security Product Launches"
@@ -144,11 +149,6 @@
             "time": "04:04",
             "tag": "AI",
             "text": "Applied Materials: $5 Billion EPIC Center Partnership With SK hynix To Advance AI Memory Technologies"
-        },
-        {
-            "time": "02:05",
-            "tag": "AI",
-            "text": "Qualcomm and Arduino unleash VENTUNO Q that lets AI move offline"
         }
     ]
 }
