@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-13 18:48 UTC",
+        "last_updated": "2026-03-13 19:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 180.97,
-            "change": "-1.83%"
+            "price": 180.67,
+            "change": "+0.15%"
         },
         {
             "symbol": "AMD",
-            "price": 193.74,
-            "change": "+1.94%"
+            "price": 192.77,
+            "change": "+0.87%"
         },
         {
             "symbol": "MSFT",
-            "price": 395.84,
-            "change": "+1.2%"
+            "price": 394.93,
+            "change": "-2.23%"
         },
         {
             "symbol": "CEG",
-            "price": 303.18,
-            "change": "+2.77%"
+            "price": 301.37,
+            "change": "-1.33%"
         },
         {
             "symbol": "VST",
-            "price": 160.82,
-            "change": "+1.49%"
+            "price": 159.63,
+            "change": "+1.48%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.55,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.48,
+            0.49,
+            0.48,
             0.49,
             0.5,
             0.5,
             0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.49
+            0.5,
+            0.5,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.18,
-            25.14,
-            25.01,
-            25.25,
-            25.11,
+            25.51,
+            25.35,
+            24.93,
+            24.77,
+            24.75,
+            24.3,
+            24.44,
+            24.65,
+            24.9,
             25.31,
-            25.7,
-            25.3,
-            25.55,
-            26.04,
-            25.68,
-            25.4
+            25.32,
+            25.32
         ],
         "hsd_history_software": [
-            10.41,
-            10.53,
-            10.63,
-            10.46,
-            10.51,
-            10.51,
-            10.71,
-            10.53,
-            10.43,
+            11.09,
+            11.0,
+            10.94,
+            10.86,
+            10.82,
+            10.67,
+            10.5,
+            10.35,
             10.24,
-            10.07,
-            10.09
+            10.21,
+            10.04,
+            9.98
         ],
         "rci_data": [
             85.0,
-            18.096999999999998
+            18.067
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:51",
-            "tag": "MERCADO",
-            "text": "ASML (ASML) Gained 55.8% in 2025"
+            "time": "18:44",
+            "tag": "AI",
+            "text": "Applied Materials Lifts Dividend As AI Partnerships Shape Shareholder Returns"
         },
         {
-            "time": "17:42",
+            "time": "18:44",
             "tag": "MERCADO",
-            "text": "Liquid Networx Wins Two Partner of the Year Awards at Fortinet Accelerate 2026"
+            "text": "Assessing BlackLine (BL) Valuation After Recent Share Price Weakness And Mixed Profitability Signals"
         },
         {
-            "time": "17:39",
+            "time": "18:41",
             "tag": "MERCADO",
-            "text": "Is Motorola Solutions (MSI) Pricing In Too Much Growth After Recent Contract Wins?"
+            "text": "BofA, Evercore, and Morgan Stanley Cut Price Targets for HP Inc. (HPQ)"
         },
         {
-            "time": "17:31",
+            "time": "18:36",
             "tag": "MERCADO",
-            "text": "KKR (KKR) explores $3 billion sale of data center cooling firm CoolIT Systems"
+            "text": "Advanced Micro Devices, Inc. (AMD) Focused on Growth through Strategic Partnerships"
         },
         {
-            "time": "17:18",
+            "time": "18:29",
             "tag": "MERCADO",
-            "text": "ASML Stock Climbed 83% Last Year. Here\u2019s Why It Could Deliver 80% More Upside"
+            "text": "Intuitive Surgical discloses cybersecurity breach"
         }
     ]
 }
