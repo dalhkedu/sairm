@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-13 11:34 UTC",
+        "last_updated": "2026-03-13 13:06 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.14,
-            "change": "+3.45%"
+            "change": "-1.09%"
         },
         {
             "symbol": "AMD",
             "price": 197.74,
-            "change": "-2.22%"
+            "change": "-2.4%"
         },
         {
             "symbol": "MSFT",
             "price": 401.86,
-            "change": "-0.18%"
+            "change": "+0.99%"
         },
         {
             "symbol": "CEG",
             "price": 301.55,
-            "change": "+1.69%"
+            "change": "+3.1%"
         },
         {
             "symbol": "VST",
             "price": 159.58,
-            "change": "-0.77%"
+            "change": "-0.73%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.41,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
             0.49,
-            0.49,
+            0.48,
+            0.48,
             0.49,
             0.5,
+            0.5,
+            0.5,
             0.51,
-            0.5
+            0.51,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.74,
-            24.64,
-            24.33,
-            24.56,
-            24.89,
-            25.22,
-            25.34,
-            25.39,
-            25.34,
-            24.98,
-            25.18,
-            24.82
+            24.24,
+            24.29,
+            24.5,
+            24.94,
+            25.01,
+            24.91,
+            25.17,
+            25.0,
+            24.99,
+            24.76,
+            24.79,
+            24.96
         ],
         "hsd_history_software": [
-            10.98,
-            10.85,
-            10.78,
-            10.59,
-            10.47,
-            10.59,
-            10.51,
-            10.36,
-            10.48,
-            10.28,
-            10.23,
-            10.17
+            10.21,
+            10.37,
+            10.18,
+            10.25,
+            10.16,
+            10.02,
+            9.86,
+            9.95,
+            9.84,
+            10.01,
+            9.85,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:49",
-            "tag": "MERCADO",
-            "text": "Invesco Ltd. Grows Position in Intuit Inc. $INTU"
+            "time": "12:38",
+            "tag": "RESULTADOS",
+            "text": "Roper Technologies Inc Stock (ISIN: US7782961038) Faces Analyst Pressure Amid Recent Earnings Beat a"
         },
         {
-            "time": "10:42",
+            "time": "12:33",
             "tag": "MERCADO",
-            "text": "Super Micro Computer, Inc. $SMCI Shares Sold by Quantitative Investment Management LLC"
+            "text": "Uber and Hyundai-backed Motional launch robotaxi rides in Las Vegas (UBER:NYSE)"
         },
         {
-            "time": "10:41",
-            "tag": "MERCADO",
-            "text": "Quantitative Investment Management LLC Acquires Shares of 104,743 Advanced Micro Devices, Inc. $AMD"
+            "time": "12:29",
+            "tag": "AI",
+            "text": "Analog Devices Inc.: The Quiet Chip Giant Powering AI, EVs, And Your Portfolio"
         },
         {
-            "time": "10:38",
+            "time": "12:24",
             "tag": "MERCADO",
-            "text": "Shopify Inc. $SHOP Shares Sold by Invesco Ltd."
+            "text": "Garmin Ltd Stock (ISIN: US3687361044) Holds Steady Amid Strong Guidance and Analyst Optimism"
         },
         {
-            "time": "10:38",
+            "time": "12:22",
             "tag": "MERCADO",
-            "text": "Invesco Ltd. Buys 453,096 Shares of T-Mobile US, Inc. $TMUS"
+            "text": "Expedia helps hotels with revenue strategy through data partnership"
         }
     ]
 }
