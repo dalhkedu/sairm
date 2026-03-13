@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-12 23:31 UTC",
+        "last_updated": "2026-03-13 02:25 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.14,
-            "change": "+2.22%"
+            "change": "+2.11%"
         },
         {
             "symbol": "AMD",
             "price": 197.74,
-            "change": "-2.65%"
+            "change": "-1.89%"
         },
         {
             "symbol": "MSFT",
             "price": 401.86,
-            "change": "-3.12%"
+            "change": "+2.8%"
         },
         {
             "symbol": "CEG",
             "price": 301.55,
-            "change": "-1.88%"
+            "change": "-1.73%"
         },
         {
             "symbol": "VST",
             "price": 159.58,
-            "change": "-2.76%"
+            "change": "-2.0%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.55,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.36,
-            24.75,
-            24.85,
-            24.73,
-            24.49,
-            24.61,
-            24.43,
-            24.61,
-            24.5,
-            24.83,
-            25.19,
-            24.91
+            23.18,
+            22.96,
+            22.83,
+            23.26,
+            23.41,
+            23.68,
+            23.55,
+            23.77,
+            23.67,
+            23.79,
+            24.11,
+            24.56
         ],
         "hsd_history_software": [
-            9.91,
-            9.73,
-            9.75,
-            9.82,
-            10.0,
-            10.11,
-            9.98,
-            10.02,
+            10.16,
+            10.01,
             9.88,
-            9.96,
-            10.12,
-            9.97
+            9.97,
+            9.92,
+            9.9,
+            9.98,
+            10.17,
+            10.03,
+            10.02,
+            10.01,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:47",
+            "time": "01:15",
             "tag": "MERCADO",
-            "text": "Arista Networks (ANET) Valuation Check After Recent Pullback In High Speed Switch Growth Story"
+            "text": "Apple Lowers App Store Cut to 25% from 30% in China to Fend Off Local Regulators"
         },
         {
-            "time": "22:47",
+            "time": "23:54",
             "tag": "MERCADO",
-            "text": "Is Kimberly-Clark\u2019s (KMB) New Tech Chief a Subtle Shift in Its Competitive Playbook?"
+            "text": "BESI Acquisition Interest: Lam Research & Applied Materials in Talks | 2026 - News and Statistics"
         },
         {
-            "time": "22:47",
+            "time": "23:52",
             "tag": "MERCADO",
-            "text": "Assessing Intuitive Surgical\u2019s Valuation As Near Term Share Performance Contrasts With Longer Term Gains"
+            "text": "F.N.B. Corp. expands Common app offerings"
         },
         {
-            "time": "22:42",
-            "tag": "MERCADO",
-            "text": "Digital Realty builds out 1 million-square-foot data center campus in Garland"
+            "time": "23:50",
+            "tag": "AI",
+            "text": "F5 boosts AI app security with zero trust, post-quantum"
         },
         {
-            "time": "22:28",
+            "time": "23:43",
             "tag": "MERCADO",
-            "text": "Amazon plans to move Prime Day event to June from July, Bloomberg News reports"
+            "text": "Mizuho Securities Remains a Buy on Fiserv (FISV)"
         }
     ]
 }
