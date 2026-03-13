@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-13 15:46 UTC",
+        "last_updated": "2026-03-13 16:45 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 180.8,
-            "change": "-2.66%"
+            "price": 181.21,
+            "change": "-0.82%"
         },
         {
             "symbol": "AMD",
-            "price": 193.51,
-            "change": "-0.73%"
+            "price": 193.68,
+            "change": "+1.7%"
         },
         {
             "symbol": "MSFT",
-            "price": 395.87,
-            "change": "-2.92%"
+            "price": 395.59,
+            "change": "-2.85%"
         },
         {
             "symbol": "CEG",
-            "price": 302.12,
-            "change": "-0.99%"
+            "price": 301.59,
+            "change": "-2.23%"
         },
         {
             "symbol": "VST",
-            "price": 160.1,
-            "change": "+0.01%"
+            "price": 160.54,
+            "change": "-3.42%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.64,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
             0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
             0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
             0.49,
             0.49
         ],
         "hsd_history_hardware": [
+            23.48,
+            23.79,
+            24.01,
+            23.81,
             24.13,
-            24.43,
-            24.54,
-            24.51,
-            24.82,
-            24.66,
-            24.2,
-            23.99,
-            24.15,
-            24.21,
-            24.53,
-            24.81
+            24.24,
+            24.35,
+            24.7,
+            24.35,
+            24.23,
+            24.22,
+            24.58
         ],
         "hsd_history_software": [
-            10.47,
-            10.3,
-            10.4,
-            10.58,
-            10.38,
-            10.42,
-            10.25,
+            10.36,
+            10.19,
             10.29,
-            10.12,
-            9.94,
-            9.98,
-            10.03
+            10.43,
+            10.28,
+            10.48,
+            10.33,
+            10.47,
+            10.54,
+            10.41,
+            10.21,
+            10.07
         ],
         "rci_data": [
             85.0,
-            18.080000000000002
+            18.121000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:50",
+            "time": "15:48",
             "tag": "MERCADO",
-            "text": "NYSE Content Update: Two-time Olympic Champions Have a Bell Moment on the Trading Floor"
+            "text": "SkyOnline to source 85% of Buenos Aires data center electricity from YPF Luz renewables"
         },
         {
-            "time": "14:42",
-            "tag": "MERCADO",
-            "text": "Uber's Vegas Robotaxis Still Need A Human Watching The Road"
-        },
-        {
-            "time": "14:37",
-            "tag": "MERCADO",
-            "text": "MS Now, Golf Channel, CNBC, & More Plan to Make Half of Their Revenue From Non-Cable TV Sources After Comcast Spun Them Off This Year"
-        },
-        {
-            "time": "14:27",
-            "tag": "RESULTADOS",
-            "text": "A Look At DuPont (DD) Valuation After Earnings Beat And Water Technology Updates"
-        },
-        {
-            "time": "14:26",
+            "time": "15:36",
             "tag": "AI",
-            "text": "Qualcomm Qt Alliance Highlights Edge AI Push In Smart Factories"
+            "text": "F5 CEO On \u2018The Most Exciting Time\u2019 In Two Decades As AI Accelerates App Delivery, Security: Exclusive"
+        },
+        {
+            "time": "15:11",
+            "tag": "MERCADO",
+            "text": "This pocket of software is likely to outperform going forward, Morgan Stanley says"
+        },
+        {
+            "time": "15:01",
+            "tag": "MERCADO",
+            "text": "Tyler Technologies (TYL) Initiates New Share Buyback Plan"
+        },
+        {
+            "time": "15:00",
+            "tag": "AI",
+            "text": "AI data centers hit 1.6T era: Keysight rolls out 224G test gear"
         }
     ]
 }
