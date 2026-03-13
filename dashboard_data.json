@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-13 17:37 UTC",
+        "last_updated": "2026-03-13 18:48 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 181.39,
-            "change": "-2.53%"
+            "price": 180.97,
+            "change": "-1.83%"
         },
         {
             "symbol": "AMD",
-            "price": 193.73,
-            "change": "-1.44%"
+            "price": 193.74,
+            "change": "+1.94%"
         },
         {
             "symbol": "MSFT",
-            "price": 396.26,
-            "change": "+2.45%"
+            "price": 395.84,
+            "change": "+1.2%"
         },
         {
             "symbol": "CEG",
-            "price": 301.8,
-            "change": "-3.08%"
+            "price": 303.18,
+            "change": "+2.77%"
         },
         {
             "symbol": "VST",
-            "price": 160.87,
-            "change": "+1.38%"
+            "price": 160.82,
+            "change": "+1.49%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.45,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
             0.49,
             0.5,
             0.5,
-            0.5,
-            0.5,
-            0.5
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.53,
-            24.79,
-            24.69,
-            24.98,
-            24.85,
-            24.73,
-            24.84,
+            25.18,
+            25.14,
+            25.01,
+            25.25,
             25.11,
-            25.59,
-            25.23,
-            25.57,
-            25.47
+            25.31,
+            25.7,
+            25.3,
+            25.55,
+            26.04,
+            25.68,
+            25.4
         ],
         "hsd_history_software": [
-            9.76,
-            9.78,
-            9.93,
-            10.0,
-            10.15,
-            10.08,
-            10.08,
-            10.04,
-            9.99,
-            9.9,
-            9.95,
-            9.94
+            10.41,
+            10.53,
+            10.63,
+            10.46,
+            10.51,
+            10.51,
+            10.71,
+            10.53,
+            10.43,
+            10.24,
+            10.07,
+            10.09
         ],
         "rci_data": [
             85.0,
-            18.139
+            18.096999999999998
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:49",
-            "tag": "AI",
-            "text": "Electronic warfare autonomy software demonstrated by L3Harris, Shield AI"
-        },
-        {
-            "time": "16:34",
+            "time": "17:51",
             "tag": "MERCADO",
-            "text": "Netflix to Announce First Quarter 2026 Financial Results"
+            "text": "ASML (ASML) Gained 55.8% in 2025"
         },
         {
-            "time": "16:23",
+            "time": "17:42",
             "tag": "MERCADO",
-            "text": "John Deere Unveils 5M Series 5130M (130 HP) Tractor at Power & Technology Show in India"
+            "text": "Liquid Networx Wins Two Partner of the Year Awards at Fortinet Accelerate 2026"
         },
         {
-            "time": "16:08",
-            "tag": "AI",
-            "text": "Synopsys launches AI-powered EDA solutions, including first integrated Ansys tools since acquisition"
-        },
-        {
-            "time": "16:04",
+            "time": "17:39",
             "tag": "MERCADO",
-            "text": "Apple Watch class action claims about carbon neutrality dismissed"
+            "text": "Is Motorola Solutions (MSI) Pricing In Too Much Growth After Recent Contract Wins?"
+        },
+        {
+            "time": "17:31",
+            "tag": "MERCADO",
+            "text": "KKR (KKR) explores $3 billion sale of data center cooling firm CoolIT Systems"
+        },
+        {
+            "time": "17:18",
+            "tag": "MERCADO",
+            "text": "ASML Stock Climbed 83% Last Year. Here\u2019s Why It Could Deliver 80% More Upside"
         }
     ]
 }
