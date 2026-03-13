@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-13 07:51 UTC",
+        "last_updated": "2026-03-13 08:45 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.14,
-            "change": "-2.66%"
+            "change": "-1.47%"
         },
         {
             "symbol": "AMD",
             "price": 197.74,
-            "change": "+0.21%"
+            "change": "-2.52%"
         },
         {
             "symbol": "MSFT",
             "price": 401.86,
-            "change": "+0.33%"
+            "change": "-0.26%"
         },
         {
             "symbol": "CEG",
             "price": 301.55,
-            "change": "+0.28%"
+            "change": "+3.3%"
         },
         {
             "symbol": "VST",
-            "price": NaN,
-            "change": "+3.32%"
+            "price": 159.58,
+            "change": "-0.75%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.48,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
             0.5,
             0.49
         ],
         "hsd_history_hardware": [
             25.55,
-            25.26,
-            24.8,
-            24.82,
-            24.4,
-            24.75,
-            25.0,
-            24.76,
-            24.81,
-            24.81,
-            25.17,
-            25.46
+            25.91,
+            26.43,
+            26.43,
+            26.31,
+            26.22,
+            26.02,
+            25.62,
+            26.0,
+            26.15,
+            25.81,
+            25.45
         ],
         "hsd_history_software": [
-            9.29,
-            9.3,
-            9.39,
-            9.5,
-            9.68,
-            9.82,
-            9.81,
-            9.71,
-            9.85,
-            9.94,
-            9.88,
-            10.02
+            10.7,
+            10.57,
+            10.41,
+            10.3,
+            10.2,
+            10.31,
+            10.15,
+            10.36,
+            10.5,
+            10.44,
+            10.24,
+            10.08
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:56",
+            "time": "07:48",
             "tag": "MERCADO",
-            "text": "Applied Materials Announces Long-Term R&D Partnership with SK hynix"
+            "text": "Taking Stock Of VeriSign (VRSN) Valuation As Governance Concerns Meet Mixed Pricing Signals"
         },
         {
-            "time": "05:56",
+            "time": "07:48",
             "tag": "AI",
-            "text": "Advanced Micro Devices Highlights Significance of Open AI Telco at MWC2026"
+            "text": "How Skyworks\u2019 New AI-Ready RF and 6G Solutions Push Will Impact Skyworks Solutions (SWKS) Investors"
         },
         {
-            "time": "05:14",
+            "time": "07:45",
             "tag": "MERCADO",
-            "text": "Apple Inc. (AAPL) Analysts Update Coverage"
+            "text": "Black Swift Group LLC Cuts Position in NVIDIA Corporation $NVDA"
         },
         {
-            "time": "04:49",
+            "time": "07:45",
             "tag": "MERCADO",
-            "text": "COGNIZANT TECHNOLOGY SOLUTIONS CORP CLASS A - Ro Khanna Congressional Trade on Feb. 05, 2026"
+            "text": "Blackston Financial Advisory Group LLC Reduces Stock Holdings in Amazon.com, Inc. $AMZN"
         },
         {
-            "time": "04:49",
-            "tag": "AI",
-            "text": "Assessing Whether F5 (FFIV) Still Looks Undervalued After New AI And Security Product Launches"
+            "time": "07:45",
+            "tag": "MERCADO",
+            "text": "Blackston Financial Advisory Group LLC Lowers Stake in Alphabet Inc. $GOOGL"
         }
     ]
 }
