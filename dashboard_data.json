@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-14 07:37 UTC",
+        "last_updated": "2026-03-14 08:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.25,
-            "change": "-2.67%"
+            "change": "+3.28%"
         },
         {
             "symbol": "AMD",
             "price": 193.39,
-            "change": "+1.21%"
+            "change": "-0.4%"
         },
         {
             "symbol": "MSFT",
             "price": 395.55,
-            "change": "+2.19%"
+            "change": "+0.56%"
         },
         {
             "symbol": "CEG",
             "price": 301.77,
-            "change": "+3.33%"
+            "change": "-2.25%"
         },
         {
             "symbol": "VST",
             "price": 158.95,
-            "change": "+0.89%"
+            "change": "-0.02%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.68,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
             0.51,
             0.52,
-            0.51,
             0.52,
             0.52,
+            0.52,
+            0.52,
+            0.52,
             0.51,
             0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            24.24,
-            24.48,
-            24.59,
-            24.69,
-            25.04,
-            24.68,
-            24.66,
-            24.38,
-            24.38,
-            24.26,
-            24.26,
-            24.67
+            24.0,
+            23.81,
+            23.81,
+            23.79,
+            23.42,
+            23.53,
+            23.83,
+            24.13,
+            24.43,
+            24.78,
+            24.81,
+            24.69
         ],
         "hsd_history_software": [
-            10.64,
-            10.66,
-            10.51,
-            10.42,
+            10.29,
+            10.26,
+            10.13,
+            10.13,
+            10.17,
+            10.26,
+            10.37,
+            10.19,
+            10.07,
             10.23,
-            10.27,
-            10.2,
-            10.1,
-            10.08,
-            10.11,
-            10.27,
-            10.14
+            10.06,
+            10.06
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:51",
-            "tag": "AI",
-            "text": "Should MACOM\u2019s New PCIe 7.0 and Optical Lineup at OFC 2026 Reshape MTSI\u2019s AI Narrative?"
+            "time": "07:49",
+            "tag": "MERCADO",
+            "text": "Glenmede Investment Management LP Sells 43,537 Shares of PayPal Holdings, Inc. $PYPL"
         },
         {
-            "time": "06:45",
+            "time": "07:49",
             "tag": "MERCADO",
-            "text": "Hewlett Packard Enterprise (NYSE:HPE) Rating Increased to Buy at Wall Street Zen"
+            "text": "Glenmede Investment Management LP Has $42.20 Million Stake in Qualcomm Incorporated $QCOM"
         },
         {
-            "time": "06:32",
+            "time": "07:49",
             "tag": "MERCADO",
-            "text": "Cisco Systems (NASDAQ:CSCO) Downgraded to \"Hold\" Rating by Wall Street Zen"
+            "text": "Glenmede Investment Management LP Sells 68,037 Shares of Lam Research Corporation $LRCX"
         },
         {
-            "time": "06:09",
+            "time": "07:49",
             "tag": "MERCADO",
-            "text": "Is Truist\u2019s Plaid Partnership Quietly Redefining Its Digital Efficiency Story for Investors (TFC)?"
+            "text": "NetApp, Inc. $NTAP Shares Acquired by Glenmede Investment Management LP"
         },
         {
-            "time": "06:09",
+            "time": "07:49",
             "tag": "MERCADO",
-            "text": "T-Mobile US (NASDAQ:TMUS) Lowered to Sell Rating by Wall Street Zen"
+            "text": "Alphabet Inc. $GOOGL Shares Purchased by FreeGulliver LLC"
         }
     ]
 }
