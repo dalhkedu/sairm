@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-14 08:40 UTC",
+        "last_updated": "2026-03-14 09:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.25,
-            "change": "+3.28%"
+            "change": "-0.66%"
         },
         {
             "symbol": "AMD",
             "price": 193.39,
-            "change": "-0.4%"
+            "change": "-0.72%"
         },
         {
             "symbol": "MSFT",
             "price": 395.55,
-            "change": "+0.56%"
+            "change": "-2.37%"
         },
         {
             "symbol": "CEG",
             "price": 301.77,
-            "change": "-2.25%"
+            "change": "-3.01%"
         },
         {
             "symbol": "VST",
             "price": 158.95,
-            "change": "-0.02%"
+            "change": "+3.0%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.43,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
             0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.51,
             0.51,
             0.51,
             0.5,
-            0.51
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.0,
-            23.81,
-            23.81,
-            23.79,
-            23.42,
-            23.53,
-            23.83,
-            24.13,
-            24.43,
-            24.78,
-            24.81,
-            24.69
+            24.28,
+            23.84,
+            24.09,
+            23.67,
+            23.64,
+            24.08,
+            24.29,
+            24.6,
+            25.04,
+            24.97,
+            24.91,
+            24.55
         ],
         "hsd_history_software": [
-            10.29,
-            10.26,
-            10.13,
-            10.13,
-            10.17,
-            10.26,
-            10.37,
-            10.19,
-            10.07,
-            10.23,
-            10.06,
-            10.06
+            9.39,
+            9.35,
+            9.44,
+            9.37,
+            9.28,
+            9.32,
+            9.24,
+            9.38,
+            9.56,
+            9.67,
+            9.67,
+            9.85
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:49",
-            "tag": "MERCADO",
-            "text": "Glenmede Investment Management LP Sells 43,537 Shares of PayPal Holdings, Inc. $PYPL"
+            "time": "08:50",
+            "tag": "AI",
+            "text": "2,360,000 Shares in Pony AI Inc. - Sponsored ADR $PONY Purchased by Ghisallo Capital Management LLC"
         },
         {
-            "time": "07:49",
+            "time": "08:50",
             "tag": "MERCADO",
-            "text": "Glenmede Investment Management LP Has $42.20 Million Stake in Qualcomm Incorporated $QCOM"
+            "text": "Dnca Finance Has $7.19 Million Stock Position in Micron Technology, Inc. $MU"
         },
         {
-            "time": "07:49",
+            "time": "08:50",
             "tag": "MERCADO",
-            "text": "Glenmede Investment Management LP Sells 68,037 Shares of Lam Research Corporation $LRCX"
+            "text": "Take-Two Interactive Software, Inc. $TTWO Stock Holdings Increased by Interval Partners LP"
         },
         {
-            "time": "07:49",
+            "time": "08:50",
             "tag": "MERCADO",
-            "text": "NetApp, Inc. $NTAP Shares Acquired by Glenmede Investment Management LP"
+            "text": "Dnca Finance Sells 15,530 Shares of Synopsys, Inc. $SNPS"
         },
         {
-            "time": "07:49",
+            "time": "08:49",
             "tag": "MERCADO",
-            "text": "Alphabet Inc. $GOOGL Shares Purchased by FreeGulliver LLC"
+            "text": "First Beijing Investment Ltd Buys 590,869 Shares of PDD Holdings Inc. Sponsored ADR $PDD"
         }
     ]
 }
