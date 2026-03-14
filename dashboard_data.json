@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-14 04:45 UTC",
+        "last_updated": "2026-03-14 05:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.25,
-            "change": "+3.15%"
+            "change": "+2.02%"
         },
         {
             "symbol": "AMD",
             "price": 193.39,
-            "change": "+2.48%"
+            "change": "-3.1%"
         },
         {
             "symbol": "MSFT",
             "price": 395.55,
-            "change": "-3.31%"
+            "change": "+0.29%"
         },
         {
             "symbol": "CEG",
             "price": 301.77,
-            "change": "-1.1%"
+            "change": "-1.4%"
         },
         {
             "symbol": "VST",
             "price": 158.95,
-            "change": "-1.5%"
+            "change": "+0.39%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.5,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.51,
+            0.52,
             0.51,
             0.51,
             0.5,
-            0.51,
+            0.5,
+            0.5,
             0.51,
             0.51,
             0.51,
             0.5,
-            0.51,
-            0.51,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            23.95,
-            23.5,
-            23.42,
-            23.82,
-            24.28,
-            24.34,
-            24.32,
+            24.83,
+            24.83,
+            24.43,
+            24.85,
             24.59,
-            25.04,
-            25.02,
-            24.61,
-            24.68
+            24.76,
+            25.26,
+            25.18,
+            25.25,
+            25.59,
+            25.23,
+            25.48
         ],
         "hsd_history_software": [
-            9.67,
-            9.68,
-            9.56,
-            9.41,
-            9.52,
-            9.69,
-            9.61,
-            9.67,
-            9.71,
-            9.74,
-            9.81,
-            9.91
+            10.13,
+            10.2,
+            10.07,
+            10.08,
+            10.26,
+            10.33,
+            10.33,
+            10.26,
+            10.15,
+            9.97,
+            10.01,
+            9.97
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "03:52",
-            "tag": "MERCADO",
-            "text": "Jumia Technologies AG (JMIA) seen Nearing Full-Year Profitability amid Ongoing GMV Growth"
+            "time": "04:52",
+            "tag": "RESULTADOS",
+            "text": "Lumentum Holdings (LITE) Sees Strong Analyst Optimism Following Earnings & NVIDIA Deal"
         },
         {
-            "time": "03:45",
+            "time": "04:49",
             "tag": "MERCADO",
-            "text": "KORE Group Regains NYSE Listing Compliance and Stability"
+            "text": "Unlocking Better Construction Outcomes with Data"
         },
         {
-            "time": "03:40",
+            "time": "04:43",
             "tag": "MERCADO",
-            "text": "Does The Recent Pullback Make NetApp (NTAP) Look Attractive On Valuation Grounds?"
+            "text": "Does KLA (KLAC) Pairing Bigger Buybacks With a Dividend Hike Reveal Its True Capital Priorities?"
         },
         {
-            "time": "03:35",
-            "tag": "AI",
-            "text": "US Commerce Dept Reportedly Withdraws Planned Rule On AI Chip Exports"
+            "time": "04:38",
+            "tag": "MERCADO",
+            "text": "Salesforce, Inc. Completes $22.5 Billion Senior Notes Offering with New Indenture and Supplemental Terms (March 2026)"
         },
         {
-            "time": "03:25",
+            "time": "04:07",
             "tag": "MERCADO",
-            "text": "KVH Industries Inc Stock (ISIN: US49836J1034) Gains Momentum Amid Satellite Connectivity Demand"
+            "text": "Verizon News On Vestberg Move Frontier Deal And Fiber Focus"
         }
     ]
 }
