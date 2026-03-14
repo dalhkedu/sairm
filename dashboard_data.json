@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-13 23:32 UTC",
+        "last_updated": "2026-03-14 02:24 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.25,
-            "change": "+2.99%"
+            "change": "+2.89%"
         },
         {
             "symbol": "AMD",
             "price": 193.39,
-            "change": "-1.76%"
+            "change": "-3.06%"
         },
         {
             "symbol": "MSFT",
             "price": 395.55,
-            "change": "-0.87%"
+            "change": "-3.02%"
         },
         {
             "symbol": "CEG",
             "price": 301.77,
-            "change": "+3.36%"
+            "change": "+1.51%"
         },
         {
             "symbol": "VST",
             "price": 158.95,
-            "change": "+3.49%"
+            "change": "+3.03%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.45,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.51,
             0.51,
             0.52,
             0.52,
             0.52,
+            0.51,
+            0.51,
+            0.51,
             0.52,
             0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            24.79,
-            24.98,
-            25.1,
-            24.79,
-            24.44,
-            24.86,
-            24.95,
-            24.82,
-            24.64,
-            24.49,
-            24.75,
-            25.04
+            25.41,
+            25.25,
+            25.22,
+            25.03,
+            24.9,
+            24.91,
+            25.06,
+            24.77,
+            24.69,
+            25.04,
+            25.36,
+            25.2
         ],
         "hsd_history_software": [
-            10.32,
+            10.05,
+            10.06,
+            10.13,
+            10.23,
             10.34,
-            10.36,
-            10.34,
-            10.21,
-            10.3,
-            10.12,
-            10.08,
-            9.94,
-            9.89,
-            10.09,
-            9.99
+            10.26,
+            10.33,
+            10.14,
+            10.11,
+            10.25,
+            10.24,
+            10.09
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:52",
+            "time": "01:40",
             "tag": "MERCADO",
-            "text": "Taiwan's Foundry Model: The Global Chip Industry's Central Hub in 2026 - News and Statistics"
+            "text": "Uber co-founder Travis Kalanick launches robotics venture Atoms"
         },
         {
-            "time": "22:52",
+            "time": "00:31",
             "tag": "MERCADO",
-            "text": "Turtle Beach Q4 2025 Results: Profit of $17.6M, Revenue Below Forecast - News and Statistics"
+            "text": "Flotek Industries Signals Data-Driven Breakout in 2026"
         },
         {
-            "time": "22:51",
-            "tag": "MERCADO",
-            "text": "Price-Driven Insight from (EICB) for Rule-Based Strategy"
+            "time": "00:29",
+            "tag": "AI",
+            "text": "Why Intuit (INTU) Is Down 8.6% After Soft Profit Outlook And New Anthropic AI Deal - And What's Next"
         },
         {
-            "time": "22:49",
+            "time": "00:28",
             "tag": "MERCADO",
-            "text": "Insider Sell: Akash Palkhiwala Sells 2,500 Shares of Qualcomm In"
+            "text": "A Look At Paycom Software (PAYC) Valuation After Prolonged Share Price Weakness"
         },
         {
-            "time": "21:52",
+            "time": "00:05",
             "tag": "MERCADO",
-            "text": "DTCX Stock Price and Chart \u2014 NASDAQ:DTCX"
+            "text": "Broadridge Financial Solutions Stock: Is BR Underperforming the Technology Sector?"
         }
     ]
 }
