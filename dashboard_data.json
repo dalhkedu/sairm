@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-14 17:29 UTC",
+        "last_updated": "2026-03-14 18:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.25,
-            "change": "+0.46%"
+            "change": "+1.86%"
         },
         {
             "symbol": "AMD",
             "price": 193.39,
-            "change": "+1.43%"
+            "change": "+3.29%"
         },
         {
             "symbol": "MSFT",
             "price": 395.55,
-            "change": "+2.69%"
+            "change": "-2.59%"
         },
         {
             "symbol": "CEG",
             "price": 301.77,
-            "change": "-1.32%"
+            "change": "-2.03%"
         },
         {
             "symbol": "VST",
             "price": 158.95,
-            "change": "+1.54%"
+            "change": "-2.22%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.54,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
             0.5,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.33,
-            24.77,
-            24.85,
-            24.44,
-            24.53,
-            24.96,
-            25.36,
-            25.56,
-            25.59,
-            25.72,
-            25.3,
-            25.47
+            25.01,
+            25.23,
+            25.25,
+            24.88,
+            24.8,
+            25.06,
+            24.58,
+            24.74,
+            24.36,
+            24.72,
+            25.16,
+            25.0
         ],
         "hsd_history_software": [
-            9.85,
-            9.95,
-            10.01,
-            10.06,
-            9.9,
-            9.73,
-            9.62,
-            9.5,
-            9.36,
-            9.52,
-            9.7,
-            9.86
+            9.05,
+            9.09,
+            9.13,
+            9.05,
+            9.2,
+            9.05,
+            9.2,
+            9.34,
+            9.53,
+            9.54,
+            9.74,
+            9.91
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "17:51",
+            "tag": "MERCADO",
+            "text": "ARTY Stock Fund Price and Chart \u2014 AMEX:ARTY"
+        },
+        {
             "time": "16:51",
             "tag": "AI",
             "text": "Could AIRO Group Holdings' Drone Focus and Vertical Integration Redefine Its Defense Narrative (AIRO)?"
@@ -144,11 +149,6 @@
             "time": "16:11",
             "tag": "AI",
             "text": "S&P Global Inc Stock (ISIN: US78409V1044) Gains on AI Enhancements and Strong Analyst Outlook"
-        },
-        {
-            "time": "16:07",
-            "tag": "MERCADO",
-            "text": "New to The Street Episode #737 Airs on Bloomberg Television Across the United States, Latin America, and MENA at 6:30 PM EST"
         }
     ]
 }
