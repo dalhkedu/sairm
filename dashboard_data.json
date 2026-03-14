@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-14 15:31 UTC",
+        "last_updated": "2026-03-14 16:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.25,
-            "change": "-3.45%"
+            "change": "+1.02%"
         },
         {
             "symbol": "AMD",
             "price": 193.39,
-            "change": "-1.82%"
+            "change": "+0.56%"
         },
         {
             "symbol": "MSFT",
             "price": 395.55,
-            "change": "-1.13%"
+            "change": "+0.1%"
         },
         {
             "symbol": "CEG",
             "price": 301.77,
-            "change": "-3.39%"
+            "change": "-1.41%"
         },
         {
             "symbol": "VST",
             "price": 158.95,
-            "change": "+1.03%"
+            "change": "+2.02%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.58,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.46,
+            0.45,
+            0.46,
+            0.46,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
             0.5,
-            0.49,
-            0.49,
-            0.49,
             0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.32,
-            24.29,
-            24.71,
-            24.67,
-            24.89,
-            25.32,
-            25.67,
-            26.04,
-            26.05,
-            26.09,
-            25.65,
-            25.15
+            23.72,
+            24.03,
+            24.12,
+            24.24,
+            24.2,
+            23.85,
+            24.15,
+            24.4,
+            24.54,
+            24.88,
+            24.43,
+            24.5
         ],
         "hsd_history_software": [
-            10.0,
-            10.11,
-            9.93,
+            9.74,
             9.75,
-            9.65,
-            9.51,
-            9.66,
-            9.78,
+            9.86,
             9.75,
-            9.88,
-            9.97,
-            10.03
+            9.73,
+            9.59,
+            9.57,
+            9.72,
+            9.86,
+            9.89,
+            9.73,
+            9.91
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "14:53",
+            "tag": "MERCADO",
+            "text": "Booking Holdings Genius Program: Loyalty Revolution in Online Travel"
+        },
+        {
+            "time": "14:50",
+            "tag": "RESULTADOS",
+            "text": "How Investors Are Reacting To Gartner (IT) AI Summit Spotlight Amid New Earnings Disclosure Investigation"
+        },
+        {
+            "time": "14:50",
+            "tag": "MERCADO",
+            "text": "Evercore ISI Remains a Buy on Alphabet Class A (GOOGL)"
+        },
+        {
+            "time": "14:50",
+            "tag": "MERCADO",
+            "text": "Jim Cramer Says \u201cI Do Want to Own Eaton\u201d"
+        },
+        {
             "time": "14:20",
             "tag": "AI",
             "text": "Health100: CVS Health's AI-Powered Platform Reshaping Patient Engagement in 2026"
-        },
-        {
-            "time": "14:01",
-            "tag": "MERCADO",
-            "text": "Musk says Tesla's 'gigantic' chip fab project to launch in seven days"
-        },
-        {
-            "time": "13:49",
-            "tag": "MERCADO",
-            "text": "Apple Reduces App Store Fees in China Amid Regulatory Talks"
-        },
-        {
-            "time": "13:15",
-            "tag": "MERCADO",
-            "text": "Leidos Holdings, Inc. (NYSE:LDOS) Declares $0.43 Quarterly Dividend"
-        },
-        {
-            "time": "13:01",
-            "tag": "MERCADO",
-            "text": "Salesforce (CRM) Maintains Outperform Rating Amid Growth Prospec"
         }
     ]
 }
