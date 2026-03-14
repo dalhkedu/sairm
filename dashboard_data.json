@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-14 05:49 UTC",
+        "last_updated": "2026-03-14 06:52 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.25,
-            "change": "+2.02%"
+            "change": "-2.02%"
         },
         {
             "symbol": "AMD",
             "price": 193.39,
-            "change": "-3.1%"
+            "change": "-0.4%"
         },
         {
             "symbol": "MSFT",
             "price": 395.55,
-            "change": "+0.29%"
+            "change": "-0.73%"
         },
         {
             "symbol": "CEG",
             "price": 301.77,
-            "change": "-1.4%"
+            "change": "+0.66%"
         },
         {
             "symbol": "VST",
             "price": 158.95,
-            "change": "+0.39%"
+            "change": "-1.74%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.69,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.52,
-            0.51,
-            0.51,
+            0.45,
+            0.45,
+            0.46,
+            0.46,
+            0.46,
+            0.47,
+            0.48,
+            0.48,
+            0.49,
             0.5,
             0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            24.83,
-            24.83,
-            24.43,
-            24.85,
-            24.59,
-            24.76,
-            25.26,
-            25.18,
-            25.25,
-            25.59,
-            25.23,
-            25.48
+            24.33,
+            24.19,
+            24.33,
+            24.8,
+            24.5,
+            24.61,
+            24.82,
+            25.22,
+            24.84,
+            24.68,
+            25.12,
+            24.78
         ],
         "hsd_history_software": [
-            10.13,
-            10.2,
-            10.07,
-            10.08,
-            10.26,
-            10.33,
-            10.33,
-            10.26,
-            10.15,
-            9.97,
-            10.01,
-            9.97
+            9.56,
+            9.47,
+            9.33,
+            9.39,
+            9.46,
+            9.65,
+            9.68,
+            9.8,
+            9.67,
+            9.84,
+            9.95,
+            10.02
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "05:52",
+            "tag": "MERCADO",
+            "text": "MMYT SEC Filings - Makemytrip Limited Mauritius 10-K, 10-Q, 8-K Forms"
+        },
+        {
+            "time": "05:45",
+            "tag": "MERCADO",
+            "text": "Qualcomm SVP Grech sells $77,563 in QCOM stock"
+        },
+        {
+            "time": "05:15",
+            "tag": "MERCADO",
+            "text": "Equinix (EQIX) Valuation In Focus As New CFO Olivier Leonetti Prepares To Succeed Keith Taylor"
+        },
+        {
             "time": "04:52",
             "tag": "RESULTADOS",
             "text": "Lumentum Holdings (LITE) Sees Strong Analyst Optimism Following Earnings & NVIDIA Deal"
@@ -134,21 +149,6 @@
             "time": "04:49",
             "tag": "MERCADO",
             "text": "Unlocking Better Construction Outcomes with Data"
-        },
-        {
-            "time": "04:43",
-            "tag": "MERCADO",
-            "text": "Does KLA (KLAC) Pairing Bigger Buybacks With a Dividend Hike Reveal Its True Capital Priorities?"
-        },
-        {
-            "time": "04:38",
-            "tag": "MERCADO",
-            "text": "Salesforce, Inc. Completes $22.5 Billion Senior Notes Offering with New Indenture and Supplemental Terms (March 2026)"
-        },
-        {
-            "time": "04:07",
-            "tag": "MERCADO",
-            "text": "Verizon News On Vestberg Move Frontier Deal And Fiber Focus"
         }
     ]
 }
