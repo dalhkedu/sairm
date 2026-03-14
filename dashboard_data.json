@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-14 16:36 UTC",
+        "last_updated": "2026-03-14 17:29 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.25,
-            "change": "+1.02%"
+            "change": "+0.46%"
         },
         {
             "symbol": "AMD",
             "price": 193.39,
-            "change": "+0.56%"
+            "change": "+1.43%"
         },
         {
             "symbol": "MSFT",
             "price": 395.55,
-            "change": "+0.1%"
+            "change": "+2.69%"
         },
         {
             "symbol": "CEG",
             "price": 301.77,
-            "change": "-1.41%"
+            "change": "-1.32%"
         },
         {
             "symbol": "VST",
             "price": 158.95,
-            "change": "+2.02%"
+            "change": "+1.54%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.5,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.45,
-            0.46,
-            0.46,
-            0.47,
-            0.47,
-            0.48,
-            0.49,
             0.5,
-            0.5,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            23.72,
-            24.03,
-            24.12,
-            24.24,
-            24.2,
-            23.85,
-            24.15,
-            24.4,
-            24.54,
-            24.88,
-            24.43,
-            24.5
+            24.33,
+            24.77,
+            24.85,
+            24.44,
+            24.53,
+            24.96,
+            25.36,
+            25.56,
+            25.59,
+            25.72,
+            25.3,
+            25.47
         ],
         "hsd_history_software": [
-            9.74,
-            9.75,
-            9.86,
-            9.75,
+            9.85,
+            9.95,
+            10.01,
+            10.06,
+            9.9,
             9.73,
-            9.59,
-            9.57,
-            9.72,
-            9.86,
-            9.89,
-            9.73,
-            9.91
+            9.62,
+            9.5,
+            9.36,
+            9.52,
+            9.7,
+            9.86
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:53",
-            "tag": "MERCADO",
-            "text": "Booking Holdings Genius Program: Loyalty Revolution in Online Travel"
-        },
-        {
-            "time": "14:50",
-            "tag": "RESULTADOS",
-            "text": "How Investors Are Reacting To Gartner (IT) AI Summit Spotlight Amid New Earnings Disclosure Investigation"
-        },
-        {
-            "time": "14:50",
-            "tag": "MERCADO",
-            "text": "Evercore ISI Remains a Buy on Alphabet Class A (GOOGL)"
-        },
-        {
-            "time": "14:50",
-            "tag": "MERCADO",
-            "text": "Jim Cramer Says \u201cI Do Want to Own Eaton\u201d"
-        },
-        {
-            "time": "14:20",
+            "time": "16:51",
             "tag": "AI",
-            "text": "Health100: CVS Health's AI-Powered Platform Reshaping Patient Engagement in 2026"
+            "text": "Could AIRO Group Holdings' Drone Focus and Vertical Integration Redefine Its Defense Narrative (AIRO)?"
+        },
+        {
+            "time": "16:50",
+            "tag": "MERCADO",
+            "text": "QUALCOMM Incorporated Stock (ISIN: US7475251036) Under Pressure from Insider Sales and Bearish Forecasts"
+        },
+        {
+            "time": "16:31",
+            "tag": "MERCADO",
+            "text": "AT&T Inc Stock (ISIN: US0019571090) Unveils $250 Billion Infrastructure Push Amid Tariff Wars"
+        },
+        {
+            "time": "16:11",
+            "tag": "AI",
+            "text": "S&P Global Inc Stock (ISIN: US78409V1044) Gains on AI Enhancements and Strong Analyst Outlook"
+        },
+        {
+            "time": "16:07",
+            "tag": "MERCADO",
+            "text": "New to The Street Episode #737 Airs on Bloomberg Television Across the United States, Latin America, and MENA at 6:30 PM EST"
         }
     ]
 }
