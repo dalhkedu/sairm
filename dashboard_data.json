@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-15 02:43 UTC",
+        "last_updated": "2026-03-15 05:08 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.25,
-            "change": "-2.67%"
+            "change": "-0.67%"
         },
         {
             "symbol": "AMD",
             "price": 193.39,
-            "change": "+3.39%"
+            "change": "-1.2%"
         },
         {
             "symbol": "MSFT",
             "price": 395.55,
-            "change": "+1.54%"
+            "change": "-1.45%"
         },
         {
             "symbol": "CEG",
             "price": 301.77,
-            "change": "+1.01%"
+            "change": "-1.56%"
         },
         {
             "symbol": "VST",
             "price": 158.95,
-            "change": "+2.14%"
+            "change": "+1.96%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.67,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.49,
             0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.49,
+            0.49,
             0.49,
             0.5,
-            0.5,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            23.52,
-            23.73,
-            23.5,
-            23.7,
-            23.97,
-            24.0,
-            23.9,
-            24.07,
-            24.45,
-            24.82,
-            25.21,
-            25.13
+            26.83,
+            26.55,
+            26.08,
+            26.14,
+            26.19,
+            26.04,
+            26.1,
+            25.9,
+            25.65,
+            25.27,
+            25.33,
+            25.43
         ],
         "hsd_history_software": [
-            10.08,
-            10.13,
+            9.91,
+            9.92,
+            10.01,
+            9.99,
             9.94,
-            10.07,
+            9.9,
+            9.75,
+            9.76,
+            9.93,
             10.04,
-            10.22,
-            10.06,
-            10.14,
-            10.07,
-            10.03,
-            10.2,
-            10.17
+            10.04,
+            9.85
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:02",
+            "time": "03:50",
             "tag": "MERCADO",
-            "text": "Equinix, Inc. (NASDAQ:EQIX) Sees Large Drop in Short Interest"
+            "text": "Jabil Inc Stock (ISIN: US4663131039) Faces Uncertainty Amid Tech Supply Chain Shifts"
         },
         {
-            "time": "00:53",
-            "tag": "AI",
-            "text": "Is ServiceNow's (NOW) AI 'Control Tower' Strategy Deepening Its Cross\u2011Industry Moat?"
-        },
-        {
-            "time": "23:52",
+            "time": "03:38",
             "tag": "MERCADO",
-            "text": "SATL SEC Filings - Satellogic Inc 10-K, 10-Q, 8-K Forms"
+            "text": "Equifax Inc. Stock (ISIN: US2944291051) Holds Ground as Data-Driven Recovery Takes Shape"
         },
         {
-            "time": "22:35",
+            "time": "02:59",
             "tag": "MERCADO",
-            "text": "Intel Corp. Stock (ISIN: US4581401001) Gains Momentum Amid Shareholder Lawsuit and Product Launches"
+            "text": "Caesars Palace Online Casino debuts first proprietary slot Ca$hline"
         },
         {
-            "time": "22:21",
-            "tag": "AI",
-            "text": "Cisco Systems, Inc. Stock (ISIN: US17275R1023) Hits $78 Amid AI Boom and Analyst Optimism"
+            "time": "02:50",
+            "tag": "MERCADO",
+            "text": "Is Teledyne Technologies (TDY) Getting Pricey After Strong 12-Month Share Gain"
+        },
+        {
+            "time": "01:49",
+            "tag": "MERCADO",
+            "text": "Formula 1 and Salesforce, Inc. (CRM) announce deepened partnership"
         }
     ]
 }
