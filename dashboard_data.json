@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-15 09:38 UTC",
+        "last_updated": "2026-03-15 10:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.25,
-            "change": "+0.62%"
+            "change": "-1.74%"
         },
         {
             "symbol": "AMD",
             "price": 193.39,
-            "change": "-2.18%"
+            "change": "-1.66%"
         },
         {
             "symbol": "MSFT",
             "price": 395.55,
-            "change": "-0.86%"
+            "change": "-1.71%"
         },
         {
             "symbol": "CEG",
             "price": 301.77,
-            "change": "-0.34%"
+            "change": "-0.38%"
         },
         {
             "symbol": "VST",
             "price": 158.95,
-            "change": "-1.15%"
+            "change": "+0.79%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.69,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.53,
-            0.52,
-            0.51,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.5,
+            0.49,
             0.5,
             0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            27.26,
-            27.24,
-            27.26,
-            27.14,
-            27.1,
-            27.04,
-            26.81,
-            26.62,
-            26.31,
-            25.89,
-            25.74,
-            25.38
+            25.06,
+            24.87,
+            24.54,
+            24.43,
+            24.35,
+            24.4,
+            24.82,
+            24.83,
+            25.13,
+            25.03,
+            25.25,
+            25.41
         ],
         "hsd_history_software": [
-            10.0,
-            9.81,
-            9.76,
-            9.57,
-            9.65,
-            9.69,
-            9.66,
-            9.81,
-            9.89,
-            10.08,
-            10.0,
-            9.91
+            10.78,
+            10.6,
+            10.47,
+            10.54,
+            10.53,
+            10.47,
+            10.41,
+            10.41,
+            10.59,
+            10.5,
+            10.31,
+            10.17
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:48",
+            "time": "09:48",
             "tag": "MERCADO",
-            "text": "Atreides Management LP Invests $87.60 Million in Intel Corporation $INTC"
+            "text": "CoStar Group, Inc. $CSGP Shares Sold by Caden Capital Partners LP"
         },
         {
-            "time": "08:38",
+            "time": "09:47",
             "tag": "MERCADO",
-            "text": "Azora Capital LP Sells 3,329,834 Shares of Payoneer Global Inc. $PAYO"
+            "text": "Clearline Capital LP Takes $21.90 Million Position in Fidelity National Information Services, Inc. $FIS"
         },
         {
-            "time": "08:38",
+            "time": "09:46",
             "tag": "MERCADO",
-            "text": "Intuit Inc. $INTU Shares Acquired by Azimuth Capital Investment Management LLC"
+            "text": "Clearline Capital LP Sells 45,000 Shares of PayPal Holdings, Inc. $PYPL"
         },
         {
-            "time": "08:38",
+            "time": "09:46",
             "tag": "MERCADO",
-            "text": "Bamco Inc. NY Cuts Stock Holdings in CoStar Group, Inc. $CSGP"
+            "text": "Clearline Capital LP Purchases 9,000 Shares of Advanced Micro Devices, Inc. $AMD"
         },
         {
-            "time": "08:34",
+            "time": "09:46",
             "tag": "MERCADO",
-            "text": "Aquatic Capital Management LLC Takes Position in Microsoft Corporation $MSFT"
+            "text": "Bridgefront Capital LLC Increases Holdings in Lam Research Corporation $LRCX"
         }
     ]
 }
