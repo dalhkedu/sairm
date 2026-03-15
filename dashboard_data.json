@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-15 15:32 UTC",
+        "last_updated": "2026-03-15 16:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.25,
-            "change": "-1.25%"
+            "change": "+0.3%"
         },
         {
             "symbol": "AMD",
             "price": 193.39,
-            "change": "-0.53%"
+            "change": "-1.26%"
         },
         {
             "symbol": "MSFT",
             "price": 395.55,
-            "change": "+2.6%"
+            "change": "-0.3%"
         },
         {
             "symbol": "CEG",
-            "price": 301.77,
-            "change": "+1.0%"
+            "price": NaN,
+            "change": "+0.85%"
         },
         {
             "symbol": "VST",
             "price": 158.95,
-            "change": "+0.55%"
+            "change": "-1.95%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.54,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.53,
+            0.52,
+            0.53,
+            0.52,
             0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
             0.51,
             0.5,
-            0.49,
+            0.5,
+            0.5,
+            0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.29,
+            23.99,
+            23.64,
+            23.42,
+            23.72,
+            23.71,
+            23.78,
+            24.14,
+            24.53,
+            24.76,
+            25.07,
             24.59,
-            24.13,
-            24.27,
-            24.56,
-            24.23,
-            24.44,
-            24.86,
-            24.52,
-            24.7,
-            24.75,
-            24.52
+            24.53
         ],
         "hsd_history_software": [
-            10.56,
-            10.56,
-            10.46,
-            10.43,
-            10.23,
+            10.25,
+            10.26,
+            10.32,
             10.14,
-            10.02,
-            10.04,
-            10.15,
-            10.0,
-            9.99,
-            10.12
+            10.1,
+            10.09,
+            10.1,
+            10.16,
+            10.33,
+            10.17,
+            10.37,
+            10.19
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "15:51",
+            "tag": "RESULTADOS",
+            "text": "SolarEdge (SEDG) Nears 52-Week High on Strong Earnings, AI Technology Deal"
+        },
+        {
+            "time": "15:00",
+            "tag": "MERCADO",
+            "text": "PTC Inc Stock (ISIN: US69344D1081) Holds Steady Amid Software Sector Volatility"
+        },
+        {
+            "time": "15:00",
+            "tag": "MERCADO",
+            "text": "Expedia Group Inc Stock (ISIN: US3024913036) Faces Headwinds Amid Event-Driven Optimism"
+        },
+        {
             "time": "14:50",
             "tag": "MERCADO",
             "text": "Netflix Stock Closes at $95.31 on March 13 Amid Volatile March Trading"
@@ -134,21 +149,6 @@
             "time": "14:44",
             "tag": "MERCADO",
             "text": "Short Interest in Intuit Inc. (NASDAQ:INTU) Decreases By 19.5%"
-        },
-        {
-            "time": "14:42",
-            "tag": "MERCADO",
-            "text": "Disney agrees to $50M class action settlement over streaming TV price claims"
-        },
-        {
-            "time": "14:35",
-            "tag": "MERCADO",
-            "text": "PTC Inc Stock (ISIN: US7033431039) Faces Pressure Amid Mixed Software Demand Signals"
-        },
-        {
-            "time": "13:55",
-            "tag": "MERCADO",
-            "text": "PayPal Holdings, Inc. (NASDAQ:PYPL) Short Interest Down 19.2% in February"
         }
     ]
 }
