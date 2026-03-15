@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-15 17:31 UTC",
+        "last_updated": "2026-03-15 18:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.25,
-            "change": "-2.67%"
+            "change": "+0.9%"
         },
         {
             "symbol": "AMD",
             "price": 193.39,
-            "change": "+3.26%"
+            "change": "-1.69%"
         },
         {
             "symbol": "MSFT",
             "price": 395.55,
-            "change": "+3.17%"
+            "change": "+2.11%"
         },
         {
             "symbol": "CEG",
             "price": 301.77,
-            "change": "+2.08%"
+            "change": "-0.95%"
         },
         {
             "symbol": "VST",
             "price": 158.95,
-            "change": "+3.48%"
+            "change": "+0.29%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.64,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.49,
-            0.48,
             0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.71,
-            24.39,
-            23.96,
-            23.84,
-            23.73,
-            23.54,
-            23.4,
-            23.64,
-            23.4,
-            23.72,
-            24.1,
-            24.52
+            25.33,
+            25.42,
+            25.03,
+            25.36,
+            25.83,
+            25.81,
+            26.25,
+            25.79,
+            26.18,
+            25.84,
+            25.64,
+            25.32
         ],
         "hsd_history_software": [
-            9.78,
-            9.82,
-            9.77,
-            9.91,
             9.8,
-            9.77,
-            9.7,
-            9.51,
-            9.66,
-            9.77,
+            9.67,
+            9.73,
+            9.72,
+            9.79,
+            9.75,
+            9.76,
             9.95,
-            10.0
+            9.9,
+            10.05,
+            10.12,
+            10.08
         ],
         "rci_data": [
             85.0,
@@ -126,9 +126,19 @@
     ],
     "news_feed": [
         {
+            "time": "17:32",
+            "tag": "MERCADO",
+            "text": "Citigroup Stock (C) Opinions on Dubai Office Measures Amid Regional Tensions"
+        },
+        {
             "time": "16:02",
             "tag": "MERCADO",
             "text": "Gartner Inc. Stock (ISIN: US3666511072) Faces Pressure Amid IT Spending Slowdown Concerns"
+        },
+        {
+            "time": "15:52",
+            "tag": "MERCADO",
+            "text": "Total equity of Sphere 3D Corp. \u2013 LSX:A420P2"
         },
         {
             "time": "15:51",
@@ -139,16 +149,6 @@
             "time": "15:00",
             "tag": "MERCADO",
             "text": "PTC Inc Stock (ISIN: US69344D1081) Holds Steady Amid Software Sector Volatility"
-        },
-        {
-            "time": "15:00",
-            "tag": "MERCADO",
-            "text": "Expedia Group Inc Stock (ISIN: US3024913036) Faces Headwinds Amid Event-Driven Optimism"
-        },
-        {
-            "time": "14:50",
-            "tag": "MERCADO",
-            "text": "Netflix Stock Closes at $95.31 on March 13 Amid Volatile March Trading"
         }
     ]
 }
