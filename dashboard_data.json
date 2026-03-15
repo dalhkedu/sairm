@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-15 07:02 UTC",
+        "last_updated": "2026-03-15 08:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.25,
-            "change": "-0.13%"
+            "change": "-3.33%"
         },
         {
             "symbol": "AMD",
             "price": 193.39,
-            "change": "-1.59%"
+            "change": "-2.03%"
         },
         {
             "symbol": "MSFT",
             "price": 395.55,
-            "change": "+2.71%"
+            "change": "-2.55%"
         },
         {
             "symbol": "CEG",
             "price": 301.77,
-            "change": "+0.5%"
+            "change": "+1.14%"
         },
         {
             "symbol": "VST",
             "price": 158.95,
-            "change": "-3.02%"
+            "change": "+3.34%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.48,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.53,
-            0.53,
-            0.52,
-            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            25.03,
-            24.72,
-            24.77,
+            24.3,
+            24.24,
+            24.23,
+            24.13,
+            24.11,
+            24.39,
+            24.21,
+            24.5,
             24.97,
-            25.44,
             25.09,
-            24.68,
-            25.05,
-            25.19,
-            25.06,
-            24.69,
-            25.08
+            25.42,
+            25.26
         ],
         "hsd_history_software": [
-            10.48,
-            10.38,
-            10.22,
-            10.03,
-            10.23,
-            10.16,
-            10.08,
-            10.26,
-            10.21,
-            10.11,
-            10.18,
-            10.01
+            9.54,
+            9.43,
+            9.6,
+            9.62,
+            9.81,
+            9.76,
+            9.74,
+            9.93,
+            10.06,
+            9.94,
+            9.76,
+            9.83
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:31",
+            "time": "07:50",
             "tag": "MERCADO",
-            "text": "Best Buy Co Inc Stock (ISIN: US0865161014) Faces Headwinds Amid Shifting Consumer Electronics Demand"
+            "text": "Lam Research Corporation $LRCX Shares Sold by Ameriprise Financial Inc."
         },
         {
-            "time": "05:13",
-            "tag": "MERCADO",
-            "text": "Qualcomm Inc Stock (ISIN: US7475251036) Falls to $130 as Memory Crisis Caps Growth\u2014What Investors Should Know"
-        },
-        {
-            "time": "05:13",
-            "tag": "MERCADO",
-            "text": "Microchip Technology (NASDAQ:MCHP) Upgraded by Wall Street Zen to \"Buy\" Rating"
-        },
-        {
-            "time": "04:51",
+            "time": "07:46",
             "tag": "AI",
-            "text": "A Look At Littelfuse (LFUS) Valuation After Baird Outperform Call And AI Defense Growth Story"
+            "text": "Anthony Scaramucci Says Bank Of New York CEO Sees AI Agents As Employees, Not Just Tools"
         },
         {
-            "time": "03:50",
+            "time": "07:46",
+            "tag": "AI",
+            "text": "Strong Wall Street sentiment on Broadcom (AVGO) amid $100+ billion AI chip sales forecast"
+        },
+        {
+            "time": "07:45",
             "tag": "MERCADO",
-            "text": "Jabil Inc Stock (ISIN: US4663131039) Faces Uncertainty Amid Tech Supply Chain Shifts"
+            "text": "Ameriprise Financial Inc. Sells 245,712 Shares of Meta Platforms, Inc. $META"
+        },
+        {
+            "time": "07:40",
+            "tag": "MERCADO",
+            "text": "Intel Corporation Stock (ISIN: US4581401001) Faces Mixed Signals Amid Foundry Challenges and Institu"
         }
     ]
 }
