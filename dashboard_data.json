@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-15 14:34 UTC",
+        "last_updated": "2026-03-15 15:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.25,
-            "change": "-2.38%"
+            "change": "-1.25%"
         },
         {
             "symbol": "AMD",
             "price": 193.39,
-            "change": "-2.2%"
+            "change": "-0.53%"
         },
         {
             "symbol": "MSFT",
             "price": 395.55,
-            "change": "-0.47%"
+            "change": "+2.6%"
         },
         {
             "symbol": "CEG",
             "price": 301.77,
-            "change": "+0.49%"
+            "change": "+1.0%"
         },
         {
             "symbol": "VST",
             "price": 158.95,
-            "change": "+2.41%"
+            "change": "+0.55%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.69,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.51,
+            0.5,
             0.49,
             0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            26.36,
-            26.21,
-            25.74,
-            25.37,
-            25.47,
-            25.07,
-            25.25,
-            25.21,
-            25.31,
-            25.64,
-            25.28,
-            25.21
+            24.29,
+            24.59,
+            24.13,
+            24.27,
+            24.56,
+            24.23,
+            24.44,
+            24.86,
+            24.52,
+            24.7,
+            24.75,
+            24.52
         ],
         "hsd_history_software": [
-            10.45,
-            10.39,
-            10.52,
-            10.36,
-            10.37,
-            10.21,
-            10.08,
-            9.96,
-            9.85,
-            10.01,
-            10.18,
-            9.98
+            10.56,
+            10.56,
+            10.46,
+            10.43,
+            10.23,
+            10.14,
+            10.02,
+            10.04,
+            10.15,
+            10.0,
+            9.99,
+            10.12
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:32",
+            "time": "14:50",
             "tag": "MERCADO",
-            "text": "TELUS Corp Stock (ISIN: US89531P1057) Faces Headwinds Amid Canadian Telecom Slowdown"
+            "text": "Netflix Stock Closes at $95.31 on March 13 Amid Volatile March Trading"
         },
         {
-            "time": "13:26",
-            "tag": "AI",
-            "text": "Can ServiceNow Actually Beat AI? Its CEO Says Yes."
+            "time": "14:44",
+            "tag": "MERCADO",
+            "text": "Short Interest in Intuit Inc. (NASDAQ:INTU) Decreases By 19.5%"
         },
         {
-            "time": "12:52",
+            "time": "14:42",
             "tag": "MERCADO",
-            "text": "EFG Asset Management Americas Corp. Buys 1,578 Shares of Taiwan Semiconductor Manufacturing Company Ltd. $TSM"
+            "text": "Disney agrees to $50M class action settlement over streaming TV price claims"
         },
         {
-            "time": "12:50",
+            "time": "14:35",
             "tag": "MERCADO",
-            "text": "EFG Asset Management Americas Corp. Takes $3.61 Million Position in Quanta Services, Inc. $PWR"
+            "text": "PTC Inc Stock (ISIN: US7033431039) Faces Pressure Amid Mixed Software Demand Signals"
         },
         {
-            "time": "12:50",
+            "time": "13:55",
             "tag": "MERCADO",
-            "text": "Battle Royale: GE Vernova vs. First Solar. Only One Can Make You Rich."
+            "text": "PayPal Holdings, Inc. (NASDAQ:PYPL) Short Interest Down 19.2% in February"
         }
     ]
 }
