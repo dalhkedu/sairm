@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-15 05:08 UTC",
+        "last_updated": "2026-03-15 07:02 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.25,
-            "change": "-0.67%"
+            "change": "-0.13%"
         },
         {
             "symbol": "AMD",
             "price": 193.39,
-            "change": "-1.2%"
+            "change": "-1.59%"
         },
         {
             "symbol": "MSFT",
             "price": 395.55,
-            "change": "-1.45%"
+            "change": "+2.71%"
         },
         {
             "symbol": "CEG",
             "price": 301.77,
-            "change": "-1.56%"
+            "change": "+0.5%"
         },
         {
             "symbol": "VST",
             "price": 158.95,
-            "change": "+1.96%"
+            "change": "-3.02%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.45,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.51
+            0.51,
+            0.51,
+            0.52,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.53,
+            0.53,
+            0.52,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.83,
-            26.55,
-            26.08,
-            26.14,
-            26.19,
-            26.04,
-            26.1,
-            25.9,
-            25.65,
-            25.27,
-            25.33,
-            25.43
+            25.03,
+            24.72,
+            24.77,
+            24.97,
+            25.44,
+            25.09,
+            24.68,
+            25.05,
+            25.19,
+            25.06,
+            24.69,
+            25.08
         ],
         "hsd_history_software": [
-            9.91,
-            9.92,
-            10.01,
-            9.99,
-            9.94,
-            9.9,
-            9.75,
-            9.76,
-            9.93,
-            10.04,
-            10.04,
-            9.85
+            10.48,
+            10.38,
+            10.22,
+            10.03,
+            10.23,
+            10.16,
+            10.08,
+            10.26,
+            10.21,
+            10.11,
+            10.18,
+            10.01
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "05:31",
+            "tag": "MERCADO",
+            "text": "Best Buy Co Inc Stock (ISIN: US0865161014) Faces Headwinds Amid Shifting Consumer Electronics Demand"
+        },
+        {
+            "time": "05:13",
+            "tag": "MERCADO",
+            "text": "Qualcomm Inc Stock (ISIN: US7475251036) Falls to $130 as Memory Crisis Caps Growth\u2014What Investors Should Know"
+        },
+        {
+            "time": "05:13",
+            "tag": "MERCADO",
+            "text": "Microchip Technology (NASDAQ:MCHP) Upgraded by Wall Street Zen to \"Buy\" Rating"
+        },
+        {
+            "time": "04:51",
+            "tag": "AI",
+            "text": "A Look At Littelfuse (LFUS) Valuation After Baird Outperform Call And AI Defense Growth Story"
+        },
+        {
             "time": "03:50",
             "tag": "MERCADO",
             "text": "Jabil Inc Stock (ISIN: US4663131039) Faces Uncertainty Amid Tech Supply Chain Shifts"
-        },
-        {
-            "time": "03:38",
-            "tag": "MERCADO",
-            "text": "Equifax Inc. Stock (ISIN: US2944291051) Holds Ground as Data-Driven Recovery Takes Shape"
-        },
-        {
-            "time": "02:59",
-            "tag": "MERCADO",
-            "text": "Caesars Palace Online Casino debuts first proprietary slot Ca$hline"
-        },
-        {
-            "time": "02:50",
-            "tag": "MERCADO",
-            "text": "Is Teledyne Technologies (TDY) Getting Pricey After Strong 12-Month Share Gain"
-        },
-        {
-            "time": "01:49",
-            "tag": "MERCADO",
-            "text": "Formula 1 and Salesforce, Inc. (CRM) announce deepened partnership"
         }
     ]
 }
