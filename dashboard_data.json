@@ -1,80 +1,80 @@
 {
     "metadata": {
-        "last_updated": "2026-03-14 23:31 UTC",
+        "last_updated": "2026-03-15 02:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.25,
-            "change": "+1.46%"
+            "change": "-2.67%"
         },
         {
             "symbol": "AMD",
             "price": 193.39,
-            "change": "-0.85%"
+            "change": "+3.39%"
         },
         {
             "symbol": "MSFT",
             "price": 395.55,
-            "change": "-0.37%"
+            "change": "+1.54%"
         },
         {
             "symbol": "CEG",
             "price": 301.77,
-            "change": "-2.11%"
+            "change": "+1.01%"
         },
         {
             "symbol": "VST",
             "price": 158.95,
-            "change": "+0.5%"
+            "change": "+2.14%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.52,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.47,
-            0.48,
-            0.48,
             0.49,
             0.49,
             0.5,
             0.5,
             0.5,
-            0.51,
-            0.51,
-            0.51
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.41,
-            24.69,
-            24.5,
-            24.08,
-            24.24,
-            24.53,
-            24.66,
-            24.18,
-            24.58,
-            25.01,
-            25.07,
-            24.62
+            23.52,
+            23.73,
+            23.5,
+            23.7,
+            23.97,
+            24.0,
+            23.9,
+            24.07,
+            24.45,
+            24.82,
+            25.21,
+            25.13
         ],
         "hsd_history_software": [
-            10.16,
-            10.24,
-            10.32,
-            10.38,
-            10.49,
-            10.48,
-            10.38,
-            10.21,
-            10.31,
-            10.32,
-            10.16,
+            10.08,
+            10.13,
+            9.94,
+            10.07,
+            10.04,
+            10.22,
+            10.06,
+            10.14,
+            10.07,
+            10.03,
+            10.2,
             10.17
         ],
         "rci_data": [
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "01:02",
+            "tag": "MERCADO",
+            "text": "Equinix, Inc. (NASDAQ:EQIX) Sees Large Drop in Short Interest"
+        },
+        {
+            "time": "00:53",
+            "tag": "AI",
+            "text": "Is ServiceNow's (NOW) AI 'Control Tower' Strategy Deepening Its Cross\u2011Industry Moat?"
+        },
+        {
+            "time": "23:52",
+            "tag": "MERCADO",
+            "text": "SATL SEC Filings - Satellogic Inc 10-K, 10-Q, 8-K Forms"
+        },
+        {
             "time": "22:35",
             "tag": "MERCADO",
             "text": "Intel Corp. Stock (ISIN: US4581401001) Gains Momentum Amid Shareholder Lawsuit and Product Launches"
@@ -134,21 +149,6 @@
             "time": "22:21",
             "tag": "AI",
             "text": "Cisco Systems, Inc. Stock (ISIN: US17275R1023) Hits $78 Amid AI Boom and Analyst Optimism"
-        },
-        {
-            "time": "21:50",
-            "tag": "MERCADO",
-            "text": "Global Payments IRS Win Puts Tax Season Flows In Investor Focus"
-        },
-        {
-            "time": "21:42",
-            "tag": "MERCADO",
-            "text": "Dodge & Cox Boosts Fortive Stake by 28% as Industrial Tech Giant Targets $3B EPS"
-        },
-        {
-            "time": "21:38",
-            "tag": "MERCADO",
-            "text": "Amazon Completes Massive Multi-Tranche Corporate Debt Offering"
         }
     ]
 }
