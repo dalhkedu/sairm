@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-15 20:34 UTC",
+        "last_updated": "2026-03-15 21:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.25,
-            "change": "+2.96%"
+            "change": "-0.33%"
         },
         {
             "symbol": "AMD",
             "price": 193.39,
-            "change": "-1.28%"
+            "change": "+2.94%"
         },
         {
             "symbol": "MSFT",
             "price": 395.55,
-            "change": "-0.51%"
+            "change": "-2.51%"
         },
         {
             "symbol": "CEG",
             "price": 301.77,
-            "change": "+2.2%"
+            "change": "-0.88%"
         },
         {
             "symbol": "VST",
             "price": 158.95,
-            "change": "-2.23%"
+            "change": "+1.89%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.6,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
             0.52,
             0.52,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.12,
-            25.5,
-            25.09,
-            24.62,
-            24.75,
-            24.69,
+            24.08,
+            24.03,
+            23.79,
+            23.91,
+            24.26,
             24.28,
-            24.32,
-            24.65,
-            24.95,
-            24.78,
-            25.26
+            23.84,
+            24.2,
+            24.63,
+            25.11,
+            24.91,
+            24.62
         ],
         "hsd_history_software": [
-            10.16,
-            10.31,
-            10.22,
-            10.23,
-            10.09,
-            9.91,
-            9.74,
-            9.69,
-            9.69,
-            9.88,
+            9.83,
+            9.95,
+            9.79,
+            9.7,
+            9.8,
+            9.8,
+            10.0,
+            9.85,
+            9.95,
             9.93,
-            9.91
+            10.12,
+            10.06
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "20:52",
+            "tag": "MERCADO",
+            "text": "Morgan Stanley Cuts PT on Choice Hotels International (CHH) to $83 From $91 \u2013 Here\u2019s Why"
+        },
+        {
+            "time": "20:51",
+            "tag": "MERCADO",
+            "text": "Should Fareway\u2019s Storefront Pro Deal Shape How Investors View Instacart\u2019s (CART) Enterprise Tech Strategy?"
+        },
+        {
+            "time": "20:24",
+            "tag": "MERCADO",
+            "text": "Public Storage Wells Data Partnership Refines Capital Allocation And Operations"
+        },
+        {
+            "time": "19:56",
+            "tag": "AI",
+            "text": "Quanta Services Stock Hits Record Highs Amid AI Infrastructure Boom and Raised Analyst Targets"
+        },
+        {
             "time": "19:51",
             "tag": "MERCADO",
             "text": "Snowflake Investors Seek Lead Plaintiff in Class Action Lawsuit"
-        },
-        {
-            "time": "19:16",
-            "tag": "AI",
-            "text": "Barclays Raises Willis Towers Watson Public (WTW) PT Amid Industry AI Pressure, Upgrade to Equal Weight"
-        },
-        {
-            "time": "18:56",
-            "tag": "MERCADO",
-            "text": "The Home Depot, Inc. (HD) Launches Real-Time Delivery Tracker for Pro Customers"
-        },
-        {
-            "time": "18:51",
-            "tag": "MERCADO",
-            "text": "Morgan Stanley Notes Mixed Industry Dynamics but Optimistic The Travelers Companies, Inc. (TRV) Prospects"
-        },
-        {
-            "time": "18:49",
-            "tag": "MERCADO",
-            "text": "Why Amazon.com (AMZN) is One of the Most Profitable Blue Chip Stocks to Invest In Now"
         }
     ]
 }
