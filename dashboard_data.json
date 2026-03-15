@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-15 08:40 UTC",
+        "last_updated": "2026-03-15 09:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.25,
-            "change": "-3.33%"
+            "change": "+0.62%"
         },
         {
             "symbol": "AMD",
             "price": 193.39,
-            "change": "-2.03%"
+            "change": "-2.18%"
         },
         {
             "symbol": "MSFT",
             "price": 395.55,
-            "change": "-2.55%"
+            "change": "-0.86%"
         },
         {
             "symbol": "CEG",
             "price": 301.77,
-            "change": "+1.14%"
+            "change": "-0.34%"
         },
         {
             "symbol": "VST",
             "price": 158.95,
-            "change": "+3.34%"
+            "change": "-1.15%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.54,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.53,
+            0.52,
+            0.51,
             0.5,
             0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            24.3,
-            24.24,
-            24.23,
-            24.13,
-            24.11,
-            24.39,
-            24.21,
-            24.5,
-            24.97,
-            25.09,
-            25.42,
-            25.26
+            27.26,
+            27.24,
+            27.26,
+            27.14,
+            27.1,
+            27.04,
+            26.81,
+            26.62,
+            26.31,
+            25.89,
+            25.74,
+            25.38
         ],
         "hsd_history_software": [
-            9.54,
-            9.43,
-            9.6,
-            9.62,
+            10.0,
             9.81,
             9.76,
-            9.74,
-            9.93,
-            10.06,
-            9.94,
-            9.76,
-            9.83
+            9.57,
+            9.65,
+            9.69,
+            9.66,
+            9.81,
+            9.89,
+            10.08,
+            10.0,
+            9.91
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:50",
+            "time": "08:48",
             "tag": "MERCADO",
-            "text": "Lam Research Corporation $LRCX Shares Sold by Ameriprise Financial Inc."
+            "text": "Atreides Management LP Invests $87.60 Million in Intel Corporation $INTC"
         },
         {
-            "time": "07:46",
-            "tag": "AI",
-            "text": "Anthony Scaramucci Says Bank Of New York CEO Sees AI Agents As Employees, Not Just Tools"
-        },
-        {
-            "time": "07:46",
-            "tag": "AI",
-            "text": "Strong Wall Street sentiment on Broadcom (AVGO) amid $100+ billion AI chip sales forecast"
-        },
-        {
-            "time": "07:45",
+            "time": "08:38",
             "tag": "MERCADO",
-            "text": "Ameriprise Financial Inc. Sells 245,712 Shares of Meta Platforms, Inc. $META"
+            "text": "Azora Capital LP Sells 3,329,834 Shares of Payoneer Global Inc. $PAYO"
         },
         {
-            "time": "07:40",
+            "time": "08:38",
             "tag": "MERCADO",
-            "text": "Intel Corporation Stock (ISIN: US4581401001) Faces Mixed Signals Amid Foundry Challenges and Institu"
+            "text": "Intuit Inc. $INTU Shares Acquired by Azimuth Capital Investment Management LLC"
+        },
+        {
+            "time": "08:38",
+            "tag": "MERCADO",
+            "text": "Bamco Inc. NY Cuts Stock Holdings in CoStar Group, Inc. $CSGP"
+        },
+        {
+            "time": "08:34",
+            "tag": "MERCADO",
+            "text": "Aquatic Capital Management LLC Takes Position in Microsoft Corporation $MSFT"
         }
     ]
 }
