@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-16 13:20 UTC",
+        "last_updated": "2026-03-16 15:03 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 180.25,
-            "change": "+0.73%"
+            "price": 183.95,
+            "change": "-0.19%"
         },
         {
             "symbol": "AMD",
-            "price": 193.39,
-            "change": "-1.05%"
+            "price": 198.15,
+            "change": "-0.25%"
         },
         {
             "symbol": "MSFT",
-            "price": 395.55,
-            "change": "-3.05%"
+            "price": 397.23,
+            "change": "+3.19%"
         },
         {
             "symbol": "CEG",
-            "price": 301.77,
-            "change": "+3.13%"
+            "price": 305.7,
+            "change": "+1.39%"
         },
         {
             "symbol": "VST",
-            "price": 158.95,
-            "change": "-0.14%"
+            "price": 161.63,
+            "change": "-0.0%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.43,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5,
+            0.5,
+            0.49,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.78,
-            24.3,
-            24.45,
-            24.48,
-            24.33,
-            24.42,
-            24.31,
-            24.42,
-            24.5,
-            24.52,
-            24.39,
-            24.56
+            24.85,
+            25.13,
+            24.91,
+            24.56,
+            25.05,
+            25.34,
+            25.08,
+            25.23,
+            24.91,
+            24.73,
+            24.93,
+            24.68
         ],
         "hsd_history_software": [
-            10.61,
-            10.45,
-            10.52,
-            10.45,
-            10.26,
-            10.17,
-            10.04,
-            9.88,
-            9.93,
-            10.05,
-            10.17,
-            10.18
+            9.4,
+            9.57,
+            9.44,
+            9.54,
+            9.48,
+            9.5,
+            9.66,
+            9.69,
+            9.57,
+            9.65,
+            9.77,
+            9.8
         ],
         "rci_data": [
             85.0,
-            18.025
+            18.395
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:36",
-            "tag": "MERCADO",
-            "text": "Lido Advisors LLC Increases Position in Analog Devices, Inc. $ADI"
+            "time": "14:34",
+            "tag": "AI",
+            "text": "Synopsys Bets on AI Agents to Power Automotive Digital Twins"
         },
         {
-            "time": "12:36",
+            "time": "14:24",
             "tag": "MERCADO",
-            "text": "Lighthouse Investment Partners LLC Takes Position in Fidelity National Information Services, Inc. $FIS"
+            "text": "Microsoft Is On Sale: 5 Reasons To Buy Now (NASDAQ:MSFT)"
         },
         {
-            "time": "12:30",
+            "time": "14:21",
             "tag": "MERCADO",
-            "text": "Invenomic Capital Management LP Increases Position in Verizon Communications Inc. $VZ"
+            "text": "Robotics firm Intuitive Surgical says cyberattack compromised business, customer data"
         },
         {
-            "time": "12:30",
+            "time": "14:17",
             "tag": "MERCADO",
-            "text": "PTC COMPLETES DIVESTITURE OF KEPWARE AND THINGWORX BUSINESSES"
+            "text": "Coherent Corp. Shines in Vibrant Strategic Partnership with Nvidia"
         },
         {
-            "time": "12:28",
-            "tag": "MERCADO",
-            "text": "CoStar Group, Inc. $CSGP Holdings Lowered by Ion Asset Management Ltd."
+            "time": "14:15",
+            "tag": "AI",
+            "text": "3M expands optical interconnect manufacturing for AI data centers"
         }
     ]
 }
