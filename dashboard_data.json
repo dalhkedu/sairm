@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-16 22:37 UTC",
+        "last_updated": "2026-03-16 23:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.22,
-            "change": "+0.3%"
+            "change": "-0.03%"
         },
         {
             "symbol": "AMD",
             "price": 196.58,
-            "change": "+1.84%"
+            "change": "-2.04%"
         },
         {
             "symbol": "MSFT",
             "price": 399.95,
-            "change": "-1.04%"
+            "change": "-1.75%"
         },
         {
             "symbol": "CEG",
             "price": 305.58,
-            "change": "+0.86%"
+            "change": "-3.41%"
         },
         {
             "symbol": "VST",
             "price": 161.99,
-            "change": "-1.89%"
+            "change": "-0.82%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
+        "cer_current": 0.58,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
             0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.52,
-            0.51,
-            0.5,
-            0.51,
             0.5,
             0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.96,
-            25.09,
-            24.63,
-            24.47,
-            24.46,
-            24.41,
-            24.9,
-            24.63,
-            24.9,
-            25.34,
-            24.94,
-            24.72
+            25.6,
+            26.02,
+            25.87,
+            25.92,
+            26.37,
+            26.01,
+            25.91,
+            25.86,
+            25.52,
+            25.27,
+            25.26,
+            25.4
         ],
         "hsd_history_software": [
-            9.63,
-            9.81,
-            9.92,
-            9.8,
-            9.69,
-            9.83,
-            9.9,
-            9.93,
-            9.88,
-            10.06,
-            10.06,
-            10.0
+            9.97,
+            10.16,
+            10.29,
+            10.32,
+            10.39,
+            10.51,
+            10.38,
+            10.4,
+            10.38,
+            10.31,
+            10.26,
+            10.06
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:05",
+            "time": "23:13",
             "tag": "MERCADO",
-            "text": "Supermicro unveils systems for NVIDIA Vera Rubin platform"
+            "text": "Klarna Group plc Shares Surge 8.8% on Chairman's $50 Million Buy Amid Post-IPO Volatility"
         },
         {
-            "time": "22:01",
+            "time": "22:57",
             "tag": "MERCADO",
-            "text": "Barclays, TD Cowen Maintain Overweight/Buy on Intuit (INTU) March 2026"
+            "text": "Nozomi named Leader in Gartner CPS security ranking"
         },
         {
-            "time": "21:48",
+            "time": "22:48",
             "tag": "MERCADO",
-            "text": "STMicroelectronics, Leopard Imaging introduce vision module for robotics systems"
+            "text": "Microchip Technology : Mythic Selects memBrain Technology from SST for its Next Gen of Ultra-Low-Power APUs"
         },
         {
-            "time": "21:39",
+            "time": "22:42",
             "tag": "MERCADO",
-            "text": "Eaton collaborates with Nvidia to unveil the Eaton Beam Rubin DSX platform to address the nearly $7 trillion data center buildout market from Grid to Chip"
+            "text": "VNET Group (NasdaqGS:VNET) EPS Loss Deepens In Q3 2025 Challenging Profitability Narratives"
         },
         {
-            "time": "21:29",
-            "tag": "MERCADO",
-            "text": "New all-in-one 'eyes' for humanoid robots plug straight into NVIDIA Jetson"
+            "time": "22:31",
+            "tag": "AI",
+            "text": "UnitedHealth: Why AI Is The Secret Weapon For The Turnaround (NYSE:UNH)"
         }
     ]
 }
