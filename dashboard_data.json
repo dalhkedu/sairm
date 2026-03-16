@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-16 02:43 UTC",
+        "last_updated": "2026-03-16 05:19 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.25,
-            "change": "+0.8%"
+            "change": "-1.45%"
         },
         {
             "symbol": "AMD",
             "price": 193.39,
-            "change": "+0.9%"
+            "change": "+2.17%"
         },
         {
             "symbol": "MSFT",
             "price": 395.55,
-            "change": "-1.63%"
+            "change": "+0.01%"
         },
         {
             "symbol": "CEG",
             "price": 301.77,
-            "change": "+1.3%"
+            "change": "-2.39%"
         },
         {
             "symbol": "VST",
             "price": 158.95,
-            "change": "+1.0%"
+            "change": "+3.33%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.64,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
+            0.5,
             0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
             0.49,
             0.5,
-            0.5
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.18,
-            25.42,
-            25.8,
+            26.45,
+            26.04,
             25.61,
-            25.44,
-            25.06,
-            25.17,
-            24.99,
-            24.64,
-            24.79,
-            24.94,
-            24.84
+            25.91,
+            26.38,
+            25.98,
+            25.85,
+            25.49,
+            25.11,
+            24.69,
+            25.14,
+            25.27
         ],
         "hsd_history_software": [
-            9.75,
-            9.8,
-            9.7,
-            9.66,
-            9.59,
-            9.69,
-            9.88,
-            9.86,
-            9.97,
-            10.02,
-            10.14,
-            10.07
+            10.5,
+            10.54,
+            10.33,
+            10.3,
+            10.12,
+            10.22,
+            10.16,
+            10.1,
+            9.93,
+            10.01,
+            10.03,
+            10.12
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:18",
+            "time": "04:51",
             "tag": "MERCADO",
-            "text": "Is Lam Research Corporation (LRCX) A Good Stock To Buy Now?"
+            "text": "Archer Aviation (ACHR) Escalates Patent Dispute with Joby (JOBY) as Insider Sales Tie to Stock Awards"
         },
         {
-            "time": "00:50",
-            "tag": "MERCADO",
-            "text": "Intuit Inc Stock (ISIN: US49456B1017) Recovers on Short Interest Drop Amid Mixed Analyst Views"
-        },
-        {
-            "time": "00:38",
+            "time": "03:38",
             "tag": "AI",
-            "text": "Should Equinix\u2019s New Distributed AI Hub Strategy Require Action From Equinix (EQIX) Investors?"
+            "text": "Wells Fargo's AI boss tells employees how not to get replaced by evolving tech"
         },
         {
-            "time": "00:38",
+            "time": "02:52",
             "tag": "MERCADO",
-            "text": "Neudata Alternative Data Partnership Might Change The Case For Investing In State Street (STT)"
+            "text": "Booking Holdings' Genius Program Drives Loyalty Amid Stable Travel Demand"
         },
         {
-            "time": "00:33",
+            "time": "02:52",
             "tag": "MERCADO",
-            "text": "Is Eaton Corporation plc (ETN) A Good Stock To Buy Now?"
+            "text": "KC - Kingsoft Cloud Holdings Ltd Latest Stock News & Market Updates"
+        },
+        {
+            "time": "02:44",
+            "tag": "AI",
+            "text": "Synopsys Software-defined Hardware-assisted Verification Enables AI Proliferation"
         }
     ]
 }
