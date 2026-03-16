@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-16 05:19 UTC",
+        "last_updated": "2026-03-16 07:23 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.25,
-            "change": "-1.45%"
+            "change": "-1.8%"
         },
         {
             "symbol": "AMD",
             "price": 193.39,
-            "change": "+2.17%"
+            "change": "+1.26%"
         },
         {
             "symbol": "MSFT",
             "price": 395.55,
-            "change": "+0.01%"
+            "change": "-2.26%"
         },
         {
             "symbol": "CEG",
             "price": 301.77,
-            "change": "-2.39%"
+            "change": "-2.83%"
         },
         {
             "symbol": "VST",
             "price": 158.95,
-            "change": "+3.33%"
+            "change": "-0.64%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.45,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
             0.5,
             0.51,
+            0.5,
             0.51,
-            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            26.45,
-            26.04,
-            25.61,
-            25.91,
-            26.38,
-            25.98,
-            25.85,
-            25.49,
-            25.11,
-            24.69,
-            25.14,
-            25.27
+            23.77,
+            23.56,
+            23.82,
+            23.91,
+            23.94,
+            24.22,
+            24.65,
+            25.01,
+            25.45,
+            25.09,
+            24.79,
+            25.04
         ],
         "hsd_history_software": [
-            10.5,
-            10.54,
-            10.33,
-            10.3,
-            10.12,
-            10.22,
-            10.16,
+            9.88,
+            9.73,
+            9.76,
+            9.92,
+            10.06,
             10.1,
-            9.93,
-            10.01,
-            10.03,
-            10.12
+            10.22,
+            10.12,
+            10.15,
+            9.95,
+            9.86,
+            9.91
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:51",
+            "time": "06:43",
             "tag": "MERCADO",
-            "text": "Archer Aviation (ACHR) Escalates Patent Dispute with Joby (JOBY) as Insider Sales Tie to Stock Awards"
+            "text": "Analysts Set Broadcom Inc. (NASDAQ:AVGO) Target Price at $435.30"
         },
         {
-            "time": "03:38",
+            "time": "06:28",
             "tag": "AI",
-            "text": "Wells Fargo's AI boss tells employees how not to get replaced by evolving tech"
+            "text": "Dollar Tree, SAIC And 3 Stocks To Watch Heading Into Monday"
         },
         {
-            "time": "02:52",
-            "tag": "MERCADO",
-            "text": "Booking Holdings' Genius Program Drives Loyalty Amid Stable Travel Demand"
-        },
-        {
-            "time": "02:52",
-            "tag": "MERCADO",
-            "text": "KC - Kingsoft Cloud Holdings Ltd Latest Stock News & Market Updates"
-        },
-        {
-            "time": "02:44",
+            "time": "06:26",
             "tag": "AI",
-            "text": "Synopsys Software-defined Hardware-assisted Verification Enables AI Proliferation"
+            "text": "Is EPAM Systems' (EPAM) AI Pivot and Buyback Strategy Quietly Rewriting Its Investment Story?"
+        },
+        {
+            "time": "06:22",
+            "tag": "MERCADO",
+            "text": "Wolfe Reiterates Outperform on KLA Corporation KLAC March 2026"
+        },
+        {
+            "time": "06:22",
+            "tag": "AI",
+            "text": "$472.16 pre-market ISRG Intuitive Surgical NASDAQ Mar 2026: AI stocks outlook"
         }
     ]
 }
