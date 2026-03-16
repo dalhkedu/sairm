@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-16 19:07 UTC",
+        "last_updated": "2026-03-16 20:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 183.62,
-            "change": "+0.88%"
+            "price": 183.22,
+            "change": "+1.62%"
         },
         {
             "symbol": "AMD",
-            "price": 197.15,
-            "change": "+2.33%"
+            "price": 196.58,
+            "change": "-0.55%"
         },
         {
             "symbol": "MSFT",
-            "price": 399.54,
-            "change": "+0.96%"
+            "price": 399.95,
+            "change": "+3.03%"
         },
         {
             "symbol": "CEG",
-            "price": 302.67,
-            "change": "+2.88%"
+            "price": 305.58,
+            "change": "+3.04%"
         },
         {
             "symbol": "VST",
-            "price": 161.61,
-            "change": "-2.94%"
+            "price": 161.99,
+            "change": "+2.72%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.58,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
             0.49,
-            0.5,
-            0.5,
-            0.5,
+            0.48,
+            0.48,
             0.49,
-            0.5,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.49,
             0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            23.94,
-            24.25,
-            24.47,
-            24.37,
-            24.44,
-            24.34,
-            24.07,
-            24.33,
-            24.69,
-            24.98,
-            25.02,
-            25.46
+            25.62,
+            25.22,
+            24.97,
+            25.01,
+            25.23,
+            24.78,
+            24.85,
+            25.33,
+            25.28,
+            25.18,
+            25.69,
+            25.45
         ],
         "hsd_history_software": [
-            10.06,
-            10.21,
-            10.23,
-            10.24,
-            10.16,
-            10.11,
-            10.2,
+            9.95,
+            9.95,
+            10.12,
+            9.94,
             10.0,
-            10.01,
-            9.88,
-            9.78,
-            9.82
+            10.12,
+            10.32,
+            10.41,
+            10.28,
+            10.23,
+            10.2,
+            10.04
         ],
         "rci_data": [
             85.0,
-            18.362000000000002
+            18.322
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:38",
+            "time": "20:07",
             "tag": "MERCADO",
-            "text": "Lightwave Logic (NASDAQ:LWLG) Shares Down 4.7% - What's Next?"
+            "text": "Peraso Announces Fourth Quarter and Full Year 2025 Results"
         },
         {
-            "time": "18:30",
+            "time": "20:05",
             "tag": "MERCADO",
-            "text": "WEC Energy Group Hits 12-Month High as Grid Modernization Push Gains Traction"
+            "text": "Pega Announces Quarterly Cash Dividend for Second Quarter of 2026"
         },
         {
-            "time": "18:26",
+            "time": "20:05",
             "tag": "MERCADO",
-            "text": "NVIDIA vs Microchip Technology: Which Is the Stronger Buy Today?"
+            "text": "Robotaxis to drones: 60GHz bets lift Peraso\u2019s 2025 mmWave sales 6x"
         },
         {
-            "time": "18:22",
-            "tag": "MERCADO",
-            "text": "ServiceNow Gets an Upgrade. Why It Could Be a Software Winner."
+            "time": "19:43",
+            "tag": "AI",
+            "text": "Intel Corp. Stock Consolidates at $45 as AI Gains Battle Foundry Losses"
         },
         {
-            "time": "18:10",
+            "time": "19:38",
             "tag": "MERCADO",
-            "text": "Apple acquires video editing company MotionVFX to boost subscribers"
+            "text": "NANO Nuclear Energy Advances Development of Optimized HALEU Transportation System with Global Nuclear Logistics Leader GNS"
         }
     ]
 }
