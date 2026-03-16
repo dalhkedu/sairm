@@ -1,80 +1,80 @@
 {
     "metadata": {
-        "last_updated": "2026-03-16 10:56 UTC",
+        "last_updated": "2026-03-16 11:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.25,
-            "change": "+1.62%"
+            "change": "+1.69%"
         },
         {
             "symbol": "AMD",
             "price": 193.39,
-            "change": "+1.55%"
+            "change": "+3.36%"
         },
         {
             "symbol": "MSFT",
             "price": 395.55,
-            "change": "+3.36%"
+            "change": "+2.06%"
         },
         {
             "symbol": "CEG",
             "price": 301.77,
-            "change": "+1.01%"
+            "change": "-0.43%"
         },
         {
             "symbol": "VST",
             "price": 158.95,
-            "change": "+0.48%"
+            "change": "-1.57%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.52,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
             0.51,
-            0.5
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.84,
-            24.38,
-            24.49,
-            24.86,
-            24.58,
-            24.85,
-            24.97,
-            25.16,
-            25.16,
-            24.99,
-            24.54,
-            24.9
+            24.69,
+            24.34,
+            24.61,
+            24.94,
+            25.35,
+            25.06,
+            24.79,
+            24.81,
+            25.21,
+            24.78,
+            24.82,
+            24.72
         ],
         "hsd_history_software": [
-            9.78,
-            9.65,
-            9.8,
-            9.84,
-            9.69,
-            9.89,
+            10.45,
+            10.5,
+            10.32,
+            10.26,
+            10.15,
+            9.99,
+            9.9,
+            10.02,
             9.96,
-            10.01,
-            10.18,
-            10.04,
-            10.05,
+            10.12,
+            10.1,
             9.92
         ],
         "rci_data": [
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:03",
+            "time": "11:09",
             "tag": "MERCADO",
-            "text": "Dean Capital Management Buys New Position in Synaptics Incorporated $SYNA"
+            "text": "A Look At Vishay Intertechnology (VSH) Valuation After Recent Share Price Swings"
         },
         {
-            "time": "09:59",
+            "time": "11:04",
             "tag": "MERCADO",
-            "text": "Delta Global Management LP Buys Shares of 32,573 Akamai Technologies, Inc. $AKAM"
+            "text": "Hyperion Asset Management Ltd Has $515.55 Million Stock Holdings in Tesla, Inc. $TSLA"
         },
         {
-            "time": "09:47",
+            "time": "11:03",
             "tag": "MERCADO",
-            "text": "Gartner Shares Data and Analytics Predictions For 2026"
+            "text": "Hyperion Asset Management Ltd Buys 23,836 Shares of Intuit Inc. $INTU"
         },
         {
-            "time": "09:47",
+            "time": "11:03",
             "tag": "MERCADO",
-            "text": "Delta Global Management LP Purchases 9,314 Shares of Tesla, Inc. $TSLA"
+            "text": "Why an agency guy joined Best Buy"
         },
         {
-            "time": "09:47",
+            "time": "11:02",
             "tag": "MERCADO",
-            "text": "Destination Wealth Management Takes $13.11 Million Position in Synopsys, Inc. $SNPS"
+            "text": "Hudson Way Capital Management LLC Sells 14,650 Shares of Tyler Technologies, Inc. $TYL"
         }
     ]
 }
