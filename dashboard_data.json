@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-16 15:03 UTC",
+        "last_updated": "2026-03-16 17:04 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 183.95,
-            "change": "-0.19%"
+            "price": 184.7,
+            "change": "-0.57%"
         },
         {
             "symbol": "AMD",
-            "price": 198.15,
-            "change": "-0.25%"
+            "price": 198.48,
+            "change": "+1.02%"
         },
         {
             "symbol": "MSFT",
-            "price": 397.23,
-            "change": "+3.19%"
+            "price": 398.89,
+            "change": "-3.18%"
         },
         {
             "symbol": "CEG",
-            "price": 305.7,
-            "change": "+1.39%"
+            "price": 301.75,
+            "change": "+0.76%"
         },
         {
             "symbol": "VST",
-            "price": 161.63,
-            "change": "-0.0%"
+            "price": 160.45,
+            "change": "+0.25%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.54,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
             0.5,
             0.5,
             0.49,
             0.49,
-            0.5
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.85,
-            25.13,
-            24.91,
-            24.56,
-            25.05,
-            25.34,
-            25.08,
-            25.23,
-            24.91,
-            24.73,
+            24.38,
+            24.75,
+            25.26,
+            25.38,
             24.93,
-            24.68
+            25.38,
+            25.57,
+            25.6,
+            25.52,
+            25.25,
+            25.16,
+            24.99
         ],
         "hsd_history_software": [
-            9.4,
+            9.88,
+            10.03,
+            10.0,
+            9.83,
+            9.93,
+            9.84,
+            9.67,
             9.57,
-            9.44,
-            9.54,
-            9.48,
-            9.5,
-            9.66,
             9.69,
-            9.57,
-            9.65,
-            9.77,
-            9.8
+            9.74,
+            9.87,
+            9.82
         ],
         "rci_data": [
             85.0,
-            18.395
+            18.47
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:34",
+            "time": "16:24",
+            "tag": "MERCADO",
+            "text": "Teradyne shares are trading higher after the ..."
+        },
+        {
+            "time": "16:18",
             "tag": "AI",
-            "text": "Synopsys Bets on AI Agents to Power Automotive Digital Twins"
+            "text": "Keysight brings 224G kit to AI data center interconnects"
         },
         {
-            "time": "14:24",
+            "time": "16:15",
             "tag": "MERCADO",
-            "text": "Microsoft Is On Sale: 5 Reasons To Buy Now (NASDAQ:MSFT)"
+            "text": "Tesla range claims are bogus, owner says in suit. He makes barely half."
         },
         {
-            "time": "14:21",
+            "time": "16:12",
             "tag": "MERCADO",
-            "text": "Robotics firm Intuitive Surgical says cyberattack compromised business, customer data"
+            "text": "Paychex Inc. stock faces margin pressure despite beat on Q4 results"
         },
         {
-            "time": "14:17",
+            "time": "16:11",
             "tag": "MERCADO",
-            "text": "Coherent Corp. Shines in Vibrant Strategic Partnership with Nvidia"
-        },
-        {
-            "time": "14:15",
-            "tag": "AI",
-            "text": "3M expands optical interconnect manufacturing for AI data centers"
+            "text": "Johnson & Johnson Drives Innovation in Pulsed Field Ablation with Peru Launch"
         }
     ]
 }
