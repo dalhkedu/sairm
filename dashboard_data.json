@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-17 11:44 UTC",
+        "last_updated": "2026-03-17 13:19 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.22,
-            "change": "+0.84%"
+            "change": "-1.12%"
         },
         {
             "symbol": "AMD",
             "price": 196.58,
-            "change": "+3.14%"
+            "change": "+0.18%"
         },
         {
             "symbol": "MSFT",
             "price": 399.95,
-            "change": "-2.73%"
+            "change": "-2.15%"
         },
         {
             "symbol": "CEG",
             "price": 305.58,
-            "change": "+0.15%"
+            "change": "+1.9%"
         },
         {
             "symbol": "VST",
             "price": 161.99,
-            "change": "-3.2%"
+            "change": "+0.12%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.7,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.49,
             0.49,
             0.5,
             0.5,
-            0.51
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.72,
-            25.44,
-            25.45,
-            25.16,
-            25.59,
-            25.63,
-            25.23,
-            24.76,
-            25.04,
-            25.3,
-            24.86,
-            24.68
+            25.62,
+            25.76,
+            25.65,
+            25.17,
+            25.21,
+            24.82,
+            24.68,
+            24.46,
+            24.93,
+            24.5,
+            24.99,
+            24.76
         ],
         "hsd_history_software": [
-            10.14,
-            10.28,
-            10.15,
+            10.27,
+            10.36,
+            10.44,
+            10.53,
+            10.55,
+            10.37,
             10.17,
-            10.13,
             10.19,
-            10.08,
-            10.17,
-            10.3,
             10.4,
-            10.29,
-            10.17
+            10.2,
+            10.08,
+            9.98
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:07",
-            "tag": "AI",
-            "text": "Apply Digital taps Omnicom Precision Marketing Group's Chief AI and Technology Officer as new CEO"
+            "time": "12:32",
+            "tag": "MERCADO",
+            "text": "Mairs & Power Inc. Has $4.95 Million Holdings in Oracle Corporation $ORCL"
         },
         {
-            "time": "11:06",
+            "time": "12:30",
             "tag": "MERCADO",
-            "text": "Cisco Systems, Inc. $CSCO Shares Purchased by MIRAE ASSET GLOBAL ETFS HOLDINGS Ltd."
+            "text": "Design a robot, see it move in minutes: PTC-NVIDIA link speeds simulation"
         },
         {
-            "time": "11:06",
+            "time": "12:30",
             "tag": "MERCADO",
-            "text": "MIRAE ASSET GLOBAL ETFS HOLDINGS Ltd. Acquires 93,576 Shares of Qualcomm Incorporated $QCOM"
+            "text": "PTC Teams with NVIDIA to Unite Design and Robotics Simulation by Connecting Onshape to NVIDIA Isaac Sim"
         },
         {
-            "time": "11:05",
+            "time": "12:30",
             "tag": "MERCADO",
-            "text": "ServiceNow, Inc. $NOW Shares Purchased by MIRAE ASSET GLOBAL ETFS HOLDINGS Ltd."
+            "text": "Oracle taps Vertex software to automate complex global tax rules"
         },
         {
-            "time": "11:04",
+            "time": "12:18",
             "tag": "MERCADO",
-            "text": "Gartner: 67% of B2B Buyers Prefer a Rep-Free Experience"
+            "text": "Why Caterpillar\u2019s $51 Billion Backlog Fuels a $1,132 Target"
         }
     ]
 }
