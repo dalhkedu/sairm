@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-17 13:19 UTC",
+        "last_updated": "2026-03-17 15:00 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 183.22,
-            "change": "-1.12%"
+            "price": 183.15,
+            "change": "-1.16%"
         },
         {
             "symbol": "AMD",
-            "price": 196.58,
-            "change": "+0.18%"
+            "price": 198.53,
+            "change": "-0.64%"
         },
         {
             "symbol": "MSFT",
-            "price": 399.95,
-            "change": "-2.15%"
+            "price": NaN,
+            "change": "+1.33%"
         },
         {
             "symbol": "CEG",
-            "price": 305.58,
-            "change": "+1.9%"
+            "price": 310.16,
+            "change": "+0.38%"
         },
         {
             "symbol": "VST",
-            "price": 161.99,
-            "change": "+0.12%"
+            "price": 164.34,
+            "change": "+3.48%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.7,
+        "cer_current": 0.67,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
+            0.49,
             0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.49,
             0.49,
             0.5,
             0.5,
             0.51,
+            0.51,
+            0.51,
             0.5,
-            0.49,
-            0.49
+            0.51
         ],
         "hsd_history_hardware": [
-            25.62,
-            25.76,
-            25.65,
-            25.17,
-            25.21,
-            24.82,
-            24.68,
-            24.46,
-            24.93,
-            24.5,
-            24.99,
+            23.91,
+            24.23,
+            24.31,
+            24.08,
+            24.33,
+            24.67,
+            24.31,
+            24.57,
+            24.15,
+            24.44,
+            24.62,
             24.76
         ],
         "hsd_history_software": [
-            10.27,
-            10.36,
-            10.44,
-            10.53,
-            10.55,
-            10.37,
+            9.99,
+            9.96,
+            10.11,
             10.17,
-            10.19,
-            10.4,
-            10.2,
-            10.08,
-            9.98
+            10.0,
+            9.84,
+            10.01,
+            9.81,
+            9.81,
+            9.87,
+            9.96,
+            10.1
         ],
         "rci_data": [
             85.0,
-            18.322
+            18.315
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:32",
+            "time": "14:06",
             "tag": "MERCADO",
-            "text": "Mairs & Power Inc. Has $4.95 Million Holdings in Oracle Corporation $ORCL"
+            "text": "Using inexpensive MicroLEDs, Microsoft networking innovation aims to make datacenters more efficient"
         },
         {
-            "time": "12:30",
-            "tag": "MERCADO",
-            "text": "Design a robot, see it move in minutes: PTC-NVIDIA link speeds simulation"
+            "time": "14:02",
+            "tag": "AI",
+            "text": "ICE launches AI voice and chat agents for mortgage servicing"
         },
         {
-            "time": "12:30",
+            "time": "14:02",
             "tag": "MERCADO",
-            "text": "PTC Teams with NVIDIA to Unite Design and Robotics Simulation by Connecting Onshape to NVIDIA Isaac Sim"
+            "text": "Oracle unveils the Java Verified Portfolio"
         },
         {
-            "time": "12:30",
+            "time": "14:01",
             "tag": "MERCADO",
-            "text": "Oracle taps Vertex software to automate complex global tax rules"
+            "text": "Google, DTE Energy to bring 2.7 GW of clean power for Michigan data centre"
         },
         {
-            "time": "12:18",
+            "time": "14:00",
             "tag": "MERCADO",
-            "text": "Why Caterpillar\u2019s $51 Billion Backlog Fuels a $1,132 Target"
+            "text": "Alabama county extends first responder radio coverage by thousands of miles"
         }
     ]
 }
