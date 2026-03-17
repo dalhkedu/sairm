@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-17 02:27 UTC",
+        "last_updated": "2026-03-17 04:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.22,
-            "change": "+2.09%"
+            "change": "-0.65%"
         },
         {
             "symbol": "AMD",
             "price": 196.58,
-            "change": "-1.39%"
+            "change": "-1.86%"
         },
         {
             "symbol": "MSFT",
             "price": 399.95,
-            "change": "+2.52%"
+            "change": "+0.08%"
         },
         {
             "symbol": "CEG",
             "price": 305.58,
-            "change": "+3.16%"
+            "change": "+3.07%"
         },
         {
             "symbol": "VST",
             "price": 161.99,
-            "change": "-1.23%"
+            "change": "+0.96%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.62,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
             0.5,
-            0.51,
+            0.5,
+            0.49,
+            0.5,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            25.61,
-            25.4,
-            25.61,
-            25.4,
-            25.02,
-            24.78,
-            25.22,
-            24.75,
-            24.58,
-            24.78,
-            24.42,
-            24.74
+            24.82,
+            24.74,
+            24.94,
+            24.94,
+            25.24,
+            25.63,
+            25.48,
+            25.86,
+            26.01,
+            25.59,
+            25.26,
+            25.18
         ],
         "hsd_history_software": [
-            10.12,
-            10.21,
-            10.31,
-            10.42,
-            10.36,
-            10.17,
-            10.03,
-            9.86,
-            9.83,
-            9.68,
-            9.85,
-            9.99
+            9.34,
+            9.36,
+            9.44,
+            9.53,
+            9.42,
+            9.5,
+            9.48,
+            9.61,
+            9.79,
+            9.91,
+            9.98,
+            10.04
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:10",
+            "time": "04:08",
             "tag": "MERCADO",
-            "text": "Bank of the Sierra urges vigilance as phishing attempts target customer data"
+            "text": "Five9 Stock Analysis: Shareholder Losses and Growth Slowdown in 2026 - News and Statistics"
         },
         {
-            "time": "00:47",
+            "time": "03:43",
             "tag": "MERCADO",
-            "text": "Fortinet Reaffirms \u201cConvergence\u201d Strategy at Accelerate 2026, Unveils FortiOS 8.0 and Price Hikes"
+            "text": "FinVolution Group Announces Strategic Entry into Australia"
         },
         {
-            "time": "00:09",
-            "tag": "MERCADO",
-            "text": "Benchmark Electronics Keeps Quarterly Dividend at $0.17 per Share, Payable April 10 to Holders of Record March 31"
-        },
-        {
-            "time": "00:08",
-            "tag": "MERCADO",
-            "text": "Nozomi Networks Named Recognised in the 2026 Gartner Critical Capabilities Report for CPS Protection Platforms"
-        },
-        {
-            "time": "23:38",
+            "time": "03:39",
             "tag": "AI",
-            "text": "NVIDIA, T-Mobile and Partners Integrate Physical AI Applications on AI-RAN-Ready Infrastructure"
+            "text": "Is EXL\u2019s New Agentic AI Suite Reframing the Long-Term Competitive Narrative for ExlService (EXLS)?"
+        },
+        {
+            "time": "03:37",
+            "tag": "AI",
+            "text": "Did Adding AI-Driven Business Loans to eStore Common Just Shift F.N.B's (FNB) Investment Narrative?"
+        },
+        {
+            "time": "03:25",
+            "tag": "AI",
+            "text": "What Synopsys (SNPS)'s GTC 2026 AI Chip Design Push Means For Shareholders"
         }
     ]
 }
