@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-17 22:37 UTC",
+        "last_updated": "2026-03-17 23:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 181.93,
-            "change": "-2.18%"
+            "change": "+0.27%"
         },
         {
             "symbol": "AMD",
             "price": 196.31,
-            "change": "-1.63%"
+            "change": "+2.59%"
         },
         {
             "symbol": "MSFT",
             "price": 399.41,
-            "change": "+2.77%"
+            "change": "-2.47%"
         },
         {
             "symbol": "CEG",
             "price": 307.69,
-            "change": "+3.37%"
+            "change": "+0.35%"
         },
         {
             "symbol": "VST",
             "price": 164.33,
-            "change": "-0.65%"
+            "change": "-1.39%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.55,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
             0.5,
-            0.51,
+            0.49,
+            0.5,
+            0.5,
             0.5,
             0.5,
             0.51,
-            0.51
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.92,
-            25.38,
-            25.65,
-            25.82,
-            25.72,
-            25.6,
-            25.13,
-            25.36,
-            25.64,
-            25.14,
-            25.22,
-            24.87
+            24.11,
+            23.82,
+            24.1,
+            24.53,
+            24.42,
+            24.76,
+            24.91,
+            25.09,
+            25.52,
+            25.18,
+            25.5,
+            25.33
         ],
         "hsd_history_software": [
-            10.43,
-            10.39,
-            10.52,
-            10.33,
-            10.34,
-            10.2,
-            10.22,
+            10.45,
+            10.55,
             10.4,
-            10.23,
+            10.22,
+            10.13,
             10.17,
+            9.99,
             9.97,
-            10.14
+            10.15,
+            10.08,
+            9.94,
+            10.0
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:09",
+            "time": "22:56",
             "tag": "MERCADO",
-            "text": "SIXG ETF Analysis: Dividends, Returns NASDAQ:SIXG"
+            "text": "Enphase Energy (NASDAQ:ENPH) Director Sells $5,985,472.50 in Stock"
         },
         {
-            "time": "21:56",
+            "time": "22:37",
             "tag": "MERCADO",
-            "text": "Google and DTE announce Van Buren Township data center agreement, commit to contested case hearing"
+            "text": "Identity is quietly becoming enterprise IT's control plane"
         },
         {
-            "time": "21:50",
+            "time": "22:29",
             "tag": "MERCADO",
-            "text": "Super Micro Computer (NASDAQ:SMCI) Trading Down 1.1% - Should You Sell?"
+            "text": "Digital banking and cybersecurity events launched by Jack Henry & Associates"
         },
         {
-            "time": "21:50",
+            "time": "22:22",
             "tag": "MERCADO",
-            "text": "Arista Networks (NYSE:ANET) Shares Down 1.7% - Here's Why"
+            "text": "Jim Cramer on ServiceNow (NOW): \u201cI Do Think That the Company Represents Actual Value at These Prices\u201d"
         },
         {
-            "time": "21:44",
+            "time": "22:15",
             "tag": "MERCADO",
-            "text": "NIO partners with Tuhu to expand EV ownership services, lifestyle ecosystem"
+            "text": "Jim Cramer on Synopsys (SNPS): \u201cLong a Company We Have Championed Since the Beginning of Mad Money\u201d"
         }
     ]
 }
