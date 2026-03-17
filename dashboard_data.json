@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-17 21:41 UTC",
+        "last_updated": "2026-03-17 22:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 181.93,
-            "change": "-0.28%"
+            "change": "-2.18%"
         },
         {
             "symbol": "AMD",
             "price": 196.31,
-            "change": "-2.88%"
+            "change": "-1.63%"
         },
         {
             "symbol": "MSFT",
             "price": 399.41,
-            "change": "+1.65%"
+            "change": "+2.77%"
         },
         {
             "symbol": "CEG",
             "price": 307.69,
-            "change": "+0.55%"
+            "change": "+3.37%"
         },
         {
             "symbol": "VST",
             "price": 164.33,
-            "change": "-3.44%"
+            "change": "-0.65%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.51,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.53,
             0.53,
             0.52,
-            0.51,
-            0.51,
             0.52,
             0.52,
+            0.51,
             0.51,
             0.5,
-            0.5
+            0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.24,
-            24.91,
-            25.4,
-            25.41,
-            25.82,
-            25.83,
-            25.82,
-            25.53,
-            25.42,
-            25.57,
+            24.92,
+            25.38,
             25.65,
-            25.34
+            25.82,
+            25.72,
+            25.6,
+            25.13,
+            25.36,
+            25.64,
+            25.14,
+            25.22,
+            24.87
         ],
         "hsd_history_software": [
-            10.62,
-            10.57,
-            10.53,
-            10.46,
-            10.53,
+            10.43,
+            10.39,
+            10.52,
+            10.33,
             10.34,
-            10.21,
-            10.28,
-            10.09,
-            10.03,
-            9.93,
-            10.02
+            10.2,
+            10.22,
+            10.4,
+            10.23,
+            10.17,
+            9.97,
+            10.14
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:08",
-            "tag": "AI",
-            "text": "Microsoft combines workplace, personal Copilot teams in AI push"
-        },
-        {
-            "time": "21:07",
-            "tag": "AI",
-            "text": "Oracle earnings deep dive reveals good, bad, ugly of AI boom"
-        },
-        {
-            "time": "21:00",
+            "time": "22:09",
             "tag": "MERCADO",
-            "text": "Ionna Launches Its First Automaker Discount Program With General Motors"
+            "text": "SIXG ETF Analysis: Dividends, Returns NASDAQ:SIXG"
         },
         {
-            "time": "20:48",
-            "tag": "RESULTADOS",
-            "text": "Western Digital Earnings Outlook Sparks Investor Confidence"
-        },
-        {
-            "time": "20:43",
+            "time": "21:56",
             "tag": "MERCADO",
-            "text": "Take-Two Interactive Software (NASDAQ:TTWO) Director Sells $86,465.68 in Stock"
+            "text": "Google and DTE announce Van Buren Township data center agreement, commit to contested case hearing"
+        },
+        {
+            "time": "21:50",
+            "tag": "MERCADO",
+            "text": "Super Micro Computer (NASDAQ:SMCI) Trading Down 1.1% - Should You Sell?"
+        },
+        {
+            "time": "21:50",
+            "tag": "MERCADO",
+            "text": "Arista Networks (NYSE:ANET) Shares Down 1.7% - Here's Why"
+        },
+        {
+            "time": "21:44",
+            "tag": "MERCADO",
+            "text": "NIO partners with Tuhu to expand EV ownership services, lifestyle ecosystem"
         }
     ]
 }
