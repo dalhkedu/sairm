@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-16 23:35 UTC",
+        "last_updated": "2026-03-17 02:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.22,
-            "change": "-0.03%"
+            "change": "+2.09%"
         },
         {
             "symbol": "AMD",
             "price": 196.58,
-            "change": "-2.04%"
+            "change": "-1.39%"
         },
         {
             "symbol": "MSFT",
             "price": 399.95,
-            "change": "-1.75%"
+            "change": "+2.52%"
         },
         {
             "symbol": "CEG",
             "price": 305.58,
-            "change": "-3.41%"
+            "change": "+3.16%"
         },
         {
             "symbol": "VST",
             "price": 161.99,
-            "change": "-0.82%"
+            "change": "-1.23%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.42,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
             0.5,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.6,
-            26.02,
-            25.87,
-            25.92,
-            26.37,
-            26.01,
-            25.91,
-            25.86,
-            25.52,
-            25.27,
-            25.26,
-            25.4
+            25.61,
+            25.4,
+            25.61,
+            25.4,
+            25.02,
+            24.78,
+            25.22,
+            24.75,
+            24.58,
+            24.78,
+            24.42,
+            24.74
         ],
         "hsd_history_software": [
-            9.97,
-            10.16,
-            10.29,
-            10.32,
-            10.39,
-            10.51,
-            10.38,
-            10.4,
-            10.38,
+            10.12,
+            10.21,
             10.31,
-            10.26,
-            10.06
+            10.42,
+            10.36,
+            10.17,
+            10.03,
+            9.86,
+            9.83,
+            9.68,
+            9.85,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "23:13",
+            "time": "01:10",
             "tag": "MERCADO",
-            "text": "Klarna Group plc Shares Surge 8.8% on Chairman's $50 Million Buy Amid Post-IPO Volatility"
+            "text": "Bank of the Sierra urges vigilance as phishing attempts target customer data"
         },
         {
-            "time": "22:57",
+            "time": "00:47",
             "tag": "MERCADO",
-            "text": "Nozomi named Leader in Gartner CPS security ranking"
+            "text": "Fortinet Reaffirms \u201cConvergence\u201d Strategy at Accelerate 2026, Unveils FortiOS 8.0 and Price Hikes"
         },
         {
-            "time": "22:48",
+            "time": "00:09",
             "tag": "MERCADO",
-            "text": "Microchip Technology : Mythic Selects memBrain Technology from SST for its Next Gen of Ultra-Low-Power APUs"
+            "text": "Benchmark Electronics Keeps Quarterly Dividend at $0.17 per Share, Payable April 10 to Holders of Record March 31"
         },
         {
-            "time": "22:42",
+            "time": "00:08",
             "tag": "MERCADO",
-            "text": "VNET Group (NasdaqGS:VNET) EPS Loss Deepens In Q3 2025 Challenging Profitability Narratives"
+            "text": "Nozomi Networks Named Recognised in the 2026 Gartner Critical Capabilities Report for CPS Protection Platforms"
         },
         {
-            "time": "22:31",
+            "time": "23:38",
             "tag": "AI",
-            "text": "UnitedHealth: Why AI Is The Secret Weapon For The Turnaround (NYSE:UNH)"
+            "text": "NVIDIA, T-Mobile and Partners Integrate Physical AI Applications on AI-RAN-Ready Infrastructure"
         }
     ]
 }
