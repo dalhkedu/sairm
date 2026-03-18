@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-18 22:36 UTC",
+        "last_updated": "2026-03-18 23:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.4,
-            "change": "+3.28%"
+            "change": "-1.54%"
         },
         {
             "symbol": "AMD",
             "price": 199.46,
-            "change": "-3.15%"
+            "change": "+2.24%"
         },
         {
             "symbol": "MSFT",
             "price": 391.79,
-            "change": "-3.45%"
+            "change": "+0.31%"
         },
         {
             "symbol": "CEG",
             "price": 317.22,
-            "change": "-0.78%"
+            "change": "-1.61%"
         },
         {
             "symbol": "VST",
             "price": 170.12,
-            "change": "+2.88%"
+            "change": "+0.49%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.66,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.48,
             0.48,
             0.49,
             0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
+            0.49,
+            0.49,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.67,
-            25.89,
-            26.29,
+            25.83,
+            26.1,
+            26.42,
+            26.22,
             26.2,
-            26.14,
-            26.11,
-            26.43,
-            26.07,
-            25.93,
-            25.85,
-            25.38,
-            25.35
+            26.52,
+            26.09,
+            25.61,
+            25.24,
+            24.87,
+            24.6,
+            24.63
         ],
         "hsd_history_software": [
-            9.79,
-            9.85,
-            10.01,
-            10.15,
-            10.28,
-            10.36,
-            10.2,
-            10.02,
+            9.68,
+            9.73,
+            9.57,
+            9.51,
+            9.71,
             9.86,
-            9.68,
-            9.68,
-            9.88
+            10.0,
+            10.11,
+            10.0,
+            10.05,
+            10.1,
+            9.93
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:06",
-            "tag": "MERCADO",
-            "text": "Insider Sell: Corinna Lathan Sells Shares of PTC Inc (PTC)"
-        },
-        {
-            "time": "22:02",
-            "tag": "MERCADO",
-            "text": "JPMorgan Lowers IBM Target after Confluent Deal, Sees Balanced Risk/Reward"
-        },
-        {
-            "time": "21:57",
-            "tag": "MERCADO",
-            "text": "Cisco Systems (NASDAQ:CSCO) Trading Down 2.1% - What's Next?"
-        },
-        {
-            "time": "21:31",
+            "time": "22:52",
             "tag": "AI",
-            "text": "LiveRamp (RAMP) Launches Agentic AI Upgrades to Automate Marketing Workflows"
+            "text": "Citi raises eBay target, points to strength in AI execution"
         },
         {
-            "time": "21:27",
+            "time": "22:52",
+            "tag": "MERCADO",
+            "text": "Synaptics SVP Bodensteiner sells $24993 in shares"
+        },
+        {
+            "time": "22:26",
+            "tag": "MERCADO",
+            "text": "Jim Cramer Recommended Putting KLA (KLAC) \u201cin the Drawer\u201d In February 2025"
+        },
+        {
+            "time": "22:18",
             "tag": "AI",
-            "text": "NYSE Content Update: Snowflake to Unveil AI Platform to Get Work Done Faster"
+            "text": "Assessing KLA (KLAC) Valuation After A Strong Run In AI Infrastructure And Process Control"
+        },
+        {
+            "time": "22:18",
+            "tag": "AI",
+            "text": "Citi Raises eBay Target, Points to Strength in AI Execution"
         }
     ]
 }
