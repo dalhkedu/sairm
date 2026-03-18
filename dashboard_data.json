@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-18 20:40 UTC",
+        "last_updated": "2026-03-18 21:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.4,
-            "change": "-3.26%"
+            "change": "-2.44%"
         },
         {
             "symbol": "AMD",
             "price": 199.46,
-            "change": "-1.66%"
+            "change": "+2.45%"
         },
         {
             "symbol": "MSFT",
             "price": 391.79,
-            "change": "-2.22%"
+            "change": "+1.78%"
         },
         {
             "symbol": "CEG",
             "price": 317.22,
-            "change": "-1.82%"
+            "change": "+2.12%"
         },
         {
             "symbol": "VST",
             "price": 170.12,
-            "change": "+0.16%"
+            "change": "-0.55%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.49,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.53,
-            0.52,
-            0.51,
-            0.51,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            24.91,
+            24.97,
             24.82,
-            25.12,
-            24.66,
-            25.06,
-            25.21,
-            25.15,
-            25.62,
-            25.72,
-            25.22,
-            24.77,
-            24.62
+            25.05,
+            25.41,
+            25.17,
+            25.3,
+            25.56,
+            25.28,
+            25.48,
+            25.33,
+            24.94,
+            25.41
         ],
         "hsd_history_software": [
-            10.64,
-            10.72,
-            10.56,
-            10.66,
-            10.46,
-            10.47,
-            10.41,
-            10.41,
+            9.96,
+            10.08,
+            10.02,
             10.21,
-            10.06,
             10.12,
-            10.18
+            10.0,
+            10.06,
+            9.99,
+            10.0,
+            10.0,
+            9.9,
+            9.91
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:10",
+            "time": "21:05",
             "tag": "MERCADO",
-            "text": "Bandwidth Inc Stock Live Price, Chart, Analysis, News & Forecast \u2013 Buy, Sell & Trade US Equities Today"
+            "text": "Hewlett Packard Enterprise Announces $2 Billion Debt Offering"
         },
         {
-            "time": "20:00",
+            "time": "21:03",
             "tag": "MERCADO",
-            "text": "A $2.3B imaging software deal expands GE HealthCare into clinics"
+            "text": "International Business Machines (NYSE:IBM) Trading Down 1.9% After Analyst Downgrade"
         },
         {
-            "time": "19:57",
-            "tag": "MERCADO",
-            "text": "Big Tech Overload? Invesco's New ETF Hits Reset On Nasdaq-100 Weights"
+            "time": "20:52",
+            "tag": "AI",
+            "text": "Salesforce, Inc. stock under pressure after record $25B buyback launch amid AI growth push"
         },
         {
-            "time": "19:39",
-            "tag": "MERCADO",
-            "text": "MSFY Stock Fund Price and Chart \u2014 CBOE:MSFY"
+            "time": "20:51",
+            "tag": "AI",
+            "text": "Amazon.com (AMZN) and Cerebras partner for world\u2019s fastest AI inference on Amazon Bedrock"
         },
         {
-            "time": "19:37",
+            "time": "20:51",
             "tag": "MERCADO",
-            "text": "Google and DTE Energy Announce Strategic Partnership to Scale Clean Energy and Reliability in Michigan"
+            "text": "PTC (NASDAQ:PTC) Director Corinna Lathan Sells 675 Shares"
         }
     ]
 }
