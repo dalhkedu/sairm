@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-17 23:36 UTC",
+        "last_updated": "2026-03-18 02:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 181.93,
-            "change": "+0.27%"
+            "change": "-1.25%"
         },
         {
             "symbol": "AMD",
             "price": 196.31,
-            "change": "+2.59%"
+            "change": "-1.31%"
         },
         {
             "symbol": "MSFT",
             "price": 399.41,
-            "change": "-2.47%"
+            "change": "-1.5%"
         },
         {
             "symbol": "CEG",
             "price": 307.69,
-            "change": "+0.35%"
+            "change": "-0.44%"
         },
         {
             "symbol": "VST",
             "price": 164.33,
-            "change": "-1.39%"
+            "change": "+2.09%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.63,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.53,
+            0.52,
+            0.51,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
             0.5,
             0.49,
             0.5,
             0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.11,
-            23.82,
-            24.1,
-            24.53,
-            24.42,
+            24.17,
+            23.89,
+            24.24,
+            23.85,
+            23.97,
+            24.15,
+            24.63,
+            24.8,
             24.76,
-            24.91,
-            25.09,
-            25.52,
-            25.18,
-            25.5,
-            25.33
+            25.16,
+            25.08,
+            25.07
         ],
         "hsd_history_software": [
-            10.45,
-            10.55,
-            10.4,
-            10.22,
+            10.04,
             10.13,
-            10.17,
-            9.99,
-            9.97,
-            10.15,
-            10.08,
+            10.03,
             9.94,
-            10.0
+            9.84,
+            9.89,
+            9.76,
+            9.89,
+            9.97,
+            10.07,
+            10.07,
+            9.92
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:56",
+            "time": "01:44",
             "tag": "MERCADO",
-            "text": "Enphase Energy (NASDAQ:ENPH) Director Sells $5,985,472.50 in Stock"
+            "text": "A Look At Axon Enterprise (AXON) Valuation After Strong Q4 Beat And Upgraded Long Term Revenue Targets"
         },
         {
-            "time": "22:37",
-            "tag": "MERCADO",
-            "text": "Identity is quietly becoming enterprise IT's control plane"
+            "time": "01:38",
+            "tag": "AI",
+            "text": "BigBear.ai (BBAI) NYSE $3.96 After-Hours Mar 17 2026: AI stock may rebound"
         },
         {
-            "time": "22:29",
-            "tag": "MERCADO",
-            "text": "Digital banking and cybersecurity events launched by Jack Henry & Associates"
+            "time": "00:57",
+            "tag": "AI",
+            "text": "Corning unveils suite of next-gen optical innovations to connect AI data centers"
         },
         {
-            "time": "22:22",
-            "tag": "MERCADO",
-            "text": "Jim Cramer on ServiceNow (NOW): \u201cI Do Think That the Company Represents Actual Value at These Prices\u201d"
+            "time": "00:41",
+            "tag": "AI",
+            "text": "AT&T Stock Price Today: Why Shares Rose After Cisco-Nvidia AI Tie-Up"
         },
         {
-            "time": "22:15",
+            "time": "00:34",
             "tag": "MERCADO",
-            "text": "Jim Cramer on Synopsys (SNPS): \u201cLong a Company We Have Championed Since the Beginning of Mad Money\u201d"
+            "text": "Silver Lake entities sell Class C shares of Dell (DELL) in March 2026 trades"
         }
     ]
 }
