@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-18 08:55 UTC",
+        "last_updated": "2026-03-18 09:59 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 181.93,
-            "change": "-0.22%"
+            "change": "+2.41%"
         },
         {
             "symbol": "AMD",
             "price": 196.31,
-            "change": "+2.98%"
+            "change": "+2.78%"
         },
         {
             "symbol": "MSFT",
             "price": 399.41,
-            "change": "-2.76%"
+            "change": "+0.44%"
         },
         {
             "symbol": "CEG",
             "price": 307.69,
-            "change": "-2.35%"
+            "change": "-1.81%"
         },
         {
             "symbol": "VST",
             "price": 164.33,
-            "change": "-2.12%"
+            "change": "-2.24%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.68,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
             0.51,
             0.5,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.5,
+            0.51,
+            0.51,
             0.5,
             0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            24.89,
-            24.53,
-            24.17,
-            24.56,
-            24.83,
-            25.0,
-            25.01,
-            25.31,
-            25.46,
-            25.83,
-            25.45,
-            25.11
+            24.58,
+            24.19,
+            24.13,
+            23.68,
+            24.07,
+            23.85,
+            24.15,
+            24.62,
+            24.76,
+            24.58,
+            24.99,
+            25.13
         ],
         "hsd_history_software": [
-            9.46,
-            9.55,
-            9.72,
-            9.56,
-            9.45,
-            9.44,
-            9.47,
-            9.35,
-            9.5,
-            9.47,
-            9.65,
-            9.8
+            9.95,
+            9.85,
+            9.7,
+            9.69,
+            9.77,
+            9.9,
+            9.82,
+            9.77,
+            9.81,
+            9.94,
+            9.97,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:03",
-            "tag": "AI",
-            "text": "Samsung and AMD Expand Strategic Collaboration on Next-Generation AI Memory Solutions"
-        },
-        {
-            "time": "08:02",
+            "time": "09:06",
             "tag": "MERCADO",
-            "text": "Aspire Private Capital LLC Invests $1.56 Million in Analog Devices, Inc. $ADI"
+            "text": "UBS Maintains Buy on Aptiv PLC (APTV) March 2026"
         },
         {
-            "time": "08:02",
+            "time": "09:02",
             "tag": "MERCADO",
-            "text": "Alphabet Inc. $GOOG Stock Position Lessened by Auto Owners Insurance Co"
+            "text": "Hudson MA Police say new pilot bodycam program is 'game changing'"
         },
         {
-            "time": "08:02",
+            "time": "08:59",
             "tag": "MERCADO",
-            "text": "EPAM Leads as a Top IT Service Provider in Belgium and Luxembourg"
+            "text": "Quantum teleportation pioneer wins computing's top prize at IBM"
         },
         {
-            "time": "08:00",
-            "tag": "AI",
-            "text": "AMD CEO deepens ties with Samsung, Naver in AI infrastructure push"
+            "time": "08:58",
+            "tag": "MERCADO",
+            "text": "Match Group Inc. Stock (ISIN: US57669L1008) Gains Momentum Amid Analyst Adjustments and Steady Revenue Outlook"
+        },
+        {
+            "time": "08:55",
+            "tag": "MERCADO",
+            "text": "Carrhae Capital LLP Acquires Shares of 96,215 Synopsys, Inc. $SNPS"
         }
     ]
 }
