@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-18 19:05 UTC",
+        "last_updated": "2026-03-18 20:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 181.46,
-            "change": "+0.63%"
+            "price": 180.4,
+            "change": "-3.26%"
         },
         {
             "symbol": "AMD",
-            "price": 200.64,
-            "change": "-2.67%"
+            "price": 199.46,
+            "change": "-1.66%"
         },
         {
             "symbol": "MSFT",
-            "price": 392.7,
-            "change": "+3.31%"
+            "price": 391.79,
+            "change": "-2.22%"
         },
         {
             "symbol": "CEG",
-            "price": 320.87,
-            "change": "-0.59%"
+            "price": 317.22,
+            "change": "-1.82%"
         },
         {
             "symbol": "VST",
-            "price": 171.24,
-            "change": "-0.24%"
+            "price": 170.12,
+            "change": "+0.16%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.43,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.54,
             0.53,
             0.53,
-            0.54,
-            0.54,
-            0.54,
+            0.53,
             0.53,
             0.53,
             0.52,
-            0.51,
+            0.53,
+            0.52,
             0.51,
             0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            24.12,
-            24.39,
-            24.34,
-            24.71,
-            24.76,
-            25.09,
-            25.26,
-            25.43,
-            25.19,
-            25.48,
-            25.49,
-            25.2
+            24.91,
+            24.82,
+            25.12,
+            24.66,
+            25.06,
+            25.21,
+            25.15,
+            25.62,
+            25.72,
+            25.22,
+            24.77,
+            24.62
         ],
         "hsd_history_software": [
-            10.19,
-            10.12,
-            10.23,
-            10.3,
-            10.27,
-            10.28,
+            10.64,
+            10.72,
+            10.56,
+            10.66,
+            10.46,
+            10.47,
             10.41,
-            10.3,
-            10.1,
-            9.95,
-            10.04,
-            9.89
+            10.41,
+            10.21,
+            10.06,
+            10.12,
+            10.18
         ],
         "rci_data": [
             85.0,
-            18.146
+            18.04
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:10",
+            "time": "20:10",
             "tag": "MERCADO",
-            "text": "Expedia Group Inc. Stock (ISIN: US30212P3038) Surges on Analyst Buy Reiterated Amid Strong Q4 Moment"
+            "text": "Bandwidth Inc Stock Live Price, Chart, Analysis, News & Forecast \u2013 Buy, Sell & Trade US Equities Today"
         },
         {
-            "time": "18:10",
+            "time": "20:00",
             "tag": "MERCADO",
-            "text": "Snap-on Introduces Next-Gen Werkzeugwagen with Smart Storage Tech Revolutionizing Garage Efficiency"
+            "text": "A $2.3B imaging software deal expands GE HealthCare into clinics"
         },
         {
-            "time": "18:08",
+            "time": "19:57",
             "tag": "MERCADO",
-            "text": "IBOT Stock Fund Price and Chart \u2014 NASDAQ:IBOT"
+            "text": "Big Tech Overload? Invesco's New ETF Hits Reset On Nasdaq-100 Weights"
         },
         {
-            "time": "18:04",
+            "time": "19:39",
             "tag": "MERCADO",
-            "text": "Keysight Launches SBOM Manager to Help Organizations Prepare for Emerging Global Cybersecurity Regulations"
+            "text": "MSFY Stock Fund Price and Chart \u2014 CBOE:MSFY"
         },
         {
-            "time": "18:03",
+            "time": "19:37",
             "tag": "MERCADO",
-            "text": "Disney Annual Shareholders Meeting: New CEO Josh D\u2019Amaro Speaks to Company\u2019s Next Chapter of Creativity, Innovation, and Connection"
+            "text": "Google and DTE Energy Announce Strategic Partnership to Scale Clean Energy and Reliability in Michigan"
         }
     ]
 }
