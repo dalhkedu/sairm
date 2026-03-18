@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-18 02:33 UTC",
+        "last_updated": "2026-03-18 04:59 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 181.93,
-            "change": "-1.25%"
+            "change": "+1.0%"
         },
         {
             "symbol": "AMD",
             "price": 196.31,
-            "change": "-1.31%"
+            "change": "+1.03%"
         },
         {
             "symbol": "MSFT",
             "price": 399.41,
-            "change": "-1.5%"
+            "change": "-3.05%"
         },
         {
             "symbol": "CEG",
             "price": 307.69,
-            "change": "-0.44%"
+            "change": "-3.48%"
         },
         {
             "symbol": "VST",
             "price": 164.33,
-            "change": "+2.09%"
+            "change": "-2.96%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.52,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.52,
             0.51,
-            0.5,
             0.51,
-            0.5,
+            0.51,
             0.5,
             0.5,
             0.49,
+            0.49,
+            0.49,
             0.5,
+            0.49,
             0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            24.17,
-            23.89,
-            24.24,
-            23.85,
-            23.97,
-            24.15,
-            24.63,
-            24.8,
-            24.76,
-            25.16,
-            25.08,
-            25.07
+            26.3,
+            25.88,
+            25.78,
+            25.42,
+            25.71,
+            25.27,
+            25.04,
+            24.78,
+            24.58,
+            24.91,
+            25.06,
+            25.4
         ],
         "hsd_history_software": [
-            10.04,
-            10.13,
-            10.03,
-            9.94,
-            9.84,
-            9.89,
-            9.76,
-            9.89,
-            9.97,
-            10.07,
-            10.07,
-            9.92
+            9.44,
+            9.61,
+            9.66,
+            9.49,
+            9.59,
+            9.74,
+            9.83,
+            9.98,
+            10.01,
+            10.06,
+            10.0,
+            10.11
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:44",
+            "time": "04:07",
             "tag": "MERCADO",
-            "text": "A Look At Axon Enterprise (AXON) Valuation After Strong Q4 Beat And Upgraded Long Term Revenue Targets"
+            "text": "Enphase Energy (ENPH) director trust sells 137,250 common shares"
         },
         {
-            "time": "01:38",
-            "tag": "AI",
-            "text": "BigBear.ai (BBAI) NYSE $3.96 After-Hours Mar 17 2026: AI stock may rebound"
-        },
-        {
-            "time": "00:57",
-            "tag": "AI",
-            "text": "Corning unveils suite of next-gen optical innovations to connect AI data centers"
-        },
-        {
-            "time": "00:41",
-            "tag": "AI",
-            "text": "AT&T Stock Price Today: Why Shares Rose After Cisco-Nvidia AI Tie-Up"
-        },
-        {
-            "time": "00:34",
+            "time": "03:40",
             "tag": "MERCADO",
-            "text": "Silver Lake entities sell Class C shares of Dell (DELL) in March 2026 trades"
+            "text": "Is Strong 2025 Performance And China Expansion Reframing The Investment Case For Establishment Labs (ESTA)?"
+        },
+        {
+            "time": "03:39",
+            "tag": "MERCADO",
+            "text": "DXC Technology Company. (NYSE:DXC) Short Interest Up 15.4% in February"
+        },
+        {
+            "time": "03:09",
+            "tag": "MERCADO",
+            "text": "RSU settlements give Cypherpunk (CYPH) director 168,750 common shares"
+        },
+        {
+            "time": "03:04",
+            "tag": "AI",
+            "text": "Cadence and NVIDIA Expand Collaboration to Accelerate Agentic AI Chip and System Design Solutions"
         }
     ]
 }
