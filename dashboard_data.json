@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-18 15:06 UTC",
+        "last_updated": "2026-03-18 17:04 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 183.1,
-            "change": "+2.31%"
+            "price": 182.2,
+            "change": "-0.72%"
         },
         {
             "symbol": "AMD",
-            "price": 200.53,
-            "change": "+2.26%"
+            "price": 199.5,
+            "change": "+1.43%"
         },
         {
             "symbol": "MSFT",
-            "price": 395.24,
-            "change": "+2.98%"
+            "price": 393.02,
+            "change": "-2.77%"
         },
         {
             "symbol": "CEG",
-            "price": 321.6,
-            "change": "+0.88%"
+            "price": 320.33,
+            "change": "-2.32%"
         },
         {
             "symbol": "VST",
-            "price": 171.29,
-            "change": "+1.8%"
+            "price": 171.9,
+            "change": "+3.36%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.64,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.55,
+            0.55,
+            0.55,
+            0.55,
+            0.54,
+            0.54,
+            0.53,
+            0.53,
+            0.52,
             0.51,
-            0.51,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.13,
-            25.63,
-            25.31,
-            25.57,
-            26.05,
-            25.6,
-            25.36,
-            25.61,
-            25.17,
-            24.77,
-            24.95,
-            24.75
+            25.81,
+            25.34,
+            25.33,
+            25.22,
+            25.5,
+            25.01,
+            24.59,
+            24.54,
+            24.86,
+            24.69,
+            24.52,
+            24.78
         ],
         "hsd_history_software": [
-            10.32,
-            10.2,
-            10.26,
-            10.33,
-            10.52,
-            10.69,
-            10.62,
-            10.47,
-            10.39,
-            10.51,
-            10.36,
-            10.18
+            10.91,
+            10.89,
+            10.86,
+            10.68,
+            10.7,
+            10.56,
+            10.49,
+            10.34,
+            10.14,
+            10.11,
+            10.06,
+            10.01
         ],
         "rci_data": [
             85.0,
-            18.31
+            18.22
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:12",
+            "time": "16:28",
             "tag": "MERCADO",
-            "text": "Iron Mountain eyes seven-building data center campus outside Austin, Texas"
+            "text": "Historical Data for Intel Corp (Derivatives) in USD"
         },
         {
-            "time": "14:12",
-            "tag": "MERCADO",
-            "text": "Bank of Montreal \u2018cautiously optimistic\u2019 on Texas as D-FW economy stays firm"
+            "time": "16:28",
+            "tag": "RESULTADOS",
+            "text": "Analysts Stay Neutral on Hewlett Packard Enterprise (HPE) After Earnings"
         },
         {
-            "time": "14:09",
-            "tag": "MERCADO",
-            "text": "BLACKROCK SCIENCE & TECHNOLOGY TRUST"
-        },
-        {
-            "time": "14:02",
+            "time": "16:23",
             "tag": "AI",
-            "text": "TER (Teradyne, NASDAQ) $298.52 intraday 18 Mar 2026: AI robotics lift; targets ahead"
+            "text": "Should Super Micro Computer\u2019s Expanded NVIDIA AI Factory Lineup at GTC 2026 Require Action From SMCI Investors?"
         },
         {
-            "time": "14:00",
-            "tag": "MERCADO",
-            "text": "\u2018Never get out-hustled.\u2019 ServiceNow\u2019s CEO shares his best career advice."
+            "time": "16:18",
+            "tag": "AI",
+            "text": "Fast followers will fall behind in the AI race, warns ServiceNow"
+        },
+        {
+            "time": "16:09",
+            "tag": "AI",
+            "text": "Elanco Animal (ELAN) Climbs 7.6% on Upbeat Outlook, Sets Sights on AI"
         }
     ]
 }
