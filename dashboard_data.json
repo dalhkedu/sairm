@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-19 07:49 UTC",
+        "last_updated": "2026-03-19 08:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.4,
-            "change": "+3.23%"
+            "change": "-2.89%"
         },
         {
             "symbol": "AMD",
-            "price": 199.46,
-            "change": "+2.69%"
+            "price": NaN,
+            "change": "+1.95%"
         },
         {
             "symbol": "MSFT",
             "price": 391.79,
-            "change": "+2.84%"
+            "change": "-0.65%"
         },
         {
             "symbol": "CEG",
             "price": 317.22,
-            "change": "-1.82%"
+            "change": "+0.07%"
         },
         {
             "symbol": "VST",
             "price": 170.12,
-            "change": "-1.25%"
+            "change": "+1.62%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.63,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
             0.5,
             0.5,
             0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.42,
-            24.99,
-            24.7,
-            24.59,
-            24.61,
-            24.23,
-            24.28,
-            24.42,
-            24.75,
-            24.67,
-            25.16,
-            25.49
+            26.42,
+            26.64,
+            26.36,
+            26.3,
+            25.83,
+            25.94,
+            25.64,
+            25.79,
+            25.56,
+            25.59,
+            25.53,
+            25.31
         ],
         "hsd_history_software": [
-            9.91,
-            10.06,
-            10.0,
+            10.5,
+            10.47,
+            10.35,
+            10.16,
             10.02,
-            10.12,
-            9.99,
-            9.98,
+            9.87,
             9.88,
-            9.97,
-            9.9,
-            9.74,
-            9.9
+            9.78,
+            9.95,
+            10.12,
+            10.21,
+            10.17
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:11",
-            "tag": "AI",
-            "text": "ServiceNow Cohesity Tie Up Targets AI Agent Resilience As New Standard"
-        },
-        {
-            "time": "06:09",
-            "tag": "RESULTADOS",
-            "text": "KULR Technology Group (KULR) Projected to Post Quarterly Earnings on Thursday"
-        },
-        {
-            "time": "05:45",
-            "tag": "RESULTADOS",
-            "text": "Gentex Corp Stock (ISIN: US37253A1034) Holds Steady Amid Auto Sector Volatility as Q4 Earnings Loom"
-        },
-        {
-            "time": "05:39",
+            "time": "08:01",
             "tag": "MERCADO",
-            "text": "Calif. biotech company lays off almost half of staff after 78% stock drop"
+            "text": "Danske Bank A S Invests $46.65 Million in Western Digital Corporation $WDC"
         },
         {
-            "time": "05:38",
+            "time": "08:01",
             "tag": "MERCADO",
-            "text": "Kroger has no time to waste as it inks automated micro-fulfillment solution deal with Fulfil"
+            "text": "212,292 Shares in Electronic Arts Inc. $EA Acquired by Danske Bank A S"
+        },
+        {
+            "time": "08:01",
+            "tag": "MERCADO",
+            "text": "Danske Bank A S Takes $42.81 Million Position in NetApp, Inc. $NTAP"
+        },
+        {
+            "time": "08:01",
+            "tag": "MERCADO",
+            "text": "Danske Bank A S Acquires New Position in MSCI Inc $MSCI"
+        },
+        {
+            "time": "08:01",
+            "tag": "MERCADO",
+            "text": "Danske Bank A S Takes $67.58 Million Position in Analog Devices, Inc. $ADI"
         }
     ]
 }
