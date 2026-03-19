@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-19 06:02 UTC",
+        "last_updated": "2026-03-19 07:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.4,
-            "change": "+1.22%"
+            "change": "+3.23%"
         },
         {
             "symbol": "AMD",
             "price": 199.46,
-            "change": "+2.43%"
+            "change": "+2.69%"
         },
         {
             "symbol": "MSFT",
             "price": 391.79,
-            "change": "-3.16%"
+            "change": "+2.84%"
         },
         {
             "symbol": "CEG",
             "price": 317.22,
-            "change": "+2.95%"
+            "change": "-1.82%"
         },
         {
             "symbol": "VST",
             "price": 170.12,
-            "change": "-2.96%"
+            "change": "-1.25%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.55,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.47,
-            0.47,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.58,
-            24.85,
-            24.53,
-            25.0,
-            24.93,
-            24.87,
-            24.8,
-            24.44,
-            24.1,
-            24.37,
-            24.53,
-            24.54
+            25.42,
+            24.99,
+            24.7,
+            24.59,
+            24.61,
+            24.23,
+            24.28,
+            24.42,
+            24.75,
+            24.67,
+            25.16,
+            25.49
         ],
         "hsd_history_software": [
-            9.36,
-            9.44,
-            9.55,
-            9.68,
-            9.77,
-            9.73,
-            9.85,
-            9.93,
-            9.93,
-            9.92,
-            9.95,
-            9.95
+            9.91,
+            10.06,
+            10.0,
+            10.02,
+            10.12,
+            9.99,
+            9.98,
+            9.88,
+            9.97,
+            9.9,
+            9.74,
+            9.9
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "06:11",
+            "tag": "AI",
+            "text": "ServiceNow Cohesity Tie Up Targets AI Agent Resilience As New Standard"
+        },
+        {
+            "time": "06:09",
+            "tag": "RESULTADOS",
+            "text": "KULR Technology Group (KULR) Projected to Post Quarterly Earnings on Thursday"
+        },
+        {
             "time": "05:45",
             "tag": "RESULTADOS",
             "text": "Gentex Corp Stock (ISIN: US37253A1034) Holds Steady Amid Auto Sector Volatility as Q4 Earnings Loom"
@@ -138,17 +148,7 @@
         {
             "time": "05:38",
             "tag": "MERCADO",
-            "text": "GMGT Stock Price and Chart \u2014 OTC:GMGT"
-        },
-        {
-            "time": "05:32",
-            "tag": "MERCADO",
-            "text": "Entergy wins nod for 600-MW solar project with BESS in Arkansas"
-        },
-        {
-            "time": "04:54",
-            "tag": "MERCADO",
-            "text": "Decoding Best Buy Co Inc (BBY): A Strategic SWOT Insight"
+            "text": "Kroger has no time to waste as it inks automated micro-fulfillment solution deal with Fulfil"
         }
     ]
 }
