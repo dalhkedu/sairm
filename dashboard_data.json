@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-19 19:03 UTC",
+        "last_updated": "2026-03-19 20:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": NaN,
-            "change": "-2.78%"
+            "price": 178.56,
+            "change": "-0.86%"
         },
         {
             "symbol": "AMD",
-            "price": 203.78,
-            "change": "+0.29%"
+            "price": 205.27,
+            "change": "-1.1%"
         },
         {
             "symbol": "MSFT",
-            "price": 389.05,
-            "change": "+1.76%"
+            "price": 389.02,
+            "change": "-3.12%"
         },
         {
             "symbol": "CEG",
-            "price": 315.2,
-            "change": "-2.88%"
+            "price": 316.47,
+            "change": "-2.28%"
         },
         {
             "symbol": "VST",
-            "price": 168.18,
-            "change": "-3.26%"
+            "price": 167.37,
+            "change": "-1.69%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
-        "rci_current": NaN,
+        "cer_current": 0.59,
+        "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.49,
-            0.5,
-            0.5,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            23.85,
-            23.7,
-            23.88,
-            23.84,
-            24.05,
-            23.81,
-            23.61,
-            23.4,
-            23.86,
-            23.95,
-            24.4,
-            24.81
+            25.27,
+            25.49,
+            25.07,
+            25.43,
+            25.3,
+            25.75,
+            25.54,
+            25.78,
+            25.62,
+            25.8,
+            25.77,
+            25.42
         ],
         "hsd_history_software": [
-            9.84,
-            9.94,
-            10.08,
-            10.09,
+            10.36,
+            10.23,
+            10.27,
+            10.46,
+            10.36,
+            10.28,
+            10.13,
+            9.93,
             10.0,
-            9.96,
-            9.83,
-            9.76,
-            9.8,
-            9.74,
-            9.8,
-            9.85
+            10.18,
+            10.02,
+            9.99
         ],
         "rci_data": [
             85.0,
-            NaN
+            17.855999999999998
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:50",
+            "time": "20:07",
             "tag": "MERCADO",
-            "text": "CoStar Group (NASDAQ:CSGP) Price Target Cut to $63.00 by Analysts at The Goldman Sachs Group"
+            "text": "Marvell Technology, Inc. Declares Quarterly Dividend Payment"
         },
         {
-            "time": "17:48",
+            "time": "20:04",
             "tag": "MERCADO",
-            "text": "The Goldman Sachs Group Issues Positive Forecast for Energy Vault (NYSE:NRGV) Stock Price"
+            "text": "Marvell Technology, Inc. Declares Quarterly Dividend Payment"
         },
         {
-            "time": "17:38",
+            "time": "19:55",
             "tag": "MERCADO",
-            "text": "Assessing Ichor Holdings (ICHR) Valuation After Fresh Analyst Upgrades And Improving Margin Expectations"
+            "text": "Deal wrap: Dallas unicorn locks in funding from JPMorgan"
         },
         {
-            "time": "17:30",
+            "time": "19:53",
             "tag": "MERCADO",
-            "text": "AttoTude adopts Keysight signal analysis software for THz tech"
+            "text": "Morgan Stanley downgrades Tencent Music stock rating on competition concerns"
         },
         {
-            "time": "17:24",
+            "time": "19:36",
             "tag": "MERCADO",
-            "text": "Ecolab Nears $5B Deal to Acquire KKR's Data-Center Cooling Firm"
+            "text": "Ecolab near $4.5B+ deal for data center cooling company CoolIT, WSJ reports"
         }
     ]
 }
