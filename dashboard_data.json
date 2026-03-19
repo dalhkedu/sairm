@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-19 22:32 UTC",
+        "last_updated": "2026-03-19 23:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": NaN,
-            "change": "-3.38%"
+            "price": 178.56,
+            "change": "+1.28%"
         },
         {
             "symbol": "AMD",
             "price": 205.27,
-            "change": "+0.03%"
+            "change": "-0.75%"
         },
         {
             "symbol": "MSFT",
             "price": 389.02,
-            "change": "-0.42%"
+            "change": "+0.73%"
         },
         {
             "symbol": "CEG",
             "price": 316.47,
-            "change": "-2.23%"
+            "change": "+2.47%"
         },
         {
             "symbol": "VST",
             "price": 167.37,
-            "change": "-3.29%"
+            "change": "-0.17%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
-        "rci_current": NaN,
+        "cer_current": 0.45,
+        "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
             0.49,
             0.49,
             0.5,
+            0.5,
             0.49,
-            0.5
+            0.48,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.7,
-            25.43,
-            25.37,
-            25.25,
-            24.89,
-            24.5,
-            24.93,
-            24.84,
-            24.96,
-            24.73,
-            25.07,
-            24.71
+            24.06,
+            24.32,
+            24.0,
+            24.27,
+            24.71,
+            24.59,
+            25.05,
+            24.78,
+            25.14,
+            24.77,
+            25.11,
+            24.84
         ],
         "hsd_history_software": [
-            10.32,
-            10.19,
-            10.11,
-            9.95,
-            10.09,
-            10.09,
+            10.07,
+            10.1,
+            10.02,
+            10.0,
+            10.2,
+            10.33,
+            10.28,
+            10.47,
             10.29,
-            10.12,
-            9.93,
-            9.89,
-            9.73,
-            9.82
+            10.22,
+            10.13,
+            10.11
         ],
         "rci_data": [
             85.0,
-            NaN
+            17.855999999999998
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:11",
+            "time": "22:48",
             "tag": "MERCADO",
-            "text": "B. Riley Raises Price Target on Hyperfine to $1.60 From $1.30, Keeps Buy Rating"
+            "text": "Super Micro Computer Issues Statement on Action by U.S. Attorney's Office"
         },
         {
-            "time": "22:07",
+            "time": "22:45",
             "tag": "MERCADO",
-            "text": "Invesco QQQ ETF"
+            "text": "Western Digital (WDC) CLO awarded new dividend-equivalent rights"
         },
         {
-            "time": "21:56",
+            "time": "22:44",
             "tag": "MERCADO",
-            "text": "Nio's in-house chip production exceeds 550,000 units, says William Li"
+            "text": "[Form 4] WESTERN DIGITAL CORP Insider Trading Activity"
         },
         {
-            "time": "21:44",
-            "tag": "AI",
-            "text": "Applied Materials, Inc. stock faces valuation scrutiny amid AI boom and institutional shifts"
+            "time": "22:43",
+            "tag": "MERCADO",
+            "text": "Dividend rights granted to Western Digital (WDC) director Matthew Massengill"
         },
         {
-            "time": "21:25",
+            "time": "22:41",
             "tag": "MERCADO",
-            "text": "Rocket Lab (NASDAQ:RKLB) Trading Up 3.5% - Should You Buy?"
+            "text": "Western Digital (WDC) director receives dividend equivalent rights award"
         }
     ]
 }
