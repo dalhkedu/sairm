@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-19 21:39 UTC",
+        "last_updated": "2026-03-19 22:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 178.56,
-            "change": "-3.15%"
+            "price": NaN,
+            "change": "-3.38%"
         },
         {
             "symbol": "AMD",
             "price": 205.27,
-            "change": "+2.05%"
+            "change": "+0.03%"
         },
         {
             "symbol": "MSFT",
             "price": 389.02,
-            "change": "-2.38%"
+            "change": "-0.42%"
         },
         {
             "symbol": "CEG",
             "price": 316.47,
-            "change": "-2.6%"
+            "change": "-2.23%"
         },
         {
             "symbol": "VST",
             "price": 167.37,
-            "change": "+2.54%"
+            "change": "-3.29%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
-        "rci_current": 0.18,
+        "cer_current": 0.59,
+        "rci_current": NaN,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.5,
-            0.5,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            25.17,
-            25.42,
-            25.52,
-            25.84,
-            25.34,
-            25.36,
-            25.86,
-            25.8,
-            25.41,
-            25.89,
-            25.72,
-            25.27
+            25.7,
+            25.43,
+            25.37,
+            25.25,
+            24.89,
+            24.5,
+            24.93,
+            24.84,
+            24.96,
+            24.73,
+            25.07,
+            24.71
         ],
         "hsd_history_software": [
-            10.25,
-            10.45,
-            10.54,
-            10.42,
-            10.36,
-            10.31,
-            10.33,
-            10.28,
+            10.32,
+            10.19,
+            10.11,
+            9.95,
             10.09,
-            10.02,
-            10.05,
-            10.19
+            10.09,
+            10.29,
+            10.12,
+            9.93,
+            9.89,
+            9.73,
+            9.82
         ],
         "rci_data": [
             85.0,
-            17.855999999999998
+            NaN
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:08",
+            "time": "22:11",
             "tag": "MERCADO",
-            "text": "Viavi Solutions shares rise on cybersecurity product launch and RSAC positioning"
+            "text": "B. Riley Raises Price Target on Hyperfine to $1.60 From $1.30, Keeps Buy Rating"
         },
         {
-            "time": "21:00",
+            "time": "22:07",
             "tag": "MERCADO",
-            "text": "T-Mobile investors get next $1.02-a-share dividend on June 11"
+            "text": "Invesco QQQ ETF"
         },
         {
-            "time": "20:57",
+            "time": "21:56",
             "tag": "MERCADO",
-            "text": "One Stop Systems (NASDAQ:OSS) Price Target Raised to $12.00"
+            "text": "Nio's in-house chip production exceeds 550,000 units, says William Li"
         },
         {
-            "time": "20:52",
-            "tag": "MERCADO",
-            "text": "Seagate Technology Holdings PLC stock outperforms competitors on strong trading day"
+            "time": "21:44",
+            "tag": "AI",
+            "text": "Applied Materials, Inc. stock faces valuation scrutiny amid AI boom and institutional shifts"
         },
         {
-            "time": "20:36",
+            "time": "21:25",
             "tag": "MERCADO",
-            "text": "Linking wells to facilities: How digital tools are reshaping oil and gas production"
+            "text": "Rocket Lab (NASDAQ:RKLB) Trading Up 3.5% - Should You Buy?"
         }
     ]
 }
