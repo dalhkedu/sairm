@@ -1,44 +1,43 @@
 {
     "metadata": {
-        "last_updated": "2026-03-18 23:33 UTC",
+        "last_updated": "2026-03-19 02:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 180.4,
-            "change": "-1.54%"
+            "change": "-0.3%"
         },
         {
             "symbol": "AMD",
             "price": 199.46,
-            "change": "+2.24%"
+            "change": "+3.28%"
         },
         {
             "symbol": "MSFT",
             "price": 391.79,
-            "change": "+0.31%"
+            "change": "-0.69%"
         },
         {
             "symbol": "CEG",
             "price": 317.22,
-            "change": "-1.61%"
+            "change": "+0.65%"
         },
         {
             "symbol": "VST",
             "price": 170.12,
-            "change": "+0.49%"
+            "change": "+3.2%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.4,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
-            0.49,
-            0.49,
+            0.48,
             0.49,
             0.48,
             0.48,
@@ -46,36 +45,37 @@
             0.49,
             0.49,
             0.49,
-            0.5,
+            0.49,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            25.83,
-            26.1,
-            26.42,
-            26.22,
-            26.2,
-            26.52,
+            26.24,
+            25.93,
             26.09,
-            25.61,
-            25.24,
-            24.87,
-            24.6,
-            24.63
+            26.0,
+            25.53,
+            25.67,
+            26.11,
+            25.82,
+            26.11,
+            25.76,
+            25.38,
+            25.43
         ],
         "hsd_history_software": [
-            9.68,
-            9.73,
-            9.57,
-            9.51,
+            10.13,
+            9.97,
+            10.08,
+            9.89,
+            9.81,
+            9.79,
+            9.65,
             9.71,
-            9.86,
-            10.0,
-            10.11,
-            10.0,
-            10.05,
-            10.1,
-            9.93
+            9.85,
+            9.87,
+            10.07,
+            10.13
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:52",
-            "tag": "AI",
-            "text": "Citi raises eBay target, points to strength in AI execution"
-        },
-        {
-            "time": "22:52",
+            "time": "02:07",
             "tag": "MERCADO",
-            "text": "Synaptics SVP Bodensteiner sells $24993 in shares"
+            "text": "Xu Ran (NASDAQ: BIDU) details Baidu director share and restricted stock holdings"
         },
         {
-            "time": "22:26",
+            "time": "02:05",
             "tag": "MERCADO",
-            "text": "Jim Cramer Recommended Putting KLA (KLAC) \u201cin the Drawer\u201d In February 2025"
+            "text": "Insider Buying: David Kirk Acquires Shares of Salesforce Inc (CR"
         },
         {
-            "time": "22:18",
-            "tag": "AI",
-            "text": "Assessing KLA (KLAC) Valuation After A Strong Run In AI Infrastructure And Process Control"
+            "time": "02:03",
+            "tag": "MERCADO",
+            "text": "Director Ita Brennan Sells Shares of Cadence Design Systems Inc"
         },
         {
-            "time": "22:18",
-            "tag": "AI",
-            "text": "Citi Raises eBay Target, Points to Strength in AI Execution"
+            "time": "01:51",
+            "tag": "MERCADO",
+            "text": "Enphase Energy Shareholder Alert: ClaimsFiler Reminds Investors With Losses In Excess Of $100,000 Of Lead Plaintiff Deadline In Class Action Lawsuit Against Enphase Energy, Inc. - ENPH"
+        },
+        {
+            "time": "01:49",
+            "tag": "MERCADO",
+            "text": "NetApp Unveils New High-Performance EF-Series Models"
         }
     ]
 }
