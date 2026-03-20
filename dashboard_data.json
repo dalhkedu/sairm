@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-20 11:34 UTC",
+        "last_updated": "2026-03-20 13:06 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 178.56,
-            "change": "-1.33%"
+            "change": "-1.24%"
         },
         {
             "symbol": "AMD",
             "price": 205.27,
-            "change": "-1.44%"
+            "change": "-3.03%"
         },
         {
             "symbol": "MSFT",
             "price": 389.02,
-            "change": "-1.25%"
+            "change": "+0.1%"
         },
         {
             "symbol": "CEG",
             "price": 316.47,
-            "change": "+1.36%"
+            "change": "-3.08%"
         },
         {
             "symbol": "VST",
             "price": 167.37,
-            "change": "+2.49%"
+            "change": "+1.0%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.67,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
+            0.5,
+            0.5,
+            0.5,
             0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            23.56,
-            23.57,
-            23.43,
-            23.86,
-            23.69,
-            24.01,
-            24.49,
-            24.7,
-            24.65,
-            24.74,
-            24.88,
-            25.07
+            23.35,
+            23.7,
+            24.04,
+            24.3,
+            24.19,
+            24.27,
+            24.69,
+            24.99,
+            25.36,
+            24.97,
+            24.92,
+            25.08
         ],
         "hsd_history_software": [
-            10.0,
+            10.08,
             9.99,
-            9.8,
-            9.89,
-            9.87,
-            9.97,
-            10.13,
+            9.93,
+            9.82,
+            9.92,
+            9.81,
+            10.0,
+            10.1,
+            9.99,
             10.01,
-            10.13,
-            10.01,
-            10.15,
-            10.1
+            9.82,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:57",
+            "time": "12:39",
             "tag": "MERCADO",
-            "text": "Martin Capital Partners LLC Has $4.79 Million Stake in Verizon Communications Inc. $VZ"
+            "text": "U-BX Technology (Nasdaq:UBXG) - Stock Analysis"
         },
         {
-            "time": "10:49",
+            "time": "12:19",
             "tag": "MERCADO",
-            "text": "Park National Corp OH Sells 15,299 Shares of Cisco Systems, Inc. $CSCO"
+            "text": "Ecolab confirms deal to buy CoolIT Systems for $4.75B (ECL:NYSE)"
         },
         {
-            "time": "10:49",
+            "time": "12:15",
             "tag": "MERCADO",
-            "text": "Park National Corp OH Acquires 10,185 Shares of Arista Networks, Inc. $ANET"
+            "text": "Union Bancaire Privee UBP SA Buys Shares of 190,738 Fidelity National Information Services, Inc. $FIS"
         },
         {
-            "time": "10:47",
+            "time": "12:09",
             "tag": "MERCADO",
-            "text": "Park National Corp OH Raises Stock Position in Cadence Design Systems, Inc. $CDNS"
+            "text": "Johnson Controls Rose 22% in the Last 6 Months. Here\u2019s Where the Stock Could Go Next in 2026"
         },
         {
-            "time": "10:47",
+            "time": "12:06",
             "tag": "MERCADO",
-            "text": "Grant Private Wealth Management Inc Has $2.60 Million Stock Holdings in Netflix, Inc. $NFLX"
+            "text": "Tudor Investment Corp ET AL Increases Stock Holdings in Roper Technologies, Inc. $ROP"
         }
     ]
 }
