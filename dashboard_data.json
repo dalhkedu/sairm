@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-20 02:26 UTC",
+        "last_updated": "2026-03-20 04:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 178.56,
-            "change": "+0.05%"
+            "change": "+1.33%"
         },
         {
             "symbol": "AMD",
             "price": 205.27,
-            "change": "+0.78%"
+            "change": "-0.08%"
         },
         {
             "symbol": "MSFT",
             "price": 389.02,
-            "change": "-0.44%"
+            "change": "-0.98%"
         },
         {
             "symbol": "CEG",
             "price": 316.47,
-            "change": "+1.32%"
+            "change": "+2.15%"
         },
         {
             "symbol": "VST",
             "price": 167.37,
-            "change": "+0.94%"
+            "change": "+2.66%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.56,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
+            0.49,
             0.48,
             0.48,
             0.49,
-            0.5,
-            0.5,
-            0.5,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.49,
             0.49,
             0.5,
-            0.5,
-            0.51,
-            0.51
+            0.49
         ],
         "hsd_history_hardware": [
-            22.85,
-            23.0,
-            23.45,
-            23.61,
-            23.7,
-            24.04,
-            24.31,
-            24.77,
-            24.3,
-            24.0,
-            24.46,
-            24.74
+            25.45,
+            25.49,
+            25.5,
+            25.66,
+            26.0,
+            26.46,
+            26.28,
+            26.14,
+            25.65,
+            25.63,
+            25.72,
+            25.31
         ],
         "hsd_history_software": [
-            9.57,
-            9.67,
             9.85,
+            9.88,
+            10.02,
             9.94,
+            10.03,
+            10.08,
+            10.0,
+            9.9,
             9.78,
-            9.77,
-            9.84,
-            9.83,
-            9.97,
-            10.18,
-            10.07,
-            10.06
+            9.69,
+            9.81,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:39",
+            "time": "04:08",
             "tag": "MERCADO",
-            "text": "Insider Sell: Paul Oldham Sells Shares of Advanced Energy Indust"
+            "text": "Crane NXT Board Shift Brings New Tech Focus To Undervalued Shares"
         },
         {
-            "time": "01:08",
-            "tag": "MERCADO",
-            "text": "ETFs to Tap on NVIDIA's 10-for-1 Stock Split Retail Frenzy"
+            "time": "04:01",
+            "tag": "AI",
+            "text": "Salesforce, Inc. stock surges on AI-driven fiscal 2026 results and $50B buyback amid growth concerns"
         },
         {
-            "time": "00:47",
-            "tag": "MERCADO",
-            "text": "QuickBooks Desktop Deadline Tests Intuit Retention As Xero Targets Migrations"
+            "time": "03:49",
+            "tag": "AI",
+            "text": "Nvidia To Deliver 1 Million AI Chips To Amazon Web Services By 2027 In Massive Multi-Chip Deal Set To Supercharge Inference And Cloud Computing"
         },
         {
-            "time": "00:36",
+            "time": "03:39",
             "tag": "MERCADO",
-            "text": "Is Jack Henry And Associates (JKHY) Fairly Priced After Recent Share Price Weakness?"
+            "text": "CSCL Stock Fund Price and Chart \u2014 NASDAQ:CSCL"
         },
         {
-            "time": "00:11",
+            "time": "03:15",
             "tag": "MERCADO",
-            "text": "Linking wells to facilities: How digital tools are reshaping oil and gas production"
+            "text": "Trimble Inc. wins awards for company outlook diversity and support for women"
         }
     ]
 }
