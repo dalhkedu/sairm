@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-20 14:45 UTC",
+        "last_updated": "2026-03-20 15:46 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 175.63,
-            "change": "+2.64%"
+            "price": 175.77,
+            "change": "+2.84%"
         },
         {
             "symbol": "AMD",
-            "price": 201.1,
-            "change": "+1.78%"
+            "price": 201.96,
+            "change": "+1.2%"
         },
         {
             "symbol": "MSFT",
-            "price": 384.2,
-            "change": "+2.35%"
+            "price": 383.88,
+            "change": "-1.34%"
         },
         {
             "symbol": "CEG",
-            "price": 306.84,
-            "change": "+2.88%"
+            "price": 299.57,
+            "change": "-2.96%"
         },
         {
             "symbol": "VST",
-            "price": 160.01,
-            "change": "+1.62%"
+            "price": 156.51,
+            "change": "+2.62%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.55,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
-            0.52,
-            0.51,
-            0.5,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.47,
+            0.47,
+            0.48,
             0.49,
             0.49,
             0.49,
             0.5,
-            0.49,
-            0.49,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            25.39,
-            25.25,
-            25.59,
-            25.42,
-            25.1,
-            25.5,
-            25.54,
-            25.32,
-            24.9,
-            25.28,
-            25.79,
-            25.49
+            23.31,
+            22.94,
+            23.09,
+            23.33,
+            23.27,
+            23.54,
+            23.92,
+            24.19,
+            24.53,
+            24.6,
+            24.63,
+            24.94
         ],
         "hsd_history_software": [
-            9.29,
-            9.24,
-            9.18,
-            9.23,
-            9.23,
-            9.24,
-            9.38,
-            9.57,
-            9.77,
-            9.84,
-            10.01,
-            10.17
+            10.16,
+            10.24,
+            10.08,
+            9.9,
+            9.9,
+            9.73,
+            9.89,
+            10.0,
+            9.93,
+            10.06,
+            9.99,
+            9.98
         ],
         "rci_data": [
             85.0,
-            17.563000000000002
+            17.577
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:53",
+            "time": "15:04",
             "tag": "MERCADO",
-            "text": "Arm Holdings Stock Surges After HSBC's Buy Upgrade To $205"
+            "text": "Uber faces class action for allegedly misleading riders with inaccurate arrival times"
         },
         {
-            "time": "13:41",
+            "time": "14:57",
             "tag": "MERCADO",
-            "text": "Qualcomm Just Got a Street-Low Price Target\u2014What\u2019s Spooking Analysts?"
+            "text": "Generac Is Up 47% Year to Date. Here\u2019s Where the Stock Could Go in 2026"
         },
         {
-            "time": "13:39",
+            "time": "14:56",
             "tag": "MERCADO",
-            "text": "PANW vs. OKTA: Which Cybersecurity Stock Has an Edge Right Now?"
+            "text": "Longeviti Neuro Solutions Appoints T. Rowe Price CEO Robert W. Sharps to Board of Directors"
         },
         {
-            "time": "13:32",
+            "time": "14:36",
             "tag": "MERCADO",
-            "text": "Domino\u2019s and PayRange Add the Paze Wallet Option"
+            "text": "BAC (NYSE: BAC) prices Buffered Auto\u2011Callable Notes linked to DELL, AMD, AVGO"
         },
         {
-            "time": "13:29",
+            "time": "14:35",
             "tag": "MERCADO",
-            "text": "Soitec secures deal to supply POI wafers for Skyworks"
+            "text": "Tesla, Oracle among market cap stock movers on Friday"
         }
     ]
 }
