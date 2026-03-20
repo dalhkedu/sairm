@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-20 20:36 UTC",
+        "last_updated": "2026-03-20 21:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 172.7,
-            "change": "-1.76%"
+            "change": "+0.79%"
         },
         {
             "symbol": "AMD",
             "price": 201.33,
-            "change": "+3.44%"
+            "change": "-2.35%"
         },
         {
             "symbol": "MSFT",
             "price": 381.87,
-            "change": "-0.24%"
+            "change": "+2.42%"
         },
         {
             "symbol": "CEG",
             "price": 281.99,
-            "change": "+1.88%"
+            "change": "+2.91%"
         },
         {
             "symbol": "VST",
             "price": 146.02,
-            "change": "-1.51%"
+            "change": "+3.47%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.42,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
+            0.46,
+            0.47,
+            0.48,
             0.49,
             0.48,
             0.49,
             0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
             0.49,
-            0.49
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.81,
-            25.77,
-            25.41,
-            25.09,
-            24.6,
-            24.7,
-            24.61,
-            24.26,
-            24.57,
-            24.87,
-            24.97,
-            24.77
+            26.15,
+            26.39,
+            26.04,
+            26.14,
+            26.04,
+            25.89,
+            25.6,
+            25.51,
+            25.05,
+            24.66,
+            25.12,
+            24.76
         ],
         "hsd_history_software": [
-            10.03,
-            10.14,
-            10.29,
-            10.19,
-            10.15,
-            10.32,
-            10.15,
-            10.11,
-            10.02,
+            9.91,
+            9.85,
+            10.0,
+            9.91,
             9.9,
-            9.79,
-            9.81
+            9.81,
+            9.62,
+            9.63,
+            9.69,
+            9.84,
+            9.71,
+            9.83
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:15",
+            "time": "21:02",
             "tag": "MERCADO",
-            "text": "Hesai Technology signs agreement to supply Dreame with 10 million LiDAR units"
+            "text": "Fidelity National Info Announces Chief Product Technology Officer Resignation"
         },
         {
-            "time": "19:40",
+            "time": "20:57",
             "tag": "MERCADO",
-            "text": "CISA urges organizations to harden endpoint management systems following Stryker cyberattack"
+            "text": "International Business Machines (NYSE:IBM) Shares Down 1.7% Following Analyst Downgrade"
         },
         {
-            "time": "19:34",
-            "tag": "AI",
-            "text": "Alphabet Inc. Class C stock faces pressure on Nasdaq amid AI competition and regulatory scrutiny"
-        },
-        {
-            "time": "19:33",
-            "tag": "RESULTADOS",
-            "text": "Korea Electric Power Corporation (KEP): Smart Electric Life Launch and Robust FY2025 Earnings"
-        },
-        {
-            "time": "19:29",
+            "time": "20:55",
             "tag": "MERCADO",
-            "text": "LG Display (LPL) Secures Next\u2011Gen OLED Future Through Extended UDC Partnership"
+            "text": "Verizon Communications (NYSE:VZ) Shares Up 1.2% After Analyst Upgrade"
+        },
+        {
+            "time": "20:54",
+            "tag": "MERCADO",
+            "text": "Arista Networks (NYSE:ANET) Shares Down 3.8% Following Insider Selling"
+        },
+        {
+            "time": "20:49",
+            "tag": "MERCADO",
+            "text": "Evercore and Goldman Sachs Stay Bullish on Arista Networks (ANET)"
         }
     ]
 }
