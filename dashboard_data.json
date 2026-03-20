@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-20 09:47 UTC",
+        "last_updated": "2026-03-20 10:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 178.56,
-            "change": "+0.05%"
+            "change": "-1.0%"
         },
         {
             "symbol": "AMD",
             "price": 205.27,
-            "change": "-3.27%"
+            "change": "-0.53%"
         },
         {
             "symbol": "MSFT",
             "price": 389.02,
-            "change": "+1.01%"
+            "change": "+3.19%"
         },
         {
             "symbol": "CEG",
             "price": 316.47,
-            "change": "+0.96%"
+            "change": "-0.54%"
         },
         {
             "symbol": "VST",
             "price": 167.37,
-            "change": "+2.67%"
+            "change": "-2.71%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.46,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
-            0.51,
+            0.48,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.5,
-            0.5,
-            0.5,
             0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            25.69,
-            25.57,
-            25.41,
-            24.96,
+            24.67,
+            24.4,
+            24.46,
+            24.7,
+            24.92,
+            25.36,
+            25.03,
+            24.91,
+            24.82,
             24.71,
-            24.6,
-            24.99,
-            24.97,
-            24.49,
-            24.81,
-            25.24,
-            25.44
+            24.94,
+            25.15
         ],
         "hsd_history_software": [
-            9.99,
-            9.81,
-            9.92,
-            9.98,
-            10.13,
-            10.24,
-            10.09,
-            10.06,
-            10.14,
-            10.03,
-            10.01,
-            9.82
+            9.47,
+            9.33,
+            9.28,
+            9.33,
+            9.34,
+            9.22,
+            9.38,
+            9.5,
+            9.66,
+            9.84,
+            9.74,
+            9.88
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:10",
+            "time": "10:08",
             "tag": "MERCADO",
-            "text": "PAR SEC Filings - Par Technology 10-K, 10-Q, 8-K Forms"
+            "text": "Parsons gets 2 more option years on classified U.S. contract"
         },
         {
-            "time": "09:10",
+            "time": "09:54",
             "tag": "MERCADO",
-            "text": "One Stop Systems (OSS) Swings To Q3 Profit Challenging Longstanding Loss Narrative"
+            "text": "HPQ.SW HP Inc. (SIX): CHF15.25 intraday on volume spike 20 Mar 2026: watch CHF14.70 support"
         },
         {
-            "time": "08:50",
+            "time": "09:49",
             "tag": "MERCADO",
-            "text": "Catherine Avery Investment Management LLC Cuts Stake in Seagate Technology Holdings PLC $STX"
+            "text": "Hudson Bay Capital Management LP Purchases 61,248 Shares of Teradyne, Inc. $TER"
         },
         {
-            "time": "08:48",
+            "time": "09:49",
             "tag": "MERCADO",
-            "text": "Confluence Investment Management LLC Reduces Holdings in Cisco Systems, Inc. $CSCO"
+            "text": "Hudson Bay Capital Management LP Grows Stock Holdings in Best Buy Co., Inc. $BBY"
         },
         {
-            "time": "08:45",
+            "time": "09:48",
             "tag": "MERCADO",
-            "text": "ERT.DE Electronic Arts \u20ac173.58 intraday 20 Mar 2026: watch oversold bounce"
+            "text": "IFP Advisors Inc Buys 6,444 Shares of Alphabet Inc. $GOOGL"
         }
     ]
 }
