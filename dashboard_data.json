@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-20 05:54 UTC",
+        "last_updated": "2026-03-20 07:00 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 178.56,
-            "change": "+0.37%"
+            "change": "-3.16%"
         },
         {
             "symbol": "AMD",
             "price": 205.27,
-            "change": "+3.13%"
+            "change": "+3.25%"
         },
         {
             "symbol": "MSFT",
             "price": 389.02,
-            "change": "+1.73%"
+            "change": "-3.07%"
         },
         {
             "symbol": "CEG",
             "price": 316.47,
-            "change": "+1.35%"
+            "change": "-1.74%"
         },
         {
             "symbol": "VST",
             "price": 167.37,
-            "change": "+3.31%"
+            "change": "-0.23%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.7,
+        "cer_current": 0.52,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
             0.5,
             0.5,
             0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.33,
-            24.65,
-            24.46,
-            24.96,
-            25.41,
-            25.4,
-            24.91,
-            24.75,
-            24.69,
-            25.09,
-            25.53,
-            25.06
+            24.8,
+            24.67,
+            24.39,
+            24.83,
+            25.03,
+            25.0,
+            25.29,
+            25.04,
+            24.56,
+            24.81,
+            25.11,
+            25.23
         ],
         "hsd_history_software": [
-            9.54,
-            9.66,
-            9.6,
-            9.51,
-            9.59,
+            9.85,
+            9.75,
+            9.75,
+            9.58,
+            9.75,
+            9.57,
+            9.64,
             9.68,
-            9.78,
-            9.9,
-            9.88,
-            10.04,
-            9.91,
-            10.08
+            9.82,
+            9.97,
+            9.89,
+            9.94
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:40",
+            "time": "06:40",
             "tag": "MERCADO",
-            "text": "Nordson Expands Its Electronics Distribution Network Across North America"
+            "text": "Who\u2019s News: Strategic Appointments at Zapata Quantum, IonQ, Photonic Inc., Infleqtion, and QuiX Quantum"
         },
         {
-            "time": "04:22",
+            "time": "06:26",
             "tag": "MERCADO",
-            "text": "BMO Capital Lowers IBM Target but Highlights Stable Business Mix"
+            "text": "Assessing Teledyne Technologies (TDY) Valuation After Strong Recent Momentum And Mixed Signals"
         },
         {
-            "time": "04:18",
+            "time": "06:20",
             "tag": "MERCADO",
-            "text": "BMO Capital Lowers IBM Target but Highlights Stable Business Mix"
+            "text": "Stronger Bet Than Synopsys Stock: APP Delivers More"
         },
         {
-            "time": "04:08",
-            "tag": "MERCADO",
-            "text": "Crane NXT Board Shift Brings New Tech Focus To Undervalued Shares"
-        },
-        {
-            "time": "04:01",
+            "time": "06:11",
             "tag": "AI",
-            "text": "Salesforce, Inc. stock surges on AI-driven fiscal 2026 results and $50B buyback amid growth concerns"
+            "text": "S&P Global Adds Enertel AI As Power Forecasting And Valuation Questions Grow"
+        },
+        {
+            "time": "06:11",
+            "tag": "MERCADO",
+            "text": "The Bull Case For Air Products and Chemicals (APD) Could Change Following Smart Cryogenic Freezer Push With Remote Monitoring \u2013 Learn Why"
         }
     ]
 }
