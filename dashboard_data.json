@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-20 19:38 UTC",
+        "last_updated": "2026-03-20 20:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 171.93,
-            "change": "-2.78%"
+            "price": 172.7,
+            "change": "-1.76%"
         },
         {
             "symbol": "AMD",
-            "price": 198.77,
-            "change": "-1.23%"
+            "price": 201.33,
+            "change": "+3.44%"
         },
         {
             "symbol": "MSFT",
-            "price": 380.31,
-            "change": "+2.64%"
+            "price": 381.87,
+            "change": "-0.24%"
         },
         {
             "symbol": "CEG",
-            "price": 280.07,
-            "change": "-3.17%"
+            "price": 281.99,
+            "change": "+1.88%"
         },
         {
             "symbol": "VST",
-            "price": 147.01,
-            "change": "-0.75%"
+            "price": 146.02,
+            "change": "-1.51%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.45,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
             0.5,
             0.5,
             0.5,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51
+            0.5,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.99,
-            24.68,
-            24.65,
-            24.86,
-            24.76,
-            24.55,
+            25.81,
+            25.77,
+            25.41,
+            25.09,
+            24.6,
+            24.7,
             24.61,
-            24.9,
-            25.12,
-            25.06,
-            24.65,
-            24.94
+            24.26,
+            24.57,
+            24.87,
+            24.97,
+            24.77
         ],
         "hsd_history_software": [
-            9.88,
-            10.01,
-            9.93,
-            9.92,
-            9.75,
-            9.6,
-            9.68,
-            9.82,
-            9.85,
-            9.81,
-            9.88,
-            9.95
+            10.03,
+            10.14,
+            10.29,
+            10.19,
+            10.15,
+            10.32,
+            10.15,
+            10.11,
+            10.02,
+            9.9,
+            9.79,
+            9.81
         ],
         "rci_data": [
             85.0,
-            17.193
+            17.27
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:02",
+            "time": "20:15",
             "tag": "MERCADO",
-            "text": "EA: Job Cuts And Player Retention Trends Will Shape Future Returns"
+            "text": "Hesai Technology signs agreement to supply Dreame with 10 million LiDAR units"
         },
         {
-            "time": "18:49",
+            "time": "19:40",
             "tag": "MERCADO",
-            "text": "Infosys Ltd Sees Heavy Call Option Activity Ahead of March Expiry"
+            "text": "CISA urges organizations to harden endpoint management systems following Stryker cyberattack"
         },
         {
-            "time": "18:39",
+            "time": "19:34",
             "tag": "AI",
-            "text": "ISRG Intuitive Surgical NASDAQ $479.93 on 20 Mar 2026: FDA alert tests AI robotics upside"
+            "text": "Alphabet Inc. Class C stock faces pressure on Nasdaq amid AI competition and regulatory scrutiny"
         },
         {
-            "time": "18:27",
+            "time": "19:33",
+            "tag": "RESULTADOS",
+            "text": "Korea Electric Power Corporation (KEP): Smart Electric Life Launch and Robust FY2025 Earnings"
+        },
+        {
+            "time": "19:29",
             "tag": "MERCADO",
-            "text": "Longeviti Neuro Solutions Appoints T. Rowe Price CEO Robert W. Sharps to Board of Directors"
-        },
-        {
-            "time": "18:21",
-            "tag": "AI",
-            "text": "Salesforce, Inc. stock surges on AI-driven fiscal 2026 results and massive $50B buyback amid growth"
+            "text": "LG Display (LPL) Secures Next\u2011Gen OLED Future Through Extended UDC Partnership"
         }
     ]
 }
