@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-20 10:41 UTC",
+        "last_updated": "2026-03-20 11:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 178.56,
-            "change": "-1.0%"
+            "change": "-1.33%"
         },
         {
             "symbol": "AMD",
             "price": 205.27,
-            "change": "-0.53%"
+            "change": "-1.44%"
         },
         {
             "symbol": "MSFT",
             "price": 389.02,
-            "change": "+3.19%"
+            "change": "-1.25%"
         },
         {
             "symbol": "CEG",
             "price": 316.47,
-            "change": "-0.54%"
+            "change": "+1.36%"
         },
         {
             "symbol": "VST",
             "price": 167.37,
-            "change": "-2.71%"
+            "change": "+2.49%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.42,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.47,
-            0.48,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
             0.51,
-            0.5
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.67,
-            24.4,
-            24.46,
+            23.56,
+            23.57,
+            23.43,
+            23.86,
+            23.69,
+            24.01,
+            24.49,
             24.7,
-            24.92,
-            25.36,
-            25.03,
-            24.91,
-            24.82,
-            24.71,
-            24.94,
-            25.15
+            24.65,
+            24.74,
+            24.88,
+            25.07
         ],
         "hsd_history_software": [
-            9.47,
-            9.33,
-            9.28,
-            9.33,
-            9.34,
-            9.22,
-            9.38,
-            9.5,
-            9.66,
-            9.84,
-            9.74,
-            9.88
+            10.0,
+            9.99,
+            9.8,
+            9.89,
+            9.87,
+            9.97,
+            10.13,
+            10.01,
+            10.13,
+            10.01,
+            10.15,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:08",
+            "time": "10:57",
             "tag": "MERCADO",
-            "text": "Parsons gets 2 more option years on classified U.S. contract"
+            "text": "Martin Capital Partners LLC Has $4.79 Million Stake in Verizon Communications Inc. $VZ"
         },
         {
-            "time": "09:54",
+            "time": "10:49",
             "tag": "MERCADO",
-            "text": "HPQ.SW HP Inc. (SIX): CHF15.25 intraday on volume spike 20 Mar 2026: watch CHF14.70 support"
+            "text": "Park National Corp OH Sells 15,299 Shares of Cisco Systems, Inc. $CSCO"
         },
         {
-            "time": "09:49",
+            "time": "10:49",
             "tag": "MERCADO",
-            "text": "Hudson Bay Capital Management LP Purchases 61,248 Shares of Teradyne, Inc. $TER"
+            "text": "Park National Corp OH Acquires 10,185 Shares of Arista Networks, Inc. $ANET"
         },
         {
-            "time": "09:49",
+            "time": "10:47",
             "tag": "MERCADO",
-            "text": "Hudson Bay Capital Management LP Grows Stock Holdings in Best Buy Co., Inc. $BBY"
+            "text": "Park National Corp OH Raises Stock Position in Cadence Design Systems, Inc. $CDNS"
         },
         {
-            "time": "09:48",
+            "time": "10:47",
             "tag": "MERCADO",
-            "text": "IFP Advisors Inc Buys 6,444 Shares of Alphabet Inc. $GOOGL"
+            "text": "Grant Private Wealth Management Inc Has $2.60 Million Stock Holdings in Netflix, Inc. $NFLX"
         }
     ]
 }
