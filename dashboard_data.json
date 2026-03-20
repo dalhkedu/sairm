@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-19 23:33 UTC",
+        "last_updated": "2026-03-20 02:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 178.56,
-            "change": "+1.28%"
+            "change": "+0.05%"
         },
         {
             "symbol": "AMD",
             "price": 205.27,
-            "change": "-0.75%"
+            "change": "+0.78%"
         },
         {
             "symbol": "MSFT",
             "price": 389.02,
-            "change": "+0.73%"
+            "change": "-0.44%"
         },
         {
             "symbol": "CEG",
             "price": 316.47,
-            "change": "+2.47%"
+            "change": "+1.32%"
         },
         {
             "symbol": "VST",
             "price": 167.37,
-            "change": "-0.17%"
+            "change": "+0.94%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.51,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
+            0.48,
+            0.48,
             0.48,
             0.49,
-            0.49
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.06,
-            24.32,
-            24.0,
-            24.27,
-            24.71,
-            24.59,
-            25.05,
-            24.78,
-            25.14,
+            22.85,
+            23.0,
+            23.45,
+            23.61,
+            23.7,
+            24.04,
+            24.31,
             24.77,
-            25.11,
-            24.84
+            24.3,
+            24.0,
+            24.46,
+            24.74
         ],
         "hsd_history_software": [
+            9.57,
+            9.67,
+            9.85,
+            9.94,
+            9.78,
+            9.77,
+            9.84,
+            9.83,
+            9.97,
+            10.18,
             10.07,
-            10.1,
-            10.02,
-            10.0,
-            10.2,
-            10.33,
-            10.28,
-            10.47,
-            10.29,
-            10.22,
-            10.13,
-            10.11
+            10.06
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:48",
+            "time": "01:39",
             "tag": "MERCADO",
-            "text": "Super Micro Computer Issues Statement on Action by U.S. Attorney's Office"
+            "text": "Insider Sell: Paul Oldham Sells Shares of Advanced Energy Indust"
         },
         {
-            "time": "22:45",
+            "time": "01:08",
             "tag": "MERCADO",
-            "text": "Western Digital (WDC) CLO awarded new dividend-equivalent rights"
+            "text": "ETFs to Tap on NVIDIA's 10-for-1 Stock Split Retail Frenzy"
         },
         {
-            "time": "22:44",
+            "time": "00:47",
             "tag": "MERCADO",
-            "text": "[Form 4] WESTERN DIGITAL CORP Insider Trading Activity"
+            "text": "QuickBooks Desktop Deadline Tests Intuit Retention As Xero Targets Migrations"
         },
         {
-            "time": "22:43",
+            "time": "00:36",
             "tag": "MERCADO",
-            "text": "Dividend rights granted to Western Digital (WDC) director Matthew Massengill"
+            "text": "Is Jack Henry And Associates (JKHY) Fairly Priced After Recent Share Price Weakness?"
         },
         {
-            "time": "22:41",
+            "time": "00:11",
             "tag": "MERCADO",
-            "text": "Western Digital (WDC) director receives dividend equivalent rights award"
+            "text": "Linking wells to facilities: How digital tools are reshaping oil and gas production"
         }
     ]
 }
