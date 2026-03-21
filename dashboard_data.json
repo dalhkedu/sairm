@@ -1,80 +1,80 @@
 {
     "metadata": {
-        "last_updated": "2026-03-21 10:31 UTC",
+        "last_updated": "2026-03-21 11:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 172.7,
-            "change": "-2.69%"
+            "change": "+1.88%"
         },
         {
             "symbol": "AMD",
             "price": 201.33,
-            "change": "+1.15%"
+            "change": "-1.87%"
         },
         {
             "symbol": "MSFT",
             "price": 381.87,
-            "change": "-0.32%"
+            "change": "+2.16%"
         },
         {
             "symbol": "CEG",
             "price": 281.99,
-            "change": "-1.77%"
+            "change": "+3.07%"
         },
         {
             "symbol": "VST",
             "price": 146.02,
-            "change": "-1.14%"
+            "change": "-3.3%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.68,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
+            0.49,
+            0.48,
             0.48,
             0.48,
             0.49,
+            0.49,
             0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.49,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.19,
-            24.58,
-            24.24,
-            24.1,
-            23.95,
-            24.22,
-            23.96,
-            24.37,
-            24.42,
-            24.23,
-            24.62,
-            25.11
+            25.78,
+            25.37,
+            25.74,
+            25.27,
+            25.28,
+            25.21,
+            24.72,
+            24.83,
+            25.24,
+            24.82,
+            25.13,
+            24.85
         ],
         "hsd_history_software": [
-            10.47,
-            10.53,
-            10.53,
-            10.66,
-            10.47,
-            10.37,
-            10.32,
-            10.19,
-            10.38,
-            10.18,
+            10.05,
+            9.98,
             10.07,
+            9.88,
+            10.03,
+            10.17,
+            9.98,
+            9.93,
+            10.12,
+            10.05,
+            9.91,
             10.08
         ],
         "rci_data": [
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:33",
+            "time": "10:35",
             "tag": "MERCADO",
-            "text": "Align Technology, Inc. $ALGN Position Cut by Hudson Bay Capital Management LP"
+            "text": "Stryker cyberattack delays surgeries for some patients"
         },
         {
-            "time": "09:23",
-            "tag": "MERCADO",
-            "text": "Swiss Life Asset Management Ltd Boosts Holdings in F5, Inc. $FFIV"
+            "time": "10:22",
+            "tag": "AI",
+            "text": "Assessing Western Digital (WDC) Valuation After Geopolitical Tensions And AI Chip Smuggling Charges Shake Tech Stocks"
         },
         {
-            "time": "09:23",
+            "time": "10:21",
             "tag": "MERCADO",
-            "text": "Swiss Life Asset Management Ltd Sells 45,704 Shares of NetApp, Inc. $NTAP"
+            "text": "Swiss Life Asset Management Boosts eBay Stake"
         },
         {
-            "time": "09:21",
+            "time": "10:00",
             "tag": "MERCADO",
-            "text": "PTC Inc. $PTC Shares Acquired by Swiss Life Asset Management Ltd"
+            "text": "Park Avenue Securities LLC Buys 39,177 Shares of ServiceNow, Inc. $NOW"
         },
         {
-            "time": "09:21",
+            "time": "09:54",
             "tag": "MERCADO",
-            "text": "Groupama Asset Managment Lowers Stock Holdings in Keysight Technologies Inc. $KEYS"
+            "text": "Analysts Are Bullish on These Industrial Goods Stocks: Jacobs Solutions (J), York Space Systems, Inc. (YSS)"
         }
     ]
 }
