@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-21 05:43 UTC",
+        "last_updated": "2026-03-21 06:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 172.7,
-            "change": "+3.5%"
+            "change": "-1.22%"
         },
         {
             "symbol": "AMD",
             "price": 201.33,
-            "change": "-2.11%"
+            "change": "-0.45%"
         },
         {
             "symbol": "MSFT",
             "price": 381.87,
-            "change": "+0.78%"
+            "change": "-0.42%"
         },
         {
             "symbol": "CEG",
             "price": 281.99,
-            "change": "-0.0%"
+            "change": "+0.08%"
         },
         {
             "symbol": "VST",
             "price": 146.02,
-            "change": "+3.4%"
+            "change": "+1.33%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.6,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
+            0.53,
+            0.54,
+            0.54,
+            0.53,
+            0.54,
+            0.53,
+            0.53,
             0.53,
             0.52,
+            0.52,
             0.51,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            24.08,
+            25.14,
+            24.79,
             24.38,
-            24.04,
-            24.4,
-            24.35,
+            24.05,
+            24.25,
             24.72,
-            24.65,
-            24.26,
-            23.89,
-            24.17,
-            24.57,
-            24.87
+            24.49,
+            24.55,
+            24.82,
+            25.31,
+            25.62,
+            25.49
         ],
         "hsd_history_software": [
-            10.16,
-            10.16,
-            10.09,
             10.1,
-            10.06,
+            10.27,
+            10.07,
+            10.02,
+            9.83,
             9.98,
-            9.85,
             9.87,
-            9.7,
-            9.8,
-            10.0,
-            9.86
+            9.77,
+            9.77,
+            9.93,
+            9.9,
+            9.97
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:18",
+            "time": "05:55",
             "tag": "MERCADO",
-            "text": "Is Hewlett Packard Enterprise (HPE) Offering Value After Juniper Deal Scrutiny And Recent Price Weakness"
+            "text": "Enphase Energy (NASDAQ:ENPH) Stock Rating Lowered by Wall Street Zen"
         },
         {
-            "time": "04:16",
+            "time": "05:39",
             "tag": "AI",
-            "text": "Diodes Inc stock faces pressure amid semiconductor inventory adjustments and AI-driven shifts"
+            "text": "A Look At Fabrinet (FN) Valuation As iPronics Partnership Expands AI Data Center Role"
         },
         {
-            "time": "04:11",
-            "tag": "MERCADO",
-            "text": "DXC Technology Stock Hits New 52-Week Low Amid IT Services Pressures, Signaling Value Opportunity fo"
+            "time": "05:39",
+            "tag": "AI",
+            "text": "HP Inc. stock faces memory cost squeeze as Q1 beats but FY2026 guidance leans low amid AI PC push"
         },
         {
-            "time": "04:09",
+            "time": "05:36",
             "tag": "MERCADO",
-            "text": "Credo Technology Group (NASDAQ:CRDO) Shares Down 3.4% Following Insider Selling"
+            "text": "Leidos Holdings Inc stock surges on major US Air Force contract win amid analyst adjustments"
         },
         {
-            "time": "03:14",
+            "time": "05:34",
             "tag": "MERCADO",
-            "text": "PayPal rolls out PYUSD stablecoin across 70 markets beyond U.S."
+            "text": "Johnson Controls stock surges on strong quarter, raised 2026 forecast and Residential HVAC sale to B"
         }
     ]
 }
