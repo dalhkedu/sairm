@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-21 09:35 UTC",
+        "last_updated": "2026-03-21 10:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 172.7,
-            "change": "+2.86%"
+            "change": "-2.69%"
         },
         {
             "symbol": "AMD",
             "price": 201.33,
-            "change": "-1.64%"
+            "change": "+1.15%"
         },
         {
             "symbol": "MSFT",
             "price": 381.87,
-            "change": "-2.93%"
+            "change": "-0.32%"
         },
         {
             "symbol": "CEG",
             "price": 281.99,
-            "change": "-1.64%"
+            "change": "-1.77%"
         },
         {
             "symbol": "VST",
             "price": 146.02,
-            "change": "-3.09%"
+            "change": "-1.14%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.66,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
             0.48,
             0.48,
-            0.47,
-            0.48,
             0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49
+            0.5,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.46,
-            25.93,
-            26.32,
-            25.94,
-            25.8,
-            25.41,
-            25.87,
-            25.4,
-            25.17,
-            25.42,
-            24.98,
-            24.77
+            24.19,
+            24.58,
+            24.24,
+            24.1,
+            23.95,
+            24.22,
+            23.96,
+            24.37,
+            24.42,
+            24.23,
+            24.62,
+            25.11
         ],
         "hsd_history_software": [
-            9.83,
-            9.83,
-            9.99,
-            9.91,
-            9.78,
-            9.86,
-            9.87,
-            9.93,
-            9.95,
-            9.92,
-            9.86,
-            9.97
+            10.47,
+            10.53,
+            10.53,
+            10.66,
+            10.47,
+            10.37,
+            10.32,
+            10.19,
+            10.38,
+            10.18,
+            10.07,
+            10.08
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:04",
+            "time": "09:33",
             "tag": "MERCADO",
-            "text": "Microchip Launches BZPACK mSiC\u00ae Power Modules for High-Reliability Applications in Harsh Environments"
+            "text": "Align Technology, Inc. $ALGN Position Cut by Hudson Bay Capital Management LP"
         },
         {
-            "time": "08:47",
+            "time": "09:23",
             "tag": "MERCADO",
-            "text": "Analog Devices, Inc. $ADI Shares Bought by Covea Finance"
+            "text": "Swiss Life Asset Management Ltd Boosts Holdings in F5, Inc. $FFIV"
         },
         {
-            "time": "08:46",
+            "time": "09:23",
             "tag": "MERCADO",
-            "text": "Covea Finance Acquires 3,600 Shares of Teledyne Technologies Incorporated $TDY"
+            "text": "Swiss Life Asset Management Ltd Sells 45,704 Shares of NetApp, Inc. $NTAP"
         },
         {
-            "time": "08:45",
+            "time": "09:21",
             "tag": "MERCADO",
-            "text": "Covea Finance Purchases Shares of 68,200 Cisco Systems, Inc. $CSCO"
+            "text": "PTC Inc. $PTC Shares Acquired by Swiss Life Asset Management Ltd"
         },
         {
-            "time": "08:45",
+            "time": "09:21",
             "tag": "MERCADO",
-            "text": "Netflix, Inc. $NFLX Shares Purchased by Gilbert & Cook Inc."
+            "text": "Groupama Asset Managment Lowers Stock Holdings in Keysight Technologies Inc. $KEYS"
         }
     ]
 }
