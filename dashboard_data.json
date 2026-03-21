@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-21 18:40 UTC",
+        "last_updated": "2026-03-21 19:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 172.7,
-            "change": "+2.41%"
+            "change": "+2.44%"
         },
         {
             "symbol": "AMD",
             "price": 201.33,
-            "change": "+3.07%"
+            "change": "+0.8%"
         },
         {
             "symbol": "MSFT",
             "price": 381.87,
-            "change": "+3.22%"
+            "change": "-2.37%"
         },
         {
             "symbol": "CEG",
             "price": 281.99,
-            "change": "+0.5%"
+            "change": "-0.53%"
         },
         {
             "symbol": "VST",
             "price": 146.02,
-            "change": "-0.73%"
+            "change": "-1.22%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.45,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.49,
-            0.48,
-            0.49,
-            0.5,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
             0.51,
-            0.5,
+            0.52,
+            0.52,
+            0.52,
             0.51,
-            0.51,
-            0.5,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.77,
-            26.21,
-            26.39,
-            26.31,
-            25.85,
-            25.86,
-            25.49,
-            25.11,
-            25.31,
-            24.99,
+            25.35,
+            24.96,
+            25.16,
+            25.13,
             25.06,
-            24.63
+            25.19,
+            25.55,
+            25.61,
+            25.54,
+            25.46,
+            25.44,
+            25.18
         ],
         "hsd_history_software": [
-            9.89,
-            9.7,
-            9.53,
-            9.53,
-            9.49,
-            9.35,
-            9.53,
-            9.68,
-            9.85,
-            10.03,
-            9.85,
-            9.81
+            10.31,
+            10.23,
+            10.09,
+            9.92,
+            9.78,
+            9.87,
+            9.84,
+            9.99,
+            9.99,
+            10.12,
+            10.04,
+            9.88
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "18:27",
+            "tag": "AI",
+            "text": "Amazon.com (AMZN) AWS Taps SailPoint to Develop Governance Solutions for AI Agents"
+        },
+        {
+            "time": "18:02",
+            "tag": "MERCADO",
+            "text": "Iron Mountain Inc stock faces pressure on NYSE amid analyst upgrades and dividend appeal"
+        },
+        {
             "time": "17:38",
             "tag": "MERCADO",
             "text": "MU Looks Smarter Buy Than Texas Instruments Stock"
@@ -139,16 +149,6 @@
             "time": "16:39",
             "tag": "MERCADO",
             "text": "Diodes Inc Reveals Ideal Diode Controllers for New 48 V Automotive Systems"
-        },
-        {
-            "time": "16:38",
-            "tag": "MERCADO",
-            "text": "Vistra (VST) Up Slightly After Jim Cramer Warned Against Getting Too Greedy"
-        },
-        {
-            "time": "16:31",
-            "tag": "MERCADO",
-            "text": "Jim Cramer Highlights Skyworks Solutions\u2019 High Yield But Says \u201cI Don\u2019t Own Tech for Yield\u201d"
         }
     ]
 }
