@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-21 11:26 UTC",
+        "last_updated": "2026-03-21 12:56 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 172.7,
-            "change": "+1.88%"
+            "change": "-0.35%"
         },
         {
             "symbol": "AMD",
             "price": 201.33,
-            "change": "-1.87%"
+            "change": "+2.33%"
         },
         {
             "symbol": "MSFT",
             "price": 381.87,
-            "change": "+2.16%"
+            "change": "+2.68%"
         },
         {
             "symbol": "CEG",
             "price": 281.99,
-            "change": "+3.07%"
+            "change": "-0.86%"
         },
         {
             "symbol": "VST",
             "price": 146.02,
-            "change": "-3.3%"
+            "change": "+0.7%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.59,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
             0.49,
-            0.48,
-            0.48,
-            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.49,
             0.49,
             0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49
+            0.51
         ],
         "hsd_history_hardware": [
-            25.78,
-            25.37,
-            25.74,
-            25.27,
-            25.28,
-            25.21,
-            24.72,
-            24.83,
-            25.24,
-            24.82,
-            25.13,
-            24.85
+            24.09,
+            24.34,
+            24.67,
+            25.05,
+            25.09,
+            25.51,
+            25.12,
+            24.91,
+            25.06,
+            24.71,
+            24.44,
+            24.6
         ],
         "hsd_history_software": [
-            10.05,
-            9.98,
-            10.07,
-            9.88,
-            10.03,
-            10.17,
-            9.98,
-            9.93,
-            10.12,
-            10.05,
-            9.91,
-            10.08
+            11.21,
+            11.03,
+            10.88,
+            10.67,
+            10.48,
+            10.46,
+            10.54,
+            10.39,
+            10.42,
+            10.35,
+            10.3,
+            10.2
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:35",
+            "time": "12:07",
             "tag": "MERCADO",
-            "text": "Stryker cyberattack delays surgeries for some patients"
+            "text": "909,545 Shares in Verizon Communications Inc. $VZ Purchased by Wilsey Asset Management Inc."
         },
         {
-            "time": "10:22",
-            "tag": "AI",
-            "text": "Assessing Western Digital (WDC) Valuation After Geopolitical Tensions And AI Chip Smuggling Charges Shake Tech Stocks"
+            "time": "11:59",
+            "tag": "MERCADO",
+            "text": "Yeomans Consulting Group Inc. Acquires Shares of 3,035 Micron Technology, Inc. $MU"
         },
         {
-            "time": "10:21",
+            "time": "11:47",
             "tag": "MERCADO",
-            "text": "Swiss Life Asset Management Boosts eBay Stake"
+            "text": "Generac Holdings Inc. $GNRC Shares Acquired by Union Bancaire Privee UBP SA"
         },
         {
-            "time": "10:00",
+            "time": "11:47",
             "tag": "MERCADO",
-            "text": "Park Avenue Securities LLC Buys 39,177 Shares of ServiceNow, Inc. $NOW"
+            "text": "Union Bancaire Privee UBP SA Has $4.76 Million Stake in Synopsys, Inc. $SNPS"
         },
         {
-            "time": "09:54",
+            "time": "11:28",
             "tag": "MERCADO",
-            "text": "Analysts Are Bullish on These Industrial Goods Stocks: Jacobs Solutions (J), York Space Systems, Inc. (YSS)"
+            "text": "MassMutual Boosts Palo Alto Networks Stake by 261%"
         }
     ]
 }
