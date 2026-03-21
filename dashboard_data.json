@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-20 23:32 UTC",
+        "last_updated": "2026-03-21 02:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 172.7,
-            "change": "-2.69%"
+            "change": "+1.78%"
         },
         {
             "symbol": "AMD",
             "price": 201.33,
-            "change": "+1.09%"
+            "change": "-1.71%"
         },
         {
             "symbol": "MSFT",
             "price": 381.87,
-            "change": "-1.35%"
+            "change": "+2.49%"
         },
         {
             "symbol": "CEG",
             "price": 281.99,
-            "change": "+1.07%"
+            "change": "+1.11%"
         },
         {
             "symbol": "VST",
             "price": 146.02,
-            "change": "-1.82%"
+            "change": "-3.19%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.55,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.46,
-            0.46,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
+            0.51,
+            0.51,
             0.5,
-            0.5
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.09,
-            24.38,
-            24.26,
-            24.71,
-            24.9,
-            24.91,
+            24.35,
+            24.67,
+            25.12,
+            25.59,
+            25.77,
+            25.89,
+            25.67,
             25.29,
-            25.44,
-            24.96,
-            24.98,
-            25.47,
-            25.07
+            25.15,
+            24.85,
+            25.02,
+            24.85
         ],
         "hsd_history_software": [
-            9.62,
-            9.46,
-            9.32,
-            9.37,
-            9.46,
-            9.61,
-            9.6,
-            9.7,
-            9.79,
+            10.05,
+            9.88,
+            9.75,
+            9.58,
+            9.67,
+            9.63,
             9.81,
-            9.91,
-            10.1
+            9.85,
+            9.89,
+            9.98,
+            9.89,
+            9.94
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:39",
-            "tag": "AI",
-            "text": "Rezolve AI Ltd Stock Price Today | NASDAQ: RZLV Live"
-        },
-        {
-            "time": "22:23",
+            "time": "01:39",
             "tag": "MERCADO",
-            "text": "Is Equinix (EQIX) Pricing In Too Much Optimism After Its Strong Year-To-Date Rally?"
+            "text": "YRD SEC Filings - Yiren Digital Ltd 10-K, 10-Q, 8-K Forms"
         },
         {
-            "time": "22:22",
-            "tag": "AI",
-            "text": "HP\u2019s AI-Driven Cost Savings Plan Might Change The Case For Investing In HP (HPQ)"
-        },
-        {
-            "time": "22:11",
-            "tag": "AI",
-            "text": "IBM Confluent Deal Aims To Anchor Real Time AI Data Strategy"
-        },
-        {
-            "time": "22:11",
+            "time": "01:22",
             "tag": "MERCADO",
-            "text": "A Look At Take Two Interactive Software (TTWO) Valuation After Mixed Recent Share Performance"
+            "text": "Cadence Design Systems (CDNS) CFO receives stock awards, withholds shares for taxes"
+        },
+        {
+            "time": "01:16",
+            "tag": "MERCADO",
+            "text": "[Form 4] CADENCE DESIGN SYSTEMS INC Insider Trading Activity"
+        },
+        {
+            "time": "01:13",
+            "tag": "MERCADO",
+            "text": "US42824CCD9 Bond Price and Chart \u2014 MUN:US42824CCD9"
+        },
+        {
+            "time": "01:09",
+            "tag": "MERCADO",
+            "text": "WBLK-ETFP Stock Fund Price and Chart \u2014 EURONEXT:WBLK-ETFP"
         }
     ]
 }
