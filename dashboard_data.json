@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-21 06:50 UTC",
+        "last_updated": "2026-03-21 07:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 172.7,
-            "change": "-1.22%"
+            "change": "-0.72%"
         },
         {
             "symbol": "AMD",
             "price": 201.33,
-            "change": "-0.45%"
+            "change": "-1.54%"
         },
         {
             "symbol": "MSFT",
             "price": 381.87,
-            "change": "-0.42%"
+            "change": "-3.34%"
         },
         {
             "symbol": "CEG",
             "price": 281.99,
-            "change": "+0.08%"
+            "change": "+1.4%"
         },
         {
             "symbol": "VST",
             "price": 146.02,
-            "change": "+1.33%"
+            "change": "-2.27%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.49,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.54,
-            0.54,
-            0.53,
-            0.54,
-            0.53,
+            0.52,
+            0.52,
             0.53,
             0.53,
             0.52,
+            0.53,
             0.52,
-            0.51,
-            0.5
+            0.52,
+            0.53,
+            0.52,
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.14,
-            24.79,
-            24.38,
-            24.05,
-            24.25,
-            24.72,
-            24.49,
-            24.55,
-            24.82,
-            25.31,
-            25.62,
-            25.49
+            25.3,
+            25.32,
+            25.81,
+            25.33,
+            25.8,
+            26.28,
+            26.02,
+            26.31,
+            26.04,
+            26.01,
+            25.73,
+            25.39
         ],
         "hsd_history_software": [
-            10.1,
-            10.27,
-            10.07,
-            10.02,
-            9.83,
-            9.98,
-            9.87,
-            9.77,
-            9.77,
-            9.93,
-            9.9,
-            9.97
+            10.86,
+            10.83,
+            10.69,
+            10.58,
+            10.66,
+            10.54,
+            10.34,
+            10.52,
+            10.36,
+            10.29,
+            10.25,
+            10.06
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:55",
+            "time": "07:09",
             "tag": "MERCADO",
-            "text": "Enphase Energy (NASDAQ:ENPH) Stock Rating Lowered by Wall Street Zen"
+            "text": "Infosys Ltd Stock Falls to 52-Week Low of Rs.1215.15"
         },
         {
-            "time": "05:39",
-            "tag": "AI",
-            "text": "A Look At Fabrinet (FN) Valuation As iPronics Partnership Expands AI Data Center Role"
-        },
-        {
-            "time": "05:39",
-            "tag": "AI",
-            "text": "HP Inc. stock faces memory cost squeeze as Q1 beats but FY2026 guidance leans low amid AI PC push"
-        },
-        {
-            "time": "05:36",
+            "time": "07:09",
             "tag": "MERCADO",
-            "text": "Leidos Holdings Inc stock surges on major US Air Force contract win amid analyst adjustments"
+            "text": "Bucella buys Terawulf $25k in shares"
         },
         {
-            "time": "05:34",
+            "time": "07:04",
             "tag": "MERCADO",
-            "text": "Johnson Controls stock surges on strong quarter, raised 2026 forecast and Residential HVAC sale to B"
+            "text": "ResMed Inc. stock advances amid strong Q2 earnings and digital health push, drawing DACH investor in"
+        },
+        {
+            "time": "06:32",
+            "tag": "MERCADO",
+            "text": "Wall Street Zen Upgrades Innodata (NASDAQ:INOD) to Hold"
+        },
+        {
+            "time": "06:29",
+            "tag": "MERCADO",
+            "text": "GraniteShares 2x Long INTC Daily ETF (NASDAQ:INTW) Shares Down 9.5% \u2013 Here\u2019s What Happened"
         }
     ]
 }
