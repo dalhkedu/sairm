@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-21 08:38 UTC",
+        "last_updated": "2026-03-21 09:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 172.7,
-            "change": "+2.93%"
+            "change": "+2.86%"
         },
         {
             "symbol": "AMD",
             "price": 201.33,
-            "change": "+0.56%"
+            "change": "-1.64%"
         },
         {
             "symbol": "MSFT",
             "price": 381.87,
-            "change": "-0.67%"
+            "change": "-2.93%"
         },
         {
             "symbol": "CEG",
             "price": 281.99,
-            "change": "-0.88%"
+            "change": "-1.64%"
         },
         {
             "symbol": "VST",
             "price": 146.02,
-            "change": "-1.66%"
+            "change": "-3.09%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.59,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.5,
-            0.5
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.02,
-            24.16,
-            23.85,
-            24.33,
-            24.55,
-            24.53,
-            24.35,
-            24.35,
-            24.68,
-            24.85,
-            25.06,
-            24.72
+            25.46,
+            25.93,
+            26.32,
+            25.94,
+            25.8,
+            25.41,
+            25.87,
+            25.4,
+            25.17,
+            25.42,
+            24.98,
+            24.77
         ],
         "hsd_history_software": [
-            10.07,
-            10.19,
-            10.38,
-            10.32,
-            10.32,
-            10.26,
-            10.23,
-            10.06,
-            10.2,
-            10.33,
-            10.13,
-            10.1
+            9.83,
+            9.83,
+            9.99,
+            9.91,
+            9.78,
+            9.86,
+            9.87,
+            9.93,
+            9.95,
+            9.92,
+            9.86,
+            9.97
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:01",
+            "time": "09:04",
             "tag": "MERCADO",
-            "text": "CIBC Private Wealth Group LLC Has $8.15 Million Stock Position in Arista Networks, Inc. $ANET"
+            "text": "Microchip Launches BZPACK mSiC\u00ae Power Modules for High-Reliability Applications in Harsh Environments"
         },
         {
-            "time": "07:59",
+            "time": "08:47",
             "tag": "MERCADO",
-            "text": "CIBC Private Wealth Group LLC Sells 163,941 Shares of Intel Corporation $INTC"
+            "text": "Analog Devices, Inc. $ADI Shares Bought by Covea Finance"
         },
         {
-            "time": "07:59",
+            "time": "08:46",
             "tag": "MERCADO",
-            "text": "CIBC Bancorp USA Inc. Buys New Position in Axon Enterprise, Inc $AXON"
+            "text": "Covea Finance Acquires 3,600 Shares of Teledyne Technologies Incorporated $TDY"
         },
         {
-            "time": "07:48",
+            "time": "08:45",
             "tag": "MERCADO",
-            "text": "Bay Rivers Group Has $2.12 Million Stock Holdings in ServiceNow, Inc. $NOW"
+            "text": "Covea Finance Purchases Shares of 68,200 Cisco Systems, Inc. $CSCO"
         },
         {
-            "time": "07:48",
+            "time": "08:45",
             "tag": "MERCADO",
-            "text": "IQVIA Holdings Inc stock faces pressure after Q4 earnings beat amid high volume trading on NYSE"
+            "text": "Netflix, Inc. $NFLX Shares Purchased by Gilbert & Cook Inc."
         }
     ]
 }
