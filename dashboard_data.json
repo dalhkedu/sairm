@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-22 02:35 UTC",
+        "last_updated": "2026-03-22 04:55 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 172.7,
-            "change": "+0.08%"
+            "change": "+1.6%"
         },
         {
             "symbol": "AMD",
             "price": 201.33,
-            "change": "+2.74%"
+            "change": "-2.64%"
         },
         {
             "symbol": "MSFT",
             "price": 381.87,
-            "change": "-0.46%"
+            "change": "-2.67%"
         },
         {
             "symbol": "CEG",
             "price": 281.99,
-            "change": "+2.55%"
+            "change": "+3.27%"
         },
         {
             "symbol": "VST",
             "price": 146.02,
-            "change": "-2.53%"
+            "change": "-3.3%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.64,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.48,
-            0.49,
-            0.49,
-            0.48,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.01,
-            24.73,
-            24.31,
+            24.81,
+            24.66,
+            24.56,
+            24.98,
+            24.7,
+            24.45,
             24.67,
-            24.43,
-            24.52,
-            24.8,
-            25.27,
-            24.96,
-            25.13,
-            25.31,
-            25.13
+            24.77,
+            24.63,
+            24.44,
+            24.41,
+            24.55
         ],
         "hsd_history_software": [
-            9.92,
-            9.85,
-            9.97,
-            10.02,
-            9.97,
+            9.74,
+            9.88,
+            9.9,
+            9.94,
             9.87,
+            9.88,
+            10.04,
             10.02,
-            10.1,
-            9.94,
-            10.09,
-            9.94,
-            10.05
+            10.2,
+            10.02,
+            10.0,
+            9.86
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:34",
+            "time": "04:07",
+            "tag": "MERCADO",
+            "text": "Morgan Stanley has a stark message for investors in Palantir stocks"
+        },
+        {
+            "time": "03:39",
+            "tag": "MERCADO",
+            "text": "This Nuclear Energy Trend Could Be Bigger Than Investors Think in 2026"
+        },
+        {
+            "time": "03:38",
+            "tag": "RESULTADOS",
+            "text": "Latest BOTT ETF News Today | Earnings, Events & Price Alerts"
+        },
+        {
+            "time": "03:32",
             "tag": "AI",
             "text": "AI Investing Insights - Official Homepage - Intellectia AI\u2122"
         },
         {
-            "time": "00:09",
+            "time": "03:10",
             "tag": "MERCADO",
-            "text": "The Concentration Conundrum: A Deep Dive into the iShares MSCI USA ETF"
-        },
-        {
-            "time": "23:07",
-            "tag": "MERCADO",
-            "text": "Fortinet Inc. stock underperforms Tuesday when compared to competitors"
-        },
-        {
-            "time": "22:56",
-            "tag": "MERCADO",
-            "text": "(PLPC) Movement as an Input in Quant Signal Sets"
-        },
-        {
-            "time": "22:12",
-            "tag": "AI",
-            "text": "Is Oracle (ORCL) Pricing Reflect Its AI Cloud Prospects After Recent Share Price Weakness"
+            "text": "Is Bitfarms Ltd. (BITF) A Good Stock To Buy Now?"
         }
     ]
 }
