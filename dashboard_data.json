@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-22 12:59 UTC",
+        "last_updated": "2026-03-22 13:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 172.7,
-            "change": "-1.54%"
+            "change": "-2.45%"
         },
         {
             "symbol": "AMD",
             "price": 201.33,
-            "change": "-0.74%"
+            "change": "-3.44%"
         },
         {
             "symbol": "MSFT",
             "price": 381.87,
-            "change": "-3.33%"
+            "change": "+2.17%"
         },
         {
             "symbol": "CEG",
             "price": 281.99,
-            "change": "+0.87%"
+            "change": "-1.28%"
         },
         {
             "symbol": "VST",
-            "price": NaN,
-            "change": "-1.56%"
+            "price": 146.02,
+            "change": "-0.91%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.62,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.52,
+            0.5,
             0.51,
-            0.52,
-            0.51,
-            0.53,
-            0.52,
-            0.51,
-            0.51,
+            0.5,
+            0.5,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.5,
             0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            25.47,
-            25.71,
-            25.35,
-            25.27,
-            25.01,
-            24.67,
-            24.87,
-            24.83,
-            24.64,
-            25.11,
-            25.26,
-            24.86
+            24.78,
+            24.55,
+            24.45,
+            24.39,
+            24.35,
+            24.57,
+            24.28,
+            24.46,
+            24.6,
+            25.02,
+            25.48,
+            25.34
         ],
         "hsd_history_software": [
-            10.61,
-            10.78,
-            10.75,
-            10.55,
-            10.57,
-            10.42,
-            10.22,
-            10.08,
-            10.17,
-            10.03,
+            10.56,
+            10.4,
+            10.44,
+            10.37,
             10.19,
-            10.1
+            10.25,
+            10.27,
+            10.09,
+            10.2,
+            10.4,
+            10.24,
+            10.12
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "13:02",
+            "tag": "MERCADO",
+            "text": "Amazon Stake Increased by Union Bancaire Privee UBP SA"
+        },
+        {
+            "time": "12:46",
+            "tag": "AI",
+            "text": "Texas Instruments Inc stock faces analyst scrutiny amid semiconductor cycle shifts and AI demand pre"
+        },
+        {
+            "time": "12:22",
+            "tag": "AI",
+            "text": "Musk Says Tesla, SpaceX, xAI Chip Project to Kick Off in Texas"
+        },
+        {
+            "time": "12:22",
+            "tag": "AI",
+            "text": "Applied Materials\u2019 AI Memory Alliances And EPIC Center Investment Might Change The Case For Investing In AMAT"
+        },
+        {
             "time": "11:43",
             "tag": "MERCADO",
             "text": "Wealth Enhancement Advisory Services LLC Increases Stock Holdings in T-Mobile US, Inc. $TMUS"
-        },
-        {
-            "time": "11:41",
-            "tag": "MERCADO",
-            "text": "Wedmont Private Capital Has $3 Million Stock Position in AT&T Inc. $T"
-        },
-        {
-            "time": "11:36",
-            "tag": "MERCADO",
-            "text": "Electronic Arts Inc stock faces $15B buyout debt frenzy with $25B demand amid takeover buzz"
-        },
-        {
-            "time": "11:27",
-            "tag": "MERCADO",
-            "text": "Texas Instruments Incorporated $TXN Shares Sold by Tealwood Asset Management Inc."
-        },
-        {
-            "time": "11:27",
-            "tag": "MERCADO",
-            "text": "Tealwood Asset Management Inc. Reduces Stake in Texas Instruments Incorporated $TXN"
         }
     ]
 }
