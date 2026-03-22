@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-22 14:31 UTC",
+        "last_updated": "2026-03-22 15:29 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 172.7,
-            "change": "+0.78%"
+            "change": "+0.23%"
         },
         {
             "symbol": "AMD",
             "price": 201.33,
-            "change": "+2.93%"
+            "change": "-3.2%"
         },
         {
             "symbol": "MSFT",
             "price": 381.87,
-            "change": "+3.12%"
+            "change": "+2.83%"
         },
         {
             "symbol": "CEG",
             "price": 281.99,
-            "change": "+2.45%"
+            "change": "+1.61%"
         },
         {
             "symbol": "VST",
             "price": 146.02,
-            "change": "+0.04%"
+            "change": "-2.52%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.7,
+        "cer_current": 0.66,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
             0.5,
             0.51,
             0.51,
-            0.5,
             0.51,
-            0.51
+            0.5,
+            0.49,
+            0.5,
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.48,
-            26.03,
-            26.29,
-            26.19,
-            26.58,
-            26.52,
-            26.12,
-            25.76,
-            25.27,
-            25.3,
+            24.71,
+            25.01,
+            25.36,
+            24.91,
+            24.84,
+            24.9,
+            24.99,
+            25.41,
             25.08,
-            24.9
+            24.65,
+            24.5,
+            24.81
         ],
         "hsd_history_software": [
-            10.62,
-            10.59,
-            10.46,
-            10.57,
-            10.36,
-            10.2,
-            10.17,
-            10.1,
-            9.91,
-            10.02,
-            9.86,
-            9.84
+            9.76,
+            9.81,
+            9.93,
+            9.75,
+            9.82,
+            9.72,
+            9.55,
+            9.56,
+            9.71,
+            9.79,
+            9.92,
+            9.86
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "14:03",
+            "tag": "RESULTADOS",
+            "text": "Broadcom Stock (AVGO) Opinions on Q1 Earnings Beat"
+        },
+        {
             "time": "13:40",
             "tag": "MERCADO",
             "text": "If You Invested $1,000 in WORK Medical Technology Group LTD (WOK)"
@@ -144,11 +149,6 @@
             "time": "12:22",
             "tag": "AI",
             "text": "Musk Says Tesla, SpaceX, xAI Chip Project to Kick Off in Texas"
-        },
-        {
-            "time": "12:22",
-            "tag": "AI",
-            "text": "Applied Materials\u2019 AI Memory Alliances And EPIC Center Investment Might Change The Case For Investing In AMAT"
         }
     ]
 }
