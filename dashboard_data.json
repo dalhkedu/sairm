@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-22 07:43 UTC",
+        "last_updated": "2026-03-22 08:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 172.7,
-            "change": "-2.26%"
+            "price": NaN,
+            "change": "+0.14%"
         },
         {
             "symbol": "AMD",
             "price": 201.33,
-            "change": "-1.88%"
+            "change": "-1.27%"
         },
         {
             "symbol": "MSFT",
             "price": 381.87,
-            "change": "-2.23%"
+            "change": "+2.84%"
         },
         {
             "symbol": "CEG",
             "price": 281.99,
-            "change": "+1.76%"
+            "change": "+3.5%"
         },
         {
             "symbol": "VST",
             "price": 146.02,
-            "change": "-1.29%"
+            "change": "-2.13%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
-        "rci_current": 0.17,
+        "cer_current": 0.48,
+        "rci_current": NaN,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.52,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.5,
-            0.5,
-            0.5
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.79,
-            26.63,
-            26.32,
-            26.53,
-            26.81,
-            26.54,
-            26.29,
-            26.52,
-            26.01,
-            25.72,
-            25.23,
-            25.47
+            24.81,
+            25.08,
+            24.64,
+            25.02,
+            25.26,
+            24.82,
+            24.55,
+            24.94,
+            24.76,
+            24.97,
+            24.97,
+            24.91
         ],
         "hsd_history_software": [
-            9.98,
-            9.96,
-            9.77,
-            9.87,
-            9.84,
-            9.88,
-            9.92,
+            10.17,
             10.02,
+            10.12,
             9.93,
-            9.85,
+            9.75,
+            9.67,
+            9.76,
             9.83,
-            9.98
+            9.65,
+            9.83,
+            10.03,
+            10.06
         ],
         "rci_data": [
             85.0,
-            17.27
+            NaN
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:52",
+            "time": "08:09",
             "tag": "MERCADO",
-            "text": "IQVIA Holdings Inc stock faces earnings anticipation amid healthcare analytics boom"
+            "text": "IYW ETF: A Long-Term Winner in the Tech Sector"
         },
         {
-            "time": "06:26",
+            "time": "08:07",
             "tag": "MERCADO",
-            "text": "Fortive Corp. stock faces pressure amid institutional selling and upcoming earnings"
+            "text": "Grant Private Wealth Management Inc Raises Position in Alphabet Inc. $GOOGL"
         },
         {
-            "time": "06:21",
-            "tag": "AI",
-            "text": "Motorola Solutions Inc stock faces scrutiny amid LMR market slowdown and AI pivot questions"
-        },
-        {
-            "time": "06:09",
+            "time": "08:04",
             "tag": "MERCADO",
-            "text": "FORM Financials: Revenue Breakdown, Margins & Competitor Comparison"
+            "text": "Avior Wealth Management Boosts Broadcom Holdings"
         },
         {
-            "time": "06:07",
-            "tag": "AI",
-            "text": "Alphabet Inc. (Class A) stock faces analyst scrutiny amid AI investment pressures and market volatil"
+            "time": "08:02",
+            "tag": "MERCADO",
+            "text": "Everpar Advisors LLC Acquires 14,774 Shares of Netflix, Inc. $NFLX"
+        },
+        {
+            "time": "08:02",
+            "tag": "MERCADO",
+            "text": "ServiceNow, Inc. $NOW Shares Purchased by CWA Asset Management Group LLC"
         }
     ]
 }
