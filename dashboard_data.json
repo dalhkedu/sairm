@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-22 16:35 UTC",
+        "last_updated": "2026-03-22 17:28 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 172.7,
-            "change": "-3.0%"
+            "price": 172.93,
+            "change": "-1.07%"
         },
         {
             "symbol": "AMD",
             "price": 201.33,
-            "change": "-2.7%"
+            "change": "+0.06%"
         },
         {
             "symbol": "MSFT",
-            "price": 381.87,
-            "change": "-0.52%"
+            "price": 381.85,
+            "change": "+0.81%"
         },
         {
             "symbol": "CEG",
             "price": 281.99,
-            "change": "-0.37%"
+            "change": "-1.47%"
         },
         {
             "symbol": "VST",
             "price": 146.02,
-            "change": "-1.01%"
+            "change": "+2.87%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.41,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
+            0.49,
             0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.51,
-            0.51,
-            0.51
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            27.0,
-            26.91,
-            26.85,
-            26.41,
-            26.76,
-            26.28,
-            25.77,
-            25.4,
-            25.0,
-            25.29,
-            25.38,
-            25.31
+            25.01,
+            25.27,
+            25.03,
+            25.05,
+            24.78,
+            25.22,
+            25.71,
+            25.31,
+            25.66,
+            25.61,
+            25.7,
+            25.32
         ],
         "hsd_history_software": [
-            9.75,
-            9.83,
-            9.94,
+            10.09,
             10.05,
-            10.11,
-            10.26,
-            10.2,
-            10.03,
-            10.15,
-            9.99,
-            9.97,
-            10.02
+            10.23,
+            10.1,
+            10.27,
+            10.28,
+            10.17,
+            10.0,
+            10.04,
+            10.08,
+            10.01,
+            10.0
         ],
         "rci_data": [
             85.0,
-            17.27
+            17.293
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:59",
+            "time": "16:37",
+            "tag": "MERCADO",
+            "text": "Enphase Energy teams up with Ensol to launch home battery subscription in France"
+        },
+        {
+            "time": "16:37",
+            "tag": "MERCADO",
+            "text": "Is Lemonade a Buy After Morgan Stanley's Upgrade?"
+        },
+        {
+            "time": "16:14",
+            "tag": "MERCADO",
+            "text": "A Look At Seagate Technology Holdings\u2019s Valuation After Its Strong Recent Share Price Run"
+        },
+        {
+            "time": "16:00",
             "tag": "MERCADO",
             "text": "Leaders and Experts from Amazon Web Services, Google, Microsoft, NVIDIA, Meta, Dell, Applied Materials and AMD Headline Technology and Innovation Programming at CERAWeek by S&P Global, March 23-27 in Houston"
         },
         {
-            "time": "15:48",
+            "time": "15:59",
             "tag": "MERCADO",
-            "text": "Netflix's Ad Revenue Surges to $1.5 Billion: Is the Stock a No-Brainer Buy Today With $2,000?"
-        },
-        {
-            "time": "15:15",
-            "tag": "MERCADO",
-            "text": "Microchip Technology enables secure Ethernet connectivity for industrial and embedded systems"
-        },
-        {
-            "time": "15:09",
-            "tag": "MERCADO",
-            "text": "How Investors Are Reacting To Paychex (PAYX) Ethics Recognition And Potential Q3 Outperformance"
-        },
-        {
-            "time": "15:08",
-            "tag": "MERCADO",
-            "text": "Where Will Micron Stock Be in 3 Years?"
+            "text": "Leaders and Experts from Amazon Web Services, Google, Microsoft, NVIDIA, Meta, Dell, Applied Materials and AMD Headline Technology and Innovation Programming at CERAWeek by S&P Global, March 23-27 in Houston"
         }
     ]
 }
