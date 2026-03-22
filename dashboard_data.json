@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-21 23:29 UTC",
+        "last_updated": "2026-03-22 02:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 172.7,
-            "change": "+1.28%"
+            "change": "+0.08%"
         },
         {
             "symbol": "AMD",
             "price": 201.33,
-            "change": "+1.67%"
+            "change": "+2.74%"
         },
         {
             "symbol": "MSFT",
             "price": 381.87,
-            "change": "-2.75%"
+            "change": "-0.46%"
         },
         {
             "symbol": "CEG",
             "price": 281.99,
-            "change": "+2.31%"
+            "change": "+2.55%"
         },
         {
             "symbol": "VST",
             "price": 146.02,
-            "change": "-0.64%"
+            "change": "-2.53%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.49,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.49,
+            0.47,
+            0.47,
             0.48,
             0.49,
             0.49,
+            0.48,
+            0.47,
+            0.48,
+            0.48,
             0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
+            25.01,
+            24.73,
+            24.31,
+            24.67,
+            24.43,
+            24.52,
+            24.8,
+            25.27,
+            24.96,
+            25.13,
             25.31,
-            25.26,
-            25.41,
-            25.57,
-            25.93,
-            25.82,
-            26.1,
-            25.79,
-            25.46,
-            25.42,
-            25.49,
-            25.46
+            25.13
         ],
         "hsd_history_software": [
-            9.81,
+            9.92,
+            9.85,
             9.97,
-            10.17,
-            10.19,
-            10.11,
-            10.1,
-            10.23,
-            10.11,
             10.02,
-            10.18,
-            10.06,
-            9.97
+            9.97,
+            9.87,
+            10.02,
+            10.1,
+            9.94,
+            10.09,
+            9.94,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "01:34",
+            "tag": "AI",
+            "text": "AI Investing Insights - Official Homepage - Intellectia AI\u2122"
+        },
+        {
+            "time": "00:09",
+            "tag": "MERCADO",
+            "text": "The Concentration Conundrum: A Deep Dive into the iShares MSCI USA ETF"
+        },
+        {
+            "time": "23:07",
+            "tag": "MERCADO",
+            "text": "Fortinet Inc. stock underperforms Tuesday when compared to competitors"
+        },
+        {
             "time": "22:56",
             "tag": "MERCADO",
             "text": "(PLPC) Movement as an Input in Quant Signal Sets"
@@ -134,21 +149,6 @@
             "time": "22:12",
             "tag": "AI",
             "text": "Is Oracle (ORCL) Pricing Reflect Its AI Cloud Prospects After Recent Share Price Weakness"
-        },
-        {
-            "time": "21:39",
-            "tag": "MERCADO",
-            "text": "Is Parsons Corporation (PSN) A Good Stock To Buy Now?"
-        },
-        {
-            "time": "21:26",
-            "tag": "MERCADO",
-            "text": "A Look At Align Technology (ALGN) Valuation As Elliott Investment Management Takes A Major Stake"
-        },
-        {
-            "time": "21:17",
-            "tag": "MERCADO",
-            "text": "Is Advanced Micro Devices, Inc. (AMD) A Good Stock To Buy Now?"
         }
     ]
 }
