@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-22 18:41 UTC",
+        "last_updated": "2026-03-22 19:29 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 172.93,
-            "change": "+2.64%"
+            "change": "+2.36%"
         },
         {
             "symbol": "AMD",
             "price": 201.33,
-            "change": "-2.7%"
+            "change": "+0.63%"
         },
         {
             "symbol": "MSFT",
             "price": 381.85,
-            "change": "-1.17%"
+            "change": "-0.43%"
         },
         {
             "symbol": "CEG",
             "price": 281.99,
-            "change": "-1.74%"
+            "change": "-2.99%"
         },
         {
             "symbol": "VST",
             "price": 146.02,
-            "change": "-2.22%"
+            "change": "-0.02%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.45,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.52,
-            0.53,
-            0.52,
-            0.53,
-            0.54,
-            0.54,
-            0.53,
-            0.53,
-            0.52,
-            0.51,
-            0.51
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.76,
-            26.27,
-            25.99,
-            25.54,
-            25.67,
-            25.31,
+            26.46,
+            26.68,
+            26.59,
+            26.42,
+            26.03,
             25.66,
-            25.71,
-            25.35,
-            25.44,
-            25.66,
-            25.32
+            25.88,
+            25.64,
+            25.17,
+            24.93,
+            25.0,
+            24.9
         ],
         "hsd_history_software": [
-            9.85,
-            9.74,
-            9.8,
-            9.84,
-            9.92,
-            10.06,
-            10.24,
-            10.08,
+            10.85,
+            10.7,
+            10.55,
+            10.51,
+            10.4,
+            10.4,
+            10.3,
+            10.11,
             10.09,
-            10.12,
-            10.32,
-            10.16
+            9.93,
+            9.74,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "18:28",
+            "tag": "MERCADO",
+            "text": "Josh D\u2019Amaro"
+        },
+        {
             "time": "17:44",
             "tag": "MERCADO",
             "text": "Agilent Technologies Advances Chromatography Innovations for Pharma and Biotech in 2026"
@@ -144,11 +149,6 @@
             "time": "17:18",
             "tag": "MERCADO",
             "text": "A Look At Fair Isaac (FICO) Valuation As It Launches FICO Score Credit Insights Lab"
-        },
-        {
-            "time": "17:08",
-            "tag": "MERCADO",
-            "text": "Quanta Services Is Up 32% Year to Date. Here\u2019s How Much the Stock Could Rise in 2026"
         }
     ]
 }
