@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-22 06:58 UTC",
+        "last_updated": "2026-03-22 07:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 172.7,
-            "change": "-0.29%"
+            "change": "-2.26%"
         },
         {
             "symbol": "AMD",
             "price": 201.33,
-            "change": "-0.3%"
+            "change": "-1.88%"
         },
         {
             "symbol": "MSFT",
             "price": 381.87,
-            "change": "-2.43%"
+            "change": "-2.23%"
         },
         {
             "symbol": "CEG",
             "price": 281.99,
-            "change": "+1.75%"
+            "change": "+1.76%"
         },
         {
             "symbol": "VST",
             "price": 146.02,
-            "change": "-1.47%"
+            "change": "-1.29%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.43,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
+            0.53,
+            0.53,
+            0.52,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
             0.51,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
             0.5,
-            0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            24.03,
-            23.81,
-            24.2,
-            24.56,
-            24.77,
-            24.61,
-            24.26,
-            24.42,
-            24.78,
-            24.47,
-            24.6,
-            25.06
+            26.79,
+            26.63,
+            26.32,
+            26.53,
+            26.81,
+            26.54,
+            26.29,
+            26.52,
+            26.01,
+            25.72,
+            25.23,
+            25.47
         ],
         "hsd_history_software": [
-            10.16,
-            10.19,
-            10.29,
-            10.44,
-            10.49,
-            10.5,
-            10.53,
-            10.48,
-            10.42,
-            10.26,
-            10.23,
-            10.03
+            9.98,
+            9.96,
+            9.77,
+            9.87,
+            9.84,
+            9.88,
+            9.92,
+            10.02,
+            9.93,
+            9.85,
+            9.83,
+            9.98
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "06:52",
+            "tag": "MERCADO",
+            "text": "IQVIA Holdings Inc stock faces earnings anticipation amid healthcare analytics boom"
+        },
+        {
+            "time": "06:26",
+            "tag": "MERCADO",
+            "text": "Fortive Corp. stock faces pressure amid institutional selling and upcoming earnings"
+        },
+        {
+            "time": "06:21",
+            "tag": "AI",
+            "text": "Motorola Solutions Inc stock faces scrutiny amid LMR market slowdown and AI pivot questions"
+        },
+        {
             "time": "06:09",
             "tag": "MERCADO",
             "text": "FORM Financials: Revenue Breakdown, Margins & Competitor Comparison"
         },
         {
-            "time": "04:39",
-            "tag": "MERCADO",
-            "text": "DCBO Financials: Revenue Breakdown, Margins & Competitor Comparison"
-        },
-        {
-            "time": "04:17",
-            "tag": "MERCADO",
-            "text": "T-Mobile is closer to its goal after the latest update to the T-Life app"
-        },
-        {
-            "time": "04:07",
-            "tag": "MERCADO",
-            "text": "Morgan Stanley has a stark message for investors in Palantir stocks"
-        },
-        {
-            "time": "03:39",
-            "tag": "MERCADO",
-            "text": "This Nuclear Energy Trend Could Be Bigger Than Investors Think in 2026"
+            "time": "06:07",
+            "tag": "AI",
+            "text": "Alphabet Inc. (Class A) stock faces analyst scrutiny amid AI investment pressures and market volatil"
         }
     ]
 }
