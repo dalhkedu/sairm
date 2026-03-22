@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-22 19:29 UTC",
+        "last_updated": "2026-03-22 20:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 172.93,
-            "change": "+2.36%"
+            "change": "-0.32%"
         },
         {
             "symbol": "AMD",
             "price": 201.33,
-            "change": "+0.63%"
+            "change": "-1.91%"
         },
         {
             "symbol": "MSFT",
             "price": 381.85,
-            "change": "-0.43%"
+            "change": "-2.94%"
         },
         {
             "symbol": "CEG",
             "price": 281.99,
-            "change": "-2.99%"
+            "change": "-0.25%"
         },
         {
             "symbol": "VST",
             "price": 146.02,
-            "change": "-0.02%"
+            "change": "+2.18%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.51,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.48,
-            0.48,
-            0.47,
-            0.48,
-            0.48,
             0.49,
+            0.49,
+            0.49,
+            0.48,
             0.49,
             0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.46,
-            26.68,
-            26.59,
-            26.42,
-            26.03,
-            25.66,
-            25.88,
-            25.64,
-            25.17,
-            24.93,
+            25.37,
+            25.67,
+            25.54,
+            25.26,
+            24.85,
+            25.18,
             25.0,
-            24.9
+            25.41,
+            25.42,
+            25.48,
+            25.78,
+            25.49
         ],
         "hsd_history_software": [
-            10.85,
-            10.7,
-            10.55,
-            10.51,
-            10.4,
-            10.4,
-            10.3,
-            10.11,
-            10.09,
+            9.76,
             9.93,
-            9.74,
-            9.82
+            10.02,
+            10.05,
+            10.19,
+            10.0,
+            10.06,
+            9.99,
+            9.82,
+            9.81,
+            9.98,
+            9.88
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:28",
+            "time": "19:41",
             "tag": "MERCADO",
-            "text": "Josh D\u2019Amaro"
+            "text": "T-Mobile rep blames the T-Life app for allowing this fraud to take place in the carrier's stores"
         },
         {
-            "time": "17:44",
+            "time": "19:40",
             "tag": "MERCADO",
-            "text": "Agilent Technologies Advances Chromatography Innovations for Pharma and Biotech in 2026"
+            "text": "If You Invested $1,000 in Innoviz Technologies Ltd (INVZ)"
         },
         {
-            "time": "17:39",
-            "tag": "MERCADO",
-            "text": "If You Invested $1,000 in Upwork (UPWK)"
-        },
-        {
-            "time": "17:26",
+            "time": "19:31",
             "tag": "AI",
-            "text": "Salesforce, Inc. stock faces valuation pressure amid AI pivot and market reassessment in early 2026"
+            "text": "Cisco Systems, Inc. stock faces pressure as institutional investors trim positions amid AI-driven networking demand"
         },
         {
-            "time": "17:18",
+            "time": "19:11",
+            "tag": "AI",
+            "text": "How Investors Are Reacting To Gartner (IT) Highlighting AI-Driven Renewal Trends In Its Research Platform"
+        },
+        {
+            "time": "19:10",
             "tag": "MERCADO",
-            "text": "A Look At Fair Isaac (FICO) Valuation As It Launches FICO Score Credit Insights Lab"
+            "text": "Apple Stock Decline 2026: Historical Rebound Pattern Analyzed - News and Statistics"
         }
     ]
 }
