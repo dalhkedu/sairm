@@ -1,47 +1,47 @@
 {
     "metadata": {
-        "last_updated": "2026-03-22 20:32 UTC",
+        "last_updated": "2026-03-22 21:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 172.93,
-            "change": "-0.32%"
+            "change": "-0.43%"
         },
         {
             "symbol": "AMD",
             "price": 201.33,
-            "change": "-1.91%"
+            "change": "-2.43%"
         },
         {
             "symbol": "MSFT",
             "price": 381.85,
-            "change": "-2.94%"
+            "change": "+0.7%"
         },
         {
             "symbol": "CEG",
             "price": 281.99,
-            "change": "-0.25%"
+            "change": "+0.94%"
         },
         {
             "symbol": "VST",
             "price": 146.02,
-            "change": "+2.18%"
+            "change": "-2.03%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.61,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
             0.5,
             0.5,
             0.5,
@@ -50,32 +50,32 @@
             0.5
         ],
         "hsd_history_hardware": [
-            25.37,
-            25.67,
-            25.54,
-            25.26,
-            24.85,
+            25.04,
+            25.49,
+            25.6,
+            26.07,
+            25.9,
+            25.93,
+            26.16,
+            25.79,
+            25.83,
+            25.44,
             25.18,
-            25.0,
-            25.41,
-            25.42,
-            25.48,
-            25.78,
-            25.49
+            24.96
         ],
         "hsd_history_software": [
-            9.76,
-            9.93,
-            10.02,
-            10.05,
-            10.19,
-            10.0,
-            10.06,
-            9.99,
+            9.94,
+            9.83,
             9.82,
-            9.81,
-            9.98,
-            9.88
+            9.83,
+            10.01,
+            10.04,
+            9.96,
+            9.97,
+            9.87,
+            9.91,
+            9.87,
+            10.0
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "20:39",
+            "tag": "AI",
+            "text": "ASGN Inc stock faces analyst upgrade amid AI-driven IT services recovery on NYSE"
+        },
+        {
+            "time": "20:16",
+            "tag": "AI",
+            "text": "Seagate Technology stock surges on AI storage demand amid analyst upgrades and strong forecasts"
+        },
+        {
+            "time": "20:04",
+            "tag": "AI",
+            "text": "Teradyne AI Test Platforms Raise Questions On Growth And Valuation"
+        },
+        {
+            "time": "19:47",
+            "tag": "AI",
+            "text": "Applied Materials Inc stock faces mixed signals amid AI boom and analyst upgrades on Nasdaq"
+        },
+        {
             "time": "19:41",
             "tag": "MERCADO",
             "text": "T-Mobile rep blames the T-Life app for allowing this fraud to take place in the carrier's stores"
-        },
-        {
-            "time": "19:40",
-            "tag": "MERCADO",
-            "text": "If You Invested $1,000 in Innoviz Technologies Ltd (INVZ)"
-        },
-        {
-            "time": "19:31",
-            "tag": "AI",
-            "text": "Cisco Systems, Inc. stock faces pressure as institutional investors trim positions amid AI-driven networking demand"
-        },
-        {
-            "time": "19:11",
-            "tag": "AI",
-            "text": "How Investors Are Reacting To Gartner (IT) Highlighting AI-Driven Renewal Trends In Its Research Platform"
-        },
-        {
-            "time": "19:10",
-            "tag": "MERCADO",
-            "text": "Apple Stock Decline 2026: Historical Rebound Pattern Analyzed - News and Statistics"
         }
     ]
 }
