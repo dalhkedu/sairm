@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-23 20:44 UTC",
+        "last_updated": "2026-03-23 21:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.64,
-            "change": "-1.36%"
+            "change": "+2.88%"
         },
         {
             "symbol": "AMD",
             "price": 202.68,
-            "change": "-2.51%"
+            "change": "-1.29%"
         },
         {
             "symbol": "MSFT",
             "price": 383.0,
-            "change": "-2.8%"
+            "change": "-3.4%"
         },
         {
             "symbol": "CEG",
-            "price": NaN,
-            "change": "-1.57%"
+            "price": 289.76,
+            "change": "-0.55%"
         },
         {
             "symbol": "VST",
             "price": 151.29,
-            "change": "-0.66%"
+            "change": "+2.55%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.54,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
+            0.52,
+            0.52,
+            0.51,
+            0.5,
+            0.51,
             0.52,
             0.51,
             0.51,
             0.51,
-            0.51,
             0.5,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51
+            0.49
         ],
         "hsd_history_hardware": [
-            25.57,
-            25.96,
-            25.68,
-            25.59,
-            25.8,
-            26.26,
-            26.05,
-            25.62,
-            25.48,
-            25.55,
-            25.18,
-            25.23
+            24.41,
+            23.98,
+            24.42,
+            24.7,
+            25.19,
+            24.8,
+            24.58,
+            25.04,
+            24.57,
+            24.35,
+            24.54,
+            24.89
         ],
         "hsd_history_software": [
-            9.88,
-            9.98,
-            9.81,
-            9.82,
-            9.63,
+            9.94,
+            10.04,
+            9.91,
             9.73,
-            9.58,
-            9.78,
-            9.77,
-            9.88,
-            10.07,
-            10.12
+            9.9,
+            9.98,
+            10.08,
+            10.19,
+            10.4,
+            10.43,
+            10.26,
+            10.17
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:06",
+            "time": "20:46",
             "tag": "MERCADO",
-            "text": "Intellinetics to Host Fourth Quarter and Full Year 2025 Financial Results Conference Call on March 30"
+            "text": "Jabil Inc. stock underperforms Monday when compared to competitors despite daily gains"
         },
         {
-            "time": "20:01",
-            "tag": "MERCADO",
-            "text": "Army leaders in Huntsville will get a look at IPG\u2019s anti-drone lasers"
-        },
-        {
-            "time": "19:46",
+            "time": "20:40",
             "tag": "AI",
-            "text": "FedEx Expands AI Upskilling Program to Prepare 400,000 Employees for Promotions"
+            "text": "CSP Inc stock faces scrutiny amid AI hardware demand slowdown and earnings anticipation"
         },
         {
-            "time": "19:14",
+            "time": "20:38",
             "tag": "MERCADO",
-            "text": "WWDC 2026: Here's When Apple Will Reveal iOS 27"
+            "text": "SMCI Plunges 33%: Smart Buy or a High-Risk Bet?"
         },
         {
-            "time": "19:03",
+            "time": "20:31",
             "tag": "MERCADO",
-            "text": "Raymond James raises PT on NVIDIA (NVDA) stock"
+            "text": "Lantern Pharma to Report Fourth Quarter and Fiscal Year 2025 Operating & Financial Results on March 30th, 2026 at 4:30 p.m. ET"
+        },
+        {
+            "time": "20:30",
+            "tag": "MERCADO",
+            "text": "Apple plans to put ads in Apple Maps as part of services push"
         }
     ]
 }
