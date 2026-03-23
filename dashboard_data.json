@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-23 10:54 UTC",
+        "last_updated": "2026-03-23 11:47 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 172.93,
-            "change": "+2.66%"
+            "change": "-3.44%"
         },
         {
             "symbol": "AMD",
             "price": 201.33,
-            "change": "+1.1%"
+            "change": "-3.24%"
         },
         {
             "symbol": "MSFT",
             "price": 381.85,
-            "change": "+0.79%"
+            "change": "-2.17%"
         },
         {
             "symbol": "CEG",
             "price": 281.99,
-            "change": "+2.65%"
+            "change": "-0.31%"
         },
         {
             "symbol": "VST",
-            "price": 146.02,
-            "change": "+0.64%"
+            "price": NaN,
+            "change": "-0.58%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.48,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.5,
-            0.49,
-            0.5,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.53,
+            0.52,
+            0.51,
             0.51,
             0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            24.36,
-            23.91,
-            24.38,
-            24.58,
-            24.2,
-            23.96,
-            23.99,
-            23.73,
-            24.03,
-            24.3,
-            24.77,
-            25.01
+            25.64,
+            25.72,
+            25.86,
+            25.52,
+            25.65,
+            25.26,
+            25.24,
+            25.2,
+            25.58,
+            25.29,
+            24.8,
+            24.83
         ],
         "hsd_history_software": [
-            10.46,
-            10.61,
-            10.65,
-            10.45,
-            10.58,
-            10.56,
-            10.47,
-            10.33,
-            10.38,
-            10.25,
-            10.11,
-            10.06
+            9.69,
+            9.64,
+            9.66,
+            9.54,
+            9.37,
+            9.35,
+            9.34,
+            9.4,
+            9.53,
+            9.64,
+            9.69,
+            9.88
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:06",
+            "time": "11:03",
             "tag": "MERCADO",
-            "text": "NextEra gets federal approval to build 10GW of natural gas power in Texas and Pennsylvania for data centers"
+            "text": "Plug Power executives to attend Roth Annual Growth Conference"
         },
         {
-            "time": "09:58",
-            "tag": "MERCADO",
-            "text": "Industry Comparison: Evaluating Analog Devices Against Competitors In Semiconductors & Semiconductor Equipment Industry - Analog Devices (NASDAQ:ADI)"
+            "time": "11:03",
+            "tag": "AI",
+            "text": "NVIDIA and Emerald AI Join Leading Energy Companies to Pioneer Flexible AI Factories as Grid Assets"
         },
         {
-            "time": "09:58",
+            "time": "11:01",
             "tag": "MERCADO",
-            "text": "Nordea Investment Management AB Increases Position in Hewlett Packard Enterprise Company $HPE"
+            "text": "Ryan Gosling's 'Project Hail Mary' Smashes Records For Amazon Prime Video"
         },
         {
-            "time": "09:58",
+            "time": "11:00",
             "tag": "MERCADO",
-            "text": "Synopsys (SNPS) Rises as Elliott Investment Management Takes Sta"
+            "text": "TABR Capital Management LLC Purchases Shares of 10,440 Leidos Holdings, Inc. $LDOS"
         },
         {
-            "time": "09:58",
+            "time": "11:00",
             "tag": "MERCADO",
-            "text": "PayPal Holdings, Inc. $PYPL Shares Sold by Nordea Investment Management AB"
+            "text": "TABR Capital Management LLC Invests $3.95 Million in Garmin Ltd. $GRMN"
         }
     ]
 }
