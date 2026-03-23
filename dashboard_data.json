@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-23 02:35 UTC",
+        "last_updated": "2026-03-23 05:06 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 172.93,
-            "change": "-3.26%"
+            "change": "-2.93%"
         },
         {
             "symbol": "AMD",
             "price": 201.33,
-            "change": "+1.4%"
+            "change": "-0.88%"
         },
         {
             "symbol": "MSFT",
             "price": 381.85,
-            "change": "+2.82%"
+            "change": "-1.04%"
         },
         {
             "symbol": "CEG",
             "price": 281.99,
-            "change": "-3.07%"
+            "change": "-0.38%"
         },
         {
             "symbol": "VST",
             "price": 146.02,
-            "change": "-2.81%"
+            "change": "-1.13%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.56,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
             0.5,
             0.49,
             0.5,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            24.77,
-            24.73,
-            24.54,
-            24.57,
-            24.22,
-            24.36,
-            23.96,
-            24.05,
-            24.38,
-            24.8,
-            25.23,
-            24.76
+            26.68,
+            26.99,
+            26.65,
+            27.14,
+            27.05,
+            27.02,
+            26.74,
+            26.68,
+            26.37,
+            25.87,
+            25.55,
+            25.42
         ],
         "hsd_history_software": [
-            9.58,
-            9.54,
-            9.72,
-            9.8,
-            9.77,
-            9.66,
-            9.83,
-            10.0,
-            10.08,
-            10.11,
-            10.05,
-            10.15
+            10.44,
+            10.35,
+            10.16,
+            10.35,
+            10.49,
+            10.35,
+            10.21,
+            10.25,
+            10.42,
+            10.34,
+            10.27,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:48",
-            "tag": "MERCADO",
-            "text": "Paycom Software, Inc.(NYSE: PAYC) added to S&P 600 Industrials"
-        },
-        {
-            "time": "01:04",
+            "time": "04:23",
             "tag": "AI",
-            "text": "Gartner Survey Reveals Acquiring and Developing AI and Digital Talent Is CFOs\u2019 Top Near-Term Challenge"
+            "text": "Applied Materials, Inc. stock faces earnings anticipation amid AI chip boom and dividend stability"
         },
         {
-            "time": "01:01",
+            "time": "04:19",
             "tag": "MERCADO",
-            "text": "Activist Elliott takes multibillion-dollar stake in Synopsys, source says"
+            "text": "Walmart has some big pricing changes in store"
         },
         {
-            "time": "00:51",
+            "time": "04:15",
             "tag": "MERCADO",
-            "text": "Match Group, Inc.(NasdaqGS: MTCH) dropped from S&P Global 1200"
+            "text": "Elliott Targets Align Technology: Activism Returns:"
         },
         {
-            "time": "00:20",
+            "time": "04:04",
+            "tag": "AI",
+            "text": "ISRG Intuitive Surgical NASDAQ pre-market Mar 23 2026: $479.93, Meyka B+ on AI"
+        },
+        {
+            "time": "04:01",
             "tag": "MERCADO",
-            "text": "How Investors May Respond To Sterling Infrastructure (STRL) Record Q3 Beat And Raised Profit Outlook"
+            "text": "Agilent Technologies Advances Chromatography Innovations for Pharma and Biotech Efficiency in 2026"
         }
     ]
 }
