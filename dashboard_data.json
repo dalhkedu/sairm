@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-23 18:59 UTC",
+        "last_updated": "2026-03-23 19:52 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 176.6,
-            "change": "-0.14%"
+            "price": 176.07,
+            "change": "-2.83%"
         },
         {
             "symbol": "AMD",
-            "price": 205.0,
-            "change": "-0.63%"
+            "price": 203.34,
+            "change": "-2.69%"
         },
         {
             "symbol": "MSFT",
-            "price": 383.35,
-            "change": "-0.3%"
+            "price": 383.67,
+            "change": "-2.55%"
         },
         {
             "symbol": "CEG",
-            "price": 292.9,
-            "change": "+1.51%"
+            "price": 290.45,
+            "change": "+2.47%"
         },
         {
             "symbol": "VST",
-            "price": 153.79,
-            "change": "+1.44%"
+            "price": 152.11,
+            "change": "-3.1%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.42,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.5,
+            0.49,
+            0.49,
+            0.49,
             0.49,
             0.5,
-            0.51,
-            0.51,
+            0.49,
+            0.49,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51
+            0.5,
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.99,
-            23.61,
-            23.91,
-            24.24,
-            24.44,
-            24.54,
-            24.31,
-            24.64,
-            24.81,
-            25.03,
-            25.11,
-            25.17
+            23.27,
+            23.67,
+            23.98,
+            24.34,
+            24.82,
+            24.48,
+            24.68,
+            24.71,
+            24.99,
+            25.38,
+            25.17,
+            25.31
         ],
         "hsd_history_software": [
-            9.38,
-            9.51,
-            9.7,
-            9.64,
-            9.5,
-            9.56,
-            9.48,
-            9.63,
-            9.81,
-            9.84,
-            10.0,
-            9.94
+            9.72,
+            9.88,
+            9.85,
+            10.02,
+            10.03,
+            9.93,
+            9.88,
+            9.87,
+            9.86,
+            9.89,
+            9.99,
+            9.91
         ],
         "rci_data": [
             85.0,
-            17.66
+            17.607
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:58",
-            "tag": "CRYPTO",
-            "text": "Crypto Sectors Quarterly: AI and Tokenization Shine Amid Geopolitical Turmoil"
-        },
-        {
-            "time": "17:56",
+            "time": "18:50",
             "tag": "MERCADO",
-            "text": "5 Newly Overvalued Stocks this Week"
+            "text": "Wipro deepens presence in South Korea, launches innovation lab"
         },
         {
-            "time": "17:53",
+            "time": "18:39",
             "tag": "MERCADO",
-            "text": "CoStar must face rival's antitrust claims after US Supreme Court order"
+            "text": "Motorola Solutions Inc stock advances amid golden cross signal and strong analyst outlook"
         },
         {
-            "time": "17:52",
+            "time": "18:38",
+            "tag": "MERCADO",
+            "text": "Five9, LiveRamp, ZoomInfo, DigitalOcean, and Zeta Global Shares Are Soaring, What You Need To Know"
+        },
+        {
+            "time": "18:31",
+            "tag": "MERCADO",
+            "text": "Cadence Design Systems, Twilio, nCino, Bandwidth, and C3.ai Stocks Trade Up, What You Need To Know"
+        },
+        {
+            "time": "18:30",
             "tag": "AI",
-            "text": "JPMorgan Offers Clients a New Way to Hedge AI Debt Risk"
-        },
-        {
-            "time": "17:46",
-            "tag": "MERCADO",
-            "text": "Aptean (Logility) Named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 Reports for Supply Chain Planning Solutions: Process industries and \u200bSupply Chain Planning Solutions: Discrete Industries"
+            "text": "Intuit Inc. stock faces pressure amid AI competition and slowing growth in tax software"
         }
     ]
 }
