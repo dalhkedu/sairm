@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-23 22:36 UTC",
+        "last_updated": "2026-03-23 23:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.64,
-            "change": "+2.77%"
+            "change": "-0.11%"
         },
         {
             "symbol": "AMD",
             "price": 202.68,
-            "change": "-2.6%"
+            "change": "-1.92%"
         },
         {
             "symbol": "MSFT",
             "price": 383.0,
-            "change": "+0.56%"
+            "change": "-1.22%"
         },
         {
             "symbol": "CEG",
             "price": 289.76,
-            "change": "+3.05%"
+            "change": "-0.43%"
         },
         {
             "symbol": "VST",
             "price": 151.29,
-            "change": "+0.56%"
+            "change": "+1.94%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.59,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
             0.52,
             0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.49
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.78,
-            25.5,
-            25.08,
-            25.34,
-            25.54,
-            25.99,
-            25.78,
-            25.63,
-            26.04,
-            25.59,
-            25.48,
-            25.16
+            24.45,
+            24.51,
+            24.62,
+            24.33,
+            24.77,
+            24.61,
+            24.72,
+            24.56,
+            25.01,
+            24.93,
+            25.44,
+            25.45
         ],
         "hsd_history_software": [
-            9.93,
-            9.98,
+            10.32,
+            10.33,
+            10.39,
+            10.3,
+            10.23,
+            10.4,
+            10.32,
+            10.22,
+            10.29,
             10.12,
-            10.06,
-            9.89,
-            9.93,
-            9.76,
-            9.7,
-            9.63,
-            9.76,
-            9.95,
-            9.86
+            10.0,
+            9.98
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:09",
-            "tag": "MERCADO",
-            "text": "(NBDS) as a Liquidity Pulse for Institutional Tactics"
-        },
-        {
-            "time": "21:56",
-            "tag": "MERCADO",
-            "text": "Trimble Inc. stock underperforms Dow amid strong earnings outlook and software shift"
-        },
-        {
-            "time": "21:52",
+            "time": "23:08",
             "tag": "AI",
-            "text": "Palo Alto Networks develops secure browser for agentic AI"
+            "text": "Draganfly And Palladyne AI Advance Autonomous Swarm Capabilities"
         },
         {
-            "time": "21:41",
+            "time": "22:31",
             "tag": "MERCADO",
-            "text": "Netflix (NASDAQ:NFLX) Stock Price Up 1.7% - What's Next?"
+            "text": "The agentic era: How Palo Alto Networks is turning security into a business enabler"
         },
         {
-            "time": "21:40",
+            "time": "22:29",
+            "tag": "AI",
+            "text": "Apple co-founder Steve Wozniak says he's 'not a fan' of AI"
+        },
+        {
+            "time": "22:25",
             "tag": "MERCADO",
-            "text": "Weibo Corp stock faces renewed scrutiny amid China tech crackdown and slowing user growth"
+            "text": "Qualcomm Joins Trusted Firmware to Support Open Source Secure Firmware"
+        },
+        {
+            "time": "22:19",
+            "tag": "MERCADO",
+            "text": "William Mosley Sells 24,584 Shares of Seagate Technology (NASDAQ:STX) Stock"
         }
     ]
 }
