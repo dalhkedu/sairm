@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-23 11:47 UTC",
+        "last_updated": "2026-03-23 13:15 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 172.93,
-            "change": "-3.44%"
+            "change": "+3.33%"
         },
         {
             "symbol": "AMD",
             "price": 201.33,
-            "change": "-3.24%"
+            "change": "-3.16%"
         },
         {
             "symbol": "MSFT",
             "price": 381.85,
-            "change": "-2.17%"
+            "change": "-0.8%"
         },
         {
             "symbol": "CEG",
             "price": 281.99,
-            "change": "-0.31%"
+            "change": "-1.33%"
         },
         {
             "symbol": "VST",
-            "price": NaN,
-            "change": "-0.58%"
+            "price": 146.02,
+            "change": "-3.45%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.51,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
+            0.54,
             0.53,
             0.52,
+            0.52,
+            0.52,
             0.51,
             0.51,
             0.51,
-            0.51
+            0.51,
+            0.51,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.64,
-            25.72,
-            25.86,
-            25.52,
-            25.65,
-            25.26,
-            25.24,
-            25.2,
-            25.58,
-            25.29,
-            24.8,
-            24.83
+            23.11,
+            23.04,
+            23.14,
+            23.54,
+            23.87,
+            23.78,
+            24.22,
+            24.7,
+            25.14,
+            25.43,
+            25.67,
+            25.33
         ],
         "hsd_history_software": [
-            9.69,
-            9.64,
-            9.66,
-            9.54,
-            9.37,
-            9.35,
-            9.34,
-            9.4,
-            9.53,
-            9.64,
-            9.69,
-            9.88
+            10.17,
+            10.18,
+            10.14,
+            10.26,
+            10.12,
+            9.95,
+            9.87,
+            10.05,
+            9.99,
+            9.96,
+            10.12,
+            10.18
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:03",
+            "time": "12:39",
             "tag": "MERCADO",
-            "text": "Plug Power executives to attend Roth Annual Growth Conference"
+            "text": "ProShares S&P 500 Ex-Financials ETF (SPXN) Stock Price, Holdings, Dividend Yield"
         },
         {
-            "time": "11:03",
+            "time": "12:30",
+            "tag": "MERCADO",
+            "text": "Stryker (NYSE: SYK) says cyber incident contained as systems restore"
+        },
+        {
+            "time": "12:24",
             "tag": "AI",
-            "text": "NVIDIA and Emerald AI Join Leading Energy Companies to Pioneer Flexible AI Factories as Grid Assets"
+            "text": "Kroger Appoints Milen Mahadevan Chief Data and AI Officer"
         },
         {
-            "time": "11:01",
+            "time": "12:24",
             "tag": "MERCADO",
-            "text": "Ryan Gosling's 'Project Hail Mary' Smashes Records For Amazon Prime Video"
+            "text": "Keysight Technologies (NYSE:KEYS) CEO Satish Dhanasekaran Sells 1,667 Shares of Stock"
         },
         {
-            "time": "11:00",
+            "time": "12:12",
             "tag": "MERCADO",
-            "text": "TABR Capital Management LLC Purchases Shares of 10,440 Leidos Holdings, Inc. $LDOS"
-        },
-        {
-            "time": "11:00",
-            "tag": "MERCADO",
-            "text": "TABR Capital Management LLC Invests $3.95 Million in Garmin Ltd. $GRMN"
+            "text": "eBay Inc Stock Faces Nasdaq Pressure Amid Market Volatility on March 23, 2026"
         }
     ]
 }
