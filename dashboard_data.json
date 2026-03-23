@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-23 19:52 UTC",
+        "last_updated": "2026-03-23 20:44 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 176.07,
-            "change": "-2.83%"
+            "price": 175.64,
+            "change": "-1.36%"
         },
         {
             "symbol": "AMD",
-            "price": 203.34,
-            "change": "-2.69%"
+            "price": 202.68,
+            "change": "-2.51%"
         },
         {
             "symbol": "MSFT",
-            "price": 383.67,
-            "change": "-2.55%"
+            "price": 383.0,
+            "change": "-2.8%"
         },
         {
             "symbol": "CEG",
-            "price": 290.45,
-            "change": "+2.47%"
+            "price": NaN,
+            "change": "-1.57%"
         },
         {
             "symbol": "VST",
-            "price": 152.11,
-            "change": "-3.1%"
+            "price": 151.29,
+            "change": "-0.66%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.52,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.49,
+            0.53,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.5,
-            0.49,
-            0.49,
             0.5,
             0.5,
-            0.49,
-            0.49,
-            0.5
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            23.27,
-            23.67,
-            23.98,
-            24.34,
-            24.82,
-            24.48,
-            24.68,
-            24.71,
-            24.99,
-            25.38,
-            25.17,
-            25.31
+            25.57,
+            25.96,
+            25.68,
+            25.59,
+            25.8,
+            26.26,
+            26.05,
+            25.62,
+            25.48,
+            25.55,
+            25.18,
+            25.23
         ],
         "hsd_history_software": [
-            9.72,
             9.88,
-            9.85,
-            10.02,
-            10.03,
-            9.93,
+            9.98,
+            9.81,
+            9.82,
+            9.63,
+            9.73,
+            9.58,
+            9.78,
+            9.77,
             9.88,
-            9.87,
-            9.86,
-            9.89,
-            9.99,
-            9.91
+            10.07,
+            10.12
         ],
         "rci_data": [
             85.0,
-            17.607
+            17.564
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:50",
+            "time": "20:06",
             "tag": "MERCADO",
-            "text": "Wipro deepens presence in South Korea, launches innovation lab"
+            "text": "Intellinetics to Host Fourth Quarter and Full Year 2025 Financial Results Conference Call on March 30"
         },
         {
-            "time": "18:39",
+            "time": "20:01",
             "tag": "MERCADO",
-            "text": "Motorola Solutions Inc stock advances amid golden cross signal and strong analyst outlook"
+            "text": "Army leaders in Huntsville will get a look at IPG\u2019s anti-drone lasers"
         },
         {
-            "time": "18:38",
-            "tag": "MERCADO",
-            "text": "Five9, LiveRamp, ZoomInfo, DigitalOcean, and Zeta Global Shares Are Soaring, What You Need To Know"
-        },
-        {
-            "time": "18:31",
-            "tag": "MERCADO",
-            "text": "Cadence Design Systems, Twilio, nCino, Bandwidth, and C3.ai Stocks Trade Up, What You Need To Know"
-        },
-        {
-            "time": "18:30",
+            "time": "19:46",
             "tag": "AI",
-            "text": "Intuit Inc. stock faces pressure amid AI competition and slowing growth in tax software"
+            "text": "FedEx Expands AI Upskilling Program to Prepare 400,000 Employees for Promotions"
+        },
+        {
+            "time": "19:14",
+            "tag": "MERCADO",
+            "text": "WWDC 2026: Here's When Apple Will Reveal iOS 27"
+        },
+        {
+            "time": "19:03",
+            "tag": "MERCADO",
+            "text": "Raymond James raises PT on NVIDIA (NVDA) stock"
         }
     ]
 }
