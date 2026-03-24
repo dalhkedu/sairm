@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-24 15:01 UTC",
+        "last_updated": "2026-03-24 17:03 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 175.15,
-            "change": "+2.05%"
+            "price": 175.06,
+            "change": "-1.8%"
         },
         {
             "symbol": "AMD",
-            "price": 202.29,
-            "change": "-0.09%"
+            "price": 201.96,
+            "change": "-2.34%"
         },
         {
             "symbol": "MSFT",
-            "price": 374.21,
-            "change": "+0.31%"
+            "price": 373.12,
+            "change": "+3.23%"
         },
         {
             "symbol": "CEG",
-            "price": 297.11,
-            "change": "-2.46%"
+            "price": 297.13,
+            "change": "-0.63%"
         },
         {
             "symbol": "VST",
-            "price": 153.53,
-            "change": "-0.41%"
+            "price": 153.09,
+            "change": "+2.64%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.56,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
             0.49,
-            0.5,
-            0.49,
-            0.5,
-            0.49,
+            0.48,
+            0.48,
+            0.48,
             0.49,
             0.49,
             0.5,
+            0.51,
             0.5,
-            0.49,
+            0.5,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.47,
-            24.48,
-            24.54,
-            24.15,
-            24.36,
-            23.93,
-            24.3,
-            24.71,
-            25.08,
-            25.12,
-            25.1,
-            24.93
+            24.34,
+            24.31,
+            24.7,
+            25.01,
+            24.78,
+            24.7,
+            24.98,
+            24.85,
+            24.67,
+            24.85,
+            24.63,
+            24.88
         ],
         "hsd_history_software": [
-            9.74,
-            9.63,
-            9.55,
-            9.55,
-            9.66,
-            9.85,
-            9.83,
-            9.85,
-            10.03,
-            10.05,
-            10.01,
-            10.13
+            9.6,
+            9.77,
+            9.76,
+            9.92,
+            9.86,
+            9.7,
+            9.69,
+            9.8,
+            9.96,
+            9.84,
+            10.02,
+            9.91
         ],
         "rci_data": [
             85.0,
-            17.515
+            17.506
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:39",
+            "time": "16:20",
             "tag": "MERCADO",
-            "text": "WeRide's annual revenue hits new high in 2025 as Robotaxi business surges globally"
+            "text": "Bit Digital stock slips as bearish technical signals weigh on outlook"
         },
         {
-            "time": "14:34",
-            "tag": "MERCADO",
-            "text": "John Deere, Garmin, and Philips may have undermined military right to repair"
+            "time": "16:15",
+            "tag": "RESULTADOS",
+            "text": "After Blowout Earnings, How Much Higher Can Micron Go?"
         },
         {
-            "time": "14:27",
-            "tag": "MERCADO",
-            "text": "Alphabet Inc. Stock: Shares Slide More Than 1.5% in Early Trading as Tech Sector Faces Geopolitical Pressure"
-        },
-        {
-            "time": "14:19",
+            "time": "16:11",
             "tag": "AI",
-            "text": "Why the WisdomTree Cybersecurity Fund Will Soar in the Agentic AI Era"
+            "text": "Alphabet Inc. Class A stock slides 1.5% amid U.S.-Iran tensions and soaring AI capex concerns"
         },
         {
-            "time": "14:17",
+            "time": "16:10",
             "tag": "MERCADO",
-            "text": "US company Worksport brings manufacturing in-house"
+            "text": "Morgan Stanley says Wall Street\u2019s crypto push isn\u2019t about FOMO"
+        },
+        {
+            "time": "16:08",
+            "tag": "MERCADO",
+            "text": "GE HealthCare Wins FDA 510(k) Clearance for Photonova Spectra PCCT"
         }
     ]
 }
