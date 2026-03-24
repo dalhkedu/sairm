@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-24 22:36 UTC",
+        "last_updated": "2026-03-24 23:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.2,
-            "change": "-3.19%"
+            "change": "+1.53%"
         },
         {
             "symbol": "AMD",
             "price": 205.37,
-            "change": "-0.3%"
+            "change": "+0.15%"
         },
         {
             "symbol": "MSFT",
             "price": 372.74,
-            "change": "-1.73%"
+            "change": "+0.51%"
         },
         {
             "symbol": "CEG",
             "price": 294.85,
-            "change": "+3.02%"
+            "change": "+2.57%"
         },
         {
             "symbol": "VST",
             "price": 152.72,
-            "change": "-2.25%"
+            "change": "-0.84%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.61,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.56,
-            0.55,
-            0.55,
-            0.54,
-            0.53,
             0.52,
-            0.52,
+            0.51,
             0.51,
             0.5,
             0.5,
-            0.5,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.0,
-            23.57,
-            23.5,
-            23.83,
-            24.24,
-            24.52,
-            24.18,
-            24.65,
-            25.05,
-            24.65,
+            24.31,
+            24.67,
+            24.87,
             24.82,
-            25.12
+            25.2,
+            24.9,
+            24.9,
+            25.2,
+            24.84,
+            25.25,
+            25.46,
+            25.11
         ],
         "hsd_history_software": [
-            9.29,
-            9.28,
-            9.4,
-            9.58,
-            9.77,
-            9.81,
-            9.96,
+            9.56,
+            9.57,
+            9.55,
+            9.54,
+            9.6,
+            9.78,
             9.9,
-            10.0,
-            9.85,
-            10.01,
-            9.96
+            9.73,
+            9.72,
+            9.81,
+            9.76,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:02",
+            "time": "23:07",
             "tag": "MERCADO",
-            "text": "Citigroup Maintains Buy on Amazon.com, Inc. (AMZN) March 2026"
+            "text": "Fortinet Plummets 3.17% Amid Sector-Wide Tech Turbulence \u2014 What\u2019s Next?"
         },
         {
-            "time": "22:01",
-            "tag": "AI",
-            "text": "Intuit Inc. stock faces pressure amid slowing QuickBooks growth and rising AI competition in SMB software market"
-        },
-        {
-            "time": "21:56",
-            "tag": "AI",
-            "text": "Cisco Systems Inc. stock faces pressure amid shifting networking demand and AI infrastructure buildo"
-        },
-        {
-            "time": "21:52",
+            "time": "23:04",
             "tag": "MERCADO",
-            "text": "Western Digital (WDC) sales chief settles RSU vesting taxes with withheld shares"
+            "text": "PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug"
         },
         {
-            "time": "21:51",
+            "time": "23:00",
             "tag": "MERCADO",
-            "text": "Omnicom Group Inc. stock faces uncertainty amid ad industry slowdown and acquisition integration challenges"
+            "text": "Caterpillar countersues Bobcat for infringing machinery patents"
+        },
+        {
+            "time": "22:40",
+            "tag": "MERCADO",
+            "text": "If You Invested $1,000 in Jiayin Group (JFIN)"
+        },
+        {
+            "time": "22:36",
+            "tag": "MERCADO",
+            "text": "KLA Corporation stock surges on $7 billion buyback announcement and 21% dividend hike"
         }
     ]
 }
