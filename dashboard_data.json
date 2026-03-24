@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-24 04:56 UTC",
+        "last_updated": "2026-03-24 06:03 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.64,
-            "change": "-1.17%"
+            "change": "-0.47%"
         },
         {
             "symbol": "AMD",
             "price": 202.68,
-            "change": "-2.71%"
+            "change": "-3.12%"
         },
         {
             "symbol": "MSFT",
             "price": 383.0,
-            "change": "+1.71%"
+            "change": "+1.85%"
         },
         {
             "symbol": "CEG",
             "price": 289.76,
-            "change": "+3.31%"
+            "change": "+0.16%"
         },
         {
             "symbol": "VST",
             "price": 151.29,
-            "change": "-1.66%"
+            "change": "-0.88%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.66,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.51,
             0.52,
+            0.51,
+            0.5,
+            0.5,
             0.51,
             0.51,
             0.51,
             0.52,
-            0.51,
             0.52,
-            0.52,
-            0.52,
-            0.51,
             0.51,
             0.51
         ],
         "hsd_history_hardware": [
+            25.24,
+            25.11,
+            24.67,
             24.32,
-            24.26,
-            24.13,
-            24.31,
-            23.88,
-            23.85,
-            24.31,
-            24.34,
+            24.4,
+            24.59,
+            24.63,
+            24.77,
+            24.89,
             24.62,
-            24.92,
-            24.56,
-            24.71
+            24.67,
+            24.79
         ],
         "hsd_history_software": [
+            9.43,
+            9.41,
+            9.53,
             9.7,
+            9.87,
+            9.7,
+            9.68,
+            9.63,
+            9.66,
             9.84,
-            10.0,
-            10.13,
-            10.15,
-            10.24,
-            10.38,
-            10.32,
-            10.19,
-            10.21,
-            10.08,
-            9.9
+            9.88,
+            10.02
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "05:13",
+            "tag": "MERCADO",
+            "text": "Crane Harbor Shareholders Approve Xanadu Quantum Business Combination"
+        },
+        {
+            "time": "05:12",
+            "tag": "MERCADO",
+            "text": "12 Information Technology Stocks Moving In Monday's After-Market Session"
+        },
+        {
+            "time": "04:39",
+            "tag": "AI",
+            "text": "OpenAI flags Microsoft dependence as key business risk ahead of expected IPO - report"
+        },
+        {
+            "time": "03:40",
+            "tag": "MERCADO",
+            "text": "Trimble, Inc. Experiences Valuation Adjustment Amidst Competitive Software Industry Landscape"
+        },
+        {
             "time": "03:17",
             "tag": "MERCADO",
             "text": "Assessing Crown Castle (CCI) Valuation After Weak Recent Returns And Planned Fiber Exit"
-        },
-        {
-            "time": "03:10",
-            "tag": "AI",
-            "text": "Astera Labs Conference: AI Infrastructure Shift Boosts Scorpio Switches, Taurus Cables and Retimers"
-        },
-        {
-            "time": "02:38",
-            "tag": "MERCADO",
-            "text": "Did Fastenal\u2019s New High-Tech Carrollton Hub Just Shift the (FAST) Investment Narrative?"
-        },
-        {
-            "time": "02:06",
-            "tag": "MERCADO",
-            "text": "Analog Devices Strengthens Presence in Asia with New Thailand Facility"
-        },
-        {
-            "time": "01:43",
-            "tag": "RESULTADOS",
-            "text": "Q4 Earnings Recap: Arlo Technologies (NYSE:ARLO) Tops Specialized Technology Stocks"
         }
     ]
 }
