@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-24 10:01 UTC",
+        "last_updated": "2026-03-24 11:47 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.64,
-            "change": "-1.99%"
+            "change": "-2.37%"
         },
         {
             "symbol": "AMD",
             "price": 202.68,
-            "change": "+1.38%"
+            "change": "+0.75%"
         },
         {
             "symbol": "MSFT",
             "price": 383.0,
-            "change": "-0.16%"
+            "change": "-2.02%"
         },
         {
             "symbol": "CEG",
             "price": 289.76,
-            "change": "-0.86%"
+            "change": "+0.68%"
         },
         {
             "symbol": "VST",
             "price": 151.29,
-            "change": "-1.87%"
+            "change": "-3.06%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
+        "cer_current": 0.51,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.52,
-            0.53,
-            0.54,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.5,
-            0.51,
-            0.51
+            0.46,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.95,
-            23.57,
-            23.68,
-            24.14,
-            24.27,
-            24.06,
-            23.79,
-            23.86,
-            24.09,
-            24.44,
-            24.57,
-            24.77
+            25.21,
+            25.2,
+            25.17,
+            25.37,
+            25.17,
+            24.95,
+            25.12,
+            25.54,
+            25.58,
+            25.12,
+            24.85,
+            24.53
         ],
         "hsd_history_software": [
-            9.72,
-            9.86,
-            9.96,
-            10.06,
-            10.03,
-            9.99,
-            9.99,
-            10.0,
-            10.08,
-            10.03,
-            9.96,
-            9.81
+            9.6,
+            9.51,
+            9.6,
+            9.52,
+            9.54,
+            9.62,
+            9.78,
+            9.89,
+            9.97,
+            9.88,
+            9.87,
+            10.04
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,9 @@
     ],
     "news_feed": [
         {
-            "time": "09:24",
-            "tag": "MERCADO",
-            "text": "General Partner Inc. Has $16.50 Million Stake in Apple Inc. $AAPL"
-        },
-        {
-            "time": "09:24",
-            "tag": "MERCADO",
-            "text": "MFG Wealth Management Inc. Has $3.39 Million Stake in NVIDIA Corporation $NVDA"
-        },
-        {
-            "time": "09:24",
-            "tag": "MERCADO",
-            "text": "Penbrook Management LLC Sells 1,555 Shares of Microsoft Corporation $MSFT"
-        },
-        {
-            "time": "09:24",
-            "tag": "MERCADO",
-            "text": "QP Wealth Management LLC Purchases Shares of 9,468 Microsoft Corporation $MSFT"
-        },
-        {
-            "time": "09:17",
-            "tag": "MERCADO",
-            "text": "Does NXP Semiconductors' New Interim Dividend Reveal a Shifting Capital Strategy for NXPI Investors?"
+            "time": "INFO",
+            "tag": "LIMIT",
+            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
         }
     ]
 }
