@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-24 06:03 UTC",
+        "last_updated": "2026-03-24 07:55 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.64,
-            "change": "-0.47%"
+            "change": "+1.22%"
         },
         {
             "symbol": "AMD",
             "price": 202.68,
-            "change": "-3.12%"
+            "change": "+1.05%"
         },
         {
             "symbol": "MSFT",
             "price": 383.0,
-            "change": "+1.85%"
+            "change": "+3.33%"
         },
         {
             "symbol": "CEG",
             "price": 289.76,
-            "change": "+0.16%"
+            "change": "+1.93%"
         },
         {
             "symbol": "VST",
             "price": 151.29,
-            "change": "-0.88%"
+            "change": "-1.5%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.45,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.52,
-            0.51,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.24,
-            25.11,
-            24.67,
-            24.32,
+            24.24,
+            24.3,
             24.4,
-            24.59,
-            24.63,
-            24.77,
-            24.89,
-            24.62,
-            24.67,
-            24.79
+            24.41,
+            23.98,
+            24.15,
+            23.75,
+            23.9,
+            24.3,
+            24.53,
+            24.86,
+            24.98
         ],
         "hsd_history_software": [
-            9.43,
-            9.41,
-            9.53,
-            9.7,
-            9.87,
-            9.7,
-            9.68,
-            9.63,
-            9.66,
-            9.84,
-            9.88,
-            10.02
+            10.51,
+            10.46,
+            10.31,
+            10.23,
+            10.15,
+            10.27,
+            10.09,
+            9.93,
+            10.12,
+            10.13,
+            9.99,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "07:08",
+            "tag": "MERCADO",
+            "text": "Appleton Partners Inc. MA Has $8.26 Million Holdings in ServiceNow, Inc. $NOW"
+        },
+        {
+            "time": "06:16",
+            "tag": "MERCADO",
+            "text": "How Investors Are Reacting To Vishay Intertechnology (VSH) Launching a Space\u2011Grade EMI Filter for GaN and SiC"
+        },
+        {
+            "time": "06:09",
+            "tag": "MERCADO",
+            "text": "Leidos Holdings stock faces short-term pressure amid institutional buying and defense sector shifts"
+        },
+        {
+            "time": "06:09",
+            "tag": "MERCADO",
+            "text": "Citigroup entities exit substantial holder status in Weebit Nano"
+        },
+        {
             "time": "05:13",
             "tag": "MERCADO",
             "text": "Crane Harbor Shareholders Approve Xanadu Quantum Business Combination"
-        },
-        {
-            "time": "05:12",
-            "tag": "MERCADO",
-            "text": "12 Information Technology Stocks Moving In Monday's After-Market Session"
-        },
-        {
-            "time": "04:39",
-            "tag": "AI",
-            "text": "OpenAI flags Microsoft dependence as key business risk ahead of expected IPO - report"
-        },
-        {
-            "time": "03:40",
-            "tag": "MERCADO",
-            "text": "Trimble, Inc. Experiences Valuation Adjustment Amidst Competitive Software Industry Landscape"
-        },
-        {
-            "time": "03:17",
-            "tag": "MERCADO",
-            "text": "Assessing Crown Castle (CCI) Valuation After Weak Recent Returns And Planned Fiber Exit"
         }
     ]
 }
