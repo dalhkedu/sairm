@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-24 19:07 UTC",
+        "last_updated": "2026-03-24 20:45 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 175.54,
-            "change": "-2.49%"
+            "price": 175.2,
+            "change": "+1.37%"
         },
         {
             "symbol": "AMD",
-            "price": 205.49,
-            "change": "+2.45%"
+            "price": 205.37,
+            "change": "-2.08%"
         },
         {
             "symbol": "MSFT",
-            "price": 373.91,
-            "change": "-2.71%"
+            "price": 372.74,
+            "change": "+3.12%"
         },
         {
             "symbol": "CEG",
-            "price": 296.85,
-            "change": "-2.73%"
+            "price": 294.85,
+            "change": "-1.5%"
         },
         {
             "symbol": "VST",
-            "price": 151.69,
-            "change": "+0.25%"
+            "price": 152.72,
+            "change": "+3.2%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.63,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.49
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.69,
-            24.58,
-            24.49,
-            24.5,
-            24.66,
-            24.19,
-            24.59,
-            24.77,
-            24.68,
-            24.83,
-            24.73,
-            24.69
+            25.71,
+            25.94,
+            26.37,
+            26.25,
+            26.45,
+            26.16,
+            26.12,
+            25.82,
+            25.48,
+            25.54,
+            25.18,
+            25.45
         ],
         "hsd_history_software": [
-            10.09,
-            10.09,
             10.19,
+            10.07,
+            10.1,
+            10.25,
             10.16,
-            10.06,
-            10.02,
-            10.05,
-            10.23,
-            10.15,
-            10.2,
-            10.18,
-            9.98
+            10.17,
+            10.27,
+            10.19,
+            10.03,
+            9.99,
+            9.8,
+            9.93
         ],
         "rci_data": [
             85.0,
-            17.554
+            17.52
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:34",
-            "tag": "MERCADO",
-            "text": "Vonage embeds voice in ServiceNow"
-        },
-        {
-            "time": "18:30",
-            "tag": "MERCADO",
-            "text": "FedEx taps Orlando firm OneRail to power same-day shipping as Amazon, others raise stakes"
-        },
-        {
-            "time": "18:24",
+            "time": "20:02",
             "tag": "AI",
-            "text": "Arista Networks Inc stock faces pressure amid AI infrastructure slowdown signals in Q1 2026"
+            "text": "NetApp Inc. stock faces pressure amid slowing AI data storage demand and enterprise spending caution"
         },
         {
-            "time": "18:20",
+            "time": "19:56",
             "tag": "MERCADO",
-            "text": "Chart of the Day: Getting Back Into Applied Materials Was a No-Brainer"
+            "text": "Right-leaning Sarasota social media platform pursues deals with Netflix, Amazon Prime"
         },
         {
-            "time": "18:18",
+            "time": "19:47",
             "tag": "MERCADO",
-            "text": "Linde plc stock faces helium demand surge from semiconductors amid industrial gas market shifts"
+            "text": "Amazon, IBM Gets 2X ETF Treatment As Tradr Expands Single-Stock Bets"
+        },
+        {
+            "time": "19:41",
+            "tag": "MERCADO",
+            "text": "Antitrust Agenda: HPE/Juniper Tunney Act Hearing Set for 1pm ET Today; State Attorneys General Group Signals Need for Companies to Cooperate on Merger Investigations; Analysis of Past Comments from Fertilizer Executives Amid Price Spikes; Acting DO"
+        },
+        {
+            "time": "19:30",
+            "tag": "MERCADO",
+            "text": "Gilat Satellite Networks (GILT) Announces Cloud-Based Virtualized Satellite Modem Demonstration with AWS"
         }
     ]
 }
