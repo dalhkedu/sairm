@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-25 07:55 UTC",
+        "last_updated": "2026-03-25 08:56 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.2,
-            "change": "+2.18%"
+            "change": "+2.83%"
         },
         {
             "symbol": "AMD",
             "price": 205.37,
-            "change": "+2.07%"
+            "change": "-0.68%"
         },
         {
             "symbol": "MSFT",
             "price": 372.74,
-            "change": "+0.51%"
+            "change": "-3.21%"
         },
         {
             "symbol": "CEG",
             "price": 294.85,
-            "change": "+0.61%"
+            "change": "-2.16%"
         },
         {
             "symbol": "VST",
             "price": 152.72,
-            "change": "-3.26%"
+            "change": "-1.44%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.7,
+        "cer_current": 0.64,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.48,
-            0.49,
+            0.54,
+            0.53,
+            0.52,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.65,
-            24.96,
-            25.37,
-            25.82,
-            25.8,
-            25.56,
-            25.46,
-            25.08,
-            24.88,
-            24.68,
-            24.6,
-            24.8
+            24.32,
+            24.26,
+            24.47,
+            24.91,
+            24.5,
+            24.02,
+            24.46,
+            24.45,
+            24.47,
+            24.36,
+            24.5,
+            24.77
         ],
         "hsd_history_software": [
-            9.66,
-            9.55,
-            9.69,
-            9.55,
-            9.57,
-            9.52,
-            9.7,
-            9.84,
-            9.92,
-            9.8,
-            9.92,
-            9.91
+            10.51,
+            10.58,
+            10.6,
+            10.63,
+            10.51,
+            10.45,
+            10.33,
+            10.31,
+            10.13,
+            10.08,
+            10.14,
+            10.06
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:25",
+            "time": "07:49",
             "tag": "MERCADO",
-            "text": "NetApp and Elastio Announce Partnership to Deliver Defense-in-Depth Ransomware Resilience"
+            "text": "Dynamic Advisor Solutions LLC Cuts Stake in Qualcomm Incorporated $QCOM"
         },
         {
-            "time": "06:17",
+            "time": "07:45",
             "tag": "MERCADO",
-            "text": "Evolution of Textron Systems UAS Through Operational Experience"
+            "text": "Microsoft Corporation $MSFT Shares Purchased by Covea Finance"
         },
         {
-            "time": "06:08",
+            "time": "07:44",
             "tag": "MERCADO",
-            "text": "T-Mobile US, Inc. stock faces pressure from Q4 2025 subscriber slowdown and rising 5G capex demands"
+            "text": "Brady Family Wealth LLC Sells 2,987 Shares of Alphabet Inc. $GOOGL"
         },
         {
-            "time": "06:07",
-            "tag": "RESULTADOS",
-            "text": "Scotiabank Forecasts Fortinet's FY2027 Earnings at $3.02 Per Share"
+            "time": "07:38",
+            "tag": "AI",
+            "text": "F5 and Forcepoint partner to secure enterprise AI from data creation to runtime operations"
         },
         {
-            "time": "06:00",
+            "time": "07:36",
             "tag": "MERCADO",
-            "text": "Ericsson seeks to register several trademarks in Russia"
+            "text": "Assenagon Asset Management S.A. Has $56.98 Million Position in Gartner, Inc. $IT"
         }
     ]
 }
