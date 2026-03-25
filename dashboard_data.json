@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-25 02:32 UTC",
+        "last_updated": "2026-03-25 04:57 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.2,
-            "change": "+0.57%"
+            "change": "-3.16%"
         },
         {
             "symbol": "AMD",
             "price": 205.37,
-            "change": "+1.42%"
+            "change": "+3.11%"
         },
         {
             "symbol": "MSFT",
             "price": 372.74,
-            "change": "+0.43%"
+            "change": "+1.38%"
         },
         {
             "symbol": "CEG",
             "price": 294.85,
-            "change": "+1.18%"
+            "change": "+2.06%"
         },
         {
             "symbol": "VST",
             "price": 152.72,
-            "change": "-0.12%"
+            "change": "-0.87%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.43,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
+            0.46,
+            0.46,
+            0.46,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
             0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            25.88,
-            25.51,
-            25.87,
-            25.65,
-            25.15,
-            25.14,
-            25.6,
-            25.64,
-            26.08,
-            25.64,
-            25.2,
-            24.87
+            24.43,
+            24.64,
+            24.19,
+            24.27,
+            24.34,
+            24.43,
+            24.63,
+            24.48,
+            24.12,
+            24.6,
+            24.94,
+            25.01
         ],
         "hsd_history_software": [
-            9.23,
-            9.41,
-            9.56,
-            9.54,
-            9.5,
-            9.65,
-            9.77,
-            9.78,
-            9.71,
-            9.9,
-            9.86,
-            10.05
+            10.15,
+            10.21,
+            10.24,
+            10.44,
+            10.32,
+            10.15,
+            10.02,
+            10.16,
+            10.3,
+            10.13,
+            10.03,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:51",
+            "time": "04:10",
             "tag": "MERCADO",
-            "text": "[Form 4] Salesforce, Inc. Insider Trading Activity"
+            "text": "AeroVironment unveils LOCUST X3 directed energy system designed to counter unmanned aerial threats"
         },
         {
-            "time": "01:51",
-            "tag": "MERCADO",
-            "text": "[Form 4] Meta Platforms, Inc. Insider Trading Activity"
-        },
-        {
-            "time": "01:39",
+            "time": "03:40",
             "tag": "AI",
-            "text": "Tenable\u2019s AI engine automates security fixes at machine speed"
+            "text": "Alphabet Inc. (Class C) stock faces AI competition pressures amid cloud growth slowdown in Q1 2026"
         },
         {
-            "time": "01:39",
+            "time": "03:40",
             "tag": "MERCADO",
-            "text": "Stellantis Expands Charging Infrastructure with Tesla Superchargers"
+            "text": "Axcelis Technologies: Leadership Changes and Strategic Moves"
         },
         {
-            "time": "01:39",
-            "tag": "MERCADO",
-            "text": "Meta Platforms (NASDAQ: META) grants options to President Powell"
+            "time": "03:39",
+            "tag": "CRYPTO",
+            "text": "From biotech to blockchain, AIxCrypto posts $19M cash after pivot"
+        },
+        {
+            "time": "03:23",
+            "tag": "AI",
+            "text": "Adobe Inc. stock faces pressure amid AI competition and slowing subscription growth in 2026"
         }
     ]
 }
