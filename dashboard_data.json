@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-25 19:51 UTC",
+        "last_updated": "2026-03-25 20:42 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 178.77,
-            "change": "+0.98%"
+            "price": 178.68,
+            "change": "+0.89%"
         },
         {
             "symbol": "AMD",
-            "price": 219.81,
-            "change": "+1.04%"
+            "price": 220.27,
+            "change": "-0.24%"
         },
         {
             "symbol": "MSFT",
-            "price": 371.02,
-            "change": "+1.24%"
+            "price": 371.04,
+            "change": "-0.77%"
         },
         {
             "symbol": "CEG",
-            "price": 302.32,
-            "change": "-0.58%"
+            "price": 303.32,
+            "change": "-1.41%"
         },
         {
             "symbol": "VST",
-            "price": 150.85,
-            "change": "-1.36%"
+            "price": 151.51,
+            "change": "-0.11%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.68,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
             0.51,
             0.5,
             0.49,
+            0.49,
+            0.49,
             0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.43,
-            25.53,
-            25.06,
-            25.28,
-            25.65,
-            25.87,
-            25.63,
-            25.17,
-            25.24,
-            24.87,
-            24.58,
-            24.97
+            24.73,
+            24.8,
+            25.21,
+            25.72,
+            25.3,
+            24.88,
+            24.41,
+            24.36,
+            24.34,
+            24.24,
+            24.67,
+            25.09
         ],
         "hsd_history_software": [
-            10.35,
-            10.19,
-            10.4,
-            10.26,
-            10.31,
-            10.22,
+            10.1,
+            10.21,
+            10.21,
+            10.05,
             10.04,
-            10.12,
-            10.18,
             10.17,
+            9.98,
+            10.1,
+            10.15,
+            10.14,
             9.99,
-            9.96
+            10.0
         ],
         "rci_data": [
             85.0,
-            17.877000000000002
+            17.868000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:08",
+            "time": "20:07",
             "tag": "MERCADO",
-            "text": "AT&T Inc. (T) Leads Industry Collaboration with NVIDIA and Cisco"
+            "text": "Analysts Remain Mixed on Caterpillar (CAT) Amid Power-Generation Equipment Agreement with Atlas Energy"
         },
         {
-            "time": "19:04",
+            "time": "20:04",
             "tag": "MERCADO",
-            "text": "10 Top Retail Companies to Know"
+            "text": "GCT Semiconductor Holding, Inc. Provides Business Update and Reports Fourth Quarter and Full Year 2025 Financial Results"
         },
         {
-            "time": "18:57",
+            "time": "20:04",
+            "tag": "MERCADO",
+            "text": "Why F5 (FFIV) Stock Is Trading Up Today"
+        },
+        {
+            "time": "19:44",
             "tag": "AI",
-            "text": "Amex doubles down on AI for businesses"
+            "text": "AI inference costs set to plunge: Gartner"
         },
         {
-            "time": "18:48",
+            "time": "19:38",
             "tag": "MERCADO",
-            "text": "Canaccord reiterates Generac stock Buy rating on data center growth"
-        },
-        {
-            "time": "18:28",
-            "tag": "MERCADO",
-            "text": "Norwegian Cruise Line (NCLH) Updates Systems to Drive Efficiency"
+            "text": "Enphase Energy and GRID Alternatives launch in-person battery skills initiative"
         }
     ]
 }
