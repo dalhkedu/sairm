@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-03-24 23:35 UTC",
+        "last_updated": "2026-03-25 02:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.2,
-            "change": "+1.53%"
+            "change": "+0.57%"
         },
         {
             "symbol": "AMD",
             "price": 205.37,
-            "change": "+0.15%"
+            "change": "+1.42%"
         },
         {
             "symbol": "MSFT",
             "price": 372.74,
-            "change": "+0.51%"
+            "change": "+0.43%"
         },
         {
             "symbol": "CEG",
             "price": 294.85,
-            "change": "+2.57%"
+            "change": "+1.18%"
         },
         {
             "symbol": "VST",
             "price": 152.72,
-            "change": "-0.84%"
+            "change": "-0.12%"
         }
     ],
     "dashboard_metrics": {
@@ -36,46 +36,46 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
             0.51,
             0.51,
             0.5,
             0.5,
             0.49,
-            0.48,
             0.49,
             0.49,
+            0.49,
+            0.5,
             0.49,
             0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.31,
-            24.67,
-            24.87,
-            24.82,
+            25.88,
+            25.51,
+            25.87,
+            25.65,
+            25.15,
+            25.14,
+            25.6,
+            25.64,
+            26.08,
+            25.64,
             25.2,
-            24.9,
-            24.9,
-            25.2,
-            24.84,
-            25.25,
-            25.46,
-            25.11
+            24.87
         ],
         "hsd_history_software": [
+            9.23,
+            9.41,
             9.56,
-            9.57,
-            9.55,
             9.54,
-            9.6,
+            9.5,
+            9.65,
+            9.77,
             9.78,
+            9.71,
             9.9,
-            9.73,
-            9.72,
-            9.81,
-            9.76,
-            9.89
+            9.86,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "23:07",
+            "time": "01:51",
             "tag": "MERCADO",
-            "text": "Fortinet Plummets 3.17% Amid Sector-Wide Tech Turbulence \u2014 What\u2019s Next?"
+            "text": "[Form 4] Salesforce, Inc. Insider Trading Activity"
         },
         {
-            "time": "23:04",
+            "time": "01:51",
             "tag": "MERCADO",
-            "text": "PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug"
+            "text": "[Form 4] Meta Platforms, Inc. Insider Trading Activity"
         },
         {
-            "time": "23:00",
-            "tag": "MERCADO",
-            "text": "Caterpillar countersues Bobcat for infringing machinery patents"
+            "time": "01:39",
+            "tag": "AI",
+            "text": "Tenable\u2019s AI engine automates security fixes at machine speed"
         },
         {
-            "time": "22:40",
+            "time": "01:39",
             "tag": "MERCADO",
-            "text": "If You Invested $1,000 in Jiayin Group (JFIN)"
+            "text": "Stellantis Expands Charging Infrastructure with Tesla Superchargers"
         },
         {
-            "time": "22:36",
+            "time": "01:39",
             "tag": "MERCADO",
-            "text": "KLA Corporation stock surges on $7 billion buyback announcement and 21% dividend hike"
+            "text": "Meta Platforms (NASDAQ: META) grants options to President Powell"
         }
     ]
 }
