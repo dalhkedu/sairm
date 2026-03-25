@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-25 19:00 UTC",
+        "last_updated": "2026-03-25 19:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 178.26,
-            "change": "+1.84%"
+            "price": 178.77,
+            "change": "+0.98%"
         },
         {
             "symbol": "AMD",
-            "price": 220.17,
-            "change": "+0.19%"
+            "price": 219.81,
+            "change": "+1.04%"
         },
         {
             "symbol": "MSFT",
-            "price": 370.17,
-            "change": "+2.99%"
+            "price": 371.02,
+            "change": "+1.24%"
         },
         {
             "symbol": "CEG",
-            "price": 302.61,
-            "change": "-1.64%"
+            "price": 302.32,
+            "change": "-0.58%"
         },
         {
             "symbol": "VST",
-            "price": 151.17,
-            "change": "-2.19%"
+            "price": 150.85,
+            "change": "-1.36%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.69,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
             0.5,
             0.51,
             0.51,
             0.51,
-            0.51,
-            0.51,
-            0.51
+            0.5,
+            0.49,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.19,
-            26.18,
-            26.01,
-            25.69,
-            25.59,
-            25.49,
+            25.43,
+            25.53,
+            25.06,
+            25.28,
+            25.65,
+            25.87,
+            25.63,
+            25.17,
             25.24,
-            25.48,
-            25.8,
-            25.48,
-            25.16,
-            25.09
+            24.87,
+            24.58,
+            24.97
         ],
         "hsd_history_software": [
-            9.47,
-            9.47,
-            9.63,
-            9.69,
-            9.71,
-            9.79,
-            9.96,
-            10.03,
-            10.21,
+            10.35,
             10.19,
-            10.08,
-            10.1
+            10.4,
+            10.26,
+            10.31,
+            10.22,
+            10.04,
+            10.12,
+            10.18,
+            10.17,
+            9.99,
+            9.96
         ],
         "rci_data": [
             85.0,
-            17.826
+            17.877000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:09",
+            "time": "19:08",
             "tag": "MERCADO",
-            "text": "Can recycled plastic steady everyday prices? SMX builds a tradable model"
+            "text": "AT&T Inc. (T) Leads Industry Collaboration with NVIDIA and Cisco"
         },
         {
-            "time": "18:07",
+            "time": "19:04",
             "tag": "MERCADO",
-            "text": "Brendan Caldwell's Past Picks: Cboe Global Markets, Amazon.com & Costco"
+            "text": "10 Top Retail Companies to Know"
         },
         {
-            "time": "17:52",
+            "time": "18:57",
             "tag": "AI",
-            "text": "SLB Expands Nvidia Partnership To Boost AI In Energy"
+            "text": "Amex doubles down on AI for businesses"
         },
         {
-            "time": "17:40",
-            "tag": "AI",
-            "text": "Cisco Systems, Inc. stock leads Dow Jones gains amid tech rotation and Webex AI upgrades"
-        },
-        {
-            "time": "17:35",
+            "time": "18:48",
             "tag": "MERCADO",
-            "text": "Why Is Hewlett Packard Enterprise (HPE) Stock Soaring Today"
+            "text": "Canaccord reiterates Generac stock Buy rating on data center growth"
+        },
+        {
+            "time": "18:28",
+            "tag": "MERCADO",
+            "text": "Norwegian Cruise Line (NCLH) Updates Systems to Drive Efficiency"
         }
     ]
 }
