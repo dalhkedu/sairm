@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-25 06:05 UTC",
+        "last_updated": "2026-03-25 07:55 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.2,
-            "change": "+1.79%"
+            "change": "+2.18%"
         },
         {
             "symbol": "AMD",
             "price": 205.37,
-            "change": "+0.33%"
+            "change": "+2.07%"
         },
         {
             "symbol": "MSFT",
             "price": 372.74,
-            "change": "-1.13%"
+            "change": "+0.51%"
         },
         {
             "symbol": "CEG",
             "price": 294.85,
-            "change": "-2.82%"
+            "change": "+0.61%"
         },
         {
             "symbol": "VST",
             "price": 152.72,
-            "change": "-0.31%"
+            "change": "-3.26%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.7,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
+            0.47,
+            0.47,
+            0.48,
             0.49,
             0.5,
             0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.87,
             24.65,
-            24.55,
-            24.24,
-            24.09,
-            24.24,
-            24.62,
-            24.35,
-            24.44,
-            24.09,
-            24.53,
-            24.52
+            24.96,
+            25.37,
+            25.82,
+            25.8,
+            25.56,
+            25.46,
+            25.08,
+            24.88,
+            24.68,
+            24.6,
+            24.8
         ],
         "hsd_history_software": [
-            8.99,
-            8.95,
-            8.96,
-            9.03,
-            9.21,
-            9.32,
-            9.36,
-            9.39,
-            9.53,
-            9.51,
-            9.65,
-            9.83
+            9.66,
+            9.55,
+            9.69,
+            9.55,
+            9.57,
+            9.52,
+            9.7,
+            9.84,
+            9.92,
+            9.8,
+            9.92,
+            9.91
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:34",
-            "tag": "AI",
-            "text": "ISRG Intuitive Surgical NASDAQ $471.91 pre-market 25 Mar 2026: AI upside"
-        },
-        {
-            "time": "05:21",
-            "tag": "AI",
-            "text": "Intel Corporation stock faces critical juncture amid AI chip race and foundry challenges"
-        },
-        {
-            "time": "05:19",
-            "tag": "AI",
-            "text": "Bristol Myers Squibb Leans On AI ALS Pact As Valuation Question Persists"
-        },
-        {
-            "time": "05:19",
-            "tag": "AI",
-            "text": "Applied Materials Inc. stock faces uncertainty amid maturing semiconductor cycle and AI demand signa"
-        },
-        {
-            "time": "05:18",
+            "time": "06:25",
             "tag": "MERCADO",
-            "text": "Is It Time To Reassess Credo Technology Group Holding (CRDO) After Its Multi Year Surge?"
+            "text": "NetApp and Elastio Announce Partnership to Deliver Defense-in-Depth Ransomware Resilience"
+        },
+        {
+            "time": "06:17",
+            "tag": "MERCADO",
+            "text": "Evolution of Textron Systems UAS Through Operational Experience"
+        },
+        {
+            "time": "06:08",
+            "tag": "MERCADO",
+            "text": "T-Mobile US, Inc. stock faces pressure from Q4 2025 subscriber slowdown and rising 5G capex demands"
+        },
+        {
+            "time": "06:07",
+            "tag": "RESULTADOS",
+            "text": "Scotiabank Forecasts Fortinet's FY2027 Earnings at $3.02 Per Share"
+        },
+        {
+            "time": "06:00",
+            "tag": "MERCADO",
+            "text": "Ericsson seeks to register several trademarks in Russia"
         }
     ]
 }
