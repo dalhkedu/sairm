@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-25 22:40 UTC",
+        "last_updated": "2026-03-25 23:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 178.68,
-            "change": "-3.33%"
+            "change": "-0.92%"
         },
         {
             "symbol": "AMD",
             "price": 220.27,
-            "change": "-0.85%"
+            "change": "-1.23%"
         },
         {
             "symbol": "MSFT",
             "price": 371.04,
-            "change": "+2.6%"
+            "change": "-3.28%"
         },
         {
             "symbol": "CEG",
             "price": 303.32,
-            "change": "+3.47%"
+            "change": "-0.77%"
         },
         {
             "symbol": "VST",
             "price": 151.51,
-            "change": "+3.42%"
+            "change": "+1.5%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.7,
+        "cer_current": 0.61,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.48,
+            0.48,
+            0.48,
             0.49,
             0.49,
             0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.5,
             0.49,
-            0.5,
+            0.49,
+            0.49,
+            0.49,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.67,
-            24.25,
-            23.97,
-            23.89,
-            24.1,
-            23.92,
-            24.37,
-            24.43,
-            24.29,
-            24.29,
-            24.62,
-            25.1
+            25.12,
+            25.22,
+            24.75,
+            24.88,
+            24.94,
+            25.13,
+            24.87,
+            24.75,
+            24.38,
+            24.61,
+            24.77,
+            24.94
         ],
         "hsd_history_software": [
-            10.08,
-            9.95,
-            10.01,
-            9.89,
-            9.85,
-            9.79,
-            9.85,
+            10.58,
+            10.56,
+            10.54,
+            10.59,
+            10.51,
+            10.52,
+            10.33,
+            10.28,
+            10.26,
+            10.1,
             9.97,
-            10.01,
-            9.98,
-            10.07,
-            10.16
+            10.09
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:09",
+            "time": "23:08",
             "tag": "MERCADO",
-            "text": "Direxion Daily TSLA Bull 2X Shares (NASDAQ:TSLL) Plans Quarterly Dividend of $0.10"
+            "text": "PSA: T-Mobile customers have a week to sign up for a free year of MLB.TV"
         },
         {
-            "time": "22:01",
+            "time": "23:02",
+            "tag": "MERCADO",
+            "text": "Applied Materials Inc. stock faces pressure amid maturing chip cycle and mixed Q1 FY2026 results"
+        },
+        {
+            "time": "23:01",
+            "tag": "MERCADO",
+            "text": "4 Pack 564XL Black/Color Ink Cartridge For HP 564XL PhotoSmart 7510 7520 7525"
+        },
+        {
+            "time": "22:45",
             "tag": "AI",
-            "text": "Synopsys Brings Agentic Engineering Into Focus as AI-Driven Design Tests Productivity Limits"
+            "text": "HP Inc. unveils HP IQ to streamline workplace connectivity with AI at HPImagine"
         },
         {
-            "time": "21:57",
+            "time": "22:39",
             "tag": "MERCADO",
-            "text": "Bio-Techne Advances Spatial Biology with Modular Expansion of COMET Suite"
-        },
-        {
-            "time": "21:56",
-            "tag": "MERCADO",
-            "text": "HPE Stock Today: March 25 \u2013 \u00a3920m Mike Lynch Damages Awarded"
-        },
-        {
-            "time": "21:47",
-            "tag": "MERCADO",
-            "text": "KLA Corporation stock faces pressure amid semiconductor inspection demand slowdown signals in Q1 202"
+            "text": "Why Is Oracle Trading Higher Monday?"
         }
     ]
 }
