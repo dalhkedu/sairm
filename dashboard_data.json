@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-25 20:42 UTC",
+        "last_updated": "2026-03-25 21:42 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 178.68,
-            "change": "+0.89%"
+            "change": "+3.23%"
         },
         {
             "symbol": "AMD",
             "price": 220.27,
-            "change": "-0.24%"
+            "change": "+0.5%"
         },
         {
             "symbol": "MSFT",
             "price": 371.04,
-            "change": "-0.77%"
+            "change": "-0.54%"
         },
         {
             "symbol": "CEG",
             "price": 303.32,
-            "change": "-1.41%"
+            "change": "+1.36%"
         },
         {
             "symbol": "VST",
             "price": 151.51,
-            "change": "-0.11%"
+            "change": "-2.54%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.55,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.5,
+            0.48,
+            0.47,
+            0.48,
+            0.47,
+            0.48,
+            0.48,
             0.49,
             0.49,
             0.49,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5
+            0.49,
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.73,
-            24.8,
-            25.21,
-            25.72,
-            25.3,
-            24.88,
-            24.41,
-            24.36,
-            24.34,
-            24.24,
-            24.67,
-            25.09
+            27.22,
+            26.7,
+            26.68,
+            26.56,
+            26.29,
+            26.55,
+            26.37,
+            26.0,
+            25.82,
+            25.55,
+            25.48,
+            25.36
         ],
         "hsd_history_software": [
-            10.1,
-            10.21,
-            10.21,
-            10.05,
-            10.04,
-            10.17,
-            9.98,
-            10.1,
-            10.15,
-            10.14,
+            9.67,
+            9.51,
+            9.66,
+            9.73,
+            9.68,
+            9.62,
+            9.59,
+            9.7,
+            9.81,
             9.99,
-            10.0
+            9.98,
+            9.98
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:07",
+            "time": "21:05",
             "tag": "MERCADO",
-            "text": "Analysts Remain Mixed on Caterpillar (CAT) Amid Power-Generation Equipment Agreement with Atlas Energy"
+            "text": "Verisign (VRSN) director Armstrong buys $3979 in shares"
         },
         {
-            "time": "20:04",
-            "tag": "MERCADO",
-            "text": "GCT Semiconductor Holding, Inc. Provides Business Update and Reports Fourth Quarter and Full Year 2025 Financial Results"
-        },
-        {
-            "time": "20:04",
-            "tag": "MERCADO",
-            "text": "Why F5 (FFIV) Stock Is Trading Up Today"
-        },
-        {
-            "time": "19:44",
+            "time": "21:05",
             "tag": "AI",
-            "text": "AI inference costs set to plunge: Gartner"
+            "text": "SLB and Baker Hughes Advance AI-Enabled Power Optimization"
         },
         {
-            "time": "19:38",
+            "time": "20:57",
             "tag": "MERCADO",
-            "text": "Enphase Energy and GRID Alternatives launch in-person battery skills initiative"
+            "text": "Franklin Templeton Partners With Ondo in Asset Tokenization Push"
+        },
+        {
+            "time": "20:53",
+            "tag": "AI",
+            "text": "Axon Enterprise Inc. stock pulls back sharply amid AI defense demand reassessment"
+        },
+        {
+            "time": "20:42",
+            "tag": "MERCADO",
+            "text": "Invesco Ltd. stock gains momentum on Superstate tokenization partnership announcement"
         }
     ]
 }
