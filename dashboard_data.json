@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-25 15:03 UTC",
+        "last_updated": "2026-03-25 17:06 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 180.23,
-            "change": "+2.44%"
+            "price": 178.75,
+            "change": "-3.18%"
         },
         {
             "symbol": "AMD",
-            "price": 219.14,
-            "change": "-3.08%"
+            "price": 218.04,
+            "change": "-2.95%"
         },
         {
             "symbol": "MSFT",
-            "price": 373.13,
-            "change": "+1.86%"
+            "price": 370.77,
+            "change": "+1.6%"
         },
         {
             "symbol": "CEG",
-            "price": 305.13,
-            "change": "-3.01%"
+            "price": 307.62,
+            "change": "+0.66%"
         },
         {
             "symbol": "VST",
-            "price": 154.63,
-            "change": "-1.31%"
+            "price": 153.67,
+            "change": "+0.11%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.45,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
             0.47,
             0.47,
             0.48,
             0.48,
             0.48,
+            0.48,
             0.49,
             0.49,
-            0.49,
-            0.49,
-            0.49,
+            0.5,
             0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            24.27,
-            24.74,
-            24.64,
-            24.3,
-            24.21,
-            23.78,
-            24.25,
-            24.05,
-            24.39,
-            24.8,
-            24.94,
-            25.33
+            25.9,
+            26.18,
+            25.74,
+            25.89,
+            25.68,
+            25.58,
+            25.09,
+            25.09,
+            25.33,
+            25.09,
+            25.38,
+            24.98
         ],
         "hsd_history_software": [
-            9.83,
-            9.7,
-            9.77,
-            9.66,
             9.69,
-            9.56,
-            9.43,
-            9.6,
-            9.67,
-            9.86,
-            9.88,
-            9.85
+            9.69,
+            9.76,
+            9.87,
+            10.05,
+            10.13,
+            10.21,
+            10.07,
+            10.1,
+            10.04,
+            9.94,
+            9.97
         ],
         "rci_data": [
             85.0,
-            18.023
+            17.875
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:40",
+            "time": "16:52",
             "tag": "MERCADO",
-            "text": "Assessing VinFast Auto (NasdaqGS:VFS) Valuation After Analyst Meetings Highlight Long Term EV Ecosystem Push"
+            "text": "DFAC ETF Analysis: Dividends, Returns AMEX:DFAC"
         },
         {
-            "time": "14:35",
+            "time": "16:39",
             "tag": "MERCADO",
-            "text": "Morgan Stanley reiterates Overweight on Arm stock, $135 target"
+            "text": "Belden bridges shop floor data to cloud analytics, cuts operator time by 3.5 percent"
         },
         {
-            "time": "14:35",
+            "time": "16:29",
+            "tag": "MERCADO",
+            "text": "10 Top Manufacturing Companies in Detroit"
+        },
+        {
+            "time": "16:29",
             "tag": "AI",
-            "text": "Wellchange Holdings Company Limited Announces Strategic Development of Next-Generation AI Bookkeeping and Bank Statement Intelligence Platform"
+            "text": "QUALCOMM Incorporated stock plunges over 25% year-to-date on Nasdaq amid AI slowdown fears and China"
         },
         {
-            "time": "14:32",
-            "tag": "MERCADO",
-            "text": "Intel Stock Jumps as Chip Prices and Hopes Rise"
-        },
-        {
-            "time": "14:25",
-            "tag": "MERCADO",
-            "text": "General Dynamics (GD) Unveils New Counter-UAS Autonomous Vehicle"
+            "time": "16:24",
+            "tag": "AI",
+            "text": "Equinix Targets Talent Gap as AI Infrastructure Demand Surges"
         }
     ]
 }
