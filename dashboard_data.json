@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-25 17:06 UTC",
+        "last_updated": "2026-03-25 19:00 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 178.75,
-            "change": "-3.18%"
+            "price": 178.26,
+            "change": "+1.84%"
         },
         {
             "symbol": "AMD",
-            "price": 218.04,
-            "change": "-2.95%"
+            "price": 220.17,
+            "change": "+0.19%"
         },
         {
             "symbol": "MSFT",
-            "price": 370.77,
-            "change": "+1.6%"
+            "price": 370.17,
+            "change": "+2.99%"
         },
         {
             "symbol": "CEG",
-            "price": 307.62,
-            "change": "+0.66%"
+            "price": 302.61,
+            "change": "-1.64%"
         },
         {
             "symbol": "VST",
-            "price": 153.67,
-            "change": "+0.11%"
+            "price": 151.17,
+            "change": "-2.19%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.59,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.5,
-            0.5,
-            0.49
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.9,
+            26.19,
             26.18,
-            25.74,
-            25.89,
-            25.68,
-            25.58,
-            25.09,
-            25.09,
-            25.33,
-            25.09,
-            25.38,
-            24.98
+            26.01,
+            25.69,
+            25.59,
+            25.49,
+            25.24,
+            25.48,
+            25.8,
+            25.48,
+            25.16,
+            25.09
         ],
         "hsd_history_software": [
+            9.47,
+            9.47,
+            9.63,
             9.69,
-            9.69,
-            9.76,
-            9.87,
-            10.05,
-            10.13,
+            9.71,
+            9.79,
+            9.96,
+            10.03,
             10.21,
-            10.07,
-            10.1,
-            10.04,
-            9.94,
-            9.97
+            10.19,
+            10.08,
+            10.1
         ],
         "rci_data": [
             85.0,
-            17.875
+            17.826
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:52",
+            "time": "18:09",
             "tag": "MERCADO",
-            "text": "DFAC ETF Analysis: Dividends, Returns AMEX:DFAC"
+            "text": "Can recycled plastic steady everyday prices? SMX builds a tradable model"
         },
         {
-            "time": "16:39",
+            "time": "18:07",
             "tag": "MERCADO",
-            "text": "Belden bridges shop floor data to cloud analytics, cuts operator time by 3.5 percent"
+            "text": "Brendan Caldwell's Past Picks: Cboe Global Markets, Amazon.com & Costco"
         },
         {
-            "time": "16:29",
-            "tag": "MERCADO",
-            "text": "10 Top Manufacturing Companies in Detroit"
-        },
-        {
-            "time": "16:29",
+            "time": "17:52",
             "tag": "AI",
-            "text": "QUALCOMM Incorporated stock plunges over 25% year-to-date on Nasdaq amid AI slowdown fears and China"
+            "text": "SLB Expands Nvidia Partnership To Boost AI In Energy"
         },
         {
-            "time": "16:24",
+            "time": "17:40",
             "tag": "AI",
-            "text": "Equinix Targets Talent Gap as AI Infrastructure Demand Surges"
+            "text": "Cisco Systems, Inc. stock leads Dow Jones gains amid tech rotation and Webex AI upgrades"
+        },
+        {
+            "time": "17:35",
+            "tag": "MERCADO",
+            "text": "Why Is Hewlett Packard Enterprise (HPE) Stock Soaring Today"
         }
     ]
 }
