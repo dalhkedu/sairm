@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-25 09:58 UTC",
+        "last_updated": "2026-03-25 10:59 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.2,
-            "change": "+1.36%"
+            "change": "+1.97%"
         },
         {
             "symbol": "AMD",
             "price": 205.37,
-            "change": "+2.38%"
+            "change": "-2.01%"
         },
         {
             "symbol": "MSFT",
             "price": 372.74,
-            "change": "+2.97%"
+            "change": "+1.31%"
         },
         {
             "symbol": "CEG",
             "price": 294.85,
-            "change": "+3.32%"
+            "change": "+2.2%"
         },
         {
             "symbol": "VST",
             "price": 152.72,
-            "change": "+0.19%"
+            "change": "-3.2%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.51,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.46,
-            0.47,
-            0.46,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.5,
             0.51,
+            0.52,
+            0.51,
+            0.52,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.73,
-            24.68,
-            24.21,
-            24.65,
-            24.71,
-            24.65,
-            25.02,
-            24.68,
-            24.7,
-            24.63,
-            24.49,
-            24.68
+            24.57,
+            24.92,
+            25.24,
+            25.01,
+            25.12,
+            24.83,
+            25.1,
+            25.54,
+            25.26,
+            24.95,
+            25.39,
+            25.31
         ],
         "hsd_history_software": [
-            9.34,
-            9.43,
-            9.35,
-            9.25,
-            9.4,
-            9.54,
-            9.7,
-            9.81,
-            9.8,
+            9.55,
             9.61,
-            9.8,
-            9.92
+            9.64,
+            9.79,
+            9.95,
+            9.91,
+            10.06,
+            10.22,
+            10.17,
+            10.02,
+            10.11,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:55",
+            "time": "10:08",
             "tag": "MERCADO",
-            "text": "Teledyne Technologies stock faces valuation scrutiny amid recent declines and acquisition momentum"
+            "text": "Trimble senior vice president Peter Large announces retirement effective May"
         },
         {
-            "time": "08:53",
+            "time": "10:06",
             "tag": "MERCADO",
-            "text": "DAVENPORT & Co LLC Decreases Position in Uber Technologies, Inc. $UBER"
+            "text": "Brooks Tractor Incorporated Named Newest Trimble Technology Outlet, Serving Customers in South and Eastern Wisconsin"
         },
         {
-            "time": "08:47",
+            "time": "09:59",
             "tag": "MERCADO",
-            "text": "Generac Holdings Inc. $GNRC Shares Acquired by DAVENPORT & Co LLC"
+            "text": "Why Netflix is turning Major League Baseball\u2019s opening night into a big event"
         },
         {
-            "time": "08:47",
+            "time": "09:58",
             "tag": "MERCADO",
-            "text": "Bath Savings Trust Co Increases Stake in Synopsys, Inc. $SNPS"
+            "text": "Competitor Analysis: Evaluating Micron Technology And Competitors In Semiconductors & Semiconductor Equipment Industry - Micron Technology (NASDAQ:MU)"
         },
         {
-            "time": "08:47",
+            "time": "09:51",
             "tag": "MERCADO",
-            "text": "DAVENPORT & Co LLC Has $89.52 Million Stock Position in ServiceNow, Inc. $NOW"
+            "text": "SG Americas Securities LLC Has $63.73 Million Stake in Synopsys, Inc. $SNPS"
         }
     ]
 }
