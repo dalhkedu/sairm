@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-26 19:12 UTC",
+        "last_updated": "2026-03-26 20:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 171.71,
-            "change": "-2.32%"
+            "price": 171.24,
+            "change": "-2.49%"
         },
         {
             "symbol": "AMD",
-            "price": 204.21,
-            "change": "-2.03%"
+            "price": 203.77,
+            "change": "+0.65%"
         },
         {
             "symbol": "MSFT",
-            "price": 365.99,
-            "change": "-1.83%"
+            "price": 365.97,
+            "change": "-3.35%"
         },
         {
             "symbol": "CEG",
-            "price": 293.61,
-            "change": "-2.98%"
+            "price": 295.19,
+            "change": "-0.49%"
         },
         {
             "symbol": "VST",
-            "price": 150.36,
-            "change": "-2.66%"
+            "price": 152.3,
+            "change": "+0.92%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.45,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
+            0.52,
+            0.51,
             0.5,
-            0.49,
             0.5,
-            0.5
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.51,
-            24.05,
-            24.25,
-            23.83,
-            23.92,
-            24.02,
-            24.23,
-            24.68,
-            25.14,
-            25.13,
-            24.69,
-            25.03
+            25.38,
+            25.47,
+            25.54,
+            25.57,
+            25.93,
+            25.73,
+            26.01,
+            25.74,
+            25.33,
+            25.18,
+            24.96,
+            25.06
         ],
         "hsd_history_software": [
-            10.29,
-            10.1,
-            10.17,
-            10.0,
-            10.2,
-            10.18,
-            10.24,
-            10.34,
-            10.15,
-            10.31,
-            10.19,
-            10.02
+            10.23,
+            10.4,
+            10.26,
+            10.07,
+            9.97,
+            10.08,
+            10.02,
+            10.04,
+            9.98,
+            9.86,
+            9.86,
+            9.83
         ],
         "rci_data": [
             85.0,
-            17.171
+            17.124
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:39",
+            "time": "20:08",
             "tag": "MERCADO",
-            "text": "FGRO Top Holdings List & Exposure (Fidelity Fundamental Large Cap Growth ETF)"
+            "text": "Netflix raises subscription prices across all tiers"
         },
         {
-            "time": "18:25",
+            "time": "20:04",
             "tag": "MERCADO",
-            "text": "Cirrus Logic Shares up 7.2% After Apple Adds"
+            "text": "Paycom Named 2026 Platinum Employer on Where You Work Matters List"
         },
         {
-            "time": "18:18",
+            "time": "20:01",
+            "tag": "MERCADO",
+            "text": "Seacoast taps a real estate veteran, CIO and deal lawyer for board"
+        },
+        {
+            "time": "19:48",
+            "tag": "MERCADO",
+            "text": "Netflix Stock Is Rising Today \u2013 What\u2019s The New Subscription Price?"
+        },
+        {
+            "time": "19:48",
             "tag": "AI",
-            "text": "The Bull Case For General Electric (GE) Could Change Following Expanded Palantir AI Defense Partnership \u2013 Learn Why"
-        },
-        {
-            "time": "18:17",
-            "tag": "MERCADO",
-            "text": "Cirrus Logic Named Most Innovative in CSR, Barclays Lifts Price Target"
-        },
-        {
-            "time": "17:53",
-            "tag": "MERCADO",
-            "text": "Apple Taps Bosch, TDK For US iPhone Parts As Domestic Spending Surges"
+            "text": "What Does Teradyne Inc.\u2019s (TER) AI Trainer Solution Mean for Robotic Deployment?"
         }
     ]
 }
