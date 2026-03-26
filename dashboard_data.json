@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-26 10:55 UTC",
+        "last_updated": "2026-03-26 11:52 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 178.68,
-            "change": "+2.05%"
+            "change": "-2.67%"
         },
         {
             "symbol": "AMD",
             "price": 220.27,
-            "change": "-3.14%"
+            "change": "-1.37%"
         },
         {
             "symbol": "MSFT",
             "price": 371.04,
-            "change": "+2.0%"
+            "change": "-3.5%"
         },
         {
             "symbol": "CEG",
             "price": 303.32,
-            "change": "+3.42%"
+            "change": "-3.08%"
         },
         {
             "symbol": "VST",
             "price": 151.51,
-            "change": "-1.07%"
+            "change": "+0.3%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.48,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.53,
-            0.54,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.5,
             0.51,
-            0.51,
-            0.51,
-            0.51
+            0.5,
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.32,
-            25.41,
-            25.44,
-            25.09,
-            25.08,
-            24.91,
-            24.68,
-            24.81,
-            25.22,
-            24.74,
-            24.95,
-            25.17
+            25.28,
+            25.42,
+            25.11,
+            24.83,
+            24.87,
+            24.93,
+            25.21,
+            25.07,
+            24.62,
+            24.8,
+            24.57,
+            24.83
         ],
         "hsd_history_software": [
-            10.01,
-            10.11,
-            9.91,
-            10.05,
-            10.01,
-            9.84,
-            9.9,
-            10.0,
-            10.04,
-            10.03,
-            10.07,
-            10.04
+            10.44,
+            10.4,
+            10.36,
+            10.41,
+            10.52,
+            10.4,
+            10.25,
+            10.1,
+            10.2,
+            10.27,
+            10.31,
+            10.18
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:04",
+            "time": "11:10",
             "tag": "MERCADO",
-            "text": "INVESTOR DEADLINE: Oracle Corporation (ORCL) Investors with Substantial Losses Have Opportunity to Lead the Oracle Class Action Lawsuit"
+            "text": "36Kr Exclusive: Niu Technologies' Ex-Product VP Launches All-Terrain Vehicle Startup, Gets Multi-Million-Dollar Investment from Hillhouse Capital, Cloud Time Capital, and Cloud Mu Capital"
         },
         {
-            "time": "10:00",
+            "time": "11:02",
             "tag": "MERCADO",
-            "text": "IBM quantum system reproduces neutron tests on a real crystal"
+            "text": "4,799 Shares in Teradyne, Inc. $TER Purchased by National Wealth Management Group LLC"
         },
         {
-            "time": "10:00",
+            "time": "11:01",
             "tag": "MERCADO",
-            "text": "SG Americas Securities LLC Raises Stock Position in HP Inc. $HPQ"
+            "text": "National Wealth Management Group LLC Increases Holdings in Analog Devices, Inc. $ADI"
         },
         {
-            "time": "09:59",
+            "time": "11:01",
             "tag": "MERCADO",
-            "text": "Pacifica Partners Inc. Sells 4,048 Shares of Alphabet Inc. $GOOG"
+            "text": "National Wealth Management Group LLC Invests $1.46 Million in Western Digital Corporation $WDC"
         },
         {
-            "time": "09:59",
+            "time": "10:52",
             "tag": "MERCADO",
-            "text": "Alphabet Inc. $GOOG Shares Sold by Threadgill Financial LLC"
+            "text": "Heartwood Wealth Advisors LLC Has $556,000 Stock Holdings in Cisco Systems, Inc. $CSCO"
         }
     ]
 }
