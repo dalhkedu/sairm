@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-26 22:34 UTC",
+        "last_updated": "2026-03-26 23:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 171.24,
-            "change": "-1.0%"
+            "change": "+0.67%"
         },
         {
             "symbol": "AMD",
             "price": 203.77,
-            "change": "-0.7%"
+            "change": "-0.97%"
         },
         {
             "symbol": "MSFT",
             "price": 365.97,
-            "change": "+2.38%"
+            "change": "-0.08%"
         },
         {
             "symbol": "CEG",
             "price": 295.19,
-            "change": "-0.48%"
+            "change": "-0.83%"
         },
         {
             "symbol": "VST",
             "price": 152.3,
-            "change": "+2.02%"
+            "change": "-1.42%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.54,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.49,
-            0.49,
             0.5,
             0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            24.47,
-            24.41,
-            24.21,
-            24.68,
-            24.69,
-            24.77,
-            25.05,
-            25.53,
-            25.22,
-            25.03,
-            25.28,
-            25.43
+            25.54,
+            25.21,
+            25.67,
+            25.3,
+            24.99,
+            25.46,
+            25.91,
+            25.62,
+            25.41,
+            25.61,
+            25.29,
+            24.98
         ],
         "hsd_history_software": [
-            10.41,
-            10.23,
+            10.54,
+            10.6,
+            10.72,
+            10.59,
+            10.64,
+            10.53,
+            10.44,
+            10.4,
+            10.33,
             10.19,
-            9.99,
-            10.18,
-            10.31,
-            10.14,
-            10.34,
-            10.23,
-            10.05,
-            9.93,
-            9.82
+            10.11,
+            9.93
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "22:53",
+            "tag": "MERCADO",
+            "text": "Marvell CEO Murphy sells $2.96 million in shares"
+        },
+        {
+            "time": "22:49",
+            "tag": "MERCADO",
+            "text": "Oracle bets bigger on Nashville with room for 2,000 workers"
+        },
+        {
+            "time": "22:43",
+            "tag": "MERCADO",
+            "text": "Gartner: LLMs to be up to 100X more cost-efficient by 2030"
+        },
+        {
             "time": "22:07",
             "tag": "MERCADO",
             "text": "Enphase Energy Is Up 33% Year to Date. Here\u2019s Where the Stock Could Go in 2026"
@@ -134,21 +149,6 @@
             "time": "22:03",
             "tag": "MERCADO",
             "text": "Circular Design Illustrated Through Four Cisco Products"
-        },
-        {
-            "time": "22:00",
-            "tag": "MERCADO",
-            "text": "Rockwell Automation brings SecureOT to industrial systems"
-        },
-        {
-            "time": "21:57",
-            "tag": "MERCADO",
-            "text": "Stock Market Today, March 26: Netflix Stock Rises After Raising Subscription Prices"
-        },
-        {
-            "time": "21:43",
-            "tag": "MERCADO",
-            "text": "Liberty Broadband Stock: Holding Company Structure, Charter Stake and Key Governance Ahead of 2026 Meeting"
         }
     ]
 }
