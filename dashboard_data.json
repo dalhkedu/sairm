@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-25 23:38 UTC",
+        "last_updated": "2026-03-26 02:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 178.68,
-            "change": "-0.92%"
+            "change": "+0.53%"
         },
         {
             "symbol": "AMD",
             "price": 220.27,
-            "change": "-1.23%"
+            "change": "+1.22%"
         },
         {
             "symbol": "MSFT",
             "price": 371.04,
-            "change": "-3.28%"
+            "change": "-3.13%"
         },
         {
             "symbol": "CEG",
             "price": 303.32,
-            "change": "-0.77%"
+            "change": "+1.28%"
         },
         {
             "symbol": "VST",
-            "price": 151.51,
-            "change": "+1.5%"
+            "price": NaN,
+            "change": "-1.36%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.44,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.5,
             0.49,
             0.49,
-            0.49,
-            0.49,
             0.5,
+            0.51,
+            0.52,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.12,
-            25.22,
-            24.75,
-            24.88,
+            25.18,
+            25.21,
+            25.29,
+            25.73,
+            25.23,
+            25.02,
+            25.31,
             24.94,
-            25.13,
-            24.87,
-            24.75,
-            24.38,
-            24.61,
-            24.77,
-            24.94
+            24.83,
+            24.6,
+            24.95,
+            25.1
         ],
         "hsd_history_software": [
-            10.58,
-            10.56,
-            10.54,
-            10.59,
-            10.51,
-            10.52,
-            10.33,
-            10.28,
-            10.26,
-            10.1,
-            9.97,
-            10.09
+            9.54,
+            9.64,
+            9.63,
+            9.65,
+            9.68,
+            9.87,
+            9.76,
+            9.8,
+            9.75,
+            9.94,
+            9.87,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "23:08",
-            "tag": "MERCADO",
-            "text": "PSA: T-Mobile customers have a week to sign up for a free year of MLB.TV"
-        },
-        {
-            "time": "23:02",
-            "tag": "MERCADO",
-            "text": "Applied Materials Inc. stock faces pressure amid maturing chip cycle and mixed Q1 FY2026 results"
-        },
-        {
-            "time": "23:01",
-            "tag": "MERCADO",
-            "text": "4 Pack 564XL Black/Color Ink Cartridge For HP 564XL PhotoSmart 7510 7520 7525"
-        },
-        {
-            "time": "22:45",
+            "time": "01:58",
             "tag": "AI",
-            "text": "HP Inc. unveils HP IQ to streamline workplace connectivity with AI at HPImagine"
+            "text": "NetApp Inc. stock rises amid dividend anticipation and institutional buying as AI storage demand surges"
         },
         {
-            "time": "22:39",
+            "time": "01:44",
+            "tag": "AI",
+            "text": "Intel Corp. stock surges over 7% on NASDAQ amid ControlUp partnership and AI enterprise push"
+        },
+        {
+            "time": "01:38",
+            "tag": "AI",
+            "text": "Gartner Says CFOs Need to Rethink the ROI of AI Investments"
+        },
+        {
+            "time": "01:19",
+            "tag": "AI",
+            "text": "Yong Rong (HK) Asset Management updates stake in SuperX AI Ltd (SUPX)"
+        },
+        {
+            "time": "01:15",
             "tag": "MERCADO",
-            "text": "Why Is Oracle Trading Higher Monday?"
+            "text": "AES Puts Maximo Robotics To Work In Utility Scale Solar Build"
         }
     ]
 }
