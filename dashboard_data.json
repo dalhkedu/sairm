@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-27 10:00 UTC",
+        "last_updated": "2026-03-27 11:00 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 171.24,
-            "change": "-1.85%"
+            "change": "+0.11%"
         },
         {
             "symbol": "AMD",
             "price": 203.77,
-            "change": "+1.64%"
+            "change": "+0.41%"
         },
         {
             "symbol": "MSFT",
             "price": 365.97,
-            "change": "-1.48%"
+            "change": "+1.06%"
         },
         {
             "symbol": "CEG",
             "price": 295.19,
-            "change": "+2.89%"
+            "change": "-2.97%"
         },
         {
             "symbol": "VST",
             "price": 152.3,
-            "change": "+1.97%"
+            "change": "-0.91%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.65,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
+            0.53,
             0.52,
             0.52,
-            0.51,
+            0.52,
             0.51,
             0.5,
             0.5,
+            0.5,
+            0.49,
             0.5,
             0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            25.62,
-            25.28,
-            25.4,
-            25.2,
-            25.67,
-            25.55,
-            25.09,
+            24.82,
+            24.8,
+            25.05,
             25.5,
-            25.08,
-            24.89,
-            24.86,
-            25.14
+            25.71,
+            25.89,
+            25.39,
+            24.96,
+            25.02,
+            25.34,
+            25.66,
+            25.19
         ],
         "hsd_history_software": [
-            10.03,
-            10.21,
-            10.09,
-            10.11,
-            10.16,
-            9.99,
-            9.92,
-            9.91,
+            10.01,
             10.05,
-            10.19,
-            10.13,
-            9.94
+            9.91,
+            9.8,
+            9.84,
+            9.73,
+            9.8,
+            9.82,
+            9.75,
+            9.91,
+            9.88,
+            9.83
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:57",
+            "time": "10:36",
             "tag": "MERCADO",
-            "text": "Tyler Technologies, Inc. (NYSE:TYL) Receives Average Recommendation of \"Moderate Buy\" from Analysts"
+            "text": "Lattice Semiconductor Adjusts Financial Metrics Amid Mixed Market Signals and Valuation Changes"
         },
         {
-            "time": "08:56",
+            "time": "10:35",
             "tag": "MERCADO",
-            "text": "JPMorgan Chase & Co. Cuts Stake in Ibotta, Inc. $IBTA"
+            "text": "VeriSign, Inc. (NASDAQ:VRSN) Receives Average Rating of \"Hold\" from Analysts"
         },
         {
-            "time": "08:52",
+            "time": "10:31",
             "tag": "MERCADO",
-            "text": "-0.22% for Motorola Solutions stock as sellers dominate below MA-20 resistance"
+            "text": "NatWest Group plc Sells 3,591 Shares of Intuit Inc. $INTU"
         },
         {
-            "time": "08:51",
+            "time": "10:31",
             "tag": "MERCADO",
-            "text": "Dakota Wealth Management Has $7.82 Million Stock Position in ServiceNow, Inc. $NOW"
+            "text": "Syquant Capital Sas Takes $69.55 Million Position in Intuit Inc. $INTU"
         },
         {
-            "time": "08:49",
+            "time": "10:31",
             "tag": "MERCADO",
-            "text": "Dakota Wealth Management Has $12.01 Million Position in Analog Devices, Inc. $ADI"
+            "text": "NatWest Group plc Boosts Stake in Logitech International S.A. $LOGI"
         }
     ]
 }
