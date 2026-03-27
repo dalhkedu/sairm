@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-27 17:57 UTC",
+        "last_updated": "2026-03-27 19:06 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 167.63,
-            "change": "+2.17%"
+            "price": 167.45,
+            "change": "-0.34%"
         },
         {
             "symbol": "AMD",
-            "price": 201.18,
-            "change": "-0.09%"
+            "price": 201.46,
+            "change": "-0.62%"
         },
         {
             "symbol": "MSFT",
-            "price": 358.71,
-            "change": "+1.01%"
+            "price": 357.18,
+            "change": "-2.17%"
         },
         {
             "symbol": "CEG",
-            "price": 302.21,
-            "change": "-0.54%"
+            "price": NaN,
+            "change": "+1.8%"
         },
         {
             "symbol": "VST",
-            "price": 155.4,
-            "change": "+0.94%"
+            "price": 155.32,
+            "change": "-0.8%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.45,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.49,
-            0.5,
+            0.51,
             0.5,
             0.49,
-            0.5,
+            0.48,
+            0.48,
+            0.48,
             0.49,
-            0.5,
-            0.5,
+            0.48,
+            0.49,
+            0.49,
             0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            26.63,
-            26.28,
-            26.21,
-            25.74,
-            25.43,
-            25.63,
-            25.58,
-            25.38,
-            25.01,
-            25.22,
-            25.3,
-            25.37
+            26.19,
+            26.19,
+            26.33,
+            25.82,
+            25.5,
+            25.93,
+            25.96,
+            25.65,
+            25.81,
+            25.31,
+            24.84,
+            25.05
         ],
         "hsd_history_software": [
-            10.22,
-            10.19,
-            10.07,
-            10.13,
-            10.26,
-            10.25,
-            10.28,
-            10.11,
-            9.99,
-            10.07,
+            9.87,
+            9.96,
             10.01,
-            9.87
+            10.01,
+            9.88,
+            9.88,
+            10.07,
+            10.05,
+            9.9,
+            9.79,
+            9.88,
+            9.86
         ],
         "rci_data": [
             85.0,
-            16.763
+            16.744999999999997
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:00",
+            "time": "18:39",
             "tag": "MERCADO",
-            "text": "CoStar claims Zillow is still using over 50K copyrighted photos"
+            "text": "51Talk full year 2025 financial and operational results"
         },
         {
-            "time": "16:40",
+            "time": "18:18",
             "tag": "AI",
-            "text": "Amazon.com (AMZN) Underperformed Despite Strong Positioning in AI and Cloud"
+            "text": "Jim Cramer on Paychex: \u201cThis is a stock that strangely has been crushed by AI disruption worries, I think they\u2019re overblown\u201d"
         },
         {
-            "time": "16:33",
+            "time": "18:18",
             "tag": "AI",
-            "text": "Citizens\u2019 Coughlin talks \u2018overwhelming\u2019 pace of AI change"
+            "text": "Oracle\u2019s Credit Risk Measure Nears Record High on AI-Debt Fears"
         },
         {
-            "time": "16:32",
+            "time": "18:17",
             "tag": "MERCADO",
-            "text": "AXT Inc. Shares Skyrocket Amidst Insider Activity and Stock Surge"
+            "text": "Jim Cramer breaks down the data center growth story for Generac Holdings"
         },
         {
-            "time": "16:16",
+            "time": "18:11",
             "tag": "MERCADO",
-            "text": "Alphabet Inc Class C Stock (GOOG) Moved Down by 4.19% on Mar 27: Drivers Behind the Movement"
+            "text": "Why F5 (FFIV) Stock Is Down Today"
         }
     ]
 }
