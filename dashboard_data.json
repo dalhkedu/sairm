@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-27 19:06 UTC",
+        "last_updated": "2026-03-27 20:42 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 167.45,
-            "change": "-0.34%"
+            "price": 167.52,
+            "change": "+2.72%"
         },
         {
             "symbol": "AMD",
-            "price": 201.46,
-            "change": "-0.62%"
+            "price": 201.99,
+            "change": "+2.56%"
         },
         {
             "symbol": "MSFT",
-            "price": 357.18,
-            "change": "-2.17%"
+            "price": 356.77,
+            "change": "+1.96%"
         },
         {
             "symbol": "CEG",
-            "price": NaN,
-            "change": "+1.8%"
+            "price": 301.49,
+            "change": "-0.82%"
         },
         {
             "symbol": "VST",
-            "price": 155.32,
-            "change": "-0.8%"
+            "price": NaN,
+            "change": "+3.24%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.68,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.19,
-            26.19,
-            26.33,
-            25.82,
-            25.5,
-            25.93,
-            25.96,
-            25.65,
-            25.81,
-            25.31,
-            24.84,
-            25.05
+            25.03,
+            25.44,
+            25.09,
+            25.59,
+            25.44,
+            25.71,
+            26.03,
+            26.06,
+            25.79,
+            25.75,
+            25.77,
+            25.49
         ],
         "hsd_history_software": [
-            9.87,
-            9.96,
-            10.01,
-            10.01,
-            9.88,
-            9.88,
-            10.07,
-            10.05,
-            9.9,
-            9.79,
-            9.88,
-            9.86
+            10.73,
+            10.82,
+            10.7,
+            10.75,
+            10.62,
+            10.57,
+            10.45,
+            10.32,
+            10.19,
+            10.11,
+            10.19,
+            10.08
         ],
         "rci_data": [
             85.0,
-            16.744999999999997
+            16.752
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:39",
+            "time": "19:39",
             "tag": "MERCADO",
-            "text": "51Talk full year 2025 financial and operational results"
+            "text": "Top Performing Leveraged/Inverse ETFs: 10/29/2023"
         },
         {
-            "time": "18:18",
+            "time": "19:31",
+            "tag": "MERCADO",
+            "text": "Power Check: Entergy, Eaton and KLA"
+        },
+        {
+            "time": "19:26",
             "tag": "AI",
-            "text": "Jim Cramer on Paychex: \u201cThis is a stock that strangely has been crushed by AI disruption worries, I think they\u2019re overblown\u201d"
+            "text": "Equinix launches AI platform to simplify control of distributed AI resources"
         },
         {
-            "time": "18:18",
+            "time": "18:55",
+            "tag": "MERCADO",
+            "text": "Dow's 734-Point Drop Led By Losses For Amazon.Com Inc., UnitedHealth Stocks"
+        },
+        {
+            "time": "18:52",
             "tag": "AI",
-            "text": "Oracle\u2019s Credit Risk Measure Nears Record High on AI-Debt Fears"
-        },
-        {
-            "time": "18:17",
-            "tag": "MERCADO",
-            "text": "Jim Cramer breaks down the data center growth story for Generac Holdings"
-        },
-        {
-            "time": "18:11",
-            "tag": "MERCADO",
-            "text": "Why F5 (FFIV) Stock Is Down Today"
+            "text": "Fortinet Stock Falls As Anthropic AI Leak Pressures Cybersecurity Stocks"
         }
     ]
 }
