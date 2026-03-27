@@ -1,47 +1,47 @@
 {
     "metadata": {
-        "last_updated": "2026-03-27 14:54 UTC",
+        "last_updated": "2026-03-27 15:56 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 168.48,
-            "change": "+0.29%"
+            "price": 169.65,
+            "change": "+2.98%"
         },
         {
             "symbol": "AMD",
-            "price": 199.08,
-            "change": "-2.8%"
+            "price": 201.46,
+            "change": "+1.16%"
         },
         {
             "symbol": "MSFT",
-            "price": 359.81,
-            "change": "-1.53%"
+            "price": 360.1,
+            "change": "-2.71%"
         },
         {
             "symbol": "CEG",
-            "price": 301.21,
-            "change": "+2.02%"
+            "price": 306.25,
+            "change": "-2.18%"
         },
         {
             "symbol": "VST",
-            "price": 156.2,
-            "change": "+0.27%"
+            "price": 159.32,
+            "change": "-1.34%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.68,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.5,
+            0.51,
+            0.51,
             0.51,
             0.5,
             0.5,
-            0.49,
+            0.51,
             0.5,
             0.49,
             0.49,
@@ -50,36 +50,36 @@
             0.51
         ],
         "hsd_history_hardware": [
-            25.36,
-            25.85,
-            25.67,
-            25.82,
-            25.54,
-            25.33,
-            25.15,
-            25.3,
-            25.32,
-            25.73,
-            25.32,
-            25.36
+            26.01,
+            26.03,
+            26.37,
+            25.91,
+            26.06,
+            25.91,
+            25.43,
+            25.83,
+            25.9,
+            25.62,
+            25.38,
+            25.18
         ],
         "hsd_history_software": [
-            10.03,
-            10.18,
-            10.14,
-            10.17,
-            10.22,
+            10.07,
             10.05,
-            9.9,
-            9.89,
-            9.98,
+            10.24,
+            10.28,
             10.16,
-            10.15,
-            10.15
+            10.23,
+            10.11,
+            10.08,
+            10.08,
+            10.25,
+            10.33,
+            10.19
         ],
         "rci_data": [
             85.0,
-            16.848
+            16.965
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:55",
+            "time": "15:06",
+            "tag": "MERCADO",
+            "text": "Stryker restores most manufacturing after cyberattack"
+        },
+        {
+            "time": "14:55",
             "tag": "AI",
-            "text": "Why Palo Alto Networks May Hit a $261 Price Target: The AI Security Platformlate V2"
+            "text": "ServiceNow (NOW) Products See Growth Amid Transformation into AI-Powered Enterprise Platform"
         },
         {
-            "time": "13:52",
+            "time": "14:53",
             "tag": "MERCADO",
-            "text": "HP Inc (NYSE: HPQ) \u2014 Vanguard amends filing, reports 0% beneficial ownership"
+            "text": "Unity Software (NYSE:U) Shares Gap Up on Analyst Upgrade"
         },
         {
-            "time": "13:50",
+            "time": "14:50",
             "tag": "MERCADO",
-            "text": "Vanguard disaggregates holdings; reports 0 INTC shares after realignment (INTC)"
+            "text": "Will TSM's Aggressive Capex Plan Strengthen Its Foundry Dominance?"
         },
         {
-            "time": "13:48",
+            "time": "14:43",
             "tag": "MERCADO",
-            "text": "KLA Launches $11 Billion Buyback Cycle: Here\u2019s What to Expect"
-        },
-        {
-            "time": "13:46",
-            "tag": "MERCADO",
-            "text": "Vanguard disaggregates holdings; Amendment shows 0% in HPE (HPE)"
+            "text": "Apple discontinues a popular product. What we know."
         }
     ]
 }
