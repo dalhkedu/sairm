@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-27 22:36 UTC",
+        "last_updated": "2026-03-27 23:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 167.52,
-            "change": "-2.41%"
+            "change": "-3.23%"
         },
         {
             "symbol": "AMD",
             "price": 201.99,
-            "change": "-1.78%"
+            "change": "+0.55%"
         },
         {
             "symbol": "MSFT",
             "price": 356.77,
-            "change": "+0.08%"
+            "change": "-1.95%"
         },
         {
             "symbol": "CEG",
             "price": 301.49,
-            "change": "-0.17%"
+            "change": "-1.84%"
         },
         {
             "symbol": "VST",
             "price": 155.48,
-            "change": "-0.93%"
+            "change": "-1.27%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.59,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.53,
-            0.53,
-            0.52,
             0.51,
             0.52,
             0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
             0.51,
             0.51,
-            0.51,
+            0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            26.32,
-            26.06,
-            25.69,
-            25.43,
-            25.01,
-            24.69,
-            24.66,
-            25.16,
-            24.76,
-            24.59,
-            24.58,
-            24.86
+            24.74,
+            24.98,
+            24.94,
+            25.35,
+            25.68,
+            25.36,
+            25.45,
+            25.63,
+            25.15,
+            25.1,
+            25.45,
+            25.33
         ],
         "hsd_history_software": [
-            10.75,
-            10.84,
-            10.69,
-            10.51,
-            10.31,
-            10.25,
-            10.28,
-            10.37,
-            10.48,
-            10.31,
-            10.15,
-            10.16
+            9.76,
+            9.86,
+            9.92,
+            10.04,
+            10.05,
+            9.86,
+            9.75,
+            9.72,
+            9.81,
+            10.0,
+            10.18,
+            10.13
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:06",
+            "time": "22:40",
             "tag": "MERCADO",
-            "text": "Innoviz Technologies Receives Nasdaq Minimum Bid Price Non-Compliance Notice"
+            "text": "IonQ, ASGN, Applied Digital, DXC, and Hewlett Packard Enterprise Stocks Trade Down, What You Need To Know"
         },
         {
-            "time": "21:58",
+            "time": "22:26",
             "tag": "MERCADO",
-            "text": "Cisco Systems (NASDAQ:CSCO) Stock Price Down 2.7% - Here's What Happened"
+            "text": "How Invesco\u2019s Move Into a Major Tokenized T\u2011Bill Fund Will Impact Invesco (IVZ) Investors"
         },
         {
-            "time": "21:53",
+            "time": "22:14",
             "tag": "MERCADO",
-            "text": "State Street CMO John Brockelman's Unconventional Playbook for Financial Marketing Success"
+            "text": "What Moody's (MCO)'s On-Chain Token Integration Engine Launch Means For Shareholders"
         },
         {
-            "time": "21:32",
+            "time": "22:13",
             "tag": "MERCADO",
-            "text": "IonQ pulled, refiled US premerger notification on March 25"
+            "text": "CoStar Expands Mass Copyright Case Against Zillow"
         },
         {
-            "time": "21:28",
-            "tag": "AI",
-            "text": "How Coca-Cola\u2019s AI-Focused CEO Transition At Coca-Cola (KO) Has Changed Its Investment Story"
+            "time": "22:07",
+            "tag": "RESULTADOS",
+            "text": "Oracle, Adobe, and HPE Prepare for Earnings amid Economic Volatility"
         }
     ]
 }
