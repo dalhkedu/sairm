@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-28 19:32 UTC",
+        "last_updated": "2026-03-28 20:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 167.52,
-            "change": "+1.85%"
+            "change": "+0.19%"
         },
         {
             "symbol": "AMD",
             "price": 201.99,
-            "change": "+1.84%"
+            "change": "-2.29%"
         },
         {
             "symbol": "MSFT",
             "price": 356.77,
-            "change": "+1.99%"
+            "change": "+1.61%"
         },
         {
             "symbol": "CEG",
             "price": 301.49,
-            "change": "-1.94%"
+            "change": "+0.02%"
         },
         {
             "symbol": "VST",
             "price": 155.48,
-            "change": "+1.11%"
+            "change": "+0.81%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.62,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.5,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
             0.49,
             0.5,
-            0.51,
-            0.51,
             0.5,
-            0.49,
             0.5,
-            0.51,
-            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            26.23,
-            26.44,
-            26.34,
-            26.14,
-            26.63,
-            26.33,
-            25.91,
-            25.41,
-            25.4,
-            25.09,
-            25.07,
-            25.28
+            24.83,
+            24.42,
+            24.81,
+            25.3,
+            24.98,
+            25.0,
+            25.05,
+            25.26,
+            25.62,
+            25.44,
+            25.39,
+            25.24
         ],
         "hsd_history_software": [
-            9.8,
-            9.71,
+            9.32,
+            9.42,
+            9.49,
+            9.58,
+            9.66,
+            9.76,
             9.68,
-            9.69,
-            9.67,
-            9.85,
-            9.75,
-            9.7,
+            9.72,
             9.86,
-            10.04,
-            10.17,
-            10.11
+            10.02,
+            9.95,
+            9.97
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "20:01",
+            "tag": "MERCADO",
+            "text": "Tesla Says Semi Battery Is 'Designed To Last A Million Miles'"
+        },
+        {
+            "time": "19:52",
+            "tag": "AI",
+            "text": "Application platform enhancements and agentic AI features see F5 stock fall 3.81%"
+        },
+        {
+            "time": "19:17",
+            "tag": "MERCADO",
+            "text": "Akamai Technologies Inc. stock: Leader in edge security and content delivery amid cloud computing ex"
+        },
+        {
+            "time": "18:39",
+            "tag": "MERCADO",
+            "text": "A Look At Amdocs (DOX) Valuation After The Recent CEO Transition"
+        },
+        {
             "time": "18:20",
             "tag": "AI",
             "text": "Does Credo (CRDO) Resolving AEC Patent Disputes Quietly Reframe Its AI Datacenter Connectivity Ambitions?"
-        },
-        {
-            "time": "18:14",
-            "tag": "AI",
-            "text": "Xpeng rebrands as Xpeng Group, expands into AI and robotics"
-        },
-        {
-            "time": "17:21",
-            "tag": "MERCADO",
-            "text": "ICE\u2019s Polymarket Bet and Derivatives Surge Might Change The Case For Investing In Intercontinental Exchange (ICE)"
-        },
-        {
-            "time": "16:52",
-            "tag": "AI",
-            "text": "CDW launches AI fraud tools as CDW stock falls 2.48% amid persistent bearish momentum"
-        },
-        {
-            "time": "16:39",
-            "tag": "MERCADO",
-            "text": "WisdomTree New Economy Real Estate Fund"
         }
     ]
 }
