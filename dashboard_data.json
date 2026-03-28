@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-28 22:33 UTC",
+        "last_updated": "2026-03-28 23:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 167.52,
-            "change": "-1.65%"
+            "change": "-2.71%"
         },
         {
             "symbol": "AMD",
             "price": 201.99,
-            "change": "-0.83%"
+            "change": "-2.07%"
         },
         {
             "symbol": "MSFT",
             "price": 356.77,
-            "change": "-2.48%"
+            "change": "+2.72%"
         },
         {
             "symbol": "CEG",
             "price": 301.49,
-            "change": "+2.85%"
+            "change": "-0.71%"
         },
         {
             "symbol": "VST",
             "price": 155.48,
-            "change": "+2.17%"
+            "change": "+3.18%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.57,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.47,
+            0.48,
             0.48,
             0.49,
-            0.5,
-            0.5,
-            0.5,
+            0.48,
             0.49,
             0.49,
             0.49,
+            0.49,
             0.5,
-            0.5,
-            0.5,
+            0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            25.33,
-            25.05,
-            25.4,
-            25.08,
-            25.25,
-            25.55,
-            25.39,
-            25.48,
-            25.44,
-            25.03,
-            25.5,
-            25.16
+            24.25,
+            23.79,
+            23.75,
+            24.14,
+            24.44,
+            24.24,
+            24.58,
+            24.27,
+            24.33,
+            24.46,
+            24.75,
+            24.78
         ],
         "hsd_history_software": [
-            9.88,
-            9.8,
-            9.73,
-            9.86,
-            9.98,
-            9.84,
-            9.73,
-            9.75,
-            9.92,
-            10.12,
-            10.17,
-            10.1
+            9.1,
+            9.07,
+            9.08,
+            9.25,
+            9.34,
+            9.43,
+            9.6,
+            9.58,
+            9.69,
+            9.74,
+            9.68,
+            9.83
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "23:09",
+            "tag": "RESULTADOS",
+            "text": "Q4 2025 Kornit Digital Ltd Earnings Call Transcript"
+        },
+        {
+            "time": "22:38",
+            "tag": "AI",
+            "text": "Can Itron (ITRI) Turn New AI Grid Partnerships Into a Durable Software-Led Moat?"
+        },
+        {
             "time": "21:30",
             "tag": "AI",
             "text": "UnitedHealth Group (UNH) launches AI companion Avery"
@@ -139,16 +149,6 @@
             "time": "21:16",
             "tag": "AI",
             "text": "What American International Group (AIG)'s AI-Driven Underwriting Partnership With McGill Means For Shareholders"
-        },
-        {
-            "time": "21:02",
-            "tag": "AI",
-            "text": "UnitedHealth Group (UNH) Launches AI Companion Avery"
-        },
-        {
-            "time": "20:29",
-            "tag": "MERCADO",
-            "text": "Coca-Cola CEO shares driving factor in sudden departure from company"
         }
     ]
 }
