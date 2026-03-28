@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-28 18:46 UTC",
+        "last_updated": "2026-03-28 19:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 167.52,
-            "change": "+3.01%"
+            "change": "+1.85%"
         },
         {
             "symbol": "AMD",
             "price": 201.99,
-            "change": "+0.2%"
+            "change": "+1.84%"
         },
         {
             "symbol": "MSFT",
             "price": 356.77,
-            "change": "+1.34%"
+            "change": "+1.99%"
         },
         {
             "symbol": "CEG",
             "price": 301.49,
-            "change": "-1.98%"
+            "change": "-1.94%"
         },
         {
             "symbol": "VST",
             "price": 155.48,
-            "change": "-0.21%"
+            "change": "+1.11%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.48,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
+            0.51,
             0.5,
             0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
             0.5,
+            0.51,
+            0.51,
             0.5,
             0.49,
-            0.49,
-            0.49
+            0.5,
+            0.51,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.33,
-            25.47,
-            25.75,
-            25.64,
+            26.23,
+            26.44,
+            26.34,
             26.14,
-            26.43,
-            26.48,
-            26.02,
-            25.96,
-            25.93,
-            25.84,
-            25.35
+            26.63,
+            26.33,
+            25.91,
+            25.41,
+            25.4,
+            25.09,
+            25.07,
+            25.28
         ],
         "hsd_history_software": [
-            10.37,
-            10.47,
-            10.29,
+            9.8,
+            9.71,
+            9.68,
+            9.69,
+            9.67,
+            9.85,
+            9.75,
+            9.7,
+            9.86,
+            10.04,
             10.17,
-            10.18,
-            10.28,
-            10.23,
-            10.4,
-            10.25,
-            10.08,
-            9.99,
-            9.91
+            10.11
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "18:20",
+            "tag": "AI",
+            "text": "Does Credo (CRDO) Resolving AEC Patent Disputes Quietly Reframe Its AI Datacenter Connectivity Ambitions?"
+        },
+        {
             "time": "18:14",
             "tag": "AI",
             "text": "Xpeng rebrands as Xpeng Group, expands into AI and robotics"
@@ -144,11 +149,6 @@
             "time": "16:39",
             "tag": "MERCADO",
             "text": "WisdomTree New Economy Real Estate Fund"
-        },
-        {
-            "time": "16:24",
-            "tag": "AI",
-            "text": "How Investors May Respond To AMD (AMD) CPU Price Hikes Amid AI-Driven Supply Constraints"
         }
     ]
 }
