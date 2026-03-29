@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-29 02:45 UTC",
+        "last_updated": "2026-03-29 05:13 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 167.52,
-            "change": "-2.35%"
+            "change": "-1.06%"
         },
         {
             "symbol": "AMD",
             "price": 201.99,
-            "change": "+0.86%"
+            "change": "-0.97%"
         },
         {
             "symbol": "MSFT",
             "price": 356.77,
-            "change": "-1.9%"
+            "change": "+0.66%"
         },
         {
             "symbol": "CEG",
             "price": 301.49,
-            "change": "+1.58%"
+            "change": "-3.2%"
         },
         {
             "symbol": "VST",
             "price": 155.48,
-            "change": "-2.15%"
+            "change": "+1.53%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.4,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.52,
-            0.53,
-            0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.5,
-            0.5,
-            0.51
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.51,
-            25.42,
-            25.43,
-            25.74,
-            26.23,
-            26.03,
-            25.64,
-            25.79,
-            25.36,
-            25.19,
-            25.06,
-            24.99
+            24.41,
+            24.43,
+            24.03,
+            24.44,
+            24.36,
+            24.54,
+            24.22,
+            24.1,
+            24.58,
+            24.96,
+            24.64,
+            24.51
         ],
         "hsd_history_software": [
-            9.72,
-            9.9,
-            9.77,
-            9.65,
-            9.71,
-            9.8,
-            9.95,
-            9.94,
-            10.1,
-            10.04,
-            9.96,
-            9.98
+            10.33,
+            10.16,
+            10.23,
+            10.15,
+            10.27,
+            10.31,
+            10.37,
+            10.56,
+            10.56,
+            10.41,
+            10.32,
+            10.18
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:16",
-            "tag": "MERCADO",
-            "text": "Is It Too Late To Consider Equinix (EQIX) After Its Strong Year To Date Run"
-        },
-        {
-            "time": "01:11",
-            "tag": "MERCADO",
-            "text": "Jacobs Solutions stock drops 2.80% as CNBC spotlight on growth markets meets ongoing sell-off"
-        },
-        {
-            "time": "00:07",
-            "tag": "MERCADO",
-            "text": "Hologic stock consolidates as company recognized among America's most charitable firms"
-        },
-        {
-            "time": "23:09",
-            "tag": "RESULTADOS",
-            "text": "Q4 2025 Kornit Digital Ltd Earnings Call Transcript"
-        },
-        {
-            "time": "22:38",
+            "time": "04:22",
             "tag": "AI",
-            "text": "Can Itron (ITRI) Turn New AI Grid Partnerships Into a Durable Software-Led Moat?"
+            "text": "TI\u2019s New 800V AI Data Center Power Platform Might Change The Case For Investing In Texas Instruments (TXN)"
+        },
+        {
+            "time": "04:22",
+            "tag": "MERCADO",
+            "text": "Has Wixcom (WIX) Rallied Too Far After Its Recent 23% Share Price Jump"
+        },
+        {
+            "time": "04:17",
+            "tag": "MERCADO",
+            "text": "EPAM Systems, Inc. (NYSE:EPAM) Short Interest Up 45.9% in March"
+        },
+        {
+            "time": "04:15",
+            "tag": "MERCADO",
+            "text": "Is It Too Late To Consider Motorola Solutions (MSI) After Its Strong Five Year Run?"
+        },
+        {
+            "time": "04:09",
+            "tag": "MERCADO",
+            "text": "UPWK Technical Analysis & Stock Price Forecast"
         }
     ]
 }
