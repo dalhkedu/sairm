@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-29 08:45 UTC",
+        "last_updated": "2026-03-29 09:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 167.52,
-            "change": "-0.78%"
+            "change": "-0.57%"
         },
         {
             "symbol": "AMD",
             "price": 201.99,
-            "change": "-0.55%"
+            "change": "+1.87%"
         },
         {
             "symbol": "MSFT",
             "price": 356.77,
-            "change": "-1.21%"
+            "change": "-0.76%"
         },
         {
             "symbol": "CEG",
             "price": 301.49,
-            "change": "-3.47%"
+            "change": "-3.38%"
         },
         {
             "symbol": "VST",
             "price": 155.48,
-            "change": "+2.63%"
+            "change": "+0.64%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.5,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.47,
-            0.47,
             0.48,
             0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.49,
             0.48,
             0.48,
             0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            24.06,
-            24.02,
-            24.47,
-            24.38,
-            24.18,
-            24.2,
+            23.82,
             24.04,
-            24.36,
-            24.86,
+            24.48,
+            24.92,
+            25.2,
+            25.22,
+            25.43,
+            25.52,
+            25.11,
             24.81,
-            25.18,
-            24.73
+            24.53,
+            24.66
         ],
         "hsd_history_software": [
-            9.83,
-            9.81,
-            9.94,
-            9.93,
-            9.81,
-            9.69,
-            9.79,
-            9.88,
-            9.98,
-            9.9,
-            10.09,
-            9.99
+            9.55,
+            9.43,
+            9.38,
+            9.56,
+            9.73,
+            9.59,
+            9.7,
+            9.89,
+            10.07,
+            10.03,
+            10.22,
+            10.13
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:06",
+            "time": "08:48",
             "tag": "MERCADO",
-            "text": "Bell Bank Trims Stock Holdings in Seagate Technology Holdings PLC $STX"
+            "text": "CIBRA Capital Ltd Invests $5.01 Million in Electronic Arts Inc. $EA"
         },
         {
-            "time": "08:05",
+            "time": "08:46",
             "tag": "MERCADO",
-            "text": "Exchange Traded Concepts LLC Buys 38,611 Shares of Microchip Technology Incorporated $MCHP"
+            "text": "Canoe Financial LP Invests $58.93 Million in Texas Instruments Incorporated $TXN"
         },
         {
-            "time": "08:04",
+            "time": "08:46",
             "tag": "MERCADO",
-            "text": "eBay Shares Sold by Assenagon Asset Management"
+            "text": "Canoe Financial LP Has $2.80 Million Stock Holdings in Adobe Inc. $ADBE"
         },
         {
-            "time": "08:04",
+            "time": "08:45",
             "tag": "MERCADO",
-            "text": "Dakota Wealth Management Buys New Shares in Cadence Design Systems, Inc. $CDNS"
+            "text": "Jabil Inc. Stock: A Deep Dive into Manufacturing Resilience and Growth Potential for North American"
         },
         {
-            "time": "07:54",
+            "time": "08:45",
             "tag": "MERCADO",
-            "text": "Capital Investment Advisors LLC Has $4.04 Million Stock Position in GE Vernova Inc. $GEV"
+            "text": "Canoe Financial LP Has $15.59 Million Stock Holdings in UnitedHealth Group Incorporated $UNH"
         }
     ]
 }
