@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-29 07:08 UTC",
+        "last_updated": "2026-03-29 08:45 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 167.52,
-            "change": "+3.15%"
+            "change": "-0.78%"
         },
         {
             "symbol": "AMD",
             "price": 201.99,
-            "change": "-1.87%"
+            "change": "-0.55%"
         },
         {
             "symbol": "MSFT",
             "price": 356.77,
-            "change": "+1.39%"
+            "change": "-1.21%"
         },
         {
             "symbol": "CEG",
             "price": 301.49,
-            "change": "-2.38%"
+            "change": "-3.47%"
         },
         {
             "symbol": "VST",
             "price": 155.48,
-            "change": "-0.03%"
+            "change": "+2.63%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.7,
+        "cer_current": 0.44,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.47,
             0.47,
-            0.48,
-            0.47,
             0.47,
             0.48,
             0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
             0.48,
             0.49,
-            0.48,
-            0.48,
             0.49
         ],
         "hsd_history_hardware": [
-            24.68,
-            24.6,
-            24.67,
-            25.06,
-            25.07,
-            24.74,
-            25.17,
-            24.79,
-            24.79,
-            24.88,
-            24.82,
-            24.93
+            24.06,
+            24.02,
+            24.47,
+            24.38,
+            24.18,
+            24.2,
+            24.04,
+            24.36,
+            24.86,
+            24.81,
+            25.18,
+            24.73
         ],
         "hsd_history_software": [
-            10.69,
-            10.51,
-            10.52,
-            10.5,
-            10.55,
-            10.36,
-            10.4,
-            10.44,
-            10.3,
-            10.11,
-            9.96,
-            10.01
+            9.83,
+            9.81,
+            9.94,
+            9.93,
+            9.81,
+            9.69,
+            9.79,
+            9.88,
+            9.98,
+            9.9,
+            10.09,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:10",
+            "time": "08:06",
             "tag": "MERCADO",
-            "text": "Do Paycom's New Accolades Mask Or Clarify Its Slowing Billings Story (PAYC)?"
+            "text": "Bell Bank Trims Stock Holdings in Seagate Technology Holdings PLC $STX"
         },
         {
-            "time": "05:52",
+            "time": "08:05",
             "tag": "MERCADO",
-            "text": "Flexible registration options campaign fails to lift Align Technology stock after 6.17% slide"
+            "text": "Exchange Traded Concepts LLC Buys 38,611 Shares of Microchip Technology Incorporated $MCHP"
         },
         {
-            "time": "05:51",
+            "time": "08:04",
             "tag": "MERCADO",
-            "text": "Intuitive Surgical, Inc. stock: Leader in robotic-assisted surgery with strong analyst support and growth potential for North American investors"
+            "text": "eBay Shares Sold by Assenagon Asset Management"
         },
         {
-            "time": "05:50",
-            "tag": "AI",
-            "text": "NVIDIA Corp Stock: AI Dominance, Valuation Debate, and Long-Term Growth Catalysts for Investors"
+            "time": "08:04",
+            "tag": "MERCADO",
+            "text": "Dakota Wealth Management Buys New Shares in Cadence Design Systems, Inc. $CDNS"
         },
         {
-            "time": "05:37",
+            "time": "07:54",
             "tag": "MERCADO",
-            "text": "Booking (NASDAQ:BKNG) Cut to Hold at Wall Street Zen"
+            "text": "Capital Investment Advisors LLC Has $4.04 Million Stock Position in GE Vernova Inc. $GEV"
         }
     ]
 }
