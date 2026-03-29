@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-29 22:35 UTC",
+        "last_updated": "2026-03-29 23:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 167.52,
-            "change": "+2.48%"
+            "change": "-2.61%"
         },
         {
             "symbol": "AMD",
             "price": 201.99,
-            "change": "+1.27%"
+            "change": "+1.15%"
         },
         {
             "symbol": "MSFT",
             "price": 356.77,
-            "change": "-3.28%"
+            "change": "+1.8%"
         },
         {
             "symbol": "CEG",
             "price": 301.49,
-            "change": "-2.01%"
+            "change": "+1.83%"
         },
         {
             "symbol": "VST",
             "price": 155.48,
-            "change": "+2.51%"
+            "change": "+0.84%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.49,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.55,
+            0.56,
+            0.56,
+            0.55,
+            0.55,
+            0.54,
+            0.54,
+            0.53,
             0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.52,
             0.51,
             0.51,
-            0.51,
-            0.51,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            24.73,
-            24.42,
-            24.73,
-            24.83,
-            24.92,
-            24.49,
-            24.63,
-            24.6,
-            24.57,
-            24.98,
-            24.67,
-            24.95
+            23.72,
+            23.67,
+            23.89,
+            23.98,
+            24.04,
+            23.96,
+            24.35,
+            24.62,
+            24.75,
+            24.82,
+            24.61,
+            24.87
         ],
         "hsd_history_software": [
-            10.35,
-            10.51,
-            10.5,
-            10.57,
-            10.53,
-            10.57,
-            10.4,
-            10.38,
-            10.34,
-            10.18,
-            10.09,
-            10.11
+            9.95,
+            9.83,
+            9.69,
+            9.87,
+            9.91,
+            9.77,
+            9.59,
+            9.75,
+            9.76,
+            9.85,
+            9.99,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,9 +126,19 @@
     ],
     "news_feed": [
         {
+            "time": "22:39",
+            "tag": "MERCADO",
+            "text": "Walmart Is Up 10% Year to Date. Here\u2019s Where the Stock Could Go in 2026"
+        },
+        {
             "time": "21:53",
             "tag": "MERCADO",
             "text": "Wall Street Expected Micron to Stumble. Here's Why the Bears Could Be Dead Wrong."
+        },
+        {
+            "time": "21:09",
+            "tag": "MERCADO",
+            "text": "9F Inc Stock: Understanding the Chinese Fintech Platform's Business Model and Investor Opportunities"
         },
         {
             "time": "21:03",
@@ -139,16 +149,6 @@
             "time": "20:57",
             "tag": "AI",
             "text": "Qualcomm Inc. Stock: Navigating Semiconductor Leadership Amid AI and 5G Opportunities"
-        },
-        {
-            "time": "20:37",
-            "tag": "MERCADO",
-            "text": "Microchip Technology (MCHP) Launches a New System-in-Package for Automotive Human-Machine Interfaces"
-        },
-        {
-            "time": "20:37",
-            "tag": "MERCADO",
-            "text": "Leidos Holdings (LDOS) Partners With Cloud Giants to Modernize US Air Force Cloud One Platform"
         }
     ]
 }
