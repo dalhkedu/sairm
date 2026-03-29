@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-29 18:49 UTC",
+        "last_updated": "2026-03-29 19:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 167.52,
-            "change": "+1.85%"
+            "change": "-2.34%"
         },
         {
             "symbol": "AMD",
             "price": 201.99,
-            "change": "-0.43%"
+            "change": "-3.38%"
         },
         {
             "symbol": "MSFT",
             "price": 356.77,
-            "change": "+2.11%"
+            "change": "+2.01%"
         },
         {
             "symbol": "CEG",
             "price": 301.49,
-            "change": "-1.2%"
+            "change": "-2.91%"
         },
         {
             "symbol": "VST",
             "price": 155.48,
-            "change": "+0.78%"
+            "change": "+2.32%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.5,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
             0.52,
             0.53,
+            0.53,
+            0.52,
+            0.53,
+            0.52,
+            0.52,
             0.52,
             0.52,
             0.51,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            23.84,
-            23.44,
-            23.91,
-            24.27,
-            24.58,
-            24.63,
-            25.08,
-            25.39,
             25.41,
+            25.77,
+            25.74,
+            25.71,
             25.87,
-            25.69,
-            25.37
+            26.0,
+            25.5,
+            25.2,
+            25.47,
+            25.23,
+            25.55,
+            25.22
         ],
         "hsd_history_software": [
-            10.26,
-            10.13,
-            10.07,
-            10.26,
-            10.13,
-            9.98,
-            10.05,
-            10.15,
-            10.25,
-            10.21,
-            10.09,
-            10.18
+            9.24,
+            9.2,
+            9.28,
+            9.34,
+            9.42,
+            9.55,
+            9.45,
+            9.64,
+            9.75,
+            9.84,
+            10.02,
+            10.08
         ],
         "rci_data": [
             85.0,
@@ -126,9 +126,19 @@
     ],
     "news_feed": [
         {
+            "time": "17:41",
+            "tag": "MERCADO",
+            "text": "JPMorgan Completes EA Financing Deal Following Geopolitical Signal - News and Statistics"
+        },
+        {
             "time": "17:18",
             "tag": "MERCADO",
             "text": "News Corp (Class B) stock: A resilient media powerhouse navigating digital transformation and global"
+        },
+        {
+            "time": "17:10",
+            "tag": "MERCADO",
+            "text": "Price to sales ratio of Cambium Networks Corporation \u2013 OTC:CMBMF"
         },
         {
             "time": "17:10",
@@ -139,16 +149,6 @@
             "time": "16:41",
             "tag": "MERCADO",
             "text": "Take-Two Fell 5% This Week. Here\u2019s Where the Stock Could Go in 2026"
-        },
-        {
-            "time": "16:39",
-            "tag": "MERCADO",
-            "text": "ANSYS Inc Stock: Engineering Simulation Leader Faces Evolving Tech Landscape in 2026"
-        },
-        {
-            "time": "16:09",
-            "tag": "MERCADO",
-            "text": "Unity: Upgrade To Strong Buy On Excellent Preliminary Q1 Results"
         }
     ]
 }
