@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-29 16:39 UTC",
+        "last_updated": "2026-03-29 17:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 167.52,
-            "change": "+2.84%"
+            "change": "-1.05%"
         },
         {
             "symbol": "AMD",
             "price": 201.99,
-            "change": "-1.91%"
+            "change": "+1.85%"
         },
         {
             "symbol": "MSFT",
             "price": 356.77,
-            "change": "+0.97%"
+            "change": "-1.59%"
         },
         {
             "symbol": "CEG",
             "price": 301.49,
-            "change": "+1.17%"
+            "change": "+0.62%"
         },
         {
             "symbol": "VST",
             "price": 155.48,
-            "change": "-1.88%"
+            "change": "+3.12%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.41,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.52,
+            0.48,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.5,
             0.51,
             0.51,
-            0.52,
             0.51,
             0.51,
             0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            22.96,
-            23.39,
-            23.86,
-            23.95,
-            23.98,
-            24.41,
-            24.56,
-            24.9,
-            24.89,
-            24.88,
-            25.22,
-            24.85
+            25.77,
+            25.6,
+            25.42,
+            25.23,
+            25.16,
+            25.6,
+            25.42,
+            25.41,
+            25.87,
+            25.45,
+            25.63,
+            25.48
         ],
         "hsd_history_software": [
-            10.14,
-            10.02,
-            10.21,
-            10.09,
+            10.33,
+            10.44,
+            10.46,
+            10.29,
+            10.16,
+            10.08,
+            10.13,
+            9.96,
             9.9,
-            9.98,
-            9.93,
-            9.99,
-            9.94,
-            10.05,
-            10.17,
-            10.17
+            10.01,
+            9.89,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,9 +126,19 @@
     ],
     "news_feed": [
         {
+            "time": "16:41",
+            "tag": "MERCADO",
+            "text": "Take-Two Fell 5% This Week. Here\u2019s Where the Stock Could Go in 2026"
+        },
+        {
             "time": "16:09",
             "tag": "MERCADO",
             "text": "Unity: Upgrade To Strong Buy On Excellent Preliminary Q1 Results"
+        },
+        {
+            "time": "16:06",
+            "tag": "AI",
+            "text": "At 50, Apple confronts its next big challenge: AI"
         },
         {
             "time": "16:00",
@@ -136,19 +146,9 @@
             "text": "Microsoft VP's memoir of growing up India makes unexpected case for what matters in the age of AI"
         },
         {
-            "time": "15:02",
+            "time": "15:41",
             "tag": "MERCADO",
-            "text": "-3.43% for Microchip Technology stock as sellers dominate below major moving averages"
-        },
-        {
-            "time": "14:22",
-            "tag": "MERCADO",
-            "text": "Hewlett Packard Enterprise stock slips 4.49% after unveiling Danfoss as HPE\u2019s first private cloud enterprise client"
-        },
-        {
-            "time": "14:11",
-            "tag": "MERCADO",
-            "text": "Booking Stock Is Down 7.6% This Week: Here\u2019s Why Analysts Still See 39% Upside"
+            "text": "Wipro Ltd Stock: IT Services Giant's Business Model, Valuation Discount, and Key Investor Considerations"
         }
     ]
 }
