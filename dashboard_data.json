@@ -1,48 +1,48 @@
 {
     "metadata": {
-        "last_updated": "2026-03-29 15:35 UTC",
+        "last_updated": "2026-03-29 16:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 167.52,
-            "change": "+2.69%"
+            "change": "+2.84%"
         },
         {
             "symbol": "AMD",
             "price": 201.99,
-            "change": "+3.26%"
+            "change": "-1.91%"
         },
         {
             "symbol": "MSFT",
             "price": 356.77,
-            "change": "-0.32%"
+            "change": "+0.97%"
         },
         {
             "symbol": "CEG",
             "price": 301.49,
-            "change": "-1.48%"
+            "change": "+1.17%"
         },
         {
             "symbol": "VST",
             "price": 155.48,
-            "change": "+0.1%"
+            "change": "-1.88%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.46,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
+            0.53,
+            0.52,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
             0.5,
             0.5,
             0.5,
@@ -50,32 +50,32 @@
             0.51
         ],
         "hsd_history_hardware": [
-            25.49,
-            25.89,
-            25.76,
-            25.38,
-            25.73,
-            25.28,
-            25.15,
-            25.36,
-            25.27,
-            25.57,
-            25.33,
-            25.32
+            22.96,
+            23.39,
+            23.86,
+            23.95,
+            23.98,
+            24.41,
+            24.56,
+            24.9,
+            24.89,
+            24.88,
+            25.22,
+            24.85
         ],
         "hsd_history_software": [
+            10.14,
+            10.02,
+            10.21,
             10.09,
-            10.0,
-            9.86,
-            9.82,
-            9.66,
-            9.82,
+            9.9,
+            9.98,
             9.93,
-            10.06,
-            9.95,
-            10.11,
             9.99,
-            9.81
+            9.94,
+            10.05,
+            10.17,
+            10.17
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "16:09",
+            "tag": "MERCADO",
+            "text": "Unity: Upgrade To Strong Buy On Excellent Preliminary Q1 Results"
+        },
+        {
+            "time": "16:00",
+            "tag": "AI",
+            "text": "Microsoft VP's memoir of growing up India makes unexpected case for what matters in the age of AI"
+        },
+        {
+            "time": "15:02",
+            "tag": "MERCADO",
+            "text": "-3.43% for Microchip Technology stock as sellers dominate below major moving averages"
+        },
+        {
             "time": "14:22",
             "tag": "MERCADO",
             "text": "Hewlett Packard Enterprise stock slips 4.49% after unveiling Danfoss as HPE\u2019s first private cloud enterprise client"
@@ -134,21 +149,6 @@
             "time": "14:11",
             "tag": "MERCADO",
             "text": "Booking Stock Is Down 7.6% This Week: Here\u2019s Why Analysts Still See 39% Upside"
-        },
-        {
-            "time": "14:00",
-            "tag": "MERCADO",
-            "text": "As Meta Doubles Down on Data Center Investment, AMD and American Tower Could Be the Top Stocks to Buy"
-        },
-        {
-            "time": "13:59",
-            "tag": "MERCADO",
-            "text": "FactSet Research Systems Stock: Undervalued Financial Data Leader with Strong Fundamentals Amid Market Pressures"
-        },
-        {
-            "time": "13:59",
-            "tag": "AI",
-            "text": "BlackRock\u2019s Fink warns AI boom could deepen inequality without wider investment access"
         }
     ]
 }
