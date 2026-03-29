@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-29 05:13 UTC",
+        "last_updated": "2026-03-29 07:08 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 167.52,
-            "change": "-1.06%"
+            "change": "+3.15%"
         },
         {
             "symbol": "AMD",
             "price": 201.99,
-            "change": "-0.97%"
+            "change": "-1.87%"
         },
         {
             "symbol": "MSFT",
             "price": 356.77,
-            "change": "+0.66%"
+            "change": "+1.39%"
         },
         {
             "symbol": "CEG",
             "price": 301.49,
-            "change": "-3.2%"
+            "change": "-2.38%"
         },
         {
             "symbol": "VST",
             "price": 155.48,
-            "change": "+1.53%"
+            "change": "-0.03%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.4,
+        "cer_current": 0.7,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.47,
+            0.47,
+            0.48,
+            0.47,
+            0.47,
+            0.48,
+            0.47,
+            0.48,
             0.49,
             0.48,
             0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            24.41,
-            24.43,
-            24.03,
-            24.44,
-            24.36,
-            24.54,
-            24.22,
-            24.1,
-            24.58,
-            24.96,
-            24.64,
-            24.51
+            24.68,
+            24.6,
+            24.67,
+            25.06,
+            25.07,
+            24.74,
+            25.17,
+            24.79,
+            24.79,
+            24.88,
+            24.82,
+            24.93
         ],
         "hsd_history_software": [
-            10.33,
-            10.16,
-            10.23,
-            10.15,
-            10.27,
-            10.31,
-            10.37,
-            10.56,
-            10.56,
-            10.41,
-            10.32,
-            10.18
+            10.69,
+            10.51,
+            10.52,
+            10.5,
+            10.55,
+            10.36,
+            10.4,
+            10.44,
+            10.3,
+            10.11,
+            9.96,
+            10.01
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:22",
+            "time": "06:10",
+            "tag": "MERCADO",
+            "text": "Do Paycom's New Accolades Mask Or Clarify Its Slowing Billings Story (PAYC)?"
+        },
+        {
+            "time": "05:52",
+            "tag": "MERCADO",
+            "text": "Flexible registration options campaign fails to lift Align Technology stock after 6.17% slide"
+        },
+        {
+            "time": "05:51",
+            "tag": "MERCADO",
+            "text": "Intuitive Surgical, Inc. stock: Leader in robotic-assisted surgery with strong analyst support and growth potential for North American investors"
+        },
+        {
+            "time": "05:50",
             "tag": "AI",
-            "text": "TI\u2019s New 800V AI Data Center Power Platform Might Change The Case For Investing In Texas Instruments (TXN)"
+            "text": "NVIDIA Corp Stock: AI Dominance, Valuation Debate, and Long-Term Growth Catalysts for Investors"
         },
         {
-            "time": "04:22",
+            "time": "05:37",
             "tag": "MERCADO",
-            "text": "Has Wixcom (WIX) Rallied Too Far After Its Recent 23% Share Price Jump"
-        },
-        {
-            "time": "04:17",
-            "tag": "MERCADO",
-            "text": "EPAM Systems, Inc. (NYSE:EPAM) Short Interest Up 45.9% in March"
-        },
-        {
-            "time": "04:15",
-            "tag": "MERCADO",
-            "text": "Is It Too Late To Consider Motorola Solutions (MSI) After Its Strong Five Year Run?"
-        },
-        {
-            "time": "04:09",
-            "tag": "MERCADO",
-            "text": "UPWK Technical Analysis & Stock Price Forecast"
+            "text": "Booking (NASDAQ:BKNG) Cut to Hold at Wall Street Zen"
         }
     ]
 }
