@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-29 23:37 UTC",
+        "last_updated": "2026-03-30 02:48 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 167.52,
-            "change": "-2.61%"
+            "change": "+3.36%"
         },
         {
             "symbol": "AMD",
             "price": 201.99,
-            "change": "+1.15%"
+            "change": "-0.64%"
         },
         {
             "symbol": "MSFT",
             "price": 356.77,
-            "change": "+1.8%"
+            "change": "-2.0%"
         },
         {
             "symbol": "CEG",
             "price": 301.49,
-            "change": "+1.83%"
+            "change": "+2.73%"
         },
         {
             "symbol": "VST",
             "price": 155.48,
-            "change": "+0.84%"
+            "change": "-1.72%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.47,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.55,
-            0.56,
-            0.56,
-            0.55,
-            0.55,
-            0.54,
-            0.54,
-            0.53,
-            0.52,
-            0.51,
-            0.51,
-            0.5
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            23.72,
+            23.28,
+            23.62,
+            23.85,
             23.67,
-            23.89,
-            23.98,
-            24.04,
-            23.96,
-            24.35,
-            24.62,
-            24.75,
-            24.82,
-            24.61,
-            24.87
+            23.87,
+            24.24,
+            24.25,
+            24.38,
+            24.47,
+            24.2,
+            24.47,
+            24.83
         ],
         "hsd_history_software": [
-            9.95,
-            9.83,
-            9.69,
-            9.87,
-            9.91,
+            9.81,
             9.77,
-            9.59,
-            9.75,
-            9.76,
+            9.71,
             9.85,
-            9.99,
-            9.99
+            10.03,
+            9.9,
+            9.78,
+            9.69,
+            9.84,
+            9.85,
+            9.91,
+            9.98
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:39",
+            "time": "01:09",
             "tag": "MERCADO",
-            "text": "Walmart Is Up 10% Year to Date. Here\u2019s Where the Stock Could Go in 2026"
+            "text": "D-Wave Quantum Shares Face Headwinds from Supply Chain Disruption ()"
         },
         {
-            "time": "21:53",
-            "tag": "MERCADO",
-            "text": "Wall Street Expected Micron to Stumble. Here's Why the Bears Could Be Dead Wrong."
-        },
-        {
-            "time": "21:09",
-            "tag": "MERCADO",
-            "text": "9F Inc Stock: Understanding the Chinese Fintech Platform's Business Model and Investor Opportunities"
-        },
-        {
-            "time": "21:03",
+            "time": "00:37",
             "tag": "AI",
-            "text": "Arista Networks Inc Stock: Leading AI Networking Growth Amid Data Center Expansion"
+            "text": "Arista Networks (ANET) Revenue Outlook: AI Drives Growth Amid $700B Data Center Investment - News and Statistics"
         },
         {
-            "time": "20:57",
+            "time": "00:21",
+            "tag": "MERCADO",
+            "text": "Short Interest in Niu Technologies (NASDAQ:NIU) Grows By 34.3%"
+        },
+        {
+            "time": "00:09",
+            "tag": "MERCADO",
+            "text": "-1.42% for Maximus stock as sellers dominate below all key moving averages"
+        },
+        {
+            "time": "00:03",
             "tag": "AI",
-            "text": "Qualcomm Inc. Stock: Navigating Semiconductor Leadership Amid AI and 5G Opportunities"
+            "text": "Eli Lilly extends partnership with Insilico Medicine for AI-powered drug discovery"
         }
     ]
 }
