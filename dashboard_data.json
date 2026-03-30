@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-30 21:46 UTC",
+        "last_updated": "2026-03-30 22:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 165.17,
-            "change": "-3.17%"
+            "change": "-0.98%"
         },
         {
             "symbol": "AMD",
             "price": 196.04,
-            "change": "-3.1%"
+            "change": "+0.86%"
         },
         {
             "symbol": "MSFT",
             "price": 358.96,
-            "change": "+3.13%"
+            "change": "-1.46%"
         },
         {
             "symbol": "CEG",
             "price": 298.61,
-            "change": "+0.61%"
+            "change": "+1.57%"
         },
         {
             "symbol": "VST",
             "price": 147.54,
-            "change": "-2.59%"
+            "change": "+1.95%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.65,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51
+            0.45,
+            0.45,
+            0.46,
+            0.45,
+            0.46,
+            0.46,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.5,
-            24.69,
-            25.11,
-            25.17,
-            24.68,
-            24.63,
-            24.81,
-            25.21,
-            25.19,
-            24.95,
-            25.33,
-            25.22
+            24.77,
+            24.43,
+            24.22,
+            24.34,
+            24.24,
+            24.15,
+            24.19,
+            24.52,
+            24.47,
+            24.97,
+            25.12,
+            24.77
         ],
         "hsd_history_software": [
-            10.17,
-            10.08,
-            10.03,
-            10.1,
-            9.95,
+            9.86,
+            9.73,
+            9.6,
             9.78,
-            9.96,
+            9.94,
+            10.06,
+            9.89,
             9.85,
-            9.87,
-            9.81,
-            9.76,
-            9.82
+            9.82,
+            9.71,
+            9.85,
+            9.81
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:00",
+            "time": "22:01",
             "tag": "MERCADO",
-            "text": "Invesco EQV European Equity Fund's Strategic Move: Taiwan Semiconductor Manufacturing Co Ltd ..."
+            "text": "Salesforce (NYSE:CRM) Shares Up 3.2% - Here's Why"
         },
         {
-            "time": "20:55",
+            "time": "21:32",
             "tag": "MERCADO",
-            "text": "Tesla\u2019s Robotaxi service found a home in this East Bay city"
+            "text": "First Solar says it\u2019s looking to be part of the solution in powering data centers"
         },
         {
-            "time": "20:54",
+            "time": "21:31",
             "tag": "MERCADO",
-            "text": "Seagate Technology (STX): JP Morgan Initiates Coverage with Overweight Rating | STX Stock News"
+            "text": "Aptiv (APTV): Barclays Lowers Price Target; Maintains Overweight Rating | APTV Stock News"
         },
         {
-            "time": "20:37",
+            "time": "21:30",
             "tag": "MERCADO",
-            "text": "IT Investor Alert: Gartner, Inc. Securities Fraud Lawsuit - Investors With Losses May Seek to Lead the Class Action After Allegedly Concealing CV Growth Deterioration: Levi & Korsinsky"
+            "text": "First Solar says it\u2019s looking to be part of the solution in powering data centers"
         },
         {
-            "time": "20:35",
-            "tag": "AI",
-            "text": "FactSet backs Finster as it rolls out AI tools for investment banks"
+            "time": "21:25",
+            "tag": "MERCADO",
+            "text": "TER: Baird Maintains Outperform Rating, Raises Price Target to $332 | TER Stock News"
         }
     ]
 }
