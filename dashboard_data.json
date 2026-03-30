@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-30 20:50 UTC",
+        "last_updated": "2026-03-30 21:46 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 165.17,
-            "change": "+2.9%"
+            "change": "-3.17%"
         },
         {
             "symbol": "AMD",
             "price": 196.04,
-            "change": "-0.29%"
+            "change": "-3.1%"
         },
         {
             "symbol": "MSFT",
             "price": 358.96,
-            "change": "-3.41%"
+            "change": "+3.13%"
         },
         {
             "symbol": "CEG",
             "price": 298.61,
-            "change": "+3.17%"
+            "change": "+0.61%"
         },
         {
             "symbol": "VST",
             "price": 147.54,
-            "change": "+0.5%"
+            "change": "-2.59%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.58,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.51,
             0.5,
             0.5,
-            0.49,
-            0.49,
             0.5,
             0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            24.38,
-            24.51,
-            24.06,
-            24.43,
-            24.77,
-            24.84,
-            25.3,
-            25.09,
-            25.42,
-            25.14,
-            24.97,
-            24.75
+            24.5,
+            24.69,
+            25.11,
+            25.17,
+            24.68,
+            24.63,
+            24.81,
+            25.21,
+            25.19,
+            24.95,
+            25.33,
+            25.22
         ],
         "hsd_history_software": [
-            9.7,
-            9.82,
-            9.98,
-            9.89,
-            9.75,
+            10.17,
+            10.08,
+            10.03,
+            10.1,
+            9.95,
+            9.78,
+            9.96,
+            9.85,
             9.87,
-            9.9,
-            9.72,
-            9.84,
-            9.92,
-            10.11,
-            10.18
+            9.81,
+            9.76,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:05",
+            "time": "21:00",
             "tag": "MERCADO",
-            "text": "F5 BIG-IP APM DoS bug exploited as an RCE, added to CISA list | news | SC Media"
+            "text": "Invesco EQV European Equity Fund's Strategic Move: Taiwan Semiconductor Manufacturing Co Ltd ..."
         },
         {
-            "time": "19:51",
+            "time": "20:55",
             "tag": "MERCADO",
-            "text": "NetApp: Rising Billings Against A Low P/E (NASDAQ:NTAP)"
+            "text": "Tesla\u2019s Robotaxi service found a home in this East Bay city"
         },
         {
-            "time": "19:49",
+            "time": "20:54",
             "tag": "MERCADO",
-            "text": "Cyber resilience strategy by way of Netapp-Commvault"
+            "text": "Seagate Technology (STX): JP Morgan Initiates Coverage with Overweight Rating | STX Stock News"
         },
         {
-            "time": "19:37",
+            "time": "20:37",
             "tag": "MERCADO",
-            "text": "Intuitive Surgical, Inc. stock: Leader in robotic-assisted surgery with strong growth potential for long-term investors"
+            "text": "IT Investor Alert: Gartner, Inc. Securities Fraud Lawsuit - Investors With Losses May Seek to Lead the Class Action After Allegedly Concealing CV Growth Deterioration: Levi & Korsinsky"
         },
         {
-            "time": "19:36",
-            "tag": "MERCADO",
-            "text": "Costco's new checkout technology cuts payment time down to 8 seconds"
+            "time": "20:35",
+            "tag": "AI",
+            "text": "FactSet backs Finster as it rolls out AI tools for investment banks"
         }
     ]
 }
