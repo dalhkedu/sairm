@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-03-30 09:16 UTC",
+        "last_updated": "2026-03-30 11:05 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 167.52,
-            "change": "+2.92%"
+            "change": "-3.16%"
         },
         {
             "symbol": "AMD",
             "price": 201.99,
-            "change": "+1.85%"
+            "change": "+2.8%"
         },
         {
             "symbol": "MSFT",
             "price": 356.77,
-            "change": "-0.82%"
+            "change": "-1.0%"
         },
         {
             "symbol": "CEG",
             "price": 301.49,
-            "change": "+0.95%"
+            "change": "-2.52%"
         },
         {
             "symbol": "VST",
             "price": 155.48,
-            "change": "+2.96%"
+            "change": "+1.37%"
         }
     ],
     "dashboard_metrics": {
@@ -36,45 +36,45 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
             0.5,
+            0.49,
+            0.49,
             0.5,
-            0.51,
-            0.51,
+            0.49,
+            0.49,
             0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.51
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            23.9,
-            24.23,
-            24.71,
-            24.94,
-            24.54,
-            24.37,
-            24.56,
-            24.86,
-            24.67,
-            24.36,
-            24.68,
-            25.05
+            25.56,
+            25.42,
+            25.1,
+            25.11,
+            25.54,
+            25.61,
+            25.31,
+            25.45,
+            25.52,
+            25.16,
+            24.81,
+            24.57
         ],
         "hsd_history_software": [
-            10.2,
-            10.3,
-            10.34,
-            10.28,
-            10.11,
-            9.94,
-            10.0,
-            9.8,
-            9.87,
-            9.85,
-            10.0,
+            10.23,
+            10.05,
+            10.21,
+            10.16,
+            10.14,
+            10.04,
+            9.99,
+            10.08,
+            10.06,
+            10.12,
+            10.06,
             10.02
         ],
         "rci_data": [
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:31",
+            "time": "10:35",
             "tag": "MERCADO",
-            "text": "Citizens initiates Netflix stock coverage citing scale advantage"
+            "text": "Vulnerability affecting F5 BIG-IP APM"
         },
         {
-            "time": "08:16",
+            "time": "10:28",
             "tag": "MERCADO",
-            "text": "AMD.SW Advanced Micro Devices (SIX) +455.62% CHF161.13 Mar 2026: Note volume"
+            "text": "Apple subsidiary fined \u00a3390K for Russian sanctions breaches"
         },
         {
-            "time": "08:08",
+            "time": "10:23",
             "tag": "MERCADO",
-            "text": "Avanza Fonder AB Decreases Stock Holdings in Microsoft Corporation $MSFT"
+            "text": "Palo Alto Networks Chairman & CEO Acquires 6.6% More Stock"
         },
         {
-            "time": "08:05",
+            "time": "10:21",
             "tag": "MERCADO",
-            "text": "Top 5 Cybersecurity Stocks to Watch, According to Morgan Stanley"
+            "text": "Goldman Sachs initiates Qualcomm stock coverage with neutral rating"
         },
         {
-            "time": "07:56",
-            "tag": "MERCADO",
-            "text": "F5, Inc. $FFIV Shares Sold by DAVENPORT & Co LLC"
+            "time": "10:18",
+            "tag": "AI",
+            "text": "Artificial Intelligence at JPMorgan Chase"
         }
     ]
 }
