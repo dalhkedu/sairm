@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-30 17:00 UTC",
+        "last_updated": "2026-03-30 18:00 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 166.59,
-            "change": "+0.27%"
+            "price": 166.18,
+            "change": "+2.77%"
         },
         {
             "symbol": "AMD",
-            "price": 197.3,
-            "change": "-1.91%"
+            "price": 196.62,
+            "change": "-3.28%"
         },
         {
             "symbol": "MSFT",
-            "price": 361.39,
-            "change": "-0.49%"
+            "price": 359.13,
+            "change": "-2.75%"
         },
         {
             "symbol": "CEG",
-            "price": 300.77,
-            "change": "+0.7%"
+            "price": 298.96,
+            "change": "+0.1%"
         },
         {
             "symbol": "VST",
-            "price": 149.39,
-            "change": "-3.07%"
+            "price": 149.36,
+            "change": "-1.27%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.54,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.48,
             0.49,
             0.49,
+            0.5,
             0.49,
-            0.49
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.3,
-            24.07,
-            23.91,
-            24.03,
-            23.74,
-            23.91,
-            24.29,
-            24.15,
-            24.59,
-            24.72,
-            25.1,
-            25.44
+            24.17,
+            24.33,
+            24.77,
+            24.78,
+            24.79,
+            25.12,
+            25.12,
+            25.44,
+            25.11,
+            25.45,
+            25.39,
+            25.4
         ],
         "hsd_history_software": [
-            10.39,
-            10.46,
-            10.29,
-            10.16,
-            10.12,
+            10.0,
+            9.94,
             9.99,
-            9.98,
-            10.04,
-            9.98,
-            9.87,
+            9.92,
+            9.85,
+            9.75,
             9.84,
-            9.9
+            9.97,
+            10.15,
+            10.03,
+            9.93,
+            9.95
         ],
         "rci_data": [
             85.0,
-            16.659000000000002
+            16.618
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:56",
+            "time": "17:08",
             "tag": "MERCADO",
-            "text": "Guarantor: JPMorgan Chase & Co."
+            "text": "ON Semiconductor Corporation (ON) Is Gaining Attention: Key Information to Consider Before Investing"
         },
         {
-            "time": "15:49",
-            "tag": "AI",
-            "text": "Palo Alto Stock Fell on Anthropic AI Fears. The CEO Made a $10 Million Purchase."
+            "time": "16:58",
+            "tag": "MERCADO",
+            "text": "Uber Fell 6% This Week. Here\u2019s What Could Drive the Stock Higher in 2026"
         },
         {
-            "time": "15:48",
+            "time": "16:55",
             "tag": "MERCADO",
-            "text": "Here\u2019s Why Citizens Is Cautious on Netflix Stock (NFLX), While Needham Stays Bullish"
+            "text": "Unity Continues To Climb As Strong Q1 Forecast Lifts Investor Confidence"
         },
         {
-            "time": "15:43",
+            "time": "16:52",
             "tag": "MERCADO",
-            "text": "Twist Bioscience (NASDAQ:TWST) Given New $55.00 Price Target at Guggenheim"
+            "text": "Purolator orders 100 EVs from Workhorse"
         },
         {
-            "time": "15:37",
+            "time": "16:45",
             "tag": "MERCADO",
-            "text": "RainFocus Named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Event Marketing and Management Platforms for Third Consecutive Year"
+            "text": "Ciena vs. Arista: Which Networking Stock Is the Better Buy?"
         }
     ]
 }
