@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-31 21:42 UTC",
+        "last_updated": "2026-03-31 22:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 174.4,
-            "change": "-0.11%"
+            "change": "-3.18%"
         },
         {
             "symbol": "AMD",
             "price": 203.43,
-            "change": "-1.78%"
+            "change": "+3.21%"
         },
         {
             "symbol": "MSFT",
             "price": 370.17,
-            "change": "-2.07%"
+            "change": "+0.26%"
         },
         {
             "symbol": "CEG",
             "price": 279.25,
-            "change": "+1.39%"
+            "change": "-1.64%"
         },
         {
             "symbol": "VST",
             "price": 150.33,
-            "change": "+3.49%"
+            "change": "+0.84%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.55,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.5,
+            0.5,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            24.13,
-            24.59,
-            25.05,
-            25.35,
-            25.44,
-            25.64,
-            25.8,
-            25.62,
-            25.87,
-            25.75,
-            25.5,
-            25.06
+            23.39,
+            23.48,
+            23.42,
+            23.65,
+            24.09,
+            23.63,
+            23.49,
+            23.93,
+            24.08,
+            24.5,
+            24.87,
+            25.19
         ],
         "hsd_history_software": [
-            10.12,
-            10.06,
-            10.05,
-            9.9,
-            10.07,
-            10.01,
-            9.92,
-            10.07,
-            9.92,
-            9.87,
-            9.7,
-            9.89
+            9.59,
+            9.69,
+            9.73,
+            9.84,
+            10.02,
+            10.08,
+            10.08,
+            9.93,
+            9.79,
+            9.96,
+            9.97,
+            10.02
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "21:50",
+            "tag": "MERCADO",
+            "text": "Qualcomm (NASDAQ:QCOM) Shares Up 1.3% - Should You Buy?"
+        },
+        {
+            "time": "21:31",
+            "tag": "MERCADO",
+            "text": "Advanced Micro Devices (NASDAQ:AMD) Trading Up 3.8% - Still a Buy?"
+        },
+        {
+            "time": "21:15",
+            "tag": "MERCADO",
+            "text": "AT&T unveils $90 all-in wireless and internet subscription model"
+        },
+        {
             "time": "21:10",
             "tag": "AI",
             "text": "Datavault AI and Coppercore Inc. Announce Tokenization of High-Grade Copper Resources into Coppercoin(TM)"
         },
         {
-            "time": "20:59",
+            "time": "21:07",
             "tag": "MERCADO",
-            "text": "Dycom Industries, Inc. Appoints Company Veteran Bo Gresham as its First Chief Revenue Officer to Lead Next Phase of Growth"
-        },
-        {
-            "time": "20:44",
-            "tag": "MERCADO",
-            "text": "From ground hand to CRO: Dycom promotes company veteran Bo Gresham"
-        },
-        {
-            "time": "20:40",
-            "tag": "MERCADO",
-            "text": "Pitney Bowes Launches Temu Integration Within ShipAccel\u00ae"
-        },
-        {
-            "time": "20:20",
-            "tag": "AI",
-            "text": "Positive Outlook for Narrow-Moat Iqvia Supported by Durable Demand, AI Innovation, and Execution"
+            "text": "Corning and Meta Expand Cable Manufacturing in North Carolina"
         }
     ]
 }
