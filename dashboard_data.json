@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-31 09:04 UTC",
+        "last_updated": "2026-03-31 10:56 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 165.17,
-            "change": "-2.33%"
+            "change": "-3.34%"
         },
         {
             "symbol": "AMD",
             "price": 196.04,
-            "change": "+1.62%"
+            "change": "+0.7%"
         },
         {
             "symbol": "MSFT",
             "price": 358.96,
-            "change": "-1.2%"
+            "change": "-0.51%"
         },
         {
             "symbol": "CEG",
             "price": 298.61,
-            "change": "+2.64%"
+            "change": "-2.39%"
         },
         {
             "symbol": "VST",
             "price": 147.54,
-            "change": "+3.36%"
+            "change": "+0.64%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.52,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
             0.51,
             0.51,
             0.51,
             0.5,
-            0.51,
             0.5,
             0.5,
-            0.51,
-            0.51,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.91,
-            25.47,
-            25.68,
-            25.86,
-            25.67,
-            25.93,
-            25.7,
-            25.87,
-            25.37,
-            25.01,
+            25.04,
+            24.71,
+            24.94,
+            25.08,
+            24.94,
             25.07,
-            24.61
+            25.46,
+            25.14,
+            25.58,
+            25.31,
+            24.82,
+            24.89
         ],
         "hsd_history_software": [
-            9.76,
-            9.8,
-            9.69,
-            9.86,
-            10.0,
-            9.94,
-            9.9,
-            9.8,
-            9.84,
-            9.97,
-            9.93,
-            10.03
+            10.42,
+            10.31,
+            10.51,
+            10.57,
+            10.36,
+            10.47,
+            10.41,
+            10.3,
+            10.22,
+            10.14,
+            10.22,
+            10.11
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:40",
+            "time": "10:07",
             "tag": "MERCADO",
-            "text": "Docusign Inc (DOCU) Shares Up 3.33% on Mar 30"
+            "text": "Hewlett Packard Enterprise Company $HPE Holdings Decreased by Retirement Systems of Alabama"
         },
         {
-            "time": "08:34",
+            "time": "10:07",
             "tag": "MERCADO",
-            "text": "Boston Common Asset Management LLC Purchases 311,350 Shares of Netflix, Inc. $NFLX"
+            "text": "Retirement Systems of Alabama Sells 32,604 Shares of International Business Machines Corporation $IBM"
         },
         {
-            "time": "08:33",
+            "time": "10:06",
             "tag": "MERCADO",
-            "text": "The Bull Case For Gartner (IT) Could Change Following Securities Fraud Class Action Over Slowing Contracts"
+            "text": "J. Safra Sarasin Holding AG Purchases 142,077 Shares of AT&T Inc. $T"
         },
         {
-            "time": "08:33",
+            "time": "10:04",
             "tag": "MERCADO",
-            "text": "Boston Common Asset Management LLC Has $8.54 Million Stock Position in Applied Materials, Inc. $AMAT"
+            "text": "J. Safra Sarasin Holding AG Lowers Stock Holdings in Autodesk, Inc. $ADSK"
         },
         {
-            "time": "08:32",
+            "time": "10:03",
             "tag": "MERCADO",
-            "text": "Boston Common Asset Management LLC Has $22.92 Million Stock Position in Salesforce Inc. $CRM"
+            "text": "J. Safra Sarasin Holding AG Sells 82,615 Shares of Analog Devices, Inc. $ADI"
         }
     ]
 }
