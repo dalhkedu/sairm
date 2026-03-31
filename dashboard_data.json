@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-31 17:01 UTC",
+        "last_updated": "2026-03-31 19:06 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 172.84,
-            "change": "-1.37%"
+            "price": 173.84,
+            "change": "-2.7%"
         },
         {
             "symbol": "AMD",
-            "price": 201.96,
-            "change": "-2.54%"
+            "price": 203.29,
+            "change": "-1.94%"
         },
         {
             "symbol": "MSFT",
-            "price": 368.31,
-            "change": "+2.0%"
+            "price": 370.66,
+            "change": "-2.34%"
         },
         {
             "symbol": "CEG",
-            "price": 277.61,
-            "change": "+2.55%"
+            "price": 275.5,
+            "change": "+3.41%"
         },
         {
             "symbol": "VST",
-            "price": 149.85,
-            "change": "-0.62%"
+            "price": 149.49,
+            "change": "-1.9%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
+        "cer_current": 0.46,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
             0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.49,
             0.5,
             0.5,
             0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.51,
             0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            26.0,
-            26.3,
             26.42,
-            26.19,
-            26.4,
-            26.0,
-            25.61,
-            25.16,
-            24.72,
-            24.77,
-            24.86,
-            25.26
+            26.1,
+            26.44,
+            25.93,
+            25.94,
+            25.51,
+            25.48,
+            25.38,
+            24.96,
+            24.96,
+            24.67,
+            24.64
         ],
         "hsd_history_software": [
-            9.91,
-            9.73,
-            9.57,
-            9.62,
-            9.68,
-            9.73,
-            9.85,
-            9.98,
-            9.84,
-            9.95,
-            9.81,
-            10.0
+            10.59,
+            10.4,
+            10.56,
+            10.74,
+            10.71,
+            10.61,
+            10.44,
+            10.29,
+            10.1,
+            10.12,
+            10.12,
+            10.13
         ],
         "rci_data": [
             85.0,
-            17.284
+            17.384
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:31",
+            "time": "18:01",
+            "tag": "MERCADO",
+            "text": "Walmart Digital Price Tags Coming to All U.S. Stores in 2026"
+        },
+        {
+            "time": "17:57",
+            "tag": "MERCADO",
+            "text": "Thermo Fisher Scientific Introduces Glacios 3 Cryo-TEM for Structural Biology Labs"
+        },
+        {
+            "time": "17:52",
             "tag": "AI",
-            "text": "Advanced Micro Devices, Inc. Stock: Navigating AI Momentum and Semiconductor Headwinds in 2026"
+            "text": "A $6B AI buildout could lift Corning jobs 15%-20% in North Carolina"
         },
         {
-            "time": "16:31",
+            "time": "17:46",
             "tag": "MERCADO",
-            "text": "Dow rallies nearly 500 points on gains for shares of NVIDIA Corp., Caterpillar"
+            "text": "F5 BIG-IP APM systems vulnerable to critical remote code execution flaw | brief | SC Media"
         },
         {
-            "time": "16:20",
-            "tag": "MERCADO",
-            "text": "Palantir Technologies Inc Stock (PLTR) Moved Up by 3.40% on Mar 31: A Full Analysis"
-        },
-        {
-            "time": "16:19",
-            "tag": "MERCADO",
-            "text": "Intel Corp Stock (INTC) Moved Up by 3.27% on Mar 31: What Investors Need To Know"
-        },
-        {
-            "time": "16:18",
-            "tag": "MERCADO",
-            "text": "Toyota Moves to Join Volvo Group, Daimler Truck in Fuel Cell Joint Venture cellcentric"
+            "time": "17:45",
+            "tag": "AI",
+            "text": "AI Startup \u201cUpstage\u201d in Talks to Purchase 10,000 Advanced Micro Devices (AMD) Chips in Korea"
         }
     ]
 }
