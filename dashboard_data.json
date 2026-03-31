@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-31 10:56 UTC",
+        "last_updated": "2026-03-31 11:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 165.17,
-            "change": "-3.34%"
+            "change": "-2.67%"
         },
         {
             "symbol": "AMD",
             "price": 196.04,
-            "change": "+0.7%"
+            "change": "+2.26%"
         },
         {
             "symbol": "MSFT",
             "price": 358.96,
-            "change": "-0.51%"
+            "change": "-1.52%"
         },
         {
             "symbol": "CEG",
             "price": 298.61,
-            "change": "-2.39%"
+            "change": "+0.95%"
         },
         {
             "symbol": "VST",
             "price": 147.54,
-            "change": "+0.64%"
+            "change": "+2.95%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.42,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.52,
+            0.51,
+            0.52,
             0.52,
             0.52,
             0.52,
             0.51,
+            0.52,
             0.51,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.04,
-            24.71,
-            24.94,
-            25.08,
-            24.94,
-            25.07,
-            25.46,
-            25.14,
-            25.58,
-            25.31,
-            24.82,
-            24.89
+            24.69,
+            25.1,
+            24.92,
+            24.93,
+            24.62,
+            24.46,
+            24.11,
+            24.24,
+            24.68,
+            25.18,
+            25.45,
+            25.1
         ],
         "hsd_history_software": [
-            10.42,
-            10.31,
-            10.51,
-            10.57,
-            10.36,
-            10.47,
-            10.41,
-            10.3,
-            10.22,
-            10.14,
-            10.22,
-            10.11
+            9.82,
+            9.63,
+            9.52,
+            9.33,
+            9.15,
+            9.33,
+            9.27,
+            9.46,
+            9.58,
+            9.75,
+            9.94,
+            9.98
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:07",
+            "time": "11:06",
             "tag": "MERCADO",
-            "text": "Hewlett Packard Enterprise Company $HPE Holdings Decreased by Retirement Systems of Alabama"
+            "text": "BofA Securities initiates HubSpot stock coverage with buy rating"
         },
         {
-            "time": "10:07",
+            "time": "11:05",
             "tag": "MERCADO",
-            "text": "Retirement Systems of Alabama Sells 32,604 Shares of International Business Machines Corporation $IBM"
+            "text": "Raub Brock Capital Management LP Trims Stake in Motorola Solutions, Inc. $MSI"
         },
         {
-            "time": "10:06",
+            "time": "11:04",
             "tag": "MERCADO",
-            "text": "J. Safra Sarasin Holding AG Purchases 142,077 Shares of AT&T Inc. $T"
+            "text": "Amazon Leo to power in-flight Wi-Fi for Delta Air Lines starting in 2028"
         },
         {
-            "time": "10:04",
+            "time": "11:01",
             "tag": "MERCADO",
-            "text": "J. Safra Sarasin Holding AG Lowers Stock Holdings in Autodesk, Inc. $ADSK"
+            "text": "Zacks Investment Ideas feature highlights Adobe's and Microsoft"
         },
         {
-            "time": "10:03",
+            "time": "11:00",
             "tag": "MERCADO",
-            "text": "J. Safra Sarasin Holding AG Sells 82,615 Shares of Analog Devices, Inc. $ADI"
+            "text": "Amazon Leo"
         }
     ]
 }
