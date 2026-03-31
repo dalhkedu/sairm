@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-03-31 15:05 UTC",
+        "last_updated": "2026-03-31 17:01 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 170.19,
-            "change": "+3.3%"
+            "price": 172.84,
+            "change": "-1.37%"
         },
         {
             "symbol": "AMD",
-            "price": 199.37,
-            "change": "+2.92%"
+            "price": 201.96,
+            "change": "-2.54%"
         },
         {
             "symbol": "MSFT",
-            "price": 363.39,
-            "change": "-2.46%"
+            "price": 368.31,
+            "change": "+2.0%"
         },
         {
             "symbol": "CEG",
-            "price": 273.69,
-            "change": "-2.6%"
+            "price": 277.61,
+            "change": "+2.55%"
         },
         {
             "symbol": "VST",
-            "price": 146.13,
-            "change": "+0.62%"
+            "price": 149.85,
+            "change": "-0.62%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.53,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.49,
-            0.49,
             0.5,
             0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.49,
             0.5,
             0.5,
             0.51,
             0.51,
-            0.51,
-            0.5
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.74,
-            24.73,
-            25.04,
-            24.83,
-            24.58,
-            24.6,
-            25.0,
-            24.74,
-            24.8,
-            25.01,
-            24.61,
-            25.0
+            26.0,
+            26.3,
+            26.42,
+            26.19,
+            26.4,
+            26.0,
+            25.61,
+            25.16,
+            24.72,
+            24.77,
+            24.86,
+            25.26
         ],
         "hsd_history_software": [
-            9.89,
-            9.77,
-            9.72,
-            9.65,
-            9.71,
-            9.6,
-            9.79,
+            9.91,
             9.73,
-            9.82,
-            9.88,
-            9.9,
-            10.04
+            9.57,
+            9.62,
+            9.68,
+            9.73,
+            9.85,
+            9.98,
+            9.84,
+            9.95,
+            9.81,
+            10.0
         ],
         "rci_data": [
             85.0,
-            17.019000000000002
+            17.284
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:35",
+            "time": "16:31",
+            "tag": "AI",
+            "text": "Advanced Micro Devices, Inc. Stock: Navigating AI Momentum and Semiconductor Headwinds in 2026"
+        },
+        {
+            "time": "16:31",
             "tag": "MERCADO",
-            "text": "Motorola Solutions (MSI) Receives New Coverage with \"Buy\" Rating by Truist Securities | MSI Stock News"
+            "text": "Dow rallies nearly 500 points on gains for shares of NVIDIA Corp., Caterpillar"
         },
         {
-            "time": "14:29",
-            "tag": "AI",
-            "text": "Gartner Forecasts Rising Explainable AI Demand to Boost LLM Observability Adoption in GenAI"
-        },
-        {
-            "time": "14:20",
+            "time": "16:20",
             "tag": "MERCADO",
-            "text": "Meta Platforms Inc Stock (META) Moved Up by 4.03% on Mar 31: Key Drivers Unveiled"
+            "text": "Palantir Technologies Inc Stock (PLTR) Moved Up by 3.40% on Mar 31: A Full Analysis"
         },
         {
-            "time": "14:20",
-            "tag": "AI",
-            "text": "Ulta Beauty Ties K\u2011Beauty Launchpad And AI Fulfillment To Growth Narrative"
+            "time": "16:19",
+            "tag": "MERCADO",
+            "text": "Intel Corp Stock (INTC) Moved Up by 3.27% on Mar 31: What Investors Need To Know"
         },
         {
-            "time": "14:14",
-            "tag": "AI",
-            "text": "Ford AI executive joins Home Depot to lead tech and AI strategy"
+            "time": "16:18",
+            "tag": "MERCADO",
+            "text": "Toyota Moves to Join Volvo Group, Daimler Truck in Fuel Cell Joint Venture cellcentric"
         }
     ]
 }
