@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-31 11:53 UTC",
+        "last_updated": "2026-03-31 13:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 165.17,
-            "change": "-2.67%"
+            "change": "-1.43%"
         },
         {
             "symbol": "AMD",
             "price": 196.04,
-            "change": "+2.26%"
+            "change": "+2.64%"
         },
         {
             "symbol": "MSFT",
             "price": 358.96,
-            "change": "-1.52%"
+            "change": "+0.87%"
         },
         {
             "symbol": "CEG",
             "price": 298.61,
-            "change": "+0.95%"
+            "change": "-1.47%"
         },
         {
             "symbol": "VST",
             "price": 147.54,
-            "change": "+2.95%"
+            "change": "-2.06%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.56,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.53,
+            0.52,
+            0.53,
+            0.52,
             0.52,
             0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
+            0.5,
             0.51,
             0.51,
             0.51,
-            0.51
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.69,
-            25.1,
-            24.92,
-            24.93,
+            25.73,
+            25.29,
+            25.11,
+            24.86,
+            24.5,
+            24.97,
+            25.17,
+            24.97,
             24.62,
-            24.46,
-            24.11,
-            24.24,
-            24.68,
-            25.18,
-            25.45,
-            25.1
+            24.78,
+            24.86,
+            24.54
         ],
         "hsd_history_software": [
-            9.82,
-            9.63,
-            9.52,
-            9.33,
-            9.15,
-            9.33,
-            9.27,
-            9.46,
-            9.58,
-            9.75,
-            9.94,
-            9.98
+            10.36,
+            10.41,
+            10.42,
+            10.63,
+            10.5,
+            10.36,
+            10.17,
+            10.15,
+            10.2,
+            10.0,
+            10.13,
+            9.95
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:06",
+            "time": "12:30",
             "tag": "MERCADO",
-            "text": "BofA Securities initiates HubSpot stock coverage with buy rating"
+            "text": "Lockheed Martin says new hub can cut defense prototyping to months"
         },
         {
-            "time": "11:05",
+            "time": "12:29",
             "tag": "MERCADO",
-            "text": "Raub Brock Capital Management LP Trims Stake in Motorola Solutions, Inc. $MSI"
+            "text": "From rejected category to modern 4PL: Redwood\u2019s path through Gartner analysis"
         },
         {
-            "time": "11:04",
+            "time": "12:29",
             "tag": "MERCADO",
-            "text": "Amazon Leo to power in-flight Wi-Fi for Delta Air Lines starting in 2028"
+            "text": "Gen Z Driving the Shift from Cards to Digital Wallets, New Research from Global Payments Suggests"
         },
         {
-            "time": "11:01",
+            "time": "12:29",
             "tag": "MERCADO",
-            "text": "Zacks Investment Ideas feature highlights Adobe's and Microsoft"
+            "text": "Thermo Fisher Scientific Launches Thermo Scientific Glacios 3 Cryo-TEM"
         },
         {
-            "time": "11:00",
+            "time": "12:26",
             "tag": "MERCADO",
-            "text": "Amazon Leo"
+            "text": "Iran Tensions And Helium Risks Put KLA Supply Chain In Focus"
         }
     ]
 }
