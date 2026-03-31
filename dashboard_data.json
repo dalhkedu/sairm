@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-31 07:20 UTC",
+        "last_updated": "2026-03-31 09:04 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 165.17,
-            "change": "-0.04%"
+            "change": "-2.33%"
         },
         {
             "symbol": "AMD",
             "price": 196.04,
-            "change": "+1.17%"
+            "change": "+1.62%"
         },
         {
             "symbol": "MSFT",
             "price": 358.96,
-            "change": "-3.25%"
+            "change": "-1.2%"
         },
         {
             "symbol": "CEG",
             "price": 298.61,
-            "change": "-2.65%"
+            "change": "+2.64%"
         },
         {
             "symbol": "VST",
             "price": 147.54,
-            "change": "-1.7%"
+            "change": "+3.36%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.59,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.48,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.49
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            27.34,
-            27.24,
-            26.8,
-            26.47,
-            26.99,
-            26.69,
-            26.23,
-            25.84,
-            25.64,
-            25.22,
-            24.96,
-            25.29
+            25.91,
+            25.47,
+            25.68,
+            25.86,
+            25.67,
+            25.93,
+            25.7,
+            25.87,
+            25.37,
+            25.01,
+            25.07,
+            24.61
         ],
         "hsd_history_software": [
-            10.61,
-            10.57,
-            10.37,
-            10.5,
-            10.33,
-            10.37,
-            10.29,
-            10.14,
-            10.09,
-            10.15,
-            10.01,
-            10.05
+            9.76,
+            9.8,
+            9.69,
+            9.86,
+            10.0,
+            9.94,
+            9.9,
+            9.8,
+            9.84,
+            9.97,
+            9.93,
+            10.03
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:40",
+            "time": "08:40",
             "tag": "MERCADO",
-            "text": "Grupo Aval Acciones Y Valores SA - ADR (AVAL) Stock Price Quote Today & Current Price Chart"
+            "text": "Docusign Inc (DOCU) Shares Up 3.33% on Mar 30"
         },
         {
-            "time": "06:39",
+            "time": "08:34",
             "tag": "MERCADO",
-            "text": "Hyperscale Data to acquire 48.5 acres in Michigan for expansion"
+            "text": "Boston Common Asset Management LLC Purchases 311,350 Shares of Netflix, Inc. $NFLX"
         },
         {
-            "time": "06:39",
-            "tag": "AI",
-            "text": "iShares Future AI & Tech ETF (ARTY) Stock Price Quote Today & Current Price Chart"
-        },
-        {
-            "time": "06:34",
-            "tag": "AI",
-            "text": "Hormel Foods Transforms Supply Chain via o9 AI Integration"
-        },
-        {
-            "time": "06:33",
+            "time": "08:33",
             "tag": "MERCADO",
-            "text": "Microsoft Deepens Thailand Partnership with more than US$1 billion Investment, Spanning Technology, Trust, and Talent"
+            "text": "The Bull Case For Gartner (IT) Could Change Following Securities Fraud Class Action Over Slowing Contracts"
+        },
+        {
+            "time": "08:33",
+            "tag": "MERCADO",
+            "text": "Boston Common Asset Management LLC Has $8.54 Million Stock Position in Applied Materials, Inc. $AMAT"
+        },
+        {
+            "time": "08:32",
+            "tag": "MERCADO",
+            "text": "Boston Common Asset Management LLC Has $22.92 Million Stock Position in Salesforce Inc. $CRM"
         }
     ]
 }
