@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-01 17:57 UTC",
+        "last_updated": "2026-04-01 19:16 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 176.04,
-            "change": "-1.69%"
+            "price": 175.8,
+            "change": "+0.76%"
         },
         {
             "symbol": "AMD",
-            "price": 211.67,
-            "change": "-1.82%"
+            "price": 211.1,
+            "change": "+3.11%"
         },
         {
             "symbol": "MSFT",
-            "price": 371.0,
-            "change": "+0.15%"
+            "price": 369.23,
+            "change": "-2.79%"
         },
         {
             "symbol": "CEG",
-            "price": 282.93,
-            "change": "+1.88%"
+            "price": 279.95,
+            "change": "+2.95%"
         },
         {
             "symbol": "VST",
-            "price": 155.5,
-            "change": "+2.89%"
+            "price": 155.21,
+            "change": "-2.75%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.45,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
-            0.49,
+            0.51,
+            0.5,
             0.5,
             0.5,
             0.51,
             0.51,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.78,
-            24.3,
-            24.24,
-            24.24,
-            24.54,
-            24.69,
-            24.58,
-            24.45,
-            24.23,
-            24.25,
-            24.62,
-            24.53
+            25.82,
+            25.75,
+            25.42,
+            25.43,
+            25.41,
+            25.27,
+            25.11,
+            25.39,
+            24.98,
+            25.21,
+            25.17,
+            24.82
         ],
         "hsd_history_software": [
-            10.34,
-            10.29,
-            10.38,
-            10.51,
-            10.65,
-            10.56,
-            10.44,
-            10.28,
-            10.41,
-            10.36,
-            10.21,
-            10.05
+            9.92,
+            9.85,
+            9.74,
+            9.93,
+            9.86,
+            9.86,
+            9.82,
+            9.97,
+            9.89,
+            9.86,
+            9.67,
+            9.86
         ],
         "rci_data": [
             85.0,
-            17.604
+            17.580000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:02",
+            "time": "18:31",
             "tag": "MERCADO",
-            "text": "Taser maker Axon lands nearly $7m in state tax credits"
+            "text": "PayPal (PYPL) Faces Class Action After CEO Ouster, Withdrawal of Long-Term Targets - Hagens Berman"
         },
         {
-            "time": "17:00",
+            "time": "18:28",
             "tag": "MERCADO",
-            "text": "Why KLA Corporation (KLAC) Stock Is Trading Up Today"
+            "text": "GE HealthCare Technologies Stock: Navigating Mini-Tender Risks Amid Strong Medical Tech Momentum"
         },
         {
-            "time": "16:59",
+            "time": "18:19",
             "tag": "MERCADO",
-            "text": "RTX's BBN Technologies launches open-source tool to validate covert cyber networks"
+            "text": "ServiceNow's Armis acquisition offers several benefits, Morgan Stanley says (NOW:NYSE)"
         },
         {
-            "time": "16:56",
-            "tag": "MERCADO",
-            "text": "Stryker says operations a fully restored after March cyberattack"
+            "time": "18:07",
+            "tag": "AI",
+            "text": "Alphabet Inc. (Class C) Stock: Long-Term Strength Amid AI Investments and Market Dynamics"
         },
         {
-            "time": "16:46",
+            "time": "18:06",
             "tag": "MERCADO",
-            "text": "SLB and Rockwell Automation Complete Sensia Joint Venture Dissolution"
+            "text": "Two ETF Goliaths Driving the Markets This Month"
         }
     ]
 }
