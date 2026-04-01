@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-01 16:59 UTC",
+        "last_updated": "2026-04-01 17:57 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 176.68,
-            "change": "-2.48%"
+            "price": 176.04,
+            "change": "-1.69%"
         },
         {
             "symbol": "AMD",
-            "price": 213.08,
-            "change": "-0.47%"
+            "price": 211.67,
+            "change": "-1.82%"
         },
         {
             "symbol": "MSFT",
-            "price": 372.55,
-            "change": "-3.14%"
+            "price": 371.0,
+            "change": "+0.15%"
         },
         {
             "symbol": "CEG",
-            "price": 283.87,
-            "change": "+3.15%"
+            "price": 282.93,
+            "change": "+1.88%"
         },
         {
             "symbol": "VST",
             "price": 155.5,
-            "change": "-1.61%"
+            "change": "+2.89%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.5,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
+            0.47,
             0.48,
             0.49,
-            0.49,
-            0.5,
-            0.5,
             0.5,
             0.5,
             0.51,
             0.51,
-            0.52,
-            0.51
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.91,
-            25.54,
-            25.38,
-            25.37,
-            25.19,
-            24.92,
-            25.06,
-            24.92,
-            24.7,
-            24.42,
-            24.21,
-            24.62
+            24.78,
+            24.3,
+            24.24,
+            24.24,
+            24.54,
+            24.69,
+            24.58,
+            24.45,
+            24.23,
+            24.25,
+            24.62,
+            24.53
         ],
         "hsd_history_software": [
-            10.2,
-            10.39,
-            10.59,
-            10.61,
-            10.43,
-            10.3,
-            10.13,
-            9.95,
-            10.01,
-            9.92,
-            9.98,
-            10.17
+            10.34,
+            10.29,
+            10.38,
+            10.51,
+            10.65,
+            10.56,
+            10.44,
+            10.28,
+            10.41,
+            10.36,
+            10.21,
+            10.05
         ],
         "rci_data": [
             85.0,
-            17.668
+            17.604
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:05",
+            "time": "17:02",
             "tag": "MERCADO",
-            "text": "Hasbro Investigates Cybersecurity Breach and Operational Disruptions"
+            "text": "Taser maker Axon lands nearly $7m in state tax credits"
         },
         {
-            "time": "16:03",
+            "time": "17:00",
             "tag": "MERCADO",
-            "text": "Layer Brings Digital Art to Zero Bond at Wynn Las Vegas"
+            "text": "Why KLA Corporation (KLAC) Stock Is Trading Up Today"
         },
         {
-            "time": "16:01",
+            "time": "16:59",
             "tag": "MERCADO",
-            "text": "UBS Group Issues Pessimistic Forecast for FactSet Research Systems (NYSE:FDS) Stock Price"
+            "text": "RTX's BBN Technologies launches open-source tool to validate covert cyber networks"
         },
         {
-            "time": "15:54",
+            "time": "16:56",
             "tag": "MERCADO",
-            "text": "Safety board recommends changes to Ford BlueCruise after fatal crashes"
+            "text": "Stryker says operations a fully restored after March cyberattack"
         },
         {
-            "time": "15:52",
+            "time": "16:46",
             "tag": "MERCADO",
-            "text": "Intuitive Surgical, Inc. Stock: Leader in Robotic Surgery Faces Valuation Scrutiny Amid Analyst Shifts"
+            "text": "SLB and Rockwell Automation Complete Sensia Joint Venture Dissolution"
         }
     ]
 }
