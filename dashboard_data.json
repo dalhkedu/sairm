@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-01 20:49 UTC",
+        "last_updated": "2026-04-01 21:45 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.75,
-            "change": "-3.24%"
+            "change": "+1.9%"
         },
         {
             "symbol": "AMD",
             "price": 210.21,
-            "change": "-0.87%"
+            "change": "+2.59%"
         },
         {
             "symbol": "MSFT",
             "price": 369.37,
-            "change": "-2.0%"
+            "change": "-1.7%"
         },
         {
             "symbol": "CEG",
             "price": 279.46,
-            "change": "-0.9%"
+            "change": "-2.78%"
         },
         {
             "symbol": "VST",
             "price": 153.96,
-            "change": "-1.15%"
+            "change": "+2.41%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.48,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.46,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
             0.49,
             0.5,
-            0.49
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.65,
-            25.31,
-            25.63,
-            25.85,
-            25.51,
-            25.47,
-            25.21,
-            25.35,
-            25.1,
+            24.34,
+            24.82,
+            24.45,
+            24.56,
+            24.86,
+            24.74,
+            24.93,
+            24.78,
+            24.95,
+            24.47,
             24.8,
-            25.23,
-            24.96
+            25.13
         ],
         "hsd_history_software": [
-            9.91,
-            9.81,
-            9.82,
-            9.84,
-            9.83,
-            10.01,
-            9.82,
-            9.86,
-            9.7,
-            9.77,
-            9.7,
-            9.85
+            10.05,
+            10.09,
+            10.16,
+            10.04,
+            9.97,
+            10.13,
+            10.21,
+            10.39,
+            10.4,
+            10.27,
+            10.1,
+            9.96
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:21",
+            "time": "21:16",
             "tag": "AI",
-            "text": "Hu Yilin of Niu Technologies: 12-Year-Old Two-Wheeled Electric Vehicle Manufacturer Decides to Transform into AI, \"All In or Nothing\""
+            "text": "Alphabet Inc. Class A Stock: Navigating AI Investments and Core Strengths in a Competitive Landscape"
         },
         {
-            "time": "19:37",
-            "tag": "AI",
-            "text": "Alphabet Shares Climb as Analysts Affirm Long-Term Buy on AI Momentum and Cloud Surge"
-        },
-        {
-            "time": "19:34",
+            "time": "21:10",
             "tag": "MERCADO",
-            "text": "Northrop Grumman Extends EW And Autonomy Footprint As Valuation Runs Hot"
+            "text": "Technical Analysis of VanEck Digital Transformation ETF (NASDAQ:DAPP)"
         },
         {
-            "time": "19:30",
-            "tag": "AI",
-            "text": "Home Depot sets sights on AI with CTO appointment"
-        },
-        {
-            "time": "19:27",
+            "time": "21:07",
             "tag": "MERCADO",
-            "text": "Cyberattack hits Hasbro, impacting orders and shipping"
+            "text": "Halliburton Acquires Sekal To Expand Drilling Automation Capabilities"
+        },
+        {
+            "time": "21:07",
+            "tag": "MERCADO",
+            "text": "Advanced Micro Devices Inc. (AMD): Billionaire Ray Dalio Trims Stake"
+        },
+        {
+            "time": "20:54",
+            "tag": "MERCADO",
+            "text": "Healthcare: Increased Clarity on Drug Pricing and Tariffs Led to a Rebound in Q1"
         }
     ]
 }
