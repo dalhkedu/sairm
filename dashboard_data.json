@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-01 19:16 UTC",
+        "last_updated": "2026-04-01 20:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 175.8,
-            "change": "+0.76%"
+            "price": 175.75,
+            "change": "-3.24%"
         },
         {
             "symbol": "AMD",
-            "price": 211.1,
-            "change": "+3.11%"
+            "price": 210.21,
+            "change": "-0.87%"
         },
         {
             "symbol": "MSFT",
-            "price": 369.23,
-            "change": "-2.79%"
+            "price": 369.37,
+            "change": "-2.0%"
         },
         {
             "symbol": "CEG",
-            "price": 279.95,
-            "change": "+2.95%"
+            "price": 279.46,
+            "change": "-0.9%"
         },
         {
             "symbol": "VST",
-            "price": 155.21,
-            "change": "-2.75%"
+            "price": 153.96,
+            "change": "-1.15%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.67,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
+            0.47,
+            0.46,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
             0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51
+            0.49
         ],
         "hsd_history_hardware": [
-            25.82,
-            25.75,
-            25.42,
-            25.43,
-            25.41,
-            25.27,
-            25.11,
-            25.39,
-            24.98,
+            25.65,
+            25.31,
+            25.63,
+            25.85,
+            25.51,
+            25.47,
             25.21,
-            25.17,
-            24.82
+            25.35,
+            25.1,
+            24.8,
+            25.23,
+            24.96
         ],
         "hsd_history_software": [
-            9.92,
-            9.85,
-            9.74,
-            9.93,
-            9.86,
-            9.86,
+            9.91,
+            9.81,
             9.82,
-            9.97,
-            9.89,
+            9.84,
+            9.83,
+            10.01,
+            9.82,
             9.86,
-            9.67,
-            9.86
+            9.7,
+            9.77,
+            9.7,
+            9.85
         ],
         "rci_data": [
             85.0,
-            17.580000000000002
+            17.575
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:31",
-            "tag": "MERCADO",
-            "text": "PayPal (PYPL) Faces Class Action After CEO Ouster, Withdrawal of Long-Term Targets - Hagens Berman"
-        },
-        {
-            "time": "18:28",
-            "tag": "MERCADO",
-            "text": "GE HealthCare Technologies Stock: Navigating Mini-Tender Risks Amid Strong Medical Tech Momentum"
-        },
-        {
-            "time": "18:19",
-            "tag": "MERCADO",
-            "text": "ServiceNow's Armis acquisition offers several benefits, Morgan Stanley says (NOW:NYSE)"
-        },
-        {
-            "time": "18:07",
+            "time": "20:21",
             "tag": "AI",
-            "text": "Alphabet Inc. (Class C) Stock: Long-Term Strength Amid AI Investments and Market Dynamics"
+            "text": "Hu Yilin of Niu Technologies: 12-Year-Old Two-Wheeled Electric Vehicle Manufacturer Decides to Transform into AI, \"All In or Nothing\""
         },
         {
-            "time": "18:06",
+            "time": "19:37",
+            "tag": "AI",
+            "text": "Alphabet Shares Climb as Analysts Affirm Long-Term Buy on AI Momentum and Cloud Surge"
+        },
+        {
+            "time": "19:34",
             "tag": "MERCADO",
-            "text": "Two ETF Goliaths Driving the Markets This Month"
+            "text": "Northrop Grumman Extends EW And Autonomy Footprint As Valuation Runs Hot"
+        },
+        {
+            "time": "19:30",
+            "tag": "AI",
+            "text": "Home Depot sets sights on AI with CTO appointment"
+        },
+        {
+            "time": "19:27",
+            "tag": "MERCADO",
+            "text": "Cyberattack hits Hasbro, impacting orders and shipping"
         }
     ]
 }
