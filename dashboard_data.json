@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-01 02:53 UTC",
+        "last_updated": "2026-04-01 05:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 174.4,
-            "change": "-2.51%"
+            "change": "-0.97%"
         },
         {
             "symbol": "AMD",
             "price": 203.43,
-            "change": "+3.14%"
+            "change": "+1.75%"
         },
         {
             "symbol": "MSFT",
             "price": 370.17,
-            "change": "+2.0%"
+            "change": "-2.22%"
         },
         {
             "symbol": "CEG",
             "price": 279.25,
-            "change": "+1.24%"
+            "change": "-0.01%"
         },
         {
             "symbol": "VST",
             "price": 150.33,
-            "change": "+0.02%"
+            "change": "+0.28%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.64,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.53,
             0.54,
-            0.54,
+            0.53,
             0.53,
             0.52,
             0.51,
-            0.52,
-            0.53,
-            0.52,
-            0.52,
+            0.51,
+            0.5,
+            0.51,
             0.51,
             0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            24.94,
-            24.74,
-            24.81,
-            24.57,
-            24.99,
-            25.08,
-            25.3,
+            25.36,
+            25.33,
+            25.36,
+            25.65,
+            25.61,
+            25.31,
+            25.03,
             25.34,
-            25.21,
-            24.9,
-            25.12,
-            24.9
+            25.72,
+            25.28,
+            25.09,
+            25.19
         ],
         "hsd_history_software": [
-            10.78,
-            10.62,
-            10.56,
-            10.5,
-            10.32,
-            10.43,
-            10.33,
-            10.48,
-            10.39,
-            10.25,
-            10.16,
-            10.14
+            9.84,
+            9.84,
+            9.83,
+            9.88,
+            9.91,
+            9.89,
+            9.7,
+            9.79,
+            9.94,
+            9.84,
+            9.94,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:10",
+            "time": "04:40",
             "tag": "MERCADO",
-            "text": "Pacific Biosciences of California unveils oncology workflow solutions at industry event"
+            "text": "TOMI Environmental Solutions 10-K: $5.64M Revenue, $(0.19) EPS"
         },
         {
-            "time": "02:10",
+            "time": "04:40",
             "tag": "MERCADO",
-            "text": "PLDT, Smart ready to limit access to Roblox"
+            "text": "Exclusive:Top Public Companies Holding XRP"
         },
         {
-            "time": "02:09",
+            "time": "04:40",
             "tag": "MERCADO",
-            "text": "Director-linked entity boosts PagSeguro (NYSE: PAGS) stake with 498K-share buy"
+            "text": "Pineal Capital Urges Teladoc Health Board Changes"
         },
         {
-            "time": "02:09",
+            "time": "04:39",
             "tag": "MERCADO",
-            "text": "NextNRG to Launch the EzShop, Powered by Gopuff, to Deliver Both Fuel & Groceries Directly to Customers"
+            "text": "Virgin Galactic raises spaceflight ticket prices to $750K"
         },
         {
-            "time": "02:07",
+            "time": "04:37",
             "tag": "MERCADO",
-            "text": "Hilton Hotels' Loyalty Program Evolution: Why Hilton Honors and World of Hilton Drive Investor Inter"
+            "text": "Should Labcorp\u2019s Expanded Illumina Oncology Partnership Reshape the Precision Medicine Story for LH Investors?"
         }
     ]
 }
