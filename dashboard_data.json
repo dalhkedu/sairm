@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-03-31 23:37 UTC",
+        "last_updated": "2026-04-01 02:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 174.4,
-            "change": "+0.68%"
+            "change": "-2.51%"
         },
         {
             "symbol": "AMD",
             "price": 203.43,
-            "change": "-0.58%"
+            "change": "+3.14%"
         },
         {
             "symbol": "MSFT",
             "price": 370.17,
-            "change": "-2.01%"
+            "change": "+2.0%"
         },
         {
             "symbol": "CEG",
             "price": 279.25,
-            "change": "+0.05%"
+            "change": "+1.24%"
         },
         {
             "symbol": "VST",
             "price": 150.33,
-            "change": "-2.58%"
+            "change": "+0.02%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.59,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
             0.54,
             0.54,
             0.53,
-            0.53,
+            0.52,
+            0.51,
             0.52,
             0.53,
             0.52,
+            0.52,
             0.51,
             0.51,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            23.24,
-            23.11,
-            23.21,
-            23.43,
-            23.88,
-            24.11,
-            24.44,
-            24.4,
-            24.63,
-            24.8,
-            24.91,
-            24.72
+            24.94,
+            24.74,
+            24.81,
+            24.57,
+            24.99,
+            25.08,
+            25.3,
+            25.34,
+            25.21,
+            24.9,
+            25.12,
+            24.9
         ],
         "hsd_history_software": [
-            9.95,
-            9.83,
-            9.67,
-            9.75,
-            9.67,
-            9.81,
-            9.65,
-            9.62,
-            9.64,
-            9.74,
-            9.89,
-            9.9
+            10.78,
+            10.62,
+            10.56,
+            10.5,
+            10.32,
+            10.43,
+            10.33,
+            10.48,
+            10.39,
+            10.25,
+            10.16,
+            10.14
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:41",
+            "time": "02:10",
             "tag": "MERCADO",
-            "text": "A Major Fund's Bullish Bet on IBM Amidst Share Price Weakness"
+            "text": "Pacific Biosciences of California unveils oncology workflow solutions at industry event"
         },
         {
-            "time": "22:40",
+            "time": "02:10",
             "tag": "MERCADO",
-            "text": "Analysts See 61% Upside to Broadcom Inc. (AVGO)"
+            "text": "PLDT, Smart ready to limit access to Roblox"
         },
         {
-            "time": "22:39",
+            "time": "02:09",
             "tag": "MERCADO",
-            "text": "Needham Reiterates Buy on Alphabet Inc. (GOOGL) With $400 Price Target"
+            "text": "Director-linked entity boosts PagSeguro (NYSE: PAGS) stake with 498K-share buy"
         },
         {
-            "time": "22:39",
+            "time": "02:09",
             "tag": "MERCADO",
-            "text": "Guardant Health (GH) and Verana Health Announces New Partnership"
+            "text": "NextNRG to Launch the EzShop, Powered by Gopuff, to Deliver Both Fuel & Groceries Directly to Customers"
         },
         {
-            "time": "22:21",
+            "time": "02:07",
             "tag": "MERCADO",
-            "text": "Hewlett Packard Enterprise (NYSE:HPE) Share Activity Draws Attention In S&P 500"
+            "text": "Hilton Hotels' Loyalty Program Evolution: Why Hilton Honors and World of Hilton Drive Investor Inter"
         }
     ]
 }
