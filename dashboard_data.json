@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-01 05:27 UTC",
+        "last_updated": "2026-04-01 07:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 174.4,
-            "change": "-0.97%"
+            "change": "-0.8%"
         },
         {
             "symbol": "AMD",
             "price": 203.43,
-            "change": "+1.75%"
+            "change": "+2.73%"
         },
         {
             "symbol": "MSFT",
             "price": 370.17,
-            "change": "-2.22%"
+            "change": "-0.97%"
         },
         {
             "symbol": "CEG",
             "price": 279.25,
-            "change": "-0.01%"
+            "change": "+2.97%"
         },
         {
             "symbol": "VST",
             "price": 150.33,
-            "change": "+0.28%"
+            "change": "-3.19%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.46,
         "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
             0.54,
-            0.53,
+            0.54,
             0.53,
             0.52,
             0.51,
             0.51,
             0.5,
             0.51,
-            0.51,
-            0.51,
-            0.51
+            0.5,
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.36,
-            25.33,
-            25.36,
-            25.65,
-            25.61,
-            25.31,
-            25.03,
-            25.34,
-            25.72,
-            25.28,
-            25.09,
-            25.19
+            23.94,
+            24.0,
+            23.77,
+            24.17,
+            24.37,
+            24.07,
+            24.34,
+            24.76,
+            25.25,
+            25.75,
+            25.81,
+            25.45
         ],
         "hsd_history_software": [
-            9.84,
-            9.84,
-            9.83,
-            9.88,
-            9.91,
-            9.89,
-            9.7,
+            9.82,
+            10.01,
+            9.87,
+            9.86,
+            10.03,
+            9.93,
+            9.99,
+            9.9,
             9.79,
             9.94,
-            9.84,
-            9.94,
-            9.89
+            9.92,
+            9.91
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:40",
+            "time": "06:40",
             "tag": "MERCADO",
-            "text": "TOMI Environmental Solutions 10-K: $5.64M Revenue, $(0.19) EPS"
+            "text": "Snabe Jim H, c3.ai director, sells $80,800 in shares"
         },
         {
-            "time": "04:40",
+            "time": "06:39",
             "tag": "MERCADO",
-            "text": "Exclusive:Top Public Companies Holding XRP"
+            "text": "William Blair Maintains Aehr Test Systems(AEHR.US) With Buy Rating"
         },
         {
-            "time": "04:40",
+            "time": "06:39",
             "tag": "MERCADO",
-            "text": "Pineal Capital Urges Teladoc Health Board Changes"
+            "text": "Zspace Inc. launches Franklin Lab A3 for interactive virtual circuit learning"
         },
         {
-            "time": "04:39",
+            "time": "06:39",
             "tag": "MERCADO",
-            "text": "Virgin Galactic raises spaceflight ticket prices to $750K"
+            "text": "Akanda\u2019s FTF Subsidiary Expands Mexican Fiber Network, Secures $2 Million in Long-Term Cash Flow"
         },
         {
-            "time": "04:37",
+            "time": "06:37",
             "tag": "MERCADO",
-            "text": "Should Labcorp\u2019s Expanded Illumina Oncology Partnership Reshape the Precision Medicine Story for LH Investors?"
+            "text": "Cadence Design Systems (CDNS) Sees Gains but Trails the Market: Key Points to Note"
         }
     ]
 }
