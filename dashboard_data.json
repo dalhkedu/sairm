@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-02 11:49 UTC",
+        "last_updated": "2026-04-02 13:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.75,
-            "change": "-0.42%"
+            "change": "+0.88%"
         },
         {
             "symbol": "AMD",
             "price": 210.21,
-            "change": "+0.79%"
+            "change": "+3.45%"
         },
         {
             "symbol": "MSFT",
             "price": 369.37,
-            "change": "+1.39%"
+            "change": "+2.92%"
         },
         {
             "symbol": "CEG",
             "price": 279.46,
-            "change": "+2.17%"
+            "change": "+3.48%"
         },
         {
             "symbol": "VST",
             "price": 153.96,
-            "change": "+3.48%"
+            "change": "+2.01%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.69,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
             0.49,
             0.5,
             0.49,
-            0.5,
             0.49,
             0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
+            24.67,
+            24.54,
+            24.15,
             24.61,
-            25.1,
-            25.53,
-            25.46,
-            25.49,
-            25.97,
-            25.85,
-            25.7,
-            25.31,
-            24.94,
-            25.39,
-            25.07
+            24.52,
+            24.67,
+            24.45,
+            24.51,
+            24.42,
+            24.59,
+            24.98,
+            24.51
         ],
         "hsd_history_software": [
-            9.57,
-            9.66,
-            9.59,
-            9.71,
-            9.89,
-            9.98,
-            9.9,
-            9.79,
-            9.84,
-            9.98,
-            10.13,
-            10.09
+            10.24,
+            10.37,
+            10.46,
+            10.34,
+            10.31,
+            10.4,
+            10.45,
+            10.43,
+            10.3,
+            10.28,
+            10.2,
+            10.06
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:07",
+            "time": "12:31",
             "tag": "MERCADO",
-            "text": "SLB And Rockwell Automation Complete Sensia Joint Venture Dissolution"
+            "text": "Akamai Technologies' (AKAM) Neutral Rating Reaffirmed at Robert W. Baird"
         },
         {
-            "time": "11:05",
+            "time": "12:30",
             "tag": "MERCADO",
-            "text": "Teledyne Increases Focus on Space Technologies | Business | Apr 2026"
+            "text": "Gartner again ranks Manhattan a TMS leader, extending streak to 8 years"
         },
         {
-            "time": "11:04",
+            "time": "12:30",
             "tag": "MERCADO",
-            "text": "Genius Group (GNS) Stock: Jumps 8% as Revenue Surges 171% and Profit Turns Positive"
+            "text": "Thermo Fisher Scientific Introduces the Gibco\u2122 CTS\u2122 Compleo\u2122 Fill and Finish System to Help Streamline Cell Therapy Manufacturing"
         },
         {
-            "time": "11:04",
+            "time": "12:19",
             "tag": "MERCADO",
-            "text": "What's Going On With Lockheed Martin Stock Thursday? - Lockheed Martin (NYSE:LMT)"
+            "text": "Tata Communications Maintains a Leader Position for 13th Straight Year in Gartner\u00ae Magic Quadrant\u2122"
         },
         {
-            "time": "11:02",
+            "time": "12:15",
             "tag": "MERCADO",
-            "text": "Mercury Systems wins contract for satellite data recorders from L3Harris"
+            "text": "Applied Materials Fell 5% in the Last 30 Days. Here\u2019s Where the Stock Could Go in 2026"
         }
     ]
 }
