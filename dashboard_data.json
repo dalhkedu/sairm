@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-01 23:39 UTC",
+        "last_updated": "2026-04-02 02:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.75,
-            "change": "+1.52%"
+            "change": "+2.09%"
         },
         {
             "symbol": "AMD",
             "price": 210.21,
-            "change": "-3.31%"
+            "change": "+0.34%"
         },
         {
             "symbol": "MSFT",
             "price": 369.37,
-            "change": "-3.24%"
+            "change": "+2.17%"
         },
         {
             "symbol": "CEG",
             "price": 279.46,
-            "change": "-2.94%"
+            "change": "-0.38%"
         },
         {
             "symbol": "VST",
             "price": 153.96,
-            "change": "-1.83%"
+            "change": "-0.01%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.51,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
             0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
             0.48,
             0.49,
             0.49,
-            0.49,
             0.5,
-            0.5
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.4,
-            24.59,
-            24.14,
-            23.67,
-            23.83,
-            23.57,
-            23.22,
-            23.36,
-            23.8,
-            24.22,
-            24.16,
-            24.61
+            24.97,
+            25.2,
+            25.48,
+            25.82,
+            25.95,
+            25.51,
+            25.95,
+            25.51,
+            25.15,
+            25.27,
+            24.78,
+            24.95
         ],
         "hsd_history_software": [
-            9.92,
-            9.78,
+            9.85,
+            10.03,
+            10.04,
             9.93,
-            9.77,
+            10.09,
+            9.89,
+            10.0,
+            9.86,
+            9.71,
             9.7,
-            9.82,
-            9.84,
-            9.78,
-            9.72,
-            9.77,
-            9.95,
-            10.12
+            9.88,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:52",
+            "time": "01:32",
             "tag": "MERCADO",
-            "text": "[Form 4] TYLER TECHNOLOGIES INC Insider Trading Activity"
+            "text": "Morgan Stanley Maintains Overweight on Autodesk (ADSK) March 2026"
         },
         {
-            "time": "22:09",
-            "tag": "MERCADO",
-            "text": "D-Wave Quantum Shares Rebound Amidst Sector Volatility"
+            "time": "01:28",
+            "tag": "RESULTADOS",
+            "text": "T-Mobile US, Inc. Stock: Navigating 5G Leadership, Earnings Outlook, and Competitive Pressures Ahead"
         },
         {
-            "time": "22:07",
-            "tag": "AI",
-            "text": "Advanced Micro Devices, Inc. (AMD) and Samsung deepen ties to power next generation AI infrastructure"
+            "time": "00:57",
+            "tag": "MERCADO",
+            "text": "Lumen (LUMN) Soars 8.8%: Is Further Upside Left in the Stock?"
         },
         {
-            "time": "21:40",
+            "time": "00:46",
             "tag": "MERCADO",
-            "text": "Skillz (NYSE: SKLZ) grows 2025 revenue to $104.5M but posts $70.4M loss"
+            "text": "Lockheed Martin-built Orion Spacecraft Sends Astronauts Moonward for the First Time in 53 Years"
         },
         {
-            "time": "21:38",
+            "time": "00:45",
             "tag": "MERCADO",
-            "text": "Why innovation never sleeps at Synchrony"
+            "text": "Lockheed Martin-built Orion Spacecraft Sends Astronauts Moonward for the First Time in 53 Years"
         }
     ]
 }
