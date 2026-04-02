@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-02 19:01 UTC",
+        "last_updated": "2026-04-02 20:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 176.96,
-            "change": "+3.39%"
+            "price": 177.39,
+            "change": "-2.51%"
         },
         {
             "symbol": "AMD",
-            "price": 216.12,
-            "change": "+0.42%"
+            "price": 217.5,
+            "change": "+3.39%"
         },
         {
             "symbol": "MSFT",
-            "price": 371.04,
-            "change": "-0.31%"
+            "price": 373.46,
+            "change": "-3.06%"
         },
         {
             "symbol": "CEG",
             "price": 272.82,
-            "change": "-0.57%"
+            "change": "-2.58%"
         },
         {
             "symbol": "VST",
-            "price": 151.05,
-            "change": "+0.23%"
+            "price": 151.18,
+            "change": "-0.28%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.52,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.45,
-            0.45,
-            0.46,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
             0.49,
             0.49,
-            0.5
+            0.49,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.16,
-            25.7,
-            25.23,
-            25.62,
-            25.63,
+            26.48,
+            26.23,
+            26.05,
+            25.93,
+            25.69,
+            25.61,
+            25.47,
+            25.78,
             25.37,
-            25.13,
-            25.56,
-            25.44,
-            25.12,
-            24.74,
-            24.78
+            25.76,
+            25.73,
+            25.4
         ],
         "hsd_history_software": [
-            10.56,
-            10.4,
-            10.23,
-            10.12,
+            10.1,
+            10.16,
+            10.15,
+            10.08,
+            10.01,
+            9.83,
             9.95,
-            9.95,
-            9.87,
-            10.04,
-            10.06,
-            10.02,
+            9.88,
             9.94,
-            9.81
+            9.89,
+            10.04,
+            10.07
         ],
         "rci_data": [
             85.0,
-            17.696
+            17.739
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,9 @@
     ],
     "news_feed": [
         {
-            "time": "18:30",
-            "tag": "MERCADO",
-            "text": "17 Education & Technology Group Inc (YQ) Shares: Navigating Challenges in China's EdTech Sector for North American Investors"
-        },
-        {
-            "time": "18:27",
-            "tag": "MERCADO",
-            "text": "Did Truist\u2019s AFFO Focus and Jakarta Spotlight Just Shift Equinix's (EQIX) Investment Narrative?"
-        },
-        {
-            "time": "18:21",
-            "tag": "MERCADO",
-            "text": "The Goldman Sachs Group Has Lowered Expectations for Fair Isaac (NYSE:FICO) Stock Price"
-        },
-        {
-            "time": "18:07",
-            "tag": "MERCADO",
-            "text": "Full Truck Alliance (YMM) Reports FY25 Net Income of RMB 4.46B, Up 42.8%"
-        },
-        {
-            "time": "17:47",
-            "tag": "MERCADO",
-            "text": "Guarantor: JPMorgan Chase & Co."
+            "time": "INFO",
+            "tag": "LIMIT",
+            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
         }
     ]
 }
