@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-02 09:02 UTC",
+        "last_updated": "2026-04-02 10:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 175.75,
-            "change": "+3.18%"
+            "change": "-1.04%"
         },
         {
             "symbol": "AMD",
             "price": 210.21,
-            "change": "+0.07%"
+            "change": "+0.85%"
         },
         {
             "symbol": "MSFT",
             "price": 369.37,
-            "change": "+2.27%"
+            "change": "+1.04%"
         },
         {
             "symbol": "CEG",
             "price": 279.46,
-            "change": "+1.48%"
+            "change": "-0.33%"
         },
         {
             "symbol": "VST",
             "price": 153.96,
-            "change": "-0.07%"
+            "change": "+1.01%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.52,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
             0.5,
-            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.51,
             0.52,
             0.51,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            25.51,
-            25.82,
-            25.78,
-            25.86,
-            25.68,
-            25.38,
-            25.65,
-            25.57,
-            25.87,
-            25.48,
-            25.79,
-            25.49
+            24.92,
+            24.46,
+            24.34,
+            24.58,
+            24.32,
+            24.47,
+            24.02,
+            24.23,
+            24.6,
+            24.54,
+            24.92,
+            24.96
         ],
         "hsd_history_software": [
-            10.04,
-            9.93,
-            9.83,
-            9.97,
+            10.18,
+            10.03,
             9.95,
             10.07,
-            9.89,
-            9.78,
-            9.68,
-            9.87,
-            9.88,
-            10.0
+            10.26,
+            10.24,
+            10.16,
+            10.05,
+            9.96,
+            10.11,
+            10.21,
+            10.15
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:36",
+            "time": "10:10",
             "tag": "MERCADO",
-            "text": "Cisco Systems, Inc. $CSCO Shares Bought by Empirical Financial Services LLC d.b.a. Empirical Wealth Management"
+            "text": "Enlivex Therapeutics and Lantern Pharma Interviews to Air on the RedChip Small Stocks, Big Money(TM) Show on Bloomberg TV"
         },
         {
-            "time": "08:35",
+            "time": "10:02",
             "tag": "MERCADO",
-            "text": "Advanced Micro Devices, Inc. $AMD Shares Bought by Empirical Financial Services LLC d.b.a. Empirical Wealth Management"
+            "text": "Nisa Investment Advisors LLC Raises Stock Holdings in Fair Isaac Corporation $FICO"
         },
         {
-            "time": "08:35",
+            "time": "10:02",
             "tag": "MERCADO",
-            "text": "Empirical Financial Services LLC d.b.a. Empirical Wealth Management Reduces Stake in Western Digital Corporation $WDC"
+            "text": "Nisa Investment Advisors LLC Sells 12,302 Shares of NetApp, Inc. $NTAP"
         },
         {
-            "time": "08:35",
+            "time": "10:00",
             "tag": "MERCADO",
-            "text": "Empirical Financial Services LLC d.b.a. Empirical Wealth Management Lowers Stake in Analog Devices, Inc. $ADI"
+            "text": "Expedia Group, Inc. $EXPE Shares Sold by Nisa Investment Advisors LLC"
         },
         {
-            "time": "08:34",
+            "time": "10:00",
             "tag": "MERCADO",
-            "text": "Empirical Financial Services LLC d.b.a. Empirical Wealth Management Raises Stock Position in AT&T Inc. $T"
+            "text": "AT&T and FirstNet Support NASA\u2019s Artemis II Communications"
         }
     ]
 }
