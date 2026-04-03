@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-03 15:41 UTC",
+        "last_updated": "2026-04-03 16:45 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.39,
-            "change": "-1.86%"
+            "change": "-0.77%"
         },
         {
             "symbol": "AMD",
             "price": 217.5,
-            "change": "+2.41%"
+            "change": "+0.95%"
         },
         {
             "symbol": "MSFT",
             "price": 373.46,
-            "change": "+2.22%"
+            "change": "+2.87%"
         },
         {
             "symbol": "CEG",
             "price": 272.82,
-            "change": "-3.11%"
+            "change": "+3.25%"
         },
         {
             "symbol": "VST",
             "price": 151.18,
-            "change": "-2.99%"
+            "change": "+2.43%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.51,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.52,
+            0.52,
+            0.53,
+            0.52,
+            0.53,
+            0.52,
+            0.52,
             0.51,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.64,
-            24.65,
-            24.35,
-            24.47,
-            24.23,
-            24.14,
-            24.47,
-            24.5,
-            24.7,
-            24.65,
-            24.99,
-            24.56
+            24.87,
+            25.03,
+            24.62,
+            24.83,
+            24.37,
+            24.6,
+            24.49,
+            24.48,
+            24.75,
+            24.67,
+            24.83,
+            24.78
         ],
         "hsd_history_software": [
-            10.51,
-            10.45,
-            10.3,
-            10.27,
-            10.3,
-            10.23,
+            10.48,
+            10.59,
+            10.76,
+            10.76,
+            10.63,
+            10.44,
+            10.31,
+            10.13,
+            10.03,
             10.11,
-            10.04,
-            10.08,
-            9.95,
-            9.86,
-            9.92
+            10.0,
+            10.06
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:52",
+            "time": "15:54",
             "tag": "AI",
-            "text": "What Edison International (EIX)'s Upbeat 2026\u201327 Guidance and AI Grid Bet Means For Shareholders"
+            "text": "Amazon.com, Inc. (AMZN) Advances AI and Satellite Expansion Plans"
         },
         {
-            "time": "14:33",
-            "tag": "MERCADO",
-            "text": "Hewlett Packard Enterprise shareholders approve stock plan amendment and board elections"
+            "time": "15:45",
+            "tag": "AI",
+            "text": "Nvidia Corporation (NVDA) Sets Sights on Every Layer of AI Factory With NVIDIA Physical AI Data Factory Blueprint"
         },
         {
-            "time": "14:28",
-            "tag": "MERCADO",
-            "text": "Sophos named a 2026 Gartner\u00ae Peer Insights\u2122 Customers' Choice for Managed Detection and Response"
+            "time": "15:32",
+            "tag": "AI",
+            "text": "Did Verisk\u2019s AI Push and Omnibus Shelf Filing Just Recast Verisk Analytics' (VRSK) Investment Narrative?"
         },
         {
-            "time": "14:20",
-            "tag": "MERCADO",
-            "text": "Hewlett Packard Enterprise Shareholders Approve Expanded Equity Plan"
+            "time": "15:22",
+            "tag": "AI",
+            "text": "Cisco Systems, Inc. stock: Margin squeeze hits but AI bets shine through"
         },
         {
-            "time": "14:15",
+            "time": "15:13",
             "tag": "MERCADO",
-            "text": "ADBE.SW Adobe Inc. (SIX) -34.40% intraday 03 Apr 2026: watch CHF184.95 support"
+            "text": "FDA Grants 510(k) Clearance to GE HealthCare's True Definition DL Software"
         }
     ]
 }
