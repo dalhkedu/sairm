@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-03 11:39 UTC",
+        "last_updated": "2026-04-03 13:11 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.39,
-            "change": "+2.38%"
+            "change": "+3.08%"
         },
         {
             "symbol": "AMD",
             "price": 217.5,
-            "change": "+2.83%"
+            "change": "-0.29%"
         },
         {
             "symbol": "MSFT",
             "price": 373.46,
-            "change": "-1.33%"
+            "change": "+0.44%"
         },
         {
             "symbol": "CEG",
             "price": 272.82,
-            "change": "-1.99%"
+            "change": "+1.59%"
         },
         {
             "symbol": "VST",
             "price": 151.18,
-            "change": "-2.81%"
+            "change": "-1.46%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.62,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.47,
-            0.46,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
+            0.5,
             0.49,
             0.49,
-            0.5
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            23.16,
-            23.39,
-            23.62,
-            23.91,
-            24.24,
-            24.34,
-            24.52,
-            24.43,
-            24.77,
-            25.11,
-            25.59,
-            25.44
+            25.06,
+            25.26,
+            25.24,
+            25.49,
+            25.04,
+            25.26,
+            25.04,
+            24.82,
+            24.81,
+            25.26,
+            25.2,
+            25.41
         ],
         "hsd_history_software": [
+            10.49,
+            10.49,
+            10.33,
             10.25,
-            10.05,
-            10.18,
-            9.99,
-            9.87,
-            9.87,
-            9.83,
-            10.01,
-            9.99,
-            10.02,
-            10.05,
-            9.88
+            10.06,
+            10.12,
+            10.13,
+            10.26,
+            10.28,
+            10.23,
+            10.16,
+            10.06
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:49",
+            "time": "12:44",
             "tag": "MERCADO",
-            "text": "Morgan Stanley Bitcoin ETF (MSBT) Prospectus Flags Quantum Computing as Emerging Risk \u2014 Here\u2019s What It Means"
+            "text": "PayPal Holdings Inc stock: Trading near 2017 levels despite revenue growth"
         },
         {
-            "time": "10:46",
+            "time": "12:09",
             "tag": "MERCADO",
-            "text": "Supermicro co-founder pleads not guilty to smuggling billions of dollars of Nvidia servers to China \u2014 suspected smuggler released on $5 million bond"
+            "text": "Uber\u2019s Blacklane Deal Puts Focus On Premium Growth And Valuation Gap"
         },
         {
-            "time": "10:42",
+            "time": "12:07",
             "tag": "MERCADO",
-            "text": "Trust Co. of Vermont Boosts Uber Stake by 1,710%"
+            "text": "Enphase Energy (ENPH) Is Down 13.1% After Lawsuits Challenge Inventory And Tax Credit Disclosures"
         },
         {
-            "time": "10:40",
-            "tag": "AI",
-            "text": "HP Faces IRGC Targeting Adding New Geopolitical Risk To AI Story"
+            "time": "11:59",
+            "tag": "MERCADO",
+            "text": "Qualcomm Technologies Becomes Latest MassRobotics Sponsor"
         },
         {
-            "time": "10:28",
+            "time": "11:56",
             "tag": "MERCADO",
-            "text": "Kendall Capital Management Purchases 5,384 Shares of Qualcomm Incorporated $QCOM"
+            "text": "Man posing as Infosys executive allegedly defrauds Karnataka company of nearly Rs 6 crore promising CSR grants, arrested"
         }
     ]
 }
