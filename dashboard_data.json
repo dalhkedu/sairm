@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-03 13:11 UTC",
+        "last_updated": "2026-04-03 14:47 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.39,
-            "change": "+3.08%"
+            "change": "-2.31%"
         },
         {
             "symbol": "AMD",
             "price": 217.5,
-            "change": "-0.29%"
+            "change": "-0.23%"
         },
         {
             "symbol": "MSFT",
             "price": 373.46,
-            "change": "+0.44%"
+            "change": "+0.03%"
         },
         {
             "symbol": "CEG",
             "price": 272.82,
-            "change": "+1.59%"
+            "change": "+1.57%"
         },
         {
             "symbol": "VST",
             "price": 151.18,
-            "change": "-1.46%"
+            "change": "-0.14%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.53,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
             0.49,
             0.49,
             0.5,
+            0.49,
+            0.49,
             0.5,
-            0.51,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            25.06,
-            25.26,
-            25.24,
-            25.49,
-            25.04,
-            25.26,
-            25.04,
-            24.82,
-            24.81,
-            25.26,
-            25.2,
-            25.41
+            26.8,
+            27.04,
+            27.33,
+            26.83,
+            27.08,
+            26.59,
+            26.37,
+            26.07,
+            26.27,
+            25.8,
+            25.86,
+            25.4
         ],
         "hsd_history_software": [
-            10.49,
-            10.49,
-            10.33,
-            10.25,
-            10.06,
-            10.12,
-            10.13,
-            10.26,
-            10.28,
-            10.23,
-            10.16,
-            10.06
+            9.69,
+            9.65,
+            9.81,
+            9.64,
+            9.55,
+            9.51,
+            9.66,
+            9.75,
+            9.85,
+            9.77,
+            9.72,
+            9.8
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:44",
+            "time": "13:19",
             "tag": "MERCADO",
-            "text": "PayPal Holdings Inc stock: Trading near 2017 levels despite revenue growth"
+            "text": "Thermo Fisher Scientific introduces Gibco\u2122 CTS\u2122 Compleo\u2122 Fill and Finish System"
         },
         {
-            "time": "12:09",
+            "time": "12:58",
             "tag": "MERCADO",
-            "text": "Uber\u2019s Blacklane Deal Puts Focus On Premium Growth And Valuation Gap"
+            "text": "Udine Wealth Management Boosts Salesforce Stake"
         },
         {
-            "time": "12:07",
-            "tag": "MERCADO",
-            "text": "Enphase Energy (ENPH) Is Down 13.1% After Lawsuits Challenge Inventory And Tax Credit Disclosures"
+            "time": "12:57",
+            "tag": "AI",
+            "text": "Microsoft deepens its commitment to Japan with $10 billion investment in AI infrastructure, cybersecurity, and workforce"
         },
         {
-            "time": "11:59",
+            "time": "12:56",
             "tag": "MERCADO",
-            "text": "Qualcomm Technologies Becomes Latest MassRobotics Sponsor"
+            "text": "Reaffirmed GTA VI Launch And Raised Outlook Could Be A Game Changer For Take-Two (TTWO)"
         },
         {
-            "time": "11:56",
+            "time": "12:55",
             "tag": "MERCADO",
-            "text": "Man posing as Infosys executive allegedly defrauds Karnataka company of nearly Rs 6 crore promising CSR grants, arrested"
+            "text": "Westwood Wealth Management Boosts Qualcomm Stake"
         }
     ]
 }
