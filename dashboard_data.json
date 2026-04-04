@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-04 08:46 UTC",
+        "last_updated": "2026-04-04 09:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.39,
-            "change": "+0.86%"
+            "change": "-0.6%"
         },
         {
             "symbol": "AMD",
             "price": 217.5,
-            "change": "-2.0%"
+            "change": "-1.19%"
         },
         {
             "symbol": "MSFT",
             "price": 373.46,
-            "change": "-3.37%"
+            "change": "-0.56%"
         },
         {
             "symbol": "CEG",
             "price": 272.82,
-            "change": "-1.12%"
+            "change": "+3.43%"
         },
         {
             "symbol": "VST",
             "price": 151.18,
-            "change": "-0.47%"
+            "change": "-2.28%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.62,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.47,
+            0.47,
+            0.48,
             0.49,
+            0.48,
+            0.48,
             0.48,
             0.49,
             0.49,
-            0.5,
             0.49,
             0.49,
-            0.5,
-            0.51,
-            0.51,
-            0.51
+            0.49
         ],
         "hsd_history_hardware": [
-            25.53,
+            25.22,
+            25.08,
+            25.41,
+            25.92,
+            26.02,
+            25.51,
             25.36,
-            25.26,
-            25.69,
-            26.09,
-            26.06,
-            25.97,
-            25.56,
-            25.48,
-            25.75,
-            25.88,
-            25.45
+            25.44,
+            25.52,
+            25.02,
+            24.99,
+            24.62
         ],
         "hsd_history_software": [
+            9.95,
+            9.89,
+            9.81,
+            9.8,
+            9.98,
+            10.04,
+            10.14,
+            10.17,
+            10.17,
             9.99,
-            10.17,
-            10.32,
-            10.48,
-            10.32,
-            10.32,
-            10.17,
-            10.2,
-            10.23,
-            10.05,
-            10.02,
-            10.15
+            9.94,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:04",
+            "time": "09:01",
             "tag": "MERCADO",
-            "text": "Alphabet Inc. $GOOG Stock Position Lessened by Boston Common Asset Management LLC"
+            "text": "Stephens Consulting LLC Decreases Holdings in NVIDIA Corporation $NVDA"
         },
         {
-            "time": "08:04",
+            "time": "09:01",
             "tag": "MERCADO",
-            "text": "Eastern Bank Sells 12,380 Shares of Alphabet Inc. $GOOGL"
+            "text": "Geremia Financial Services LLC Invests $9.48 Million in Microsoft Corporation $MSFT"
         },
         {
-            "time": "08:04",
+            "time": "09:01",
             "tag": "MERCADO",
-            "text": "Eagle Rock Investment Company LLC Has $4 Million Stake in Amazon.com, Inc. $AMZN"
+            "text": "Generate Investment Management Ltd Raises Stock Position in Amazon.com, Inc. $AMZN"
         },
         {
-            "time": "07:56",
+            "time": "09:01",
             "tag": "MERCADO",
-            "text": "Amazon.com, Inc. $AMZN Position Raised by Elevatus Welath Management"
+            "text": "Net Worth Advisory Group Purchases 5,140 Shares of Amazon.com, Inc. $AMZN"
         },
         {
-            "time": "07:48",
+            "time": "08:53",
             "tag": "MERCADO",
-            "text": "Adobe Inc. $ADBE Shares Acquired by Aspiriant LLC"
+            "text": "First American Bank Purchases 21,209 Shares of ServiceNow, Inc. $NOW"
         }
     ]
 }
