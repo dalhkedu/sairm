@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-04 10:37 UTC",
+        "last_updated": "2026-04-04 11:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.39,
-            "change": "-1.76%"
+            "change": "-3.0%"
         },
         {
             "symbol": "AMD",
             "price": 217.5,
-            "change": "-0.19%"
+            "change": "-2.12%"
         },
         {
             "symbol": "MSFT",
             "price": 373.46,
-            "change": "-2.93%"
+            "change": "-1.61%"
         },
         {
             "symbol": "CEG",
             "price": 272.82,
-            "change": "+0.52%"
+            "change": "+1.52%"
         },
         {
             "symbol": "VST",
             "price": 151.18,
-            "change": "+2.5%"
+            "change": "+2.16%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.51,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
+            0.52,
+            0.52,
+            0.51,
             0.51,
             0.5,
             0.5,
-            0.49,
-            0.48,
-            0.49,
-            0.5,
-            0.5,
+            0.51,
+            0.51,
             0.51,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.74,
-            24.62,
-            25.1,
-            24.67,
-            24.62,
-            24.31,
-            24.67,
+            24.14,
             24.24,
-            24.17,
-            24.39,
-            24.88,
-            24.55
+            24.63,
+            25.02,
+            24.79,
+            24.42,
+            24.45,
+            24.56,
+            24.31,
+            24.63,
+            25.06,
+            25.42
         ],
         "hsd_history_software": [
-            9.42,
-            9.36,
-            9.41,
-            9.54,
-            9.6,
-            9.67,
-            9.6,
-            9.5,
-            9.59,
-            9.65,
-            9.8,
-            9.87
+            10.48,
+            10.3,
+            10.15,
+            10.17,
+            10.16,
+            9.99,
+            10.07,
+            9.9,
+            9.96,
+            10.12,
+            10.14,
+            10.09
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:04",
+            "time": "11:09",
             "tag": "MERCADO",
-            "text": "Adobe Inc. $ADBE Position Cut by Quintet Private Bank Europe S.A."
+            "text": "Fidelity Fundamental Large Cap Core ETF"
         },
         {
-            "time": "10:04",
+            "time": "11:09",
             "tag": "MERCADO",
-            "text": "Quintet Private Bank Europe S.A. Sells 68,074 Shares of AT&T Inc. $T"
+            "text": "Fenbo Holdings Limited (FEBO) stock price, news, quote and history"
         },
         {
-            "time": "10:03",
+            "time": "11:05",
             "tag": "MERCADO",
-            "text": "Quintet Private Bank Europe S.A. Lowers Stock Holdings in PayPal Holdings, Inc. $PYPL"
+            "text": "Palo Alto Networks, Inc. $PANW Shares Bought by Investment Research & Advisory Group Inc."
         },
         {
-            "time": "10:03",
+            "time": "11:02",
             "tag": "MERCADO",
-            "text": "Quintet Private Bank Europe S.A. Reduces Position in Salesforce Inc. $CRM"
+            "text": "Red Door Wealth Management LLC Trims Position in Verizon Communications Inc. $VZ"
         },
         {
-            "time": "10:01",
+            "time": "11:01",
             "tag": "MERCADO",
-            "text": "Quintet Private Bank Europe S.A. Sells 12,513 Shares of Intuitive Surgical, Inc. $ISRG"
+            "text": "ServiceNow, Inc. $NOW Stock Holdings Increased by Red Door Wealth Management LLC"
         }
     ]
 }
