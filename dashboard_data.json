@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-04 09:41 UTC",
+        "last_updated": "2026-04-04 10:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.39,
-            "change": "-0.6%"
+            "change": "-1.76%"
         },
         {
             "symbol": "AMD",
             "price": 217.5,
-            "change": "-1.19%"
+            "change": "-0.19%"
         },
         {
             "symbol": "MSFT",
             "price": 373.46,
-            "change": "-0.56%"
+            "change": "-2.93%"
         },
         {
             "symbol": "CEG",
             "price": 272.82,
-            "change": "+3.43%"
+            "change": "+0.52%"
         },
         {
             "symbol": "VST",
             "price": 151.18,
-            "change": "-2.28%"
+            "change": "+2.5%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.47,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.48,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
             0.49,
             0.48,
-            0.48,
-            0.48,
             0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.22,
-            25.08,
-            25.41,
-            25.92,
-            26.02,
-            25.51,
-            25.36,
-            25.44,
-            25.52,
-            25.02,
-            24.99,
-            24.62
+            24.74,
+            24.62,
+            25.1,
+            24.67,
+            24.62,
+            24.31,
+            24.67,
+            24.24,
+            24.17,
+            24.39,
+            24.88,
+            24.55
         ],
         "hsd_history_software": [
-            9.95,
-            9.89,
-            9.81,
+            9.42,
+            9.36,
+            9.41,
+            9.54,
+            9.6,
+            9.67,
+            9.6,
+            9.5,
+            9.59,
+            9.65,
             9.8,
-            9.98,
-            10.04,
-            10.14,
-            10.17,
-            10.17,
-            9.99,
-            9.94,
-            9.82
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:01",
+            "time": "10:04",
             "tag": "MERCADO",
-            "text": "Stephens Consulting LLC Decreases Holdings in NVIDIA Corporation $NVDA"
+            "text": "Adobe Inc. $ADBE Position Cut by Quintet Private Bank Europe S.A."
         },
         {
-            "time": "09:01",
+            "time": "10:04",
             "tag": "MERCADO",
-            "text": "Geremia Financial Services LLC Invests $9.48 Million in Microsoft Corporation $MSFT"
+            "text": "Quintet Private Bank Europe S.A. Sells 68,074 Shares of AT&T Inc. $T"
         },
         {
-            "time": "09:01",
+            "time": "10:03",
             "tag": "MERCADO",
-            "text": "Generate Investment Management Ltd Raises Stock Position in Amazon.com, Inc. $AMZN"
+            "text": "Quintet Private Bank Europe S.A. Lowers Stock Holdings in PayPal Holdings, Inc. $PYPL"
         },
         {
-            "time": "09:01",
+            "time": "10:03",
             "tag": "MERCADO",
-            "text": "Net Worth Advisory Group Purchases 5,140 Shares of Amazon.com, Inc. $AMZN"
+            "text": "Quintet Private Bank Europe S.A. Reduces Position in Salesforce Inc. $CRM"
         },
         {
-            "time": "08:53",
+            "time": "10:01",
             "tag": "MERCADO",
-            "text": "First American Bank Purchases 21,209 Shares of ServiceNow, Inc. $NOW"
+            "text": "Quintet Private Bank Europe S.A. Sells 12,513 Shares of Intuitive Surgical, Inc. $ISRG"
         }
     ]
 }
