@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-04 17:35 UTC",
+        "last_updated": "2026-04-04 18:48 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.39,
-            "change": "+0.72%"
+            "change": "+1.0%"
         },
         {
             "symbol": "AMD",
             "price": 217.5,
-            "change": "-2.02%"
+            "change": "+0.81%"
         },
         {
             "symbol": "MSFT",
             "price": 373.46,
-            "change": "+3.17%"
+            "change": "-1.23%"
         },
         {
             "symbol": "CEG",
             "price": 272.82,
-            "change": "+1.89%"
+            "change": "+0.37%"
         },
         {
             "symbol": "VST",
             "price": 151.18,
-            "change": "+0.69%"
+            "change": "+3.33%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.4,
+        "cer_current": 0.61,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.51,
             0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            25.31,
-            24.81,
-            24.33,
-            24.14,
-            24.33,
-            24.26,
-            24.61,
-            24.97,
-            25.12,
-            25.02,
-            25.07,
-            25.1
+            24.62,
+            24.46,
+            24.1,
+            24.32,
+            24.64,
+            24.83,
+            24.71,
+            25.04,
+            24.55,
+            24.89,
+            24.84,
+            25.23
         ],
         "hsd_history_software": [
-            10.0,
-            10.18,
-            10.15,
-            10.12,
-            10.27,
-            10.24,
-            10.11,
-            10.31,
+            10.03,
+            10.01,
             10.2,
-            10.12,
-            9.92,
-            10.0
+            10.37,
+            10.56,
+            10.59,
+            10.47,
+            10.37,
+            10.19,
+            10.21,
+            10.04,
+            10.17
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "17:33",
+            "tag": "AI",
+            "text": "ServiceNow Stock (NOW) Opinions on AI Pivot and Valuation Lows"
+        },
+        {
             "time": "17:09",
             "tag": "MERCADO",
             "text": "Strive U.S. Semiconductor ETF (SHOC) stock price, news, quote and history"
@@ -141,14 +146,9 @@
             "text": "BGIG ETF Volume Surges 11x as Johnson & Johnson Shines"
         },
         {
-            "time": "15:57",
-            "tag": "MERCADO",
-            "text": "SpaceX IPO Fever Hits \u2014 Here\u2019s the One Space Stock You Should Buy Now"
-        },
-        {
-            "time": "15:41",
-            "tag": "MERCADO",
-            "text": "Expedia Hotel Booking: Revolutionizing Travel Reservations for North American Investors in 2026"
+            "time": "16:09",
+            "tag": "AI",
+            "text": "A Look At UMH Properties (UMH) Valuation After Dividend Reaffirmation And AI Leasing Rollout"
         }
     ]
 }
