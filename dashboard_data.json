@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-04 20:36 UTC",
+        "last_updated": "2026-04-04 21:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.39,
-            "change": "-2.53%"
+            "change": "-2.54%"
         },
         {
             "symbol": "AMD",
             "price": 217.5,
-            "change": "-0.11%"
+            "change": "-2.23%"
         },
         {
             "symbol": "MSFT",
             "price": 373.46,
-            "change": "-1.26%"
+            "change": "-0.2%"
         },
         {
             "symbol": "CEG",
             "price": 272.82,
-            "change": "+1.19%"
+            "change": "-0.74%"
         },
         {
             "symbol": "VST",
             "price": 151.18,
-            "change": "-2.62%"
+            "change": "+0.38%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.69,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
             0.5,
-            0.49,
-            0.49,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.5,
-            0.49,
             0.5,
             0.51,
             0.51,
-            0.51,
-            0.52,
             0.51
         ],
         "hsd_history_hardware": [
-            26.82,
-            26.63,
-            26.6,
-            26.79,
-            26.36,
-            25.98,
-            25.9,
-            25.82,
-            25.68,
-            25.6,
-            25.74,
-            25.37
+            26.21,
+            25.8,
+            25.36,
+            25.39,
+            25.16,
+            24.99,
+            24.81,
+            25.14,
+            25.46,
+            25.14,
+            25.34,
+            25.35
         ],
         "hsd_history_software": [
-            9.67,
-            9.8,
-            9.71,
-            9.81,
-            9.79,
-            9.69,
-            9.82,
-            9.82,
-            9.98,
-            9.98,
-            9.94,
-            10.02
+            9.62,
+            9.54,
+            9.59,
+            9.74,
+            9.63,
+            9.73,
+            9.75,
+            9.84,
+            9.91,
+            10.1,
+            10.06,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "21:08",
+            "tag": "MERCADO",
+            "text": "Dad, Son Burned to Death in Tesla After Battery System Fire, Lawsuit Claims"
+        },
+        {
+            "time": "20:32",
+            "tag": "MERCADO",
+            "text": "A Look At Analog Devices (ADI) Valuation As Industrial Growth And Analyst Upgrades Draw Attention"
+        },
+        {
             "time": "19:41",
             "tag": "MERCADO",
             "text": "Why Intercontinental Exchange (ICE) Is Up 6.8% After Polymarket Deal And Tokenized Settlement Push"
@@ -139,16 +149,6 @@
             "time": "19:11",
             "tag": "AI",
             "text": "Eyes on AI! Wedbush Keeps $600 Tesla Stock Price Target despite Q1 Miss"
-        },
-        {
-            "time": "18:10",
-            "tag": "RESULTADOS",
-            "text": "Aviat Networks 'Melting Ice Cube': Short Report Alleges Company 'Not Generating The Earnings It Reports'"
-        },
-        {
-            "time": "18:10",
-            "tag": "AI",
-            "text": "AXT (AXTI) Is Down 12.8% After Boosting Share Capacity To Fund AI-Focused Indium Phosphide Expansion"
         }
     ]
 }
