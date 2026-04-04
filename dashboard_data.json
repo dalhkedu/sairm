@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-03 23:37 UTC",
+        "last_updated": "2026-04-04 02:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.39,
-            "change": "+1.04%"
+            "change": "-1.17%"
         },
         {
             "symbol": "AMD",
             "price": 217.5,
-            "change": "-0.54%"
+            "change": "+1.71%"
         },
         {
             "symbol": "MSFT",
             "price": 373.46,
-            "change": "-2.01%"
+            "change": "-1.75%"
         },
         {
             "symbol": "CEG",
             "price": 272.82,
-            "change": "-2.23%"
+            "change": "+1.84%"
         },
         {
             "symbol": "VST",
             "price": 151.18,
-            "change": "-0.84%"
+            "change": "-1.2%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.51,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
+            0.51,
             0.5,
             0.49,
-            0.5
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.74,
-            24.72,
-            24.84,
-            24.98,
-            24.64,
-            24.32,
-            24.04,
-            23.95,
+            25.5,
+            25.25,
+            24.92,
+            25.18,
+            25.02,
+            25.04,
+            24.97,
+            24.48,
             24.22,
-            24.61,
-            24.9,
-            25.21
+            24.5,
+            24.98,
+            24.86
         ],
         "hsd_history_software": [
-            9.72,
-            9.79,
-            9.97,
-            9.9,
-            10.1,
-            10.05,
-            10.06,
-            10.15,
-            10.13,
-            10.08,
-            9.94,
-            10.04
+            9.26,
+            9.42,
+            9.55,
+            9.49,
+            9.41,
+            9.59,
+            9.71,
+            9.77,
+            9.87,
+            10.0,
+            10.2,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "23:10",
+            "time": "02:03",
             "tag": "MERCADO",
-            "text": "UK Appeals Court Reassesses LG Display Damages in LCD Cartel Case"
+            "text": "Fortinet Investigation Initiated: Kahn Swick & Foti, LLC Investigates the Officers and Directors of Fortinet Inc. - FTNT"
         },
         {
-            "time": "23:00",
+            "time": "01:33",
             "tag": "MERCADO",
-            "text": "Arista Networks director Giancarlo sells $1m in stock"
+            "text": "What Ecolab (ECL)'s CoolIT Deal and Data Center Push Could Mean For Shareholders"
         },
         {
-            "time": "22:58",
+            "time": "01:26",
             "tag": "MERCADO",
-            "text": "Palo Alto Networks (NASDAQ:PANW) CAO Sells $177,540.00 in Stock"
+            "text": "Royal Caribbean Set To Include \"Undercover Robots\" On All Icon Class Ships"
         },
         {
-            "time": "22:57",
+            "time": "00:36",
             "tag": "MERCADO",
-            "text": "Alphabet (NASDAQ:GOOG) CAO Sells $178,701.71 in Stock"
+            "text": "Kratos EVP Lund sells $348k in KTOS stock"
         },
         {
-            "time": "22:40",
+            "time": "00:20",
             "tag": "MERCADO",
-            "text": "HTFL SEC Filings - HEARTFLOW INC 10-K, 10-Q, 8-K Forms"
+            "text": "Arista Networks (NYSE:ANET) Director Sells $1,007,600.00 in Stock"
         }
     ]
 }
