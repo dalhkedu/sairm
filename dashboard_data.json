@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-04 21:35 UTC",
+        "last_updated": "2026-04-04 22:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.39,
-            "change": "-2.54%"
+            "change": "-0.95%"
         },
         {
             "symbol": "AMD",
             "price": 217.5,
-            "change": "-2.23%"
+            "change": "+2.39%"
         },
         {
             "symbol": "MSFT",
             "price": 373.46,
-            "change": "-0.2%"
+            "change": "-3.5%"
         },
         {
             "symbol": "CEG",
             "price": 272.82,
-            "change": "-0.74%"
+            "change": "+2.23%"
         },
         {
             "symbol": "VST",
             "price": 151.18,
-            "change": "+0.38%"
+            "change": "-1.24%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.56,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.5,
+            0.5,
             0.49,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.21,
-            25.8,
-            25.36,
-            25.39,
-            25.16,
-            24.99,
-            24.81,
-            25.14,
-            25.46,
-            25.14,
-            25.34,
-            25.35
+            26.75,
+            26.41,
+            26.3,
+            25.97,
+            25.85,
+            26.3,
+            25.92,
+            25.59,
+            25.24,
+            25.32,
+            24.93,
+            25.27
         ],
         "hsd_history_software": [
-            9.62,
-            9.54,
-            9.59,
-            9.74,
-            9.63,
-            9.73,
-            9.75,
-            9.84,
-            9.91,
+            10.05,
+            10.11,
+            10.28,
+            10.42,
+            10.46,
+            10.31,
+            10.36,
+            10.28,
             10.1,
-            10.06,
-            9.89
+            10.21,
+            10.18,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "21:38",
+            "tag": "MERCADO",
+            "text": "Credo (CRDO) Is Up 6.5% After Settling AEC Patent Suits With TE Connectivity And Molex"
+        },
+        {
             "time": "21:08",
             "tag": "MERCADO",
             "text": "Dad, Son Burned to Death in Tesla After Battery System Fire, Lawsuit Claims"
@@ -144,11 +149,6 @@
             "time": "19:41",
             "tag": "AI",
             "text": "HP\u2019s New AI PCs And Quantum-Secure Printers Might Change The Case For Investing In HP (HPQ)"
-        },
-        {
-            "time": "19:11",
-            "tag": "AI",
-            "text": "Eyes on AI! Wedbush Keeps $600 Tesla Stock Price Target despite Q1 Miss"
         }
     ]
 }
