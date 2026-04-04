@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-04 22:33 UTC",
+        "last_updated": "2026-04-04 23:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.39,
-            "change": "-0.95%"
+            "change": "+2.73%"
         },
         {
             "symbol": "AMD",
             "price": 217.5,
-            "change": "+2.39%"
+            "change": "-0.63%"
         },
         {
             "symbol": "MSFT",
             "price": 373.46,
-            "change": "-3.5%"
+            "change": "+0.79%"
         },
         {
             "symbol": "CEG",
             "price": 272.82,
-            "change": "+2.23%"
+            "change": "-2.83%"
         },
         {
             "symbol": "VST",
             "price": 151.18,
-            "change": "-1.24%"
+            "change": "-0.11%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.62,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.5,
-            0.5,
+            0.48,
+            0.48,
             0.49,
             0.49,
             0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
             0.49
         ],
         "hsd_history_hardware": [
-            26.75,
-            26.41,
-            26.3,
-            25.97,
-            25.85,
-            26.3,
-            25.92,
-            25.59,
-            25.24,
-            25.32,
-            24.93,
-            25.27
+            25.65,
+            25.74,
+            25.64,
+            25.15,
+            25.09,
+            24.99,
+            24.65,
+            24.28,
+            24.53,
+            24.38,
+            24.56,
+            24.97
         ],
         "hsd_history_software": [
-            10.05,
-            10.11,
-            10.28,
+            10.3,
+            10.16,
+            10.16,
+            10.16,
+            10.12,
+            10.22,
+            10.06,
+            10.22,
             10.42,
-            10.46,
-            10.31,
-            10.36,
-            10.28,
-            10.1,
-            10.21,
-            10.18,
-            10.07
+            10.3,
+            10.17,
+            10.18
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "22:44",
+            "tag": "MERCADO",
+            "text": "Honeywell Reshapes Aerospace Portfolio With Aviation IP And Quantum Satellite Push"
+        },
+        {
+            "time": "22:36",
+            "tag": "AI",
+            "text": "A Look At Western Digital (WDC) Valuation After Bernstein Upgrade On AI Storage Growth Outlook"
+        },
+        {
             "time": "21:38",
             "tag": "MERCADO",
             "text": "Credo (CRDO) Is Up 6.5% After Settling AEC Patent Suits With TE Connectivity And Molex"
@@ -139,16 +149,6 @@
             "time": "20:32",
             "tag": "MERCADO",
             "text": "A Look At Analog Devices (ADI) Valuation As Industrial Growth And Analyst Upgrades Draw Attention"
-        },
-        {
-            "time": "19:41",
-            "tag": "MERCADO",
-            "text": "Why Intercontinental Exchange (ICE) Is Up 6.8% After Polymarket Deal And Tokenized Settlement Push"
-        },
-        {
-            "time": "19:41",
-            "tag": "AI",
-            "text": "HP\u2019s New AI PCs And Quantum-Secure Printers Might Change The Case For Investing In HP (HPQ)"
         }
     ]
 }
