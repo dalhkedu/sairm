@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-05 14:37 UTC",
+        "last_updated": "2026-04-05 15:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.39,
-            "change": "-0.78%"
+            "change": "-3.38%"
         },
         {
             "symbol": "AMD",
             "price": 217.5,
-            "change": "+2.81%"
+            "change": "-3.43%"
         },
         {
             "symbol": "MSFT",
             "price": 373.46,
-            "change": "+0.74%"
+            "change": "-2.58%"
         },
         {
             "symbol": "CEG",
             "price": 272.82,
-            "change": "-0.67%"
+            "change": "+2.94%"
         },
         {
             "symbol": "VST",
             "price": 151.18,
-            "change": "+2.85%"
+            "change": "+1.74%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.56,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.47,
+            0.47,
+            0.48,
             0.49,
-            0.5,
             0.5,
             0.51,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.49
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.0,
-            24.93,
-            25.44,
-            25.49,
-            25.26,
-            25.5,
-            25.14,
-            25.6,
-            25.23,
-            25.14,
-            24.79,
-            24.77
+            25.41,
+            24.97,
+            25.01,
+            25.02,
+            24.64,
+            24.5,
+            24.03,
+            24.19,
+            23.9,
+            23.94,
+            24.1,
+            24.5
         ],
         "hsd_history_software": [
-            10.46,
-            10.4,
-            10.23,
-            10.16,
-            10.36,
-            10.28,
-            10.21,
-            10.28,
-            10.17,
-            10.14,
-            10.1,
-            10.0
+            9.31,
+            9.49,
+            9.34,
+            9.46,
+            9.47,
+            9.47,
+            9.65,
+            9.64,
+            9.65,
+            9.56,
+            9.69,
+            9.85
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:45",
+            "time": "14:43",
             "tag": "MERCADO",
-            "text": "Weekend Round-Up: Tesla's Q1 Miss, Uber's Robotaxi Ambitions, Baidu's AV Safety Concerns, Ford's Bluecrui"
+            "text": "Halliburton Oilfield Services: Core to Global Energy"
         },
         {
-            "time": "13:23",
-            "tag": "MERCADO",
-            "text": "Caterpillar Wins Microsoft-Nvidia Infrastructure Deal. Here\u2019s What Investors Need to Know"
-        },
-        {
-            "time": "12:39",
-            "tag": "MERCADO",
-            "text": "YieldMax HOOD Option Income Strategy ETF (HOOY) stock price, news, quote and history"
-        },
-        {
-            "time": "12:09",
-            "tag": "MERCADO",
-            "text": "Intelligent Alpha Atlas ETF (LIVR) stock price, news, quote and history"
-        },
-        {
-            "time": "12:06",
+            "time": "14:29",
             "tag": "AI",
-            "text": "MSCI Stock: AI Is Changing The Model, Not Breaking The Business (NYSE:MSCI)"
+            "text": "Are AI-Model Downgrades Reframing Marten Transport's (MRTN) Freight Cyclicality as Its Core Investment Story?"
+        },
+        {
+            "time": "14:20",
+            "tag": "MERCADO",
+            "text": "CVS Pharmacy: Essential Retail for Health and Wellness Needs"
+        },
+        {
+            "time": "14:15",
+            "tag": "MERCADO",
+            "text": "Texas Instruments: Transitioning as an Analog Chip Giant"
+        },
+        {
+            "time": "14:06",
+            "tag": "MERCADO",
+            "text": "Why Your Favorite Company\u2019s Economic Moat May Not Be Built to Last"
         }
     ]
 }
