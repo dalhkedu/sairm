@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-05 19:35 UTC",
+        "last_updated": "2026-04-05 20:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.39,
-            "change": "+1.98%"
+            "change": "+0.78%"
         },
         {
             "symbol": "AMD",
             "price": 217.5,
-            "change": "-0.58%"
+            "change": "+2.89%"
         },
         {
             "symbol": "MSFT",
             "price": 373.46,
-            "change": "+1.43%"
+            "change": "-2.92%"
         },
         {
             "symbol": "CEG",
             "price": 272.82,
-            "change": "-0.01%"
+            "change": "-2.76%"
         },
         {
             "symbol": "VST",
             "price": 151.18,
-            "change": "+1.04%"
+            "change": "+2.4%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.52,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.48,
-            0.49,
-            0.49,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.52,
-            24.76,
-            25.25,
-            24.91,
-            24.97,
-            25.47,
-            25.85,
-            25.54,
+            25.48,
+            25.61,
+            26.02,
+            26.08,
+            26.35,
+            26.19,
+            26.33,
+            26.09,
+            25.83,
+            25.55,
             25.81,
-            25.41,
-            25.18,
-            25.29
+            25.48
         ],
         "hsd_history_software": [
-            9.78,
-            9.9,
-            10.03,
-            10.02,
-            9.91,
+            9.36,
+            9.5,
+            9.4,
+            9.5,
+            9.57,
+            9.73,
+            9.84,
+            10.01,
+            10.21,
+            10.1,
             10.0,
-            9.9,
-            10.09,
-            9.91,
-            9.92,
-            10.02,
-            9.9
+            9.92
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "19:40",
+            "tag": "MERCADO",
+            "text": "Is Amprius Technologies (AMPX) One of the Biggest Lithium Stocks?"
+        },
+        {
             "time": "19:29",
             "tag": "MERCADO",
             "text": "GE HealthCare (GEHC) Receives FDA Clearance for Photonova Spectra CT System"
@@ -136,19 +141,14 @@
             "text": "United Rentals (URI) Launches AI-Powered Equipment Agent Digital Assistant"
         },
         {
-            "time": "18:31",
-            "tag": "AI",
-            "text": "IQVIA (IQV) Launches IQVIA.ai Unified Agentic AI Platform with Nvidia"
+            "time": "19:08",
+            "tag": "MERCADO",
+            "text": "Halliburton Oilfield Services: Core of Global Energy"
         },
         {
-            "time": "17:02",
+            "time": "19:07",
             "tag": "MERCADO",
-            "text": "SMOG ETF Volume Surges as Tesla, Rivian Diverge"
-        },
-        {
-            "time": "16:10",
-            "tag": "MERCADO",
-            "text": "A Look At TransUnion\u2019s (TRU) Valuation After New Marketing Tools And MRI-Simmons Alliance Expansion"
+            "text": "GE HealthCare (GEHC) Receives FDA Clearance for Photonova Spectra CT System"
         }
     ]
 }
