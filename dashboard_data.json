@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-05 22:35 UTC",
+        "last_updated": "2026-04-05 23:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.39,
-            "change": "-2.26%"
+            "change": "-0.53%"
         },
         {
             "symbol": "AMD",
             "price": 217.5,
-            "change": "-1.75%"
+            "change": "+3.02%"
         },
         {
             "symbol": "MSFT",
             "price": 373.46,
-            "change": "-0.43%"
+            "change": "+1.16%"
         },
         {
             "symbol": "CEG",
             "price": 272.82,
-            "change": "-2.65%"
+            "change": "-1.15%"
         },
         {
             "symbol": "VST",
             "price": 151.18,
-            "change": "-0.74%"
+            "change": "+2.97%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.4,
+        "cer_current": 0.61,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.53,
+            0.52,
+            0.52,
             0.51,
             0.51,
             0.51,
-            0.51,
-            0.51,
+            0.52,
             0.51,
             0.5,
             0.5,
             0.51,
-            0.5,
-            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            23.94,
-            23.95,
-            23.61,
-            23.47,
-            23.82,
-            23.96,
-            24.4,
-            24.66,
-            24.46,
-            24.86,
-            25.13,
-            25.46
+            23.63,
+            23.18,
+            23.07,
+            23.38,
+            23.76,
+            24.04,
+            23.78,
+            23.86,
+            24.14,
+            24.58,
+            24.77,
+            24.77
         ],
         "hsd_history_software": [
-            10.39,
-            10.31,
-            10.42,
-            10.52,
-            10.49,
-            10.36,
-            10.46,
-            10.61,
-            10.61,
-            10.43,
-            10.22,
-            10.09
+            10.04,
+            10.04,
+            10.09,
+            9.92,
+            10.08,
+            9.94,
+            9.98,
+            10.09,
+            10.04,
+            10.09,
+            9.95,
+            9.97
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "22:31",
+            "tag": "MERCADO",
+            "text": "Is FedEx\u2019s (FDX) New Same-Day Local Push Quietly Redefining Its Last-Mile Investment Story?"
+        },
+        {
+            "time": "22:09",
+            "tag": "AI",
+            "text": "Microsoft: $10 Billion Investment To Expand AI Infrastructure In Japan"
+        },
+        {
             "time": "20:53",
             "tag": "MERCADO",
             "text": "Thermo Fisher Microscopes: Precision in Scientific Imaging"
@@ -139,16 +149,6 @@
             "time": "19:40",
             "tag": "MERCADO",
             "text": "Is Amprius Technologies (AMPX) One of the Biggest Lithium Stocks?"
-        },
-        {
-            "time": "19:29",
-            "tag": "MERCADO",
-            "text": "GE HealthCare (GEHC) Receives FDA Clearance for Photonova Spectra CT System"
-        },
-        {
-            "time": "19:09",
-            "tag": "AI",
-            "text": "United Rentals (URI) Launches AI-Powered Equipment Agent Digital Assistant"
         }
     ]
 }
