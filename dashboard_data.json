@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "last_updated": "2026-04-05 05:15 UTC",
+        "last_updated": "2026-04-05 07:12 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
@@ -12,70 +12,70 @@
         {
             "symbol": "AMD",
             "price": 217.5,
-            "change": "+2.47%"
+            "change": "+1.98%"
         },
         {
             "symbol": "MSFT",
             "price": 373.46,
-            "change": "-0.71%"
+            "change": "-3.02%"
         },
         {
             "symbol": "CEG",
             "price": 272.82,
-            "change": "+2.69%"
+            "change": "+3.23%"
         },
         {
             "symbol": "VST",
             "price": 151.18,
-            "change": "+0.39%"
+            "change": "-3.35%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.43,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.51,
+            0.51,
             0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.51,
             0.51,
             0.5,
             0.5,
-            0.51,
-            0.51,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            27.44,
-            26.9,
-            26.54,
-            26.12,
-            25.96,
-            25.55,
-            25.16,
-            24.93,
-            25.03,
-            25.16,
-            25.61,
-            25.38
+            25.35,
+            25.66,
+            25.26,
+            24.85,
+            24.66,
+            24.25,
+            24.24,
+            24.53,
+            24.65,
+            24.53,
+            24.13,
+            24.57
         ],
         "hsd_history_software": [
-            10.13,
-            10.09,
+            9.86,
+            9.9,
+            9.84,
+            10.02,
+            10.21,
+            10.05,
             10.2,
-            10.13,
-            10.11,
+            10.15,
+            10.17,
+            10.32,
             10.22,
-            10.29,
-            10.35,
-            10.44,
-            10.28,
-            10.09,
-            10.1
+            10.04
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "05:33",
+            "tag": "MERCADO",
+            "text": "ON Semiconductor (NASDAQ:ON) Lowered to Hold Rating by Wall Street Zen"
+        },
+        {
+            "time": "05:26",
+            "tag": "AI",
+            "text": "A Look At Motorola Solutions (MSI) Valuation As AI Security Platform And Deals Gain Attention"
+        },
+        {
+            "time": "04:51",
+            "tag": "MERCADO",
+            "text": "Will Spotify (SPOT) Turn Subscriber Momentum and New Ads into a Stronger Profit Story?"
+        },
+        {
             "time": "04:02",
             "tag": "MERCADO",
             "text": "Innovative Aerosystems Acquires Some Honeywell Avionics Assets"
@@ -134,21 +149,6 @@
             "time": "03:33",
             "tag": "MERCADO",
             "text": "Is Radware\u2019s (RDWR) Buyback and Cloud Push Redefining Its Long-Term Security Ambitions?"
-        },
-        {
-            "time": "01:39",
-            "tag": "MERCADO",
-            "text": "Kurv Technology Titans Select ETF"
-        },
-        {
-            "time": "01:24",
-            "tag": "MERCADO",
-            "text": "Equifax Credit Scoring Services: Core Engine Driving U.S. Consumer Lending Decisions in a Volatile Economy"
-        },
-        {
-            "time": "01:10",
-            "tag": "MERCADO",
-            "text": "Janus Henderson Transformational Growth ETF (JXX) stock price, news, quote and history"
         }
     ]
 }
