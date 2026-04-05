@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-05 13:05 UTC",
+        "last_updated": "2026-04-05 14:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.39,
-            "change": "-3.3%"
+            "change": "-0.78%"
         },
         {
             "symbol": "AMD",
             "price": 217.5,
-            "change": "+0.2%"
+            "change": "+2.81%"
         },
         {
             "symbol": "MSFT",
             "price": 373.46,
-            "change": "-3.38%"
+            "change": "+0.74%"
         },
         {
             "symbol": "CEG",
             "price": 272.82,
-            "change": "+2.1%"
+            "change": "-0.67%"
         },
         {
             "symbol": "VST",
             "price": 151.18,
-            "change": "+3.25%"
+            "change": "+2.85%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.42,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
+            0.49,
             0.5,
             0.5,
             0.51,
-            0.5
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.9,
-            24.5,
-            24.88,
-            25.04,
-            24.76,
-            24.99,
-            24.63,
-            24.94,
-            25.2,
-            24.95,
-            24.77,
-            25.24
+            25.0,
+            24.93,
+            25.44,
+            25.49,
+            25.26,
+            25.5,
+            25.14,
+            25.6,
+            25.23,
+            25.14,
+            24.79,
+            24.77
         ],
         "hsd_history_software": [
-            10.0,
-            9.93,
-            9.99,
-            10.12,
-            10.22,
-            10.02,
-            9.94,
-            10.0,
-            10.06,
-            10.2,
-            10.22,
-            10.05
+            10.46,
+            10.4,
+            10.23,
+            10.16,
+            10.36,
+            10.28,
+            10.21,
+            10.28,
+            10.17,
+            10.14,
+            10.1,
+            10.0
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "13:45",
+            "tag": "MERCADO",
+            "text": "Weekend Round-Up: Tesla's Q1 Miss, Uber's Robotaxi Ambitions, Baidu's AV Safety Concerns, Ford's Bluecrui"
+        },
+        {
+            "time": "13:23",
+            "tag": "MERCADO",
+            "text": "Caterpillar Wins Microsoft-Nvidia Infrastructure Deal. Here\u2019s What Investors Need to Know"
+        },
+        {
             "time": "12:39",
             "tag": "MERCADO",
             "text": "YieldMax HOOD Option Income Strategy ETF (HOOY) stock price, news, quote and history"
@@ -139,16 +149,6 @@
             "time": "12:06",
             "tag": "AI",
             "text": "MSCI Stock: AI Is Changing The Model, Not Breaking The Business (NYSE:MSCI)"
-        },
-        {
-            "time": "11:48",
-            "tag": "MERCADO",
-            "text": "Tran Capital Management L.P. Trims Stake in CoStar Group, Inc. $CSGP"
-        },
-        {
-            "time": "11:06",
-            "tag": "MERCADO",
-            "text": "Packer & Co Ltd Purchases New Position in PayPal Holdings, Inc. $PYPL"
         }
     ]
 }
