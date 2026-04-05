@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-05 17:35 UTC",
+        "last_updated": "2026-04-05 18:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.39,
-            "change": "-3.19%"
+            "change": "-2.22%"
         },
         {
             "symbol": "AMD",
             "price": 217.5,
-            "change": "-2.0%"
+            "change": "+0.95%"
         },
         {
             "symbol": "MSFT",
             "price": 373.46,
-            "change": "-1.08%"
+            "change": "-3.43%"
         },
         {
             "symbol": "CEG",
             "price": 272.82,
-            "change": "-1.24%"
+            "change": "+0.83%"
         },
         {
             "symbol": "VST",
             "price": 151.18,
-            "change": "+1.2%"
+            "change": "+0.11%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.55,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
             0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.51,
             0.5,
             0.51,
             0.5,
             0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.77,
-            25.03,
-            24.98,
-            24.8,
-            24.8,
-            25.19,
-            25.3,
-            25.76,
-            26.04,
-            25.98,
-            25.58,
-            25.24
+            23.81,
+            24.04,
+            24.45,
+            24.86,
+            24.57,
+            25.0,
+            24.88,
+            25.13,
+            24.74,
+            25.02,
+            25.02,
+            24.84
         ],
         "hsd_history_software": [
+            10.15,
+            10.21,
+            10.02,
+            9.93,
+            9.75,
             9.84,
-            9.79,
-            9.87,
-            9.87,
-            9.81,
-            9.97,
+            9.76,
             9.91,
-            10.01,
-            9.96,
-            9.88,
-            9.69,
-            9.84
+            9.9,
+            9.85,
+            9.83,
+            9.81
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "17:02",
+            "tag": "MERCADO",
+            "text": "SMOG ETF Volume Surges as Tesla, Rivian Diverge"
+        },
+        {
+            "time": "16:10",
+            "tag": "MERCADO",
+            "text": "A Look At TransUnion\u2019s (TRU) Valuation After New Marketing Tools And MRI-Simmons Alliance Expansion"
+        },
+        {
+            "time": "15:39",
+            "tag": "MERCADO",
+            "text": "Spotify Premium: Ad-Free Music Streaming Service"
+        },
+        {
             "time": "14:43",
             "tag": "MERCADO",
             "text": "Halliburton Oilfield Services: Core to Global Energy"
@@ -134,21 +149,6 @@
             "time": "14:29",
             "tag": "AI",
             "text": "Are AI-Model Downgrades Reframing Marten Transport's (MRTN) Freight Cyclicality as Its Core Investment Story?"
-        },
-        {
-            "time": "14:20",
-            "tag": "MERCADO",
-            "text": "CVS Pharmacy: Essential Retail for Health and Wellness Needs"
-        },
-        {
-            "time": "14:15",
-            "tag": "MERCADO",
-            "text": "Texas Instruments: Transitioning as an Analog Chip Giant"
-        },
-        {
-            "time": "14:09",
-            "tag": "RESULTADOS",
-            "text": "Poet Technologies Q4 2025 Earnings: Revenue Up, Loss Reduced - News and Statistics"
         }
     ]
 }
