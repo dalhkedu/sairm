@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-06 17:50 UTC",
+        "last_updated": "2026-04-06 19:06 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 176.65,
-            "change": "+2.86%"
+            "price": 177.18,
+            "change": "+2.58%"
         },
         {
             "symbol": "AMD",
-            "price": 219.26,
-            "change": "-1.03%"
+            "price": 219.92,
+            "change": "+0.3%"
         },
         {
             "symbol": "MSFT",
-            "price": NaN,
-            "change": "-1.8%"
+            "price": 372.58,
+            "change": "-1.53%"
         },
         {
             "symbol": "CEG",
-            "price": 274.79,
-            "change": "+3.35%"
+            "price": 276.73,
+            "change": "-3.35%"
         },
         {
             "symbol": "VST",
-            "price": 151.51,
-            "change": "+3.45%"
+            "price": 152.21,
+            "change": "+2.23%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.54,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
             0.5,
             0.5,
             0.5,
+            0.49,
+            0.5,
             0.51,
             0.51,
-            0.5
+            0.52,
+            0.52,
+            0.51,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.22,
-            24.12,
-            23.96,
-            24.19,
-            24.56,
-            24.79,
-            24.71,
-            24.88,
-            25.17,
-            25.1,
-            24.94,
-            24.58
+            26.18,
+            25.87,
+            26.1,
+            25.6,
+            25.37,
+            25.11,
+            25.34,
+            25.23,
+            24.91,
+            24.9,
+            24.81,
+            25.23
         ],
         "hsd_history_software": [
-            10.45,
-            10.25,
-            10.27,
-            10.38,
-            10.42,
-            10.41,
+            10.65,
+            10.84,
+            10.95,
+            10.88,
+            10.71,
+            10.86,
+            10.8,
+            10.61,
+            10.48,
             10.37,
-            10.4,
-            10.32,
-            10.24,
-            10.22,
-            10.02
+            10.23,
+            10.18
         ],
         "rci_data": [
             85.0,
-            17.665
+            17.718
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:02",
+            "time": "18:20",
+            "tag": "MERCADO",
+            "text": "The ethical implications of Anthropic's feud with the Pentagon"
+        },
+        {
+            "time": "18:14",
+            "tag": "MERCADO",
+            "text": "AMD.SW Advanced Micro Devices SIX CHF171.16 06 Apr 2026: high-volume mover view"
+        },
+        {
+            "time": "17:41",
+            "tag": "MERCADO",
+            "text": "Akamai Tech: Growth Isn't The Problem - Profitability Is (NASDAQ:AKAM)"
+        },
+        {
+            "time": "17:40",
             "tag": "AI",
-            "text": "Science Will Win season finale explores AI in cancer care with Pfizer Chief Oncology Officer Jeff Legos"
+            "text": "Spanish Startup Xoople Raises $130M Series B for AI-Powered Earth Mapping"
         },
         {
-            "time": "17:00",
+            "time": "17:34",
             "tag": "MERCADO",
-            "text": "Netflix launches new gaming app for kids called Netflix Playground"
-        },
-        {
-            "time": "16:49",
-            "tag": "MERCADO",
-            "text": "Zoox Rolls into L.A. with Robotaxi Test Run"
-        },
-        {
-            "time": "16:46",
-            "tag": "MERCADO",
-            "text": "Calls of the Day: Royal Caribbean, Las Vegas Sands, Wynn Resorts and Netflix"
-        },
-        {
-            "time": "16:37",
-            "tag": "MERCADO",
-            "text": "Ford recalls nearly 255K SUVs for camera image processing module errors"
+            "text": "eBay shares rise as investors focus on ad monetization momentum and recent strategic updates"
         }
     ]
 }
