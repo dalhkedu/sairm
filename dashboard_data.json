@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-06 20:40 UTC",
+        "last_updated": "2026-04-06 21:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.64,
-            "change": "-2.51%"
+            "change": "+1.89%"
         },
         {
             "symbol": "AMD",
             "price": 220.18,
-            "change": "+1.54%"
+            "change": "+1.29%"
         },
         {
             "symbol": "MSFT",
             "price": 372.88,
-            "change": "-1.71%"
+            "change": "-0.62%"
         },
         {
             "symbol": "CEG",
             "price": 275.16,
-            "change": "-1.46%"
+            "change": "+0.07%"
         },
         {
             "symbol": "VST",
             "price": 151.59,
-            "change": "+1.64%"
+            "change": "-0.83%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.6,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.5,
             0.5,
             0.51,
             0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.51
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.46,
-            24.38,
-            24.77,
-            25.09,
-            25.42,
+            24.58,
+            24.22,
+            24.47,
+            24.44,
+            24.54,
+            24.52,
+            24.69,
             25.05,
-            25.51,
-            25.77,
-            25.82,
-            25.33,
-            25.22,
-            24.96
+            24.82,
+            24.77,
+            24.44,
+            24.71
         ],
         "hsd_history_software": [
-            9.2,
-            9.25,
-            9.12,
-            9.27,
-            9.37,
-            9.34,
-            9.46,
-            9.63,
-            9.74,
-            9.77,
-            9.92,
-            9.87
+            10.18,
+            10.36,
+            10.18,
+            10.2,
+            10.01,
+            10.13,
+            10.24,
+            10.4,
+            10.27,
+            10.12,
+            9.96,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:06",
-            "tag": "AI",
-            "text": "Corning Inc stock: AI boom drives 50% YTD rally \u2013 buy now?"
+            "time": "21:07",
+            "tag": "MERCADO",
+            "text": "Tapestry appoints Pinterest CTO Matt Madrigal to board By Investing.com"
         },
         {
-            "time": "20:05",
+            "time": "20:51",
             "tag": "MERCADO",
-            "text": "zSpace (ZSPC) CFO adds 136,000 RSUs and boosts common share holdings"
+            "text": "FWD Stock Fund Price and Chart \u2014 AMEX:FWD"
         },
         {
-            "time": "20:00",
+            "time": "20:41",
             "tag": "MERCADO",
-            "text": "Tata Communications maintains a Leader Position for 13th Straight Year in Gartner\u00ae Magic Quadrant"
+            "text": "Fortinet Issues Emergency Patch for FortiClient Zero-Day"
         },
         {
-            "time": "19:28",
+            "time": "20:17",
             "tag": "MERCADO",
-            "text": "Boost Run merger vote slips three weeks as Willow Lane awaits SEC filing"
+            "text": "Tapestry, Inc. Appoints Matt Madrigal to Board of Directors"
         },
         {
-            "time": "19:22",
+            "time": "20:16",
             "tag": "MERCADO",
-            "text": "Why a Wall Street Analyst Warns Tesla Shares Could Drop 60%"
+            "text": "Dad, son burned to death in Tesla days before Christmas because they couldn\u2019t get out, lawsuit says"
         }
     ]
 }
