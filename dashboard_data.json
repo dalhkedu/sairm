@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-05 23:37 UTC",
+        "last_updated": "2026-04-06 02:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.39,
-            "change": "-0.53%"
+            "change": "+1.59%"
         },
         {
             "symbol": "AMD",
             "price": 217.5,
-            "change": "+3.02%"
+            "change": "-3.09%"
         },
         {
             "symbol": "MSFT",
             "price": 373.46,
-            "change": "+1.16%"
+            "change": "+3.49%"
         },
         {
             "symbol": "CEG",
             "price": 272.82,
-            "change": "-1.15%"
+            "change": "-1.85%"
         },
         {
             "symbol": "VST",
             "price": 151.18,
-            "change": "+2.97%"
+            "change": "-0.41%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.55,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
+            0.49,
             0.5,
             0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
             0.51,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            23.63,
-            23.18,
-            23.07,
-            23.38,
-            23.76,
-            24.04,
-            23.78,
-            23.86,
-            24.14,
-            24.58,
-            24.77,
-            24.77
+            22.91,
+            23.23,
+            23.67,
+            23.95,
+            24.02,
+            24.18,
+            24.39,
+            24.84,
+            24.78,
+            25.24,
+            25.05,
+            24.92
         ],
         "hsd_history_software": [
+            10.18,
+            10.35,
+            10.3,
+            10.29,
+            10.14,
             10.04,
-            10.04,
-            10.09,
-            9.92,
-            10.08,
-            9.94,
-            9.98,
-            10.09,
-            10.04,
-            10.09,
-            9.95,
-            9.97
+            10.13,
+            10.32,
+            10.27,
+            10.41,
+            10.39,
+            10.2
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:31",
+            "time": "00:41",
             "tag": "MERCADO",
-            "text": "Is FedEx\u2019s (FDX) New Same-Day Local Push Quietly Redefining Its Last-Mile Investment Story?"
+            "text": "Should NetApp\u2019s Expanded Ransomware Alliances Reshape How NTAP Investors View Its Core Security Role?"
         },
         {
-            "time": "22:09",
+            "time": "00:33",
             "tag": "AI",
-            "text": "Microsoft: $10 Billion Investment To Expand AI Infrastructure In Japan"
+            "text": "A Look At Honeywell International (HON) Valuation After New Defense And AI Security Agreements"
         },
         {
-            "time": "20:53",
+            "time": "00:33",
             "tag": "MERCADO",
-            "text": "Thermo Fisher Microscopes: Precision in Scientific Imaging"
+            "text": "Assessing Digital Realty (DLR) Valuation After Milan Expansion And Hyperscale Fund Milestones"
         },
         {
-            "time": "20:13",
-            "tag": "AI",
-            "text": "OpenAI Is Making Microsoft and Ashton Kutcher Incredibly Rich"
-        },
-        {
-            "time": "19:40",
+            "time": "00:18",
             "tag": "MERCADO",
-            "text": "Is Amprius Technologies (AMPX) One of the Biggest Lithium Stocks?"
+            "text": "Inside Capital One\u2019s shift to a \u2018serverless-first\u2019 operating model"
+        },
+        {
+            "time": "23:14",
+            "tag": "MERCADO",
+            "text": "Should Keysight\u2019s New Virtual Manufacturing and Auto Test Push Require Action From Keysight Technologies (KEYS) Investors?"
         }
     ]
 }
