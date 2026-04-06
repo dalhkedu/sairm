@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-06 15:52 UTC",
+        "last_updated": "2026-04-06 16:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 177.45,
-            "change": "-0.7%"
+            "price": 177.09,
+            "change": "+0.39%"
         },
         {
             "symbol": "AMD",
-            "price": 220.59,
-            "change": "+0.11%"
+            "price": 219.55,
+            "change": "-0.97%"
         },
         {
             "symbol": "MSFT",
-            "price": 371.67,
-            "change": "+0.63%"
+            "price": 372.2,
+            "change": "+1.29%"
         },
         {
             "symbol": "CEG",
-            "price": 274.75,
-            "change": "-0.4%"
+            "price": 275.55,
+            "change": "-0.25%"
         },
         {
             "symbol": "VST",
-            "price": 150.69,
-            "change": "+2.78%"
+            "price": 151.96,
+            "change": "-2.36%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.51,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
+            0.53,
+            0.52,
             0.51,
             0.51,
             0.5,
             0.5,
-            0.5
+            0.5,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.83,
-            25.27,
-            25.01,
-            25.1,
-            25.0,
-            24.99,
-            25.07,
-            25.03,
-            25.29,
-            24.83,
-            24.91,
-            25.0
+            23.7,
+            23.92,
+            24.13,
+            23.71,
+            23.58,
+            23.84,
+            23.85,
+            24.02,
+            24.5,
+            24.98,
+            25.43,
+            25.3
         ],
         "hsd_history_software": [
-            9.7,
+            9.94,
             9.8,
-            9.87,
-            9.83,
-            10.0,
-            10.1,
-            10.29,
-            10.18,
-            10.07,
-            10.14,
-            9.98,
-            9.99
+            9.66,
+            9.69,
+            9.69,
+            9.88,
+            9.94,
+            10.01,
+            9.88,
+            9.99,
+            10.08,
+            10.2
         ],
         "rci_data": [
             85.0,
-            17.745
+            17.709
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:00",
+            "time": "16:00",
             "tag": "MERCADO",
-            "text": "Applied Materials, Inc. stock: Why it's a semiconductor powerhouse for investors now"
+            "text": "Garmin Ltd. stock: Why fitness and aviation tech drives investor interest"
         },
         {
-            "time": "15:00",
-            "tag": "MERCADO",
-            "text": "Tesla Q1 Deliveries Expected to Fall Far Short of Peak as EV Demand Cools"
+            "time": "15:29",
+            "tag": "AI",
+            "text": "NYSE Content Update: Join Us and 6,500+ Attendees at Marquee AI Event HumanX"
         },
         {
-            "time": "14:59",
-            "tag": "MERCADO",
-            "text": "Salesforce Inc. stock: What investors should know right now"
+            "time": "15:27",
+            "tag": "AI",
+            "text": "AMD Gains Market Share, 'Agentic AI' Fuels Chip Demand - Advanced Micro Devices (NASDAQ:AMD)"
         },
         {
-            "time": "14:45",
+            "time": "15:26",
             "tag": "MERCADO",
-            "text": "Seagate Technology stock jumps 7.5% on Morgan Stanley top pick"
+            "text": "Workday Named a Leader in 2026 Gartner\u00ae Magic Quadrant\u2122 for Higher Education Student Information Systems"
         },
         {
-            "time": "14:43",
+            "time": "15:16",
             "tag": "MERCADO",
-            "text": "Fortinet: \u2019Critical\u2019 FortiClient EMS Vulnerability Exploited In Attacks"
+            "text": "Can Verizon's Strong Automotive Connectivity Solutions Drive Growth?"
         }
     ]
 }
