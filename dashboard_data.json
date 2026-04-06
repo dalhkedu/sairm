@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-06 16:54 UTC",
+        "last_updated": "2026-04-06 17:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 177.09,
-            "change": "+0.39%"
+            "price": 176.65,
+            "change": "+2.86%"
         },
         {
             "symbol": "AMD",
-            "price": 219.55,
-            "change": "-0.97%"
+            "price": 219.26,
+            "change": "-1.03%"
         },
         {
             "symbol": "MSFT",
-            "price": 372.2,
-            "change": "+1.29%"
+            "price": NaN,
+            "change": "-1.8%"
         },
         {
             "symbol": "CEG",
-            "price": 275.55,
-            "change": "-0.25%"
+            "price": 274.79,
+            "change": "+3.35%"
         },
         {
             "symbol": "VST",
-            "price": 151.96,
-            "change": "-2.36%"
+            "price": 151.51,
+            "change": "+3.45%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.66,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
+            0.52,
+            0.52,
             0.52,
             0.51,
             0.51,
+            0.51,
             0.5,
             0.5,
             0.5,
             0.51,
             0.51,
-            0.52,
-            0.51,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            23.7,
-            23.92,
-            24.13,
-            23.71,
-            23.58,
-            23.84,
-            23.85,
-            24.02,
-            24.5,
-            24.98,
-            25.43,
-            25.3
+            24.22,
+            24.12,
+            23.96,
+            24.19,
+            24.56,
+            24.79,
+            24.71,
+            24.88,
+            25.17,
+            25.1,
+            24.94,
+            24.58
         ],
         "hsd_history_software": [
-            9.94,
-            9.8,
-            9.66,
-            9.69,
-            9.69,
-            9.88,
-            9.94,
-            10.01,
-            9.88,
-            9.99,
-            10.08,
-            10.2
+            10.45,
+            10.25,
+            10.27,
+            10.38,
+            10.42,
+            10.41,
+            10.37,
+            10.4,
+            10.32,
+            10.24,
+            10.22,
+            10.02
         ],
         "rci_data": [
             85.0,
-            17.709
+            17.665
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:00",
-            "tag": "MERCADO",
-            "text": "Garmin Ltd. stock: Why fitness and aviation tech drives investor interest"
-        },
-        {
-            "time": "15:29",
+            "time": "17:02",
             "tag": "AI",
-            "text": "NYSE Content Update: Join Us and 6,500+ Attendees at Marquee AI Event HumanX"
+            "text": "Science Will Win season finale explores AI in cancer care with Pfizer Chief Oncology Officer Jeff Legos"
         },
         {
-            "time": "15:27",
-            "tag": "AI",
-            "text": "AMD Gains Market Share, 'Agentic AI' Fuels Chip Demand - Advanced Micro Devices (NASDAQ:AMD)"
-        },
-        {
-            "time": "15:26",
+            "time": "17:00",
             "tag": "MERCADO",
-            "text": "Workday Named a Leader in 2026 Gartner\u00ae Magic Quadrant\u2122 for Higher Education Student Information Systems"
+            "text": "Netflix launches new gaming app for kids called Netflix Playground"
         },
         {
-            "time": "15:16",
+            "time": "16:49",
             "tag": "MERCADO",
-            "text": "Can Verizon's Strong Automotive Connectivity Solutions Drive Growth?"
+            "text": "Zoox Rolls into L.A. with Robotaxi Test Run"
+        },
+        {
+            "time": "16:46",
+            "tag": "MERCADO",
+            "text": "Calls of the Day: Royal Caribbean, Las Vegas Sands, Wynn Resorts and Netflix"
+        },
+        {
+            "time": "16:37",
+            "tag": "MERCADO",
+            "text": "Ford recalls nearly 255K SUVs for camera image processing module errors"
         }
     ]
 }
