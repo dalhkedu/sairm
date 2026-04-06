@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-06 05:28 UTC",
+        "last_updated": "2026-04-06 07:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.39,
-            "change": "-3.48%"
+            "change": "+1.12%"
         },
         {
             "symbol": "AMD",
             "price": 217.5,
-            "change": "+3.41%"
+            "change": "-2.8%"
         },
         {
             "symbol": "MSFT",
             "price": 373.46,
-            "change": "-2.93%"
+            "change": "+2.66%"
         },
         {
             "symbol": "CEG",
             "price": 272.82,
-            "change": "-0.47%"
+            "change": "-3.43%"
         },
         {
             "symbol": "VST",
             "price": 151.18,
-            "change": "-2.59%"
+            "change": "-1.23%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.58,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.52,
+            0.51,
+            0.52,
             0.51,
             0.51,
             0.51,
             0.5,
             0.51,
             0.51,
-            0.51,
             0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            25.11,
-            25.03,
-            24.57,
-            24.51,
-            24.84,
-            24.86,
-            25.31,
-            25.17,
-            24.71,
-            24.78,
-            24.86,
-            24.82
+            25.33,
+            25.08,
+            25.32,
+            25.76,
+            25.46,
+            25.35,
+            25.4,
+            25.3,
+            25.68,
+            25.32,
+            24.95,
+            25.23
         ],
         "hsd_history_software": [
-            9.97,
+            10.09,
+            10.16,
+            10.05,
             9.88,
-            9.88,
-            9.82,
-            9.74,
-            9.89,
-            9.7,
-            9.88,
-            9.73,
-            9.61,
-            9.64,
-            9.83
+            10.01,
+            9.95,
+            9.99,
+            10.19,
+            10.01,
+            10.01,
+            9.86,
+            10.0
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "03:58",
-            "tag": "AI",
-            "text": "IBM Stock: Strong Execution, But Questions Around AI Value Capture (NYSE:IBM)"
-        },
-        {
-            "time": "03:26",
+            "time": "07:06",
             "tag": "MERCADO",
-            "text": "UK Royal Navy awards Teledyne contract for Autonomous Underwater Vehicles and Floats"
+            "text": "Allspring Global Investments Holdings LLC Has $12.01 Million Stock Holdings in CoStar Group, Inc. $CSGP"
         },
         {
-            "time": "02:38",
-            "tag": "AI",
-            "text": "CXO Moves: Exec movements across The Coca-Cola Company, X, OpenAI, and more"
-        },
-        {
-            "time": "01:40",
+            "time": "07:06",
             "tag": "MERCADO",
-            "text": "D-Wave Quantum Shares Find Footing on Unprecedented Order Surge"
+            "text": "Aberdeen Group plc Boosts Stake in Teradyne, Inc. $TER"
         },
         {
-            "time": "01:08",
+            "time": "07:06",
             "tag": "MERCADO",
-            "text": "A Look At Roper Technologies (ROP) Valuation After Its New US$3.5b Credit Facility Refresh"
+            "text": "Aberdeen Group plc Increases Stock Position in NetApp, Inc. $NTAP"
+        },
+        {
+            "time": "07:06",
+            "tag": "MERCADO",
+            "text": "Advisors Management Group Inc. ADV Trims Stock Holdings in NVIDIA Corporation $NVDA"
+        },
+        {
+            "time": "06:54",
+            "tag": "MERCADO",
+            "text": "BMO upgrades Northern Trust stock rating on strategy shift"
         }
     ]
 }
