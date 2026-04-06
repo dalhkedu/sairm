@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-06 22:40 UTC",
+        "last_updated": "2026-04-06 23:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.64,
-            "change": "-0.51%"
+            "change": "+1.79%"
         },
         {
             "symbol": "AMD",
             "price": 220.18,
-            "change": "-0.33%"
+            "change": "+0.64%"
         },
         {
             "symbol": "MSFT",
             "price": 372.88,
-            "change": "+3.04%"
+            "change": "-0.22%"
         },
         {
             "symbol": "CEG",
             "price": 275.16,
-            "change": "-2.38%"
+            "change": "-1.95%"
         },
         {
             "symbol": "VST",
-            "price": NaN,
-            "change": "-1.26%"
+            "price": 151.59,
+            "change": "-2.69%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.61,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
+            0.5,
+            0.5,
             0.5,
             0.49,
+            0.49,
+            0.5,
+            0.49,
+            0.5,
             0.5,
             0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            24.55,
-            24.58,
-            24.66,
-            24.47,
-            24.86,
-            24.97,
-            25.01,
-            25.24,
-            24.8,
-            24.81,
-            25.16,
-            24.85
+            24.38,
+            24.67,
+            24.68,
+            24.76,
+            25.14,
+            24.75,
+            24.75,
+            24.75,
+            25.03,
+            25.13,
+            24.72,
+            24.64
         ],
         "hsd_history_software": [
-            9.46,
-            9.44,
-            9.57,
-            9.59,
-            9.75,
-            9.8,
-            9.71,
-            9.77,
-            9.91,
-            9.76,
-            9.81,
-            9.83
+            9.79,
+            9.83,
+            9.82,
+            9.99,
+            10.02,
+            9.94,
+            9.86,
+            10.04,
+            9.88,
+            9.95,
+            10.01,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "22:09",
+            "tag": "AI",
+            "text": "Datasea Inc stock: What investors need to know about this AI and 5G play"
+        },
+        {
+            "time": "21:56",
+            "tag": "MERCADO",
+            "text": "Grain Management wants to use 800 MHz for satellite D2D"
+        },
+        {
             "time": "21:35",
             "tag": "MERCADO",
             "text": "Siyata Mobile Inc stock: What investors need to know in push-to-talk markets"
@@ -139,16 +149,6 @@
             "time": "21:22",
             "tag": "AI",
             "text": "Broadcom (NASDAQ: AVGO) expands Google, Anthropic AI TPU and networking deals"
-        },
-        {
-            "time": "21:21",
-            "tag": "MERCADO",
-            "text": "Alphabet (NASDAQ:GOOGL) Stock Price Up 1.4% - Time to Buy?"
-        },
-        {
-            "time": "21:20",
-            "tag": "MERCADO",
-            "text": "Tapestry Adds Pinterest CTO Matt Madrigal to Board"
         }
     ]
 }
