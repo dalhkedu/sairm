@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-06 19:06 UTC",
+        "last_updated": "2026-04-06 20:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 177.18,
-            "change": "+2.58%"
+            "price": 177.64,
+            "change": "-2.51%"
         },
         {
             "symbol": "AMD",
-            "price": 219.92,
-            "change": "+0.3%"
+            "price": 220.18,
+            "change": "+1.54%"
         },
         {
             "symbol": "MSFT",
-            "price": 372.58,
-            "change": "-1.53%"
+            "price": 372.88,
+            "change": "-1.71%"
         },
         {
             "symbol": "CEG",
-            "price": 276.73,
-            "change": "-3.35%"
+            "price": 275.16,
+            "change": "-1.46%"
         },
         {
             "symbol": "VST",
-            "price": 152.21,
-            "change": "+2.23%"
+            "price": 151.59,
+            "change": "+1.64%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.43,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
+            0.51,
+            0.51,
+            0.5,
+            0.49,
+            0.49,
             0.5,
             0.5,
             0.49,
-            0.5,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
+            0.49,
             0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            26.18,
-            25.87,
-            26.1,
-            25.6,
-            25.37,
-            25.11,
-            25.34,
-            25.23,
-            24.91,
-            24.9,
-            24.81,
-            25.23
+            24.46,
+            24.38,
+            24.77,
+            25.09,
+            25.42,
+            25.05,
+            25.51,
+            25.77,
+            25.82,
+            25.33,
+            25.22,
+            24.96
         ],
         "hsd_history_software": [
-            10.65,
-            10.84,
-            10.95,
-            10.88,
-            10.71,
-            10.86,
-            10.8,
-            10.61,
-            10.48,
-            10.37,
-            10.23,
-            10.18
+            9.2,
+            9.25,
+            9.12,
+            9.27,
+            9.37,
+            9.34,
+            9.46,
+            9.63,
+            9.74,
+            9.77,
+            9.92,
+            9.87
         ],
         "rci_data": [
             85.0,
-            17.718
+            17.764
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:20",
-            "tag": "MERCADO",
-            "text": "The ethical implications of Anthropic's feud with the Pentagon"
-        },
-        {
-            "time": "18:14",
-            "tag": "MERCADO",
-            "text": "AMD.SW Advanced Micro Devices SIX CHF171.16 06 Apr 2026: high-volume mover view"
-        },
-        {
-            "time": "17:41",
-            "tag": "MERCADO",
-            "text": "Akamai Tech: Growth Isn't The Problem - Profitability Is (NASDAQ:AKAM)"
-        },
-        {
-            "time": "17:40",
+            "time": "20:06",
             "tag": "AI",
-            "text": "Spanish Startup Xoople Raises $130M Series B for AI-Powered Earth Mapping"
+            "text": "Corning Inc stock: AI boom drives 50% YTD rally \u2013 buy now?"
         },
         {
-            "time": "17:34",
+            "time": "20:05",
             "tag": "MERCADO",
-            "text": "eBay shares rise as investors focus on ad monetization momentum and recent strategic updates"
+            "text": "zSpace (ZSPC) CFO adds 136,000 RSUs and boosts common share holdings"
+        },
+        {
+            "time": "20:00",
+            "tag": "MERCADO",
+            "text": "Tata Communications maintains a Leader Position for 13th Straight Year in Gartner\u00ae Magic Quadrant"
+        },
+        {
+            "time": "19:28",
+            "tag": "MERCADO",
+            "text": "Boost Run merger vote slips three weeks as Willow Lane awaits SEC filing"
+        },
+        {
+            "time": "19:22",
+            "tag": "MERCADO",
+            "text": "Why a Wall Street Analyst Warns Tesla Shares Could Drop 60%"
         }
     ]
 }
