@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-07 19:09 UTC",
+        "last_updated": "2026-04-07 20:52 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 175.57,
-            "change": "-2.6%"
+            "price": 178.1,
+            "change": "+0.25%"
         },
         {
             "symbol": "AMD",
-            "price": 217.54,
-            "change": "-0.94%"
+            "price": 221.53,
+            "change": "-2.38%"
         },
         {
             "symbol": "MSFT",
-            "price": 369.22,
-            "change": "-0.7%"
+            "price": 372.29,
+            "change": "-2.67%"
         },
         {
             "symbol": "CEG",
-            "price": 268.16,
-            "change": "+0.69%"
+            "price": 272.58,
+            "change": "-1.42%"
         },
         {
             "symbol": "VST",
-            "price": 152.57,
-            "change": "-0.34%"
+            "price": 153.68,
+            "change": "+2.78%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.56,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
+            0.46,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.5,
             0.51,
+            0.52,
+            0.53,
+            0.52,
             0.51
         ],
         "hsd_history_hardware": [
-            24.41,
-            24.59,
-            24.41,
-            24.46,
-            24.55,
-            24.89,
-            24.84,
-            24.98,
-            25.14,
-            25.6,
-            25.3,
-            25.16
+            25.33,
+            25.72,
+            25.55,
+            25.78,
+            25.29,
+            25.42,
+            25.29,
+            25.45,
+            24.97,
+            25.08,
+            24.9,
+            25.1
         ],
         "hsd_history_software": [
-            8.98,
-            9.11,
-            9.28,
-            9.39,
-            9.51,
-            9.63,
-            9.68,
-            9.82,
-            9.84,
-            10.02,
-            9.91,
-            9.82
+            10.43,
+            10.52,
+            10.39,
+            10.37,
+            10.3,
+            10.48,
+            10.35,
+            10.2,
+            10.04,
+            10.11,
+            10.11,
+            10.19
         ],
         "rci_data": [
             85.0,
-            17.557000000000002
+            17.81
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:33",
+            "time": "20:05",
+            "tag": "MERCADO",
+            "text": "Arista Networks to Announce Q1 2026 Financial Results on Tuesday, May 5, 2026"
+        },
+        {
+            "time": "20:00",
+            "tag": "RESULTADOS",
+            "text": "EPAM Announces Date for First Quarter Earnings Release and Conference Call"
+        },
+        {
+            "time": "19:57",
+            "tag": "MERCADO",
+            "text": "Tower Company SBA Mulling Sale: Report"
+        },
+        {
+            "time": "19:36",
+            "tag": "MERCADO",
+            "text": "Tapestry Appoints Pinterest CTO Matt Madrigal To Board Of Directors"
+        },
+        {
+            "time": "19:27",
             "tag": "AI",
-            "text": "Meta Vs. SMCI: 1 AI Trade, 2 Risk Profiles"
-        },
-        {
-            "time": "18:30",
-            "tag": "MERCADO",
-            "text": "Nutanix-NetApp tie-up aims to cut VM migration to minutes"
-        },
-        {
-            "time": "18:16",
-            "tag": "AI",
-            "text": "The App Killer: How 'Agentic AI' Is Turning Your Smartphone Into A Digital Employee"
-        },
-        {
-            "time": "18:08",
-            "tag": "MERCADO",
-            "text": "Boeing Delivers ViaSat-3 Satellite Ahead Of SpaceX Launch"
-        },
-        {
-            "time": "18:07",
-            "tag": "MERCADO",
-            "text": "Barclays (ATMP) launches leveraged cyber-security basket notes with 15% buffer"
+            "text": "Waystar Announces Industry's First AI Solution Addressing Silent Denials from Payer Payment Take-Backs"
         }
     ]
 }
