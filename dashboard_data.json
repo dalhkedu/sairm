@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-07 13:53 UTC",
+        "last_updated": "2026-04-07 15:12 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 175.95,
-            "change": "+0.16%"
+            "price": 174.38,
+            "change": "+0.73%"
         },
         {
             "symbol": "AMD",
-            "price": 218.75,
-            "change": "+2.18%"
+            "price": 217.95,
+            "change": "-3.42%"
         },
         {
             "symbol": "MSFT",
-            "price": 370.41,
-            "change": "+3.23%"
+            "price": 367.48,
+            "change": "-2.82%"
         },
         {
             "symbol": "CEG",
-            "price": 274.41,
-            "change": "+0.66%"
+            "price": 268.59,
+            "change": "+1.61%"
         },
         {
             "symbol": "VST",
-            "price": 152.22,
-            "change": "+1.02%"
+            "price": 151.09,
+            "change": "-2.78%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
-        "rci_current": 0.18,
+        "cer_current": 0.67,
+        "rci_current": 0.17,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.5,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
             0.51,
             0.5,
-            0.49,
-            0.49,
-            0.49,
             0.5,
             0.5,
             0.5,
-            0.5,
-            0.5
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.79,
-            24.35,
             24.77,
-            25.19,
-            24.94,
-            24.7,
-            24.57,
-            24.6,
-            25.07,
-            25.36,
-            25.15,
-            25.03
+            24.62,
+            24.99,
+            25.17,
+            25.23,
+            25.01,
+            24.73,
+            24.92,
+            25.28,
+            25.09,
+            25.47,
+            25.18
         ],
         "hsd_history_software": [
-            10.31,
-            10.26,
-            10.28,
-            10.29,
-            10.25,
-            10.06,
-            9.93,
-            9.88,
-            9.87,
-            10.03,
+            10.77,
+            10.56,
+            10.36,
+            10.16,
+            10.27,
+            10.08,
+            9.98,
+            9.97,
             9.89,
-            9.95
+            9.92,
+            10.11,
+            10.14
         ],
         "rci_data": [
             85.0,
-            17.595
+            17.438000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:08",
+            "time": "14:53",
             "tag": "MERCADO",
-            "text": "Wells Fargo & Company Begins Coverage on Pinterest (NYSE:PINS)"
+            "text": "Iranian Hacker Group Handala Targets Israel\u2019s UAV Backbone with First-Ever Leaked Photo of Elbit Design Team"
         },
         {
-            "time": "13:08",
+            "time": "14:31",
             "tag": "MERCADO",
-            "text": "Arm Holdings slides as Morgan Stanley downgrades (ARM:NASDAQ)"
+            "text": "IQVIA Holdings Inc. (IQV): Billionaire David Tepper Makes Minor Adjustment"
         },
         {
-            "time": "13:03",
+            "time": "14:21",
             "tag": "MERCADO",
-            "text": "Alloy Therapeutics Enters into Multi-Target Collaboration and License Agreement with Biogen for Use"
+            "text": "How FIS\u2019s New Prediction Market Clearing Launch and Board Streamlining Has Changed Its Investment Story (FIS)"
         },
         {
-            "time": "13:00",
+            "time": "14:20",
             "tag": "MERCADO",
-            "text": "Portnoy Law Firm Announces Class Action on Behalf of PayPal Holdings, Inc. Investors"
+            "text": "Walmart accepting Synchrony CareCredit payments online"
         },
         {
-            "time": "13:00",
+            "time": "14:19",
             "tag": "AI",
-            "text": "Factories and utilities push AI into operations; networks decide scale"
+            "text": "From Strategy to Shelf: How P&G Is Deploying AI"
         }
     ]
 }
