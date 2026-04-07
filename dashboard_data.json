@@ -1,38 +1,38 @@
 {
     "metadata": {
-        "last_updated": "2026-04-07 17:03 UTC",
+        "last_updated": "2026-04-07 19:09 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": NaN,
-            "change": "+0.06%"
+            "price": 175.57,
+            "change": "-2.6%"
         },
         {
             "symbol": "AMD",
-            "price": 219.35,
-            "change": "-1.54%"
+            "price": 217.54,
+            "change": "-0.94%"
         },
         {
             "symbol": "MSFT",
-            "price": 370.86,
-            "change": "+2.72%"
+            "price": 369.22,
+            "change": "-0.7%"
         },
         {
             "symbol": "CEG",
-            "price": 269.2,
-            "change": "+2.0%"
+            "price": 268.16,
+            "change": "+0.69%"
         },
         {
             "symbol": "VST",
-            "price": 151.98,
-            "change": "+0.06%"
+            "price": 152.57,
+            "change": "-0.34%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
-        "rci_current": NaN,
+        "cer_current": 0.58,
+        "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
@@ -40,46 +40,46 @@
             0.53,
             0.53,
             0.53,
+            0.53,
+            0.52,
+            0.53,
+            0.53,
             0.52,
             0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
             0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            23.54,
-            23.2,
-            23.39,
-            23.3,
-            23.16,
-            23.52,
-            23.85,
-            24.0,
-            24.23,
-            24.03,
-            24.52,
-            24.76
+            24.41,
+            24.59,
+            24.41,
+            24.46,
+            24.55,
+            24.89,
+            24.84,
+            24.98,
+            25.14,
+            25.6,
+            25.3,
+            25.16
         ],
         "hsd_history_software": [
-            9.86,
-            9.99,
-            9.87,
-            10.01,
-            9.85,
-            10.01,
-            9.89,
-            9.92,
-            9.79,
-            9.9,
-            9.86,
-            10.01
+            8.98,
+            9.11,
+            9.28,
+            9.39,
+            9.51,
+            9.63,
+            9.68,
+            9.82,
+            9.84,
+            10.02,
+            9.91,
+            9.82
         ],
         "rci_data": [
             85.0,
-            NaN
+            17.557000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:36",
-            "tag": "MERCADO",
-            "text": "Axon Enterprise (AXON) Stock Drops 8% as Legal Risk and Analyst Cuts Pile Up"
+            "time": "18:33",
+            "tag": "AI",
+            "text": "Meta Vs. SMCI: 1 AI Trade, 2 Risk Profiles"
         },
         {
-            "time": "16:27",
+            "time": "18:30",
             "tag": "MERCADO",
-            "text": "CPI Card Group partners with Data Center Inc to expand digital wallet card access"
+            "text": "Nutanix-NetApp tie-up aims to cut VM migration to minutes"
         },
         {
-            "time": "16:18",
-            "tag": "MERCADO",
-            "text": "Arm\u2019s stock is falling, as Morgan Stanley throws cold water on all the Wall Street hype"
+            "time": "18:16",
+            "tag": "AI",
+            "text": "The App Killer: How 'Agentic AI' Is Turning Your Smartphone Into A Digital Employee"
         },
         {
-            "time": "16:16",
+            "time": "18:08",
             "tag": "MERCADO",
-            "text": "Deere & Co agrees to pay $99 million to settle 'right to repair' lawsuit"
+            "text": "Boeing Delivers ViaSat-3 Satellite Ahead Of SpaceX Launch"
         },
         {
-            "time": "16:08",
+            "time": "18:07",
             "tag": "MERCADO",
-            "text": "Deadline Alert: Super Micro Computer, Inc. (SMCI)"
+            "text": "Barclays (ATMP) launches leveraged cyber-security basket notes with 15% buffer"
         }
     ]
 }
