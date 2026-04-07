@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-07 15:12 UTC",
+        "last_updated": "2026-04-07 17:03 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 174.38,
-            "change": "+0.73%"
+            "price": NaN,
+            "change": "+0.06%"
         },
         {
             "symbol": "AMD",
-            "price": 217.95,
-            "change": "-3.42%"
+            "price": 219.35,
+            "change": "-1.54%"
         },
         {
             "symbol": "MSFT",
-            "price": 367.48,
-            "change": "-2.82%"
+            "price": 370.86,
+            "change": "+2.72%"
         },
         {
             "symbol": "CEG",
-            "price": 268.59,
-            "change": "+1.61%"
+            "price": 269.2,
+            "change": "+2.0%"
         },
         {
             "symbol": "VST",
-            "price": 151.09,
-            "change": "-2.78%"
+            "price": 151.98,
+            "change": "+0.06%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
-        "rci_current": 0.17,
+        "cer_current": 0.51,
+        "rci_current": NaN,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.53,
+            0.53,
+            0.53,
+            0.53,
             0.52,
             0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.52,
+            0.52,
+            0.52,
             0.51,
             0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            24.77,
-            24.62,
-            24.99,
-            25.17,
-            25.23,
-            25.01,
-            24.73,
-            24.92,
-            25.28,
-            25.09,
-            25.47,
-            25.18
+            23.54,
+            23.2,
+            23.39,
+            23.3,
+            23.16,
+            23.52,
+            23.85,
+            24.0,
+            24.23,
+            24.03,
+            24.52,
+            24.76
         ],
         "hsd_history_software": [
-            10.77,
-            10.56,
-            10.36,
-            10.16,
-            10.27,
-            10.08,
-            9.98,
-            9.97,
+            9.86,
+            9.99,
+            9.87,
+            10.01,
+            9.85,
+            10.01,
             9.89,
             9.92,
-            10.11,
-            10.14
+            9.79,
+            9.9,
+            9.86,
+            10.01
         ],
         "rci_data": [
             85.0,
-            17.438000000000002
+            NaN
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:53",
+            "time": "16:36",
             "tag": "MERCADO",
-            "text": "Iranian Hacker Group Handala Targets Israel\u2019s UAV Backbone with First-Ever Leaked Photo of Elbit Design Team"
+            "text": "Axon Enterprise (AXON) Stock Drops 8% as Legal Risk and Analyst Cuts Pile Up"
         },
         {
-            "time": "14:31",
+            "time": "16:27",
             "tag": "MERCADO",
-            "text": "IQVIA Holdings Inc. (IQV): Billionaire David Tepper Makes Minor Adjustment"
+            "text": "CPI Card Group partners with Data Center Inc to expand digital wallet card access"
         },
         {
-            "time": "14:21",
+            "time": "16:18",
             "tag": "MERCADO",
-            "text": "How FIS\u2019s New Prediction Market Clearing Launch and Board Streamlining Has Changed Its Investment Story (FIS)"
+            "text": "Arm\u2019s stock is falling, as Morgan Stanley throws cold water on all the Wall Street hype"
         },
         {
-            "time": "14:20",
+            "time": "16:16",
             "tag": "MERCADO",
-            "text": "Walmart accepting Synchrony CareCredit payments online"
+            "text": "Deere & Co agrees to pay $99 million to settle 'right to repair' lawsuit"
         },
         {
-            "time": "14:19",
-            "tag": "AI",
-            "text": "From Strategy to Shelf: How P&G Is Deploying AI"
+            "time": "16:08",
+            "tag": "MERCADO",
+            "text": "Deadline Alert: Super Micro Computer, Inc. (SMCI)"
         }
     ]
 }
