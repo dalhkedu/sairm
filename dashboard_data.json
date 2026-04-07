@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-06 23:39 UTC",
+        "last_updated": "2026-04-07 02:42 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 177.64,
-            "change": "+1.79%"
+            "change": "-1.96%"
         },
         {
             "symbol": "AMD",
             "price": 220.18,
-            "change": "+0.64%"
+            "change": "-2.83%"
         },
         {
             "symbol": "MSFT",
             "price": 372.88,
-            "change": "-0.22%"
+            "change": "+2.91%"
         },
         {
             "symbol": "CEG",
             "price": 275.16,
-            "change": "-1.95%"
+            "change": "+1.37%"
         },
         {
             "symbol": "VST",
             "price": 151.59,
-            "change": "-2.69%"
+            "change": "+2.93%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.54,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
             0.51,
             0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
             0.49,
             0.5,
             0.5,
             0.5,
-            0.51
+            0.49,
+            0.5,
+            0.51,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.38,
-            24.67,
-            24.68,
-            24.76,
-            25.14,
-            24.75,
-            24.75,
-            24.75,
-            25.03,
-            25.13,
-            24.72,
-            24.64
+            25.96,
+            26.09,
+            25.77,
+            25.93,
+            26.14,
+            25.73,
+            25.54,
+            25.42,
+            25.11,
+            24.94,
+            25.4,
+            25.11
         ],
         "hsd_history_software": [
-            9.79,
-            9.83,
-            9.82,
-            9.99,
-            10.02,
-            9.94,
-            9.86,
-            10.04,
-            9.88,
-            9.95,
-            10.01,
-            9.99
+            10.66,
+            10.59,
+            10.64,
+            10.47,
+            10.51,
+            10.48,
+            10.36,
+            10.4,
+            10.44,
+            10.37,
+            10.21,
+            10.17
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:09",
-            "tag": "AI",
-            "text": "Datasea Inc stock: What investors need to know about this AI and 5G play"
-        },
-        {
-            "time": "21:56",
+            "time": "01:29",
             "tag": "MERCADO",
-            "text": "Grain Management wants to use 800 MHz for satellite D2D"
+            "text": "Cadence Announces First Quarter 2026 Financial Results Webcast"
         },
         {
-            "time": "21:35",
+            "time": "01:07",
             "tag": "MERCADO",
-            "text": "Siyata Mobile Inc stock: What investors need to know in push-to-talk markets"
+            "text": "Inforich Inc.(TSE: 9338) dropped from S&P Global BMI Index"
         },
         {
-            "time": "21:23",
+            "time": "01:02",
             "tag": "MERCADO",
-            "text": "Broadcom to supply custom TPUs and networking components to Google, expands Anthropic compute access"
+            "text": "HII eyes shipyard robots to speed coating, blasting and inspection"
         },
         {
-            "time": "21:22",
-            "tag": "AI",
-            "text": "Broadcom (NASDAQ: AVGO) expands Google, Anthropic AI TPU and networking deals"
+            "time": "01:01",
+            "tag": "MERCADO",
+            "text": "Netflix just added free games for kids to your subscription. Here\u2019s how to access them"
+        },
+        {
+            "time": "00:37",
+            "tag": "MERCADO",
+            "text": "Technological Investments & Acquisitions Aid Aptiv Amid Rising Costs"
         }
     ]
 }
