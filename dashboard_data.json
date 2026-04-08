@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-08 07:25 UTC",
+        "last_updated": "2026-04-08 09:05 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 178.1,
-            "change": "+1.7%"
+            "change": "+2.84%"
         },
         {
             "symbol": "AMD",
             "price": 221.53,
-            "change": "-0.67%"
+            "change": "-0.85%"
         },
         {
             "symbol": "MSFT",
             "price": 372.29,
-            "change": "-2.2%"
+            "change": "-0.73%"
         },
         {
             "symbol": "CEG",
             "price": 272.58,
-            "change": "-1.69%"
+            "change": "+1.24%"
         },
         {
             "symbol": "VST",
-            "price": NaN,
-            "change": "+0.57%"
+            "price": 153.68,
+            "change": "+2.97%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.69,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
             0.51,
             0.51,
+            0.5,
             0.5,
             0.49,
             0.5,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.24,
-            24.36,
-            24.76,
-            24.41,
-            24.33,
-            24.44,
-            24.42,
-            24.14,
-            24.13,
-            24.08,
-            24.38,
-            24.85
+            23.69,
+            23.75,
+            23.66,
+            24.11,
+            23.77,
+            23.68,
+            23.73,
+            23.53,
+            23.93,
+            24.29,
+            24.47,
+            24.55
         ],
         "hsd_history_software": [
-            9.39,
-            9.4,
-            9.33,
-            9.3,
-            9.28,
-            9.37,
-            9.56,
-            9.43,
-            9.55,
-            9.72,
-            9.79,
-            9.82
+            10.21,
+            10.04,
+            10.06,
+            10.01,
+            10.1,
+            10.13,
+            10.01,
+            10.12,
+            10.08,
+            9.94,
+            10.01,
+            9.97
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:28",
+            "time": "08:35",
             "tag": "MERCADO",
-            "text": "Applied Materials, Inc. stock: What you should know now for smart investing"
+            "text": "Halozyme and Vertex sign deal for Hypercon technology"
         },
         {
-            "time": "06:10",
-            "tag": "AI",
-            "text": "GE HealthCare And Stanford Deepen AI Imaging Ties For Future Products"
+            "time": "08:23",
+            "tag": "MERCADO",
+            "text": "Cane Capital Partners LLC Makes New Investment in International Business Machines Corporation $IBM"
         },
         {
-            "time": "05:39",
+            "time": "08:23",
             "tag": "MERCADO",
-            "text": "Real Asset Acquisition Advances IQM Quantum SPAC Merger Process"
+            "text": "Cane Capital Partners LLC Takes Position in Qualcomm Incorporated $QCOM"
         },
         {
-            "time": "05:00",
+            "time": "08:13",
             "tag": "MERCADO",
-            "text": "Microchip Technology Earns IEC 62443-4-1 ML2 Certification for Secure Product Development"
+            "text": "Ethos Capital Management Inc. Invests $1.27 Million in AT&T Inc. $T"
         },
         {
-            "time": "04:50",
+            "time": "08:13",
             "tag": "MERCADO",
-            "text": "Advanced Micro Devices Stock 5-Day Winning Spree: Stock Climbs 13%"
+            "text": "Boomfish Wealth Group LLC Buys 13,424 Shares of ServiceNow, Inc. $NOW"
         }
     ]
 }
