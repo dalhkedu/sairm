@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-08 22:42 UTC",
+        "last_updated": "2026-04-08 23:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.08,
-            "change": "-2.48%"
+            "change": "+2.42%"
         },
         {
             "symbol": "AMD",
             "price": 231.82,
-            "change": "+2.26%"
+            "change": "-3.38%"
         },
         {
             "symbol": "MSFT",
             "price": 374.33,
-            "change": "+0.42%"
+            "change": "-1.2%"
         },
         {
             "symbol": "CEG",
             "price": 284.27,
-            "change": "-2.81%"
+            "change": "+3.45%"
         },
         {
             "symbol": "VST",
             "price": 155.89,
-            "change": "+1.16%"
+            "change": "-2.66%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.66,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.49,
             0.49,
-            0.5,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            26.1,
-            25.81,
-            25.86,
-            25.57,
-            25.86,
-            25.66,
-            25.72,
-            25.61,
-            25.58,
-            25.68,
-            25.88,
-            25.43
+            23.4,
+            23.78,
+            23.38,
+            23.52,
+            23.38,
+            23.83,
+            24.2,
+            24.09,
+            24.44,
+            24.62,
+            24.55,
+            24.93
         ],
         "hsd_history_software": [
-            10.46,
+            10.03,
+            10.13,
+            9.94,
+            9.88,
+            10.04,
+            10.14,
             10.25,
-            10.28,
-            10.49,
-            10.32,
-            10.27,
-            10.25,
-            10.07,
-            10.05,
-            9.93,
             10.11,
-            10.03
+            9.92,
+            10.0,
+            10.15,
+            9.95
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:55",
-            "tag": "MERCADO",
-            "text": "Arista Networks Inc. stock: Why it's drawing investor attention now"
-        },
-        {
-            "time": "21:42",
-            "tag": "MERCADO",
-            "text": "Qualcomm (NASDAQ:QCOM) Trading 2.8% Higher - Should You Buy?"
-        },
-        {
-            "time": "21:41",
+            "time": "23:05",
             "tag": "AI",
-            "text": "Aecom builds Singapore\u2019s first AI-enabled sustainable design optioneering ecosystem"
+            "text": "CGNX stock +4.04% to $53.78 NASDAQ 08 Apr 2026: AI demand supports Cognex"
         },
         {
-            "time": "21:40",
-            "tag": "MERCADO",
-            "text": "Corning Inc. stock outperforms competitors on strong trading day"
+            "time": "22:35",
+            "tag": "RESULTADOS",
+            "text": "Crown Castle Announces Q1 2026 Earnings Call Details"
         },
         {
-            "time": "21:37",
+            "time": "22:35",
+            "tag": "AI",
+            "text": "Axon Enterprise (AXON) Surges on AI Tool Launch at Annual Conference"
+        },
+        {
+            "time": "22:19",
             "tag": "MERCADO",
-            "text": "Anduril, Lockheed, Northrop Among 14 Winners on $1.84B Andromeda Contract"
+            "text": "Seagate stock draws investor attention as Morgan Stanley sees strong storage drive demand through 2028"
+        },
+        {
+            "time": "22:15",
+            "tag": "MERCADO",
+            "text": "Insider Sell: Elizabeth Porter Sells 2,000 Shares of Leidos Holdings Inc (LDOS)"
         }
     ]
 }
