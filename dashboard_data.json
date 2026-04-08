@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-08 09:05 UTC",
+        "last_updated": "2026-04-08 11:00 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 178.1,
-            "change": "+2.84%"
+            "change": "-1.52%"
         },
         {
             "symbol": "AMD",
             "price": 221.53,
-            "change": "-0.85%"
+            "change": "-0.39%"
         },
         {
             "symbol": "MSFT",
             "price": 372.29,
-            "change": "-0.73%"
+            "change": "-0.45%"
         },
         {
             "symbol": "CEG",
             "price": 272.58,
-            "change": "+1.24%"
+            "change": "+0.98%"
         },
         {
             "symbol": "VST",
             "price": 153.68,
-            "change": "+2.97%"
+            "change": "+1.17%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.41,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
+            0.49,
             0.49,
             0.5,
             0.51,
-            0.5
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            23.69,
-            23.75,
-            23.66,
-            24.11,
-            23.77,
-            23.68,
+            23.64,
+            23.91,
+            23.76,
+            23.41,
             23.73,
-            23.53,
-            23.93,
-            24.29,
-            24.47,
-            24.55
+            23.72,
+            23.49,
+            23.85,
+            24.2,
+            24.01,
+            24.12,
+            24.57
         ],
         "hsd_history_software": [
-            10.21,
-            10.04,
-            10.06,
-            10.01,
-            10.1,
-            10.13,
-            10.01,
-            10.12,
-            10.08,
-            9.94,
-            10.01,
-            9.97
+            9.91,
+            9.75,
+            9.73,
+            9.71,
+            9.77,
+            9.85,
+            9.83,
+            9.78,
+            9.74,
+            9.7,
+            9.64,
+            9.83
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:35",
+            "time": "10:09",
             "tag": "MERCADO",
-            "text": "Halozyme and Vertex sign deal for Hypercon technology"
+            "text": "Here\u2019s Why Jefferies Remains a Buy on Wells Fargo & Company (WFC)"
         },
         {
-            "time": "08:23",
+            "time": "10:05",
             "tag": "MERCADO",
-            "text": "Cane Capital Partners LLC Makes New Investment in International Business Machines Corporation $IBM"
+            "text": "Kroger brings its near-expired food to Flashfood app in 100-plus stores"
         },
         {
-            "time": "08:23",
+            "time": "10:00",
             "tag": "MERCADO",
-            "text": "Cane Capital Partners LLC Takes Position in Qualcomm Incorporated $QCOM"
+            "text": "Huntington National Bank Selects SEI Wealth Platform"
         },
         {
-            "time": "08:13",
+            "time": "09:54",
             "tag": "MERCADO",
-            "text": "Ethos Capital Management Inc. Invests $1.27 Million in AT&T Inc. $T"
+            "text": "Intuitive Surgical, Inc. stock: What you should know now before buying"
         },
         {
-            "time": "08:13",
-            "tag": "MERCADO",
-            "text": "Boomfish Wealth Group LLC Buys 13,424 Shares of ServiceNow, Inc. $NOW"
+            "time": "09:48",
+            "tag": "AI",
+            "text": "Uber Expands AWS Partnership with Custom AI Chips for Real-Time Operations"
         }
     ]
 }
