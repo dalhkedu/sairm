@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-08 19:21 UTC",
+        "last_updated": "2026-04-08 20:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 181.79,
-            "change": "-1.9%"
+            "price": NaN,
+            "change": "-1.29%"
         },
         {
             "symbol": "AMD",
-            "price": 230.45,
-            "change": "+0.9%"
+            "price": 231.82,
+            "change": "-3.46%"
         },
         {
             "symbol": "MSFT",
-            "price": 371.61,
-            "change": "-0.06%"
+            "price": 374.33,
+            "change": "-0.46%"
         },
         {
             "symbol": "CEG",
-            "price": 283.19,
-            "change": "-1.93%"
+            "price": 284.27,
+            "change": "+1.79%"
         },
         {
             "symbol": "VST",
-            "price": 156.44,
-            "change": "-0.72%"
+            "price": 155.89,
+            "change": "+1.97%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
-        "rci_current": 0.18,
+        "cer_current": 0.56,
+        "rci_current": NaN,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
             0.51,
             0.5,
             0.5,
             0.5,
-            0.5,
-            0.49,
-            0.5,
+            0.51,
+            0.51,
             0.51,
             0.52,
             0.51,
-            0.51
+            0.52,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.55,
-            24.54,
+            24.73,
             24.89,
-            25.17,
+            25.15,
+            25.28,
+            25.43,
+            25.28,
+            24.88,
+            25.2,
             24.84,
-            25.24,
-            25.14,
-            25.44,
             25.17,
-            25.44,
-            25.21,
-            25.27
+            25.39,
+            25.12
         ],
         "hsd_history_software": [
-            10.08,
-            9.92,
+            10.21,
+            10.11,
+            10.18,
+            10.1,
+            9.9,
+            9.99,
+            9.81,
             9.93,
-            9.79,
-            9.77,
-            9.87,
-            10.03,
-            9.83,
+            9.84,
             9.85,
-            10.03,
-            10.15,
-            10.12
+            9.94,
+            10.13
         ],
         "rci_data": [
             85.0,
-            18.179
+            NaN
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:16",
+            "time": "20:05",
             "tag": "MERCADO",
-            "text": "Qualcomm shares jump as stock buying pressure builds"
+            "text": "ServiceNow (NYSE:NOW) Sets New 1-Year Low on Analyst Downgrade"
         },
         {
-            "time": "18:11",
+            "time": "19:59",
             "tag": "MERCADO",
-            "text": "Polyester Sleep Pillow Market Size, Share & By Top Companies- Tempur Sealy International, Inc., Serta Simmons Bedding, LLC, Sleep Number Corporation, My Pillow, Inc."
+            "text": "Booking Holdings stock price target raised to $260 by Tigress Financial"
         },
         {
-            "time": "17:44",
+            "time": "19:37",
             "tag": "MERCADO",
-            "text": "Ad watchdog sides with Verizon in complaint raised by T-Mobile"
+            "text": "Is It Too Late To Reassess Western Digital (WDC) After Its Recent Share Price Surge?"
         },
         {
-            "time": "17:35",
-            "tag": "MERCADO",
-            "text": "10 Information Technology Stocks Whale Activity In Today's Session"
+            "time": "19:37",
+            "tag": "AI",
+            "text": "Applied Materials Targets AI Growth With New GAA Chipmaking Systems"
         },
         {
-            "time": "17:32",
+            "time": "19:19",
             "tag": "MERCADO",
-            "text": "Redwire (RDW) Is Up 13.5% After ESA Quantum-Secure Satellite Win and New UK Defence Hub"
+            "text": "Oracle axes over 700 workers \u2014 the first wave in a bloodbath that could engulf 30K"
         }
     ]
 }
