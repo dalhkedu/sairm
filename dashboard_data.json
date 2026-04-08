@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-08 02:43 UTC",
+        "last_updated": "2026-04-08 05:14 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 178.1,
-            "change": "-0.45%"
+            "change": "+0.66%"
         },
         {
             "symbol": "AMD",
             "price": 221.53,
-            "change": "+1.87%"
+            "change": "-0.69%"
         },
         {
             "symbol": "MSFT",
             "price": 372.29,
-            "change": "+2.68%"
+            "change": "-2.7%"
         },
         {
             "symbol": "CEG",
-            "price": 272.58,
-            "change": "-2.18%"
+            "price": NaN,
+            "change": "-2.56%"
         },
         {
             "symbol": "VST",
             "price": 153.68,
-            "change": "+2.21%"
+            "change": "+1.64%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.51,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.5,
             0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
             0.5,
             0.51,
             0.51,
-            0.52,
-            0.51,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            23.67,
-            24.07,
-            23.98,
-            24.43,
-            24.05,
-            24.2,
-            24.62,
-            24.63,
-            25.06,
-            24.74,
-            24.72,
-            24.55
+            25.21,
+            25.6,
+            25.92,
+            25.58,
+            25.1,
+            24.88,
+            24.47,
+            24.85,
+            24.53,
+            24.97,
+            24.65,
+            25.04
         ],
         "hsd_history_software": [
-            10.03,
+            9.74,
             9.85,
-            9.89,
-            10.03,
-            10.21,
-            10.18,
-            10.05,
-            9.93,
+            9.67,
             9.81,
-            9.97,
+            9.88,
             9.82,
-            9.83
+            9.98,
+            9.95,
+            9.8,
+            9.93,
+            10.13,
+            10.18
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:43",
+            "time": "04:09",
             "tag": "MERCADO",
-            "text": "New and improved Republic recycling opens in Peabody"
+            "text": "Application Delivery Controller (ADC) Market Is Going to Boom |\u2022 F5 Networks \u2022 Citrix Systems"
         },
         {
-            "time": "01:32",
+            "time": "03:44",
             "tag": "MERCADO",
-            "text": "Integrated Media Technology (IMTE) director Whelan files initial Form 3"
+            "text": "Microchip Hybrid MCU Targeted at Automotive, E-Mobility HMI Applications"
         },
         {
-            "time": "01:31",
+            "time": "03:29",
             "tag": "MERCADO",
-            "text": "Does BD\u2019s New Connected Monitoring And Medication Tools Meaningfully Shift The Bull Case For BDX?"
+            "text": "Onvo L90 to Adopt Nio's In-house Developed Shenji Smart Driving Chip, Report Says"
         },
         {
-            "time": "01:10",
+            "time": "03:13",
             "tag": "MERCADO",
-            "text": "Workday (WDAY) president sells 5373 shares, still holds 165414 plus RSUs"
+            "text": "(MDU) as a Liquidity Pulse for Institutional Tactics"
         },
         {
-            "time": "00:55",
+            "time": "03:08",
             "tag": "MERCADO",
-            "text": "HubSpot's Strategic Pivot: Aligning Monetization with Measurable Outcomes"
+            "text": "NYSE Content Update: Starfish Space Adds Over $100 Million in Funding to Boost Growth"
         }
     ]
 }
