@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-09 07:42 UTC",
+        "last_updated": "2026-04-09 09:12 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.08,
-            "change": "+2.93%"
+            "change": "+0.73%"
         },
         {
             "symbol": "AMD",
             "price": 231.82,
-            "change": "+1.05%"
+            "change": "-0.34%"
         },
         {
             "symbol": "MSFT",
             "price": 374.33,
-            "change": "+1.99%"
+            "change": "-0.13%"
         },
         {
             "symbol": "CEG",
             "price": 284.27,
-            "change": "+1.96%"
+            "change": "-1.92%"
         },
         {
             "symbol": "VST",
             "price": 155.89,
-            "change": "+1.52%"
+            "change": "-0.98%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.65,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
             0.5,
-            0.51,
-            0.51,
             0.5,
-            0.51,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
             0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.52,
-            0.51,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            25.37,
-            25.48,
-            25.15,
-            25.42,
-            25.24,
-            25.31,
             24.91,
-            25.41,
-            25.14,
-            24.7,
-            24.99,
-            24.51
+            24.44,
+            24.69,
+            24.77,
+            24.74,
+            24.88,
+            24.76,
+            24.61,
+            24.54,
+            24.78,
+            24.5,
+            24.71
         ],
         "hsd_history_software": [
-            10.59,
-            10.7,
-            10.64,
-            10.49,
-            10.43,
-            10.45,
-            10.36,
-            10.28,
-            10.29,
-            10.19,
-            10.01,
-            10.14
+            9.97,
+            9.85,
+            9.89,
+            10.06,
+            10.13,
+            10.14,
+            9.97,
+            9.9,
+            9.9,
+            9.93,
+            10.0,
+            10.15
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:02",
+            "time": "08:55",
             "tag": "MERCADO",
-            "text": "Broadridge's Distributed Ledger Repo Achieves 392% Year Over Year Growth; Processes $8 Trillion in March"
+            "text": "SK Telecom, KT, LG U+ subscribers to have access to basic data on phones after monthly limit expires"
         },
         {
-            "time": "06:51",
+            "time": "08:27",
             "tag": "MERCADO",
-            "text": "Fortinet, Inc. (NASDAQ:FTNT) Given Consensus Recommendation of \"Hold\" by Brokerages"
+            "text": "Cisco Systems, Inc. $CSCO Stake Increased by Franklin Street Advisors Inc. NC"
         },
         {
-            "time": "06:34",
+            "time": "08:23",
             "tag": "MERCADO",
-            "text": "Morgan Stanley Raises Western Digital Price Target to $380"
+            "text": "Greenleaf Trust Buys 15,426 Shares of ServiceNow, Inc. $NOW"
         },
         {
-            "time": "06:15",
+            "time": "08:10",
             "tag": "MERCADO",
-            "text": "PTC Inc. (NASDAQ:PTC) Given Average Rating of \"Moderate Buy\" by Analysts"
+            "text": "United Microelectronics stock: March sales up 4.89% \u2014 what it means for you"
         },
         {
-            "time": "06:06",
+            "time": "07:59",
             "tag": "MERCADO",
-            "text": "Better Value & Growth: MU Leads Analog Devices Stock"
+            "text": "Aberdeen Group Reduces Align Technology Holdings"
         }
     ]
 }
