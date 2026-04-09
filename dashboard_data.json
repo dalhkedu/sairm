@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-09 17:11 UTC",
+        "last_updated": "2026-04-09 19:12 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 183.73,
-            "change": "+2.9%"
+            "price": 183.74,
+            "change": "-1.62%"
         },
         {
             "symbol": "AMD",
-            "price": 234.42,
-            "change": "+1.9%"
+            "price": 236.83,
+            "change": "-3.49%"
         },
         {
             "symbol": "MSFT",
-            "price": 372.65,
-            "change": "+2.21%"
+            "price": 371.13,
+            "change": "+0.24%"
         },
         {
             "symbol": "CEG",
-            "price": 290.57,
-            "change": "+1.91%"
+            "price": 284.71,
+            "change": "+0.71%"
         },
         {
             "symbol": "VST",
-            "price": 159.38,
-            "change": "+2.7%"
+            "price": 155.35,
+            "change": "-3.11%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.53,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
+            0.49,
+            0.49,
             0.49,
             0.5,
+            0.5,
+            0.51,
+            0.52,
+            0.53,
+            0.52,
+            0.51,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            26.74,
-            26.46,
-            26.91,
-            27.1,
-            26.67,
-            26.79,
-            26.76,
-            26.24,
-            25.99,
-            25.91,
-            25.52,
-            25.36
+            25.26,
+            25.38,
+            25.12,
+            24.84,
+            25.25,
+            25.6,
+            25.62,
+            25.39,
+            25.4,
+            25.01,
+            25.21,
+            25.14
         ],
         "hsd_history_software": [
-            9.81,
-            9.7,
-            9.84,
-            9.82,
-            9.95,
-            10.06,
+            9.47,
+            9.55,
+            9.58,
+            9.77,
+            9.92,
             10.02,
-            9.86,
+            9.95,
+            9.89,
+            9.92,
+            9.77,
             9.91,
-            9.88,
-            9.94,
-            10.1
+            10.04
         ],
         "rci_data": [
             85.0,
-            18.372999999999998
+            18.374000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:33",
-            "tag": "MERCADO",
-            "text": "Reltio Named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Master Data Management Solutions"
+            "time": "18:39",
+            "tag": "AI",
+            "text": "SAIC Appoints AI Expert Paul Eremenko and Cybersecurity Leader Admiral Mike Rogers to Board of Directors"
         },
         {
-            "time": "16:30",
+            "time": "18:39",
             "tag": "MERCADO",
-            "text": "F5, AppLovin, Flywire, Commvault, and Freshworks Shares Are Falling, What You Need To Know"
+            "text": "SailPoint appoints Levent Besik as Chief Product Officer"
         },
         {
-            "time": "16:20",
+            "time": "18:39",
             "tag": "MERCADO",
-            "text": "Texas Instruments Inc Stock (TXN) Moved Up by 3.07% on Apr 9: What Signal Does It Send?"
+            "text": "Canada's RBC plans to deploy up to C$1 billion to support homegrown companies"
         },
         {
-            "time": "16:19",
-            "tag": "MERCADO",
-            "text": "Adobe Inc Stock (ADBE) Moved Down by 4.19% on Apr 9: Facts Behind the Movement"
+            "time": "18:36",
+            "tag": "AI",
+            "text": "Texas Instruments Joins NVIDIA To Target Humanoid Robots And AI Infrastructure"
         },
         {
-            "time": "16:16",
+            "time": "18:22",
             "tag": "MERCADO",
-            "text": "Energy Vault Expands into Japan with 850 MW Energy Storage Portfolio Acquisition"
+            "text": "Tesla's lower-cost EV plan seen boosting volume, risking margins"
         }
     ]
 }
