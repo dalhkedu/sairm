@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-09 11:02 UTC",
+        "last_updated": "2026-04-09 13:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 182.08,
-            "change": "+3.46%"
+            "price": 181.66,
+            "change": "-1.32%"
         },
         {
             "symbol": "AMD",
-            "price": 231.82,
-            "change": "-1.8%"
+            "price": 235.13,
+            "change": "+0.97%"
         },
         {
             "symbol": "MSFT",
-            "price": 374.33,
-            "change": "-0.24%"
+            "price": 369.54,
+            "change": "-1.22%"
         },
         {
             "symbol": "CEG",
-            "price": 284.27,
-            "change": "+2.56%"
+            "price": 288.77,
+            "change": "-3.38%"
         },
         {
             "symbol": "VST",
-            "price": 155.89,
-            "change": "+0.32%"
+            "price": 160.76,
+            "change": "+1.57%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.62,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
+            0.48,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
             0.51,
             0.5,
+            0.49,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            23.34,
-            22.88,
-            23.22,
-            22.8,
-            23.12,
-            23.45,
-            23.75,
-            23.69,
-            23.81,
-            24.27,
-            24.76,
-            24.99
+            24.83,
+            24.39,
+            24.05,
+            24.29,
+            24.51,
+            24.52,
+            25.0,
+            25.45,
+            25.72,
+            25.71,
+            25.84,
+            25.49
         ],
         "hsd_history_software": [
-            9.47,
-            9.48,
-            9.66,
-            9.8,
-            9.81,
-            9.84,
-            9.86,
-            9.88,
-            9.69,
-            9.82,
-            9.93,
-            10.06
+            9.62,
+            9.79,
+            9.61,
+            9.56,
+            9.56,
+            9.61,
+            9.76,
+            9.83,
+            10.01,
+            9.97,
+            10.11,
+            10.19
         ],
         "rci_data": [
             85.0,
-            18.208000000000002
+            18.166
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:39",
+            "time": "13:09",
             "tag": "MERCADO",
-            "text": "Global X Blockchain ETF Review and Aggregate Rating (BKCH)"
+            "text": "Fidelity Fundamental Large Cap Growth ETF"
         },
         {
-            "time": "10:36",
+            "time": "13:07",
             "tag": "MERCADO",
-            "text": "Verizon Communications (NYSE:VZ) Downgraded by Dbs Bank to \"Hold\""
+            "text": "Thermo Fisher Scientific Partners PRECISE To Advance Singapore\u2019s Landmark SG100K Biobank Study"
         },
         {
-            "time": "10:36",
+            "time": "13:05",
             "tag": "MERCADO",
-            "text": "Oak Thistle LLC Invests $1.67 Million in Aptiv PLC $APTV"
+            "text": "eBay Opens The NYC Edit Market, an IRL Experience Where Selling Unlocks Access to Shopping"
         },
         {
-            "time": "10:36",
-            "tag": "MERCADO",
-            "text": "60,769 Shares in Gen Digital Inc. $GEN Acquired by Oak Thistle LLC"
+            "time": "13:04",
+            "tag": "AI",
+            "text": "Autodesk launches Product Help MCP Server to bring trusted documentation to AI assistants"
         },
         {
-            "time": "10:22",
-            "tag": "MERCADO",
-            "text": "Hunter Associates Investment Management LLC Cuts Holdings in Texas Instruments Incorporated $TXN"
+            "time": "13:02",
+            "tag": "AI",
+            "text": "ServiceNow embeds AI across the platform with Context Engine"
         }
     ]
 }
