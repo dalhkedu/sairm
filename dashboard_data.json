@@ -1,37 +1,37 @@
 {
     "metadata": {
-        "last_updated": "2026-04-09 02:37 UTC",
+        "last_updated": "2026-04-09 05:12 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 182.08,
-            "change": "+3.45%"
+            "change": "-2.82%"
         },
         {
             "symbol": "AMD",
             "price": 231.82,
-            "change": "-0.37%"
+            "change": "-0.78%"
         },
         {
             "symbol": "MSFT",
             "price": 374.33,
-            "change": "-3.06%"
+            "change": "+1.62%"
         },
         {
             "symbol": "CEG",
             "price": 284.27,
-            "change": "+2.87%"
+            "change": "+2.42%"
         },
         {
             "symbol": "VST",
             "price": 155.89,
-            "change": "+2.83%"
+            "change": "+1.26%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.52,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
@@ -39,43 +39,43 @@
             0.49,
             0.49,
             0.49,
-            0.5,
-            0.49,
-            0.49,
             0.49,
             0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.21,
-            25.55,
-            25.36,
-            25.3,
-            25.43,
-            25.7,
-            25.43,
-            25.77,
-            26.2,
-            25.76,
-            25.29,
-            25.03
+            26.5,
+            25.99,
+            26.26,
+            26.19,
+            26.52,
+            26.53,
+            26.18,
+            25.82,
+            25.84,
+            25.62,
+            25.62,
+            25.42
         ],
         "hsd_history_software": [
-            9.71,
-            9.71,
-            9.88,
-            10.05,
-            10.09,
-            10.0,
-            9.9,
-            9.88,
+            9.83,
+            10.01,
+            10.19,
             10.04,
-            10.09,
-            10.04,
-            10.06
+            10.16,
+            9.97,
+            10.08,
+            10.2,
+            10.07,
+            10.02,
+            10.06,
+            9.93
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:10",
+            "time": "04:40",
             "tag": "MERCADO",
-            "text": "InterDigital Signs Patent Licensing Agreements With Buffalo, TV Maker"
+            "text": "INVESTOR NOTICE: ODDITY Tech. (ODD) Investors with"
         },
         {
-            "time": "02:10",
+            "time": "04:40",
             "tag": "MERCADO",
-            "text": "Infleqtion (NYSE: INFQ) guides 2026 revenue to $40M as losses narrow"
+            "text": "OFA Group announces board changes with appointment of Erwin Baquiran Pineda"
         },
         {
-            "time": "02:09",
-            "tag": "AI",
-            "text": "HSAI Financials: Revenue Breakdown, Margins & Competitor Comparison"
+            "time": "04:40",
+            "tag": "MERCADO",
+            "text": "[8-K] New ERA Energy & Digital, Inc. Reports Material Event"
         },
         {
-            "time": "01:40",
+            "time": "04:39",
             "tag": "MERCADO",
-            "text": "Assessing Abbott Laboratories (ABT) Valuation After Precision Oncology Integration With Flatiron Health"
+            "text": "New Era Energy & Digital Secures $290M Credit Facility"
         },
         {
-            "time": "01:39",
+            "time": "04:39",
             "tag": "MERCADO",
-            "text": "Gorilla Technology (GRRR) CTO details RSU and share holdings"
+            "text": "New Era Energy & Digital stock surges 23% on $290M loan deal"
         }
     ]
 }
