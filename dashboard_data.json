@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-10 05:28 UTC",
+        "last_updated": "2026-04-10 07:46 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.91,
-            "change": "-1.88%"
+            "change": "-0.55%"
         },
         {
             "symbol": "AMD",
             "price": 236.64,
-            "change": "+2.32%"
+            "change": "+0.04%"
         },
         {
             "symbol": "MSFT",
             "price": 373.07,
-            "change": "-0.19%"
+            "change": "-2.84%"
         },
         {
             "symbol": "CEG",
             "price": 280.25,
-            "change": "+0.96%"
+            "change": "-0.62%"
         },
         {
             "symbol": "VST",
             "price": 152.75,
-            "change": "+3.42%"
+            "change": "+1.31%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.61,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
             0.5,
             0.5,
             0.51,
             0.5,
+            0.51,
+            0.51,
+            0.51,
             0.5,
-            0.5
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.08,
-            25.68,
-            25.9,
+            26.5,
+            26.29,
+            25.8,
+            25.72,
+            25.47,
+            24.97,
+            24.65,
+            24.55,
+            24.61,
+            25.05,
             25.42,
-            25.12,
-            25.21,
-            24.98,
-            25.19,
-            25.34,
-            24.95,
-            24.67,
-            24.88
+            25.09
         ],
         "hsd_history_software": [
-            10.98,
-            10.9,
-            10.87,
-            10.8,
-            10.63,
-            10.5,
-            10.41,
-            10.48,
-            10.36,
-            10.18,
-            10.14,
-            9.98
+            10.53,
+            10.47,
+            10.34,
+            10.37,
+            10.43,
+            10.27,
+            10.32,
+            10.47,
+            10.28,
+            10.13,
+            9.96,
+            9.91
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:37",
-            "tag": "AI",
-            "text": "Labcorp Expands Specialized Testing As AI Efficiencies Shape Valuation Story"
-        },
-        {
-            "time": "04:10",
+            "time": "06:57",
             "tag": "MERCADO",
-            "text": "Advanced Micro Devices Stock Soars 13% In A Single Week, Wait For A Dip To Buy The Stock"
+            "text": "Simulations Plus, Children's Place And 3 Stocks To Watch Heading Into Friday"
         },
         {
-            "time": "04:09",
-            "tag": "AI",
-            "text": "How Satellite-Enabled APX NEXT Radios and Mission-Critical AI At Motorola Solutions (MSI) Have Changed Its Investment Story"
-        },
-        {
-            "time": "04:08",
+            "time": "06:18",
             "tag": "MERCADO",
-            "text": "Is Cummins (CMI) Balancing Data Center Ambitions With Evolving Expectations on Governance and Oversight?"
+            "text": "NATO Ally Selects Red Cat\u2019s Black Widow Drones for 2026 Defense Deployment"
         },
         {
-            "time": "04:07",
+            "time": "06:16",
             "tag": "MERCADO",
-            "text": "Citi Cuts Medtronic (MDT) Target, Stifel Lowers Outlook after MiniMed IPO"
+            "text": "Apple to wind down its first unionized store in Maryland (AAPL:NASDAQ)"
+        },
+        {
+            "time": "06:08",
+            "tag": "MERCADO",
+            "text": "Rep. Byron Donalds Buys PayPal Holdings, Inc. (NASDAQ:PYPL) Shares"
+        },
+        {
+            "time": "06:03",
+            "tag": "MERCADO",
+            "text": "Royal Navy Expands Autonomous Underwater Fleet via New Teledyne Marine Contract"
         }
     ]
 }
