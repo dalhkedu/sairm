@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-10 15:56 UTC",
+        "last_updated": "2026-04-10 16:57 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 188.32,
-            "change": "-0.46%"
+            "price": 188.45,
+            "change": "+0.43%"
         },
         {
             "symbol": "AMD",
-            "price": 245.35,
-            "change": "+0.47%"
+            "price": 245.25,
+            "change": "+1.75%"
         },
         {
             "symbol": "MSFT",
-            "price": 370.2,
-            "change": "-1.7%"
+            "price": 371.27,
+            "change": "+3.2%"
         },
         {
             "symbol": "CEG",
-            "price": 289.89,
-            "change": "+0.05%"
+            "price": 286.88,
+            "change": "-1.96%"
         },
         {
             "symbol": "VST",
-            "price": 158.07,
-            "change": "-1.25%"
+            "price": 157.1,
+            "change": "+0.76%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.5,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.51,
-            0.52,
-            0.51,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
+            0.48,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.5,
             0.49,
             0.5,
-            0.49
+            0.49,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.63,
-            25.0,
-            25.23,
-            25.21,
-            24.86,
-            25.31,
-            25.1,
-            24.98,
-            24.63,
-            24.3,
-            24.4,
-            24.84
+            25.06,
+            24.7,
+            24.27,
+            24.21,
+            24.69,
+            24.25,
+            24.19,
+            24.16,
+            24.53,
+            24.97,
+            24.97,
+            25.27
         ],
         "hsd_history_software": [
-            10.31,
+            10.56,
+            10.64,
+            10.48,
+            10.28,
+            10.14,
+            10.15,
             10.24,
-            10.19,
-            10.32,
-            10.22,
-            10.22,
-            10.18,
-            10.13,
-            10.13,
-            9.94,
-            10.04,
-            10.14
+            10.05,
+            9.97,
+            9.9,
+            9.99,
+            10.16
         ],
         "rci_data": [
             85.0,
-            18.831999999999997
+            18.845
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:00",
+            "time": "15:51",
+            "tag": "MERCADO",
+            "text": "Fidelity National Information Services stock hits 52-week low at $44.45"
+        },
+        {
+            "time": "15:43",
             "tag": "AI",
-            "text": "AI medical devices face compliance hurdles; ISG surveys 100-plus vendors"
+            "text": "AWS Re-Acceleration Propels Amazon Above $2.5 Trillion as AI Bets Begin to Pay Off"
         },
         {
-            "time": "14:40",
+            "time": "15:43",
             "tag": "MERCADO",
-            "text": "Tesla\u2019s 25% Sell-Off"
+            "text": "MercadoLibre Balances Scale and Profitability: Hold or Fold the Stock?"
         },
         {
-            "time": "14:36",
+            "time": "15:39",
             "tag": "MERCADO",
-            "text": "Intuitive Surgical Inc. (ISRG): Israel Englander Is Loading Up on This Stock"
+            "text": "Better Industrial Stock: Honeywell vs. Emerson Electric"
         },
         {
-            "time": "14:34",
+            "time": "15:36",
             "tag": "MERCADO",
-            "text": "Why Hesai Group Stock Is Suddenly Breaking Out"
-        },
-        {
-            "time": "14:34",
-            "tag": "MERCADO",
-            "text": "How Investors Are Reacting To Take-Two Interactive Software (TTWO) Locking In Grand Theft Auto VI\u2019s Release Date"
+            "text": "Stryker warns of earnings fallout from March cyberattack"
         }
     ]
 }
