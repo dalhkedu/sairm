@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-10 02:50 UTC",
+        "last_updated": "2026-04-10 05:28 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.91,
-            "change": "+1.5%"
+            "change": "-1.88%"
         },
         {
             "symbol": "AMD",
             "price": 236.64,
-            "change": "-0.22%"
+            "change": "+2.32%"
         },
         {
             "symbol": "MSFT",
             "price": 373.07,
-            "change": "-2.61%"
+            "change": "-0.19%"
         },
         {
             "symbol": "CEG",
             "price": 280.25,
-            "change": "+0.36%"
+            "change": "+0.96%"
         },
         {
             "symbol": "VST",
             "price": 152.75,
-            "change": "-0.79%"
+            "change": "+3.42%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.54,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.49,
             0.5,
             0.49,
             0.49,
-            0.48,
-            0.47,
-            0.47,
-            0.47,
-            0.46,
-            0.47,
-            0.48,
-            0.48,
-            0.49
+            0.49,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            27.66,
-            27.27,
-            26.88,
-            26.75,
-            26.32,
-            26.52,
-            26.15,
-            25.74,
-            26.23,
-            25.74,
-            25.52,
-            25.48
+            26.08,
+            25.68,
+            25.9,
+            25.42,
+            25.12,
+            25.21,
+            24.98,
+            25.19,
+            25.34,
+            24.95,
+            24.67,
+            24.88
         ],
         "hsd_history_software": [
-            9.9,
-            9.88,
-            10.01,
-            10.06,
-            9.88,
-            10.04,
-            10.2,
-            10.25,
-            10.1,
-            10.17,
-            10.0,
-            10.09
+            10.98,
+            10.9,
+            10.87,
+            10.8,
+            10.63,
+            10.5,
+            10.41,
+            10.48,
+            10.36,
+            10.18,
+            10.14,
+            9.98
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:57",
-            "tag": "MERCADO",
-            "text": "Galaxy Digital (GLXY) Surges 11% on \u2018Multi-Hundred-Billion-Dollar\u2019 Goal"
-        },
-        {
-            "time": "01:35",
+            "time": "04:37",
             "tag": "AI",
-            "text": "Project Glasswing: Securing critical software for the AI era"
+            "text": "Labcorp Expands Specialized Testing As AI Efficiencies Shape Valuation Story"
         },
         {
-            "time": "01:19",
+            "time": "04:10",
             "tag": "MERCADO",
-            "text": "Cisco buys Galileo to strengthen Splunk\u2019s agentic monitoring capabilities"
+            "text": "Advanced Micro Devices Stock Soars 13% In A Single Week, Wait For A Dip To Buy The Stock"
         },
         {
-            "time": "01:13",
-            "tag": "MERCADO",
-            "text": "eBay Launches NYC Edit Market Pop Up in Bid To Boost C2C Enthusiast Buyer Stats"
+            "time": "04:09",
+            "tag": "AI",
+            "text": "How Satellite-Enabled APX NEXT Radios and Mission-Critical AI At Motorola Solutions (MSI) Have Changed Its Investment Story"
         },
         {
-            "time": "00:51",
+            "time": "04:08",
             "tag": "MERCADO",
-            "text": "Does Nubity\u2019s AWS Premier Status Recast EVERTEC\u2019s (EVTC) Competitive Edge in Latin American Payments?"
+            "text": "Is Cummins (CMI) Balancing Data Center Ambitions With Evolving Expectations on Governance and Oversight?"
+        },
+        {
+            "time": "04:07",
+            "tag": "MERCADO",
+            "text": "Citi Cuts Medtronic (MDT) Target, Stifel Lowers Outlook after MiniMed IPO"
         }
     ]
 }
