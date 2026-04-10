@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-10 13:20 UTC",
+        "last_updated": "2026-04-10 14:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 183.91,
-            "change": "-2.88%"
+            "price": 188.39,
+            "change": "-0.92%"
         },
         {
             "symbol": "AMD",
-            "price": 236.64,
-            "change": "-1.97%"
+            "price": 247.6,
+            "change": "-2.41%"
         },
         {
             "symbol": "MSFT",
-            "price": 373.07,
-            "change": "-0.87%"
+            "price": 371.82,
+            "change": "-1.44%"
         },
         {
             "symbol": "CEG",
-            "price": 280.25,
-            "change": "+0.41%"
+            "price": 291.22,
+            "change": "-2.89%"
         },
         {
             "symbol": "VST",
-            "price": 152.75,
-            "change": "+0.58%"
+            "price": 158.16,
+            "change": "+2.28%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
-        "rci_current": 0.18,
+        "cer_current": 0.5,
+        "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.53,
+            0.52,
             0.51,
             0.51,
+            0.52,
             0.51,
             0.52,
             0.52,
             0.51,
-            0.5,
+            0.52,
             0.51,
-            0.5,
-            0.51,
-            0.5,
             0.5
         ],
         "hsd_history_hardware": [
+            26.67,
+            26.63,
+            26.32,
+            26.19,
+            26.05,
+            26.02,
+            25.75,
+            25.39,
             25.58,
-            25.24,
-            25.37,
-            25.62,
-            25.23,
-            25.7,
-            25.44,
-            25.45,
-            25.42,
-            25.41,
-            25.52,
-            25.06
+            25.46,
+            25.89,
+            25.48
         ],
         "hsd_history_software": [
-            10.14,
-            10.06,
-            10.26,
-            10.17,
-            10.05,
-            10.11,
-            10.0,
+            10.23,
+            10.29,
+            10.27,
+            10.07,
+            10.22,
+            10.42,
+            10.23,
+            10.04,
+            9.97,
             10.15,
-            10.08,
-            10.02,
-            10.05,
-            9.9
+            10.12,
+            10.04
         ],
         "rci_data": [
             85.0,
-            18.391
+            18.839
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:35",
-            "tag": "MERCADO",
-            "text": "Snap smart glasses to use Qualcomm chips"
+            "time": "14:12",
+            "tag": "AI",
+            "text": "SK Telecom partners with Arm, Rebellions for AI data center solutions"
         },
         {
-            "time": "12:33",
+            "time": "14:09",
             "tag": "MERCADO",
-            "text": "Draganfly CEO Cameron Chell to Appear on Fox Business\u2019 Making Money with Charles Payne to Discuss Iran Conflict and the Strategic Role of Drone Warfare"
+            "text": "Mike Novogratz\u2019s Galaxy Stock Surges as Core Business Offsets $241 Million Net Loss"
         },
         {
-            "time": "12:30",
+            "time": "13:51",
             "tag": "MERCADO",
-            "text": "Fox Business taps Draganfly CEO to discuss how drones shape war"
+            "text": "Fidelity National Information Services (NYSE:FIS) Given New $40.00 Price Target at BNP Paribas Exane"
         },
         {
-            "time": "12:30",
+            "time": "13:49",
             "tag": "MERCADO",
-            "text": "Motorola Solutions, Inc. $MSI Shares Sold by Vista Investment Partners II LLC"
+            "text": "Corning Inc Stock (GLW) Opened Up by 3.26% on Apr 10: What Investors Need To Know"
         },
         {
-            "time": "12:25",
+            "time": "13:47",
             "tag": "MERCADO",
-            "text": "Tyler Technologies (TYL) Price Target Lowered by BTIG | TYL Stoc"
+            "text": "Apple TV Lands On Amazon Prime Video In US Streaming Tie-Up"
         }
     ]
 }
