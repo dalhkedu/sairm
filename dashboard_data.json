@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-10 16:57 UTC",
+        "last_updated": "2026-04-10 17:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 188.45,
-            "change": "+0.43%"
+            "price": 188.6,
+            "change": "+3.48%"
         },
         {
             "symbol": "AMD",
-            "price": 245.25,
-            "change": "+1.75%"
+            "price": 245.74,
+            "change": "-0.44%"
         },
         {
             "symbol": "MSFT",
-            "price": 371.27,
-            "change": "+3.2%"
+            "price": 370.79,
+            "change": "-2.91%"
         },
         {
             "symbol": "CEG",
-            "price": 286.88,
-            "change": "-1.96%"
+            "price": 284.96,
+            "change": "-1.19%"
         },
         {
             "symbol": "VST",
-            "price": 157.1,
-            "change": "+0.76%"
+            "price": 156.1,
+            "change": "+0.03%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.48,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.47,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.5,
-            0.49,
-            0.5,
+            0.53,
+            0.53,
+            0.54,
+            0.53,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.06,
-            24.7,
-            24.27,
-            24.21,
-            24.69,
-            24.25,
-            24.19,
-            24.16,
-            24.53,
-            24.97,
-            24.97,
-            25.27
+            23.76,
+            23.71,
+            23.94,
+            23.75,
+            23.63,
+            23.99,
+            23.97,
+            24.37,
+            24.58,
+            24.88,
+            24.67,
+            24.75
         ],
         "hsd_history_software": [
-            10.56,
-            10.64,
-            10.48,
-            10.28,
-            10.14,
-            10.15,
+            10.55,
+            10.38,
+            10.23,
+            10.32,
+            10.22,
+            10.35,
+            10.31,
+            10.41,
             10.24,
-            10.05,
-            9.97,
-            9.9,
-            9.99,
-            10.16
+            10.13,
+            10.15,
+            10.0
         ],
         "rci_data": [
             85.0,
-            18.845
+            18.86
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:51",
-            "tag": "MERCADO",
-            "text": "Fidelity National Information Services stock hits 52-week low at $44.45"
-        },
-        {
-            "time": "15:43",
+            "time": "16:48",
             "tag": "AI",
-            "text": "AWS Re-Acceleration Propels Amazon Above $2.5 Trillion as AI Bets Begin to Pay Off"
+            "text": "Synopsys Inc stock (US83304A1060): Is AI chip design dominance strong enough to unlock new upside?"
         },
         {
-            "time": "15:43",
+            "time": "16:43",
             "tag": "MERCADO",
-            "text": "MercadoLibre Balances Scale and Profitability: Hold or Fold the Stock?"
+            "text": "Solventum Fined $1.6M Over Sales To Chinese Firms"
         },
         {
-            "time": "15:39",
+            "time": "16:42",
             "tag": "MERCADO",
-            "text": "Better Industrial Stock: Honeywell vs. Emerson Electric"
+            "text": "Paychex Inc. stock (US7043261079): Is its HR tech edge strong enough to unlock new upside?"
         },
         {
-            "time": "15:36",
+            "time": "16:33",
             "tag": "MERCADO",
-            "text": "Stryker warns of earnings fallout from March cyberattack"
+            "text": "Blackstone Eyes $2 Billion IPO for Data Center Acquisition Firm"
+        },
+        {
+            "time": "16:32",
+            "tag": "MERCADO",
+            "text": "Teradyne Inc. stock (US8807701029): Is semiconductor test demand strong enough to unlock new upside?"
         }
     ]
 }
