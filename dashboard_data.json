@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-09 23:39 UTC",
+        "last_updated": "2026-04-10 02:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 183.91,
-            "change": "+3.2%"
+            "change": "+1.5%"
         },
         {
             "symbol": "AMD",
             "price": 236.64,
-            "change": "-3.39%"
+            "change": "-0.22%"
         },
         {
             "symbol": "MSFT",
             "price": 373.07,
-            "change": "+2.7%"
+            "change": "-2.61%"
         },
         {
             "symbol": "CEG",
             "price": 280.25,
-            "change": "+2.75%"
+            "change": "+0.36%"
         },
         {
             "symbol": "VST",
             "price": 152.75,
-            "change": "-2.36%"
+            "change": "-0.79%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.69,
         "rci_current": 0.18,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
             0.5,
-            0.51
+            0.49,
+            0.49,
+            0.48,
+            0.47,
+            0.47,
+            0.47,
+            0.46,
+            0.47,
+            0.48,
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.04,
-            24.24,
-            24.54,
-            24.75,
-            25.0,
-            24.82,
-            25.02,
-            24.66,
-            25.12,
-            25.3,
-            25.32,
-            25.24
+            27.66,
+            27.27,
+            26.88,
+            26.75,
+            26.32,
+            26.52,
+            26.15,
+            25.74,
+            26.23,
+            25.74,
+            25.52,
+            25.48
         ],
         "hsd_history_software": [
-            10.45,
-            10.43,
-            10.25,
-            10.21,
-            10.07,
+            9.9,
+            9.88,
+            10.01,
+            10.06,
+            9.88,
             10.04,
-            10.05,
-            9.93,
-            9.89,
-            9.86,
-            9.95,
-            9.94
+            10.2,
+            10.25,
+            10.1,
+            10.17,
+            10.0,
+            10.09
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:39",
+            "time": "01:57",
             "tag": "MERCADO",
-            "text": "Bilibili (BILI) is Among the 7 Best Strong Buy Asian Stocks to Invest In"
+            "text": "Galaxy Digital (GLXY) Surges 11% on \u2018Multi-Hundred-Billion-Dollar\u2019 Goal"
         },
         {
-            "time": "22:34",
-            "tag": "MERCADO",
-            "text": "NetApp Inc (NTAP) Shares Fall 3.8% -- What GF Score of 92 Tells Investors"
+            "time": "01:35",
+            "tag": "AI",
+            "text": "Project Glasswing: Securing critical software for the AI era"
         },
         {
-            "time": "22:30",
-            "tag": "RESULTADOS",
-            "text": "Q4 Earnings Roundup: Broadridge (NYSE:BR) And The Rest Of The Data & Business Process Services Segment"
+            "time": "01:19",
+            "tag": "MERCADO",
+            "text": "Cisco buys Galileo to strengthen Splunk\u2019s agentic monitoring capabilities"
         },
         {
-            "time": "22:29",
+            "time": "01:13",
             "tag": "MERCADO",
-            "text": "A Look at Baidu Inc (BIDU) After 4.7% Decline -- GF Value $108.3"
+            "text": "eBay Launches NYC Edit Market Pop Up in Bid To Boost C2C Enthusiast Buyer Stats"
         },
         {
-            "time": "22:27",
+            "time": "00:51",
             "tag": "MERCADO",
-            "text": "Cars.com cuts 11% of workforce as new CEO streamlines operations"
+            "text": "Does Nubity\u2019s AWS Premier Status Recast EVERTEC\u2019s (EVTC) Competitive Edge in Latin American Payments?"
         }
     ]
 }
