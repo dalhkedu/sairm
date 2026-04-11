@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-11 22:35 UTC",
+        "last_updated": "2026-04-11 23:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 188.63,
-            "change": "-1.34%"
+            "change": "+2.8%"
         },
         {
             "symbol": "AMD",
             "price": 245.04,
-            "change": "-1.03%"
+            "change": "+2.08%"
         },
         {
             "symbol": "MSFT",
             "price": 370.87,
-            "change": "+0.71%"
+            "change": "+1.03%"
         },
         {
             "symbol": "CEG",
             "price": 286.5,
-            "change": "+2.89%"
+            "change": "+3.09%"
         },
         {
             "symbol": "VST",
             "price": 154.73,
-            "change": "+0.45%"
+            "change": "-0.52%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.43,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.49,
             0.5,
             0.5,
-            0.49,
             0.5,
-            0.49,
-            0.5
+            0.51,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            23.58,
-            23.92,
-            24.05,
-            23.95,
-            23.94,
+            24.82,
+            24.6,
+            24.2,
+            24.53,
             24.37,
-            24.68,
-            25.05,
-            25.15,
-            24.85,
-            25.11,
-            25.17
+            24.47,
+            24.52,
+            24.8,
+            24.86,
+            24.67,
+            25.02,
+            24.54
         ],
         "hsd_history_software": [
-            10.09,
-            10.08,
-            10.04,
-            10.18,
-            10.13,
-            10.13,
-            10.2,
-            10.31,
-            10.19,
+            9.96,
+            9.96,
+            9.9,
+            9.79,
+            9.81,
+            9.77,
+            9.61,
+            9.73,
+            9.79,
             9.99,
-            9.88,
-            9.89
+            9.86,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "22:50",
+            "tag": "AI",
+            "text": "A Look At Analog Devices (ADI) Valuation As Geopolitics Ease And AI Demand Supports Semiconductor Momentum"
+        },
+        {
+            "time": "22:46",
+            "tag": "AI",
+            "text": "Does Tempus AI\u2019s (TEM) Deeper Gilead Tie Mark a Shift in Its Platform Strategy?"
+        },
+        {
+            "time": "22:09",
+            "tag": "MERCADO",
+            "text": "10 Stocks Powering Portfolios by Double Digits"
+        },
+        {
             "time": "21:55",
             "tag": "MERCADO",
             "text": "Astera Labs (ALAB) Eyes \u2018High Double-Digit Growth,\u2019 Soars 27%"
@@ -134,21 +149,6 @@
             "time": "21:41",
             "tag": "MERCADO",
             "text": "Is Citigroup\u2019s (C) Latest Capital Moves Quietly Redefining Its Simplification Story?"
-        },
-        {
-            "time": "21:40",
-            "tag": "MERCADO",
-            "text": "Is It Time To Revisit Fortinet (FTNT) After Recent Share Price Weakness?"
-        },
-        {
-            "time": "21:38",
-            "tag": "MERCADO",
-            "text": "Apollon Wealth Management Boosts Rockwell Automation Holdings"
-        },
-        {
-            "time": "19:39",
-            "tag": "MERCADO",
-            "text": "WDAF ETF Analysis: Dividends, Returns DUS:WDAF"
         }
     ]
 }
