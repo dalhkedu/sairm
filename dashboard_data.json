@@ -1,45 +1,45 @@
 {
     "metadata": {
-        "last_updated": "2026-04-11 14:38 UTC",
+        "last_updated": "2026-04-11 15:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 188.63,
-            "change": "+1.79%"
+            "change": "-3.28%"
         },
         {
             "symbol": "AMD",
             "price": 245.04,
-            "change": "+0.01%"
+            "change": "+0.98%"
         },
         {
             "symbol": "MSFT",
             "price": 370.87,
-            "change": "+3.49%"
+            "change": "+1.72%"
         },
         {
             "symbol": "CEG",
             "price": 286.5,
-            "change": "-0.65%"
+            "change": "-0.12%"
         },
         {
             "symbol": "VST",
             "price": 154.73,
-            "change": "-2.46%"
+            "change": "+1.85%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.57,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
             0.51,
             0.51,
+            0.52,
+            0.52,
             0.52,
             0.51,
             0.51,
@@ -47,35 +47,35 @@
             0.5,
             0.5,
             0.5,
-            0.51
+            0.49
         ],
         "hsd_history_hardware": [
-            26.03,
-            26.38,
-            26.32,
-            26.57,
-            26.95,
-            26.48,
-            26.3,
-            26.6,
-            26.25,
-            25.9,
-            25.45,
-            25.4
+            25.0,
+            24.95,
+            24.7,
+            24.36,
+            24.35,
+            24.76,
+            25.15,
+            25.22,
+            24.9,
+            24.78,
+            24.81,
+            24.94
         ],
         "hsd_history_software": [
-            9.68,
-            9.63,
-            9.83,
-            9.77,
-            9.95,
-            9.87,
-            9.94,
-            10.03,
-            10.03,
-            10.01,
-            9.82,
-            9.89
+            8.82,
+            8.87,
+            9.03,
+            9.11,
+            9.13,
+            9.29,
+            9.39,
+            9.36,
+            9.55,
+            9.72,
+            9.85,
+            9.92
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "14:07",
+            "tag": "MERCADO",
+            "text": "American Tower Corporation Trade Ideas \u2014 MIL:1AMT"
+        },
+        {
+            "time": "13:39",
+            "tag": "MERCADO",
+            "text": "GlobalFoundries Inc Stock Short Interest Rises to 39.94%"
+        },
+        {
             "time": "13:07",
             "tag": "MERCADO",
             "text": "Massachusetts Financial Firm Trims Stake in Cadence Design Systems"
@@ -139,16 +149,6 @@
             "time": "12:41",
             "tag": "MERCADO",
             "text": "Xcel Energy VPP Expansion Approved in Minnesota for 200 MW Battery Storage - News and Statistics"
-        },
-        {
-            "time": "12:38",
-            "tag": "MERCADO",
-            "text": "Netflix, Inc. $NFLX Shares Purchased by Venturi Wealth Management LLC"
-        },
-        {
-            "time": "12:26",
-            "tag": "MERCADO",
-            "text": "World Investment Advisors Grows Stock Position in Microsoft Corporation $MSFT"
         }
     ]
 }
