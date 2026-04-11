@@ -1,80 +1,80 @@
 {
     "metadata": {
-        "last_updated": "2026-04-11 09:43 UTC",
+        "last_updated": "2026-04-11 10:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 188.63,
-            "change": "-1.67%"
+            "change": "-0.57%"
         },
         {
             "symbol": "AMD",
             "price": 245.04,
-            "change": "-2.64%"
+            "change": "-3.21%"
         },
         {
             "symbol": "MSFT",
             "price": 370.87,
-            "change": "+0.72%"
+            "change": "+0.56%"
         },
         {
             "symbol": "CEG",
             "price": 286.5,
-            "change": "+3.21%"
+            "change": "-1.96%"
         },
         {
             "symbol": "VST",
             "price": 154.73,
-            "change": "+0.97%"
+            "change": "+2.07%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
+        "cer_current": 0.46,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.47,
-            0.48,
-            0.48,
-            0.48,
             0.47,
-            0.48,
-            0.48,
             0.48,
             0.48,
             0.49,
             0.5,
-            0.49
+            0.5,
+            0.51,
+            0.5,
+            0.51,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.37,
-            25.33,
-            25.62,
-            25.57,
-            25.7,
-            25.2,
-            24.84,
-            24.6,
-            24.81,
-            25.07,
-            25.29,
-            24.88
+            24.32,
+            24.55,
+            24.73,
+            24.4,
+            24.46,
+            24.56,
+            24.34,
+            24.13,
+            24.37,
+            24.82,
+            24.7,
+            24.65
         ],
         "hsd_history_software": [
-            9.85,
-            9.84,
-            9.93,
-            9.89,
-            9.87,
-            10.05,
-            10.21,
-            10.01,
-            10.02,
-            10.2,
+            10.08,
             10.07,
+            10.01,
+            9.95,
+            9.95,
+            10.08,
+            10.12,
+            10.01,
+            9.84,
+            9.97,
+            10.14,
             10.06
         ],
         "rci_data": [
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:05",
+            "time": "10:04",
             "tag": "MERCADO",
-            "text": "Foster & Motley Inc. Acquires 5,427 Shares of Microsoft Corporation $MSFT"
+            "text": "OFI Invest Asset Management Has $27,000 Position in AT&T Inc. $T"
         },
         {
-            "time": "09:05",
+            "time": "10:00",
             "tag": "MERCADO",
-            "text": "Royal Fund Management LLC Buys 3,661 Shares of Microsoft Corporation $MSFT"
+            "text": "The software behind Artemis II helped guide four astronauts around the Moon"
         },
         {
-            "time": "08:42",
+            "time": "09:56",
             "tag": "MERCADO",
-            "text": "Factory Mutual Insurance Co. Grows Position in Intuit Inc. $INTU"
+            "text": "Advanced Energy Industries (NASDAQ:AEIS) Stock Rating Lowered by Zacks Research"
         },
         {
-            "time": "08:41",
+            "time": "09:55",
             "tag": "MERCADO",
-            "text": "Factory Mutual Insurance Co. Has $18.60 Million Stock Holdings in Texas Instruments Incorporated $TXN"
+            "text": "Prime Capital Investment Advisors LLC Has $2.08 Million Position in Analog Devices, Inc. $ADI"
         },
         {
-            "time": "08:41",
+            "time": "09:54",
             "tag": "MERCADO",
-            "text": "Cantor Fitzgerald Investment Advisors L.P. Trims Stock Position in Fidelity National Information Services, Inc. $FIS"
+            "text": "Equinix (NASDAQ:EQIX) Raised to \"Strong-Buy\" at Zacks Research"
         }
     ]
 }
