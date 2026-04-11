@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-11 20:37 UTC",
+        "last_updated": "2026-04-11 21:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 188.63,
-            "change": "+1.23%"
+            "change": "-2.56%"
         },
         {
             "symbol": "AMD",
             "price": 245.04,
-            "change": "-3.43%"
+            "change": "-1.74%"
         },
         {
             "symbol": "MSFT",
             "price": 370.87,
-            "change": "-2.29%"
+            "change": "-1.94%"
         },
         {
             "symbol": "CEG",
             "price": 286.5,
-            "change": "+1.65%"
+            "change": "-0.39%"
         },
         {
             "symbol": "VST",
             "price": 154.73,
-            "change": "-2.57%"
+            "change": "+0.77%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.62,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
             0.49,
             0.5,
-            0.5,
             0.51,
             0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.49
+            0.51
         ],
         "hsd_history_hardware": [
-            24.34,
-            24.53,
-            24.16,
-            24.46,
-            24.34,
-            24.29,
-            23.89,
-            23.54,
-            24.02,
-            24.33,
-            24.46,
-            24.66
+            25.8,
+            26.28,
+            25.95,
+            25.49,
+            25.72,
+            25.41,
+            25.45,
+            25.52,
+            25.06,
+            25.56,
+            25.28,
+            25.36
         ],
         "hsd_history_software": [
-            9.68,
-            9.85,
-            9.78,
-            9.94,
-            10.07,
-            10.13,
-            10.3,
-            10.32,
-            10.13,
-            9.97,
-            9.81,
-            9.81
+            9.69,
+            9.65,
+            9.76,
+            9.86,
+            9.93,
+            10.08,
+            10.03,
+            10.16,
+            10.25,
+            10.4,
+            10.22,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -131,6 +131,11 @@
             "text": "Best Buy Co. Inc. stock (US0865161014): Is its consumer electronics moat strong enough to unlock new upside?"
         },
         {
+            "time": "19:08",
+            "tag": "MERCADO",
+            "text": "PayPal Holdings, Inc. Trade Ideas \u2014 BSESOF:2PP"
+        },
+        {
             "time": "18:07",
             "tag": "MERCADO",
             "text": "IDEXX (IDXX) Launches Canine Cancer Detection Panel in UK"
@@ -144,11 +149,6 @@
             "time": "17:42",
             "tag": "AI",
             "text": "Cadence (CDNS), Nvidia (NVDA) Expand Agentic AI Collaboration"
-        },
-        {
-            "time": "17:38",
-            "tag": "MERCADO",
-            "text": "Deception Technology Market (2026-2033) | Cybersecurity, Threat Detection & Zero Trust Growth | Top Companies are Illusive Networks Ltd. Attivo, Networks Inc & Rapid7, Inc."
         }
     ]
 }
