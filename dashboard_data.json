@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-11 08:50 UTC",
+        "last_updated": "2026-04-11 09:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 188.63,
-            "change": "-1.75%"
+            "change": "-1.67%"
         },
         {
             "symbol": "AMD",
             "price": 245.04,
-            "change": "-0.58%"
+            "change": "-2.64%"
         },
         {
             "symbol": "MSFT",
             "price": 370.87,
-            "change": "-1.43%"
+            "change": "+0.72%"
         },
         {
             "symbol": "CEG",
             "price": 286.5,
-            "change": "+0.56%"
+            "change": "+3.21%"
         },
         {
             "symbol": "VST",
             "price": 154.73,
-            "change": "-2.23%"
+            "change": "+0.97%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.53,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.51,
-            0.51,
             0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            23.6,
-            23.6,
-            23.77,
-            24.15,
-            23.88,
-            23.53,
-            23.78,
-            23.45,
-            23.71,
-            24.09,
-            24.36,
-            24.56
+            25.37,
+            25.33,
+            25.62,
+            25.57,
+            25.7,
+            25.2,
+            24.84,
+            24.6,
+            24.81,
+            25.07,
+            25.29,
+            24.88
         ],
         "hsd_history_software": [
-            9.67,
-            9.65,
-            9.64,
-            9.8,
             9.85,
-            9.7,
-            9.57,
-            9.72,
-            9.72,
-            9.73,
+            9.84,
+            9.93,
             9.89,
-            9.82
+            9.87,
+            10.05,
+            10.21,
+            10.01,
+            10.02,
+            10.2,
+            10.07,
+            10.06
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:09",
+            "time": "09:05",
             "tag": "MERCADO",
-            "text": "SAVERONE 2014 LTD (SVRE-L.TA) stock price, news, quote and history"
+            "text": "Foster & Motley Inc. Acquires 5,427 Shares of Microsoft Corporation $MSFT"
         },
         {
-            "time": "08:00",
+            "time": "09:05",
             "tag": "MERCADO",
-            "text": "Snap picks Qualcomm to power its 2026 Specs AR glasses"
+            "text": "Royal Fund Management LLC Buys 3,661 Shares of Microsoft Corporation $MSFT"
         },
         {
-            "time": "07:56",
+            "time": "08:42",
             "tag": "MERCADO",
-            "text": "Uber Technologies, Inc. $UBER Shares Sold by Capital Investment Advisory Services LLC"
+            "text": "Factory Mutual Insurance Co. Grows Position in Intuit Inc. $INTU"
         },
         {
-            "time": "07:47",
+            "time": "08:41",
             "tag": "MERCADO",
-            "text": "Bfsg LLC Sells 7,165 Shares of Arista Networks, Inc. $ANET"
+            "text": "Factory Mutual Insurance Co. Has $18.60 Million Stock Holdings in Texas Instruments Incorporated $TXN"
         },
         {
-            "time": "07:43",
+            "time": "08:41",
             "tag": "MERCADO",
-            "text": "Bartlett & CO. Wealth Management LLC Boosts Stake in Intuit Inc. $INTU"
+            "text": "Cantor Fitzgerald Investment Advisors L.P. Trims Stock Position in Fidelity National Information Services, Inc. $FIS"
         }
     ]
 }
