@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-11 02:34 UTC",
+        "last_updated": "2026-04-11 04:57 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 188.63,
-            "change": "+0.07%"
+            "change": "+2.29%"
         },
         {
             "symbol": "AMD",
             "price": 245.04,
-            "change": "+1.52%"
+            "change": "+0.76%"
         },
         {
             "symbol": "MSFT",
             "price": 370.87,
-            "change": "-2.25%"
+            "change": "+0.66%"
         },
         {
             "symbol": "CEG",
             "price": 286.5,
-            "change": "+1.15%"
+            "change": "+1.56%"
         },
         {
             "symbol": "VST",
             "price": 154.73,
-            "change": "+2.97%"
+            "change": "+3.19%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.61,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.09,
-            24.53,
-            24.62,
-            24.53,
-            24.97,
-            25.23,
-            24.87,
-            24.69,
-            24.74,
-            24.84,
-            24.65,
-            25.01
+            24.37,
+            24.29,
+            24.56,
+            24.89,
+            25.35,
+            25.67,
+            25.39,
+            25.83,
+            25.44,
+            25.11,
+            24.82,
+            24.54
         ],
         "hsd_history_software": [
-            9.89,
-            10.04,
-            10.18,
-            10.06,
-            9.96,
-            9.96,
-            9.99,
-            9.89,
-            10.07,
+            9.54,
+            9.54,
+            9.47,
+            9.66,
+            9.82,
             9.97,
-            9.93,
-            10.09
+            9.82,
+            9.76,
+            9.65,
+            9.58,
+            9.76,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:00",
+            "time": "03:53",
             "tag": "MERCADO",
-            "text": "Super Micro Computer, Inc. Notice of May 26, 2026 Application Deadline for Class Action Lawsuits - Contact Lewis Kahn, Esq. at Kahn Swick & Foti, LLC, Before Application Deadline"
+            "text": "Thermo Fisher expands global biobank leadership through collaboration with PRECISE-SG100K Singapore"
         },
         {
-            "time": "01:07",
-            "tag": "RESULTADOS",
-            "text": "Global Payments Tops Trading Volume Chart as Q4 Earnings Beat Sparks $240 Million Surge"
+            "time": "03:45",
+            "tag": "MERCADO",
+            "text": "Exclusive-Third Point won\u2019t run proxy fight at CoStar, exits position, letter says"
         },
         {
-            "time": "00:37",
+            "time": "03:39",
             "tag": "MERCADO",
-            "text": "If You Invested $1000 in Arista Networks a Decade Ago, This is How Much It'd Be Worth Now"
+            "text": "Liquidity Mapping Around (IRTC) Price Events"
         },
         {
-            "time": "00:08",
-            "tag": "MERCADO",
-            "text": "Seagate Divests Lyve Cloud to Enhance Core Storage Focus"
+            "time": "03:10",
+            "tag": "AI",
+            "text": "IREN Stock Surges 8% as Bitcoin Miner Turns AI Cloud Powerhouse With 150,000 GPU Expansion Push"
         },
         {
-            "time": "00:08",
+            "time": "02:54",
             "tag": "MERCADO",
-            "text": "If You Invested $1000 in Broadcom Inc. a Decade Ago, This is How Much It'd Be Worth Now"
+            "text": "First crewed deep-space trip in 53 years ends with Pacific splashdown"
         }
     ]
 }
