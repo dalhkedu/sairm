@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-11 06:05 UTC",
+        "last_updated": "2026-04-11 07:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 188.63,
-            "change": "-3.21%"
+            "change": "+3.14%"
         },
         {
             "symbol": "AMD",
             "price": 245.04,
-            "change": "-3.2%"
+            "change": "-3.02%"
         },
         {
             "symbol": "MSFT",
             "price": 370.87,
-            "change": "+1.55%"
+            "change": "+1.68%"
         },
         {
             "symbol": "CEG",
             "price": 286.5,
-            "change": "-2.09%"
+            "change": "+2.76%"
         },
         {
             "symbol": "VST",
             "price": 154.73,
-            "change": "+0.24%"
+            "change": "-3.34%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.54,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.69,
-            24.64,
-            25.06,
-            24.69,
+            24.7,
             24.96,
-            25.14,
-            25.11,
-            25.42,
-            25.12,
-            24.91,
-            24.92,
-            25.15
+            25.08,
+            25.28,
+            24.96,
+            25.04,
+            25.31,
+            25.05,
+            24.86,
+            24.78,
+            24.39,
+            24.56
         ],
         "hsd_history_software": [
-            10.19,
-            10.12,
-            10.08,
-            9.95,
             10.03,
-            10.16,
-            10.19,
-            10.01,
-            10.16,
-            10.0,
             9.99,
-            9.92
+            9.98,
+            10.05,
+            10.23,
+            10.37,
+            10.33,
+            10.26,
+            10.17,
+            10.18,
+            10.08,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:09",
+            "time": "07:04",
             "tag": "MERCADO",
-            "text": "MYND SEC Filings - Mynd.ai, Inc. 10-K, 10-Q, 8-K Forms"
+            "text": "Aberdeen Group plc Lowers Position in Alphabet Inc. $GOOGL"
         },
         {
-            "time": "04:59",
+            "time": "06:38",
             "tag": "MERCADO",
-            "text": "Google-Backed 1GW Data Center Deal Could Be A Game Changer For DTE Energy (DTE)"
+            "text": "IBM to Pay $17 Million in DOJ Discrimination Settlement"
         },
         {
-            "time": "04:39",
+            "time": "06:24",
             "tag": "MERCADO",
-            "text": "Form 424B5 Microbot Medical Inc."
+            "text": "IBM Pays $17 Million To Settle DEI Allegations In DOJ's First False Claims Act Win"
         },
         {
-            "time": "03:53",
+            "time": "06:20",
             "tag": "MERCADO",
-            "text": "Thermo Fisher expands global biobank leadership through collaboration with PRECISE-SG100K Singapore"
+            "text": "Gartner, Inc. (NYSE:IT) Receives Consensus Recommendation of \"Hold\" from Brokerages"
         },
         {
-            "time": "03:45",
+            "time": "06:16",
             "tag": "MERCADO",
-            "text": "Exclusive-Third Point won\u2019t run proxy fight at CoStar, exits position, letter says"
+            "text": "Keysight Technologies Inc. (NYSE:KEYS) Receives Average Recommendation of \"Moderate Buy\" from Brokerages"
         }
     ]
 }
