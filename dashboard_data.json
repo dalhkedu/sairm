@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-11 16:40 UTC",
+        "last_updated": "2026-04-11 17:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 188.63,
-            "change": "+2.44%"
+            "change": "+0.8%"
         },
         {
             "symbol": "AMD",
             "price": 245.04,
-            "change": "+2.31%"
+            "change": "+1.79%"
         },
         {
             "symbol": "MSFT",
             "price": 370.87,
-            "change": "+1.34%"
+            "change": "+0.1%"
         },
         {
             "symbol": "CEG",
             "price": 286.5,
-            "change": "+1.61%"
+            "change": "+0.19%"
         },
         {
             "symbol": "VST",
             "price": 154.73,
-            "change": "+1.33%"
+            "change": "+3.1%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.52,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.49,
             0.49,
             0.49,
             0.5,
+            0.49,
             0.5,
-            0.49
+            0.51
         ],
         "hsd_history_hardware": [
-            25.25,
-            25.42,
-            25.71,
-            25.62,
-            25.84,
-            25.95,
-            25.46,
-            25.59,
-            25.11,
-            25.5,
-            25.43,
-            25.2
+            26.47,
+            26.42,
+            26.56,
+            26.19,
+            25.72,
+            25.45,
+            25.24,
+            25.67,
+            25.64,
+            25.37,
+            25.24,
+            24.97
         ],
         "hsd_history_software": [
-            9.51,
-            9.56,
-            9.67,
-            9.79,
-            9.82,
-            9.64,
-            9.77,
-            9.95,
-            9.85,
-            9.94,
-            10.08,
-            10.09
+            10.29,
+            10.15,
+            10.23,
+            10.1,
+            10.01,
+            10.0,
+            9.92,
+            9.93,
+            9.81,
+            10.01,
+            9.99,
+            9.95
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "16:24",
+            "tag": "RESULTADOS",
+            "text": "Jabil (JBL) Is Up 11.5% After Earnings And Technicals Align - Has The Bull Case Changed?"
+        },
+        {
+            "time": "16:22",
+            "tag": "MERCADO",
+            "text": "Analysis of Buffett's Investment in VeriSign"
+        },
+        {
             "time": "15:57",
             "tag": "MERCADO",
             "text": "Jim Cramer Says He Likes \u201cCommercial Metals Very Much\u201d But Prefers Nucor"
@@ -139,16 +149,6 @@
             "time": "15:22",
             "tag": "AI",
             "text": "Digital Realty\u2019s Big Singapore AI Bet Might Change The Case For Investing In Digital Realty Trust (DLR)"
-        },
-        {
-            "time": "14:07",
-            "tag": "MERCADO",
-            "text": "American Tower Corporation Trade Ideas \u2014 MIL:1AMT"
-        },
-        {
-            "time": "13:39",
-            "tag": "MERCADO",
-            "text": "GlobalFoundries Inc Stock Short Interest Rises to 39.94%"
         }
     ]
 }
