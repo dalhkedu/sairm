@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-12 02:53 UTC",
+        "last_updated": "2026-04-12 05:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 188.63,
-            "change": "+2.04%"
+            "change": "+2.61%"
         },
         {
             "symbol": "AMD",
             "price": 245.04,
-            "change": "-2.97%"
+            "change": "+1.38%"
         },
         {
             "symbol": "MSFT",
             "price": 370.87,
-            "change": "+1.79%"
+            "change": "-2.64%"
         },
         {
             "symbol": "CEG",
             "price": 286.5,
-            "change": "+1.87%"
+            "change": "+0.87%"
         },
         {
             "symbol": "VST",
             "price": 154.73,
-            "change": "-3.08%"
+            "change": "+2.16%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.56,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.51,
+            0.51,
+            0.52,
             0.51,
             0.51,
             0.51,
+            0.5,
             0.51,
             0.51,
             0.5,
-            0.5,
-            0.49
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.47,
-            25.2,
-            25.22,
-            25.2,
-            24.85,
-            24.53,
-            24.39,
-            24.43,
-            24.57,
+            25.51,
+            25.12,
+            24.64,
             24.84,
-            24.91,
-            24.62
+            25.27,
+            25.06,
+            25.1,
+            24.71,
+            24.85,
+            25.34,
+            25.41,
+            25.41
         ],
         "hsd_history_software": [
-            10.25,
-            10.06,
-            10.16,
-            10.32,
-            10.29,
-            10.15,
-            10.27,
-            10.12,
-            10.1,
-            10.21,
-            10.35,
-            10.17
+            9.44,
+            9.41,
+            9.54,
+            9.51,
+            9.6,
+            9.56,
+            9.69,
+            9.64,
+            9.82,
+            9.79,
+            9.8,
+            9.81
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:41",
+            "time": "04:39",
+            "tag": "MERCADO",
+            "text": "ManpowerGroup Inc stock drops amid sector rotation"
+        },
+        {
+            "time": "04:35",
+            "tag": "MERCADO",
+            "text": "C\u00e9sar Cernuda, President at NetApp, Receives Prestigious HITEC 100 Recognition for 2026"
+        },
+        {
+            "time": "04:25",
+            "tag": "MERCADO",
+            "text": "Blackstone Eyes Long Term Growth In Data Centers And Aircraft Leasing"
+        },
+        {
+            "time": "04:23",
             "tag": "AI",
-            "text": "Assessing Arista Networks (ANET) Valuation After New AI Networking Optics Launch And Partnerships"
+            "text": "The Bull Case For Digital Realty Trust (DLR) Could Change Following Its S$7 Billion Asia AI Expansion"
         },
         {
-            "time": "01:40",
-            "tag": "MERCADO",
-            "text": "Investors Shift from UPS to Applied Materials & Caterpillar | 2026 Market Trends - News and Statistics"
-        },
-        {
-            "time": "01:37",
+            "time": "04:21",
             "tag": "AI",
-            "text": "Fair Isaac (FICO) Is Down 15.4% After Credit Score Pricing Probe And Rising AI Competition - Has The Bull Case Changed?"
-        },
-        {
-            "time": "00:13",
-            "tag": "MERCADO",
-            "text": "Rockwell Automation Outperforms XCHG in Key Metrics"
-        },
-        {
-            "time": "23:30",
-            "tag": "MERCADO",
-            "text": "Netflix: The $7.4 Billion You Won't Find In Its Debt Line \u2014 But Maybe You Should"
+            "text": "Fortinet Breach And AI Exploit Fears Reframe Long Term Investment Story"
         }
     ]
 }
