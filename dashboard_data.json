@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-12 21:38 UTC",
+        "last_updated": "2026-04-12 22:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 188.63,
-            "change": "-2.88%"
+            "change": "+1.39%"
         },
         {
             "symbol": "AMD",
             "price": 245.04,
-            "change": "-3.33%"
+            "change": "+3.2%"
         },
         {
             "symbol": "MSFT",
             "price": 370.87,
-            "change": "+0.14%"
+            "change": "+2.23%"
         },
         {
             "symbol": "CEG",
             "price": 286.5,
-            "change": "+0.4%"
+            "change": "+2.23%"
         },
         {
             "symbol": "VST",
             "price": 154.73,
-            "change": "+2.68%"
+            "change": "-2.82%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.44,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
             0.52,
             0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
             0.5,
-            0.51
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.31,
-            25.01,
-            25.33,
-            25.21,
-            24.85,
-            24.64,
-            24.79,
-            24.96,
-            24.5,
+            24.38,
+            24.45,
+            24.61,
+            24.94,
             24.97,
-            24.69,
-            25.04
+            25.25,
+            25.71,
+            25.34,
+            25.08,
+            24.94,
+            25.1,
+            25.46
         ],
         "hsd_history_software": [
-            9.6,
-            9.67,
-            9.77,
-            9.92,
-            9.89,
-            9.79,
-            9.76,
-            9.92,
-            9.81,
-            9.71,
-            9.89,
-            9.97
+            10.71,
+            10.69,
+            10.83,
+            10.71,
+            10.75,
+            10.82,
+            10.88,
+            10.68,
+            10.47,
+            10.4,
+            10.3,
+            10.19
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "21:31",
+            "tag": "MERCADO",
+            "text": "Equinix Inc. stock (US29444U7033): Is data center demand strong enough to drive sustained U.S. investor gains?"
+        },
+        {
+            "time": "21:08",
+            "tag": "MERCADO",
+            "text": "Rosenblatt Upgrades Arista Networks (ANET) Stock to Buy from Neutral"
+        },
+        {
+            "time": "21:06",
+            "tag": "MERCADO",
+            "text": "Morgan Stanley Maintains Buy Rating on S&P Global (SPGI) Stock"
+        },
+        {
+            "time": "21:06",
+            "tag": "MERCADO",
+            "text": "Rosenblatt Upgrades Arista Networks (ANET) Stock to Buy from Neutral"
+        },
+        {
             "time": "19:55",
             "tag": "MERCADO",
             "text": "Mouser shipping Microchip PIC32CM PL10 Arm Cortex\u2011M0+ microcontrollers"
-        },
-        {
-            "time": "19:20",
-            "tag": "AI",
-            "text": "Microsoft Corporation stock (US5949181045): Is AI dominance strong enough to unlock new upside?"
-        },
-        {
-            "time": "19:07",
-            "tag": "AI",
-            "text": "Gilead (GILD), Tempus AI (TEM) Expand Multi-Year Oncology R&D Collaboration"
-        },
-        {
-            "time": "18:43",
-            "tag": "MERCADO",
-            "text": "Here\u2019s What The Street Thinks About Advanced Micro Devices (AMD)"
-        },
-        {
-            "time": "18:40",
-            "tag": "MERCADO",
-            "text": "Massachusetts Financial Firm Reduces Stake in Pegasystems"
         }
     ]
 }
