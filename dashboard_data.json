@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-12 05:26 UTC",
+        "last_updated": "2026-04-12 07:19 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 188.63,
-            "change": "+2.61%"
+            "change": "+2.71%"
         },
         {
             "symbol": "AMD",
             "price": 245.04,
-            "change": "+1.38%"
+            "change": "-2.5%"
         },
         {
             "symbol": "MSFT",
             "price": 370.87,
-            "change": "-2.64%"
+            "change": "+1.19%"
         },
         {
             "symbol": "CEG",
             "price": 286.5,
-            "change": "+0.87%"
+            "change": "-0.55%"
         },
         {
             "symbol": "VST",
             "price": 154.73,
-            "change": "+2.16%"
+            "change": "-1.93%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.64,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
             0.5,
             0.49,
-            0.5
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.51,
-            25.12,
-            24.64,
-            24.84,
+            25.86,
+            25.68,
+            25.18,
+            25.16,
+            25.62,
+            25.58,
+            25.67,
+            25.36,
+            25.23,
+            24.99,
             25.27,
-            25.06,
-            25.1,
-            24.71,
-            24.85,
-            25.34,
-            25.41,
-            25.41
+            25.0
         ],
         "hsd_history_software": [
-            9.44,
-            9.41,
-            9.54,
-            9.51,
-            9.6,
-            9.56,
-            9.69,
-            9.64,
-            9.82,
-            9.79,
+            9.87,
+            9.9,
             9.8,
-            9.81
+            9.93,
+            9.97,
+            9.94,
+            10.11,
+            10.29,
+            10.21,
+            10.02,
+            10.01,
+            9.95
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "06:27",
+            "tag": "MERCADO",
+            "text": "Verizon Communications Inc. stock (US92343V1044): Is its 5G leadership strong enough to unlock new u"
+        },
+        {
+            "time": "06:10",
+            "tag": "MERCADO",
+            "text": "Trading Systems Reacting to (PERI) Volatility"
+        },
+        {
+            "time": "05:41",
+            "tag": "MERCADO",
+            "text": "Did Stock Split, Board Additions and Pet Push Just Shift Booking Holdings' (BKNG) Investment Narrative?"
+        },
+        {
+            "time": "05:09",
+            "tag": "MERCADO",
+            "text": "Fidelity Yield Enhanced Equity ETF ETF Price, Holdings, & News (BATS:FYEE)"
+        },
+        {
             "time": "04:39",
             "tag": "MERCADO",
             "text": "ManpowerGroup Inc stock drops amid sector rotation"
-        },
-        {
-            "time": "04:35",
-            "tag": "MERCADO",
-            "text": "C\u00e9sar Cernuda, President at NetApp, Receives Prestigious HITEC 100 Recognition for 2026"
-        },
-        {
-            "time": "04:25",
-            "tag": "MERCADO",
-            "text": "Blackstone Eyes Long Term Growth In Data Centers And Aircraft Leasing"
-        },
-        {
-            "time": "04:23",
-            "tag": "AI",
-            "text": "The Bull Case For Digital Realty Trust (DLR) Could Change Following Its S$7 Billion Asia AI Expansion"
-        },
-        {
-            "time": "04:21",
-            "tag": "AI",
-            "text": "Fortinet Breach And AI Exploit Fears Reframe Long Term Investment Story"
         }
     ]
 }
