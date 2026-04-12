@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-11 23:38 UTC",
+        "last_updated": "2026-04-12 02:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 188.63,
-            "change": "+2.8%"
+            "change": "+2.04%"
         },
         {
             "symbol": "AMD",
             "price": 245.04,
-            "change": "+2.08%"
+            "change": "-2.97%"
         },
         {
             "symbol": "MSFT",
             "price": 370.87,
-            "change": "+1.03%"
+            "change": "+1.79%"
         },
         {
             "symbol": "CEG",
             "price": 286.5,
-            "change": "+3.09%"
+            "change": "+1.87%"
         },
         {
             "symbol": "VST",
             "price": 154.73,
-            "change": "-0.52%"
+            "change": "-3.08%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.55,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
+            0.5,
             0.5,
             0.5,
             0.5,
             0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.5,
-            0.51
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.82,
-            24.6,
-            24.2,
+            25.47,
+            25.2,
+            25.22,
+            25.2,
+            24.85,
             24.53,
-            24.37,
-            24.47,
-            24.52,
-            24.8,
-            24.86,
-            24.67,
-            25.02,
-            24.54
+            24.39,
+            24.43,
+            24.57,
+            24.84,
+            24.91,
+            24.62
         ],
         "hsd_history_software": [
-            9.96,
-            9.96,
-            9.9,
-            9.79,
-            9.81,
-            9.77,
-            9.61,
-            9.73,
-            9.79,
-            9.99,
-            9.86,
-            10.05
+            10.25,
+            10.06,
+            10.16,
+            10.32,
+            10.29,
+            10.15,
+            10.27,
+            10.12,
+            10.1,
+            10.21,
+            10.35,
+            10.17
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:50",
+            "time": "01:41",
             "tag": "AI",
-            "text": "A Look At Analog Devices (ADI) Valuation As Geopolitics Ease And AI Demand Supports Semiconductor Momentum"
+            "text": "Assessing Arista Networks (ANET) Valuation After New AI Networking Optics Launch And Partnerships"
         },
         {
-            "time": "22:46",
+            "time": "01:40",
+            "tag": "MERCADO",
+            "text": "Investors Shift from UPS to Applied Materials & Caterpillar | 2026 Market Trends - News and Statistics"
+        },
+        {
+            "time": "01:37",
             "tag": "AI",
-            "text": "Does Tempus AI\u2019s (TEM) Deeper Gilead Tie Mark a Shift in Its Platform Strategy?"
+            "text": "Fair Isaac (FICO) Is Down 15.4% After Credit Score Pricing Probe And Rising AI Competition - Has The Bull Case Changed?"
         },
         {
-            "time": "22:09",
+            "time": "00:13",
             "tag": "MERCADO",
-            "text": "10 Stocks Powering Portfolios by Double Digits"
+            "text": "Rockwell Automation Outperforms XCHG in Key Metrics"
         },
         {
-            "time": "21:55",
+            "time": "23:30",
             "tag": "MERCADO",
-            "text": "Astera Labs (ALAB) Eyes \u2018High Double-Digit Growth,\u2019 Soars 27%"
-        },
-        {
-            "time": "21:41",
-            "tag": "MERCADO",
-            "text": "Is Citigroup\u2019s (C) Latest Capital Moves Quietly Redefining Its Simplification Story?"
+            "text": "Netflix: The $7.4 Billion You Won't Find In Its Debt Line \u2014 But Maybe You Should"
         }
     ]
 }
