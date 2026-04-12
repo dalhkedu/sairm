@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-12 11:36 UTC",
+        "last_updated": "2026-04-12 13:08 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 188.63,
-            "change": "-0.52%"
+            "change": "+1.14%"
         },
         {
             "symbol": "AMD",
             "price": 245.04,
-            "change": "-3.04%"
+            "change": "+0.61%"
         },
         {
             "symbol": "MSFT",
             "price": 370.87,
-            "change": "+1.97%"
+            "change": "-3.29%"
         },
         {
             "symbol": "CEG",
             "price": 286.5,
-            "change": "-0.97%"
+            "change": "-0.98%"
         },
         {
             "symbol": "VST",
             "price": 154.73,
-            "change": "+2.4%"
+            "change": "-3.49%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.49,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.48,
             0.48,
             0.49,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.51
+            0.49
         ],
         "hsd_history_hardware": [
-            23.97,
-            24.45,
-            24.91,
-            24.76,
-            24.92,
-            25.04,
-            24.78,
-            24.8,
-            24.54,
-            24.8,
-            24.71,
-            24.97
+            25.67,
+            26.03,
+            25.55,
+            25.93,
+            25.96,
+            26.11,
+            26.21,
+            25.9,
+            25.56,
+            25.52,
+            25.78,
+            25.41
         ],
         "hsd_history_software": [
-            10.36,
-            10.53,
-            10.52,
-            10.32,
-            10.12,
-            10.01,
-            10.06,
-            10.02,
-            10.08,
-            10.12,
-            10.01,
-            9.9
+            9.83,
+            9.89,
+            9.88,
+            9.74,
+            9.76,
+            9.85,
+            9.82,
+            9.7,
+            9.71,
+            9.72,
+            9.91,
+            10.01
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:08",
-            "tag": "MERCADO",
-            "text": "ASML Holding N.V. $ASML Shares Sold by Integrated Financial Solutions Inc."
+            "time": "12:25",
+            "tag": "RESULTADOS",
+            "text": "A Look At Emerson Electric (EMR) Valuation As Earnings Beat And Guidance Upgrade Lift Interest"
         },
         {
-            "time": "11:04",
+            "time": "11:39",
             "tag": "MERCADO",
-            "text": "Sumitomo Mitsui Trust Group Inc. Sells 36,128 Shares of Verizon Communications Inc. $VZ"
+            "text": "Is Cellebrite (CLBT) Quietly Redefining Its Competitive Moat With Expanded Forensics and Cloud Testing?"
         },
         {
-            "time": "11:04",
+            "time": "11:38",
             "tag": "MERCADO",
-            "text": "eBay Inc. $EBAY Shares Acquired by Robeco Institutional Asset Management B.V."
+            "text": "Greenup Street Wealth Management LLC Boosts Stock Position in Qualcomm Incorporated $QCOM"
         },
         {
-            "time": "11:02",
+            "time": "11:36",
             "tag": "MERCADO",
-            "text": "Sumitomo Mitsui Trust Group Inc. Lowers Stock Position in International Business Machines Corporation $IBM"
+            "text": "Greenup Street Wealth Management LLC Reduces Position in Lam Research Corporation $LRCX"
         },
         {
-            "time": "11:02",
+            "time": "11:26",
             "tag": "MERCADO",
-            "text": "KG&L Capital Management LLC Purchases 18,075 Shares of Netflix, Inc. $NFLX"
+            "text": "Robeco Institutional Asset Management B.V. Buys 21,914 Shares of Adobe Inc. $ADBE"
         }
     ]
 }
