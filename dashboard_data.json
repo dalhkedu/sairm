@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-13 20:08 UTC",
+        "last_updated": "2026-04-13 21:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 189.31,
-            "change": "-0.42%"
+            "change": "+2.9%"
         },
         {
             "symbol": "AMD",
-            "price": 246.82,
-            "change": "-1.08%"
+            "price": 246.83,
+            "change": "+0.38%"
         },
         {
             "symbol": "MSFT",
             "price": 384.37,
-            "change": "+3.42%"
+            "change": "+1.19%"
         },
         {
             "symbol": "CEG",
             "price": 291.72,
-            "change": "-3.38%"
+            "change": "-1.1%"
         },
         {
             "symbol": "VST",
-            "price": 158.16,
-            "change": "-2.19%"
+            "price": 158.2,
+            "change": "-1.98%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.42,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
+            0.48,
+            0.49,
             0.48,
             0.48,
-            0.48,
-            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
             0.49,
             0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            26.76,
-            26.4,
-            26.24,
-            25.95,
-            25.72,
-            25.32,
-            25.4,
-            25.09,
-            24.83,
-            24.69,
-            24.57,
-            24.59
+            26.22,
+            26.01,
+            25.58,
+            25.42,
+            25.71,
+            25.46,
+            25.16,
+            25.41,
+            25.45,
+            25.43,
+            24.98,
+            25.49
         ],
         "hsd_history_software": [
-            10.39,
-            10.42,
-            10.25,
-            10.09,
-            10.09,
+            10.06,
+            10.27,
+            10.28,
+            10.34,
+            10.41,
+            10.53,
+            10.48,
+            10.31,
+            10.17,
             10.21,
-            10.03,
-            10.04,
-            10.06,
-            10.15,
-            10.06,
-            9.95
+            10.21,
+            10.18
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:18",
+            "time": "21:04",
             "tag": "MERCADO",
-            "text": "S&P Global Inc Stock (SPGI) Moved Up by 3.04% on Apr 13: Drivers Behind the Movement"
+            "text": "Progressive Corp stock (US7433151039): Is its auto insurance dominance now the real test amid rising risks?"
         },
         {
-            "time": "19:15",
+            "time": "20:58",
             "tag": "MERCADO",
-            "text": "PayPal Holdings Inc Stock (PYPL) Moved Up by 5.76% on Apr 13: Key Drivers Unveiled"
+            "text": "Emerson Electric stock (US2910111044): Is its automation edge strong enough to unlock new upside?"
         },
         {
-            "time": "19:02",
+            "time": "20:54",
             "tag": "MERCADO",
-            "text": "Caisse pursuing European logistics market with joint venture, backing technology company funding plan"
+            "text": "Claude Did This Redditor\u2019s Taxes. They Claim Intuit Is \u2018Cooked\u2019"
         },
         {
-            "time": "19:01",
-            "tag": "MERCADO",
-            "text": "B. Riley Financial Issues Positive Forecast for Applied Materials Stock Price"
+            "time": "20:54",
+            "tag": "AI",
+            "text": "Advanced Micro Devices, Inc. stock (US0079031078): Is AI chip dominance strong enough to unlock new upside?"
         },
         {
-            "time": "18:59",
-            "tag": "MERCADO",
-            "text": "Uber and Alliance for HOPE International Expand \"Hope Rides\" Program to Florida"
+            "time": "20:29",
+            "tag": "AI",
+            "text": "Cisco reportedly in talks to acquire AI security startup Astrix for up to $350 million | brief | SC Media"
         }
     ]
 }
