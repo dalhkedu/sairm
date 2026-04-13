@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-13 02:58 UTC",
+        "last_updated": "2026-04-13 05:47 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 188.63,
-            "change": "-1.14%"
+            "change": "-1.77%"
         },
         {
             "symbol": "AMD",
             "price": 245.04,
-            "change": "-3.4%"
+            "change": "+2.46%"
         },
         {
             "symbol": "MSFT",
             "price": 370.87,
-            "change": "+3.23%"
+            "change": "-1.18%"
         },
         {
             "symbol": "CEG",
             "price": 286.5,
-            "change": "+1.42%"
+            "change": "+2.48%"
         },
         {
             "symbol": "VST",
             "price": 154.73,
-            "change": "+2.27%"
+            "change": "-2.62%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.57,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
             0.51,
             0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
             0.5,
             0.5,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.5,
-            0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            25.17,
-            24.7,
-            24.75,
-            24.7,
-            24.96,
-            24.48,
-            24.79,
-            25.11,
-            25.18,
-            25.44,
-            25.06,
-            24.91
+            25.95,
+            25.72,
+            25.48,
+            25.36,
+            25.4,
+            25.29,
+            25.58,
+            25.26,
+            25.3,
+            25.21,
+            25.38,
+            25.43
         ],
         "hsd_history_software": [
-            10.39,
-            10.29,
-            10.39,
-            10.4,
-            10.34,
-            10.25,
-            10.36,
-            10.39,
-            10.39,
-            10.19,
-            10.04,
-            9.98
+            10.31,
+            10.28,
+            10.18,
+            10.26,
+            10.1,
+            9.93,
+            9.86,
+            9.88,
+            9.99,
+            10.09,
+            10.03,
+            9.9
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "00:38",
+            "time": "05:09",
             "tag": "MERCADO",
-            "text": "Bosch, Qualcomm Extend Strategic Partnership Into Advanced Driver Assistance Systems"
+            "text": "Innovative Eyewear, Inc., Lucyd Armor Smart Safety Eyewear Receive NHPA Retailer\u2019s Choice Award"
         },
         {
-            "time": "00:34",
+            "time": "05:07",
             "tag": "MERCADO",
-            "text": "A Look At Microchip Technology (MCHP) Valuation After Strait Of Hormuz Reopening And Everspin Agreement"
+            "text": "ON Semiconductor (NASDAQ:ON) Stock Rating Upgraded by Wall Street Zen"
         },
         {
-            "time": "00:30",
-            "tag": "AI",
-            "text": "Micron Technology: Financial Performance, AI Demand, and Stock Forecast - News and Statistics"
+            "time": "04:44",
+            "tag": "MERCADO",
+            "text": "Does Lightwave Logic\u2019s (LWLG) Design Integration Quietly Redefine Its Long\u2011Term Commercialization Path?"
         },
         {
-            "time": "23:37",
+            "time": "04:40",
             "tag": "MERCADO",
-            "text": "Does Dangote Refinery Digital Deal Reshape the Bull Case for Honeywell International (HON)?"
+            "text": "KVH Expands Coverage And Capacity Of European Mini-VSAT Broadband Network"
         },
         {
-            "time": "23:09",
+            "time": "04:33",
             "tag": "MERCADO",
-            "text": "Deere settles \u201cRight to Repair\u201d lawsuit, awaits federal court approval"
+            "text": "KVH Rolls Out Global Upgrade to mini-VSAT Broadband; Boosts Uplink Speed to 1 Mbps"
         }
     ]
 }
