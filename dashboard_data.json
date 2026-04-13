@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-13 16:16 UTC",
+        "last_updated": "2026-04-13 18:05 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 188.01,
-            "change": "+2.12%"
+            "price": 188.21,
+            "change": "+0.02%"
         },
         {
             "symbol": "AMD",
-            "price": 244.49,
-            "change": "-2.7%"
+            "price": 245.24,
+            "change": "+2.93%"
         },
         {
             "symbol": "MSFT",
-            "price": 380.12,
-            "change": "+0.78%"
+            "price": 382.07,
+            "change": "-1.53%"
         },
         {
             "symbol": "CEG",
-            "price": 284.76,
-            "change": "+3.09%"
+            "price": 290.77,
+            "change": "+2.45%"
         },
         {
             "symbol": "VST",
-            "price": 157.95,
-            "change": "-0.01%"
+            "price": 158.98,
+            "change": "-0.18%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.44,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
             0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
             0.5,
-            0.5,
-            0.5,
-            0.5
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.08,
-            24.96,
-            24.7,
-            24.25,
-            24.7,
-            25.08,
-            24.8,
-            25.06,
-            25.3,
-            25.21,
-            25.32,
-            24.86
+            23.98,
+            23.89,
+            24.09,
+            24.56,
+            24.83,
+            24.94,
+            25.23,
+            24.84,
+            24.82,
+            25.11,
+            25.38,
+            24.96
         ],
         "hsd_history_software": [
-            9.55,
-            9.67,
-            9.53,
-            9.54,
-            9.61,
             9.78,
-            9.81,
+            9.91,
+            10.01,
+            9.98,
             9.79,
-            9.74,
-            9.88,
-            9.79,
-            9.82
+            9.67,
+            9.61,
+            9.71,
+            9.58,
+            9.75,
+            9.93,
+            10.03
         ],
         "rci_data": [
             85.0,
-            18.801
+            18.821
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:34",
-            "tag": "MERCADO",
-            "text": "Autodesk appoints Mike Kelly as Chief Information Officer"
+            "time": "17:26",
+            "tag": "AI",
+            "text": "Supermicro Introduces Compact, Energy-Efficient Systems to Accelerate Adoption of Intelligent Edge AI"
         },
         {
-            "time": "15:34",
-            "tag": "MERCADO",
-            "text": "Thermo Fisher Scientific\u2019s PPD Clinical Research Business Collaborates with HealthVerity to Expand Real-World Data Capabilities"
+            "time": "17:23",
+            "tag": "AI",
+            "text": "Cisco Systems Inc. stock (US17275R1023): Is AI networking demand strong enough to unlock new upside?"
         },
         {
-            "time": "15:16",
-            "tag": "MERCADO",
-            "text": "Goldman Sachs Double Downgrades Best Buy to Sell as Memory Cost Headwinds Threaten Margins"
+            "time": "17:05",
+            "tag": "AI",
+            "text": "Cisco Systems, Inc. stock (US17275R1023): Is networking strength enough to capture AI data center growth?"
         },
         {
-            "time": "15:15",
+            "time": "17:04",
             "tag": "MERCADO",
-            "text": "Goldman Sachs Double Downgrades Best Buy to Sell as Memory Cost Headwinds Threaten Margins"
+            "text": "Lotus Technology (NASDAQ:LOT) Shares Gap Down - What's Next?"
         },
         {
-            "time": "14:58",
+            "time": "17:01",
             "tag": "MERCADO",
-            "text": "Qualcomm expands strategic advanced driver assistance systems, immersive eyewear collaborations"
+            "text": "Following layoffs, Oracle pursues zoning change for East Bank campus"
         }
     ]
 }
