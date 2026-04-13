@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-13 05:47 UTC",
+        "last_updated": "2026-04-13 08:09 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 188.63,
-            "change": "-1.77%"
+            "change": "-2.19%"
         },
         {
             "symbol": "AMD",
             "price": 245.04,
-            "change": "+2.46%"
+            "change": "-0.94%"
         },
         {
             "symbol": "MSFT",
             "price": 370.87,
-            "change": "-1.18%"
+            "change": "+3.33%"
         },
         {
             "symbol": "CEG",
             "price": 286.5,
-            "change": "+2.48%"
+            "change": "-1.06%"
         },
         {
             "symbol": "VST",
             "price": 154.73,
-            "change": "-2.62%"
+            "change": "-1.54%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.52,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.51,
             0.5,
             0.51,
+            0.51,
+            0.5,
+            0.51,
+            0.5,
             0.51,
             0.52,
-            0.51,
-            0.51,
-            0.51,
             0.52,
             0.51,
-            0.5,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            25.95,
-            25.72,
-            25.48,
-            25.36,
-            25.4,
-            25.29,
-            25.58,
-            25.26,
+            25.05,
+            24.9,
+            24.6,
+            24.54,
+            24.47,
+            24.74,
+            24.79,
+            25.13,
             25.3,
-            25.21,
-            25.38,
-            25.43
+            25.28,
+            25.32,
+            24.92
         ],
         "hsd_history_software": [
-            10.31,
-            10.28,
-            10.18,
-            10.26,
-            10.1,
-            9.93,
-            9.86,
-            9.88,
-            9.99,
-            10.09,
-            10.03,
-            9.9
+            10.49,
+            10.56,
+            10.63,
+            10.44,
+            10.33,
+            10.2,
+            10.02,
+            10.21,
+            10.12,
+            9.92,
+            10.05,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:09",
+            "time": "07:30",
             "tag": "MERCADO",
-            "text": "Innovative Eyewear, Inc., Lucyd Armor Smart Safety Eyewear Receive NHPA Retailer\u2019s Choice Award"
+            "text": "Baillie Gifford & Co. Lowers Stake in Autodesk, Inc. $ADSK"
         },
         {
-            "time": "05:07",
+            "time": "07:30",
             "tag": "MERCADO",
-            "text": "ON Semiconductor (NASDAQ:ON) Stock Rating Upgraded by Wall Street Zen"
+            "text": "Baillie Gifford & Co. Sells 339,086 Shares of ON Semiconductor Corporation $ON"
         },
         {
-            "time": "04:44",
+            "time": "07:30",
             "tag": "MERCADO",
-            "text": "Does Lightwave Logic\u2019s (LWLG) Design Integration Quietly Redefine Its Long\u2011Term Commercialization Path?"
+            "text": "Baillie Gifford & Co. Sells 69,768 Shares of Paycom Software, Inc. $PAYC"
         },
         {
-            "time": "04:40",
-            "tag": "MERCADO",
-            "text": "KVH Expands Coverage And Capacity Of European Mini-VSAT Broadband Network"
+            "time": "07:29",
+            "tag": "AI",
+            "text": "Advanced Micro Devices, Inc. stock (US0079031078): Is AI demand acceleration now the real test for sustained growth?"
         },
         {
-            "time": "04:33",
+            "time": "07:28",
             "tag": "MERCADO",
-            "text": "KVH Rolls Out Global Upgrade to mini-VSAT Broadband; Boosts Uplink Speed to 1 Mbps"
+            "text": "Baillie Gifford & Co. Trims Stock Position in Analog Devices, Inc. $ADI"
         }
     ]
 }
