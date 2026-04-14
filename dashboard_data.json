@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-04-14 07:52 UTC",
+        "last_updated": "2026-04-14 09:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 189.31,
-            "change": "+1.51%"
+            "change": "-0.37%"
         },
         {
             "symbol": "AMD",
             "price": 246.83,
-            "change": "-0.35%"
+            "change": "+1.0%"
         },
         {
             "symbol": "MSFT",
             "price": 384.37,
-            "change": "-1.33%"
+            "change": "+3.45%"
         },
         {
             "symbol": "CEG",
             "price": 291.72,
-            "change": "-2.3%"
+            "change": "+1.42%"
         },
         {
             "symbol": "VST",
             "price": 158.2,
-            "change": "-2.03%"
+            "change": "-2.71%"
         }
     ],
     "dashboard_metrics": {
@@ -36,45 +36,45 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
-            0.51,
-            0.52,
-            0.53,
-            0.52,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.51
+            0.46,
+            0.45,
+            0.45,
+            0.45,
+            0.46,
+            0.46,
+            0.46,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.07,
-            24.52,
-            24.65,
-            24.47,
-            24.71,
-            24.25,
-            24.43,
-            24.55,
+            23.77,
+            24.23,
+            24.29,
             24.16,
-            24.65,
-            25.01,
-            24.69
+            24.09,
+            24.53,
+            24.85,
+            25.03,
+            25.24,
+            25.09,
+            24.75,
+            25.04
         ],
         "hsd_history_software": [
-            9.87,
-            10.03,
-            10.13,
-            10.01,
-            10.15,
-            9.99,
-            9.98,
-            10.15,
-            10.28,
-            10.31,
-            10.19,
+            9.17,
+            9.29,
+            9.22,
+            9.38,
+            9.56,
+            9.66,
+            9.55,
+            9.68,
+            9.78,
+            9.9,
+            9.92,
             10.09
         ],
         "rci_data": [
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:52",
+            "time": "08:35",
+            "tag": "MERCADO",
+            "text": "Financial Planning Navigators CORP Invests in Amazon"
+        },
+        {
+            "time": "08:31",
             "tag": "AI",
-            "text": "Salesforce Inc. stock (US78409V1044): Is AI differentiation now the real test for sustained growth?"
+            "text": "Synopsys Inc. stock (US8716071076): Why AI chip design leadership now drives investor value?"
         },
         {
-            "time": "06:50",
+            "time": "08:23",
             "tag": "MERCADO",
-            "text": "SES, Boeing Reach Milestone Toward Line-Fit Offerability for Multi-Orbit Connectivity"
+            "text": "Baillie Gifford Trims Stake in Cadence Design Systems"
         },
         {
-            "time": "06:38",
-            "tag": "MERCADO",
-            "text": "Roper Technologies stock (US7766961061): Why does its software-led model stand out in a fragmented market?"
-        },
-        {
-            "time": "06:37",
-            "tag": "MERCADO",
-            "text": "Honeywell International Inc. stock (US4385161066): Why supply chain resilience now becomes the real test?"
-        },
-        {
-            "time": "06:37",
+            "time": "08:06",
             "tag": "AI",
-            "text": "Novo Nordisk and OpenAI Partner to Speed Drug Discovery"
+            "text": "Corning Inc. stock (US2193501051): Does its optical connectivity edge now drive AI infrastructure up"
+        },
+        {
+            "time": "08:05",
+            "tag": "MERCADO",
+            "text": "Teradyne, Inc. $TER Stock Holdings Decreased by Diversify Advisory Services LLC"
         }
     ]
 }
