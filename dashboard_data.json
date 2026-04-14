@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-14 19:21 UTC",
+        "last_updated": "2026-04-14 20:58 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 196.19,
-            "change": "+0.1%"
+            "price": 196.51,
+            "change": "-0.17%"
         },
         {
             "symbol": "AMD",
-            "price": 255.0,
-            "change": "+1.04%"
+            "price": 255.07,
+            "change": "+1.69%"
         },
         {
             "symbol": "MSFT",
-            "price": 392.13,
-            "change": "-1.21%"
+            "price": 393.11,
+            "change": "-2.14%"
         },
         {
             "symbol": "CEG",
-            "price": 296.53,
-            "change": "+0.49%"
+            "price": 296.61,
+            "change": "+1.28%"
         },
         {
             "symbol": "VST",
-            "price": 164.41,
-            "change": "+1.51%"
+            "price": 163.97,
+            "change": "-2.64%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.57,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
+            0.5,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.5,
             0.49,
             0.49,
             0.5,
-            0.51
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.31,
-            24.76,
-            24.77,
-            24.82,
-            24.54,
-            24.79,
-            24.79,
-            25.05,
-            24.98,
-            25.38,
-            25.13,
-            25.28
+            25.23,
+            24.83,
+            24.87,
+            24.47,
+            24.05,
+            24.0,
+            24.42,
+            24.75,
+            25.24,
+            25.23,
+            25.06,
+            25.43
         ],
         "hsd_history_software": [
-            9.23,
-            9.28,
-            9.45,
-            9.56,
-            9.69,
-            9.51,
+            9.19,
+            9.33,
+            9.49,
             9.64,
-            9.72,
-            9.87,
-            9.9,
+            9.82,
+            9.73,
+            9.55,
+            9.67,
+            9.77,
             9.74,
-            9.91
+            9.89,
+            9.96
         ],
         "rci_data": [
             85.0,
-            19.619
+            19.651
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:36",
+            "time": "20:01",
             "tag": "MERCADO",
-            "text": "Comcast Settles Data Breach Lawsuit for 117 Million Dollars"
+            "text": "Monolithic Power Systems stock (US6098391054): Is its power management edge strong enough to unlock new upside?"
         },
         {
-            "time": "18:19",
+            "time": "19:58",
+            "tag": "MERCADO",
+            "text": "Georgia Tech, Coca-Cola Near North Ave Property Deal"
+        },
+        {
+            "time": "19:54",
+            "tag": "MERCADO",
+            "text": "R1 RCM Inc stock (US7493541076): Is revenue cycle management the key to healthcare profitability now"
+        },
+        {
+            "time": "19:49",
             "tag": "AI",
-            "text": "Advanced Micro Devices, Inc. stock (US0079031078): Is AI chip dominance strong enough to unlock sustained upside?"
+            "text": "Xcel Energy CEO says US must scale up power infrastructure to meet AI challenge"
         },
         {
-            "time": "18:16",
-            "tag": "MERCADO",
-            "text": "A Look At Motorola Solutions (MSI) Valuation After Its New T\u2011Mobile Satellite Connectivity Collaboration"
-        },
-        {
-            "time": "18:15",
-            "tag": "MERCADO",
-            "text": "Seagate Technology Holdings PLC Stock (STX) Moved Up by 3.18% on Apr 14: Key Drivers Unveiled"
-        },
-        {
-            "time": "18:11",
+            "time": "19:45",
             "tag": "AI",
-            "text": "American Express to Back Purchases Made by Customers\u2019 AI Agents"
+            "text": "Alphabet Inc. Class A stock (US02079K3059): Is AI integration strong enough to unlock new upside?"
         }
     ]
 }
