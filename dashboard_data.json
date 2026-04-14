@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-14 22:56 UTC",
+        "last_updated": "2026-04-14 23:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 196.51,
-            "change": "+3.18%"
+            "change": "+2.16%"
         },
         {
             "symbol": "AMD",
             "price": 255.07,
-            "change": "-0.03%"
+            "change": "+2.89%"
         },
         {
             "symbol": "MSFT",
             "price": 393.11,
-            "change": "+1.93%"
+            "change": "+1.35%"
         },
         {
             "symbol": "CEG",
             "price": 296.61,
-            "change": "-1.18%"
+            "change": "-1.29%"
         },
         {
             "symbol": "VST",
             "price": 163.97,
-            "change": "-1.69%"
+            "change": "+0.58%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.54,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.49,
             0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
             0.5,
             0.49,
             0.5,
             0.5,
-            0.51,
-            0.51,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
             24.58,
-            24.68,
-            24.83,
-            25.08,
-            25.5,
-            25.55,
-            25.62,
-            25.76,
-            25.33,
-            25.22,
-            25.06,
-            24.64
+            24.81,
+            24.9,
+            25.21,
+            25.32,
+            25.02,
+            25.3,
+            25.4,
+            24.97,
+            25.38,
+            25.68,
+            25.37
         ],
         "hsd_history_software": [
-            10.26,
-            10.36,
-            10.17,
-            10.28,
-            10.11,
-            9.98,
+            9.73,
+            9.92,
             10.1,
             10.1,
-            10.05,
-            10.0,
-            9.93,
-            9.9
+            9.97,
+            9.82,
+            10.02,
+            10.06,
+            10.04,
+            9.86,
+            9.8,
+            9.92
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:56",
+            "time": "22:55",
             "tag": "MERCADO",
-            "text": "Akamai Technologies Inc (AKAM) Stock Down 6.4% -- Now Undervalued? GF Score: 81/100"
+            "text": "Axon Enterprise Inc. stock (US05464C1018): Is its public safety tech dominance strong enough to unlock new upside?"
         },
         {
-            "time": "21:52",
+            "time": "22:49",
             "tag": "MERCADO",
-            "text": "PATENT\u2014N.D. Ill.: Motorola\u2019s direct infringement claims against global provider Hytera fail, indirect claims survive"
+            "text": "Broadcom Announces Extended Partnership with Meta to Deploy Technology to Support Multi-Gigawatts of Meta's Custom Silicon, MTIA"
         },
         {
-            "time": "21:52",
-            "tag": "MERCADO",
-            "text": "News Corp (Class B) stock (US65249B2088): Is its digital shift strong enough to unlock new upside?"
+            "time": "22:40",
+            "tag": "AI",
+            "text": "Broadcom and Meta forge multiyear chip partnership to power AI infrastructure"
         },
         {
-            "time": "21:47",
+            "time": "22:37",
             "tag": "MERCADO",
-            "text": "Align Technology Inc. stock (US0162551016): Is clear aligner dominance strong enough to unlock new upside?"
+            "text": "Tech giant eBay to close S.F. office, relocate 198 employees to San Jose headquarters"
         },
         {
-            "time": "21:46",
+            "time": "22:31",
             "tag": "MERCADO",
-            "text": "Qualcomm (NASDAQ:QCOM) Stock Price Up 1.2% - Should You Buy?"
+            "text": "Caterpillar acquires self-driving electric tractor startup"
         }
     ]
 }
