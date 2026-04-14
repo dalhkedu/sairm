@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-14 17:14 UTC",
+        "last_updated": "2026-04-14 19:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 194.56,
-            "change": "-3.24%"
+            "price": 196.19,
+            "change": "+0.1%"
         },
         {
             "symbol": "AMD",
-            "price": 252.64,
-            "change": "+2.2%"
+            "price": 255.0,
+            "change": "+1.04%"
         },
         {
             "symbol": "MSFT",
-            "price": 394.1,
-            "change": "-1.23%"
+            "price": 392.13,
+            "change": "-1.21%"
         },
         {
             "symbol": "CEG",
-            "price": 294.56,
-            "change": "+0.37%"
+            "price": 296.53,
+            "change": "+0.49%"
         },
         {
             "symbol": "VST",
-            "price": 163.76,
-            "change": "+2.7%"
+            "price": 164.41,
+            "change": "+1.51%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
-        "rci_current": 0.19,
+        "cer_current": 0.65,
+        "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.51,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            25.1,
-            25.29,
-            25.17,
-            25.24,
-            25.27,
-            25.0,
-            25.01,
-            24.87,
-            24.55,
-            24.43,
-            24.84,
-            24.72
+            24.31,
+            24.76,
+            24.77,
+            24.82,
+            24.54,
+            24.79,
+            24.79,
+            25.05,
+            24.98,
+            25.38,
+            25.13,
+            25.28
         ],
         "hsd_history_software": [
-            10.25,
-            10.22,
-            10.25,
-            10.09,
-            10.06,
-            9.93,
-            9.93,
-            10.04,
-            10.07,
-            10.07,
-            9.96,
-            9.84
+            9.23,
+            9.28,
+            9.45,
+            9.56,
+            9.69,
+            9.51,
+            9.64,
+            9.72,
+            9.87,
+            9.9,
+            9.74,
+            9.91
         ],
         "rci_data": [
             85.0,
-            19.456
+            19.619
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:39",
+            "time": "18:36",
             "tag": "MERCADO",
-            "text": "WATCH: Technical analysis on iShares Expanded Tech-Software Sector ETF, and iShares Ethereum Trust ETF"
+            "text": "Comcast Settles Data Breach Lawsuit for 117 Million Dollars"
         },
         {
-            "time": "16:32",
-            "tag": "MERCADO",
-            "text": "NASA using Ansys-developed technology to test how spacesuits react to the moon"
+            "time": "18:19",
+            "tag": "AI",
+            "text": "Advanced Micro Devices, Inc. stock (US0079031078): Is AI chip dominance strong enough to unlock sustained upside?"
         },
         {
-            "time": "16:15",
+            "time": "18:16",
             "tag": "MERCADO",
-            "text": "Alphabet Inc Class A Stock (GOOGL) Moved Up by 3.36% on Apr 14: What Signal Does It Send?"
+            "text": "A Look At Motorola Solutions (MSI) Valuation After Its New T\u2011Mobile Satellite Connectivity Collaboration"
         },
         {
-            "time": "16:15",
+            "time": "18:15",
             "tag": "MERCADO",
-            "text": "Micron Technology Inc Stock (MU) Moved Up by 3.04% on Apr 14: What Signal Does It Send?"
+            "text": "Seagate Technology Holdings PLC Stock (STX) Moved Up by 3.18% on Apr 14: Key Drivers Unveiled"
         },
         {
-            "time": "16:15",
-            "tag": "MERCADO",
-            "text": "Amazon.com Inc Stock (AMZN) Moved Up by 3.45% on Apr 14: Key Drivers Unveiled"
+            "time": "18:11",
+            "tag": "AI",
+            "text": "American Express to Back Purchases Made by Customers\u2019 AI Agents"
         }
     ]
 }
