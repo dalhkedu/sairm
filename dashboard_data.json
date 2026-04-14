@@ -1,80 +1,80 @@
 {
     "metadata": {
-        "last_updated": "2026-04-14 05:27 UTC",
+        "last_updated": "2026-04-14 07:52 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 189.31,
-            "change": "+2.03%"
+            "change": "+1.51%"
         },
         {
             "symbol": "AMD",
             "price": 246.83,
-            "change": "+1.48%"
+            "change": "-0.35%"
         },
         {
             "symbol": "MSFT",
             "price": 384.37,
-            "change": "+1.0%"
+            "change": "-1.33%"
         },
         {
             "symbol": "CEG",
             "price": 291.72,
-            "change": "+0.24%"
+            "change": "-2.3%"
         },
         {
             "symbol": "VST",
             "price": 158.2,
-            "change": "-1.19%"
+            "change": "-2.03%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.69,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.47,
-            0.47,
-            0.48,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
             0.5,
-            0.5,
-            0.49
+            0.51,
+            0.51,
+            0.52,
+            0.53,
+            0.52,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.02,
-            25.18,
-            25.62,
-            25.13,
-            25.01,
-            24.56,
+            24.07,
+            24.52,
+            24.65,
+            24.47,
+            24.71,
+            24.25,
+            24.43,
             24.55,
-            24.5,
-            24.96,
-            24.89,
-            25.0,
-            24.78
+            24.16,
+            24.65,
+            25.01,
+            24.69
         ],
         "hsd_history_software": [
-            10.26,
-            10.28,
-            10.21,
-            10.11,
-            10.09,
-            9.93,
-            10.05,
-            9.97,
-            10.05,
+            9.87,
+            10.03,
+            10.13,
+            10.01,
             10.15,
-            9.96,
+            9.99,
+            9.98,
+            10.15,
+            10.28,
+            10.31,
+            10.19,
             10.09
         ],
         "rci_data": [
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:14",
-            "tag": "MERCADO",
-            "text": "Align Technology Inc. stock (US0162551016): Is clear aligner dominance still enough amid shifting dental tech demands?"
-        },
-        {
-            "time": "04:09",
+            "time": "06:52",
             "tag": "AI",
-            "text": "Heartflow sues rival Cleerly over AI cardiology technology"
+            "text": "Salesforce Inc. stock (US78409V1044): Is AI differentiation now the real test for sustained growth?"
         },
         {
-            "time": "04:09",
+            "time": "06:50",
             "tag": "MERCADO",
-            "text": "Debt-for-equity swap at HUB Cyber Security (HUBC) adds 41.45M shares"
+            "text": "SES, Boeing Reach Milestone Toward Line-Fit Offerability for Multi-Orbit Connectivity"
         },
         {
-            "time": "03:55",
+            "time": "06:38",
+            "tag": "MERCADO",
+            "text": "Roper Technologies stock (US7766961061): Why does its software-led model stand out in a fragmented market?"
+        },
+        {
+            "time": "06:37",
+            "tag": "MERCADO",
+            "text": "Honeywell International Inc. stock (US4385161066): Why supply chain resilience now becomes the real test?"
+        },
+        {
+            "time": "06:37",
             "tag": "AI",
-            "text": "Alphabet Inc. Class A stock (US02079K3059): Is AI infrastructure demand strong enough to unlock new upside?"
-        },
-        {
-            "time": "03:54",
-            "tag": "MERCADO",
-            "text": "Verisk Analytics stock (US92345Y1064): Why insurance data dominance now drives investor edge?"
+            "text": "Novo Nordisk and OpenAI Partner to Speed Drug Discovery"
         }
     ]
 }
