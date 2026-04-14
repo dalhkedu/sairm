@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-14 20:58 UTC",
+        "last_updated": "2026-04-14 21:59 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 196.51,
-            "change": "-0.17%"
+            "change": "+1.24%"
         },
         {
             "symbol": "AMD",
             "price": 255.07,
-            "change": "+1.69%"
+            "change": "-2.22%"
         },
         {
             "symbol": "MSFT",
             "price": 393.11,
-            "change": "-2.14%"
+            "change": "-1.98%"
         },
         {
             "symbol": "CEG",
             "price": 296.61,
-            "change": "+1.28%"
+            "change": "-2.62%"
         },
         {
             "symbol": "VST",
             "price": 163.97,
-            "change": "-2.64%"
+            "change": "+0.33%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.58,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.5,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.47,
+            0.48,
             0.49,
             0.49,
             0.5,
             0.5,
-            0.5,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            25.23,
-            24.83,
+            23.9,
+            24.25,
+            24.69,
+            25.07,
             24.87,
-            24.47,
-            24.05,
-            24.0,
-            24.42,
-            24.75,
-            25.24,
-            25.23,
-            25.06,
-            25.43
+            24.89,
+            25.32,
+            25.14,
+            25.18,
+            24.89,
+            24.72,
+            25.15
         ],
         "hsd_history_software": [
-            9.19,
-            9.33,
-            9.49,
-            9.64,
-            9.82,
-            9.73,
-            9.55,
-            9.67,
-            9.77,
-            9.74,
-            9.89,
-            9.96
+            9.85,
+            9.92,
+            10.08,
+            9.9,
+            9.95,
+            10.16,
+            10.02,
+            10.15,
+            10.0,
+            9.91,
+            9.98,
+            9.94
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:01",
+            "time": "21:09",
             "tag": "MERCADO",
-            "text": "Monolithic Power Systems stock (US6098391054): Is its power management edge strong enough to unlock new upside?"
+            "text": "Snail (SNAL) spikes 206% as microcap momentum collides with high-volume trading and renewed attention on engagement milestones"
         },
         {
-            "time": "19:58",
+            "time": "21:06",
             "tag": "MERCADO",
-            "text": "Georgia Tech, Coca-Cola Near North Ave Property Deal"
+            "text": "Paychex Inc stock (US7043261079): Is its payroll moat strong enough to unlock new upside?"
         },
         {
-            "time": "19:54",
+            "time": "21:06",
             "tag": "MERCADO",
-            "text": "R1 RCM Inc stock (US7493541076): Is revenue cycle management the key to healthcare profitability now"
+            "text": "NetApp EVP O\u2019Callahan sells $96k in NTAP stock By Investing.com"
         },
         {
-            "time": "19:49",
-            "tag": "AI",
-            "text": "Xcel Energy CEO says US must scale up power infrastructure to meet AI challenge"
+            "time": "21:01",
+            "tag": "MERCADO",
+            "text": "General Motors stock (US37045V1008): Is electrification execution strong enough to unlock new upside"
         },
         {
-            "time": "19:45",
-            "tag": "AI",
-            "text": "Alphabet Inc. Class A stock (US02079K3059): Is AI integration strong enough to unlock new upside?"
+            "time": "21:01",
+            "tag": "MERCADO",
+            "text": "Aptiv PLC stock (JE00B783TY65): Why its role in the EV transition matters more now"
         }
     ]
 }
