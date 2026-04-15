@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-15 15:08 UTC",
+        "last_updated": "2026-04-15 17:08 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 199.44,
-            "change": "-3.43%"
+            "price": 197.43,
+            "change": "+3.5%"
         },
         {
             "symbol": "AMD",
-            "price": 255.8,
-            "change": "+0.59%"
+            "price": 254.01,
+            "change": "-1.12%"
         },
         {
             "symbol": "MSFT",
-            "price": 407.27,
-            "change": "-2.69%"
+            "price": 408.39,
+            "change": "+1.81%"
         },
         {
             "symbol": "CEG",
-            "price": 297.92,
-            "change": "-1.95%"
+            "price": 293.65,
+            "change": "-1.48%"
         },
         {
             "symbol": "VST",
-            "price": 164.44,
-            "change": "+2.7%"
+            "price": 162.74,
+            "change": "+0.01%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.67,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
             0.49,
             0.49,
             0.49,
-            0.49,
-            0.49,
-            0.48,
             0.49,
             0.49,
             0.49,
             0.5,
             0.5,
-            0.5
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.25,
-            25.2,
-            24.85,
-            25.23,
-            25.38,
-            25.46,
-            25.12,
+            24.95,
+            24.9,
+            24.69,
+            25.03,
+            25.28,
+            24.84,
+            24.86,
+            24.77,
+            24.74,
+            25.07,
             25.33,
-            24.88,
-            24.8,
-            24.81,
-            25.07
+            25.01
         ],
         "hsd_history_software": [
-            10.72,
-            10.6,
-            10.41,
-            10.33,
+            9.69,
+            9.89,
+            9.88,
+            9.95,
+            10.05,
+            10.02,
+            10.1,
+            10.23,
             10.18,
-            10.13,
-            10.03,
-            10.15,
-            10.01,
-            9.92,
-            10.07,
-            10.04
+            10.3,
+            10.2,
+            10.07
         ],
         "rci_data": [
             85.0,
-            19.944
+            19.743
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:34",
+            "time": "16:25",
             "tag": "MERCADO",
-            "text": "Best Buy Stock: Why Goldman Sachs Put a $59 Target Despite a $73 Wall Street Mean"
+            "text": "Allegion pitches tools to cut data center build errors and delays"
         },
         {
-            "time": "14:27",
+            "time": "16:17",
             "tag": "MERCADO",
-            "text": "Sivers and Jabil collaborate on 1.6T optical module"
+            "text": "Teradyne Stock Is Up 400% and Analysts Are Still Calling for More Upside in 2026"
         },
         {
-            "time": "14:27",
+            "time": "16:16",
+            "tag": "MERCADO",
+            "text": "Roofr Partners with Verisk for Enhanced Claims Management (VRSK)"
+        },
+        {
+            "time": "16:16",
+            "tag": "MERCADO",
+            "text": "Monarch Tractor Closes, Sells Assets to Caterpillar"
+        },
+        {
+            "time": "16:08",
             "tag": "AI",
-            "text": "Adobe launches Firefly AI assistant to handle multi-step tasks through prompts"
-        },
-        {
-            "time": "14:23",
-            "tag": "MERCADO",
-            "text": "Synopsys Extends Simulation Reach to the Lunar Surface via Artemis Program"
-        },
-        {
-            "time": "14:19",
-            "tag": "MERCADO",
-            "text": "Intuit (INTU) Completes Federal Reserve FedNow Certification Program"
+            "text": "QUALCOMM Incorporated stock (US7475251036): Is its AI chip edge strong enough to unlock new upside?"
         }
     ]
 }
