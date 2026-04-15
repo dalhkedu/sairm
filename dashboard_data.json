@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-14 23:49 UTC",
+        "last_updated": "2026-04-15 02:48 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 196.51,
-            "change": "+2.16%"
+            "change": "+1.26%"
         },
         {
             "symbol": "AMD",
             "price": 255.07,
-            "change": "+2.89%"
+            "change": "+3.22%"
         },
         {
             "symbol": "MSFT",
             "price": 393.11,
-            "change": "+1.35%"
+            "change": "+1.66%"
         },
         {
             "symbol": "CEG",
             "price": 296.61,
-            "change": "-1.29%"
+            "change": "-3.39%"
         },
         {
             "symbol": "VST",
             "price": 163.97,
-            "change": "+0.58%"
+            "change": "-0.63%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.55,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.5,
-            0.5,
-            0.5,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
             0.51,
+            0.52,
             0.51,
+            0.52,
             0.51,
             0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            24.58,
+            22.9,
+            22.52,
+            22.95,
+            23.39,
+            23.26,
+            23.26,
+            23.44,
+            23.92,
+            24.15,
+            24.52,
             24.81,
-            24.9,
-            25.21,
-            25.32,
-            25.02,
-            25.3,
-            25.4,
-            24.97,
-            25.38,
-            25.68,
-            25.37
+            25.28
         ],
         "hsd_history_software": [
-            9.73,
-            9.92,
-            10.1,
-            10.1,
-            9.97,
-            9.82,
-            10.02,
-            10.06,
-            10.04,
-            9.86,
+            9.71,
+            9.69,
+            9.78,
+            9.87,
+            10.01,
+            9.87,
+            9.72,
+            9.67,
+            9.77,
+            9.77,
             9.8,
-            9.92
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:55",
+            "time": "01:28",
             "tag": "MERCADO",
-            "text": "Axon Enterprise Inc. stock (US05464C1018): Is its public safety tech dominance strong enough to unlock new upside?"
+            "text": "Is It Too Late To Consider Equinix (EQIX) After Its Strong 2024 Share Price Run?"
         },
         {
-            "time": "22:49",
-            "tag": "MERCADO",
-            "text": "Broadcom Announces Extended Partnership with Meta to Deploy Technology to Support Multi-Gigawatts of Meta's Custom Silicon, MTIA"
-        },
-        {
-            "time": "22:40",
+            "time": "01:20",
             "tag": "AI",
-            "text": "Broadcom and Meta forge multiyear chip partnership to power AI infrastructure"
+            "text": "A Look At Fifth Third (FITB) Valuation As Newline Expands AI Automation Capabilities"
         },
         {
-            "time": "22:37",
-            "tag": "MERCADO",
-            "text": "Tech giant eBay to close S.F. office, relocate 198 employees to San Jose headquarters"
+            "time": "01:10",
+            "tag": "AI",
+            "text": "Is Thermo Fisher (TMO) Quietly Rewiring Its AI Strategy Through New Data and Proteomics Alliances?"
         },
         {
-            "time": "22:31",
+            "time": "01:00",
             "tag": "MERCADO",
-            "text": "Caterpillar acquires self-driving electric tractor startup"
+            "text": "AMERIPRISE FINANCIAL INC Significantly Reduces Holdings in Domo Inc"
+        },
+        {
+            "time": "00:30",
+            "tag": "MERCADO",
+            "text": "Autodesk (NASDAQ: ADSK) COO granted 12,921-share equity award in Form 4"
         }
     ]
 }
