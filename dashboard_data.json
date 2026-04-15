@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-15 13:45 UTC",
+        "last_updated": "2026-04-15 15:08 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 197.28,
-            "change": "-0.29%"
+            "price": 199.44,
+            "change": "-3.43%"
         },
         {
             "symbol": "AMD",
-            "price": 253.9,
-            "change": "-3.32%"
+            "price": 255.8,
+            "change": "+0.59%"
         },
         {
             "symbol": "MSFT",
-            "price": 402.43,
-            "change": "-0.09%"
+            "price": 407.27,
+            "change": "-2.69%"
         },
         {
             "symbol": "CEG",
-            "price": 295.08,
-            "change": "-0.3%"
+            "price": 297.92,
+            "change": "-1.95%"
         },
         {
             "symbol": "VST",
-            "price": 164.63,
-            "change": "+2.95%"
+            "price": 164.44,
+            "change": "+2.7%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.48,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.51
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            27.01,
-            26.52,
-            26.46,
-            26.33,
-            26.32,
-            26.39,
-            25.95,
-            25.84,
-            25.7,
-            25.52,
-            25.54,
-            25.24
+            25.25,
+            25.2,
+            24.85,
+            25.23,
+            25.38,
+            25.46,
+            25.12,
+            25.33,
+            24.88,
+            24.8,
+            24.81,
+            25.07
         ],
         "hsd_history_software": [
-            10.57,
-            10.52,
-            10.38,
-            10.21,
-            10.2,
-            10.09,
-            10.07,
-            9.92,
+            10.72,
+            10.6,
+            10.41,
+            10.33,
+            10.18,
+            10.13,
             10.03,
-            9.85,
-            9.81,
-            9.84
+            10.15,
+            10.01,
+            9.92,
+            10.07,
+            10.04
         ],
         "rci_data": [
             85.0,
-            19.728
+            19.944
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:09",
+            "time": "14:34",
             "tag": "MERCADO",
-            "text": "BPAY Stock Price, News & Analysis"
+            "text": "Best Buy Stock: Why Goldman Sachs Put a $59 Target Despite a $73 Wall Street Mean"
         },
         {
-            "time": "13:04",
+            "time": "14:27",
             "tag": "MERCADO",
-            "text": "New Adobe Premiere Color Grading Mode Accelerated on NVIDIA GPUs"
+            "text": "Sivers and Jabil collaborate on 1.6T optical module"
         },
         {
-            "time": "13:03",
-            "tag": "MERCADO",
-            "text": "How Biomarker Testing Helped a Lung Cancer Patient Get the Treatment She Needed"
-        },
-        {
-            "time": "13:02",
+            "time": "14:27",
             "tag": "AI",
-            "text": "Zenity Named in Two Categories in the 2026 Gartner\u00ae Hype Cycle\u2122 for Agentic AI"
+            "text": "Adobe launches Firefly AI assistant to handle multi-step tasks through prompts"
         },
         {
-            "time": "13:00",
+            "time": "14:23",
             "tag": "MERCADO",
-            "text": "Microsoft To $500? Here Are 10 Top Analyst Forecasts For Wednesday"
+            "text": "Synopsys Extends Simulation Reach to the Lunar Surface via Artemis Program"
+        },
+        {
+            "time": "14:19",
+            "tag": "MERCADO",
+            "text": "Intuit (INTU) Completes Federal Reserve FedNow Certification Program"
         }
     ]
 }
