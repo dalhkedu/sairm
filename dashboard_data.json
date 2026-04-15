@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-15 20:55 UTC",
+        "last_updated": "2026-04-15 21:55 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 198.87,
-            "change": "-1.77%"
+            "change": "-3.34%"
         },
         {
             "symbol": "AMD",
             "price": 258.12,
-            "change": "+1.71%"
+            "change": "-0.8%"
         },
         {
             "symbol": "MSFT",
             "price": 411.22,
-            "change": "-1.96%"
+            "change": "-2.66%"
         },
         {
             "symbol": "CEG",
             "price": 294.73,
-            "change": "+1.9%"
+            "change": "-2.2%"
         },
         {
             "symbol": "VST",
             "price": 162.94,
-            "change": "+1.97%"
+            "change": "-0.84%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.41,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
+            0.53,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            23.06,
-            22.66,
-            22.63,
-            22.97,
-            23.03,
-            23.17,
-            23.23,
-            23.5,
-            23.94,
-            24.25,
-            24.11,
-            24.51
+            24.49,
+            24.67,
+            24.94,
+            24.8,
+            25.22,
+            25.29,
+            24.9,
+            25.17,
+            25.37,
+            25.19,
+            24.86,
+            24.89
         ],
         "hsd_history_software": [
-            9.35,
-            9.3,
-            9.23,
-            9.4,
-            9.44,
-            9.47,
-            9.4,
-            9.5,
-            9.62,
+            9.81,
+            9.74,
+            9.58,
+            9.75,
             9.76,
-            9.82,
-            9.99
+            9.58,
+            9.49,
+            9.51,
+            9.7,
+            9.76,
+            9.81,
+            9.83
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:01",
-            "tag": "MERCADO",
-            "text": "Amazon.com to Webcast First Quarter 2026 Financial Results Conference Call"
+            "time": "21:06",
+            "tag": "AI",
+            "text": "Is DG\u2019s AI-Driven In-Store Audio Network Redefining Its Retail Media Ambitions?"
         },
         {
-            "time": "20:00",
+            "time": "21:03",
             "tag": "MERCADO",
-            "text": "Monolithic Power sets April 30 webinar on Q1 results, outlook"
+            "text": "Intuit Inc. stock outperforms competitors on strong trading day"
         },
         {
-            "time": "20:00",
-            "tag": "MERCADO",
-            "text": "Monolithic Power Systems to Report First Quarter 2026 Results on April 30, 2026"
+            "time": "21:02",
+            "tag": "AI",
+            "text": "Motorola Solutions buys Hyper to use AI for non-emergency calls"
         },
         {
-            "time": "19:48",
-            "tag": "MERCADO",
-            "text": "Cisco Systems, Inc. stock (US17275R1023): Is networking dominance still strong enough for sustained growth?"
+            "time": "20:47",
+            "tag": "AI",
+            "text": "Salesforce, Inc. stock (US79466L3024): Is AI innovation strong enough to unlock new upside?"
         },
         {
-            "time": "19:46",
+            "time": "20:39",
             "tag": "MERCADO",
-            "text": "Tesla's stock skyrockets over 7%. Here's why it's making moves"
+            "text": "Sezzle to Announce First Quarter 2026 Results and Participate in Upcoming Investor Events"
         }
     ]
 }
