@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-16 07:52 UTC",
+        "last_updated": "2026-04-16 09:23 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 198.87,
-            "change": "+1.11%"
+            "change": "-1.94%"
         },
         {
             "symbol": "AMD",
             "price": 258.12,
-            "change": "+0.21%"
+            "change": "+3.33%"
         },
         {
             "symbol": "MSFT",
             "price": 411.22,
-            "change": "+0.82%"
+            "change": "-0.13%"
         },
         {
             "symbol": "CEG",
             "price": 294.73,
-            "change": "-1.64%"
+            "change": "+1.23%"
         },
         {
             "symbol": "VST",
             "price": 162.94,
-            "change": "+1.44%"
+            "change": "-1.14%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.68,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
+            0.46,
+            0.47,
+            0.46,
+            0.47,
+            0.47,
             0.47,
             0.48,
             0.49,
             0.48,
-            0.48,
-            0.48,
             0.49,
-            0.48,
-            0.48,
-            0.49
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            23.4,
-            23.74,
-            24.01,
-            23.65,
-            23.83,
-            24.19,
-            23.92,
-            24.14,
-            24.48,
-            24.31,
-            24.46,
-            24.62
+            24.8,
+            24.32,
+            23.91,
+            23.99,
+            24.36,
+            24.1,
+            24.51,
+            24.88,
+            25.33,
+            25.45,
+            25.77,
+            25.44
         ],
         "hsd_history_software": [
+            10.04,
+            9.89,
+            9.96,
+            10.15,
             10.03,
-            10.22,
-            10.43,
-            10.51,
-            10.33,
-            10.14,
-            10.26,
-            10.33,
-            10.29,
-            10.16,
-            10.08,
-            10.03
+            9.85,
+            9.85,
+            9.78,
+            9.76,
+            9.72,
+            9.78,
+            9.86
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:04",
+            "time": "08:33",
             "tag": "MERCADO",
-            "text": "Adelphi Trust Co Buys Shares of 12,892 Cisco Systems, Inc. $CSCO"
+            "text": "Diversified Management Inc. Makes New $1.30 Million Investment in Cisco Systems, Inc. $CSCO"
         },
         {
-            "time": "06:39",
-            "tag": "MERCADO",
-            "text": "Life360 CFO Receives New Restricted Stock Unit Grant"
+            "time": "08:17",
+            "tag": "AI",
+            "text": "HPE Deepens NVIDIA Alliance As AI Cloud Push Shapes Valuation Story"
         },
         {
-            "time": "06:20",
+            "time": "08:09",
             "tag": "MERCADO",
-            "text": "N-able, Inc. (NYSE:NABL) Receives Average Recommendation of \"Hold\" from Analysts"
+            "text": "PLDT Home offers free installation, speedboosts and more amid rising demand for work-from-home"
         },
         {
-            "time": "05:43",
+            "time": "08:03",
             "tag": "MERCADO",
-            "text": "Google\u2019s SpaceX Stake Revealed for the First Time, What to Know About Google, SpaceX and Musk"
+            "text": "Farther Finance Advisors LLC Acquires 40,211 Shares of Cisco Systems, Inc. $CSCO"
         },
         {
-            "time": "05:37",
+            "time": "08:03",
             "tag": "MERCADO",
-            "text": "USF-Jabil Team Up for Next-Gen Medical Tech"
+            "text": "Farther Finance Advisors LLC Buys 19,254 Shares of Lam Research Corporation $LRCX"
         }
     ]
 }
