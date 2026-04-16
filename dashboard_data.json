@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-16 19:21 UTC",
+        "last_updated": "2026-04-16 20:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 198.24,
-            "change": "-2.59%"
+            "price": 198.35,
+            "change": "+3.33%"
         },
         {
             "symbol": "AMD",
-            "price": 275.02,
-            "change": "+1.64%"
+            "price": 278.26,
+            "change": "+0.81%"
         },
         {
             "symbol": "MSFT",
-            "price": 418.34,
-            "change": "+0.72%"
+            "price": 420.26,
+            "change": "+0.95%"
         },
         {
             "symbol": "CEG",
-            "price": 297.9,
-            "change": "+3.11%"
+            "price": 299.14,
+            "change": "+2.32%"
         },
         {
             "symbol": "VST",
-            "price": 164.07,
-            "change": "+1.62%"
+            "price": 165.53,
+            "change": "+0.37%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.59,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.52,
-            0.52,
-            0.52,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.5,
+            0.5,
             0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
             0.51,
             0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            26.04,
-            25.76,
-            25.36,
-            25.7,
-            25.55,
-            25.36,
-            25.71,
-            25.52,
-            25.17,
-            24.95,
-            24.52,
-            24.77
+            24.91,
+            25.34,
+            24.85,
+            25.34,
+            25.45,
+            25.13,
+            25.18,
+            25.27,
+            24.92,
+            24.7,
+            24.99,
+            24.67
         ],
         "hsd_history_software": [
-            10.48,
-            10.39,
-            10.43,
-            10.26,
-            10.3,
-            10.36,
-            10.39,
-            10.19,
-            10.21,
-            10.29,
-            10.3,
-            10.18
+            9.8,
+            9.74,
+            9.57,
+            9.6,
+            9.76,
+            9.85,
+            9.88,
+            10.05,
+            10.17,
+            10.31,
+            10.11,
+            10.09
         ],
         "rci_data": [
             85.0,
-            19.824
+            19.835
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:24",
+            "time": "20:05",
             "tag": "MERCADO",
-            "text": "How IBM Quantum is Enabling Healthcare and Biology Research"
+            "text": "JPMorgan Chase & Co. Cuts Insight Enterprises (NASDAQ:NSIT) Price Target to $80.00"
         },
         {
-            "time": "18:24",
+            "time": "20:05",
             "tag": "MERCADO",
-            "text": "Research Alert: CFRA Maintains Buy Opinion On Shares Of Lumentum Holdings Inc."
+            "text": "Onto Innovation schedules May 5 earnings call after market close"
         },
         {
-            "time": "18:23",
-            "tag": "RESULTADOS",
-            "text": "Margin Expansion Makes Seagate Stock a Winner This Earnings Season, According to Analysts"
+            "time": "20:05",
+            "tag": "MERCADO",
+            "text": "Opera schedules April 28 earnings release and 8 a.m. ET call"
         },
         {
-            "time": "18:19",
+            "time": "20:05",
             "tag": "MERCADO",
-            "text": "What's Going On With PayPal Stock Today?"
+            "text": "Paylocity will detail fiscal Q3 results after market close May 7"
         },
         {
-            "time": "18:15",
-            "tag": "MERCADO",
-            "text": "ON Semiconductor Corp Stock (ON) Moved Up by 8.74% on Apr 16: Drivers Behind the Movement"
+            "time": "20:04",
+            "tag": "AI",
+            "text": "GE HealthCare expands mammography collaboration with RadNet\u2019s DeepHealth subsidiary to extend global access to DeepHealth\u2019s AI-powered breast cancer screening solutions"
         }
     ]
 }
