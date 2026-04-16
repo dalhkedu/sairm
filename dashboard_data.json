@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-16 21:48 UTC",
+        "last_updated": "2026-04-16 22:45 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 198.35,
-            "change": "-2.79%"
+            "change": "+0.04%"
         },
         {
             "symbol": "AMD",
             "price": 278.26,
-            "change": "+2.64%"
+            "change": "+3.24%"
         },
         {
             "symbol": "MSFT",
             "price": 420.26,
-            "change": "-1.04%"
+            "change": "-0.91%"
         },
         {
             "symbol": "CEG",
             "price": 299.14,
-            "change": "-0.38%"
+            "change": "-0.17%"
         },
         {
             "symbol": "VST",
             "price": 165.53,
-            "change": "+1.35%"
+            "change": "-1.1%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.55,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.51,
+            0.51,
+            0.51,
+            0.52,
             0.52,
             0.51,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.87,
-            25.7,
-            25.83,
-            25.56,
-            25.53,
-            25.13,
-            25.26,
-            25.65,
-            25.19,
-            24.77,
-            24.81,
-            25.24
+            24.56,
+            24.57,
+            24.14,
+            24.19,
+            23.98,
+            23.9,
+            23.96,
+            24.16,
+            24.26,
+            24.37,
+            24.43,
+            24.83
         ],
         "hsd_history_software": [
-            10.26,
-            10.23,
+            10.31,
+            10.21,
+            10.33,
+            10.46,
+            10.52,
             10.36,
-            10.34,
+            10.49,
             10.32,
-            10.14,
-            9.95,
-            10.05,
-            10.12,
-            10.29,
-            10.11,
-            9.94
+            10.2,
+            10.03,
+            10.1,
+            10.04
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:54",
+            "time": "22:10",
             "tag": "MERCADO",
-            "text": "Arista Networks (NYSE:ANET) Shares Up 4.2% Following Analyst Upgrade"
+            "text": "Esco Technologies to Acquire TBG\u2019s Megger Group in $2.35 Billion Deal"
         },
         {
-            "time": "20:33",
-            "tag": "RESULTADOS",
-            "text": "Riot Announces First Quarter 2026 Earnings Conference Call"
+            "time": "22:00",
+            "tag": "MERCADO",
+            "text": "John Anthony Dibella II Sells 1,000 Shares of Simulations Plus (NASDAQ:SLP) Stock"
         },
         {
-            "time": "20:29",
+            "time": "21:59",
             "tag": "MERCADO",
-            "text": "May 7 brings Rocket Lab earnings report, investor call at 5 p.m. ET"
+            "text": "Insider Selling: SOPHiA GENETICS (NASDAQ:SOPH) President Sells 2,800 Shares of Stock"
         },
         {
-            "time": "20:28",
+            "time": "21:46",
             "tag": "MERCADO",
-            "text": "NiSource Announces Strategic Energy Infrastructure Agreements to Enhance Customer Value and Economic Growth in Indiana"
+            "text": "Netflix cofounder Hastings to step down after it lost Warner Bros deal"
         },
         {
-            "time": "20:28",
+            "time": "21:38",
             "tag": "MERCADO",
-            "text": "Netflix co-founder Reed Hastings to leave the company in June"
+            "text": "Bio-Techne Introduces Streamlined Brand Architecture to Help Customers Navigate Solutions Faster and With Greater Clarity"
         }
     ]
 }
