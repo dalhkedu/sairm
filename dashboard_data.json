@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-04-16 22:45 UTC",
+        "last_updated": "2026-04-16 23:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 198.35,
-            "change": "+0.04%"
+            "change": "+1.09%"
         },
         {
             "symbol": "AMD",
             "price": 278.26,
-            "change": "+3.24%"
+            "change": "-1.04%"
         },
         {
             "symbol": "MSFT",
             "price": 420.26,
-            "change": "-0.91%"
+            "change": "-2.62%"
         },
         {
             "symbol": "CEG",
             "price": 299.14,
-            "change": "-0.17%"
+            "change": "-0.19%"
         },
         {
             "symbol": "VST",
             "price": 165.53,
-            "change": "-1.1%"
+            "change": "+1.34%"
         }
     ],
     "dashboard_metrics": {
@@ -36,46 +36,46 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.5
+            0.46,
+            0.47,
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.48,
+            0.49,
+            0.5,
+            0.49,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.56,
+            24.35,
+            24.79,
+            24.78,
+            24.68,
+            25.17,
+            24.75,
             24.57,
-            24.14,
-            24.19,
-            23.98,
-            23.9,
-            23.96,
-            24.16,
-            24.26,
-            24.37,
-            24.43,
-            24.83
+            24.61,
+            24.15,
+            24.42,
+            24.81,
+            24.93
         ],
         "hsd_history_software": [
-            10.31,
-            10.21,
-            10.33,
-            10.46,
-            10.52,
-            10.36,
-            10.49,
-            10.32,
             10.2,
-            10.03,
+            10.22,
             10.1,
-            10.04
+            10.0,
+            9.95,
+            10.11,
+            10.28,
+            10.4,
+            10.27,
+            10.3,
+            10.29,
+            10.11
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:10",
+            "time": "23:10",
             "tag": "MERCADO",
-            "text": "Esco Technologies to Acquire TBG\u2019s Megger Group in $2.35 Billion Deal"
+            "text": "Intapp Shares Surge 8.9% - Analysts Weigh In"
         },
         {
-            "time": "22:00",
-            "tag": "MERCADO",
-            "text": "John Anthony Dibella II Sells 1,000 Shares of Simulations Plus (NASDAQ:SLP) Stock"
+            "time": "22:52",
+            "tag": "AI",
+            "text": "AWS launches AI-driven tool to speed up early-stage antibody discovery"
         },
         {
-            "time": "21:59",
+            "time": "22:39",
             "tag": "MERCADO",
-            "text": "Insider Selling: SOPHiA GENETICS (NASDAQ:SOPH) President Sells 2,800 Shares of Stock"
+            "text": "Telkom, PGN partner on green digital infrastructure for data centers"
         },
         {
-            "time": "21:46",
+            "time": "22:36",
             "tag": "MERCADO",
-            "text": "Netflix cofounder Hastings to step down after it lost Warner Bros deal"
+            "text": "NI Stock Edges Higher After-Hours On Deals With Alphabet, Amazon"
         },
         {
-            "time": "21:38",
+            "time": "22:34",
             "tag": "MERCADO",
-            "text": "Bio-Techne Introduces Streamlined Brand Architecture to Help Customers Navigate Solutions Faster and With Greater Clarity"
+            "text": "UD, Exelon report bolsters case for vehicle-to-grid tech creating \u2018virtual power plants\u2019"
         }
     ]
 }
