@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-16 20:53 UTC",
+        "last_updated": "2026-04-16 21:48 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 198.35,
-            "change": "+3.33%"
+            "change": "-2.79%"
         },
         {
             "symbol": "AMD",
             "price": 278.26,
-            "change": "+0.81%"
+            "change": "+2.64%"
         },
         {
             "symbol": "MSFT",
             "price": 420.26,
-            "change": "+0.95%"
+            "change": "-1.04%"
         },
         {
             "symbol": "CEG",
             "price": 299.14,
-            "change": "+2.32%"
+            "change": "-0.38%"
         },
         {
             "symbol": "VST",
             "price": 165.53,
-            "change": "+0.37%"
+            "change": "+1.35%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.47,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.5,
-            0.5,
-            0.51,
+            0.52,
             0.51,
             0.5,
-            0.51
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.91,
-            25.34,
-            24.85,
-            25.34,
-            25.45,
+            25.87,
+            25.7,
+            25.83,
+            25.56,
+            25.53,
             25.13,
-            25.18,
-            25.27,
-            24.92,
-            24.7,
-            24.99,
-            24.67
+            25.26,
+            25.65,
+            25.19,
+            24.77,
+            24.81,
+            25.24
         ],
         "hsd_history_software": [
-            9.8,
-            9.74,
-            9.57,
-            9.6,
-            9.76,
-            9.85,
-            9.88,
+            10.26,
+            10.23,
+            10.36,
+            10.34,
+            10.32,
+            10.14,
+            9.95,
             10.05,
-            10.17,
-            10.31,
+            10.12,
+            10.29,
             10.11,
-            10.09
+            9.94
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:05",
+            "time": "20:54",
             "tag": "MERCADO",
-            "text": "JPMorgan Chase & Co. Cuts Insight Enterprises (NASDAQ:NSIT) Price Target to $80.00"
+            "text": "Arista Networks (NYSE:ANET) Shares Up 4.2% Following Analyst Upgrade"
         },
         {
-            "time": "20:05",
-            "tag": "MERCADO",
-            "text": "Onto Innovation schedules May 5 earnings call after market close"
+            "time": "20:33",
+            "tag": "RESULTADOS",
+            "text": "Riot Announces First Quarter 2026 Earnings Conference Call"
         },
         {
-            "time": "20:05",
+            "time": "20:29",
             "tag": "MERCADO",
-            "text": "Opera schedules April 28 earnings release and 8 a.m. ET call"
+            "text": "May 7 brings Rocket Lab earnings report, investor call at 5 p.m. ET"
         },
         {
-            "time": "20:05",
+            "time": "20:28",
             "tag": "MERCADO",
-            "text": "Paylocity will detail fiscal Q3 results after market close May 7"
+            "text": "NiSource Announces Strategic Energy Infrastructure Agreements to Enhance Customer Value and Economic Growth in Indiana"
         },
         {
-            "time": "20:04",
-            "tag": "AI",
-            "text": "GE HealthCare expands mammography collaboration with RadNet\u2019s DeepHealth subsidiary to extend global access to DeepHealth\u2019s AI-powered breast cancer screening solutions"
+            "time": "20:28",
+            "tag": "MERCADO",
+            "text": "Netflix co-founder Reed Hastings to leave the company in June"
         }
     ]
 }
