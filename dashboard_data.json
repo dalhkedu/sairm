@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-16 15:42 UTC",
+        "last_updated": "2026-04-16 17:19 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 199.0,
-            "change": "-1.18%"
+            "price": 198.12,
+            "change": "-0.32%"
         },
         {
             "symbol": "AMD",
-            "price": 275.71,
-            "change": "-2.17%"
+            "price": 275.96,
+            "change": "+2.17%"
         },
         {
             "symbol": "MSFT",
-            "price": 417.23,
-            "change": "+0.72%"
-        },
-        {
-            "symbol": "CEG",
-            "price": 302.38,
+            "price": 418.33,
             "change": "-2.87%"
         },
         {
+            "symbol": "CEG",
+            "price": 296.14,
+            "change": "+0.71%"
+        },
+        {
             "symbol": "VST",
-            "price": 166.56,
-            "change": "-0.39%"
+            "price": 162.85,
+            "change": "-3.19%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.67,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
             0.49,
             0.49,
             0.5,
             0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            25.51,
+            26.4,
             25.99,
-            25.71,
-            25.36,
-            25.07,
-            25.38,
-            25.27,
-            25.64,
-            25.38,
-            25.41,
-            25.25,
-            24.92
+            26.24,
+            26.4,
+            26.08,
+            25.94,
+            26.05,
+            26.03,
+            25.62,
+            25.2,
+            24.76,
+            24.9
         ],
         "hsd_history_software": [
-            9.39,
-            9.44,
-            9.61,
-            9.49,
-            9.4,
-            9.42,
-            9.49,
-            9.63,
-            9.66,
-            9.85,
-            10.03,
-            9.87
+            9.72,
+            9.55,
+            9.38,
+            9.5,
+            9.68,
+            9.74,
+            9.92,
+            10.01,
+            10.02,
+            10.01,
+            9.94,
+            10.13
         ],
         "rci_data": [
             85.0,
-            19.900000000000002
+            19.812
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:01",
-            "tag": "AI",
-            "text": "New Deloitte Study Shows that AI-powered Agreement Management Is Paying Off"
-        },
-        {
-            "time": "15:00",
-            "tag": "AI",
-            "text": "Companies using AI agreement workflows report nearly 30% higher ROI"
-        },
-        {
-            "time": "14:55",
+            "time": "16:22",
             "tag": "MERCADO",
-            "text": "Teledyne FLIR wins $35M contract for Polish recon vehicles"
+            "text": "Texas Instruments Shows How Dividend Growth Can Help Investors Recover Faster After Big Stock Declines"
         },
         {
-            "time": "14:47",
+            "time": "16:15",
             "tag": "MERCADO",
-            "text": "Teledyne FLIR Defense Wins $35+ Million Surveillance System Contract for Reconnaissance Vehicles"
+            "text": "Corning Inc Stock (GLW) Moved Down by 3.31% on Apr 16: Facts Behind the Movement"
         },
         {
-            "time": "14:46",
+            "time": "16:15",
             "tag": "MERCADO",
-            "text": "Teledyne FLIR Defense Wins $35+ Million Surveillance System Contract for Reconnaissance Vehicles"
+            "text": "Texas Instruments Inc Stock (TXN) Moved Up by 3.28% on Apr 16: Facts Behind the Movement"
+        },
+        {
+            "time": "16:05",
+            "tag": "MERCADO",
+            "text": "From a Minneapolis Garage to a Global Manufacturer: Graco Marks 100 Years of Resilience"
+        },
+        {
+            "time": "16:03",
+            "tag": "MERCADO",
+            "text": "NVDA vs. AMAT: Which Semiconductor Stock is a Better Buy Now?"
         }
     ]
 }
