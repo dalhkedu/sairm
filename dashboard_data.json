@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-16 05:34 UTC",
+        "last_updated": "2026-04-16 07:52 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 198.87,
-            "change": "-0.15%"
+            "change": "+1.11%"
         },
         {
             "symbol": "AMD",
             "price": 258.12,
-            "change": "-0.55%"
+            "change": "+0.21%"
         },
         {
             "symbol": "MSFT",
             "price": 411.22,
-            "change": "-2.69%"
+            "change": "+0.82%"
         },
         {
             "symbol": "CEG",
             "price": 294.73,
-            "change": "+1.95%"
+            "change": "-1.64%"
         },
         {
             "symbol": "VST",
             "price": 162.94,
-            "change": "-1.28%"
+            "change": "+1.44%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.47,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.5,
-            0.5,
-            0.51
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.25,
-            23.85,
-            23.88,
+            23.4,
+            23.74,
+            24.01,
+            23.65,
             23.83,
-            24.22,
-            23.8,
-            24.23,
-            24.38,
-            24.58,
+            24.19,
+            23.92,
+            24.14,
             24.48,
-            24.48,
-            24.69
+            24.31,
+            24.46,
+            24.62
         ],
         "hsd_history_software": [
-            10.21,
-            10.25,
-            10.25,
-            10.17,
-            10.25,
-            10.17,
-            10.34,
-            10.21,
-            10.02,
-            9.96,
+            10.03,
+            10.22,
+            10.43,
+            10.51,
+            10.33,
             10.14,
-            9.96
+            10.26,
+            10.33,
+            10.29,
+            10.16,
+            10.08,
+            10.03
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:12",
+            "time": "07:04",
             "tag": "MERCADO",
-            "text": "Insider Sell: Laura Miele Sells 2,500 Shares of Electronic Arts Inc (EA)"
+            "text": "Adelphi Trust Co Buys Shares of 12,892 Cisco Systems, Inc. $CSCO"
         },
         {
-            "time": "04:09",
+            "time": "06:39",
             "tag": "MERCADO",
-            "text": "Insider Sell: Mike Slessor Sells Shares of FormFactor Inc (FORM)"
+            "text": "Life360 CFO Receives New Restricted Stock Unit Grant"
         },
         {
-            "time": "04:05",
+            "time": "06:20",
             "tag": "MERCADO",
-            "text": "transcosmos wins Salesforce Japan Partner of the Year - Innovation -"
+            "text": "N-able, Inc. (NYSE:NABL) Receives Average Recommendation of \"Hold\" from Analysts"
         },
         {
-            "time": "04:05",
+            "time": "05:43",
             "tag": "MERCADO",
-            "text": "transcosmos wins Salesforce Japan Partner of the Year - Innovation -"
+            "text": "Google\u2019s SpaceX Stake Revealed for the First Time, What to Know About Google, SpaceX and Musk"
         },
         {
-            "time": "04:00",
+            "time": "05:37",
             "tag": "MERCADO",
-            "text": "With 50TB of data expected per match, Verizon expands World Cup 5G"
+            "text": "USF-Jabil Team Up for Next-Gen Medical Tech"
         }
     ]
 }
