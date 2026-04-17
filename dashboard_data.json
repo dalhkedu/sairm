@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-17 02:51 UTC",
+        "last_updated": "2026-04-17 05:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 198.35,
-            "change": "+1.71%"
+            "change": "-1.7%"
         },
         {
             "symbol": "AMD",
             "price": 278.26,
-            "change": "-3.46%"
+            "change": "+2.15%"
         },
         {
             "symbol": "MSFT",
             "price": 420.26,
-            "change": "+2.12%"
+            "change": "-0.44%"
         },
         {
             "symbol": "CEG",
             "price": 299.14,
-            "change": "+3.07%"
+            "change": "-1.82%"
         },
         {
             "symbol": "VST",
             "price": 165.53,
-            "change": "-2.36%"
+            "change": "+0.85%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.68,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.51,
             0.52,
-            0.52,
-            0.52,
-            0.53,
-            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.51,
             0.51,
             0.51,
             0.5,
-            0.5,
-            0.51,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            25.68,
-            25.53,
-            25.03,
-            25.43,
-            25.62,
-            25.42,
-            25.51,
-            25.2,
-            25.28,
-            25.24,
-            24.85,
-            25.17
+            25.75,
+            25.67,
+            25.83,
+            25.76,
+            25.66,
+            25.61,
+            25.47,
+            25.17,
+            24.87,
+            25.06,
+            25.01,
+            24.64
         ],
         "hsd_history_software": [
-            10.0,
-            9.83,
-            9.79,
-            9.98,
-            9.86,
-            9.87,
-            10.06,
-            9.97,
-            9.93,
-            10.08,
-            10.06,
-            10.11
+            9.36,
+            9.34,
+            9.25,
+            9.43,
+            9.47,
+            9.66,
+            9.81,
+            9.92,
+            10.09,
+            9.89,
+            10.02,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:07",
+            "time": "04:52",
             "tag": "MERCADO",
-            "text": "Align Technology\u2019s Global Innovator Streak And What It Means For Valuation"
+            "text": "HIVE lifts note sale to $100M to fund graphics chips, data centers"
         },
         {
-            "time": "01:09",
+            "time": "04:36",
             "tag": "MERCADO",
-            "text": "ARRY Maintained by JP Morgan -- Price Target Lowered to $9.00"
+            "text": "Will HealthEquity\u2019s (HQY) CTO Exit and Tech Consolidation Reframe Its Digital Transformation Narrative?"
         },
         {
-            "time": "00:51",
-            "tag": "MERCADO",
-            "text": "Is It Time To Reassess Enphase Energy (ENPH) After Its Multi Year Share Price Slide"
+            "time": "04:27",
+            "tag": "AI",
+            "text": "NiSource Teams Up With Alphabet And Amazon To Power AI Data Centers\u2014And Says Your Energy Bills Could Drop"
         },
         {
-            "time": "23:40",
+            "time": "04:14",
             "tag": "MERCADO",
-            "text": "Lobbying Update: $200,000 of WEBULL TECHNOLOGIES INC. lobbying was just disclosed"
+            "text": "Apple Marketing Chief for Watch, AirPods, Home and Health Retires"
         },
         {
-            "time": "23:38",
+            "time": "03:47",
             "tag": "MERCADO",
-            "text": "Aehr test systems director Posedel sells $1.21 million in stock"
+            "text": "Bio-Techne introduces streamlined brand architecture to help customers navigate solutions faster and with greater clarity"
         }
     ]
 }
