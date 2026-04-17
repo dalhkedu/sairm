@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-17 12:00 UTC",
+        "last_updated": "2026-04-17 13:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 198.35,
-            "change": "+1.24%"
+            "price": 201.29,
+            "change": "-2.42%"
         },
         {
             "symbol": "AMD",
-            "price": 278.26,
-            "change": "+0.15%"
+            "price": 277.57,
+            "change": "-2.2%"
         },
         {
             "symbol": "MSFT",
-            "price": 420.26,
-            "change": "-2.47%"
+            "price": 425.6,
+            "change": "+0.24%"
         },
         {
             "symbol": "CEG",
-            "price": 299.14,
-            "change": "+2.94%"
+            "price": 297.13,
+            "change": "-2.47%"
         },
         {
             "symbol": "VST",
-            "price": 165.53,
-            "change": "+0.83%"
+            "price": 164.7,
+            "change": "+2.56%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.54,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
             0.49,
             0.5,
             0.5,
             0.5,
-            0.49,
-            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            23.94,
-            23.73,
-            23.95,
-            24.21,
-            24.68,
-            24.26,
-            23.86,
-            23.71,
-            23.97,
-            24.38,
-            24.83,
-            25.01
+            25.16,
+            25.63,
+            25.63,
+            25.73,
+            25.27,
+            24.85,
+            24.81,
+            24.86,
+            25.31,
+            24.86,
+            25.25,
+            24.83
         ],
         "hsd_history_software": [
-            9.59,
-            9.46,
-            9.46,
-            9.59,
-            9.75,
-            9.67,
-            9.79,
-            9.8,
-            9.97,
-            9.92,
-            9.82,
-            9.92
+            10.0,
+            10.02,
+            9.98,
+            9.96,
+            9.93,
+            9.74,
+            9.85,
+            9.99,
+            9.96,
+            9.93,
+            9.89,
+            9.86
         ],
         "rci_data": [
             85.0,
-            19.835
+            20.129
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:30",
-            "tag": "MERCADO",
-            "text": "Expert.ai and Microsoft Italy together to Accelerate the Adoption of Agentic Architecture"
+            "time": "13:02",
+            "tag": "AI",
+            "text": "Salesforce, Inc. stock (US79466L3024): Is AI diffusion strong enough to unlock new upside?"
         },
         {
-            "time": "10:30",
-            "tag": "MERCADO",
-            "text": "Streaming services get real-time viewer analytics through Akamai"
+            "time": "13:00",
+            "tag": "AI",
+            "text": "Las Vegas police adopt Motorola AI system to speed case closures"
         },
         {
-            "time": "10:30",
+            "time": "12:59",
             "tag": "MERCADO",
-            "text": "MediaMelon Joins Akamai Qualified Compute Partner Program"
+            "text": "DuPont products for water reuse and worker safety earn Edison honors"
         },
         {
-            "time": "10:27",
+            "time": "12:59",
             "tag": "MERCADO",
-            "text": "KBC Group NV Has $70.46 Million Holdings in Best Buy Co., Inc. $BBY"
+            "text": "AT&T Inc stock (US00206R1023): Is fiber expansion strong enough to unlock new upside?"
         },
         {
-            "time": "10:20",
+            "time": "12:48",
             "tag": "MERCADO",
-            "text": "KBC Group NV Raises Position in Texas Instruments Incorporated $TXN"
+            "text": "This NXP Semiconductors Analyst Turns Bearish; Here Are Top 5 Downgrades For Friday"
         }
     ]
 }
