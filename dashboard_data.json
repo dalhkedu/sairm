@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-17 14:58 UTC",
+        "last_updated": "2026-04-17 16:07 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 200.43,
-            "change": "+2.45%"
+            "price": 200.83,
+            "change": "-2.9%"
         },
         {
             "symbol": "AMD",
-            "price": 277.58,
-            "change": "-2.28%"
+            "price": 277.8,
+            "change": "+0.74%"
         },
         {
             "symbol": "MSFT",
-            "price": 429.9,
-            "change": "+1.96%"
+            "price": 428.52,
+            "change": "+0.51%"
         },
         {
             "symbol": "CEG",
-            "price": 296.95,
-            "change": "-1.32%"
+            "price": 293.14,
+            "change": "-1.08%"
         },
         {
             "symbol": "VST",
-            "price": 164.12,
-            "change": "-2.57%"
+            "price": 163.0,
+            "change": "-2.17%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.69,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.53,
             0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
             0.52,
             0.51,
             0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.51,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            24.82,
-            25.02,
-            24.86,
+            24.35,
+            24.79,
+            24.97,
+            24.88,
+            25.09,
+            25.42,
+            25.01,
+            24.98,
+            24.95,
             24.73,
-            24.63,
-            24.26,
-            24.24,
-            24.08,
-            24.28,
-            24.49,
-            24.63,
-            24.79
+            24.64,
+            24.77
         ],
         "hsd_history_software": [
-            10.65,
-            10.45,
-            10.24,
-            10.24,
-            10.08,
-            9.95,
+            9.83,
+            9.72,
+            9.89,
+            10.03,
             9.93,
-            9.8,
-            9.68,
-            9.71,
-            9.82,
+            9.98,
+            10.16,
+            10.1,
+            9.99,
+            9.86,
+            9.81,
             9.94
         ],
         "rci_data": [
             85.0,
-            20.043
+            20.083000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:05",
-            "tag": "MERCADO",
-            "text": "STMicroelectronics, TXN get upgrades, while NXP Semiconductors cut at Mizuho"
-        },
-        {
-            "time": "14:04",
-            "tag": "MERCADO",
-            "text": "Analog Devices stock hits all-time high at $363.29 By Investing.com"
-        },
-        {
-            "time": "13:50",
+            "time": "15:35",
             "tag": "AI",
-            "text": "Palo Alto Networks: Acquisition Of Koi Completed To Expands AI Security"
+            "text": "Lewis Sanders Cashes In Seagate After 750% AI Surge - Seagate Technology Hldgs (NASDAQ:STX)"
         },
         {
-            "time": "13:42",
+            "time": "15:32",
             "tag": "MERCADO",
-            "text": "Teradyne Inc stock hits all-time high of 375.74 USD"
+            "text": "Energy Focus (EFOI) Stock Soars 300% After Landing $6.6M Data Center Contract"
         },
         {
-            "time": "13:36",
-            "tag": "AI",
-            "text": "H.C. Wainwright Adjusts BioXcel Therapeutics, Inc. (BTAI) Outlook Following Capital Structure Concerns"
+            "time": "15:32",
+            "tag": "MERCADO",
+            "text": "Energy Focus Shares Soar On Project Y Pipeline Growth"
+        },
+        {
+            "time": "15:24",
+            "tag": "MERCADO",
+            "text": "Baird Adjusts Cadence Design Systems Price Target to $381 From $395, Maintains Outperform Rating"
+        },
+        {
+            "time": "15:17",
+            "tag": "MERCADO",
+            "text": "Baird Adjusts Roper Technologies Price Target to $464 From $550, Maintains Outperform Rating"
         }
     ]
 }
