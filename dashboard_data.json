@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-17 16:07 UTC",
+        "last_updated": "2026-04-17 17:52 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 200.83,
-            "change": "-2.9%"
+            "price": 200.45,
+            "change": "+0.35%"
         },
         {
             "symbol": "AMD",
-            "price": 277.8,
-            "change": "+0.74%"
+            "price": 279.57,
+            "change": "+1.61%"
         },
         {
             "symbol": "MSFT",
-            "price": 428.52,
-            "change": "+0.51%"
+            "price": 424.82,
+            "change": "-2.24%"
         },
         {
             "symbol": "CEG",
-            "price": 293.14,
-            "change": "-1.08%"
+            "price": 295.2,
+            "change": "+2.25%"
         },
         {
             "symbol": "VST",
-            "price": 163.0,
-            "change": "-2.17%"
+            "price": 164.0,
+            "change": "-2.3%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.5,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
             0.51,
-            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.51,
             0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.49,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.35,
-            24.79,
-            24.97,
-            24.88,
-            25.09,
-            25.42,
-            25.01,
-            24.98,
-            24.95,
-            24.73,
-            24.64,
-            24.77
+            23.93,
+            23.56,
+            23.38,
+            23.65,
+            23.69,
+            23.95,
+            24.01,
+            24.5,
+            24.33,
+            24.13,
+            24.55,
+            24.81
         ],
         "hsd_history_software": [
-            9.83,
-            9.72,
-            9.89,
-            10.03,
-            9.93,
-            9.98,
-            10.16,
-            10.1,
-            9.99,
-            9.86,
             9.81,
-            9.94
+            9.66,
+            9.61,
+            9.63,
+            9.57,
+            9.71,
+            9.74,
+            9.93,
+            9.82,
+            9.81,
+            9.96,
+            9.84
         ],
         "rci_data": [
             85.0,
-            20.083000000000002
+            20.044999999999998
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:35",
+            "time": "17:06",
+            "tag": "MERCADO",
+            "text": "Netflix Stock Tanked Today. Should You Buy the Dip?"
+        },
+        {
+            "time": "17:00",
             "tag": "AI",
-            "text": "Lewis Sanders Cashes In Seagate After 750% AI Surge - Seagate Technology Hldgs (NASDAQ:STX)"
+            "text": "Applied Materials, Inc. stock (US0382221051): Is AI chip demand strong enough to unlock new upside?"
         },
         {
-            "time": "15:32",
-            "tag": "MERCADO",
-            "text": "Energy Focus (EFOI) Stock Soars 300% After Landing $6.6M Data Center Contract"
+            "time": "16:59",
+            "tag": "AI",
+            "text": "Equinix offering targets automated AI-centric network operations"
         },
         {
-            "time": "15:32",
+            "time": "16:55",
             "tag": "MERCADO",
-            "text": "Energy Focus Shares Soar On Project Y Pipeline Growth"
+            "text": "North American spacecraft makers get faster access to propulsion valves"
         },
         {
-            "time": "15:24",
+            "time": "16:53",
             "tag": "MERCADO",
-            "text": "Baird Adjusts Cadence Design Systems Price Target to $381 From $395, Maintains Outperform Rating"
-        },
-        {
-            "time": "15:17",
-            "tag": "MERCADO",
-            "text": "Baird Adjusts Roper Technologies Price Target to $464 From $550, Maintains Outperform Rating"
+            "text": "RTX's Pratt & Whitney engine powers Northrop Grumman's YFQ-48A Talon Blue autonomous wingman"
         }
     ]
 }
