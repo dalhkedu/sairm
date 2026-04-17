@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-17 20:50 UTC",
+        "last_updated": "2026-04-17 21:46 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 201.68,
-            "change": "-2.29%"
+            "change": "+1.8%"
         },
         {
             "symbol": "AMD",
             "price": 278.39,
-            "change": "-2.63%"
+            "change": "+0.93%"
         },
         {
             "symbol": "MSFT",
             "price": 422.79,
-            "change": "-1.48%"
+            "change": "+0.59%"
         },
         {
             "symbol": "CEG",
             "price": 296.21,
-            "change": "+1.68%"
+            "change": "+0.45%"
         },
         {
             "symbol": "VST",
-            "price": 163.46,
-            "change": "-3.32%"
+            "price": NaN,
+            "change": "-1.85%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.69,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
-            0.48,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
             0.48,
             0.48,
             0.48,
-            0.49
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.19,
-            24.65,
-            24.51,
-            24.71,
-            24.38,
-            24.05,
-            23.88,
-            23.83,
-            24.12,
-            24.44,
-            24.4,
-            24.74
+            25.67,
+            26.03,
+            25.82,
+            26.08,
+            25.57,
+            25.45,
+            25.91,
+            26.28,
+            25.93,
+            25.78,
+            25.48,
+            25.36
         ],
         "hsd_history_software": [
+            9.63,
+            9.46,
+            9.28,
+            9.33,
+            9.31,
+            9.43,
+            9.4,
+            9.57,
+            9.76,
             9.86,
-            9.87,
-            9.69,
-            9.81,
-            9.74,
-            9.92,
-            9.91,
-            10.05,
-            9.91,
-            9.89,
-            9.91,
-            10.06
+            10.04,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:03",
+            "time": "21:07",
             "tag": "MERCADO",
-            "text": "New Era Energy & Digital Announces Appointment of Andy Casazza as Chief Corporate Officer"
+            "text": "Zero Homes Selected by Xcel Energy to Lead Neighborhood Retrofit Program Bringing Whole-Home Electrification to Denver and Aurora"
         },
         {
-            "time": "20:01",
-            "tag": "AI",
-            "text": "Applied Materials, Inc. stock (US0382221051): Is AI infrastructure demand strong enough to unlock ne"
-        },
-        {
-            "time": "19:57",
+            "time": "20:47",
             "tag": "MERCADO",
-            "text": "Adobe Stock Drops. Why Anthropic\u2019s New Claude Launch Is Rattling Investors."
+            "text": "T-Mobile US, Inc. stock (US8725901040): Is its 5G leadership strong enough to unlock new upside?"
         },
         {
-            "time": "19:23",
-            "tag": "AI",
-            "text": "Gartner (IT) Valuation Check After Oakmark Interest And AI Finance Symposium Spotlight"
-        },
-        {
-            "time": "19:17",
+            "time": "20:39",
             "tag": "MERCADO",
-            "text": "Analog Devices (NASDAQ:ADI) Reaches New 1-Year High - What's Next?"
+            "text": "School districts\u2019 class action against social media about more than liability"
+        },
+        {
+            "time": "20:37",
+            "tag": "MERCADO",
+            "text": "Adobe (NASDAQ: ADBE) director gets 1,367 RSUs, holds 1,822 shares"
+        },
+        {
+            "time": "20:20",
+            "tag": "MERCADO",
+            "text": "Is Verisk (VRSK) Quietly Deepening Its Claims Data Moat With New Roofr and Pilotbird Integrations?"
         }
     ]
 }
