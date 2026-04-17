@@ -1,47 +1,47 @@
 {
     "metadata": {
-        "last_updated": "2026-04-17 11:00 UTC",
+        "last_updated": "2026-04-17 12:00 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 198.35,
-            "change": "+0.29%"
+            "change": "+1.24%"
         },
         {
             "symbol": "AMD",
             "price": 278.26,
-            "change": "-3.0%"
+            "change": "+0.15%"
         },
         {
             "symbol": "MSFT",
             "price": 420.26,
-            "change": "+2.52%"
+            "change": "-2.47%"
         },
         {
             "symbol": "CEG",
             "price": 299.14,
-            "change": "+2.19%"
+            "change": "+2.94%"
         },
         {
             "symbol": "VST",
             "price": 165.53,
-            "change": "-3.09%"
+            "change": "+0.83%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.52,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.49,
             0.5,
             0.5,
             0.5,
@@ -50,32 +50,32 @@
             0.5
         ],
         "hsd_history_hardware": [
-            24.57,
-            24.96,
-            25.17,
-            24.88,
-            25.26,
-            25.45,
-            25.56,
-            25.67,
-            25.29,
-            25.73,
-            25.5,
-            25.07
+            23.94,
+            23.73,
+            23.95,
+            24.21,
+            24.68,
+            24.26,
+            23.86,
+            23.71,
+            23.97,
+            24.38,
+            24.83,
+            25.01
         ],
         "hsd_history_software": [
+            9.59,
+            9.46,
+            9.46,
+            9.59,
+            9.75,
+            9.67,
             9.79,
-            9.77,
-            9.86,
-            9.87,
-            10.07,
-            10.24,
-            10.06,
-            10.14,
-            10.16,
-            10.25,
-            10.13,
-            10.12
+            9.8,
+            9.97,
+            9.92,
+            9.82,
+            9.92
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:07",
+            "time": "10:30",
             "tag": "MERCADO",
-            "text": "RBC Capital lowers IBM stock price target to $330 on valuation"
+            "text": "Expert.ai and Microsoft Italy together to Accelerate the Adoption of Agentic Architecture"
         },
         {
-            "time": "10:06",
-            "tag": "AI",
-            "text": "Palo Alto\u2019s Helmut Reisinger sees a cyber sea change ahead as AI advances"
+            "time": "10:30",
+            "tag": "MERCADO",
+            "text": "Streaming services get real-time viewer analytics through Akamai"
         },
         {
-            "time": "09:45",
+            "time": "10:30",
             "tag": "MERCADO",
-            "text": "BofA raises Charles Schwab stock price target on cash sweep growth"
+            "text": "MediaMelon Joins Akamai Qualified Compute Partner Program"
         },
         {
-            "time": "09:42",
+            "time": "10:27",
             "tag": "MERCADO",
-            "text": "Enphase Energy, Inc. (NASDAQ:ENPH) Sees Large Growth in Short Interest"
+            "text": "KBC Group NV Has $70.46 Million Holdings in Best Buy Co., Inc. $BBY"
         },
         {
-            "time": "09:37",
+            "time": "10:20",
             "tag": "MERCADO",
-            "text": "Robeco Institutional Asset Management B.V. Has $5.84 Million Position in TD SYNNEX Corporation $SNX"
+            "text": "KBC Group NV Raises Position in Texas Instruments Incorporated $TXN"
         }
     ]
 }
