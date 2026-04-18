@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-18 21:39 UTC",
+        "last_updated": "2026-04-18 22:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 201.68,
-            "change": "-0.68%"
+            "change": "-1.65%"
         },
         {
             "symbol": "AMD",
             "price": 278.39,
-            "change": "+3.21%"
+            "change": "-1.56%"
         },
         {
             "symbol": "MSFT",
             "price": 422.79,
-            "change": "+0.03%"
+            "change": "+3.12%"
         },
         {
             "symbol": "CEG",
             "price": 296.21,
-            "change": "+1.59%"
+            "change": "+1.03%"
         },
         {
             "symbol": "VST",
             "price": 163.46,
-            "change": "+2.73%"
+            "change": "-1.23%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.6,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.51,
-            0.5,
-            0.5
+            0.47,
+            0.46,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.02,
-            25.7,
-            25.58,
-            25.44,
-            25.0,
-            24.86,
-            24.58,
-            24.31,
-            23.95,
-            24.24,
-            24.46,
+            24.05,
+            24.47,
+            24.28,
+            23.92,
+            23.61,
+            23.54,
+            23.67,
+            24.13,
+            23.87,
+            24.18,
+            24.11,
             24.56
         ],
         "hsd_history_software": [
-            10.07,
-            9.96,
-            10.15,
-            10.03,
+            9.57,
+            9.69,
+            9.58,
+            9.61,
+            9.65,
+            9.76,
+            9.85,
+            10.04,
+            10.02,
             9.92,
-            9.89,
-            9.85,
-            9.85,
-            9.83,
             10.01,
-            10.11,
-            10.17
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "21:44",
+            "tag": "MERCADO",
+            "text": "Silver Lake sells Dell Technologies (DELL) shares for $81.2 million By Investing.com"
+        },
+        {
             "time": "21:09",
             "tag": "CRYPTO",
             "text": "AIxCrypto's Designated Investor and Faraday Future Complete Amendment to $12 Million Investment Agreement,Exploring RWA-Related Applications and Integration of Real-World Assets with Blockchain Infrastructure"
@@ -144,11 +149,6 @@
             "time": "20:31",
             "tag": "MERCADO",
             "text": "Nova Ltd stock (IL0010845577): Is its metrology tech edge strong enough for sustained growth?"
-        },
-        {
-            "time": "20:30",
-            "tag": "MERCADO",
-            "text": "Quest Diagnostics stock (US74834L1008): Why Google Discover changes matter more now"
         }
     ]
 }
