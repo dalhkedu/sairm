@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-18 13:09 UTC",
+        "last_updated": "2026-04-18 14:42 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 201.68,
-            "change": "+2.64%"
+            "change": "-2.67%"
         },
         {
             "symbol": "AMD",
             "price": 278.39,
-            "change": "+1.72%"
+            "change": "-2.42%"
         },
         {
             "symbol": "MSFT",
             "price": 422.79,
-            "change": "+1.55%"
+            "change": "+0.48%"
         },
         {
             "symbol": "CEG",
             "price": 296.21,
-            "change": "+2.96%"
+            "change": "-1.96%"
         },
         {
             "symbol": "VST",
             "price": 163.46,
-            "change": "+3.1%"
+            "change": "-1.85%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.51,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.49,
             0.49,
-            0.5,
-            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.82,
-            25.24,
-            25.25,
-            25.29,
-            25.12,
-            25.52,
-            26.03,
-            25.83,
-            25.44,
-            25.02,
-            24.54,
-            24.5
+            24.28,
+            24.08,
+            24.49,
+            24.06,
+            24.51,
+            24.72,
+            24.71,
+            24.42,
+            24.72,
+            24.58,
+            24.64,
+            24.77
         ],
         "hsd_history_software": [
-            9.42,
-            9.42,
-            9.39,
-            9.37,
-            9.53,
-            9.67,
-            9.73,
-            9.71,
-            9.82,
-            9.71,
-            9.77,
-            9.85
+            10.16,
+            10.28,
+            10.31,
+            10.17,
+            10.03,
+            9.9,
+            10.04,
+            10.01,
+            10.18,
+            10.01,
+            10.01,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:24",
+            "time": "14:05",
             "tag": "MERCADO",
-            "text": "XPeng Inc stock (KYG970081173): Is China EV growth strong enough to unlock new upside for U.S. investors?"
+            "text": "Notable analyst calls this week: Tesla, Qualcomm and Biogen among top picks"
         },
         {
-            "time": "12:24",
-            "tag": "MERCADO",
-            "text": "Deere & Co stock (US2435371073): Is precision ag tech now the real growth lever for investors?"
-        },
-        {
-            "time": "12:17",
-            "tag": "MERCADO",
-            "text": "Equifax Inc stock (US2946001011): Why data accuracy matters more now for investors"
-        },
-        {
-            "time": "12:14",
+            "time": "13:57",
             "tag": "AI",
-            "text": "Alphabet Inc. Class A stock (US02079K3059): Is AI innovation strong enough to unlock new upside?"
+            "text": "Vistra Corp. stock (US92840V1017): Is its nuclear-powered AI bet strong enough to unlock new upside?"
         },
         {
-            "time": "12:11",
+            "time": "13:50",
             "tag": "MERCADO",
-            "text": "Ninety One UK Ltd Purchases 52,881 Shares of Take-Two Interactive Software, Inc. $TTWO"
+            "text": "Robert W. Baird Cuts Autodesk (NASDAQ:ADSK) Price Target to $312.00"
+        },
+        {
+            "time": "13:26",
+            "tag": "MERCADO",
+            "text": "HP Inc. stock (US40434L1052): Is its PC recovery strong enough to unlock new upside?"
+        },
+        {
+            "time": "13:20",
+            "tag": "RESULTADOS",
+            "text": "Applied Digital Reports Strong Earnings Amid AI Infrastructure Boom"
         }
     ]
 }
