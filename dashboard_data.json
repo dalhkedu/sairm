@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-18 18:56 UTC",
+        "last_updated": "2026-04-18 19:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 201.68,
-            "change": "-1.83%"
+            "change": "+2.56%"
         },
         {
             "symbol": "AMD",
             "price": 278.39,
-            "change": "+3.31%"
+            "change": "+0.65%"
         },
         {
             "symbol": "MSFT",
             "price": 422.79,
-            "change": "-2.19%"
+            "change": "+2.08%"
         },
         {
             "symbol": "CEG",
-            "price": 296.21,
-            "change": "+0.8%"
+            "price": NaN,
+            "change": "+0.21%"
         },
         {
             "symbol": "VST",
             "price": 163.46,
-            "change": "+1.54%"
+            "change": "+2.66%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.69,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.47,
+            0.48,
             0.49,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
             0.49,
-            0.5,
-            0.5,
-            0.5,
+            0.48,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            25.03,
-            24.72,
-            25.15,
-            24.87,
+            24.97,
+            25.22,
+            25.31,
             25.12,
-            25.23,
-            25.05,
+            24.76,
+            25.01,
             25.15,
-            24.96,
-            25.28,
-            25.18,
-            25.04
+            24.88,
+            25.1,
+            24.79,
+            25.08,
+            25.48
         ],
         "hsd_history_software": [
-            9.94,
-            10.07,
-            10.18,
-            10.31,
-            10.27,
-            10.41,
-            10.28,
-            10.16,
-            10.21,
-            10.02,
+            9.87,
+            9.85,
+            9.99,
+            10.04,
+            9.9,
             9.97,
-            9.96
+            10.06,
+            10.1,
+            10.1,
+            10.17,
+            10.2,
+            10.19
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:55",
+            "time": "19:05",
             "tag": "MERCADO",
-            "text": "Deere & Co stock (US2435371073): Is precision ag tech strong enough to drive farm recovery?"
+            "text": "Chipotle Mexican Grill stock (US1696561059): Why Google Discover changes matter more now"
         },
         {
-            "time": "17:39",
+            "time": "18:41",
             "tag": "MERCADO",
-            "text": "Exxon Mobil Corp stock (US30231G1022): Why Google Discover changes matter more now"
+            "text": "IQVIA Holdings Inc stock (US46266C1053): Why Google Discover changes matter more now"
         },
         {
-            "time": "17:28",
+            "time": "18:30",
             "tag": "MERCADO",
-            "text": "Lobbying Update: $760,000 of APPLIED MATERIALS INC lobbying was just disclosed"
+            "text": "Bunge Global SA stock (BMG169621056): Why Google Discover changes matter more now"
         },
         {
-            "time": "17:26",
+            "time": "18:19",
             "tag": "MERCADO",
-            "text": "Otis Worldwide Corp stock (US68902V1070): Why Google Discover changes matter more now"
+            "text": "Paycom Software Inc stock (US7043271035): Why Google Discover changes matter more now for tracking H"
         },
         {
-            "time": "17:08",
-            "tag": "AI",
-            "text": "Arista Networks Inc. stock (US0404131064): Is its AI networking edge strong enough to unlock new upside?"
+            "time": "18:08",
+            "tag": "MERCADO",
+            "text": "Knife River Corp stock (US4989041072): Why Google Discover changes matter more now"
         }
     ]
 }
