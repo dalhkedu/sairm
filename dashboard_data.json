@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-17 23:42 UTC",
+        "last_updated": "2026-04-18 02:42 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 201.68,
-            "change": "-2.07%"
+            "change": "+1.83%"
         },
         {
             "symbol": "AMD",
             "price": 278.39,
-            "change": "+2.25%"
+            "change": "-2.03%"
         },
         {
             "symbol": "MSFT",
             "price": 422.79,
-            "change": "-2.97%"
+            "change": "+1.43%"
         },
         {
             "symbol": "CEG",
             "price": 296.21,
-            "change": "+3.37%"
+            "change": "-1.44%"
         },
         {
             "symbol": "VST",
             "price": 163.46,
-            "change": "+3.42%"
+            "change": "+2.15%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.66,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.5,
-            0.49,
-            0.5,
-            0.49
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.26,
-            25.68,
-            25.24,
-            25.48,
-            25.48,
-            25.26,
-            25.15,
-            25.2,
-            25.06,
-            25.34,
-            25.5,
-            25.45
+            26.1,
+            25.65,
+            26.03,
+            25.63,
+            25.43,
+            25.75,
+            25.45,
+            25.44,
+            25.54,
+            25.12,
+            24.91,
+            24.83
         ],
         "hsd_history_software": [
-            9.87,
-            10.01,
-            10.04,
-            10.2,
-            10.29,
-            10.1,
-            9.91,
-            10.04,
-            9.97,
-            9.85,
-            9.94,
-            9.82
+            10.17,
+            10.23,
+            10.17,
+            10.24,
+            10.26,
+            10.18,
+            10.12,
+            10.19,
+            10.05,
+            10.09,
+            10.15,
+            10.15
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:32",
-            "tag": "MERCADO",
-            "text": "Apple (NASDAQ: AAPL) accounting chief reports RSU vesting and tax share withholding"
+            "time": "01:20",
+            "tag": "AI",
+            "text": "Morgan Stanley Lowers AmEx (AXP) PT; Reuters Reports Push into AI Expense Management"
         },
         {
-            "time": "22:08",
+            "time": "01:15",
             "tag": "MERCADO",
-            "text": "Micron buys land for chipmaking complex from county for $30 million"
+            "text": "Arista Networks (NYSE:ANET) Director Yvonne Wassenaar Sells 1,395 Shares"
         },
         {
-            "time": "21:45",
-            "tag": "MERCADO",
-            "text": "Seagate Technology Holdings PLC (STX) Shares Surge 3.0% -- What GF Score of 68 Tells Investors"
+            "time": "01:10",
+            "tag": "AI",
+            "text": "China's AI Industry Shifts from Open-Source to Hybrid Commercial Models - News and Statistics"
         },
         {
-            "time": "21:43",
+            "time": "01:09",
             "tag": "MERCADO",
-            "text": "Weekly Market Update: Stocks Gain 4.62% to Hit New All-Time High as Tech Rises, Energy Falls"
+            "text": "Absci (NASDAQ:ABSI) Stock Price Up 11% - Still a Buy?"
         },
         {
-            "time": "21:39",
+            "time": "01:08",
             "tag": "MERCADO",
-            "text": "Jefferies Cuts Price Target on RTX Corporation (RTX) to $210, Reiterates Hold Rating"
+            "text": "Alcoa Nears Sale of New York Smelter Site to NYDIG: Bloomberg"
         }
     ]
 }
