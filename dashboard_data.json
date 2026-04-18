@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-18 20:40 UTC",
+        "last_updated": "2026-04-18 21:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 201.68,
-            "change": "+0.34%"
+            "change": "-0.68%"
         },
         {
             "symbol": "AMD",
             "price": 278.39,
-            "change": "-0.88%"
+            "change": "+3.21%"
         },
         {
             "symbol": "MSFT",
             "price": 422.79,
-            "change": "-2.02%"
+            "change": "+0.03%"
         },
         {
             "symbol": "CEG",
             "price": 296.21,
-            "change": "-0.92%"
+            "change": "+1.59%"
         },
         {
             "symbol": "VST",
             "price": 163.46,
-            "change": "-1.38%"
+            "change": "+2.73%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.7,
+        "cer_current": 0.56,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
+            0.52,
+            0.53,
+            0.52,
+            0.52,
             0.52,
             0.51,
+            0.51,
+            0.51,
             0.5,
-            0.5,
+            0.51,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            26.86,
-            26.78,
-            26.36,
-            26.24,
-            26.34,
-            25.82,
-            26.25,
-            26.44,
-            26.58,
-            26.15,
-            25.95,
-            25.48
+            26.02,
+            25.7,
+            25.58,
+            25.44,
+            25.0,
+            24.86,
+            24.58,
+            24.31,
+            23.95,
+            24.24,
+            24.46,
+            24.56
         ],
         "hsd_history_software": [
-            10.67,
-            10.51,
-            10.7,
-            10.5,
-            10.37,
-            10.33,
-            10.31,
-            10.45,
-            10.31,
-            10.19,
-            10.33,
-            10.19
+            10.07,
+            9.96,
+            10.15,
+            10.03,
+            9.92,
+            9.89,
+            9.85,
+            9.85,
+            9.83,
+            10.01,
+            10.11,
+            10.17
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:47",
-            "tag": "MERCADO",
-            "text": "T-Mobile US Inc. stock (US8725901040): Is its aggressive 5G push strong enough to unlock new upside?"
+            "time": "21:09",
+            "tag": "CRYPTO",
+            "text": "AIxCrypto's Designated Investor and Faraday Future Complete Amendment to $12 Million Investment Agreement,Exploring RWA-Related Applications and Integration of Real-World Assets with Blockchain Infrastructure"
         },
         {
-            "time": "19:41",
+            "time": "20:48",
             "tag": "MERCADO",
-            "text": "Arista Networks Inc stock (US0404131064): Why Google Discover changes matter more now"
+            "text": "News Corp Class B stock (US65249B1017): Is its digital shift strong enough to unlock new upside?"
         },
         {
-            "time": "19:36",
+            "time": "20:46",
             "tag": "AI",
-            "text": "QUALCOMM Incorporated stock (US7475251036): Is AI chip demand strong enough to unlock sustained upsi"
+            "text": "Qualcomm Inc stock (US7475251036): Is AI chip demand strong enough to unlock new upside?"
         },
         {
-            "time": "19:15",
+            "time": "20:31",
             "tag": "MERCADO",
-            "text": "Jim Cramer Says Enphase (ENPH) Has Been a \u201cDisappointment for Too Long\u201d"
+            "text": "Nova Ltd stock (IL0010845577): Is its metrology tech edge strong enough for sustained growth?"
         },
         {
-            "time": "19:13",
+            "time": "20:30",
             "tag": "MERCADO",
-            "text": "Should Stryker\u2019s (SYK) Cyber Incident and CFO Shift Prompt Reassessment of Its Risk Controls?"
+            "text": "Quest Diagnostics stock (US74834L1008): Why Google Discover changes matter more now"
         }
     ]
 }
