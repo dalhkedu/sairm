@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-18 17:38 UTC",
+        "last_updated": "2026-04-18 18:56 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 201.68,
-            "change": "+2.36%"
+            "change": "-1.83%"
         },
         {
             "symbol": "AMD",
             "price": 278.39,
-            "change": "+1.01%"
+            "change": "+3.31%"
         },
         {
             "symbol": "MSFT",
             "price": 422.79,
-            "change": "-2.01%"
+            "change": "-2.19%"
         },
         {
             "symbol": "CEG",
             "price": 296.21,
-            "change": "-0.05%"
+            "change": "+0.8%"
         },
         {
             "symbol": "VST",
             "price": 163.46,
-            "change": "-3.02%"
+            "change": "+1.54%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.58,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
             0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.5,
             0.49,
             0.5,
             0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.21,
-            24.48,
-            24.62,
-            24.29,
-            24.37,
-            24.6,
-            24.79,
-            24.94,
-            25.02,
-            25.44,
-            25.04,
-            25.38
+            25.03,
+            24.72,
+            25.15,
+            24.87,
+            25.12,
+            25.23,
+            25.05,
+            25.15,
+            24.96,
+            25.28,
+            25.18,
+            25.04
         ],
         "hsd_history_software": [
-            10.05,
-            10.09,
-            10.15,
-            10.24,
-            10.13,
-            10.15,
-            10.2,
-            10.25,
+            9.94,
             10.07,
-            10.12,
-            10.01,
-            9.91
+            10.18,
+            10.31,
+            10.27,
+            10.41,
+            10.28,
+            10.16,
+            10.21,
+            10.02,
+            9.97,
+            9.96
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:46",
+            "time": "17:55",
             "tag": "MERCADO",
-            "text": "EPAM Systems Inc stock (US29444U7000): Why software engineering services matter more now for U.S. in"
+            "text": "Deere & Co stock (US2435371073): Is precision ag tech strong enough to drive farm recovery?"
         },
         {
-            "time": "16:19",
+            "time": "17:39",
             "tag": "MERCADO",
-            "text": "SPDR S&P 500 ETF Trust Rises Amid Tech Strength"
+            "text": "Exxon Mobil Corp stock (US30231G1022): Why Google Discover changes matter more now"
         },
         {
-            "time": "16:16",
+            "time": "17:28",
             "tag": "MERCADO",
-            "text": "KLA Corp stock (US4824801009): Is its semiconductor inspection dominance strong enough for new upside?"
+            "text": "Lobbying Update: $760,000 of APPLIED MATERIALS INC lobbying was just disclosed"
         },
         {
-            "time": "16:14",
+            "time": "17:26",
+            "tag": "MERCADO",
+            "text": "Otis Worldwide Corp stock (US68902V1070): Why Google Discover changes matter more now"
+        },
+        {
+            "time": "17:08",
             "tag": "AI",
-            "text": "Equinix (EQIX) Valuation Check After Launch Of Equinix Fabric Intelligence For Enterprise AI Deployments"
-        },
-        {
-            "time": "16:14",
-            "tag": "AI",
-            "text": "Is Palo Alto Networks (PANW) Quietly Redefining Its Managed Cybersecurity Edge Through New AI Partnerships?"
+            "text": "Arista Networks Inc. stock (US0404131064): Is its AI networking edge strong enough to unlock new upside?"
         }
     ]
 }
