@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-18 16:46 UTC",
+        "last_updated": "2026-04-18 17:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 201.68,
-            "change": "+1.07%"
+            "change": "+2.36%"
         },
         {
             "symbol": "AMD",
             "price": 278.39,
-            "change": "-3.48%"
+            "change": "+1.01%"
         },
         {
             "symbol": "MSFT",
             "price": 422.79,
-            "change": "-0.84%"
+            "change": "-2.01%"
         },
         {
             "symbol": "CEG",
             "price": 296.21,
-            "change": "-0.45%"
+            "change": "-0.05%"
         },
         {
             "symbol": "VST",
             "price": 163.46,
-            "change": "-0.22%"
+            "change": "-3.02%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.4,
+        "cer_current": 0.65,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
             0.5,
-            0.49,
+            0.5,
             0.49,
             0.5,
             0.5,
-            0.51
+            0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.07,
-            24.77,
-            24.71,
-            25.12,
-            25.27,
-            25.23,
-            24.8,
-            25.26,
-            25.3,
+            24.21,
+            24.48,
+            24.62,
+            24.29,
+            24.37,
+            24.6,
+            24.79,
+            24.94,
+            25.02,
             25.44,
-            25.41,
-            25.15
+            25.04,
+            25.38
         ],
         "hsd_history_software": [
-            9.89,
-            9.91,
-            9.92,
+            10.05,
+            10.09,
+            10.15,
+            10.24,
+            10.13,
+            10.15,
+            10.2,
+            10.25,
+            10.07,
+            10.12,
             10.01,
-            10.06,
-            9.99,
-            9.93,
-            9.93,
-            9.84,
-            9.93,
-            9.79,
-            9.96
+            9.91
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:57",
+            "time": "16:46",
             "tag": "MERCADO",
-            "text": "Global Payments Inc stock (US37940X1028): Why Google Discover changes matter more now"
+            "text": "EPAM Systems Inc stock (US29444U7000): Why software engineering services matter more now for U.S. in"
         },
         {
-            "time": "15:45",
+            "time": "16:19",
             "tag": "MERCADO",
-            "text": "Thermo Fisher Scientific launches Applied Biosystems\u2122 PowerFlex\u2122 Thermal Cycler"
+            "text": "SPDR S&P 500 ETF Trust Rises Amid Tech Strength"
         },
         {
-            "time": "15:40",
+            "time": "16:16",
             "tag": "MERCADO",
-            "text": "Verisign Inc. stock (US92343E1029): Why does its .com registry monopoly matter more now?"
+            "text": "KLA Corp stock (US4824801009): Is its semiconductor inspection dominance strong enough for new upside?"
         },
         {
-            "time": "15:34",
-            "tag": "MERCADO",
-            "text": "Dollar General Corp stock (US2566771059): Why Google's Discover shift matters more now for retail investors"
+            "time": "16:14",
+            "tag": "AI",
+            "text": "Equinix (EQIX) Valuation Check After Launch Of Equinix Fabric Intelligence For Enterprise AI Deployments"
         },
         {
-            "time": "15:26",
-            "tag": "MERCADO",
-            "text": "Alphabet Inc Class C stock (US02079K1079): Is cloud growth strong enough to unlock new upside?"
+            "time": "16:14",
+            "tag": "AI",
+            "text": "Is Palo Alto Networks (PANW) Quietly Redefining Its Managed Cybersecurity Edge Through New AI Partnerships?"
         }
     ]
 }
