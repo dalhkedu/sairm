@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-19 15:39 UTC",
+        "last_updated": "2026-04-19 16:46 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 201.68,
-            "change": "+0.12%"
+            "change": "-1.42%"
         },
         {
             "symbol": "AMD",
             "price": 278.39,
-            "change": "+3.21%"
+            "change": "-1.14%"
         },
         {
             "symbol": "MSFT",
             "price": 422.79,
-            "change": "-1.06%"
+            "change": "-2.04%"
         },
         {
             "symbol": "CEG",
             "price": 296.21,
-            "change": "+3.39%"
+            "change": "+2.56%"
         },
         {
             "symbol": "VST",
             "price": 163.46,
-            "change": "-2.3%"
+            "change": "-2.16%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.64,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.47,
-            0.48,
-            0.49,
+            0.53,
+            0.53,
+            0.52,
+            0.51,
+            0.5,
             0.5,
             0.49,
-            0.48,
-            0.49,
-            0.49
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.8,
-            25.27,
-            25.29,
-            25.42,
-            25.02,
-            25.4,
-            25.62,
-            25.62,
-            25.77,
-            25.65,
-            25.29,
-            25.29
+            24.59,
+            24.93,
+            24.7,
+            25.05,
+            25.33,
+            25.75,
+            25.32,
+            25.52,
+            25.17,
+            25.04,
+            24.89,
+            24.98
         ],
         "hsd_history_software": [
-            11.31,
-            11.09,
-            11.23,
-            11.06,
-            10.89,
-            10.72,
-            10.54,
-            10.47,
-            10.39,
-            10.35,
+            10.05,
+            9.88,
+            9.91,
+            9.78,
+            9.9,
+            10.05,
+            10.0,
             10.21,
-            10.13
+            10.02,
+            10.02,
+            9.88,
+            9.88
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "15:37",
+            "tag": "MERCADO",
+            "text": "Dominion Energy Inc stock (US2358511028): Why mobile-first delivery is suddenly worth a closer look"
+        },
+        {
+            "time": "15:31",
+            "tag": "MERCADO",
+            "text": "Netflix Subscribers Paying 'Least Per Hour' Compared With Competition, Says Greg Peters: 'Our Pricing Philosophy Is Consistent'"
+        },
+        {
+            "time": "15:13",
+            "tag": "MERCADO",
+            "text": "What Honeywell International (HON)'s Expanded Connected Refinery and Counter-Drone Push Means For Shareholders"
+        },
+        {
+            "time": "15:06",
+            "tag": "MERCADO",
+            "text": "Centene Corp stock (US15135B1017): Why Google Discover changes matter more now"
+        },
+        {
             "time": "14:59",
             "tag": "MERCADO",
             "text": "Amcor plc stock (JE00BJ1F3079): Why Google Discover changes matter more now"
-        },
-        {
-            "time": "14:30",
-            "tag": "MERCADO",
-            "text": "3M Company stock (US88579Y1010): Is its diversification strong enough to unlock new upside?"
-        },
-        {
-            "time": "14:14",
-            "tag": "MERCADO",
-            "text": "12,589 Shares in Prologis, Inc. $PLD Purchased by VCI Wealth Management LLC"
-        },
-        {
-            "time": "14:10",
-            "tag": "MERCADO",
-            "text": "VCI Wealth Management LLC Invests $1.28 Million in ON Semiconductor Corporation $ON"
-        },
-        {
-            "time": "14:10",
-            "tag": "MERCADO",
-            "text": "Lake City site gains new free charging window, Blink Charging launches Earth Day push"
         }
     ]
 }
