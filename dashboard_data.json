@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-19 07:42 UTC",
+        "last_updated": "2026-04-19 08:58 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 201.68,
-            "change": "-2.39%"
+            "change": "+2.0%"
         },
         {
             "symbol": "AMD",
             "price": 278.39,
-            "change": "-0.96%"
+            "change": "+2.32%"
         },
         {
             "symbol": "MSFT",
             "price": 422.79,
-            "change": "+1.99%"
+            "change": "-3.06%"
         },
         {
             "symbol": "CEG",
             "price": 296.21,
-            "change": "-0.76%"
+            "change": "-1.79%"
         },
         {
             "symbol": "VST",
             "price": 163.46,
-            "change": "+0.17%"
+            "change": "+0.71%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.42,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.47,
-            0.48,
             0.49,
-            0.49,
-            0.49,
+            0.48,
+            0.48,
             0.49,
             0.5,
-            0.5
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.14,
-            25.19,
-            25.06,
+            25.78,
+            26.19,
+            26.14,
+            25.98,
+            25.76,
+            25.31,
+            25.4,
+            25.0,
+            25.17,
+            24.93,
             24.71,
-            25.11,
-            24.77,
-            24.76,
-            24.38,
-            24.39,
-            24.72,
-            25.12,
-            25.16
+            24.58
         ],
         "hsd_history_software": [
-            10.63,
-            10.52,
-            10.42,
-            10.44,
-            10.24,
-            10.23,
-            10.4,
-            10.27,
-            10.13,
-            10.0,
-            10.01,
-            9.97
+            9.68,
+            9.75,
+            9.82,
+            9.85,
+            9.98,
+            10.02,
+            10.1,
+            10.05,
+            9.97,
+            9.91,
+            9.72,
+            9.88
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:59",
-            "tag": "MERCADO",
-            "text": "Jacobs Solutions Inc stock (US4698141078): Why Google Discover changes matter more now"
+            "time": "08:03",
+            "tag": "AI",
+            "text": "Alphabet Inc. Class A stock (US02079K3059): Is AI dominance strong enough to unlock new upside?"
         },
         {
-            "time": "06:50",
+            "time": "07:53",
             "tag": "MERCADO",
-            "text": "Northrop Grumman Corp stock (US6668071029): Why mobile-first delivery is suddenly worth a closer loo"
+            "text": "Uber Technologies, Inc. $UBER Holdings Lowered by Bosman Wealth Management LLC"
         },
         {
-            "time": "06:43",
+            "time": "07:45",
             "tag": "MERCADO",
-            "text": "Labcorp (Laboratory Corp) stock (US53223X1072): Why Google Discover changes matter more now"
+            "text": "Intuit Inc. $INTU Shares Acquired by Birch Hill Investment Advisors LLC"
         },
         {
-            "time": "06:41",
+            "time": "07:45",
             "tag": "MERCADO",
-            "text": "ConocoPhillips stock (US20825C1045): Why Google Discover changes matter more now"
+            "text": "Birch Hill Investment Advisors LLC Has $83.65 Million Stock Position in International Business Machines Corporation $IBM"
         },
         {
-            "time": "06:37",
+            "time": "07:45",
             "tag": "MERCADO",
-            "text": "[H.eco Tech Festa 2026] Sustainability now a condition for market access: HP exec"
+            "text": "Generac Holdings Inc. $GNRC Shares Bought by Chicago Capital LLC"
         }
     ]
 }
