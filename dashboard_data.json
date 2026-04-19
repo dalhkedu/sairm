@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-19 13:08 UTC",
+        "last_updated": "2026-04-19 14:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 201.68,
-            "change": "+1.12%"
+            "change": "-1.77%"
         },
         {
             "symbol": "AMD",
             "price": 278.39,
-            "change": "+3.42%"
+            "change": "+2.5%"
         },
         {
             "symbol": "MSFT",
             "price": 422.79,
-            "change": "-1.19%"
+            "change": "+0.67%"
         },
         {
             "symbol": "CEG",
             "price": 296.21,
-            "change": "+1.97%"
+            "change": "-2.57%"
         },
         {
             "symbol": "VST",
             "price": 163.46,
-            "change": "+2.77%"
+            "change": "-1.68%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.64,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
             0.5,
-            0.51,
-            0.5
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.78,
-            25.64,
-            26.13,
-            26.47,
-            26.23,
-            26.33,
-            25.88,
-            25.96,
-            25.62,
-            25.43,
-            25.26,
-            25.47
+            24.42,
+            24.63,
+            24.67,
+            25.03,
+            25.16,
+            24.93,
+            25.17,
+            25.56,
+            25.17,
+            24.8,
+            25.09,
+            25.29
         ],
         "hsd_history_software": [
-            9.35,
-            9.4,
-            9.56,
-            9.65,
-            9.62,
+            9.84,
+            9.71,
+            9.63,
+            9.79,
             9.74,
-            9.88,
-            9.87,
-            9.87,
-            9.7,
-            9.83,
-            9.99
+            9.86,
+            10.01,
+            9.98,
+            10.06,
+            9.99,
+            10.18,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:31",
+            "time": "14:04",
             "tag": "MERCADO",
-            "text": "Consumer Tech News (April 13-17): Amazon Buys Globalstar, Snap Cuts Jobs & More"
+            "text": "3M Company stock (US88579Y1010): Why Google Discover changes matter more now"
         },
         {
-            "time": "12:30",
+            "time": "14:02",
             "tag": "MERCADO",
-            "text": "Tributary Capital Management LLC Has $18.30 Million Holdings in Viavi Solutions Inc. $VIAV"
+            "text": "PayPal Holdings Inc stock (US70450Y1038): Is branded checkout growth strong enough to reignite momen"
         },
         {
-            "time": "12:09",
+            "time": "13:47",
             "tag": "MERCADO",
-            "text": "Is Digital Realty (DLR) Underestimating How Water-Risk Disclosure Could Shape Its Data Center Strategy?"
+            "text": "Verizon Communications Inc. stock (US92343V1044): Is its 5G and broadband push strong enough to unlock new upside?"
         },
         {
-            "time": "12:08",
+            "time": "13:41",
             "tag": "MERCADO",
-            "text": "Lecap Asset Management Ltd. Takes Position in Verisk Analytics, Inc. $VRSK"
+            "text": "PG&E Corporation (PCG): David Einhorn Is Buying This Stock"
         },
         {
-            "time": "12:00",
+            "time": "13:33",
             "tag": "MERCADO",
-            "text": "Lecap Asset Management Ltd. Grows Position in Teradyne, Inc. $TER"
+            "text": "TFR Capital LLC. Invests $1.74 Million in Applied Digital Corporation $APLD"
         }
     ]
 }
