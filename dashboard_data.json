@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-19 22:39 UTC",
+        "last_updated": "2026-04-19 23:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 201.68,
-            "change": "-0.45%"
+            "change": "+1.86%"
         },
         {
             "symbol": "AMD",
             "price": 278.39,
-            "change": "-1.38%"
+            "change": "+2.43%"
         },
         {
             "symbol": "MSFT",
-            "price": NaN,
-            "change": "+2.45%"
+            "price": 422.79,
+            "change": "+0.68%"
         },
         {
             "symbol": "CEG",
             "price": 296.21,
-            "change": "-2.19%"
+            "change": "+1.06%"
         },
         {
             "symbol": "VST",
             "price": 163.46,
-            "change": "+0.14%"
+            "change": "-2.81%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.62,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
             0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.48,
+            0.5,
             0.49,
             0.49,
             0.49,
             0.49,
+            0.5,
             0.49,
-            0.48,
-            0.49
+            0.5,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.97,
-            26.26,
-            26.3,
-            26.4,
-            26.67,
-            26.2,
-            25.88,
-            25.73,
-            25.5,
-            25.1,
-            25.09,
-            25.1
+            25.8,
+            25.61,
+            25.13,
+            25.45,
+            25.51,
+            25.25,
+            25.36,
+            25.12,
+            25.24,
+            24.88,
+            24.4,
+            24.51
         ],
         "hsd_history_software": [
-            10.32,
-            10.22,
-            10.34,
-            10.44,
-            10.34,
-            10.34,
-            10.18,
-            10.06,
-            9.98,
-            9.91,
-            10.11,
-            9.98
+            10.52,
+            10.66,
+            10.5,
+            10.36,
+            10.37,
+            10.36,
+            10.36,
+            10.2,
+            10.03,
+            9.87,
+            9.89,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -131,24 +131,24 @@
             "text": "ASUS Announces ProArt Display Partnership with Adobe"
         },
         {
+            "time": "21:40",
+            "tag": "MERCADO",
+            "text": "Schrodinger Inc Targets Software Contract Shift to Hosted Cloud Models"
+        },
+        {
             "time": "21:39",
             "tag": "MERCADO",
             "text": "Google Update Surfaces Korn Ferry Stock Analysis for Mobile Investors"
         },
         {
-            "time": "20:59",
-            "tag": "MERCADO",
-            "text": "Applied Materials, Inc. stock (US0382221051): Why does its semiconductor equipment dominance matter"
+            "time": "21:37",
+            "tag": "AI",
+            "text": "American Express\u2019s AI focused Acquisition Signals a Deeper Shift in Fintech\u2019s Corporate Finance Race"
         },
         {
-            "time": "20:49",
-            "tag": "MERCADO",
-            "text": "General Dynamics Corp stock (US3695501086): Why Google Discover changes matter more now"
-        },
-        {
-            "time": "20:46",
-            "tag": "MERCADO",
-            "text": "Dow Inc stock (US2605661048): Why Google Discover changes matter more now"
+            "time": "21:09",
+            "tag": "AI",
+            "text": "Here\u2019s Simulations Plus Inc (SLP)\u2019s Vision for AI in Drug Development"
         }
     ]
 }
