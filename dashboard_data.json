@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-19 08:58 UTC",
+        "last_updated": "2026-04-19 09:56 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 201.68,
-            "change": "+2.0%"
+            "change": "-1.39%"
         },
         {
             "symbol": "AMD",
             "price": 278.39,
-            "change": "+2.32%"
+            "change": "-1.96%"
         },
         {
             "symbol": "MSFT",
             "price": 422.79,
-            "change": "-3.06%"
+            "change": "-3.43%"
         },
         {
             "symbol": "CEG",
             "price": 296.21,
-            "change": "-1.79%"
+            "change": "+1.76%"
         },
         {
             "symbol": "VST",
             "price": 163.46,
-            "change": "+0.71%"
+            "change": "+1.81%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.62,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.48,
-            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.48,
             0.48,
             0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
             0.49,
             0.5,
-            0.51
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.78,
-            26.19,
-            26.14,
-            25.98,
-            25.76,
-            25.31,
-            25.4,
-            25.0,
-            25.17,
-            24.93,
-            24.71,
-            24.58
+            24.66,
+            24.74,
+            24.83,
+            24.77,
+            24.72,
+            25.06,
+            25.14,
+            25.19,
+            25.34,
+            25.23,
+            25.23,
+            25.37
         ],
         "hsd_history_software": [
-            9.68,
-            9.75,
-            9.82,
-            9.85,
-            9.98,
-            10.02,
-            10.1,
-            10.05,
-            9.97,
-            9.91,
-            9.72,
-            9.88
+            10.18,
+            10.2,
+            10.19,
+            10.0,
+            9.87,
+            9.88,
+            9.76,
+            9.84,
+            9.84,
+            9.76,
+            9.84,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:03",
-            "tag": "AI",
-            "text": "Alphabet Inc. Class A stock (US02079K3059): Is AI dominance strong enough to unlock new upside?"
+            "time": "08:47",
+            "tag": "MERCADO",
+            "text": "Southwest Airlines Co stock (US8361971052): Why Google Discover changes matter more now"
         },
         {
-            "time": "07:53",
+            "time": "08:37",
             "tag": "MERCADO",
-            "text": "Uber Technologies, Inc. $UBER Holdings Lowered by Bosman Wealth Management LLC"
+            "text": "Factory Mutual Insurance Co. Decreases Stock Position in Alphabet Inc. $GOOG"
         },
         {
-            "time": "07:45",
+            "time": "08:32",
             "tag": "MERCADO",
-            "text": "Intuit Inc. $INTU Shares Acquired by Birch Hill Investment Advisors LLC"
+            "text": "Douglas Dynamics Inc stock (US6934521057): Why Google Discover changes matter more now"
         },
         {
-            "time": "07:45",
+            "time": "08:32",
             "tag": "MERCADO",
-            "text": "Birch Hill Investment Advisors LLC Has $83.65 Million Stock Position in International Business Machines Corporation $IBM"
+            "text": "Massachusetts Financial Services Co. MA Has $483,000 Position in PTC Inc. $PTC"
         },
         {
-            "time": "07:45",
+            "time": "08:32",
             "tag": "MERCADO",
-            "text": "Generac Holdings Inc. $GNRC Shares Bought by Chicago Capital LLC"
+            "text": "Massachusetts Financial Services Co. MA Has $382,000 Stock Position in MSCI Inc $MSCI"
         }
     ]
 }
