@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-19 14:43 UTC",
+        "last_updated": "2026-04-19 15:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 201.68,
-            "change": "-1.77%"
+            "change": "+0.12%"
         },
         {
             "symbol": "AMD",
             "price": 278.39,
-            "change": "+2.5%"
+            "change": "+3.21%"
         },
         {
             "symbol": "MSFT",
             "price": 422.79,
-            "change": "+0.67%"
+            "change": "-1.06%"
         },
         {
             "symbol": "CEG",
             "price": 296.21,
-            "change": "-2.57%"
+            "change": "+3.39%"
         },
         {
             "symbol": "VST",
             "price": 163.46,
-            "change": "-1.68%"
+            "change": "-2.3%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.41,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.47,
             0.48,
             0.49,
-            0.49,
-            0.5,
-            0.5,
             0.5,
             0.49,
+            0.48,
             0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            24.42,
-            24.63,
-            24.67,
-            25.03,
-            25.16,
-            24.93,
-            25.17,
-            25.56,
-            25.17,
             24.8,
-            25.09,
+            25.27,
+            25.29,
+            25.42,
+            25.02,
+            25.4,
+            25.62,
+            25.62,
+            25.77,
+            25.65,
+            25.29,
             25.29
         ],
         "hsd_history_software": [
-            9.84,
-            9.71,
-            9.63,
-            9.79,
-            9.74,
-            9.86,
-            10.01,
-            9.98,
-            10.06,
-            9.99,
-            10.18,
-            10.07
+            11.31,
+            11.09,
+            11.23,
+            11.06,
+            10.89,
+            10.72,
+            10.54,
+            10.47,
+            10.39,
+            10.35,
+            10.21,
+            10.13
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:04",
+            "time": "14:59",
             "tag": "MERCADO",
-            "text": "3M Company stock (US88579Y1010): Why Google Discover changes matter more now"
+            "text": "Amcor plc stock (JE00BJ1F3079): Why Google Discover changes matter more now"
         },
         {
-            "time": "14:02",
+            "time": "14:30",
             "tag": "MERCADO",
-            "text": "PayPal Holdings Inc stock (US70450Y1038): Is branded checkout growth strong enough to reignite momen"
+            "text": "3M Company stock (US88579Y1010): Is its diversification strong enough to unlock new upside?"
         },
         {
-            "time": "13:47",
+            "time": "14:14",
             "tag": "MERCADO",
-            "text": "Verizon Communications Inc. stock (US92343V1044): Is its 5G and broadband push strong enough to unlock new upside?"
+            "text": "12,589 Shares in Prologis, Inc. $PLD Purchased by VCI Wealth Management LLC"
         },
         {
-            "time": "13:41",
+            "time": "14:10",
             "tag": "MERCADO",
-            "text": "PG&E Corporation (PCG): David Einhorn Is Buying This Stock"
+            "text": "VCI Wealth Management LLC Invests $1.28 Million in ON Semiconductor Corporation $ON"
         },
         {
-            "time": "13:33",
+            "time": "14:10",
             "tag": "MERCADO",
-            "text": "TFR Capital LLC. Invests $1.74 Million in Applied Digital Corporation $APLD"
+            "text": "Lake City site gains new free charging window, Blink Charging launches Earth Day push"
         }
     ]
 }
