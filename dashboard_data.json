@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-19 18:56 UTC",
+        "last_updated": "2026-04-19 19:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 201.68,
-            "change": "-2.1%"
+            "change": "-2.11%"
         },
         {
             "symbol": "AMD",
             "price": 278.39,
-            "change": "-2.3%"
+            "change": "+2.74%"
         },
         {
             "symbol": "MSFT",
             "price": 422.79,
-            "change": "+2.39%"
+            "change": "-3.2%"
         },
         {
             "symbol": "CEG",
             "price": 296.21,
-            "change": "+1.27%"
+            "change": "+1.22%"
         },
         {
             "symbol": "VST",
             "price": 163.46,
-            "change": "-0.38%"
+            "change": "+2.01%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.49,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.49,
-            0.48,
-            0.47,
-            0.48,
-            0.49,
             0.49,
             0.5,
             0.5,
             0.5,
             0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.69,
-            25.58,
-            25.08,
-            24.72,
-            24.32,
-            24.61,
-            24.43,
-            24.86,
-            24.9,
-            25.02,
-            25.02,
-            24.84
+            26.99,
+            26.75,
+            26.27,
+            26.34,
+            25.84,
+            25.61,
+            25.21,
+            24.73,
+            24.47,
+            24.55,
+            25.0,
+            24.96
         ],
         "hsd_history_software": [
-            9.68,
-            9.83,
-            9.98,
-            9.91,
-            9.94,
+            10.29,
+            10.09,
+            10.04,
+            10.23,
+            10.24,
             10.06,
-            10.16,
-            10.22,
-            10.38,
-            10.46,
-            10.27,
-            10.19
+            10.11,
+            10.13,
+            10.17,
+            10.0,
+            10.1,
+            9.91
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:00",
+            "time": "19:00",
             "tag": "MERCADO",
-            "text": "Tesla, Intel, Boeing, Capital One, and Many More Stocks to Watch This Week"
+            "text": "Delta Air Lines Ditched Starlink For This: Inside Amazon Leo's Secret Weapon For Ultra-Fast Inflight WiFi"
         },
         {
-            "time": "17:49",
+            "time": "19:00",
             "tag": "MERCADO",
-            "text": "Verizon Communications Inc. stock (US92343V1044): Is 5G expansion strong enough to unlock new upside"
+            "text": "Applied Materials, Inc. stock (US0382221051): Why does its semiconductor equipment dominance matter"
         },
         {
-            "time": "17:47",
+            "time": "18:58",
             "tag": "MERCADO",
-            "text": "Gray Television Inc stock (US3893751061): Why mobile-first delivery is suddenly worth a closer look"
+            "text": "IQVIA Holdings Inc stock (US46266C1053): Why Google Discover changes matter more now"
         },
         {
-            "time": "17:30",
+            "time": "18:57",
             "tag": "MERCADO",
-            "text": "Las Vegas Sands Corp stock (US5024413065): Why mobile-first delivery now shapes how you track its gl"
+            "text": "Labcorp (Laboratory Corp) stock (US53223X1072): Why Google Discover changes matter more now"
         },
         {
-            "time": "17:20",
+            "time": "18:51",
             "tag": "MERCADO",
-            "text": "MetLife Inc stock (US59156R1086): Why Google Discover changes matter more now"
+            "text": "Honeywell International Inc. stock (US4385161066): Why does its diversified tech portfolio matter more now for steady growth?"
         }
     ]
 }
