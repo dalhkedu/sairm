@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-04-19 20:41 UTC",
+        "last_updated": "2026-04-19 21:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 201.68,
-            "change": "+2.48%"
+            "change": "+0.41%"
         },
         {
             "symbol": "AMD",
             "price": 278.39,
-            "change": "+2.59%"
+            "change": "-1.75%"
         },
         {
             "symbol": "MSFT",
             "price": 422.79,
-            "change": "-1.34%"
+            "change": "-2.8%"
         },
         {
             "symbol": "CEG",
             "price": 296.21,
-            "change": "-0.49%"
+            "change": "-0.58%"
         },
         {
             "symbol": "VST",
             "price": 163.46,
-            "change": "-2.6%"
+            "change": "-2.33%"
         }
     ],
     "dashboard_metrics": {
@@ -38,44 +38,44 @@
         "cer_history": [
             0.5,
             0.49,
+            0.49,
             0.5,
-            0.5,
-            0.51,
-            0.5,
+            0.49,
+            0.49,
             0.49,
             0.49,
             0.5,
             0.49,
             0.49,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            24.96,
-            25.06,
-            25.02,
-            25.15,
-            24.86,
-            25.06,
-            24.66,
-            24.89,
-            24.96,
-            25.45,
-            25.79,
-            25.45
+            25.35,
+            25.01,
+            24.64,
+            24.32,
+            24.74,
+            25.08,
+            25.5,
+            25.53,
+            25.26,
+            25.28,
+            25.29,
+            25.25
         ],
         "hsd_history_software": [
-            9.72,
-            9.88,
-            9.8,
-            9.67,
-            9.81,
-            9.73,
+            9.82,
+            9.7,
+            9.76,
+            9.78,
             9.69,
-            9.81,
-            9.95,
-            10.03,
-            9.99,
-            9.8
+            9.85,
+            9.84,
+            9.84,
+            9.9,
+            10.07,
+            10.25,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:54",
+            "time": "20:49",
             "tag": "MERCADO",
-            "text": "Leidos Holdings Inc stock (US5253271028): Why Google Discover changes matter more now"
+            "text": "General Dynamics Corp stock (US3695501086): Why Google Discover changes matter more now"
         },
         {
-            "time": "19:49",
+            "time": "20:46",
             "tag": "MERCADO",
-            "text": "Verizon Communications Inc. stock (US92343V1044): Is its wireless dominance still enough for investor upside?"
+            "text": "Dow Inc stock (US2605661048): Why Google Discover changes matter more now"
         },
         {
-            "time": "19:40",
-            "tag": "AI",
-            "text": "Alphabet Inc. Class C stock (US02079K1079): Is AI integration now the real test for sustained growth"
-        },
-        {
-            "time": "19:32",
+            "time": "20:41",
             "tag": "MERCADO",
-            "text": "Walmart Inc. stock (US9311421039): Is e-commerce acceleration strong enough to unlock new upside?"
+            "text": "Linde plc stock (IE00BZ12WP82): Why industrial gas demand matters more now for steady returns?"
         },
         {
-            "time": "19:28",
-            "tag": "AI",
-            "text": "Expedia Hotelbuchung: Between AI Tools and Market Slowdown, Recovery Hinges on Travel Boom"
+            "time": "20:23",
+            "tag": "MERCADO",
+            "text": "Owens Corning stock (US6778621044): Why mobile-first financial content is suddenly worth a closer lo"
+        },
+        {
+            "time": "20:21",
+            "tag": "MERCADO",
+            "text": "Halliburton Co stock (US4062161017): Why mobile-first delivery is suddenly worth a closer look"
         }
     ]
 }
