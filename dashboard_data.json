@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-20 06:17 UTC",
+        "last_updated": "2026-04-20 09:08 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 201.68,
-            "change": "+2.38%"
+            "change": "-2.42%"
         },
         {
             "symbol": "AMD",
             "price": 278.39,
-            "change": "+3.45%"
+            "change": "-0.24%"
         },
         {
             "symbol": "MSFT",
             "price": 422.79,
-            "change": "+0.96%"
+            "change": "-0.63%"
         },
         {
             "symbol": "CEG",
             "price": 296.21,
-            "change": "+1.37%"
+            "change": "-2.43%"
         },
         {
             "symbol": "VST",
             "price": 163.46,
-            "change": "-0.64%"
+            "change": "-1.38%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.52,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.52,
+            0.53,
+            0.52,
+            0.53,
             0.54,
+            0.53,
+            0.53,
             0.53,
             0.52,
             0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            24.67,
-            24.98,
-            25.39,
-            25.03,
-            25.27,
-            25.2,
-            25.19,
-            24.97,
-            25.22,
-            25.3,
-            24.84,
-            24.56
+            24.49,
+            24.13,
+            24.35,
+            24.48,
+            24.5,
+            24.1,
+            24.07,
+            23.63,
+            23.91,
+            23.81,
+            24.1,
+            24.53
         ],
         "hsd_history_software": [
-            9.7,
-            9.54,
-            9.52,
-            9.58,
-            9.52,
-            9.65,
-            9.58,
-            9.65,
-            9.54,
-            9.59,
-            9.77,
-            9.9
+            9.79,
+            9.99,
+            10.02,
+            10.14,
+            10.15,
+            10.14,
+            10.22,
+            10.39,
+            10.44,
+            10.42,
+            10.24,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:30",
+            "time": "08:38",
             "tag": "AI",
-            "text": "Alphabet Inc. Class A stock (US02079K3059): Is AI dominance strong enough to unlock new upside?"
+            "text": "Morgan Stanley sees agentic AI widening chip spending beyond graphics processors to CPUs"
         },
         {
-            "time": "05:30",
+            "time": "08:37",
             "tag": "MERCADO",
-            "text": "Bunge Global SA stock (BMG169621056): Why Google Discover changes matter more now"
+            "text": "Emissary Wealth LLC Buys New Holdings in ServiceNow, Inc. $NOW"
         },
         {
-            "time": "05:28",
+            "time": "08:31",
             "tag": "MERCADO",
-            "text": "Jacobs Solutions Inc stock (US4698141078): Why Google Discover changes matter more now"
+            "text": "Cisco Systems, Inc. $CSCO Shares Sold by Davidson Investment Advisors"
         },
         {
-            "time": "05:18",
+            "time": "08:31",
             "tag": "MERCADO",
-            "text": "S&P Global Inc stock (US78409V1044): Why Google Discover changes matter more now"
+            "text": "Family Capital Trust Co Acquires 18,254 Shares of ServiceNow, Inc. $NOW"
         },
         {
-            "time": "05:13",
+            "time": "08:29",
             "tag": "MERCADO",
-            "text": "Fresenius Medical Care stock (DE0005785802): Why Google Discover changes matter more now"
+            "text": "Focused Investors LLC Increases Stock Position in Global Payments Inc. $GPN"
         }
     ]
 }
