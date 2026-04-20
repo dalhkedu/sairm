@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-20 09:08 UTC",
+        "last_updated": "2026-04-20 11:20 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 201.68,
-            "change": "-2.42%"
+            "change": "+1.65%"
         },
         {
             "symbol": "AMD",
             "price": 278.39,
-            "change": "-0.24%"
+            "change": "+2.94%"
         },
         {
             "symbol": "MSFT",
             "price": 422.79,
-            "change": "-0.63%"
+            "change": "-3.29%"
         },
         {
             "symbol": "CEG",
             "price": 296.21,
-            "change": "-2.43%"
+            "change": "+1.93%"
         },
         {
             "symbol": "VST",
             "price": 163.46,
-            "change": "-1.38%"
+            "change": "-3.39%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.7,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.52,
-            0.52,
             0.53,
             0.52,
-            0.53,
-            0.54,
-            0.53,
-            0.53,
-            0.53,
+            0.51,
             0.52,
+            0.51,
             0.52,
-            0.51
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.49,
-            24.13,
-            24.35,
-            24.48,
-            24.5,
-            24.1,
-            24.07,
-            23.63,
-            23.91,
-            23.81,
-            24.1,
-            24.53
+            25.45,
+            25.22,
+            24.83,
+            25.29,
+            24.87,
+            24.7,
+            24.66,
+            24.57,
+            25.01,
+            24.95,
+            24.47,
+            24.75
         ],
         "hsd_history_software": [
+            9.91,
             9.79,
-            9.99,
-            10.02,
-            10.14,
+            9.86,
+            9.71,
+            9.64,
+            9.68,
+            9.64,
+            9.8,
+            9.86,
+            10.01,
             10.15,
-            10.14,
-            10.22,
-            10.39,
-            10.44,
-            10.42,
-            10.24,
-            10.1
+            10.14
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:38",
+            "time": "10:30",
             "tag": "AI",
-            "text": "Morgan Stanley sees agentic AI widening chip spending beyond graphics processors to CPUs"
+            "text": "Google Eyes New Chips to Speed Up AI Results, Challenging Nvidia"
         },
         {
-            "time": "08:37",
+            "time": "10:29",
             "tag": "MERCADO",
-            "text": "Emissary Wealth LLC Buys New Holdings in ServiceNow, Inc. $NOW"
+            "text": "T-Mobile US, Inc. stock (US8725901040): Is 5G leadership strong enough to unlock new upside?"
         },
         {
-            "time": "08:31",
+            "time": "10:21",
             "tag": "MERCADO",
-            "text": "Cisco Systems, Inc. $CSCO Shares Sold by Davidson Investment Advisors"
+            "text": "Thermo Fisher Scientific Launches Applied Biosystems PowerFlex Thermal Cycler for Advanced PCR Workflows"
         },
         {
-            "time": "08:31",
-            "tag": "MERCADO",
-            "text": "Family Capital Trust Co Acquires 18,254 Shares of ServiceNow, Inc. $NOW"
+            "time": "10:20",
+            "tag": "AI",
+            "text": "QUALCOMM Incorporated stock (US7475251036): Is AI chip diversification strong enough to unlock new u"
         },
         {
-            "time": "08:29",
+            "time": "10:18",
             "tag": "MERCADO",
-            "text": "Focused Investors LLC Increases Stock Position in Global Payments Inc. $GPN"
+            "text": "Krilogy Financial LLC Has $3.36 Million Stock Position in Teradyne, Inc. $TER"
         }
     ]
 }
