@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-20 13:49 UTC",
+        "last_updated": "2026-04-20 15:17 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 199.52,
-            "change": "+0.05%"
+            "price": 198.38,
+            "change": "-0.66%"
         },
         {
             "symbol": "AMD",
-            "price": 280.19,
-            "change": "+2.64%"
+            "price": 274.38,
+            "change": "+2.91%"
         },
         {
             "symbol": "MSFT",
-            "price": 417.8,
-            "change": "+1.73%"
+            "price": 417.28,
+            "change": "+0.21%"
         },
         {
             "symbol": "CEG",
-            "price": 293.23,
-            "change": "+2.36%"
+            "price": 291.32,
+            "change": "-0.59%"
         },
         {
             "symbol": "VST",
-            "price": 163.38,
-            "change": "-2.65%"
+            "price": 160.61,
+            "change": "+1.27%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.59,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
+            0.49,
+            0.49,
+            0.49,
             0.5,
             0.49,
             0.5,
-            0.5,
-            0.5,
             0.49,
             0.5,
-            0.5,
-            0.5
+            0.49,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.76,
-            25.12,
-            25.22,
-            24.82,
-            24.43,
-            24.54,
-            24.6,
-            24.66,
-            25.07,
+            24.65,
+            24.49,
             24.78,
-            24.56,
-            24.65
+            24.97,
+            25.43,
+            25.0,
+            25.34,
+            24.96,
+            25.06,
+            24.9,
+            25.01,
+            24.98
         ],
         "hsd_history_software": [
-            10.49,
-            10.42,
-            10.49,
-            10.57,
-            10.51,
-            10.6,
-            10.46,
-            10.48,
+            10.1,
+            10.24,
+            10.11,
+            10.19,
+            10.34,
             10.28,
-            10.08,
-            10.14,
-            9.99
+            10.28,
+            10.12,
+            10.01,
+            10.05,
+            10.05,
+            10.17
         ],
         "rci_data": [
             85.0,
-            19.952
+            19.838
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:15",
+            "time": "14:38",
             "tag": "MERCADO",
-            "text": "China\u2019s Hesai adds colour to lidar to help EVs level up in self-driving"
+            "text": "BlackBerry stock hits 52-week high at $5.33 By Investing.com"
         },
         {
-            "time": "13:06",
+            "time": "14:37",
             "tag": "MERCADO",
-            "text": "Medtronic completes acquisition of CathWorks, expanding its leadership in transforming care for patients with cardiovascular disease"
+            "text": "Alpha and Omega Semiconductor stock hits 52-week high at $35.77"
         },
         {
-            "time": "13:05",
+            "time": "14:31",
             "tag": "MERCADO",
-            "text": "Invesco QQQ Trust, Series 1 (QQQ) Stock Price, Quote, News & History"
+            "text": "Evercore adds Arista Networks, IBM to tactical outperform list ahead of earnings"
         },
         {
-            "time": "13:04",
-            "tag": "AI",
-            "text": "Autonomous AI at Scale: Adobe Agents Unlock Breakthrough Creative Intelligence With NVIDIA and WPP"
+            "time": "14:22",
+            "tag": "MERCADO",
+            "text": "Morgan Stanley raises Intel target but prefers these chip stocks more By Investing.com"
         },
         {
-            "time": "13:03",
-            "tag": "AI",
-            "text": "Adobe expands agency partnerships as part of agentic AI platform debut"
+            "time": "14:15",
+            "tag": "MERCADO",
+            "text": "Salesforce Inc Stock (CRM) Moved Up by 3.28% on Apr 20: What Signal Does It Send?"
         }
     ]
 }
