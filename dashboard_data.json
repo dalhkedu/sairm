@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-20 03:19 UTC",
+        "last_updated": "2026-04-20 06:17 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 201.68,
-            "change": "+1.2%"
+            "change": "+2.38%"
         },
         {
             "symbol": "AMD",
             "price": 278.39,
-            "change": "-1.66%"
+            "change": "+3.45%"
         },
         {
             "symbol": "MSFT",
             "price": 422.79,
-            "change": "+1.99%"
+            "change": "+0.96%"
         },
         {
             "symbol": "CEG",
             "price": 296.21,
-            "change": "-3.08%"
+            "change": "+1.37%"
         },
         {
             "symbol": "VST",
             "price": 163.46,
-            "change": "+0.52%"
+            "change": "-0.64%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.45,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.54,
-            0.54,
-            0.55,
-            0.55,
-            0.54,
-            0.54,
-            0.54,
             0.53,
             0.52,
             0.52,
             0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            26.07,
-            26.34,
-            26.39,
-            26.38,
-            26.08,
-            26.42,
-            26.11,
-            25.76,
-            25.64,
+            24.67,
+            24.98,
+            25.39,
+            25.03,
+            25.27,
+            25.2,
+            25.19,
+            24.97,
+            25.22,
             25.3,
-            25.04,
-            25.3
+            24.84,
+            24.56
         ],
         "hsd_history_software": [
-            9.93,
-            9.8,
-            9.71,
-            9.53,
-            9.72,
-            9.83,
-            10.03,
-            9.89,
-            9.94,
-            9.88,
-            9.99,
-            10.15
+            9.7,
+            9.54,
+            9.52,
+            9.58,
+            9.52,
+            9.65,
+            9.58,
+            9.65,
+            9.54,
+            9.59,
+            9.77,
+            9.9
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:34",
+            "time": "05:30",
             "tag": "AI",
-            "text": "Cadence and Google Partner to Scale AI-driven Chip Design"
+            "text": "Alphabet Inc. Class A stock (US02079K3059): Is AI dominance strong enough to unlock new upside?"
         },
         {
-            "time": "02:26",
+            "time": "05:30",
             "tag": "MERCADO",
-            "text": "Leapmotor's new EV puts cockpit and driver aids on one controller"
+            "text": "Bunge Global SA stock (BMG169621056): Why Google Discover changes matter more now"
         },
         {
-            "time": "02:18",
+            "time": "05:28",
             "tag": "MERCADO",
-            "text": "Jabil Inc stock (US4663131039): Why Google Discover changes matter more now"
+            "text": "Jacobs Solutions Inc stock (US4698141078): Why Google Discover changes matter more now"
         },
         {
-            "time": "02:18",
-            "tag": "AI",
-            "text": "Cisco Systems Inc. stock (US17275R1023): Is its networking dominance strong enough for AI-driven gro"
+            "time": "05:18",
+            "tag": "MERCADO",
+            "text": "S&P Global Inc stock (US78409V1044): Why Google Discover changes matter more now"
         },
         {
-            "time": "02:11",
-            "tag": "AI",
-            "text": "Advanced Micro Devices, Inc. stock (US0079031078): Is AI chip dominance strong enough to unlock sustained upside?"
+            "time": "05:13",
+            "tag": "MERCADO",
+            "text": "Fresenius Medical Care stock (DE0005785802): Why Google Discover changes matter more now"
         }
     ]
 }
