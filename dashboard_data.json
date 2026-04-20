@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-20 15:17 UTC",
+        "last_updated": "2026-04-20 17:07 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 198.38,
-            "change": "-0.66%"
+            "price": 199.48,
+            "change": "+0.73%"
         },
         {
             "symbol": "AMD",
-            "price": 274.38,
-            "change": "+2.91%"
+            "price": 273.89,
+            "change": "+0.24%"
         },
         {
             "symbol": "MSFT",
-            "price": 417.28,
-            "change": "+0.21%"
+            "price": 419.08,
+            "change": "+2.27%"
         },
         {
             "symbol": "CEG",
-            "price": 291.32,
-            "change": "-0.59%"
+            "price": 291.29,
+            "change": "-2.29%"
         },
         {
             "symbol": "VST",
-            "price": 160.61,
-            "change": "+1.27%"
+            "price": 161.62,
+            "change": "+2.75%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.42,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.49,
             0.5,
             0.49,
-            0.5,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            24.65,
-            24.49,
-            24.78,
-            24.97,
-            25.43,
-            25.0,
-            25.34,
+            24.13,
+            24.5,
+            24.76,
+            24.41,
+            24.02,
+            24.5,
+            24.09,
+            24.48,
             24.96,
-            25.06,
-            24.9,
             25.01,
-            24.98
+            25.22,
+            25.0
         ],
         "hsd_history_software": [
-            10.1,
-            10.24,
+            10.65,
+            10.65,
+            10.6,
+            10.45,
+            10.41,
+            10.33,
+            10.33,
+            10.39,
+            10.26,
+            10.2,
             10.11,
-            10.19,
-            10.34,
-            10.28,
-            10.28,
-            10.12,
-            10.01,
-            10.05,
-            10.05,
-            10.17
+            10.07
         ],
         "rci_data": [
             85.0,
-            19.838
+            19.948
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:38",
+            "time": "16:25",
             "tag": "MERCADO",
-            "text": "BlackBerry stock hits 52-week high at $5.33 By Investing.com"
+            "text": "Cisco Systems stock hits all-time high of 88.19 USD"
         },
         {
-            "time": "14:37",
-            "tag": "MERCADO",
-            "text": "Alpha and Omega Semiconductor stock hits 52-week high at $35.77"
+            "time": "16:23",
+            "tag": "AI",
+            "text": "A Look At Labcorp (LH) Valuation As New Tests And AI Alzheimer\u2019s Platform Gain Traction"
         },
         {
-            "time": "14:31",
+            "time": "16:21",
             "tag": "MERCADO",
-            "text": "Evercore adds Arista Networks, IBM to tactical outperform list ahead of earnings"
+            "text": "Apple Sued Over Health Plan Penalty for Tobacco-Using Employees"
         },
         {
-            "time": "14:22",
+            "time": "16:19",
             "tag": "MERCADO",
-            "text": "Morgan Stanley raises Intel target but prefers these chip stocks more By Investing.com"
+            "text": "Microsoft's Q3 likely to 'take back the narrative' amid cautious sentiment: MS (MSFT:NASDAQ)"
         },
         {
-            "time": "14:15",
+            "time": "16:15",
             "tag": "MERCADO",
-            "text": "Salesforce Inc Stock (CRM) Moved Up by 3.28% on Apr 20: What Signal Does It Send?"
+            "text": "Analog Devices Inc Stock (ADI) Moved Up by 3.73% on Apr 20: What Investors Need To Know"
         }
     ]
 }
