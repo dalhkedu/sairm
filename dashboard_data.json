@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-19 23:40 UTC",
+        "last_updated": "2026-04-20 03:19 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 201.68,
-            "change": "+1.86%"
+            "change": "+1.2%"
         },
         {
             "symbol": "AMD",
             "price": 278.39,
-            "change": "+2.43%"
+            "change": "-1.66%"
         },
         {
             "symbol": "MSFT",
             "price": 422.79,
-            "change": "+0.68%"
+            "change": "+1.99%"
         },
         {
             "symbol": "CEG",
             "price": 296.21,
-            "change": "+1.06%"
+            "change": "-3.08%"
         },
         {
             "symbol": "VST",
             "price": 163.46,
-            "change": "-2.81%"
+            "change": "+0.52%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.47,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.5,
+            0.54,
+            0.54,
+            0.55,
+            0.55,
+            0.54,
+            0.54,
+            0.54,
+            0.53,
+            0.52,
+            0.52,
             0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            25.8,
-            25.61,
-            25.13,
-            25.45,
-            25.51,
-            25.25,
-            25.36,
-            25.12,
-            25.24,
-            24.88,
-            24.4,
-            24.51
+            26.07,
+            26.34,
+            26.39,
+            26.38,
+            26.08,
+            26.42,
+            26.11,
+            25.76,
+            25.64,
+            25.3,
+            25.04,
+            25.3
         ],
         "hsd_history_software": [
-            10.52,
-            10.66,
-            10.5,
-            10.36,
-            10.37,
-            10.36,
-            10.36,
-            10.2,
+            9.93,
+            9.8,
+            9.71,
+            9.53,
+            9.72,
+            9.83,
             10.03,
-            9.87,
             9.89,
-            10.05
+            9.94,
+            9.88,
+            9.99,
+            10.15
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:00",
-            "tag": "MERCADO",
-            "text": "ASUS Announces ProArt Display Partnership with Adobe"
-        },
-        {
-            "time": "21:40",
-            "tag": "MERCADO",
-            "text": "Schrodinger Inc Targets Software Contract Shift to Hosted Cloud Models"
-        },
-        {
-            "time": "21:39",
-            "tag": "MERCADO",
-            "text": "Google Update Surfaces Korn Ferry Stock Analysis for Mobile Investors"
-        },
-        {
-            "time": "21:37",
+            "time": "02:34",
             "tag": "AI",
-            "text": "American Express\u2019s AI focused Acquisition Signals a Deeper Shift in Fintech\u2019s Corporate Finance Race"
+            "text": "Cadence and Google Partner to Scale AI-driven Chip Design"
         },
         {
-            "time": "21:09",
+            "time": "02:26",
+            "tag": "MERCADO",
+            "text": "Leapmotor's new EV puts cockpit and driver aids on one controller"
+        },
+        {
+            "time": "02:18",
+            "tag": "MERCADO",
+            "text": "Jabil Inc stock (US4663131039): Why Google Discover changes matter more now"
+        },
+        {
+            "time": "02:18",
             "tag": "AI",
-            "text": "Here\u2019s Simulations Plus Inc (SLP)\u2019s Vision for AI in Drug Development"
+            "text": "Cisco Systems Inc. stock (US17275R1023): Is its networking dominance strong enough for AI-driven gro"
+        },
+        {
+            "time": "02:11",
+            "tag": "AI",
+            "text": "Advanced Micro Devices, Inc. stock (US0079031078): Is AI chip dominance strong enough to unlock sustained upside?"
         }
     ]
 }
