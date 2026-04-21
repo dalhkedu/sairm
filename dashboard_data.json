@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-21 11:11 UTC",
+        "last_updated": "2026-04-21 13:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 202.06,
-            "change": "-3.13%"
+            "price": 201.59,
+            "change": "+1.5%"
         },
         {
             "symbol": "AMD",
-            "price": 274.95,
-            "change": "+3.42%"
+            "price": 278.51,
+            "change": "-2.59%"
         },
         {
             "symbol": "MSFT",
-            "price": 418.07,
-            "change": "-0.38%"
+            "price": 422.27,
+            "change": "+3.25%"
         },
         {
             "symbol": "CEG",
-            "price": 287.56,
-            "change": "-2.52%"
+            "price": 282.0,
+            "change": "+0.77%"
         },
         {
             "symbol": "VST",
-            "price": 159.6,
-            "change": "+0.42%"
+            "price": 158.98,
+            "change": "+1.81%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.51,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
             0.49,
             0.49,
             0.5,
-            0.51,
-            0.5
+            0.5,
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.64,
+            23.97,
+            24.31,
+            24.32,
+            24.3,
+            24.3,
+            24.57,
+            24.62,
+            24.44,
             24.89,
-            24.66,
-            24.83,
-            24.61,
-            24.53,
-            24.25,
-            24.48,
-            24.36,
-            24.54,
-            24.7,
-            24.56
+            25.36,
+            25.17,
+            25.42
         ],
         "hsd_history_software": [
-            9.18,
-            9.21,
-            9.19,
-            9.16,
-            9.25,
-            9.29,
-            9.36,
-            9.53,
-            9.5,
-            9.69,
-            9.86,
-            9.99
+            10.71,
+            10.92,
+            10.95,
+            10.79,
+            10.58,
+            10.45,
+            10.34,
+            10.25,
+            10.12,
+            9.93,
+            9.78,
+            9.81
         ],
         "rci_data": [
             85.0,
-            20.206
+            20.159
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:33",
+            "time": "12:59",
+            "tag": "MERCADO",
+            "text": "Used in 185,000 stores, retail tech unit enters its sixth decade"
+        },
+        {
+            "time": "12:59",
+            "tag": "MERCADO",
+            "text": "IT Investors Have Opportunity to Lead Gartner, Inc. Securities Fraud Lawsuit with the Schall Law Firm"
+        },
+        {
+            "time": "12:59",
             "tag": "AI",
-            "text": "Alphabet (GOOGL) Stock; Slips as Google-Marvell AI Chip Talks Raise Spending Concerns"
+            "text": "Shipbuilder HII taps Silicon Valley AI firm for Navy vessel software"
         },
         {
-            "time": "10:26",
+            "time": "12:59",
             "tag": "AI",
-            "text": "Pony AI (PONY) Launches PonyWorld 2.0 to Accelerate L4 Autonomous Driving Commercialization"
+            "text": "Trimble set to acquire AI-powered Document Crunch"
         },
         {
-            "time": "10:14",
+            "time": "12:56",
             "tag": "MERCADO",
-            "text": "Analysts\u2019 Opinions Are Mixed on These Technology Stocks: Gartner (IT), Corning (GLW) and Celestica (CLS)"
-        },
-        {
-            "time": "10:08",
-            "tag": "MERCADO",
-            "text": "HQLAX Closes Series C-1 Funding"
-        },
-        {
-            "time": "10:06",
-            "tag": "MERCADO",
-            "text": "A Look At Palo Alto Networks (PANW) Valuation After Expanded NWN Public Sector Security Collaboration"
+            "text": "Seceon Recognized in the 2026 Gartner\u00ae \"Voice of the Customer\" Report for Security Information and Event Management"
         }
     ]
 }
