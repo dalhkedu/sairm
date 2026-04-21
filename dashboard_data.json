@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-21 13:49 UTC",
+        "last_updated": "2026-04-21 15:16 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 201.59,
-            "change": "+1.5%"
+            "price": 201.38,
+            "change": "+1.08%"
         },
         {
             "symbol": "AMD",
-            "price": 278.51,
-            "change": "-2.59%"
+            "price": 280.19,
+            "change": "-0.87%"
         },
         {
             "symbol": "MSFT",
-            "price": 422.27,
-            "change": "+3.25%"
+            "price": 425.3,
+            "change": "+0.06%"
         },
         {
             "symbol": "CEG",
-            "price": 282.0,
-            "change": "+0.77%"
+            "price": 278.52,
+            "change": "+1.56%"
         },
         {
             "symbol": "VST",
-            "price": 158.98,
-            "change": "+1.81%"
+            "price": 154.84,
+            "change": "-2.7%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.47,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.51,
             0.51,
-            0.51,
             0.5,
             0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            23.97,
-            24.31,
-            24.32,
-            24.3,
-            24.3,
-            24.57,
-            24.62,
-            24.44,
-            24.89,
-            25.36,
-            25.17,
-            25.42
+            26.47,
+            26.18,
+            26.41,
+            26.61,
+            26.7,
+            26.79,
+            26.72,
+            26.24,
+            25.92,
+            26.01,
+            25.75,
+            25.49
         ],
         "hsd_history_software": [
-            10.71,
-            10.92,
-            10.95,
-            10.79,
-            10.58,
-            10.45,
-            10.34,
-            10.25,
-            10.12,
-            9.93,
-            9.78,
-            9.81
+            10.65,
+            10.56,
+            10.37,
+            10.52,
+            10.33,
+            10.2,
+            10.23,
+            10.27,
+            10.08,
+            9.91,
+            9.92,
+            10.03
         ],
         "rci_data": [
             85.0,
-            20.159
+            20.138
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:59",
-            "tag": "MERCADO",
-            "text": "Used in 185,000 stores, retail tech unit enters its sixth decade"
+            "time": "14:28",
+            "tag": "RESULTADOS",
+            "text": "Alphabet Stock Rises Modestly as Investors Await Q1 Earnings on AI Momentum"
         },
         {
-            "time": "12:59",
+            "time": "14:28",
             "tag": "MERCADO",
-            "text": "IT Investors Have Opportunity to Lead Gartner, Inc. Securities Fraud Lawsuit with the Schall Law Firm"
+            "text": "Skyworks will discuss Q2 results and outlook after close May 5"
         },
         {
-            "time": "12:59",
+            "time": "14:26",
+            "tag": "RESULTADOS",
+            "text": "Skyworks Sets Date for Second Quarter Fiscal 2026 Earnings Release and Conference Call"
+        },
+        {
+            "time": "14:22",
+            "tag": "MERCADO",
+            "text": "Kroger Spotlights E-commerce Growth with Online Deal Days Push"
+        },
+        {
+            "time": "14:21",
             "tag": "AI",
-            "text": "Shipbuilder HII taps Silicon Valley AI firm for Navy vessel software"
-        },
-        {
-            "time": "12:59",
-            "tag": "AI",
-            "text": "Trimble set to acquire AI-powered Document Crunch"
-        },
-        {
-            "time": "12:56",
-            "tag": "MERCADO",
-            "text": "Seceon Recognized in the 2026 Gartner\u00ae \"Voice of the Customer\" Report for Security Information and Event Management"
+            "text": "Berenberg Initiates Palo Alto Networks at Buy: Is AI the Next Inflection for Cybersecurity's Quality Compounder?"
         }
     ]
 }
