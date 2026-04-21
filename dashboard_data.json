@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-21 22:40 UTC",
+        "last_updated": "2026-04-21 23:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 199.88,
-            "change": "+2.86%"
+            "change": "+3.46%"
         },
         {
             "symbol": "AMD",
             "price": 284.49,
-            "change": "-1.9%"
+            "change": "+2.65%"
         },
         {
             "symbol": "MSFT",
             "price": 424.16,
-            "change": "-1.35%"
+            "change": "-0.5%"
         },
         {
             "symbol": "CEG",
             "price": 277.7,
-            "change": "-3.29%"
+            "change": "+3.09%"
         },
         {
             "symbol": "VST",
             "price": 154.91,
-            "change": "+0.15%"
+            "change": "-2.34%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.61,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.53,
-            0.52,
-            0.52,
             0.51,
             0.51,
             0.51,
             0.52,
-            0.51,
             0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            23.86,
-            24.02,
-            24.4,
-            24.57,
-            24.95,
-            24.82,
-            24.94,
-            24.93,
-            24.57,
-            24.63,
+            25.27,
+            24.79,
+            24.66,
+            24.19,
+            24.19,
+            24.61,
             25.03,
-            25.11
+            24.69,
+            24.87,
+            24.76,
+            24.94,
+            25.27
         ],
         "hsd_history_software": [
-            9.38,
-            9.55,
-            9.61,
-            9.49,
-            9.54,
-            9.72,
-            9.72,
-            9.86,
-            9.74,
-            9.86,
-            9.86,
-            9.83
+            9.66,
+            9.63,
+            9.51,
+            9.5,
+            9.62,
+            9.8,
+            9.83,
+            9.88,
+            9.88,
+            10.06,
+            9.89,
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:07",
+            "time": "22:47",
             "tag": "MERCADO",
-            "text": "Consumer Federation of America Class Action Complaint & Jury Trial Demand Against Meta Platforms, Inc"
+            "text": "HP shareholders approve amended stock incentive plan and board slate at annual meeting"
         },
         {
-            "time": "22:03",
+            "time": "22:42",
             "tag": "MERCADO",
-            "text": "Amgen Named Among America\u2019s Most Innovative Companies in 2026"
+            "text": "Hewlett Packard Enterprise (NYSE:HPE) CEO Antonio Neri Sells 150,000 Shares"
         },
         {
-            "time": "21:35",
+            "time": "22:42",
             "tag": "MERCADO",
-            "text": "Dwight Evans trades Micron Technology stock in Pennsylvania\u2019s 3rd district By Investing.com"
+            "text": "Hewlett Packard Enterprise (NYSE:HPE) EVP Sells $475,517.97 in Stock"
         },
         {
-            "time": "21:16",
+            "time": "22:39",
             "tag": "MERCADO",
-            "text": "Japan's Advantest teams with Applied Materials on chip innovation"
+            "text": "Plexus Corp Stock Gains 91 Percent Over One Year"
         },
         {
-            "time": "21:13",
-            "tag": "MERCADO",
-            "text": "T-Mobile (TMUS.US) Reportedly May Merge with Deutsche Telekom"
+            "time": "22:26",
+            "tag": "AI",
+            "text": "American Express Hypercard Deal Deepens AI Role In Corporate Spending"
         }
     ]
 }
