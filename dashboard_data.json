@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-22 15:17 UTC",
+        "last_updated": "2026-04-22 17:05 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 201.68,
-            "change": "-2.53%"
+            "price": 201.59,
+            "change": "-1.96%"
         },
         {
             "symbol": "AMD",
-            "price": 296.78,
-            "change": "-0.62%"
+            "price": 299.58,
+            "change": "-1.73%"
         },
         {
             "symbol": "MSFT",
-            "price": 431.39,
-            "change": "-1.03%"
+            "price": 431.26,
+            "change": "+2.3%"
         },
         {
             "symbol": "CEG",
-            "price": 286.38,
-            "change": "+3.22%"
+            "price": 286.75,
+            "change": "+3.42%"
         },
         {
             "symbol": "VST",
-            "price": 155.87,
-            "change": "-2.59%"
+            "price": 156.0,
+            "change": "+2.5%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.63,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.5,
-            0.5,
-            0.5,
+            0.52,
             0.51,
             0.51,
             0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.47,
-            24.71,
-            24.8,
-            24.92,
-            24.85,
-            24.59,
-            24.7,
-            24.96,
-            25.22,
-            25.08,
-            24.9,
-            25.37
+            25.2,
+            25.47,
+            25.83,
+            25.87,
+            26.18,
+            26.01,
+            25.67,
+            25.21,
+            25.44,
+            25.42,
+            25.66,
+            25.26
         ],
         "hsd_history_software": [
-            10.29,
-            10.33,
-            10.27,
-            10.33,
-            10.24,
-            10.15,
-            9.96,
-            9.84,
-            9.69,
-            9.69,
-            9.77,
-            9.87
+            9.65,
+            9.64,
+            9.55,
+            9.62,
+            9.73,
+            9.85,
+            10.05,
+            9.97,
+            10.09,
+            10.12,
+            10.08,
+            10.06
         ],
         "rci_data": [
             85.0,
-            20.168
+            20.159
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:35",
+            "time": "16:23",
+            "tag": "MERCADO",
+            "text": "UBER Extends Block Partnership As Shares Slip On Weak Market Day"
+        },
+        {
+            "time": "16:10",
+            "tag": "AI",
+            "text": "PepsiCo Gains As Google Cloud Partnership Boosts AI, Supply Chain Plans"
+        },
+        {
+            "time": "16:09",
+            "tag": "AI",
+            "text": "Ulta Beauty Unveils AI Shopping Push With Alphabet Partnership"
+        },
+        {
+            "time": "16:04",
             "tag": "RESULTADOS",
-            "text": "Teledyne Technologies (NYSE:TDY) Posts Earnings Results, Beats Expectations By $0.33 EPS"
+            "text": "IBM Earnings Are on Deck. Wall Street Expects Revenue Growth. -- Barrons.com"
         },
         {
-            "time": "14:26",
+            "time": "16:00",
             "tag": "MERCADO",
-            "text": "TD Cowen cuts Tyler Tech stock price target on bookings concerns"
-        },
-        {
-            "time": "14:24",
-            "tag": "MERCADO",
-            "text": "Micron Technology stock hits all-time high at 472.02 USD"
-        },
-        {
-            "time": "14:21",
-            "tag": "MERCADO",
-            "text": "Viasat AMARA chosen to power Jetstar\u2019s long haul Wi-Fi"
-        },
-        {
-            "time": "14:19",
-            "tag": "MERCADO",
-            "text": "Verizon to report first-quarter earnings on April 27, 2026"
+            "text": "Global Cloud ELN Service Market | USA, China, India Lead | Thermo Fisher Scientific, Agilent Technologies, Dassault Syst\u00e8mes Drive Digital Lab Transformation"
         }
     ]
 }
