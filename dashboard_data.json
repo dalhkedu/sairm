@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-22 19:18 UTC",
+        "last_updated": "2026-04-22 20:59 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 201.85,
-            "change": "-2.02%"
+            "price": 202.5,
+            "change": "+1.52%"
         },
         {
             "symbol": "AMD",
-            "price": 302.99,
-            "change": "-3.3%"
+            "price": 303.46,
+            "change": "-0.15%"
         },
         {
             "symbol": "MSFT",
-            "price": 431.45,
-            "change": "-3.22%"
+            "price": 432.92,
+            "change": "+0.04%"
         },
         {
             "symbol": "CEG",
-            "price": 287.61,
-            "change": "+0.46%"
+            "price": 287.16,
+            "change": "-1.05%"
         },
         {
             "symbol": "VST",
-            "price": 155.63,
-            "change": "-1.72%"
+            "price": 155.79,
+            "change": "-1.71%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.52,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.49,
             0.49,
             0.5,
             0.5,
             0.5,
-            0.49,
-            0.48,
-            0.49,
+            0.51,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            27.0,
-            27.21,
-            27.12,
-            27.0,
-            26.55,
-            26.55,
-            26.54,
-            26.27,
-            26.06,
-            25.86,
+            25.34,
+            25.27,
+            25.12,
+            24.78,
+            24.96,
+            25.23,
+            25.66,
             25.81,
-            25.5
+            25.36,
+            25.64,
+            25.42,
+            25.32
         ],
         "hsd_history_software": [
-            10.0,
-            9.84,
-            10.04,
-            9.86,
-            9.99,
-            9.8,
-            9.75,
+            9.96,
+            9.85,
+            9.66,
+            9.52,
+            9.64,
+            9.64,
+            9.62,
             9.77,
-            9.78,
-            9.78,
-            9.89,
-            10.05
+            9.82,
+            9.97,
+            9.97,
+            10.01
         ],
         "rci_data": [
             85.0,
-            20.185
+            20.25
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:28",
+            "time": "20:07",
             "tag": "MERCADO",
-            "text": "People, Companies & Products"
+            "text": "Berkshire Hathaway Is Selling Down These 4 Positions. Here's What That Means for Investors"
         },
         {
-            "time": "18:16",
+            "time": "20:05",
             "tag": "RESULTADOS",
-            "text": "IBM Earnings Today: Red Hat, Confluent and AI Risk Put a $15.6 Billion Quarter in Focus"
+            "text": "Axon to Release First Quarter 2026 Earnings on May 6, 2026"
         },
         {
-            "time": "17:45",
+            "time": "20:03",
+            "tag": "MERCADO",
+            "text": "(TXN) Texas Instruments Incorporated Expects Q2 Revenue Range $5.00B - $5.40B"
+        },
+        {
+            "time": "20:03",
             "tag": "AI",
-            "text": "Twilio upgraded by Bank of America on AI-driven growth outlook"
+            "text": "Amgen (NASDAQ: AMGN) CTO David Reese to retire as company realigns AI and R&D"
         },
         {
-            "time": "17:38",
-            "tag": "RESULTADOS",
-            "text": "Earnings call transcript: Teledyne Technologies beats Q1 2026 forecasts"
-        },
-        {
-            "time": "17:38",
+            "time": "20:02",
             "tag": "MERCADO",
-            "text": "Skyworks Solutions (SWKS) Stock Is Up, What You Need To Know"
+            "text": "Analog Devices to Report Second Quarter Fiscal Year 2026 Financial Results on Wednesday, May 20, 2026"
         }
     ]
 }
