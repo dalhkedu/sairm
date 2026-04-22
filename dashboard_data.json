@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-22 21:58 UTC",
+        "last_updated": "2026-04-22 22:57 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 202.5,
-            "change": "-1.11%"
+            "change": "-2.84%"
         },
         {
             "symbol": "AMD",
             "price": 303.46,
-            "change": "-2.98%"
+            "change": "+1.68%"
         },
         {
             "symbol": "MSFT",
             "price": 432.92,
-            "change": "+2.49%"
+            "change": "-2.61%"
         },
         {
             "symbol": "CEG",
             "price": 287.16,
-            "change": "+2.0%"
+            "change": "-0.49%"
         },
         {
             "symbol": "VST",
             "price": 155.79,
-            "change": "+1.09%"
+            "change": "-0.1%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.55,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.45,
-            0.46,
-            0.46,
-            0.46,
-            0.46,
-            0.47,
-            0.47,
-            0.48,
+            0.5,
+            0.5,
+            0.49,
             0.49,
             0.48,
             0.49,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
             0.49
         ],
         "hsd_history_hardware": [
+            25.09,
+            25.26,
             25.1,
-            25.37,
-            25.73,
-            25.37,
-            24.91,
-            24.81,
-            24.98,
+            25.32,
+            24.95,
+            25.06,
+            25.43,
             25.14,
-            24.75,
-            24.8,
-            24.79,
-            24.98
+            25.24,
+            25.27,
+            25.54,
+            25.13
         ],
         "hsd_history_software": [
-            10.39,
-            10.24,
-            10.2,
-            10.34,
-            10.46,
+            10.04,
+            10.08,
+            10.25,
+            10.14,
+            10.03,
+            10.1,
+            10.17,
+            10.28,
             10.32,
-            10.39,
-            10.21,
-            10.13,
-            10.12,
-            10.07,
-            9.91
+            10.32,
+            10.27,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:44",
-            "tag": "AI",
-            "text": "Home Depot adds AI phone agents. How could it affect customer support?"
-        },
-        {
-            "time": "20:43",
+            "time": "22:00",
             "tag": "MERCADO",
-            "text": "U.S. Video Game Spending Rises 12% in March, Led by New Titles"
+            "text": "Trimble investors get first-quarter results webcast May 6 at 8 a.m. ET"
         },
         {
-            "time": "20:39",
+            "time": "21:46",
             "tag": "RESULTADOS",
-            "text": "IBM Shares Drop Despite Q1 Earnings Beat: Details"
+            "text": "Crown Castle Q1 2026 Earnings Call: Complete Transcript"
         },
         {
-            "time": "20:38",
+            "time": "21:45",
             "tag": "MERCADO",
-            "text": "How Tim Cook set up Apple\u2019s enterprise play"
+            "text": "Nexalin Advances Pivotal Insomnia Trial for HALO Clarity"
         },
         {
-            "time": "20:37",
+            "time": "21:34",
             "tag": "MERCADO",
-            "text": "Honeywell says Quantinuum unit confidentially filed IPO (HON:NASDAQ)"
+            "text": "Texas Instruments (TXN) Q1 2026 earnings results beat EPS and revenue expectations"
+        },
+        {
+            "time": "21:31",
+            "tag": "RESULTADOS",
+            "text": "ServiceNow, Inc. 2026 Q1 - Results - Earnings Call Presentation (NYSE:NOW)"
         }
     ]
 }
