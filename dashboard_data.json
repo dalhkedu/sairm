@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-23 11:13 UTC",
+        "last_updated": "2026-04-23 13:52 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 202.5,
-            "change": "+1.57%"
+            "price": 203.58,
+            "change": "-1.04%"
         },
         {
             "symbol": "AMD",
-            "price": 303.46,
-            "change": "-2.38%"
+            "price": 304.33,
+            "change": "+1.53%"
         },
         {
             "symbol": "MSFT",
-            "price": 432.92,
-            "change": "-1.69%"
+            "price": 419.05,
+            "change": "+1.06%"
         },
         {
             "symbol": "CEG",
-            "price": 287.16,
-            "change": "+0.29%"
+            "price": 290.93,
+            "change": "+3.05%"
         },
         {
             "symbol": "VST",
-            "price": 155.79,
-            "change": "-0.23%"
+            "price": 157.52,
+            "change": "+1.12%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.46,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.5,
             0.51,
-            0.5
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            23.71,
-            24.11,
-            24.51,
-            24.43,
-            24.91,
-            24.82,
-            24.66,
-            24.41,
-            24.64,
-            24.56,
-            25.01,
-            25.4
+            25.8,
+            26.24,
+            25.75,
+            25.91,
+            26.4,
+            26.1,
+            25.63,
+            25.26,
+            25.59,
+            25.43,
+            25.35,
+            24.95
         ],
         "hsd_history_software": [
+            9.91,
+            10.04,
+            9.9,
+            9.79,
             9.79,
             9.98,
-            10.09,
-            10.13,
-            10.12,
-            10.28,
-            10.28,
-            10.1,
-            9.98,
-            9.88,
-            9.94,
-            10.08
+            10.16,
+            10.21,
+            10.22,
+            10.11,
+            9.93,
+            9.88
         ],
         "rci_data": [
             85.0,
-            20.25
+            20.358
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:32",
+            "time": "13:07",
             "tag": "MERCADO",
-            "text": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Shares Sold by M&T Bank Corp"
+            "text": "Amazon.com (AMZN) is Strengthening Market Entrenchment Through Investment in Leo Satellite Service"
         },
         {
-            "time": "10:27",
+            "time": "13:05",
             "tag": "MERCADO",
-            "text": "Morgan Stanley raises Vertiv stock price target on data center growth"
+            "text": "Milestone Asset Management LLC Buys Shares of 20,773 PayPal Holdings, Inc. $PYPL"
         },
         {
-            "time": "10:22",
+            "time": "13:05",
             "tag": "MERCADO",
-            "text": "Nio's third-gen ES8 reaches 100,000 deliveries as Beijing Auto Show looms"
+            "text": "Milestone Asset Management LLC Invests $2.75 Million in Lam Research Corporation $LRCX"
         },
         {
-            "time": "10:19",
-            "tag": "MERCADO",
-            "text": "M&T Bank Corp Buys 97,287 Shares of Ubiquiti Inc. $UI"
+            "time": "13:02",
+            "tag": "AI",
+            "text": "New DuPont AI tool targets lower water-treatment costs and downtime"
         },
         {
-            "time": "10:19",
+            "time": "13:00",
             "tag": "MERCADO",
-            "text": "M&T Bank Corp Boosts Stake in Onto Innovation Inc. $ONTO"
+            "text": "Thermo Fisher Scientific Reports First Quarter 2026 Results"
         }
     ]
 }
