@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-23 02:53 UTC",
+        "last_updated": "2026-04-23 05:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 202.5,
-            "change": "+0.95%"
+            "change": "-0.14%"
         },
         {
             "symbol": "AMD",
             "price": 303.46,
-            "change": "-2.46%"
+            "change": "-2.07%"
         },
         {
             "symbol": "MSFT",
             "price": 432.92,
-            "change": "+0.83%"
+            "change": "+3.08%"
         },
         {
             "symbol": "CEG",
             "price": 287.16,
-            "change": "+3.05%"
+            "change": "+2.77%"
         },
         {
             "symbol": "VST",
             "price": 155.79,
-            "change": "+2.89%"
+            "change": "+2.71%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.54,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.46,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49
+            0.56,
+            0.56,
+            0.56,
+            0.56,
+            0.55,
+            0.54,
+            0.53,
+            0.54,
+            0.54,
+            0.53,
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.79,
-            26.07,
-            25.62,
-            25.81,
-            25.4,
-            25.82,
-            25.8,
-            26.08,
-            25.74,
+            25.59,
+            25.59,
+            25.28,
+            25.63,
             25.47,
-            25.17,
-            24.85
+            25.23,
+            25.04,
+            25.08,
+            24.74,
+            25.24,
+            25.4,
+            25.0
         ],
         "hsd_history_software": [
-            10.07,
-            9.95,
-            9.8,
-            9.78,
-            9.88,
-            9.97,
-            10.01,
-            9.84,
-            9.84,
-            10.01,
-            9.83,
-            10.02
+            10.21,
+            10.3,
+            10.43,
+            10.23,
+            10.1,
+            10.18,
+            10.09,
+            9.98,
+            9.87,
+            9.94,
+            9.77,
+            9.86
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:09",
-            "tag": "AI",
-            "text": "Veritone and Cold Case Foundation partner to accelerate unsolved investigations with AI"
+            "time": "05:09",
+            "tag": "RESULTADOS",
+            "text": "Clearfield Sets Fiscal Second Quarter 2026 Earnings Call for Wednesday, May 6, 2026"
         },
         {
-            "time": "02:09",
+            "time": "04:34",
             "tag": "MERCADO",
-            "text": "Virtuix Holdings (VTIX) CEO executes pre-planned sale of 137,553 shares"
+            "text": "5 Challenges Apple's New CEO John Ternus Will Face"
         },
         {
-            "time": "01:39",
+            "time": "04:09",
             "tag": "MERCADO",
-            "text": "Unisys Expands Collaboration with Salesforce to Deliver Ai-Driven Field Services"
+            "text": "China Technology ETF declares annual distribution of $1.1262"
         },
         {
-            "time": "01:19",
+            "time": "04:07",
             "tag": "MERCADO",
-            "text": "Insider Selling: Arista Networks (NYSE:ANET) CEO Sells 306,139 Shares of Stock"
+            "text": "Cisco Hits 52-Week High: Should You Still Buy the CSCO Stock?"
         },
         {
-            "time": "01:18",
-            "tag": "MERCADO",
-            "text": "Insider Selling: Western Digital (NASDAQ:WDC) Insider Sells 363 Shares of Stock"
+            "time": "04:07",
+            "tag": "RESULTADOS",
+            "text": "Teledyne's Q1 Earnings & Revenues Beat Estimates, '26 EPS View Raised"
         }
     ]
 }
