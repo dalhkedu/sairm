@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-23 17:39 UTC",
+        "last_updated": "2026-04-23 19:16 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 199.35,
-            "change": "-0.38%"
+            "price": 198.93,
+            "change": "+0.03%"
         },
         {
             "symbol": "AMD",
-            "price": 303.83,
-            "change": "+1.05%"
+            "price": 304.25,
+            "change": "-0.94%"
         },
         {
             "symbol": "MSFT",
-            "price": 413.65,
-            "change": "-1.53%"
+            "price": 416.61,
+            "change": "-1.92%"
         },
         {
             "symbol": "CEG",
-            "price": 290.92,
-            "change": "-1.08%"
+            "price": 291.6,
+            "change": "-2.33%"
         },
         {
             "symbol": "VST",
-            "price": 155.85,
-            "change": "+1.95%"
+            "price": 156.28,
+            "change": "+1.63%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.5,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.49,
-            0.5,
+            0.52,
+            0.52,
+            0.52,
             0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.52,
+            0.52,
             0.51,
             0.5,
-            0.5
+            0.5,
+            0.51,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.28,
-            24.21,
-            24.07,
-            24.14,
-            24.11,
-            23.76,
-            24.13,
-            24.21,
-            24.56,
-            24.53,
-            24.25,
-            24.6
+            23.71,
+            23.9,
+            23.85,
+            23.99,
+            24.47,
+            24.9,
+            24.93,
+            25.13,
+            24.83,
+            25.07,
+            25.1,
+            24.7
         ],
         "hsd_history_software": [
-            9.49,
-            9.65,
-            9.63,
-            9.51,
-            9.53,
-            9.71,
-            9.87,
-            9.94,
-            9.86,
-            9.97,
+            10.11,
+            10.0,
+            10.07,
+            10.13,
+            10.09,
+            10.06,
+            10.09,
+            10.0,
             9.82,
-            9.98
+            9.95,
+            9.9,
+            9.93
         ],
         "rci_data": [
             85.0,
-            19.935
+            19.893
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:45",
-            "tag": "MERCADO",
-            "text": "Check Point stock hits 52-week low at 132.4 USD"
+            "time": "18:20",
+            "tag": "AI",
+            "text": "Google Cloud Partner Award Highlights Iron Mountain\u2019s AI Pivot Could Be A Game Changer For Iron Mountain (IRM)"
         },
         {
-            "time": "16:41",
-            "tag": "MERCADO",
-            "text": "Hasbro delays financial results as cyberattack fallout drags into second quarter"
+            "time": "18:20",
+            "tag": "AI",
+            "text": "Should Ulta Beauty\u2019s Gemini AI Alliance With Google Require Action From Ulta Beauty (ULTA) Investors?"
         },
         {
-            "time": "16:39",
+            "time": "18:20",
             "tag": "MERCADO",
-            "text": "Intuit (NASDAQ:INTU) Shares Gap Down - What's Next?"
+            "text": "Palo Alto on track to log losses after six-session rally"
         },
         {
-            "time": "16:29",
+            "time": "18:15",
             "tag": "MERCADO",
-            "text": "CI&T To Announce First Quarter 2026 Results on May 11, 2026"
+            "text": "Lam Research Corp Stock (LRCX) Moved Down by 3.12% on Apr 23: What Investors Need To Know"
         },
         {
-            "time": "16:29",
+            "time": "18:06",
             "tag": "MERCADO",
-            "text": "Microsoft plans first voluntary employee buyout, CNBC reports"
+            "text": "Elastic Collaborates with Google Cloud to Bring Embedded Security Layer to Google Distributed Cloud"
         }
     ]
 }
