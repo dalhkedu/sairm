@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-24 16:06 UTC",
+        "last_updated": "2026-04-24 17:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 209.32,
-            "change": "-1.13%"
+            "price": 209.18,
+            "change": "+0.26%"
         },
         {
             "symbol": "AMD",
-            "price": 352.56,
-            "change": "+0.66%"
+            "price": 348.15,
+            "change": "+0.02%"
         },
         {
             "symbol": "MSFT",
-            "price": 418.52,
-            "change": "+2.75%"
+            "price": 420.64,
+            "change": "-0.02%"
         },
         {
             "symbol": "CEG",
-            "price": 307.82,
-            "change": "-1.0%"
+            "price": 311.65,
+            "change": "+2.82%"
         },
         {
             "symbol": "VST",
-            "price": 162.73,
-            "change": "+0.18%"
+            "price": 164.04,
+            "change": "+0.46%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.61,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.56,
-            0.55,
-            0.54,
-            0.53,
-            0.54,
-            0.53,
+            0.51,
             0.52,
             0.51,
             0.51,
             0.5,
-            0.49
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.51,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.13,
-            25.17,
-            25.02,
-            25.31,
-            25.34,
-            25.15,
-            25.61,
-            25.42,
-            24.95,
-            24.65,
-            24.5,
-            24.82
+            23.27,
+            23.68,
+            24.1,
+            24.33,
+            24.45,
+            24.88,
+            24.86,
+            24.42,
+            24.45,
+            24.16,
+            24.35,
+            24.63
         ],
         "hsd_history_software": [
-            10.19,
-            10.29,
-            10.33,
-            10.15,
+            10.68,
+            10.53,
+            10.43,
+            10.39,
+            10.47,
+            10.42,
             10.24,
-            10.17,
-            10.13,
-            9.93,
-            10.11,
-            10.08,
-            9.99,
-            10.18
+            10.1,
+            9.97,
+            9.91,
+            9.74,
+            9.89
         ],
         "rci_data": [
             85.0,
-            20.932000000000002
+            20.918
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:27",
+            "time": "16:47",
             "tag": "AI",
-            "text": "AlphaSense Named a Leader in Inaugural Gartner\u00ae Magic Quadrant\u2122 for Competitive and Market Intelligence"
+            "text": "Alphabet's AI Push Reinforces Search Dominance: More Upside Ahead?"
         },
         {
-            "time": "15:15",
+            "time": "16:41",
             "tag": "MERCADO",
-            "text": "Does Google Cloud\u2019s 2026 Workload Security Award Reshape the Bull Case For Fortinet (FTNT)?"
+            "text": "Teradyne (TER) Wins Injunction in Robotics Copyright Case"
         },
         {
-            "time": "15:15",
+            "time": "16:38",
             "tag": "MERCADO",
-            "text": "Corning Inc Stock (GLW) Moved Up by 3.64% on Apr 24: Key Drivers Unveiled"
+            "text": "ACQLHXX Stock Price and Chart \u2014 NASDAQ:ACQLHXX"
         },
         {
-            "time": "15:15",
+            "time": "16:35",
             "tag": "MERCADO",
-            "text": "Qualcomm Inc Stock (QCOM) Moved Up by 7.81% on Apr 24: What Investors Need To Know"
+            "text": "Hasbro expects March cyberattack to impact second-quarter revenue"
         },
         {
-            "time": "15:12",
+            "time": "16:29",
             "tag": "MERCADO",
-            "text": "Microchip Technology joins elite club of stocks with RS ratings over 90"
+            "text": "Huntington whittles expense growth"
         }
     ]
 }
