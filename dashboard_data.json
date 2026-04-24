@@ -1,80 +1,80 @@
 {
     "metadata": {
-        "last_updated": "2026-04-24 02:55 UTC",
+        "last_updated": "2026-04-24 05:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 199.64,
-            "change": "-2.39%"
+            "change": "-3.46%"
         },
         {
             "symbol": "AMD",
             "price": 305.33,
-            "change": "-2.97%"
+            "change": "-0.74%"
         },
         {
             "symbol": "MSFT",
             "price": 415.75,
-            "change": "-3.22%"
+            "change": "+2.68%"
         },
         {
             "symbol": "CEG",
             "price": 292.77,
-            "change": "-0.21%"
+            "change": "-1.34%"
         },
         {
             "symbol": "VST",
             "price": 156.85,
-            "change": "-1.02%"
+            "change": "-1.05%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.64,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.52,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.52,
-            0.51
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.43,
-            26.19,
-            26.67,
-            26.19,
-            25.69,
-            25.76,
-            25.53,
-            25.36,
-            25.58,
-            25.2,
-            25.48,
-            25.3
+            24.68,
+            24.87,
+            24.42,
+            24.54,
+            24.42,
+            24.63,
+            24.57,
+            24.83,
+            25.12,
+            24.87,
+            25.23,
+            24.83
         ],
         "hsd_history_software": [
-            9.64,
-            9.76,
+            9.85,
+            9.7,
+            9.85,
+            9.86,
+            9.72,
+            9.53,
+            9.63,
+            9.75,
             9.74,
-            9.78,
-            9.68,
-            9.83,
-            9.98,
-            9.92,
-            9.92,
-            10.05,
-            9.97,
+            9.82,
+            10.0,
             10.07
         ],
         "rci_data": [
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:36",
+            "time": "04:40",
             "tag": "MERCADO",
-            "text": "Assessing Tower Semiconductor (NasdaqGS:TSEM) Valuation After Strong Recent Share Price Momentum"
+            "text": "Is Crown Castle\u2019s Tower Focus And Asset Sales Strategy Reframing The Investment Case For CCI?"
         },
         {
-            "time": "01:23",
+            "time": "04:38",
             "tag": "MERCADO",
-            "text": "BofA, EY Strike $2.5M Deal To Settle MOVEit Breach Claims"
+            "text": "Elevating Transparency: Introducing the Palo Alto Networks SASE Health Portal"
         },
         {
-            "time": "01:16",
-            "tag": "MERCADO",
-            "text": "Alibaba Leads Asia-Pacific IaaS Market With 22.5% Share in 2025, Gartner Says"
+            "time": "04:08",
+            "tag": "AI",
+            "text": "Hyperscale Data: $50 Million Bitcoin Treasury Milestone Reached As AI Data Center Company Advances Toward $100 Million Goal"
         },
         {
-            "time": "01:09",
-            "tag": "MERCADO",
-            "text": "Bay Area Tesla owner files lawsuit against company over \u2018self-driving' car promises"
+            "time": "03:40",
+            "tag": "AI",
+            "text": "Tencent and Alibaba in Talks to Invest in DeepSeek AI Startup | 2026 Funding Round - News and Statistics"
         },
         {
-            "time": "00:39",
+            "time": "03:34",
             "tag": "MERCADO",
-            "text": "Rural virtual care delivers equal health improvements, Teladoc Health, Inc."
+            "text": "Analysts Offer Insights on Technology Companies: Texas Instruments (TXN) and Teledyne Technologies (TDY)"
         }
     ]
 }
