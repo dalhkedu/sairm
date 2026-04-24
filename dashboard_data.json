@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-23 23:50 UTC",
+        "last_updated": "2026-04-24 02:55 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 199.64,
-            "change": "+1.73%"
+            "change": "-2.39%"
         },
         {
             "symbol": "AMD",
             "price": 305.33,
-            "change": "-0.8%"
+            "change": "-2.97%"
         },
         {
             "symbol": "MSFT",
             "price": 415.75,
-            "change": "+2.95%"
+            "change": "-3.22%"
         },
         {
             "symbol": "CEG",
             "price": 292.77,
-            "change": "-0.29%"
+            "change": "-0.21%"
         },
         {
             "symbol": "VST",
             "price": 156.85,
-            "change": "+0.89%"
+            "change": "-1.02%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.54,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.49,
-            0.48,
-            0.47,
-            0.47,
-            0.48,
-            0.49,
-            0.49
+            0.53,
+            0.52,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.67,
-            25.04,
-            25.49,
-            25.46,
-            25.54,
-            25.96,
-            25.9,
-            25.64,
-            25.22,
-            24.92,
-            25.12,
-            24.93
+            26.43,
+            26.19,
+            26.67,
+            26.19,
+            25.69,
+            25.76,
+            25.53,
+            25.36,
+            25.58,
+            25.2,
+            25.48,
+            25.3
         ],
         "hsd_history_software": [
-            10.15,
-            10.06,
-            9.9,
-            9.89,
-            9.74,
-            9.73,
-            9.69,
             9.64,
-            9.55,
-            9.66,
-            9.65,
-            9.81
+            9.76,
+            9.74,
+            9.78,
+            9.68,
+            9.83,
+            9.98,
+            9.92,
+            9.92,
+            10.05,
+            9.97,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "23:09",
+            "time": "01:36",
             "tag": "MERCADO",
-            "text": "Check Point Software Ranks #1 in Miercom\u2019s 2026 Hybrid Mesh Network Security"
+            "text": "Assessing Tower Semiconductor (NasdaqGS:TSEM) Valuation After Strong Recent Share Price Momentum"
         },
         {
-            "time": "22:23",
-            "tag": "RESULTADOS",
-            "text": "Full Transcript: Digital Realty Trust Q1 2026 Earnings Call"
+            "time": "01:23",
+            "tag": "MERCADO",
+            "text": "BofA, EY Strike $2.5M Deal To Settle MOVEit Breach Claims"
         },
         {
-            "time": "22:20",
+            "time": "01:16",
             "tag": "MERCADO",
-            "text": "Amazon replaces Ring, Blink job titles with \u2018builder\u2019 roles"
+            "text": "Alibaba Leads Asia-Pacific IaaS Market With 22.5% Share in 2025, Gartner Says"
         },
         {
-            "time": "22:18",
+            "time": "01:09",
             "tag": "MERCADO",
-            "text": "Has Applied Materials (AMAT) Run Too Far After 171% One Year Surge?"
+            "text": "Bay Area Tesla owner files lawsuit against company over \u2018self-driving' car promises"
         },
         {
-            "time": "22:15",
+            "time": "00:39",
             "tag": "MERCADO",
-            "text": "PTC Inc (PTC) Shares Fall 3.4% -- What GF Score of 89 Tells Inve"
+            "text": "Rural virtual care delivers equal health improvements, Teladoc Health, Inc."
         }
     ]
 }
