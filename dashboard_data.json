@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-24 19:55 UTC",
+        "last_updated": "2026-04-24 20:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 208.15,
-            "change": "+1.27%"
+            "price": 208.27,
+            "change": "-2.59%"
         },
         {
             "symbol": "AMD",
-            "price": 347.14,
-            "change": "-1.44%"
+            "price": 347.81,
+            "change": "+2.01%"
         },
         {
             "symbol": "MSFT",
             "price": 424.62,
-            "change": "+0.21%"
+            "change": "+1.32%"
         },
         {
             "symbol": "CEG",
-            "price": 313.15,
-            "change": "+3.19%"
+            "price": 313.53,
+            "change": "-0.32%"
         },
         {
             "symbol": "VST",
-            "price": 164.29,
-            "change": "-0.42%"
+            "price": 164.35,
+            "change": "+0.21%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.68,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.51,
             0.5,
-            0.49,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            27.81,
-            27.61,
-            27.11,
-            26.86,
-            26.38,
-            26.18,
-            25.89,
-            25.66,
-            25.35,
-            24.92,
+            25.29,
+            25.21,
+            25.64,
+            25.16,
+            24.78,
+            25.04,
+            24.89,
+            24.81,
+            24.53,
+            24.79,
             24.71,
-            25.04
+            25.2
         ],
         "hsd_history_software": [
-            9.5,
-            9.62,
-            9.79,
-            9.92,
-            9.86,
+            10.14,
             9.98,
-            10.11,
+            10.18,
+            10.33,
+            10.26,
             10.23,
-            10.14,
-            10.32,
-            10.14,
-            9.96
+            10.07,
+            9.9,
+            9.89,
+            9.87,
+            10.02,
+            9.88
         ],
         "rci_data": [
             85.0,
-            20.815
+            20.827
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:29",
+            "time": "20:09",
             "tag": "MERCADO",
-            "text": "WiMi announced a net income of RMB 347 million for 2025, a year-on-year increase of 235%"
+            "text": "May 14 after-close release, webcast to follow for SoundThinking"
         },
         {
-            "time": "19:08",
+            "time": "20:04",
             "tag": "MERCADO",
-            "text": "Verizon Avoids $175 Million Verdict Due to Patent Owner\u2019s Delay"
+            "text": "Autodesk announces nomination of Omar Abbosh to board"
         },
         {
-            "time": "18:37",
+            "time": "19:48",
             "tag": "MERCADO",
-            "text": "Kulicke and Soffa and KLA Corporation Stocks Trade Up, What You Need To Know"
+            "text": "Guidewire Software Jumps 6.1% Amid Sector-Wide Rally"
         },
         {
-            "time": "18:27",
+            "time": "19:46",
             "tag": "MERCADO",
-            "text": "Is Synopsys, Inc. (SNPS) A Good Stock To Buy Now?"
+            "text": "LPL, Ameriprise once again report attacks on client data to Maine."
         },
         {
-            "time": "18:18",
+            "time": "19:41",
             "tag": "MERCADO",
-            "text": "Is NetApp (NTAP) Offering Value After Strong Multi Year Share Price Performance"
+            "text": "Evercore ISI Lowers Dollar General (DG) Target, Reiterates In Line Rating"
         }
     ]
 }
