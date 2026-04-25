@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-25 18:58 UTC",
+        "last_updated": "2026-04-25 19:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 208.27,
-            "change": "+3.05%"
+            "change": "+0.81%"
         },
         {
             "symbol": "AMD",
             "price": 347.81,
-            "change": "+2.0%"
+            "change": "+1.67%"
         },
         {
             "symbol": "MSFT",
             "price": 424.62,
-            "change": "+1.32%"
+            "change": "-0.23%"
         },
         {
             "symbol": "CEG",
             "price": 313.53,
-            "change": "+1.17%"
+            "change": "+0.65%"
         },
         {
             "symbol": "VST",
             "price": 164.35,
-            "change": "-1.7%"
+            "change": "-3.25%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.7,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
+            0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
             0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            25.17,
-            25.49,
-            25.75,
-            25.39,
-            25.22,
-            25.56,
-            25.55,
-            25.65,
-            25.52,
-            25.6,
-            25.53,
-            25.45
+            23.79,
+            23.67,
+            23.97,
+            24.25,
+            24.62,
+            24.88,
+            25.34,
+            24.9,
+            25.12,
+            24.7,
+            24.97,
+            25.37
         ],
         "hsd_history_software": [
-            9.53,
-            9.68,
-            9.76,
-            9.91,
-            9.82,
-            9.98,
-            9.89,
-            9.86,
-            9.89,
+            9.77,
+            9.8,
+            9.78,
             9.96,
-            10.03,
-            10.11
+            10.09,
+            10.06,
+            9.87,
+            9.84,
+            10.02,
+            9.93,
+            9.88,
+            9.91
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "18:14",
+            "tag": "MERCADO",
+            "text": "Is Enphase Energy\u2019s (ENPH) Evergen Deal Quietly Rewriting Its Software-Driven Storage Narrative?"
+        },
+        {
             "time": "17:39",
             "tag": "MERCADO",
             "text": "ROSEN, NATIONAL INVESTOR COUNSEL, Encourages Snowflake Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - SNOW"
@@ -144,11 +149,6 @@
             "time": "16:14",
             "tag": "AI",
             "text": "The Bull Case For Belden (BDC) Could Change Following New AI-Ready High-Density Cooling Partnership"
-        },
-        {
-            "time": "16:12",
-            "tag": "MERCADO",
-            "text": "SPDR S&P 500 ETF Trust Sees Gains and Strong Inflows"
         }
     ]
 }
