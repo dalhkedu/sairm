@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-25 21:39 UTC",
+        "last_updated": "2026-04-25 22:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 208.27,
-            "change": "+3.5%"
+            "change": "-1.53%"
         },
         {
             "symbol": "AMD",
             "price": 347.81,
-            "change": "+0.21%"
+            "change": "+0.34%"
         },
         {
             "symbol": "MSFT",
             "price": 424.62,
-            "change": "-2.43%"
+            "change": "-2.06%"
         },
         {
             "symbol": "CEG",
             "price": 313.53,
-            "change": "-2.86%"
+            "change": "+2.78%"
         },
         {
             "symbol": "VST",
             "price": 164.35,
-            "change": "-2.06%"
+            "change": "-0.66%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.63,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
+            0.5,
             0.51,
+            0.52,
             0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            25.59,
-            25.76,
-            25.82,
-            25.46,
-            25.44,
-            25.0,
-            25.37,
-            25.64,
-            25.62,
-            25.77,
-            25.33,
-            25.21
+            25.14,
+            25.26,
+            24.83,
+            24.98,
+            24.87,
+            25.29,
+            25.18,
+            25.32,
+            24.99,
+            25.08,
+            25.32,
+            24.92
         ],
         "hsd_history_software": [
-            9.27,
-            9.4,
-            9.44,
-            9.52,
-            9.65,
-            9.75,
-            9.74,
-            9.76,
-            9.77,
-            9.9,
-            9.91,
-            10.08
+            10.24,
+            10.15,
+            10.0,
+            9.95,
+            9.78,
+            9.6,
+            9.73,
+            9.82,
+            9.97,
+            9.81,
+            9.73,
+            9.92
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:31",
+            "time": "22:08",
             "tag": "RESULTADOS",
-            "text": "Intuit Stock Rebounds After AI Selloff as TurboTax Owner Nears Earnings Test"
+            "text": "Sanmina (SANM) Set to Report Q2 Earnings with Strong Growth Expectations"
         },
         {
-            "time": "20:18",
-            "tag": "AI",
-            "text": "Why Eaton Corporation plc Stock Is Sitting Near Highs Before a Big AI Power Test"
-        },
-        {
-            "time": "20:18",
-            "tag": "AI",
-            "text": "Did Equinix\u2019s (EQIX) SpinLaunch Deal and AI-Native Fabric Just Redefine Its Core Narrative?"
-        },
-        {
-            "time": "19:39",
+            "time": "21:39",
             "tag": "MERCADO",
-            "text": "Key deals this week: Helix Energy, Tesla, QXO, USA Rare Earth and more (LLY:NYSE)"
+            "text": "RCM Technologies Inc (RCMT) CFO Kevin Miller Sells 4,415 Shares"
         },
         {
-            "time": "19:28",
-            "tag": "AI",
-            "text": "Palo Alto Networks Stock Jumps as AI Cyber Fears Become Its Next Big Test"
+            "time": "21:24",
+            "tag": "MERCADO",
+            "text": "Cisco Systems\u2019 Quantum Switch Push Puts Networking Giant in Race for the Next Internet"
+        },
+        {
+            "time": "21:17",
+            "tag": "MERCADO",
+            "text": "Iridium Communications (IRDM) Is Down 6.9% After Reaffirming 2026 Outlook Despite Profit Squeeze"
+        },
+        {
+            "time": "20:39",
+            "tag": "MERCADO",
+            "text": "Joby Aviation, Inc. Trade Ideas \u2014 SWB:8TQ"
         }
     ]
 }
