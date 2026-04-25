@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-25 22:40 UTC",
+        "last_updated": "2026-04-25 23:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 208.27,
-            "change": "-1.53%"
+            "change": "-1.41%"
         },
         {
             "symbol": "AMD",
             "price": 347.81,
-            "change": "+0.34%"
+            "change": "+0.05%"
         },
         {
             "symbol": "MSFT",
             "price": 424.62,
-            "change": "-2.06%"
+            "change": "+0.07%"
         },
         {
             "symbol": "CEG",
             "price": 313.53,
-            "change": "+2.78%"
+            "change": "+0.72%"
         },
         {
             "symbol": "VST",
             "price": 164.35,
-            "change": "-0.66%"
+            "change": "-3.05%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.67,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
             0.51,
             0.52,
             0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
             0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            25.14,
-            25.26,
-            24.83,
-            24.98,
-            24.87,
-            25.29,
-            25.18,
-            25.32,
-            24.99,
-            25.08,
-            25.32,
-            24.92
+            24.73,
+            24.76,
+            25.25,
+            25.24,
+            25.22,
+            25.73,
+            25.45,
+            25.13,
+            24.74,
+            24.43,
+            24.22,
+            24.65
         ],
         "hsd_history_software": [
-            10.24,
-            10.15,
-            10.0,
-            9.95,
-            9.78,
+            9.72,
+            9.74,
+            9.71,
             9.6,
-            9.73,
-            9.82,
+            9.78,
             9.97,
-            9.81,
-            9.73,
-            9.92
+            10.1,
+            10.31,
+            10.16,
+            9.98,
+            9.83,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,9 +126,19 @@
     ],
     "news_feed": [
         {
+            "time": "22:38",
+            "tag": "MERCADO",
+            "text": "Manhattan Associates (NASDAQ:MANH) EVP Sells $1,016,525.00 in Stock"
+        },
+        {
             "time": "22:08",
             "tag": "RESULTADOS",
             "text": "Sanmina (SANM) Set to Report Q2 Earnings with Strong Growth Expectations"
+        },
+        {
+            "time": "22:08",
+            "tag": "MERCADO",
+            "text": "Analysts Are Bullish on These Technology Stocks: Check Point (CHKP), Roper Technologies (ROP)"
         },
         {
             "time": "21:39",
@@ -139,16 +149,6 @@
             "time": "21:24",
             "tag": "MERCADO",
             "text": "Cisco Systems\u2019 Quantum Switch Push Puts Networking Giant in Race for the Next Internet"
-        },
-        {
-            "time": "21:17",
-            "tag": "MERCADO",
-            "text": "Iridium Communications (IRDM) Is Down 6.9% After Reaffirming 2026 Outlook Despite Profit Squeeze"
-        },
-        {
-            "time": "20:39",
-            "tag": "MERCADO",
-            "text": "Joby Aviation, Inc. Trade Ideas \u2014 SWB:8TQ"
         }
     ]
 }
