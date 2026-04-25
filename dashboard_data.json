@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-25 16:49 UTC",
+        "last_updated": "2026-04-25 17:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 208.27,
-            "change": "+2.8%"
+            "change": "+0.84%"
         },
         {
             "symbol": "AMD",
             "price": 347.81,
-            "change": "+3.38%"
+            "change": "+0.78%"
         },
         {
             "symbol": "MSFT",
             "price": 424.62,
-            "change": "+2.05%"
+            "change": "-0.38%"
         },
         {
             "symbol": "CEG",
             "price": 313.53,
-            "change": "-3.15%"
+            "change": "-0.75%"
         },
         {
             "symbol": "VST",
             "price": 164.35,
-            "change": "-3.4%"
+            "change": "+3.37%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.6,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.48,
-            0.48,
             0.47,
             0.48,
             0.48,
             0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.48,
             0.49,
             0.49,
             0.49,
-            0.49,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            24.81,
+            24.83,
             25.29,
-            25.26,
-            25.37,
-            25.24,
-            24.88,
-            24.85,
-            25.05,
+            25.22,
+            25.09,
+            25.44,
             25.03,
-            24.6,
-            24.5,
-            24.69
+            24.79,
+            25.18,
+            25.37,
+            25.22,
+            25.27,
+            24.93
         ],
         "hsd_history_software": [
-            9.38,
-            9.55,
-            9.73,
-            9.64,
-            9.7,
-            9.73,
-            9.66,
             9.72,
-            9.84,
-            9.88,
+            9.77,
+            9.79,
+            9.89,
             10.07,
-            9.89
+            10.19,
+            10.15,
+            10.0,
+            9.87,
+            9.86,
+            9.94,
+            9.92
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:07",
-            "tag": "RESULTADOS",
-            "text": "Goldman Sachs Holds $330 Apple (AAPL) Stock Target, Calls Current Weakness a Buying Opportunity Before April 30 Earnings"
+            "time": "16:34",
+            "tag": "MERCADO",
+            "text": "ResMed Steps Up PAP Innovation With New Amalfi vs. CLA11 Sleep Apnea Study"
         },
         {
-            "time": "14:49",
-            "tag": "MERCADO",
-            "text": "Alphabet Stock Outlook: Cloud Growth, Gemini, and $430 Fair Value"
+            "time": "16:14",
+            "tag": "AI",
+            "text": "The Bull Case For Belden (BDC) Could Change Following New AI-Ready High-Density Cooling Partnership"
         },
         {
-            "time": "14:09",
+            "time": "16:12",
             "tag": "MERCADO",
-            "text": "Craig-Hallum Sticks to Their Buy Rating for Agilysys (AGYS)"
+            "text": "SPDR S&P 500 ETF Trust Sees Gains and Strong Inflows"
         },
         {
-            "time": "13:39",
+            "time": "16:09",
             "tag": "MERCADO",
-            "text": "Zurcher Kantonalbank Zurich Cantonalbank Has $5.49 Million Stake in Astera Labs, Inc. $ALAB"
+            "text": "Blue Bird (BLBD) Appoints Lyndon Lie as Senior Vice President of Engineering"
         },
         {
-            "time": "13:39",
-            "tag": "MERCADO",
-            "text": "WT Asset Management Ltd Makes New Investment in Astera Labs, Inc. $ALAB"
+            "time": "15:38",
+            "tag": "AI",
+            "text": "How Investors May Respond To Aramark (ARMK) Entering Hyperscale AI Data Centers With Nexus Platform"
         }
     ]
 }
