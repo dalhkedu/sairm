@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-25 15:42 UTC",
+        "last_updated": "2026-04-25 16:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 208.27,
-            "change": "-3.46%"
+            "change": "+2.8%"
         },
         {
             "symbol": "AMD",
             "price": 347.81,
-            "change": "+2.18%"
+            "change": "+3.38%"
         },
         {
             "symbol": "MSFT",
             "price": 424.62,
-            "change": "+0.54%"
+            "change": "+2.05%"
         },
         {
             "symbol": "CEG",
             "price": 313.53,
-            "change": "-2.59%"
+            "change": "-3.15%"
         },
         {
             "symbol": "VST",
             "price": 164.35,
-            "change": "-1.28%"
+            "change": "-3.4%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.64,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.52,
-            0.51,
-            0.5,
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
             0.49,
             0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.01,
-            23.55,
-            23.21,
-            23.24,
-            23.28,
-            23.26,
-            23.39,
-            23.66,
-            23.83,
-            24.16,
-            24.64,
-            24.7
+            24.81,
+            25.29,
+            25.26,
+            25.37,
+            25.24,
+            24.88,
+            24.85,
+            25.05,
+            25.03,
+            24.6,
+            24.5,
+            24.69
         ],
         "hsd_history_software": [
-            10.45,
-            10.34,
-            10.22,
-            10.27,
-            10.2,
-            10.11,
-            10.02,
-            10.08,
-            10.04,
-            9.92,
-            10.05,
-            9.95
+            9.38,
+            9.55,
+            9.73,
+            9.64,
+            9.7,
+            9.73,
+            9.66,
+            9.72,
+            9.84,
+            9.88,
+            10.07,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "15:07",
+            "tag": "RESULTADOS",
+            "text": "Goldman Sachs Holds $330 Apple (AAPL) Stock Target, Calls Current Weakness a Buying Opportunity Before April 30 Earnings"
+        },
+        {
             "time": "14:49",
             "tag": "MERCADO",
             "text": "Alphabet Stock Outlook: Cloud Growth, Gemini, and $430 Fair Value"
         },
         {
-            "time": "13:38",
+            "time": "14:09",
             "tag": "MERCADO",
-            "text": "Tower Semiconductor Ltd. $TSEM Stock Position Increased by Zurcher Kantonalbank Zurich Cantonalbank"
+            "text": "Craig-Hallum Sticks to Their Buy Rating for Agilysys (AGYS)"
         },
         {
-            "time": "13:38",
+            "time": "13:39",
             "tag": "MERCADO",
-            "text": "WT Asset Management Ltd Makes New $78.97 Million Investment in Tower Semiconductor Ltd. $TSEM"
+            "text": "Zurcher Kantonalbank Zurich Cantonalbank Has $5.49 Million Stake in Astera Labs, Inc. $ALAB"
         },
         {
-            "time": "13:27",
+            "time": "13:39",
             "tag": "MERCADO",
-            "text": "WT Asset Management Ltd Trims Stake in Teradyne, Inc. $TER"
-        },
-        {
-            "time": "13:27",
-            "tag": "MERCADO",
-            "text": "WT Asset Management Ltd Grows Stake in Seagate Technology Holdings PLC $STX"
+            "text": "WT Asset Management Ltd Makes New Investment in Astera Labs, Inc. $ALAB"
         }
     ]
 }
