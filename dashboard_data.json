@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-25 13:12 UTC",
+        "last_updated": "2026-04-25 14:46 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 208.27,
-            "change": "-0.74%"
+            "change": "-1.43%"
         },
         {
             "symbol": "AMD",
             "price": 347.81,
-            "change": "-1.94%"
+            "change": "+1.04%"
         },
         {
             "symbol": "MSFT",
             "price": 424.62,
-            "change": "+1.07%"
+            "change": "-3.19%"
         },
         {
             "symbol": "CEG",
             "price": 313.53,
-            "change": "-2.69%"
+            "change": "-1.53%"
         },
         {
             "symbol": "VST",
             "price": 164.35,
-            "change": "-1.65%"
+            "change": "-1.58%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.5,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
             0.49,
             0.49,
             0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
             0.5,
             0.49,
-            0.49,
-            0.49,
-            0.49
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.81,
-            25.88,
+            24.26,
+            24.28,
+            24.75,
+            24.43,
+            24.91,
+            25.28,
+            25.62,
+            25.63,
+            25.38,
             25.54,
-            25.49,
-            25.66,
-            26.1,
-            25.73,
-            25.72,
-            25.45,
-            25.03,
-            24.73,
-            24.61
+            25.22,
+            25.37
         ],
         "hsd_history_software": [
-            9.82,
-            9.89,
-            9.75,
-            9.75,
-            9.86,
-            9.97,
-            10.1,
+            10.17,
+            10.23,
             10.22,
-            10.03,
-            10.11,
-            10.19,
-            10.11
+            10.05,
+            9.88,
+            9.87,
+            9.87,
+            9.74,
+            9.88,
+            9.73,
+            9.85,
+            9.8
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,9 @@
     ],
     "news_feed": [
         {
-            "time": "12:34",
-            "tag": "MERCADO",
-            "text": "Mattern Capital Management LLC Has $12.86 Million Stake in Analog Devices, Inc. $ADI"
-        },
-        {
-            "time": "12:33",
-            "tag": "MERCADO",
-            "text": "Impax Asset Management Group plc Trims Stock Position in Monolithic Power Systems, Inc. $MPWR"
-        },
-        {
-            "time": "12:32",
-            "tag": "MERCADO",
-            "text": "Impax Asset Management Group plc Decreases Stake in Autodesk, Inc. $ADSK"
-        },
-        {
-            "time": "12:32",
-            "tag": "MERCADO",
-            "text": "Intuitive Surgical, Inc. $ISRG Shares Sold by Impax Asset Management Group plc"
-        },
-        {
-            "time": "12:32",
-            "tag": "MERCADO",
-            "text": "Impax Asset Management Group plc Invests $106.74 Million in Tyler Technologies, Inc. $TYL"
+            "time": "INFO",
+            "tag": "LIMIT",
+            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
         }
     ]
 }
