@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-25 19:49 UTC",
+        "last_updated": "2026-04-25 20:42 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 208.27,
-            "change": "+0.81%"
+            "change": "+1.82%"
         },
         {
             "symbol": "AMD",
             "price": 347.81,
-            "change": "+1.67%"
+            "change": "-0.48%"
         },
         {
             "symbol": "MSFT",
             "price": 424.62,
-            "change": "-0.23%"
+            "change": "-2.94%"
         },
         {
             "symbol": "CEG",
             "price": 313.53,
-            "change": "+0.65%"
+            "change": "-0.77%"
         },
         {
             "symbol": "VST",
             "price": 164.35,
-            "change": "-3.25%"
+            "change": "-0.34%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.7,
+        "cer_current": 0.6,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
             0.5,
             0.49,
-            0.5
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            23.79,
-            23.67,
-            23.97,
-            24.25,
+            24.1,
+            24.41,
+            24.06,
+            23.8,
+            23.72,
+            24.1,
+            24.17,
+            24.4,
+            24.3,
+            24.23,
             24.62,
-            24.88,
-            25.34,
-            24.9,
-            25.12,
-            24.7,
-            24.97,
-            25.37
+            25.08
         ],
         "hsd_history_software": [
-            9.77,
-            9.8,
+            9.63,
             9.78,
-            9.96,
-            10.09,
-            10.06,
-            9.87,
-            9.84,
-            10.02,
             9.93,
-            9.88,
-            9.91
+            9.79,
+            9.73,
+            9.8,
+            9.83,
+            9.67,
+            9.82,
+            9.72,
+            9.85,
+            9.98
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "19:28",
+            "tag": "AI",
+            "text": "Palo Alto Networks Stock Jumps as AI Cyber Fears Become Its Next Big Test"
+        },
+        {
+            "time": "19:22",
+            "tag": "MERCADO",
+            "text": "Should Deere\u2019s (DE) Expected Q2 Profit Drop Reshape How Investors View Its Precision Tech Story?"
+        },
+        {
             "time": "18:14",
             "tag": "MERCADO",
             "text": "Is Enphase Energy\u2019s (ENPH) Evergen Deal Quietly Rewriting Its Software-Driven Storage Narrative?"
@@ -139,16 +149,6 @@
             "time": "16:56",
             "tag": "MERCADO",
             "text": "New to The Street Broadcasts Show #746 Tonight on Bloomberg Television 6:30PM EST Featuring NRx Pharma (NASDAQ:NRXP), Performance Golf, Lost Soldier Oil & Gas, Dr. Lee Gause, and CISO Global"
-        },
-        {
-            "time": "16:34",
-            "tag": "MERCADO",
-            "text": "ResMed Steps Up PAP Innovation With New Amalfi vs. CLA11 Sleep Apnea Study"
-        },
-        {
-            "time": "16:14",
-            "tag": "AI",
-            "text": "The Bull Case For Belden (BDC) Could Change Following New AI-Ready High-Density Cooling Partnership"
         }
     ]
 }
