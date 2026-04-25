@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-25 10:54 UTC",
+        "last_updated": "2026-04-25 11:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 208.27,
-            "change": "+0.69%"
+            "change": "-1.16%"
         },
         {
             "symbol": "AMD",
             "price": 347.81,
-            "change": "+2.2%"
+            "change": "+2.44%"
         },
         {
             "symbol": "MSFT",
             "price": 424.62,
-            "change": "-2.04%"
+            "change": "+0.73%"
         },
         {
             "symbol": "CEG",
             "price": 313.53,
-            "change": "-0.2%"
+            "change": "+0.46%"
         },
         {
             "symbol": "VST",
             "price": 164.35,
-            "change": "+3.33%"
+            "change": "+0.4%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.63,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.51,
+            0.51,
             0.5,
             0.5,
+            0.51,
             0.5,
+            0.51,
             0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.48,
             0.49,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            26.4,
-            26.56,
-            26.31,
-            26.34,
-            26.2,
-            26.13,
-            25.78,
-            26.05,
-            25.68,
-            25.43,
-            25.37,
-            25.3
+            27.19,
+            27.21,
+            26.76,
+            26.72,
+            26.53,
+            26.3,
+            25.97,
+            26.18,
+            25.99,
+            25.73,
+            25.4,
+            25.08
         ],
         "hsd_history_software": [
-            10.15,
-            10.21,
-            10.23,
-            10.34,
-            10.3,
-            10.18,
-            10.28,
-            10.36,
-            10.22,
-            10.07,
-            9.93,
-            9.84
+            9.67,
+            9.79,
+            9.75,
+            9.68,
+            9.55,
+            9.37,
+            9.48,
+            9.58,
+            9.6,
+            9.74,
+            9.86,
+            10.01
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:07",
+            "time": "11:06",
             "tag": "MERCADO",
-            "text": "Teacher Retirement System of Texas Boosts Stock Holdings in NetApp, Inc. $NTAP"
+            "text": "Obermeyer Wealth Partners Acquires 39,613 Shares of Motorola Solutions, Inc. $MSI"
         },
         {
-            "time": "09:57",
+            "time": "10:47",
             "tag": "MERCADO",
-            "text": "Universal Beteiligungs und Servicegesellschaft mbH Has $23.72 Million Stock Holdings in F5, Inc. $FFIV"
+            "text": "Teacher Retirement System of Texas Cuts Stake in Jack Henry & Associates, Inc. $JKHY"
         },
         {
-            "time": "09:57",
+            "time": "10:35",
             "tag": "MERCADO",
-            "text": "M&T Bank Corp Has $8.94 Million Stock Holdings in Tyler Technologies, Inc. $TYL"
+            "text": "NBC Securities Inc. Raises Stake in Arista Networks, Inc. $ANET"
         },
         {
-            "time": "09:57",
+            "time": "10:29",
             "tag": "MERCADO",
-            "text": "M&T Bank Corp Has $10.74 Million Stock Position in Teledyne Technologies Incorporated $TDY"
+            "text": "Teacher Retirement System of Texas Purchases 4,808 Shares of Synopsys, Inc. $SNPS"
         },
         {
-            "time": "09:57",
+            "time": "10:27",
             "tag": "MERCADO",
-            "text": "M&T Bank Corp Acquires 64,226 Shares of Paycom Software, Inc. $PAYC"
+            "text": "Teacher Retirement System of Texas Boosts Stock Holdings in Fortinet, Inc. $FTNT"
         }
     ]
 }
