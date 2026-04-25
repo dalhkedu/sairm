@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-25 05:14 UTC",
+        "last_updated": "2026-04-25 07:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 208.27,
-            "change": "-2.54%"
+            "change": "+2.78%"
         },
         {
             "symbol": "AMD",
             "price": 347.81,
-            "change": "-1.03%"
+            "change": "-0.1%"
         },
         {
             "symbol": "MSFT",
             "price": 424.62,
-            "change": "-2.78%"
+            "change": "-2.03%"
         },
         {
             "symbol": "CEG",
             "price": 313.53,
-            "change": "+2.53%"
+            "change": "+2.61%"
         },
         {
             "symbol": "VST",
             "price": 164.35,
-            "change": "-1.09%"
+            "change": "-1.25%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.44,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
             0.5,
-            0.49,
-            0.49,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            26.02,
-            26.09,
-            25.93,
-            26.17,
-            26.02,
-            25.81,
-            25.46,
-            25.31,
-            25.17,
-            24.97,
+            24.46,
+            24.47,
             24.69,
-            24.62
+            24.72,
+            24.57,
+            24.56,
+            24.77,
+            24.77,
+            24.44,
+            24.19,
+            24.66,
+            25.01
         ],
         "hsd_history_software": [
-            10.13,
-            9.96,
-            10.0,
             9.94,
-            9.95,
-            9.91,
-            9.74,
-            9.74,
-            9.86,
-            9.74,
+            9.75,
             9.89,
-            10.0
+            10.07,
+            10.0,
+            9.92,
+            10.04,
+            9.93,
+            9.95,
+            10.0,
+            9.97,
+            9.86
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "05:56",
+            "tag": "MERCADO",
+            "text": "Microchip Technology (NASDAQ:MCHP) Cut to Hold at Wall Street Zen"
+        },
+        {
+            "time": "05:18",
+            "tag": "MERCADO",
+            "text": "Wall Street Zen Downgrades Hewlett Packard Enterprise (NYSE:HPE) to Hold"
+        },
+        {
+            "time": "05:06",
+            "tag": "RESULTADOS",
+            "text": "Here's What to Expect From Take-Two Interactive's Next Earnings Report"
+        },
+        {
+            "time": "04:09",
+            "tag": "MERCADO",
+            "text": "Here is What Could Unlock Valuation for Commvault Systems (CVLT)"
+        },
+        {
             "time": "03:33",
             "tag": "AI",
             "text": "Thermo Fisher Raises Outlook As Clario Deal Deepens AI Trial Capabilities"
-        },
-        {
-            "time": "03:13",
-            "tag": "MERCADO",
-            "text": "Advantest Partnership Puts Applied Materials\u2019 EPIC R&D And Valuation In Focus"
-        },
-        {
-            "time": "03:05",
-            "tag": "MERCADO",
-            "text": "Robert Bender & Associates trims Alphabet Class A stake"
-        },
-        {
-            "time": "02:43",
-            "tag": "MERCADO",
-            "text": "Justices To Focus On Alien Tort Statute In Cisco Spying Case"
-        },
-        {
-            "time": "02:00",
-            "tag": "MERCADO",
-            "text": "Super Micro Computer, Inc. Notice of May 26, 2026 Application Deadline for Class Action Lawsuits - Contact Lewis Kahn, Esq. at Kahn Swick & Foti, LLC, Before Application Deadline"
         }
     ]
 }
