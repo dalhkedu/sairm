@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-25 02:44 UTC",
+        "last_updated": "2026-04-25 05:14 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 208.27,
-            "change": "+0.18%"
+            "change": "-2.54%"
         },
         {
             "symbol": "AMD",
             "price": 347.81,
-            "change": "-1.89%"
+            "change": "-1.03%"
         },
         {
             "symbol": "MSFT",
             "price": 424.62,
-            "change": "+2.92%"
+            "change": "-2.78%"
         },
         {
             "symbol": "CEG",
             "price": 313.53,
-            "change": "+1.93%"
+            "change": "+2.53%"
         },
         {
             "symbol": "VST",
             "price": 164.35,
-            "change": "-0.41%"
+            "change": "-1.09%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.47,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.49,
             0.49,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.49,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            27.03,
-            26.97,
-            26.5,
-            26.19,
-            26.15,
-            25.91,
-            25.58,
-            25.26,
-            25.55,
-            25.22,
-            24.85,
-            24.98
+            26.02,
+            26.09,
+            25.93,
+            26.17,
+            26.02,
+            25.81,
+            25.46,
+            25.31,
+            25.17,
+            24.97,
+            24.69,
+            24.62
         ],
         "hsd_history_software": [
-            9.6,
-            9.72,
-            9.69,
-            9.83,
-            9.88,
-            10.08,
-            9.98,
-            9.97,
-            9.82,
-            9.81,
-            9.72,
-            9.85
+            10.13,
+            9.96,
+            10.0,
+            9.94,
+            9.95,
+            9.91,
+            9.74,
+            9.74,
+            9.86,
+            9.74,
+            9.89,
+            10.0
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "03:33",
+            "tag": "AI",
+            "text": "Thermo Fisher Raises Outlook As Clario Deal Deepens AI Trial Capabilities"
+        },
+        {
+            "time": "03:13",
+            "tag": "MERCADO",
+            "text": "Advantest Partnership Puts Applied Materials\u2019 EPIC R&D And Valuation In Focus"
+        },
+        {
+            "time": "03:05",
+            "tag": "MERCADO",
+            "text": "Robert Bender & Associates trims Alphabet Class A stake"
+        },
+        {
+            "time": "02:43",
+            "tag": "MERCADO",
+            "text": "Justices To Focus On Alien Tort Statute In Cisco Spying Case"
+        },
+        {
             "time": "02:00",
             "tag": "MERCADO",
             "text": "Super Micro Computer, Inc. Notice of May 26, 2026 Application Deadline for Class Action Lawsuits - Contact Lewis Kahn, Esq. at Kahn Swick & Foti, LLC, Before Application Deadline"
-        },
-        {
-            "time": "01:15",
-            "tag": "MERCADO",
-            "text": "Here's How Much $100 Invested In VanEck Semiconductor ETF 10 Years Ago Would Be Worth Today"
-        },
-        {
-            "time": "00:59",
-            "tag": "MERCADO",
-            "text": "Broadcom Stock: Driving Growth In A Competitive Market (NASDAQ:AVGO)"
-        },
-        {
-            "time": "00:39",
-            "tag": "MERCADO",
-            "text": "Stereotaxis, Inc. spotlights RoboticEP system during interactive sessions at HRS2026"
-        },
-        {
-            "time": "00:21",
-            "tag": "MERCADO",
-            "text": "Arista Networks (NYSE:ANET) CEO Sells $75,944,320.00 in Stock"
         }
     ]
 }
