@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-26 06:08 UTC",
+        "last_updated": "2026-04-26 08:16 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 208.27,
-            "change": "+0.89%"
+            "change": "+2.93%"
         },
         {
             "symbol": "AMD",
             "price": 347.81,
-            "change": "+0.49%"
+            "change": "+1.41%"
         },
         {
             "symbol": "MSFT",
             "price": 424.62,
-            "change": "+2.21%"
+            "change": "+1.11%"
         },
         {
             "symbol": "CEG",
             "price": 313.53,
-            "change": "+3.26%"
+            "change": "-2.39%"
         },
         {
             "symbol": "VST",
             "price": 164.35,
-            "change": "-0.0%"
+            "change": "+1.07%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.6,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.54,
+            0.54,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
             0.5,
             0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.5,
-            0.5,
-            0.49
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.28,
-            26.25,
-            26.23,
-            26.13,
-            25.98,
-            25.74,
-            25.4,
-            25.55,
-            25.94,
-            25.7,
-            25.27,
-            25.12
+            23.71,
+            23.52,
+            23.67,
+            23.73,
+            23.92,
+            24.4,
+            24.5,
+            24.66,
+            25.05,
+            24.75,
+            24.4,
+            24.59
         ],
         "hsd_history_software": [
-            9.5,
-            9.49,
-            9.66,
-            9.85,
-            9.76,
-            9.6,
-            9.66,
-            9.76,
-            9.9,
-            9.76,
-            9.92,
-            9.86
+            10.1,
+            10.12,
+            10.24,
+            10.07,
+            9.99,
+            10.06,
+            10.0,
+            10.06,
+            10.11,
+            10.02,
+            9.91,
+            9.81
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:16",
+            "time": "07:37",
             "tag": "MERCADO",
-            "text": "NiSource\u2019s Big Tech Data Center Power Deals Might Change The Case For Investing In NiSource (NI)"
+            "text": "BKM Wealth Management LLC Sells 6,029 Shares of Invesco QQQ $QQQ"
         },
         {
-            "time": "05:08",
+            "time": "07:33",
             "tag": "MERCADO",
-            "text": "Aviat Networks (NASDAQ:AVNW) Stock Rating Lowered by Wall Street Zen"
+            "text": "B. Metzler seel. Sohn & Co. AG Makes New Investment in Fiserv, Inc. $FISV"
         },
         {
-            "time": "04:39",
-            "tag": "AI",
-            "text": "ASML Stock\u2019s AI Boom Has a Catch: TSMC Won\u2019t Rush the $410 Million Machine"
+            "time": "07:27",
+            "tag": "MERCADO",
+            "text": "Advisors Capital Management LLC Boosts Position in Qualcomm Incorporated $QCOM"
         },
         {
-            "time": "04:39",
+            "time": "07:27",
             "tag": "MERCADO",
-            "text": "Latest ASTC News - Astrotech Reports Second Quarter of Fiscal ..."
+            "text": "Abacus FCF Advisors LLC Has $11.14 Million Position in NetApp, Inc. $NTAP"
         },
         {
-            "time": "04:28",
+            "time": "07:27",
             "tag": "MERCADO",
-            "text": "Is It Too Late To Consider Iron Mountain (IRM) After Its Strong Share Price Run?"
+            "text": "Arizona State Retirement System Sells 989 Shares of Monolithic Power Systems, Inc. $MPWR"
         }
     ]
 }
