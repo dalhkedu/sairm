@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-26 17:41 UTC",
+        "last_updated": "2026-04-26 19:00 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 208.27,
-            "change": "-2.61%"
+            "change": "-1.28%"
         },
         {
             "symbol": "AMD",
-            "price": NaN,
-            "change": "-2.6%"
+            "price": 347.81,
+            "change": "+3.5%"
         },
         {
             "symbol": "MSFT",
-            "price": 424.62,
-            "change": "+3.48%"
+            "price": NaN,
+            "change": "+2.94%"
         },
         {
             "symbol": "CEG",
             "price": 313.53,
-            "change": "-3.22%"
+            "change": "-0.19%"
         },
         {
             "symbol": "VST",
             "price": 164.35,
-            "change": "+0.99%"
+            "change": "+2.18%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.45,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
             0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
             0.5,
-            0.49,
-            0.49
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.16,
             24.96,
-            24.86,
-            25.27,
-            25.57,
-            25.8,
-            25.39,
-            24.99,
-            24.98,
-            24.58,
-            24.54,
-            24.51
+            25.15,
+            24.8,
+            24.6,
+            24.15,
+            24.2,
+            24.63,
+            24.41,
+            24.82,
+            24.4,
+            24.18,
+            24.64
         ],
         "hsd_history_software": [
-            10.04,
-            10.17,
-            10.09,
-            10.28,
-            10.31,
-            10.32,
-            10.28,
-            10.19,
-            10.04,
+            9.67,
+            9.6,
+            9.71,
+            9.8,
+            10.0,
             10.01,
             9.84,
-            9.88
+            10.0,
+            9.92,
+            10.11,
+            10.16,
+            10.16
         ],
         "rci_data": [
             85.0,
@@ -126,9 +126,19 @@
     ],
     "news_feed": [
         {
+            "time": "17:35",
+            "tag": "MERCADO",
+            "text": "T-Mobile US Inc. stock (US8725901040): Why network expansion momentum matters more now for investors"
+        },
+        {
             "time": "17:09",
             "tag": "MERCADO",
             "text": "SpaceX IPO Could Boost ATI Inc (ATI) Prospects"
+        },
+        {
+            "time": "17:08",
+            "tag": "MERCADO",
+            "text": "Stryker Corp. stock (US8636671013): Why Google Discover changes matter more now"
         },
         {
             "time": "16:57",
@@ -139,16 +149,6 @@
             "time": "16:55",
             "tag": "RESULTADOS",
             "text": "Teledyne (TDY) Posts Healthy Earnings As Focus Turns To Space"
-        },
-        {
-            "time": "16:53",
-            "tag": "MERCADO",
-            "text": "Gen Digital stock (US3687361044): Why Google Discover changes matter more now"
-        },
-        {
-            "time": "16:47",
-            "tag": "MERCADO",
-            "text": "Chipotle Mexican Grill stock (US1696561059): Why Google Discover changes matter more now"
         }
     ]
 }
