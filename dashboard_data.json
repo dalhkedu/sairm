@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-26 14:48 UTC",
+        "last_updated": "2026-04-26 15:46 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 208.27,
-            "change": "+1.81%"
+            "change": "+1.86%"
         },
         {
             "symbol": "AMD",
             "price": 347.81,
-            "change": "+0.11%"
+            "change": "+0.57%"
         },
         {
             "symbol": "MSFT",
             "price": 424.62,
-            "change": "+0.09%"
+            "change": "+2.23%"
         },
         {
             "symbol": "CEG",
             "price": 313.53,
-            "change": "-3.49%"
+            "change": "-3.0%"
         },
         {
             "symbol": "VST",
             "price": 164.35,
-            "change": "+2.18%"
+            "change": "-3.46%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.65,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.41,
-            25.01,
-            24.9,
-            24.58,
-            25.07,
-            24.89,
-            24.8,
-            24.67,
-            24.25,
-            24.1,
-            24.3,
-            24.73
+            26.8,
+            26.61,
+            26.44,
+            26.02,
+            26.18,
+            26.29,
+            25.81,
+            25.47,
+            25.05,
+            24.81,
+            24.41,
+            24.78
         ],
         "hsd_history_software": [
-            10.6,
-            10.64,
-            10.59,
-            10.39,
-            10.28,
-            10.15,
-            10.3,
-            10.16,
-            10.09,
+            10.18,
+            10.17,
+            9.99,
+            9.84,
             9.95,
-            9.85,
-            9.94
+            9.8,
+            9.99,
+            9.87,
+            10.04,
+            9.86,
+            9.98,
+            10.13
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "14:46",
+            "tag": "MERCADO",
+            "text": "EQT Corp. stock (US26884L1098): Why Google Discover changes matter more now"
+        },
+        {
+            "time": "14:42",
+            "tag": "MERCADO",
+            "text": "Booking Holdings Stock Fell 6% This Week. Here\u2019s What\u2019s Driving the Pullback"
+        },
+        {
+            "time": "14:19",
+            "tag": "MERCADO",
+            "text": "Chery, Qualcomm Sign Agreement to Expand Cooperation"
+        },
+        {
             "time": "13:42",
             "tag": "MERCADO",
             "text": "SPX Technologies Stock and the $300 Million Crawford United Deal: How Two Acquisitions Reset the 2026 Growth Floor"
@@ -134,21 +149,6 @@
             "time": "13:40",
             "tag": "MERCADO",
             "text": "PayPal Stock Gets a Fresh Wall Street Lift \u2014 But the Sell Rating Says the Hard Part Isn\u2019t Over"
-        },
-        {
-            "time": "13:24",
-            "tag": "MERCADO",
-            "text": "Booking Holdings Inc. stock (US09857L1089): Why Google Discover changes matter more now for travel investors"
-        },
-        {
-            "time": "13:16",
-            "tag": "AI",
-            "text": "Arista Networks (ANET) Valuation Check As 2026 AI Revenue Target Rises To US$3.25b"
-        },
-        {
-            "time": "13:11",
-            "tag": "MERCADO",
-            "text": "Rollins Inc. stock (US7757111049): Why Google Discover changes matter more now"
         }
     ]
 }
