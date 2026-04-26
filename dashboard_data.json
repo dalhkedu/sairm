@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-26 10:49 UTC",
+        "last_updated": "2026-04-26 11:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 208.27,
-            "change": "-2.59%"
+            "change": "-3.43%"
         },
         {
             "symbol": "AMD",
             "price": 347.81,
-            "change": "+1.56%"
+            "change": "-2.7%"
         },
         {
             "symbol": "MSFT",
             "price": 424.62,
-            "change": "+2.3%"
+            "change": "-0.47%"
         },
         {
             "symbol": "CEG",
             "price": 313.53,
-            "change": "-0.56%"
+            "change": "-2.06%"
         },
         {
             "symbol": "VST",
             "price": 164.35,
-            "change": "-2.54%"
+            "change": "+2.93%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.63,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
             0.5,
-            0.49,
+            0.5,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            24.89,
-            25.36,
-            25.01,
-            24.91,
-            25.01,
-            25.22,
-            25.36,
-            25.43,
-            25.65,
-            25.73,
-            25.52,
-            25.43
+            23.72,
+            23.33,
+            23.52,
+            23.84,
+            24.17,
+            23.76,
+            23.98,
+            23.58,
+            24.01,
+            24.33,
+            24.81,
+            24.84
         ],
         "hsd_history_software": [
-            10.48,
-            10.3,
-            10.4,
-            10.25,
-            10.43,
-            10.31,
-            10.21,
-            10.09,
+            10.65,
+            10.68,
+            10.52,
+            10.35,
+            10.15,
+            10.22,
+            10.02,
+            10.15,
+            10.01,
             10.11,
-            10.11,
-            9.95,
-            10.13
+            10.04,
+            9.85
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:55",
-            "tag": "MERCADO",
-            "text": "M&T Bank Corp Has $5.28 Million Stake in Cadence Design Systems, Inc. $CDNS"
+            "time": "11:07",
+            "tag": "AI",
+            "text": "IBM defends after 13% Anthropic-fueled stock drop: \u2018New AI tools emerge every week,\u2019 Cobol modernization challenges remain"
         },
         {
-            "time": "09:42",
+            "time": "11:03",
             "tag": "MERCADO",
-            "text": "After 45 Days, I Figured Out Exactly Who the MacBook Neo Is For"
+            "text": "Sanctuary Advisors LLC Cuts Stock Holdings in Verizon Communications Inc. $VZ"
         },
         {
-            "time": "09:35",
+            "time": "11:00",
             "tag": "MERCADO",
-            "text": "M&T Bank Corp Sells 378,671 Shares of International Business Machines Corporation IBM"
+            "text": "Sanctuary Advisors LLC Grows Stake in Cisco Systems, Inc. $CSCO"
         },
         {
-            "time": "09:34",
+            "time": "10:30",
             "tag": "MERCADO",
-            "text": "M&T Bank Corp Increases Stock Position in NetApp, Inc. $NTAP"
+            "text": "Munich Reinsurance Co Stock Corp in Munich Buys 4,455 Shares of Intuit Inc. $INTU"
         },
         {
-            "time": "09:29",
+            "time": "10:30",
             "tag": "MERCADO",
-            "text": "Teradyne Inc. stock (US8807701029): Why its semiconductor testing leadership matters more now for in"
+            "text": "Munich Reinsurance Co Stock Corp in Munich Lowers Stock Holdings in HP Inc. $HPQ"
         }
     ]
 }
