@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-25 23:41 UTC",
+        "last_updated": "2026-04-26 03:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 208.27,
-            "change": "-1.41%"
+            "change": "+1.35%"
         },
         {
             "symbol": "AMD",
             "price": 347.81,
-            "change": "+0.05%"
+            "change": "+2.26%"
         },
         {
             "symbol": "MSFT",
             "price": 424.62,
-            "change": "+0.07%"
+            "change": "+0.3%"
         },
         {
             "symbol": "CEG",
             "price": 313.53,
-            "change": "+0.72%"
+            "change": "-0.99%"
         },
         {
             "symbol": "VST",
             "price": 164.35,
-            "change": "-3.05%"
+            "change": "+2.43%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.46,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.52,
-            0.51,
-            0.5,
-            0.51,
             0.5,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.73,
-            24.76,
-            25.25,
-            25.24,
-            25.22,
-            25.73,
-            25.45,
-            25.13,
-            24.74,
+            24.82,
+            24.69,
+            24.26,
             24.43,
-            24.22,
-            24.65
+            24.2,
+            24.1,
+            23.95,
+            24.21,
+            24.44,
+            24.14,
+            24.53,
+            24.92
         ],
         "hsd_history_software": [
-            9.72,
-            9.74,
-            9.71,
-            9.6,
-            9.78,
-            9.97,
-            10.1,
+            10.3,
             10.31,
-            10.16,
-            9.98,
-            9.83,
-            9.99
+            10.39,
+            10.42,
+            10.46,
+            10.28,
+            10.25,
+            10.3,
+            10.19,
+            10.31,
+            10.17,
+            10.18
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:38",
-            "tag": "MERCADO",
-            "text": "Manhattan Associates (NASDAQ:MANH) EVP Sells $1,016,525.00 in Stock"
+            "time": "02:08",
+            "tag": "AI",
+            "text": "VanEck Semiconductor ETF Surges on Strong AI Leaders"
         },
         {
-            "time": "22:08",
-            "tag": "RESULTADOS",
-            "text": "Sanmina (SANM) Set to Report Q2 Earnings with Strong Growth Expectations"
+            "time": "00:39",
+            "tag": "MERCADO",
+            "text": "Is Tencent Music (TME) Using Offline Festivals To Quietly Redefine Its Platform Engagement Strategy?"
         },
         {
-            "time": "22:08",
+            "time": "00:27",
             "tag": "MERCADO",
-            "text": "Analysts Are Bullish on These Technology Stocks: Check Point (CHKP), Roper Technologies (ROP)"
+            "text": "Is Palo Alto Networks\u2019 (PANW) Platform Ambition at Odds With Rising CyberArk Integration Costs?"
         },
         {
-            "time": "21:39",
-            "tag": "MERCADO",
-            "text": "RCM Technologies Inc (RCMT) CFO Kevin Miller Sells 4,415 Shares"
+            "time": "00:23",
+            "tag": "AI",
+            "text": "Digital Realty Trust Rides Record AI Leasing Wave"
         },
         {
-            "time": "21:24",
-            "tag": "MERCADO",
-            "text": "Cisco Systems\u2019 Quantum Switch Push Puts Networking Giant in Race for the Next Internet"
+            "time": "00:09",
+            "tag": "CRYPTO",
+            "text": "Crypto News: AlphaPepe DeFi Exchange Progress Hits 1,000 Demo Users whilst Dogecoin Price Prediction Points To $1.00"
         }
     ]
 }
