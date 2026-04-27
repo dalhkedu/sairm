@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-27 21:55 UTC",
+        "last_updated": "2026-04-27 22:56 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 216.61,
-            "change": "-1.51%"
+            "price": NaN,
+            "change": "+0.5%"
         },
         {
             "symbol": "AMD",
             "price": 334.63,
-            "change": "-3.01%"
+            "change": "+0.32%"
         },
         {
             "symbol": "MSFT",
             "price": 424.82,
-            "change": "-0.61%"
+            "change": "+2.86%"
         },
         {
             "symbol": "CEG",
             "price": 315.17,
-            "change": "-2.36%"
+            "change": "+1.37%"
         },
         {
             "symbol": "VST",
             "price": 166.58,
-            "change": "+0.22%"
+            "change": "-2.18%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
-        "rci_current": 0.22,
+        "cer_current": 0.69,
+        "rci_current": NaN,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
+            0.54,
+            0.53,
+            0.52,
+            0.52,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.26,
-            24.89,
-            25.36,
-            24.95,
-            25.22,
-            25.38,
-            25.22,
-            24.9,
-            25.3,
-            25.15,
-            25.06,
-            25.15
+            23.72,
+            23.63,
+            23.26,
+            23.6,
+            23.62,
+            23.58,
+            23.44,
+            23.56,
+            23.79,
+            24.11,
+            24.46,
+            24.57
         ],
         "hsd_history_software": [
+            10.29,
+            10.19,
+            10.03,
+            9.94,
             10.0,
-            10.06,
-            10.04,
-            10.01,
-            10.08,
-            10.09,
-            10.18,
-            10.0,
-            10.13,
-            10.07,
-            10.09,
-            9.92
+            9.9,
+            9.83,
+            9.79,
+            9.9,
+            9.9,
+            9.78,
+            9.83
         ],
         "rci_data": [
             85.0,
-            21.661
+            NaN
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:02",
+            "time": "22:02",
             "tag": "MERCADO",
-            "text": "Microchip technology CEO Steve Sanghi sells $36.8m in shares By Investing.com"
+            "text": "International Business Machines (NYSE:IBM) Stock Price Down 1.7% - Should You Sell?"
         },
         {
-            "time": "20:47",
+            "time": "21:45",
             "tag": "MERCADO",
-            "text": "Texas Instruments senior VP Witzsche sells $998k in shares"
+            "text": "On Semiconductor CFO Thad Trent sells $5.79m in stock"
         },
         {
-            "time": "20:31",
+            "time": "21:36",
             "tag": "MERCADO",
-            "text": "[Form 4] TEXAS INSTRUMENTS INC Insider Trading Activity"
+            "text": "Photographers' Copyright Case Against UberEats Is Trimmed"
         },
         {
-            "time": "20:28",
-            "tag": "MERCADO",
-            "text": "Salesforce sought to create \u2018negative record\u2019 of employee out on FMLA leave, lawsuit claims"
+            "time": "21:30",
+            "tag": "AI",
+            "text": "Corning\u2019s AI Fiber Boom is Real, but Its Stock Price May Be Getting Out of Hand"
         },
         {
-            "time": "20:19",
+            "time": "21:22",
             "tag": "MERCADO",
-            "text": "KKR, Macquarie in Italy-backed talks over telecoms network commercial deal, sources say"
+            "text": "Seagate Technology (NASDAQ:STX) Trading 1.6% Higher After Analyst Upgrade"
         }
     ]
 }
