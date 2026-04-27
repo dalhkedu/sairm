@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-27 09:21 UTC",
+        "last_updated": "2026-04-27 11:46 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": NaN,
-            "change": "-2.13%"
+            "price": 208.27,
+            "change": "+3.13%"
         },
         {
             "symbol": "AMD",
             "price": 347.81,
-            "change": "-0.53%"
+            "change": "-1.16%"
         },
         {
             "symbol": "MSFT",
             "price": 424.62,
-            "change": "+0.54%"
+            "change": "-3.11%"
         },
         {
             "symbol": "CEG",
             "price": 313.53,
-            "change": "+0.36%"
+            "change": "+1.56%"
         },
         {
             "symbol": "VST",
             "price": 164.35,
-            "change": "+0.98%"
+            "change": "-0.84%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
-        "rci_current": NaN,
+        "cer_current": 0.54,
+        "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
             0.5,
-            0.51,
             0.51,
             0.51,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.71,
+            23.55,
+            23.38,
+            23.64,
+            24.06,
+            24.46,
+            24.05,
+            24.34,
+            24.77,
+            25.23,
             24.97,
-            25.1,
-            25.05,
-            25.47,
-            25.15,
-            25.27,
-            24.97,
-            25.46,
-            25.46,
-            25.31,
-            25.36
+            25.01,
+            25.06
         ],
         "hsd_history_software": [
-            10.4,
-            10.43,
-            10.54,
-            10.58,
-            10.47,
-            10.44,
+            10.16,
             10.28,
-            10.43,
-            10.58,
-            10.4,
-            10.29,
-            10.09
+            10.44,
+            10.26,
+            10.24,
+            10.22,
+            10.09,
+            10.03,
+            10.1,
+            10.02,
+            10.17,
+            9.98
         ],
         "rci_data": [
             85.0,
-            NaN
+            20.827
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:39",
+            "time": "11:08",
             "tag": "MERCADO",
-            "text": "Gen Digital Inc. (NASDAQ:GEN) Receives Consensus Rating of \"Hold\" from Analysts"
+            "text": "Pictet Asset Management Holding SA Sells 1,332,153 Shares of Synopsys, Inc. $SNPS"
         },
         {
-            "time": "08:35",
-            "tag": "MERCADO",
-            "text": "Deltec Asset Management LLC Decreases Holdings in Uber Technologies, Inc. $UBER"
+            "time": "11:05",
+            "tag": "AI",
+            "text": "Gartner: Explainable AI Will Drive LLM Observability Investments"
         },
         {
-            "time": "08:30",
+            "time": "11:04",
             "tag": "MERCADO",
-            "text": "Deltec Asset Management LLC Has $6.96 Million Stake in Flex Ltd. $FLEX"
+            "text": "Pictet Asset Management Holding SA Boosts Position in Microchip Technology Incorporated $MCHP"
         },
         {
-            "time": "08:22",
-            "tag": "RESULTADOS",
-            "text": "Vistra (VST) Stock; Rises 4.8% as AI Power Contracts and Earnings Expectations Lift Sentiment"
+            "time": "11:04",
+            "tag": "MERCADO",
+            "text": "Broadridge (BR) Launches Initiative for Financial Literacy in Ir"
         },
         {
-            "time": "08:11",
+            "time": "10:59",
             "tag": "MERCADO",
-            "text": "ON Semiconductor Corporation $ON Shares Sold by China Universal Asset Management Co. Ltd."
+            "text": "Verizon posts first positive first-quarter phone adds since 2013"
         }
     ]
 }
