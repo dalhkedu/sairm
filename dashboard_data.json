@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-27 03:26 UTC",
+        "last_updated": "2026-04-27 06:29 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 208.27,
-            "change": "+3.36%"
+            "change": "+0.45%"
         },
         {
             "symbol": "AMD",
             "price": 347.81,
-            "change": "+2.79%"
+            "change": "+1.6%"
         },
         {
             "symbol": "MSFT",
             "price": 424.62,
-            "change": "+1.92%"
+            "change": "+0.27%"
         },
         {
             "symbol": "CEG",
             "price": 313.53,
-            "change": "-0.96%"
+            "change": "+2.72%"
         },
         {
             "symbol": "VST",
             "price": 164.35,
-            "change": "-3.09%"
+            "change": "+0.54%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.44,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
             0.5,
             0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            26.67,
-            26.7,
-            26.49,
-            26.01,
-            25.9,
-            25.62,
-            25.24,
-            24.98,
-            24.99,
-            24.83,
+            24.76,
             24.78,
-            24.76
+            25.16,
+            24.89,
+            24.45,
+            24.84,
+            24.69,
+            25.13,
+            25.02,
+            25.06,
+            24.82,
+            25.01
         ],
         "hsd_history_software": [
-            10.67,
-            10.62,
+            10.43,
+            10.44,
+            10.51,
             10.69,
-            10.48,
-            10.37,
-            10.27,
-            10.11,
+            10.74,
+            10.59,
+            10.42,
+            10.47,
+            10.3,
+            10.41,
             10.23,
-            10.14,
-            9.97,
-            10.14,
-            10.1
+            10.08
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:48",
-            "tag": "MERCADO",
-            "text": "Activist Palliser takes stake in Japan's SMC, proposes US$3.8bil buyback"
-        },
-        {
-            "time": "00:10",
+            "time": "05:03",
             "tag": "AI",
-            "text": "The AI Chip Rally Pushed SMH Higher. What Investors Should Know Before Buying."
+            "text": "Ulta Beauty partners with Google to launch AI-powered shopping experiences"
         },
         {
-            "time": "23:15",
+            "time": "04:22",
             "tag": "MERCADO",
-            "text": "Is It Too Late To Consider Equinix (EQIX) After Its Strong Year To Date Run"
+            "text": "Alibaba-Backed DeepRoute.ai Says More Than 300,000 Cars Now Use Its Assisted-Driving System Across Chinese Roads"
         },
         {
-            "time": "22:12",
+            "time": "03:30",
             "tag": "MERCADO",
-            "text": "How Investors May Respond To Hasbro (HAS) Reaffirming 2026 Outlook After Cyberattack Disruptions"
+            "text": "Western Union to launch stablecoin next month, with 'Stable Card' planned for global consumers"
         },
         {
-            "time": "22:10",
+            "time": "03:16",
             "tag": "RESULTADOS",
-            "text": "Rambus Stock Plunges In After-Hours Following Q3 Earnings, Here\u2019s Why"
+            "text": "Teradyne (TER) To Report Earnings Tomorrow: Here Is What To Expect"
+        },
+        {
+            "time": "03:12",
+            "tag": "RESULTADOS",
+            "text": "Ingersoll Rand (IR) Reports Earnings Tomorrow: What To Expect"
         }
     ]
 }
