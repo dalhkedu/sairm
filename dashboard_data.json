@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-27 18:05 UTC",
+        "last_updated": "2026-04-27 20:09 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 215.43,
-            "change": "+3.44%"
+            "price": 216.61,
+            "change": "+3.31%"
         },
         {
             "symbol": "AMD",
-            "price": 335.09,
-            "change": "+1.27%"
+            "price": 334.49,
+            "change": "-2.09%"
         },
         {
             "symbol": "MSFT",
-            "price": 425.71,
-            "change": "+3.16%"
+            "price": 424.82,
+            "change": "+0.67%"
         },
         {
             "symbol": "CEG",
-            "price": 315.57,
-            "change": "-0.29%"
+            "price": 315.17,
+            "change": "+3.11%"
         },
         {
             "symbol": "VST",
-            "price": 167.21,
-            "change": "+2.92%"
+            "price": 166.58,
+            "change": "+2.93%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.5,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
+            0.49,
             0.5,
-            0.5
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.85,
-            24.52,
-            24.47,
-            24.89,
-            24.47,
-            24.56,
-            24.67,
-            24.76,
-            24.35,
-            24.47,
-            24.71,
-            24.85
+            25.02,
+            25.26,
+            24.94,
+            25.11,
+            25.36,
+            25.47,
+            25.05,
+            24.81,
+            25.08,
+            24.73,
+            24.7,
+            24.71
         ],
         "hsd_history_software": [
-            10.2,
-            10.15,
-            10.27,
-            10.21,
-            10.35,
-            10.27,
-            10.24,
+            9.94,
+            9.92,
+            9.96,
+            10.16,
             10.11,
-            10.01,
-            10.02,
-            10.04,
-            9.98
+            10.2,
+            10.07,
+            10.14,
+            10.2,
+            10.19,
+            10.05,
+            9.94
         ],
         "rci_data": [
             85.0,
-            21.543
+            21.661
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:28",
+            "time": "19:20",
             "tag": "MERCADO",
-            "text": "authID adds post-quantum cryptography to biometric signature platform"
+            "text": "Medtronic reports data breach on corporate IT systems"
         },
         {
-            "time": "17:21",
+            "time": "19:09",
             "tag": "MERCADO",
-            "text": "Jim Cramer\u2019s Week Ahead: 5 Stocks in Focus, Including Corning and Verizon"
+            "text": "Jim Cramer Says \u201cI Think Apple\u2019s Doing Exceptionally Well\u201d"
         },
         {
-            "time": "16:55",
+            "time": "19:05",
+            "tag": "MERCADO",
+            "text": "RMNI Maintains Hold by TD Cowen -- Price Target Lowered to $4.00"
+        },
+        {
+            "time": "18:55",
+            "tag": "MERCADO",
+            "text": "Ranking the Magnificent Seven Stocks"
+        },
+        {
+            "time": "18:50",
             "tag": "AI",
-            "text": "EXCLUSIVE Q&A: Home Depot AI-enables store phone customer service"
-        },
-        {
-            "time": "16:54",
-            "tag": "MERCADO",
-            "text": "Top Data Center Stocks: BofA Highlights Key Materials Plays"
-        },
-        {
-            "time": "16:52",
-            "tag": "MERCADO",
-            "text": "Google stock hits all-time high, reaching $350.16 USD"
+            "text": "Can Digital Realty (DLR) Capitalize on the AI-driven Data Center Demand?"
         }
     ]
 }
