@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-28 14:18 UTC",
+        "last_updated": "2026-04-28 16:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 213.28,
-            "change": "+3.37%"
+            "price": 210.8,
+            "change": "-2.87%"
         },
         {
             "symbol": "AMD",
-            "price": 327.33,
-            "change": "-1.23%"
+            "price": 322.15,
+            "change": "-1.73%"
         },
         {
             "symbol": "MSFT",
-            "price": 425.53,
-            "change": "-1.81%"
+            "price": 428.76,
+            "change": "-1.38%"
         },
         {
             "symbol": "CEG",
-            "price": 311.0,
-            "change": "-1.1%"
+            "price": 306.62,
+            "change": "-2.78%"
         },
         {
             "symbol": "VST",
-            "price": 162.41,
-            "change": "+2.49%"
+            "price": 160.11,
+            "change": "-1.08%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.51,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.49,
-            0.5,
-            0.5,
+            0.51,
             0.5,
             0.5,
             0.5,
             0.5,
             0.49,
-            0.5,
-            0.5,
-            0.51
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.44,
-            24.95,
-            25.17,
-            25.37,
-            25.39,
-            25.15,
-            25.64,
-            25.31,
-            25.52,
-            25.64,
-            25.48,
-            25.03
+            24.09,
+            24.04,
+            24.28,
+            24.63,
+            24.54,
+            24.63,
+            24.48,
+            24.86,
+            25.02,
+            25.38,
+            25.09,
+            24.81
         ],
         "hsd_history_software": [
-            10.57,
-            10.51,
-            10.71,
-            10.51,
-            10.43,
-            10.36,
-            10.23,
-            10.05,
-            9.98,
-            10.17,
-            10.07,
-            10.09
+            9.8,
+            9.61,
+            9.55,
+            9.72,
+            9.84,
+            10.0,
+            10.19,
+            10.32,
+            10.12,
+            9.94,
+            9.77,
+            9.86
         ],
         "rci_data": [
             85.0,
-            21.328
+            21.080000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:20",
-            "tag": "MERCADO",
-            "text": "Morgan Stanley Adjusts NetApp Price Target to $88 From $89, Maintains Underweight Rating"
+            "time": "16:02",
+            "tag": "AI",
+            "text": "Amazon targets mass hiring with agentic software, goal to humanize AI"
         },
         {
-            "time": "13:20",
+            "time": "15:50",
             "tag": "RESULTADOS",
-            "text": "Arista Networks Q1 Earnings Preview: AI Momentum Meets A High Bar (NYSE:ANET)"
+            "text": "Electronic Arts (EA) Projected to Post Quarterly Earnings on Tuesday"
         },
         {
-            "time": "13:19",
-            "tag": "AI",
-            "text": "$6.9B trade dataset powers RedCloud's planned FMCG AI agents"
-        },
-        {
-            "time": "13:19",
-            "tag": "AI",
-            "text": "RedCloud Unveils Specialist AI Agents Trained on $6.9 Billion FMCG Trade Dataset \u2014 Targeted to Improve Thousands of Commercial Decisions Daily"
-        },
-        {
-            "time": "13:17",
+            "time": "15:49",
             "tag": "MERCADO",
-            "text": "Generac\u2019s $700 Million Data Center Backlog Is Building the Case for a $250 Price Target"
+            "text": "Teledyne FLIR Defense Expands Payload Program with Emesent Hovermap for GPS-Denied Operations"
+        },
+        {
+            "time": "15:45",
+            "tag": "MERCADO",
+            "text": "New TI calculator skips Wi-Fi and works on the SAT, ACT and AP"
+        },
+        {
+            "time": "15:40",
+            "tag": "AI",
+            "text": "Ulta Beauty Stock Keeps Sliding as Investors Test the Beauty Chain\u2019s AI Bet"
         }
     ]
 }
