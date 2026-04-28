@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-28 11:48 UTC",
+        "last_updated": "2026-04-28 14:18 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 216.61,
-            "change": "-0.17%"
+            "price": 213.28,
+            "change": "+3.37%"
         },
         {
             "symbol": "AMD",
-            "price": 334.63,
-            "change": "+2.74%"
+            "price": 327.33,
+            "change": "-1.23%"
         },
         {
             "symbol": "MSFT",
-            "price": 424.82,
-            "change": "-1.4%"
+            "price": 425.53,
+            "change": "-1.81%"
         },
         {
             "symbol": "CEG",
-            "price": 315.17,
-            "change": "+1.91%"
+            "price": 311.0,
+            "change": "-1.1%"
         },
         {
             "symbol": "VST",
-            "price": 166.58,
-            "change": "+0.56%"
+            "price": 162.41,
+            "change": "+2.49%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
-        "rci_current": 0.22,
+        "cer_current": 0.44,
+        "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
+            0.5,
             0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.09,
-            24.7,
-            24.99,
-            25.3,
-            25.57,
+            25.44,
+            24.95,
             25.17,
-            25.57,
-            25.7,
-            25.63,
-            25.45,
-            25.8,
-            25.4
+            25.37,
+            25.39,
+            25.15,
+            25.64,
+            25.31,
+            25.52,
+            25.64,
+            25.48,
+            25.03
         ],
         "hsd_history_software": [
-            9.86,
-            9.73,
-            9.84,
-            9.85,
-            9.72,
-            9.91,
-            9.97,
-            9.95,
-            10.15,
-            10.01,
-            9.84,
-            9.98
+            10.57,
+            10.51,
+            10.71,
+            10.51,
+            10.43,
+            10.36,
+            10.23,
+            10.05,
+            9.98,
+            10.17,
+            10.07,
+            10.09
         ],
         "rci_data": [
             85.0,
-            21.661
+            21.328
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:06",
+            "time": "13:20",
             "tag": "MERCADO",
-            "text": "Mitsubishi UFJ Trust & Banking Corp Sells 29,757 Shares of Lam Research Corporation $LRCX"
+            "text": "Morgan Stanley Adjusts NetApp Price Target to $88 From $89, Maintains Underweight Rating"
         },
         {
-            "time": "11:06",
-            "tag": "MERCADO",
-            "text": "R Squared Ltd Invests $643,000 in Teradyne, Inc. $TER"
+            "time": "13:20",
+            "tag": "RESULTADOS",
+            "text": "Arista Networks Q1 Earnings Preview: AI Momentum Meets A High Bar (NYSE:ANET)"
         },
         {
-            "time": "11:04",
-            "tag": "MERCADO",
-            "text": "Teledyne FLIR Certifies Emesent Hovermap LiDAR | TDY Stock News"
+            "time": "13:19",
+            "tag": "AI",
+            "text": "$6.9B trade dataset powers RedCloud's planned FMCG AI agents"
         },
         {
-            "time": "11:04",
-            "tag": "MERCADO",
-            "text": "Teledyne FLIR Defense Grows Third-Party Payload Integration Program, Adds Emesent Hovermap LiDAR for Unmanned Air, Ground, and Detection Platforms"
+            "time": "13:19",
+            "tag": "AI",
+            "text": "RedCloud Unveils Specialist AI Agents Trained on $6.9 Billion FMCG Trade Dataset \u2014 Targeted to Improve Thousands of Commercial Decisions Daily"
         },
         {
-            "time": "11:01",
+            "time": "13:17",
             "tag": "MERCADO",
-            "text": "Pictet Asset Management Holding SA Raises Stock Holdings in Gen Digital Inc. $GEN"
+            "text": "Generac\u2019s $700 Million Data Center Backlog Is Building the Case for a $250 Price Target"
         }
     ]
 }
