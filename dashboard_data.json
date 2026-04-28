@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-28 22:00 UTC",
+        "last_updated": "2026-04-28 23:57 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 213.17,
-            "change": "-1.45%"
+            "change": "+1.21%"
         },
         {
             "symbol": "AMD",
             "price": 323.21,
-            "change": "-2.32%"
+            "change": "+1.2%"
         },
         {
             "symbol": "MSFT",
             "price": 429.25,
-            "change": "+2.27%"
+            "change": "-2.5%"
         },
         {
             "symbol": "CEG",
             "price": 305.71,
-            "change": "+1.67%"
+            "change": "-0.09%"
         },
         {
             "symbol": "VST",
             "price": 161.12,
-            "change": "-3.43%"
+            "change": "+2.48%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.49,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.48,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.49,
             0.49,
             0.48,
-            0.48,
-            0.48,
-            0.47,
-            0.48,
             0.49,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            26.04,
-            26.15,
-            25.81,
-            25.97,
-            25.5,
-            25.03,
-            25.0,
-            25.12,
+            25.45,
+            25.83,
+            26.0,
+            25.88,
+            25.75,
+            25.56,
+            25.64,
+            25.61,
+            25.32,
             25.22,
-            25.33,
-            25.4,
-            25.04
+            25.71,
+            25.2
         ],
         "hsd_history_software": [
-            10.54,
-            10.38,
-            10.2,
-            10.12,
-            10.22,
-            10.15,
-            10.08,
-            9.89,
+            10.01,
+            10.17,
+            10.31,
+            10.14,
+            10.3,
+            10.14,
+            10.34,
+            10.17,
+            10.03,
+            9.94,
             10.05,
-            10.21,
-            10.19,
-            10.08
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:03",
-            "tag": "RESULTADOS",
-            "text": "Enphase Energy Stock Slides On Mixed Q1 Earnings Despite New Data Center Plans"
-        },
-        {
-            "time": "20:57",
-            "tag": "MERCADO",
-            "text": "Texas Instruments\u2019 SVP Kane sells $1.66m in company shares By Investing.com"
-        },
-        {
-            "time": "20:57",
+            "time": "22:57",
             "tag": "AI",
-            "text": "U.S. Stocks - Dow Inc. continues to decline, down 26 dollars, amid cautious trading over the Middle East and AI (as of the 28th)."
+            "text": "SCX Brings Sovereign AI to Equinix\u2019s AI Ecosystem and Confirms National Expansion with SambaNova SN50"
         },
         {
-            "time": "20:53",
+            "time": "22:49",
             "tag": "MERCADO",
-            "text": "F5, Inc. (FFIV) Appoints Anand Eswaran to Board of Directors"
+            "text": "Palo Alto Networks (PANW) director adds stock award, updates trust holdings"
         },
         {
-            "time": "20:50",
+            "time": "22:39",
             "tag": "RESULTADOS",
-            "text": "CoStar Group (NASDAQ:CSGP) Updates Q2 2026 Earnings Guidance"
+            "text": "Earnings call transcript: CoStar Group beats Q1 2026 EPS forecast, revenue misses"
+        },
+        {
+            "time": "22:37",
+            "tag": "MERCADO",
+            "text": "This is Why The Bank of New York Mellon Corporation (BK) is one of Goldman Sachs Top Bank Stocks"
+        },
+        {
+            "time": "22:25",
+            "tag": "RESULTADOS",
+            "text": "F5 (FFIV) Q2 2026 Earnings Call Transcript"
         }
     ]
 }
