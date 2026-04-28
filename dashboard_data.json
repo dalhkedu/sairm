@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-28 16:54 UTC",
+        "last_updated": "2026-04-28 18:19 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 210.8,
-            "change": "-2.87%"
+            "price": 212.42,
+            "change": "-2.85%"
         },
         {
             "symbol": "AMD",
-            "price": 322.15,
-            "change": "-1.73%"
+            "price": 324.88,
+            "change": "-3.27%"
         },
         {
             "symbol": "MSFT",
-            "price": 428.76,
-            "change": "-1.38%"
+            "price": 426.74,
+            "change": "+2.61%"
         },
         {
             "symbol": "CEG",
-            "price": 306.62,
-            "change": "-2.78%"
+            "price": 305.94,
+            "change": "-0.22%"
         },
         {
             "symbol": "VST",
-            "price": 160.11,
-            "change": "-1.08%"
+            "price": 161.49,
+            "change": "+0.33%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.65,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.53,
+            0.53,
+            0.53,
+            0.52,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5
+            0.52,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.09,
-            24.04,
-            24.28,
-            24.63,
-            24.54,
-            24.63,
-            24.48,
+            24.0,
+            24.13,
+            24.43,
+            24.53,
+            24.08,
+            23.89,
+            24.12,
+            24.47,
             24.86,
-            25.02,
-            25.38,
-            25.09,
-            24.81
+            24.67,
+            25.12,
+            25.31
         ],
         "hsd_history_software": [
-            9.8,
-            9.61,
-            9.55,
-            9.72,
-            9.84,
-            10.0,
-            10.19,
-            10.32,
-            10.12,
-            9.94,
-            9.77,
-            9.86
+            9.33,
+            9.51,
+            9.54,
+            9.42,
+            9.6,
+            9.79,
+            9.89,
+            9.93,
+            9.83,
+            9.92,
+            9.96,
+            9.84
         ],
         "rci_data": [
             85.0,
-            21.080000000000002
+            21.242
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:02",
-            "tag": "AI",
-            "text": "Amazon targets mass hiring with agentic software, goal to humanize AI"
-        },
-        {
-            "time": "15:50",
-            "tag": "RESULTADOS",
-            "text": "Electronic Arts (EA) Projected to Post Quarterly Earnings on Tuesday"
-        },
-        {
-            "time": "15:49",
+            "time": "17:24",
             "tag": "MERCADO",
-            "text": "Teledyne FLIR Defense Expands Payload Program with Emesent Hovermap for GPS-Denied Operations"
+            "text": "Sustained Data Center Demand for Mass-Capacity Storage Drives BofA\u2019s Bullishness Toward Seagate Technology (STX)"
         },
         {
-            "time": "15:45",
+            "time": "17:20",
             "tag": "MERCADO",
-            "text": "New TI calculator skips Wi-Fi and works on the SAT, ACT and AP"
+            "text": "Jim Cramer Calls EQT His \u201cFavorite Oil and Gas Company\u201d"
         },
         {
-            "time": "15:40",
-            "tag": "AI",
-            "text": "Ulta Beauty Stock Keeps Sliding as Investors Test the Beauty Chain\u2019s AI Bet"
+            "time": "17:16",
+            "tag": "MERCADO",
+            "text": "Seagate Technology Holdings PLC Stock (STX) Moved Down by 3.56% on Apr 28: What Investors Need To Know"
+        },
+        {
+            "time": "17:15",
+            "tag": "MERCADO",
+            "text": "Western Digital Corp Stock (WDC) Moved Down by 3.22% on Apr 28: Key Drivers Unveiled"
+        },
+        {
+            "time": "17:15",
+            "tag": "MERCADO",
+            "text": "Unitedhealth Group Inc Stock (UNH) Moved Up by 3.44% on Apr 28: Facts Behind the Movement"
         }
     ]
 }
