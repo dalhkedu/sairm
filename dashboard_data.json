@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-29 14:05 UTC",
+        "last_updated": "2026-04-29 16:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 210.56,
-            "change": "+1.8%"
+            "price": 209.67,
+            "change": "-3.08%"
         },
         {
             "symbol": "AMD",
-            "price": 321.29,
-            "change": "-0.14%"
+            "price": 330.21,
+            "change": "+2.59%"
         },
         {
             "symbol": "MSFT",
-            "price": 424.51,
-            "change": "+3.29%"
+            "price": 421.96,
+            "change": "+1.96%"
         },
         {
             "symbol": "CEG",
-            "price": 302.21,
-            "change": "-3.27%"
+            "price": 299.9,
+            "change": "+1.74%"
         },
         {
             "symbol": "VST",
-            "price": 157.59,
-            "change": "-2.66%"
+            "price": 156.72,
+            "change": "-0.7%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.4,
+        "cer_current": 0.66,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
+            0.49,
+            0.49,
             0.49,
             0.49,
             0.5,
             0.5,
-            0.51,
             0.5,
             0.5,
+            0.49,
             0.5,
-            0.51,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.56,
-            24.13,
-            24.2,
-            24.17,
-            24.08,
-            24.17,
-            23.84,
-            24.18,
-            24.25,
-            24.56,
-            25.01,
-            24.59
+            25.9,
+            25.9,
+            25.51,
+            25.49,
+            25.78,
+            25.75,
+            25.7,
+            25.39,
+            25.65,
+            25.24,
+            25.52,
+            25.03
         ],
         "hsd_history_software": [
-            9.36,
-            9.54,
-            9.44,
-            9.44,
-            9.62,
-            9.65,
-            9.64,
-            9.69,
-            9.72,
-            9.86,
+            10.5,
+            10.52,
+            10.6,
+            10.47,
+            10.29,
+            10.2,
+            10.11,
+            9.97,
             9.84,
-            9.97
+            9.88,
+            9.92,
+            10.04
         ],
         "rci_data": [
             85.0,
-            21.056
+            20.967
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:28",
-            "tag": "MERCADO",
-            "text": "Vest Financial LLC Acquires New Position in Expedia Group, Inc. $EXPE"
-        },
-        {
-            "time": "13:28",
-            "tag": "MERCADO",
-            "text": "Vest Financial LLC Boosts Holdings in AT&T Inc. $T"
-        },
-        {
-            "time": "13:27",
+            "time": "16:04",
             "tag": "AI",
-            "text": "Labcorp Stock (US50540R4092): AI-Powered Platform Launch Accelerates Alzheimer's Research"
+            "text": "Apple\u2019s leadership transition, AI vision under new CEO Ternus to steal spotlight during earnings (AAPL:NASDAQ)"
         },
         {
-            "time": "13:22",
+            "time": "16:03",
             "tag": "MERCADO",
-            "text": "Keysight Technologies Stock (US49338L1035): Hits All-Time High of $352.54 on NYSE Amid Strong Moment"
+            "text": "Air Products Industrial Gas Supply for Samsung Semiconductor Fab in South Korea"
         },
         {
-            "time": "13:19",
+            "time": "16:00",
             "tag": "MERCADO",
-            "text": "AMD ticks up as Susquehanna ups price target ahead of Q1 results (AMD:NASDAQ)"
+            "text": "Samsung taps Air Products for gases at new South Korea chip fab"
+        },
+        {
+            "time": "15:45",
+            "tag": "MERCADO",
+            "text": "AMAZON COM INC : Receives a Buy rating from UBS"
+        },
+        {
+            "time": "15:37",
+            "tag": "AI",
+            "text": "Yum Brands wants AI and beverages to supercharge growth"
         }
     ]
 }
