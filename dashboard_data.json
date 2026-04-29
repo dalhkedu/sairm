@@ -1,45 +1,44 @@
 {
     "metadata": {
-        "last_updated": "2026-04-29 16:43 UTC",
+        "last_updated": "2026-04-29 18:13 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 209.67,
-            "change": "-3.08%"
+            "price": 208.01,
+            "change": "+3.46%"
         },
         {
             "symbol": "AMD",
-            "price": 330.21,
-            "change": "+2.59%"
+            "price": 334.01,
+            "change": "-3.18%"
         },
         {
             "symbol": "MSFT",
-            "price": 421.96,
-            "change": "+1.96%"
+            "price": 422.96,
+            "change": "-2.7%"
         },
         {
             "symbol": "CEG",
-            "price": 299.9,
-            "change": "+1.74%"
+            "price": 296.36,
+            "change": "+2.45%"
         },
         {
             "symbol": "VST",
-            "price": 156.72,
-            "change": "-0.7%"
+            "price": 154.96,
+            "change": "+2.9%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.53,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.49,
+            0.5,
+            0.5,
+            0.51,
             0.5,
             0.5,
             0.5,
@@ -47,39 +46,40 @@
             0.49,
             0.5,
             0.5,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.9,
-            25.9,
-            25.51,
-            25.49,
-            25.78,
-            25.75,
-            25.7,
-            25.39,
+            26.11,
+            26.28,
+            25.79,
+            26.21,
+            25.99,
+            26.02,
             25.65,
-            25.24,
-            25.52,
-            25.03
+            25.97,
+            25.46,
+            25.45,
+            25.18,
+            25.02
         ],
         "hsd_history_software": [
-            10.5,
-            10.52,
-            10.6,
-            10.47,
-            10.29,
-            10.2,
-            10.11,
-            9.97,
-            9.84,
+            9.54,
+            9.64,
+            9.8,
+            9.75,
             9.88,
-            9.92,
-            10.04
+            9.69,
+            9.88,
+            9.95,
+            9.87,
+            9.73,
+            9.87,
+            9.8
         ],
         "rci_data": [
             85.0,
-            20.967
+            20.801
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:04",
+            "time": "17:31",
+            "tag": "MERCADO",
+            "text": "Stocks making big moves yesterday: Commvault, Atlas Energy Solutions, CECO Environmental, Centene, and LifeStance Health Group"
+        },
+        {
+            "time": "17:31",
             "tag": "AI",
-            "text": "Apple\u2019s leadership transition, AI vision under new CEO Ternus to steal spotlight during earnings (AAPL:NASDAQ)"
+            "text": "How JPMorgan's CIO is reshaping work at the bank with a $19.8 billion annual tech and AI budget"
         },
         {
-            "time": "16:03",
+            "time": "17:30",
             "tag": "MERCADO",
-            "text": "Air Products Industrial Gas Supply for Samsung Semiconductor Fab in South Korea"
+            "text": "Uber moves toward becoming an \u2018everything app\u2019 with hotel bookings powered by Expedia"
         },
         {
-            "time": "16:00",
+            "time": "17:23",
             "tag": "MERCADO",
-            "text": "Samsung taps Air Products for gases at new South Korea chip fab"
+            "text": "RTX Space Interceptor Win Adds New Layer To Valuation Debate"
         },
         {
-            "time": "15:45",
+            "time": "17:22",
             "tag": "MERCADO",
-            "text": "AMAZON COM INC : Receives a Buy rating from UBS"
-        },
-        {
-            "time": "15:37",
-            "tag": "AI",
-            "text": "Yum Brands wants AI and beverages to supercharge growth"
+            "text": "Iron Mountain earnings up next: Can data centers fuel growth? By Investing.com"
         }
     ]
 }
