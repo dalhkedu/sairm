@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-29 06:26 UTC",
+        "last_updated": "2026-04-29 09:11 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 213.17,
-            "change": "-2.12%"
+            "change": "-1.76%"
         },
         {
             "symbol": "AMD",
             "price": 323.21,
-            "change": "+2.45%"
+            "change": "+2.66%"
         },
         {
             "symbol": "MSFT",
             "price": 429.25,
-            "change": "+2.29%"
+            "change": "+2.35%"
         },
         {
             "symbol": "CEG",
             "price": 305.71,
-            "change": "+1.68%"
+            "change": "+0.11%"
         },
         {
             "symbol": "VST",
             "price": 161.12,
-            "change": "-0.35%"
+            "change": "+1.61%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.41,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.5,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.82,
-            25.37,
-            25.54,
-            25.25,
-            25.17,
-            25.18,
-            25.15,
-            24.79,
-            24.72,
-            24.71,
-            24.95,
-            24.79
+            26.13,
+            26.15,
+            26.62,
+            26.84,
+            26.43,
+            26.07,
+            25.74,
+            25.89,
+            25.61,
+            25.42,
+            25.14,
+            24.94
         ],
         "hsd_history_software": [
-            9.9,
-            9.75,
-            9.94,
-            9.86,
-            10.03,
-            10.15,
-            10.14,
-            9.97,
-            9.82,
-            9.71,
+            9.59,
+            9.65,
+            9.68,
+            9.52,
+            9.63,
+            9.62,
+            9.72,
             9.81,
-            10.0
+            9.99,
+            9.86,
+            9.78,
+            9.91
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:00",
-            "tag": "AI",
-            "text": "NetApp collabs with Google Cloud for AI-driven operations"
-        },
-        {
-            "time": "04:54",
+            "time": "08:38",
             "tag": "MERCADO",
-            "text": "Boeing and LightSolver Form Strategic Financial Partnership to Develop Laser-Based Accelerator for Large-Scale Engineering Simulation"
+            "text": "Comerica Bank Sells 2,858 Shares of Synopsys, Inc. $SNPS"
         },
         {
-            "time": "04:00",
+            "time": "08:32",
             "tag": "MERCADO",
-            "text": "Short Interest in Intuit Inc. (NASDAQ:INTU) Expands By 36.7%"
+            "text": "D.A. Davidson & CO. Acquires 15,276 Shares of Analog Devices, Inc. $ADI"
         },
         {
-            "time": "03:39",
-            "tag": "RESULTADOS",
-            "text": "Omnicom (OMC) Q1 2026 Earnings Transcript"
-        },
-        {
-            "time": "03:33",
+            "time": "08:31",
             "tag": "MERCADO",
-            "text": "Illumia opens new Chennai tech hub with 80 staff, hiring underway"
+            "text": "Concurrent Investment Advisors LLC Buys 4,936 Shares of Cadence Design Systems, Inc. $CDNS"
+        },
+        {
+            "time": "08:16",
+            "tag": "MERCADO",
+            "text": "Seagate and Western Digital Shares Plummet, What You Need To Know"
+        },
+        {
+            "time": "08:02",
+            "tag": "MERCADO",
+            "text": "China Exposure Hits Lam Research, Applied Materials, KLA Stocks"
         }
     ]
 }
