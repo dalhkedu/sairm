@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-29 03:52 UTC",
+        "last_updated": "2026-04-29 06:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 213.17,
-            "change": "+3.2%"
+            "change": "-2.12%"
         },
         {
             "symbol": "AMD",
             "price": 323.21,
-            "change": "+0.61%"
+            "change": "+2.45%"
         },
         {
             "symbol": "MSFT",
             "price": 429.25,
-            "change": "+2.91%"
+            "change": "+2.29%"
         },
         {
             "symbol": "CEG",
             "price": 305.71,
-            "change": "-0.7%"
+            "change": "+1.68%"
         },
         {
             "symbol": "VST",
             "price": 161.12,
-            "change": "-0.13%"
+            "change": "-0.35%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.55,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
-            0.51,
             0.5,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5
+            0.5,
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.29,
-            25.68,
-            25.76,
+            25.82,
             25.37,
-            25.87,
-            25.4,
-            24.94,
-            25.06,
-            25.46,
-            25.87,
-            25.39,
-            25.17
+            25.54,
+            25.25,
+            25.17,
+            25.18,
+            25.15,
+            24.79,
+            24.72,
+            24.71,
+            24.95,
+            24.79
         ],
         "hsd_history_software": [
-            10.38,
-            10.27,
-            10.23,
-            10.22,
-            10.17,
-            10.25,
-            10.41,
-            10.24,
-            10.12,
-            10.28,
-            10.11,
-            10.14
+            9.9,
+            9.75,
+            9.94,
+            9.86,
+            10.03,
+            10.15,
+            10.14,
+            9.97,
+            9.82,
+            9.71,
+            9.81,
+            10.0
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:39",
-            "tag": "MERCADO",
-            "text": "ROBO ETF Holdings List \u2014 BOATS:ROBO"
+            "time": "05:00",
+            "tag": "AI",
+            "text": "NetApp collabs with Google Cloud for AI-driven operations"
         },
         {
-            "time": "02:21",
+            "time": "04:54",
+            "tag": "MERCADO",
+            "text": "Boeing and LightSolver Form Strategic Financial Partnership to Develop Laser-Based Accelerator for Large-Scale Engineering Simulation"
+        },
+        {
+            "time": "04:00",
+            "tag": "MERCADO",
+            "text": "Short Interest in Intuit Inc. (NASDAQ:INTU) Expands By 36.7%"
+        },
+        {
+            "time": "03:39",
             "tag": "RESULTADOS",
-            "text": "T-Mobile US (TMUS) Reports Strong Q1 2026 Earnings and Raises Gu"
+            "text": "Omnicom (OMC) Q1 2026 Earnings Transcript"
         },
         {
-            "time": "02:09",
+            "time": "03:33",
             "tag": "MERCADO",
-            "text": "RingCentral president and COO Kira Makagon sells $236,363 in stock"
-        },
-        {
-            "time": "02:08",
-            "tag": "MERCADO",
-            "text": "Quhuo Limited Financial Statements \u2013 OTC:QHUOD"
-        },
-        {
-            "time": "02:03",
-            "tag": "MERCADO",
-            "text": "Alphabet (NASDAQ: GOOGL) CLO John Kent Walker gifts 69,602 Class C shares"
+            "text": "Illumia opens new Chennai tech hub with 80 staff, hiring underway"
         }
     ]
 }
