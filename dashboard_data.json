@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-30 20:10 UTC",
+        "last_updated": "2026-04-30 21:58 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 199.57,
-            "change": "+0.1%"
+            "change": "+3.13%"
         },
         {
             "symbol": "AMD",
             "price": 354.49,
-            "change": "+3.12%"
+            "change": "+2.08%"
         },
         {
             "symbol": "MSFT",
             "price": 407.78,
-            "change": "+2.4%"
+            "change": "+0.7%"
         },
         {
             "symbol": "CEG",
             "price": 313.0,
-            "change": "+1.03%"
+            "change": "-2.99%"
         },
         {
             "symbol": "VST",
-            "price": 157.83,
-            "change": "-0.88%"
+            "price": 157.84,
+            "change": "+1.08%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.6,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
+            0.5,
+            0.51,
+            0.51,
             0.51,
             0.5,
             0.5,
             0.5,
-            0.5,
-            0.5,
+            0.51,
             0.5,
             0.49,
-            0.49,
-            0.49,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            25.92,
-            25.63,
-            25.21,
-            25.1,
-            24.97,
-            25.2,
-            24.73,
-            24.41,
-            24.04,
-            24.42,
-            24.79,
-            24.62
+            25.12,
+            24.66,
+            24.31,
+            24.49,
+            24.19,
+            24.6,
+            24.59,
+            24.49,
+            24.55,
+            24.69,
+            24.47,
+            24.66
         ],
         "hsd_history_software": [
-            9.9,
-            10.0,
-            10.09,
-            9.91,
-            9.75,
-            9.58,
-            9.55,
-            9.6,
-            9.77,
-            9.95,
-            9.98,
-            10.05
+            10.22,
+            10.15,
+            10.3,
+            10.29,
+            10.18,
+            10.36,
+            10.17,
+            10.11,
+            10.04,
+            10.08,
+            10.11,
+            10.09
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:22",
+            "time": "21:30",
             "tag": "MERCADO",
-            "text": "The Goldman Sachs Group Lowers CoStar Group (NASDAQ:CSGP) Price Target to $54.00"
+            "text": "Is Agilent Technologies a Good Stock to Buy?"
         },
         {
-            "time": "19:15",
+            "time": "20:55",
             "tag": "MERCADO",
-            "text": "Ciena Corp Stock (CIEN) Moved Up by 9.55% on Apr 30: Key Drivers Unveiled"
+            "text": "Stryker beats The Street despite Q1 cyberattack, sticks with guidance"
         },
         {
-            "time": "19:10",
-            "tag": "MERCADO",
-            "text": "Wells Fargo Adjusts Price Target on Fair Isaac to $1,400 From $1,650"
+            "time": "20:52",
+            "tag": "AI",
+            "text": "Western Digital forecasts quarterly revenue above estimates on AI storage demand"
         },
         {
-            "time": "19:06",
-            "tag": "RESULTADOS",
-            "text": "Broadridge Financial Solutions Q3 2026 Earnings Call Transcript"
+            "time": "20:35",
+            "tag": "MERCADO",
+            "text": "Apple Tops Sales Estimates After iPhone, Mac Help Fuel Growth"
         },
         {
-            "time": "19:02",
+            "time": "20:33",
             "tag": "MERCADO",
-            "text": "Align Technology Showcases Latest Advances in Integrated Digital Orthodontics and Previews 2026 Innovation at AAO Annual Session"
+            "text": "PayPal (PYPL) unveils 3-unit reorg as two executive vice presidents depart"
         }
     ]
 }
