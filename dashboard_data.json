@@ -1,37 +1,37 @@
 {
     "metadata": {
-        "last_updated": "2026-04-30 03:55 UTC",
+        "last_updated": "2026-04-30 06:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 209.25,
-            "change": "-1.6%"
+            "change": "+2.17%"
         },
         {
             "symbol": "AMD",
             "price": 337.11,
-            "change": "-1.23%"
+            "change": "+2.36%"
         },
         {
             "symbol": "MSFT",
             "price": 424.46,
-            "change": "-0.18%"
+            "change": "+1.82%"
         },
         {
             "symbol": "CEG",
             "price": 297.0,
-            "change": "+2.2%"
+            "change": "+0.26%"
         },
         {
             "symbol": "VST",
             "price": 153.79,
-            "change": "+1.61%"
+            "change": "+1.85%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.44,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
@@ -39,43 +39,43 @@
             0.49,
             0.49,
             0.49,
-            0.5,
             0.49,
             0.5,
-            0.51,
-            0.51,
-            0.51,
             0.5,
             0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            23.82,
-            23.59,
-            23.83,
-            23.81,
-            23.94,
-            23.71,
-            23.8,
-            23.54,
-            23.73,
-            24.0,
+            24.32,
+            24.78,
+            24.89,
+            25.24,
+            24.8,
             24.48,
-            24.62
+            24.44,
+            24.31,
+            24.25,
+            24.7,
+            24.63,
+            24.67
         ],
         "hsd_history_software": [
-            10.47,
+            10.3,
+            10.27,
+            10.45,
+            10.34,
+            10.38,
+            10.26,
             10.43,
-            10.29,
             10.28,
-            10.14,
-            10.25,
-            10.39,
-            10.19,
-            10.04,
-            10.08,
-            10.0,
-            10.16
+            10.22,
+            10.1,
+            9.96,
+            10.13
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:59",
+            "time": "05:38",
             "tag": "MERCADO",
-            "text": "SMCI Class Action Reminder - Robbins LLP Urges SMCI Investors to Contact the Firm for Information About Their Rights"
+            "text": "Yelp Announces CTO Transition and Leadership Succession Plan"
         },
         {
-            "time": "02:39",
+            "time": "05:22",
             "tag": "AI",
-            "text": "Rezolve AI Presses Case for Commerce.com Tie-Up With Critical Flyer at Commerce Live"
+            "text": "AI Engines Roar at Full Power, Alphabet Cloud Business Grows 63%, Stock Surges 7% After Hours."
         },
         {
-            "time": "02:39",
+            "time": "05:13",
             "tag": "MERCADO",
-            "text": "Algorhythm Holdings Announces Launch of SemiCab\u2019s Freight Network Forum"
+            "text": "What eBay (EBAY)'s Strong Q1 Results and Recommerce Push Means For Shareholders"
         },
         {
-            "time": "02:20",
+            "time": "05:13",
             "tag": "MERCADO",
-            "text": "3 Under-$10 Stocks Flagged for Risks: RPD, EXPI, GPK Analysis - News and Statistics"
+            "text": "SLB Expands Digital Toolkit With S&P Software As Valuation Questions Grow"
         },
         {
-            "time": "02:17",
-            "tag": "AI",
-            "text": "Is Papa John\u2019s (PZZA) AI Ordering Push Quietly Rewriting Its Customer Traffic Narrative?"
+            "time": "05:11",
+            "tag": "MERCADO",
+            "text": "Will New CFO Derek Andersen and IShowSpeed Deal Change Expedia Group\u2019s (EXPE) Tech-Led Growth Narrative"
         }
     ]
 }
