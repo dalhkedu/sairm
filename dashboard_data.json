@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-30 16:21 UTC",
+        "last_updated": "2026-04-30 18:12 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 200.52,
-            "change": "-2.0%"
+            "price": 200.6,
+            "change": "-3.01%"
         },
         {
             "symbol": "AMD",
-            "price": 348.79,
-            "change": "-0.93%"
+            "price": 352.98,
+            "change": "-0.21%"
         },
         {
             "symbol": "MSFT",
-            "price": 402.63,
-            "change": "+0.13%"
+            "price": 404.67,
+            "change": "-1.34%"
         },
         {
             "symbol": "CEG",
-            "price": 311.24,
-            "change": "+2.03%"
+            "price": 310.97,
+            "change": "+3.32%"
         },
         {
             "symbol": "VST",
-            "price": 158.86,
-            "change": "-0.17%"
+            "price": 158.61,
+            "change": "-1.76%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.65,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
             0.5,
             0.5,
-            0.5
+            0.49,
+            0.5,
+            0.5,
+            0.49,
+            0.48,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.84,
-            25.46,
-            25.44,
-            25.17,
-            24.96,
-            25.44,
-            25.68,
-            25.37,
-            25.51,
-            25.19,
-            24.88,
-            24.74
+            24.57,
+            24.58,
+            24.8,
+            24.89,
+            25.0,
+            24.54,
+            24.62,
+            24.39,
+            23.95,
+            23.97,
+            24.18,
+            24.6
         ],
         "hsd_history_software": [
-            10.68,
-            10.58,
-            10.49,
-            10.35,
-            10.53,
-            10.36,
-            10.57,
-            10.36,
-            10.23,
-            10.38,
-            10.24,
-            10.2
+            9.33,
+            9.4,
+            9.5,
+            9.51,
+            9.59,
+            9.77,
+            9.85,
+            9.88,
+            9.88,
+            9.96,
+            9.95,
+            9.85
         ],
         "rci_data": [
             85.0,
-            20.052
+            20.06
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:15",
+            "time": "17:23",
             "tag": "MERCADO",
-            "text": "Eaton Corporation PLC Stock (ETN) Moved Up by 3.00% on Apr 30: Facts Behind the Movement"
+            "text": "Ridgeline Closes $180 Million Fund II Backed by FedEx and Cisco Investments"
         },
         {
-            "time": "15:09",
+            "time": "17:20",
             "tag": "MERCADO",
-            "text": "Shareholders back Silicon Labs (NASDAQ: SLAB) merger with Texas Instruments"
+            "text": "Digital Smart Cruise Ships Market Next Big Thing | Major Giants"
         },
         {
-            "time": "15:08",
+            "time": "17:17",
             "tag": "RESULTADOS",
-            "text": "Apple Earnings Prediction Market Preview: What Will Tim Cook Say?"
+            "text": "Full Transcript: Fortive Q1 2026 Earnings Call"
         },
         {
-            "time": "14:59",
+            "time": "17:14",
             "tag": "MERCADO",
-            "text": "Doxis Named a Leader in Gartner\u00ae Magic Quadrant\u2122 for Document Management 2026"
+            "text": "AAR Links Woodward Expansion With Airvoyant To Connect Parts And Data"
         },
         {
-            "time": "14:55",
+            "time": "17:07",
             "tag": "MERCADO",
-            "text": "Chipotle's Q1 earnings: Tech, sauce innovation drive transaction growth"
+            "text": "Don\u2019t Buy the Railroads. Buy the Campbell\u2019s."
         }
     ]
 }
