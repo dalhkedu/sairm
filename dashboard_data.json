@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-30 09:13 UTC",
+        "last_updated": "2026-04-30 11:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 209.25,
-            "change": "+1.67%"
+            "change": "-3.3%"
         },
         {
             "symbol": "AMD",
             "price": 337.11,
-            "change": "+2.16%"
+            "change": "-2.48%"
         },
         {
             "symbol": "MSFT",
             "price": 424.46,
-            "change": "-3.31%"
+            "change": "-2.54%"
         },
         {
             "symbol": "CEG",
             "price": 297.0,
-            "change": "+0.17%"
+            "change": "-3.02%"
         },
         {
             "symbol": "VST",
             "price": 153.79,
-            "change": "+1.57%"
+            "change": "-0.13%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.54,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.5,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.5,
             0.49,
-            0.48,
-            0.48,
             0.49,
             0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.51,
-            0.5,
+            0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            22.82,
-            23.01,
-            23.22,
-            23.35,
-            23.75,
-            23.92,
-            23.88,
-            23.85,
-            23.83,
-            24.18,
-            24.2,
-            24.54
+            25.6,
+            25.15,
+            25.56,
+            25.62,
+            25.42,
+            25.01,
+            24.93,
+            25.2,
+            24.79,
+            24.86,
+            24.52,
+            24.96
         ],
         "hsd_history_software": [
-            10.3,
-            10.5,
-            10.35,
-            10.39,
-            10.35,
-            10.23,
-            10.29,
-            10.25,
+            9.62,
+            9.55,
+            9.51,
+            9.71,
+            9.8,
+            9.75,
+            9.88,
+            9.86,
+            10.0,
             10.1,
-            9.91,
             10.01,
-            10.14
+            9.81
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:03",
+            "time": "11:09",
             "tag": "MERCADO",
-            "text": "Teledyne drops the ChartWorld brand in a global commercial shipping push"
+            "text": "U.S. ETF Express | GraniteShares 2X Long INTC Daily ETF Was the Top Gainer, Rising 24.56%"
         },
         {
-            "time": "07:58",
-            "tag": "RESULTADOS",
-            "text": "Alphabet Earnings: AI Propels Business Across Segments, Cloud Is Brightest"
+            "time": "10:49",
+            "tag": "MERCADO",
+            "text": "Wealthfront Advisers LLC Increases Stock Position in Synopsys, Inc. $SNPS"
         },
         {
-            "time": "07:44",
+            "time": "10:44",
             "tag": "MERCADO",
-            "text": "AMG National Trust Bank Has $1.16 Million Position in PayPal Holdings, Inc. $PYPL"
+            "text": "Iron Mountain Reports First Quarter 2026 Results"
         },
         {
-            "time": "07:38",
+            "time": "10:43",
             "tag": "MERCADO",
-            "text": "Garmin Is Growing Fast and Taking Share in Wearables"
+            "text": "Keysight Technologies Stock (US49338L1035): Set to Report Q2 Fiscal 2026 Results on May 21"
         },
         {
-            "time": "07:36",
+            "time": "10:41",
             "tag": "MERCADO",
-            "text": "Comerica Bank Sells 10,731 Shares of Western Digital Corporation $WDC"
+            "text": "Jabil Inc. Stock (US46612W1036): Set to Report Q2 Fiscal 2026 Results"
         }
     ]
 }
