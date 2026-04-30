@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-04-30 11:39 UTC",
+        "last_updated": "2026-04-30 14:03 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 209.25,
-            "change": "-3.3%"
+            "price": 203.07,
+            "change": "-1.76%"
         },
         {
             "symbol": "AMD",
-            "price": 337.11,
-            "change": "-2.48%"
+            "price": 344.73,
+            "change": "-1.97%"
         },
         {
             "symbol": "MSFT",
-            "price": 424.46,
-            "change": "-2.54%"
+            "price": 403.95,
+            "change": "+0.82%"
         },
         {
             "symbol": "CEG",
-            "price": 297.0,
-            "change": "-3.02%"
+            "price": 308.68,
+            "change": "+0.37%"
         },
         {
             "symbol": "VST",
-            "price": 153.79,
-            "change": "-0.13%"
+            "price": 157.58,
+            "change": "-2.09%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
-        "rci_current": 0.21,
+        "cer_current": 0.58,
+        "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.51,
+            0.51,
             0.5,
             0.5,
             0.51,
-            0.52,
-            0.52,
+            0.51,
             0.51,
             0.5,
-            0.49,
-            0.49,
             0.5,
-            0.49,
-            0.49
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.6,
-            25.15,
-            25.56,
+            25.26,
+            25.21,
             25.62,
-            25.42,
-            25.01,
-            24.93,
-            25.2,
-            24.79,
-            24.86,
-            24.52,
-            24.96
+            25.86,
+            25.78,
+            25.38,
+            25.35,
+            24.95,
+            25.04,
+            25.34,
+            25.79,
+            25.3
         ],
         "hsd_history_software": [
-            9.62,
-            9.55,
-            9.51,
-            9.71,
-            9.8,
-            9.75,
+            10.34,
+            10.41,
+            10.42,
+            10.23,
+            10.15,
+            9.98,
+            9.84,
+            9.82,
+            9.79,
+            9.92,
             9.88,
-            9.86,
-            10.0,
-            10.1,
-            10.01,
-            9.81
+            10.05
         ],
         "rci_data": [
             85.0,
-            20.925
+            20.307
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:09",
+            "time": "13:35",
             "tag": "MERCADO",
-            "text": "U.S. ETF Express | GraniteShares 2X Long INTC Daily ETF Was the Top Gainer, Rising 24.56%"
+            "text": "State of New Jersey Common Pension Fund D Sells 17,989 Shares of Lam Research Corporation $LRCX"
         },
         {
-            "time": "10:49",
+            "time": "13:35",
             "tag": "MERCADO",
-            "text": "Wealthfront Advisers LLC Increases Stock Position in Synopsys, Inc. $SNPS"
+            "text": "State of New Jersey Common Pension Fund D Sells 39,847 Shares of Cisco Systems, Inc. $CSCO"
         },
         {
-            "time": "10:44",
+            "time": "13:35",
             "tag": "MERCADO",
-            "text": "Iron Mountain Reports First Quarter 2026 Results"
+            "text": "Netflix: 2026 TIME100 Most Influential Companies"
         },
         {
-            "time": "10:43",
-            "tag": "MERCADO",
-            "text": "Keysight Technologies Stock (US49338L1035): Set to Report Q2 Fiscal 2026 Results on May 21"
+            "time": "13:26",
+            "tag": "AI",
+            "text": "Amazon, Google, and Microsoft are seeing unprecedented gains in cloud, thanks to AI (AMZN:NASDAQ)"
         },
         {
-            "time": "10:41",
+            "time": "13:24",
             "tag": "MERCADO",
-            "text": "Jabil Inc. Stock (US46612W1036): Set to Report Q2 Fiscal 2026 Results"
+            "text": "Spring Into Gaming: HyperX Expands Its Gaming Peripherals and Software Ecosystem"
         }
     ]
 }
