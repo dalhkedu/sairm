@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-04-30 21:58 UTC",
+        "last_updated": "2026-04-30 23:01 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 199.57,
-            "change": "+3.13%"
+            "change": "-0.11%"
         },
         {
             "symbol": "AMD",
             "price": 354.49,
-            "change": "+2.08%"
+            "change": "-0.95%"
         },
         {
             "symbol": "MSFT",
             "price": 407.78,
-            "change": "+0.7%"
+            "change": "-1.73%"
         },
         {
             "symbol": "CEG",
             "price": 313.0,
-            "change": "-2.99%"
+            "change": "-0.06%"
         },
         {
             "symbol": "VST",
             "price": 157.84,
-            "change": "+1.08%"
+            "change": "-1.94%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.69,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
+            0.51,
+            0.52,
+            0.52,
+            0.53,
+            0.52,
             0.51,
             0.51,
-            0.51,
             0.5,
-            0.5,
-            0.5,
-            0.51,
             0.5,
             0.49,
+            0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            25.12,
+            24.63,
+            24.5,
+            24.32,
+            24.64,
             24.66,
-            24.31,
-            24.49,
-            24.19,
-            24.6,
-            24.59,
-            24.49,
-            24.55,
-            24.69,
-            24.47,
-            24.66
+            24.91,
+            25.1,
+            24.78,
+            24.81,
+            24.58,
+            24.7,
+            24.57
         ],
         "hsd_history_software": [
-            10.22,
-            10.15,
-            10.3,
-            10.29,
-            10.18,
-            10.36,
-            10.17,
-            10.11,
-            10.04,
             10.08,
+            10.04,
+            10.1,
             10.11,
-            10.09
+            9.93,
+            9.89,
+            9.81,
+            9.75,
+            9.81,
+            9.64,
+            9.8,
+            9.88
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:30",
+            "time": "22:29",
             "tag": "MERCADO",
-            "text": "Is Agilent Technologies a Good Stock to Buy?"
+            "text": "Veeva Systems Set to Join S&P 500"
         },
         {
-            "time": "20:55",
-            "tag": "MERCADO",
-            "text": "Stryker beats The Street despite Q1 cyberattack, sticks with guidance"
-        },
-        {
-            "time": "20:52",
+            "time": "22:29",
             "tag": "AI",
-            "text": "Western Digital forecasts quarterly revenue above estimates on AI storage demand"
+            "text": "IBM Launches \u2018Bob\u2019 to Tackle Enterprise AI Development Challenges"
         },
         {
-            "time": "20:35",
+            "time": "22:19",
             "tag": "MERCADO",
-            "text": "Apple Tops Sales Estimates After iPhone, Mac Help Fuel Growth"
+            "text": "JPMorgan Chase & Co. Issues Positive Forecast for Qualcomm (NASDAQ:QCOM) Stock Price"
         },
         {
-            "time": "20:33",
+            "time": "21:42",
             "tag": "MERCADO",
-            "text": "PayPal (PYPL) unveils 3-unit reorg as two executive vice presidents depart"
+            "text": "Monolithic Power Systems Prevails in Patent Infringement Lawsuit Brought by Bel Power Solutions in West Texas, with Bel Power Solutions Paying Costs"
+        },
+        {
+            "time": "21:41",
+            "tag": "MERCADO",
+            "text": "Is Graphic Packaging Holding (GPK) One of the Most Undervalued Stocks Under $10 to Buy Right Now?"
         }
     ]
 }
