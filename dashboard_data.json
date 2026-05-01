@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-01 16:02 UTC",
+        "last_updated": "2026-05-01 18:00 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 199.16,
-            "change": "+1.26%"
+            "price": 199.73,
+            "change": "-3.24%"
         },
         {
             "symbol": "AMD",
-            "price": 355.66,
-            "change": "-1.38%"
+            "price": 362.03,
+            "change": "-1.86%"
         },
         {
             "symbol": "MSFT",
-            "price": 415.97,
-            "change": "-2.03%"
+            "price": 415.49,
+            "change": "-1.16%"
         },
         {
             "symbol": "CEG",
-            "price": 315.15,
-            "change": "-0.04%"
+            "price": 314.02,
+            "change": "-2.86%"
         },
         {
             "symbol": "VST",
-            "price": 158.35,
-            "change": "-0.08%"
+            "price": 157.76,
+            "change": "+0.51%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.48,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
             0.5,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            24.97,
-            24.78,
-            25.11,
-            24.73,
-            25.16,
-            24.96,
-            24.76,
-            25.19,
-            25.41,
+            26.09,
+            26.24,
+            25.89,
+            26.07,
+            26.43,
+            26.67,
+            26.43,
+            26.03,
             25.74,
-            25.41,
-            25.22
+            25.24,
+            24.89,
+            24.59
         ],
         "hsd_history_software": [
-            10.06,
-            10.08,
-            9.97,
-            9.81,
-            9.77,
+            9.89,
+            9.84,
+            9.91,
+            9.86,
             9.72,
-            9.6,
-            9.56,
-            9.69,
-            9.82,
-            9.83,
-            9.99
+            9.72,
+            9.62,
+            9.73,
+            9.76,
+            9.75,
+            9.86,
+            10.02
         ],
         "rci_data": [
             85.0,
-            19.916
+            19.973
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:38",
+            "time": "17:15",
             "tag": "MERCADO",
-            "text": "OneSpan Reports First Quarter 2026 Financial Results"
+            "text": "Southern Co. electricity sales soar on 42% data center growth"
         },
         {
-            "time": "15:16",
+            "time": "16:50",
             "tag": "MERCADO",
-            "text": "Applovin Corp Stock (APP) Moved Up by 3.22% on May 1: What Investors Need To Know"
+            "text": "Intuit MailChimp Sued Over Patents for Text Message Transactions"
         },
         {
-            "time": "15:15",
-            "tag": "MERCADO",
-            "text": "Shopify Inc Stock (SHOP) Moved Up by 4.04% on May 1: Key Drivers Unveiled"
-        },
-        {
-            "time": "14:51",
-            "tag": "MERCADO",
-            "text": "Analysts Offer Insights on Technology Companies: Automatic Data Processing (ADP), Fair Isaac (FICO) and Waystar Holding Corp. (WAY)"
-        },
-        {
-            "time": "14:39",
+            "time": "16:50",
             "tag": "AI",
-            "text": "The Bull Case For Science Applications International (SAIC) Could Change Following New US$75M Navy Task Order"
+            "text": "Nasdaq Composite Posts Best Month In 6 Years As AI Boom Powers Tech Surge \u2014 Alphabet, Intel Stocks Power The Super Rally"
+        },
+        {
+            "time": "16:39",
+            "tag": "MERCADO",
+            "text": "Veritone Inc Stock (US92343X1063): Analyst Upgrade and Price Target Revision"
+        },
+        {
+            "time": "16:38",
+            "tag": "MERCADO",
+            "text": "Why Generac Stock Powered Higher This Week"
         }
     ]
 }
