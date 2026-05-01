@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-01 14:58 UTC",
+        "last_updated": "2026-05-01 16:02 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 199.48,
-            "change": "-0.94%"
+            "price": 199.16,
+            "change": "+1.26%"
         },
         {
             "symbol": "AMD",
-            "price": 351.81,
-            "change": "-1.93%"
+            "price": 355.66,
+            "change": "-1.38%"
         },
         {
             "symbol": "MSFT",
-            "price": 413.54,
-            "change": "-2.41%"
+            "price": 415.97,
+            "change": "-2.03%"
         },
         {
             "symbol": "CEG",
-            "price": 315.74,
-            "change": "-1.21%"
+            "price": 315.15,
+            "change": "-0.04%"
         },
         {
             "symbol": "VST",
-            "price": 159.05,
-            "change": "-0.92%"
+            "price": 158.35,
+            "change": "-0.08%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.55,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.48,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.54,
-            25.05,
-            24.74,
-            24.57,
-            24.8,
-            24.55,
-            24.54,
-            24.72,
-            25.04,
+            24.97,
+            24.78,
+            25.11,
+            24.73,
             25.16,
-            25.55,
+            24.96,
+            24.76,
+            25.19,
+            25.41,
+            25.74,
+            25.41,
             25.22
         ],
         "hsd_history_software": [
-            10.0,
-            9.88,
             10.06,
-            10.07,
-            10.26,
-            10.47,
-            10.33,
-            10.16,
-            10.03,
-            10.09,
-            10.03,
-            9.98
+            10.08,
+            9.97,
+            9.81,
+            9.77,
+            9.72,
+            9.6,
+            9.56,
+            9.69,
+            9.82,
+            9.83,
+            9.99
         ],
         "rci_data": [
             85.0,
-            19.948
+            19.916
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:01",
+            "time": "15:38",
             "tag": "MERCADO",
-            "text": "KeyCorp Increases Roku (NASDAQ:ROKU) Price Target to $150.00"
+            "text": "OneSpan Reports First Quarter 2026 Financial Results"
         },
         {
-            "time": "13:50",
+            "time": "15:16",
             "tag": "MERCADO",
-            "text": "Is Analog Devices (ADI) Pricing In Too Much Optimism After Its Recent Share Price Surge"
+            "text": "Applovin Corp Stock (APP) Moved Up by 3.22% on May 1: What Investors Need To Know"
         },
         {
-            "time": "13:50",
+            "time": "15:15",
             "tag": "MERCADO",
-            "text": "NAPCO Security earnings in focus as recurring revenue model gains traction"
+            "text": "Shopify Inc Stock (SHOP) Moved Up by 4.04% on May 1: Key Drivers Unveiled"
         },
         {
-            "time": "13:48",
+            "time": "14:51",
             "tag": "MERCADO",
-            "text": "Salesforce Inc Stock (CRM) Opened Up by 5.02% on May 1: Key Drivers Unveiled"
+            "text": "Analysts Offer Insights on Technology Companies: Automatic Data Processing (ADP), Fair Isaac (FICO) and Waystar Holding Corp. (WAY)"
         },
         {
-            "time": "13:47",
-            "tag": "MERCADO",
-            "text": "Palantir Technologies Inc Stock (PLTR) Opened Up by 4.31% on May 1: Drivers Behind the Movement"
+            "time": "14:39",
+            "tag": "AI",
+            "text": "The Bull Case For Science Applications International (SAIC) Could Change Following New US$75M Navy Task Order"
         }
     ]
 }
