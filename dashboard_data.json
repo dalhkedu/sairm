@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-01 22:53 UTC",
+        "last_updated": "2026-05-01 23:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 198.45,
-            "change": "-1.28%"
+            "change": "+1.13%"
         },
         {
             "symbol": "AMD",
             "price": 360.54,
-            "change": "-0.09%"
+            "change": "+1.38%"
         },
         {
             "symbol": "MSFT",
             "price": 414.44,
-            "change": "-1.89%"
+            "change": "-0.32%"
         },
         {
             "symbol": "CEG",
             "price": 307.81,
-            "change": "+1.15%"
+            "change": "-0.25%"
         },
         {
             "symbol": "VST",
             "price": 155.28,
-            "change": "-1.49%"
+            "change": "-2.38%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.69,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.52,
-            0.51,
-            0.5,
             0.5,
             0.51,
             0.51,
             0.5,
-            0.51,
+            0.5,
+            0.49,
             0.5,
             0.5,
+            0.5,
+            0.5,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.52,
-            24.66,
-            24.67,
-            24.22,
-            24.36,
-            24.38,
-            24.86,
-            24.99,
-            25.27,
-            24.87,
-            24.94,
-            25.36
+            25.53,
+            25.66,
+            25.49,
+            25.56,
+            25.33,
+            25.13,
+            24.88,
+            24.95,
+            24.88,
+            25.2,
+            24.84,
+            25.07
         ],
         "hsd_history_software": [
-            10.17,
-            10.14,
-            10.15,
-            10.14,
-            10.01,
+            9.94,
+            10.07,
             10.08,
-            10.05,
-            9.97,
-            9.82,
-            9.68,
-            9.85,
-            9.88
+            9.98,
+            9.95,
+            9.92,
+            9.98,
+            9.89,
+            9.81,
+            9.91,
+            10.1,
+            10.0
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "22:57",
+            "tag": "MERCADO",
+            "text": "Lockheed Martin Selected for U.S. Space Force's Space-Based Interceptor Development"
+        },
+        {
+            "time": "22:37",
+            "tag": "MERCADO",
+            "text": "EBay soars on report that GameStop is preparing a takeover bid"
+        },
+        {
+            "time": "22:15",
+            "tag": "MERCADO",
+            "text": "If You Invested $100 In Axon Enterprise Stock 5 Years Ago, You Would Have This Much Today"
+        },
+        {
             "time": "22:09",
             "tag": "MERCADO",
             "text": "Allegro Microsystems stock hits 52-week high at 45.39 USD By Investing.com"
@@ -134,21 +149,6 @@
             "time": "21:56",
             "tag": "MERCADO",
             "text": "U.S. Space Force taps Lockheed for space-based interceptor work"
-        },
-        {
-            "time": "21:50",
-            "tag": "MERCADO",
-            "text": "EBay Soars on Report That GameStop Is Preparing a Takeover Bid"
-        },
-        {
-            "time": "21:34",
-            "tag": "MERCADO",
-            "text": "IBM Shareholders Endorse Board, Pay and Incentive Plan"
-        },
-        {
-            "time": "21:28",
-            "tag": "MERCADO",
-            "text": "DXC Technology (NYSE: DXC) grants 85,194 performance stock units to EVP"
         }
     ]
 }
