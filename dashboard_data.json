@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-01 21:55 UTC",
+        "last_updated": "2026-05-01 22:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 198.45,
-            "change": "-1.61%"
+            "change": "-1.28%"
         },
         {
             "symbol": "AMD",
             "price": 360.54,
-            "change": "-1.74%"
+            "change": "-0.09%"
         },
         {
             "symbol": "MSFT",
             "price": 414.44,
-            "change": "+1.4%"
+            "change": "-1.89%"
         },
         {
             "symbol": "CEG",
             "price": 307.81,
-            "change": "+0.55%"
+            "change": "+1.15%"
         },
         {
             "symbol": "VST",
             "price": 155.28,
-            "change": "+1.49%"
+            "change": "-1.49%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.48,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.53,
-            0.53,
-            0.52,
-            0.53,
-            0.52,
+            0.51,
             0.52,
             0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.32,
-            24.48,
-            24.24,
-            24.45,
-            24.17,
-            24.37,
-            24.51,
-            24.64,
-            24.91,
-            25.41,
-            25.41,
-            25.37
+            24.52,
+            24.66,
+            24.67,
+            24.22,
+            24.36,
+            24.38,
+            24.86,
+            24.99,
+            25.27,
+            24.87,
+            24.94,
+            25.36
         ],
         "hsd_history_software": [
-            9.76,
-            9.9,
+            10.17,
+            10.14,
+            10.15,
+            10.14,
+            10.01,
             10.08,
-            10.08,
-            10.0,
             10.05,
-            9.89,
-            9.9,
-            9.96,
-            9.84,
-            9.98,
-            9.99
+            9.97,
+            9.82,
+            9.68,
+            9.85,
+            9.88
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:08",
+            "time": "22:09",
             "tag": "MERCADO",
-            "text": "Northrop Grumman Honors Top Suppliers Driving Industrial Innovation"
+            "text": "Allegro Microsystems stock hits 52-week high at 45.39 USD By Investing.com"
         },
         {
-            "time": "21:01",
+            "time": "21:56",
             "tag": "MERCADO",
-            "text": "Jack Henry & Associates (NASDAQ:JKHY) Price Target Cut to $198.00 by Analysts at DA Davidson"
+            "text": "U.S. Space Force taps Lockheed for space-based interceptor work"
         },
         {
-            "time": "21:01",
+            "time": "21:50",
             "tag": "MERCADO",
-            "text": "Texas Instruments senior VP Gary Mark sells $3.82m in company stock"
+            "text": "EBay Soars on Report That GameStop Is Preparing a Takeover Bid"
         },
         {
-            "time": "21:00",
+            "time": "21:34",
             "tag": "MERCADO",
-            "text": "Northrop says its suppliers support 100,000 jobs and $27.8B a year"
+            "text": "IBM Shareholders Endorse Board, Pay and Incentive Plan"
         },
         {
-            "time": "20:47",
+            "time": "21:28",
             "tag": "MERCADO",
-            "text": "iPhone and Services Drive Apple to Record Q2 2026 Despite Supply Constraints"
+            "text": "DXC Technology (NYSE: DXC) grants 85,194 performance stock units to EVP"
         }
     ]
 }
