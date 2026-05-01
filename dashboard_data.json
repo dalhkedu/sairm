@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-01 11:09 UTC",
+        "last_updated": "2026-05-01 13:25 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 199.57,
-            "change": "+3.39%"
+            "change": "-0.29%"
         },
         {
             "symbol": "AMD",
             "price": 354.49,
-            "change": "+2.41%"
+            "change": "+2.51%"
         },
         {
             "symbol": "MSFT",
             "price": 407.78,
-            "change": "+3.03%"
+            "change": "+0.02%"
         },
         {
             "symbol": "CEG",
             "price": 313.0,
-            "change": "+1.96%"
+            "change": "+2.07%"
         },
         {
             "symbol": "VST",
             "price": 157.84,
-            "change": "-1.9%"
+            "change": "+1.32%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.59,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
+            0.55,
+            0.54,
+            0.53,
             0.53,
             0.52,
+            0.52,
             0.51,
             0.51,
+            0.52,
+            0.51,
+            0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            24.94,
-            24.88,
-            25.38,
-            24.96,
-            24.85,
-            25.3,
-            25.25,
-            25.08,
-            24.92,
+            26.24,
+            26.54,
+            26.33,
+            26.09,
+            26.17,
+            26.37,
+            26.0,
+            25.7,
+            25.4,
+            25.43,
             25.07,
-            24.65,
-            24.76
+            24.69
         ],
         "hsd_history_software": [
-            10.24,
-            10.35,
-            10.42,
-            10.31,
-            10.34,
-            10.15,
-            10.23,
-            10.31,
-            10.21,
-            10.2,
-            10.0,
-            9.93
+            9.54,
+            9.64,
+            9.78,
+            9.59,
+            9.55,
+            9.42,
+            9.5,
+            9.56,
+            9.7,
+            9.89,
+            9.93,
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:32",
+            "time": "12:36",
             "tag": "MERCADO",
-            "text": "One system for futures and options: Broadridge completes CQG buy"
+            "text": "Vanguard Group Inc. Sells 31,941 Shares of EPAM Systems, Inc. $EPAM"
         },
         {
-            "time": "10:26",
+            "time": "12:35",
             "tag": "MERCADO",
-            "text": "Align Technology plans $200 million stock buyback by October"
+            "text": "Research Alert: CFRA Maintains Buy Opinion On Shares Of Apple Inc."
         },
         {
-            "time": "10:22",
+            "time": "12:33",
             "tag": "MERCADO",
-            "text": "Align Technology announces $200M share repurchase"
+            "text": "Palo Alto Networks ties June 2 earnings timing to CyberArk close"
         },
         {
-            "time": "10:20",
-            "tag": "AI",
-            "text": "Palo Alto Networks changes its playbook with AI platform acquisition"
+            "time": "12:30",
+            "tag": "MERCADO",
+            "text": "908 Devices to Report First Quarter 2026 Financial Results on May 6, 2026"
         },
         {
-            "time": "10:09",
+            "time": "12:30",
             "tag": "MERCADO",
-            "text": "Jack Henry & Associates, Inc. $JKHY Shares Sold by Mitsubishi UFJ Trust & Banking Corp"
+            "text": "Littelfuse (NASDAQ:LFUS) Coverage Initiated by Analysts at Needham & Company LLC"
         }
     ]
 }
