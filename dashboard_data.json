@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-02 10:55 UTC",
+        "last_updated": "2026-05-02 11:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 198.45,
-            "change": "-0.77%"
+            "change": "-1.39%"
         },
         {
             "symbol": "AMD",
             "price": 360.54,
-            "change": "+3.12%"
+            "change": "-1.4%"
         },
         {
             "symbol": "MSFT",
             "price": 414.44,
-            "change": "-1.62%"
+            "change": "-3.07%"
         },
         {
             "symbol": "CEG",
             "price": 307.81,
-            "change": "-1.29%"
+            "change": "+1.51%"
         },
         {
             "symbol": "VST",
             "price": 155.28,
-            "change": "-0.28%"
+            "change": "+2.47%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.65,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
             0.49,
             0.5,
-            0.49,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.5
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.17,
-            23.95,
-            24.34,
-            24.17,
-            24.55,
-            24.99,
-            24.78,
-            24.4,
-            24.43,
-            24.84,
-            25.25,
-            24.93
+            25.7,
+            25.64,
+            25.59,
+            25.49,
+            25.2,
+            25.49,
+            25.21,
+            24.89,
+            24.8,
+            25.2,
+            24.98,
+            24.71
         ],
         "hsd_history_software": [
-            9.87,
-            9.91,
-            9.9,
-            9.95,
-            9.95,
-            10.05,
-            10.01,
-            10.11,
+            9.86,
+            9.8,
+            9.8,
+            9.78,
+            9.82,
+            9.82,
+            9.84,
+            10.03,
             9.92,
-            10.02,
-            10.13,
-            10.05
+            9.93,
+            9.8,
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "11:01",
+            "tag": "MERCADO",
+            "text": "Aeva Technologies Projects Revenue Growth to 36 Million Dollars"
+        },
+        {
+            "time": "10:32",
+            "tag": "MERCADO",
+            "text": "Aptiv PLC $APTV Shares Sold by Mitsubishi UFJ Trust & Banking Corp"
+        },
+        {
+            "time": "10:15",
+            "tag": "MERCADO",
+            "text": "Pictet Asset Management Holding SA Sells 18,604 Shares of Jack Henry & Associates, Inc. $JKHY"
+        },
+        {
             "time": "10:08",
             "tag": "MERCADO",
             "text": "PayPal Holdings, Inc. $PYPL Position Lifted by Gibraltar Capital Management Inc."
         },
         {
-            "time": "09:42",
+            "time": "10:06",
             "tag": "MERCADO",
-            "text": "M&T Bank Corp Trims Stake in Block, Inc. $XYZ"
-        },
-        {
-            "time": "09:17",
-            "tag": "MERCADO",
-            "text": "Davis Selected Advisers Has $495.01 Million Position in Texas Instruments Incorporated $TXN"
-        },
-        {
-            "time": "09:07",
-            "tag": "MERCADO",
-            "text": "Danske Bank A S Purchases 10,579 Shares of AMETEK, Inc. $AME"
-        },
-        {
-            "time": "08:57",
-            "tag": "MERCADO",
-            "text": "A Look At Regeneron Pharmaceuticals (REGN) Valuation After Recent Share Price Weakness"
+            "text": "NBT Bank N A NY Has $74.55 Million Stake in Apple Inc. $AAPL"
         }
     ]
 }
