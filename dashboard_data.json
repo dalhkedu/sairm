@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-02 16:53 UTC",
+        "last_updated": "2026-05-02 17:48 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 198.45,
-            "change": "+1.43%"
+            "change": "+1.13%"
         },
         {
             "symbol": "AMD",
             "price": 360.54,
-            "change": "-3.27%"
+            "change": "-2.77%"
         },
         {
             "symbol": "MSFT",
             "price": 414.44,
-            "change": "+2.13%"
+            "change": "+2.81%"
         },
         {
             "symbol": "CEG",
             "price": 307.81,
-            "change": "-0.62%"
+            "change": "+3.21%"
         },
         {
             "symbol": "VST",
             "price": 155.28,
-            "change": "-2.33%"
+            "change": "+2.14%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.4,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
+            0.49,
+            0.49,
+            0.5,
             0.51,
             0.5,
             0.5,
             0.5,
             0.5,
+            0.49,
+            0.49,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            25.01,
-            24.56,
-            24.65,
-            24.31,
-            24.09,
-            23.94,
-            24.04,
-            24.41,
-            24.89,
-            24.99,
-            24.69,
-            24.71
+            25.32,
+            25.76,
+            25.66,
+            25.26,
+            24.88,
+            24.83,
+            24.5,
+            24.97,
+            24.49,
+            24.46,
+            24.78,
+            25.26
         ],
         "hsd_history_software": [
-            10.26,
-            10.34,
-            10.47,
-            10.5,
-            10.33,
-            10.27,
-            10.2,
-            10.09,
-            10.2,
-            10.02,
-            10.0,
-            9.89
+            9.47,
+            9.36,
+            9.21,
+            9.25,
+            9.25,
+            9.41,
+            9.58,
+            9.71,
+            9.62,
+            9.61,
+            9.72,
+            9.88
         ],
         "rci_data": [
             85.0,
@@ -141,14 +141,14 @@
             "text": "Palo Alto Networks stock edges higher as the company launches blueprint event for safe AI innovation"
         },
         {
+            "time": "15:07",
+            "tag": "MERCADO",
+            "text": "Amazon.com, Inc. (AMZN): Billionaire Tom Steyer Is Bullish on This Stock"
+        },
+        {
             "time": "15:06",
             "tag": "MERCADO",
             "text": "Google Stock Price Prediction Revised: Check May 2026 Target (GOOGL)"
-        },
-        {
-            "time": "14:55",
-            "tag": "MERCADO",
-            "text": "Amazon.com, Inc. (AMZN): Billionaire Tom Steyer Is Bullish on This Stock"
         }
     ]
 }
