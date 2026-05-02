@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-02 11:49 UTC",
+        "last_updated": "2026-05-02 13:19 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 198.45,
-            "change": "-1.39%"
+            "change": "+1.24%"
         },
         {
             "symbol": "AMD",
             "price": 360.54,
-            "change": "-1.4%"
+            "change": "+1.65%"
         },
         {
             "symbol": "MSFT",
             "price": 414.44,
-            "change": "-3.07%"
+            "change": "+0.3%"
         },
         {
             "symbol": "CEG",
             "price": 307.81,
-            "change": "+1.51%"
+            "change": "-0.71%"
         },
         {
             "symbol": "VST",
             "price": 155.28,
-            "change": "+2.47%"
+            "change": "+2.13%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.51,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
+            0.53,
+            0.52,
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            25.7,
-            25.64,
-            25.59,
-            25.49,
-            25.2,
-            25.49,
-            25.21,
-            24.89,
-            24.8,
-            25.2,
-            24.98,
-            24.71
+            25.1,
+            24.69,
+            25.0,
+            24.61,
+            24.16,
+            24.6,
+            24.73,
+            24.72,
+            24.6,
+            24.66,
+            24.55,
+            24.81
         ],
         "hsd_history_software": [
-            9.86,
-            9.8,
-            9.8,
-            9.78,
-            9.82,
-            9.82,
-            9.84,
-            10.03,
-            9.92,
-            9.93,
-            9.8,
-            9.87
+            10.36,
+            10.46,
+            10.29,
+            10.2,
+            10.35,
+            10.18,
+            10.31,
+            10.14,
+            10.0,
+            9.83,
+            9.72,
+            9.86
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:01",
+            "time": "12:33",
             "tag": "MERCADO",
-            "text": "Aeva Technologies Projects Revenue Growth to 36 Million Dollars"
+            "text": "Analysts Offer Insights on Technology Companies: Advanced Micro Devices (AMD), Broadridge Financial Solutions (BR) and Asure (ASUR)"
         },
         {
-            "time": "10:32",
+            "time": "12:01",
             "tag": "MERCADO",
-            "text": "Aptiv PLC $APTV Shares Sold by Mitsubishi UFJ Trust & Banking Corp"
+            "text": "Horizon Investments LLC Grows Stock Position in Analog Devices, Inc. $ADI"
         },
         {
-            "time": "10:15",
+            "time": "12:00",
             "tag": "MERCADO",
-            "text": "Pictet Asset Management Holding SA Sells 18,604 Shares of Jack Henry & Associates, Inc. $JKHY"
+            "text": "156,731 Shares in Intuit Inc. $INTU Purchased by PFA Pension Forsikringsaktieselskab"
         },
         {
-            "time": "10:08",
+            "time": "12:00",
             "tag": "MERCADO",
-            "text": "PayPal Holdings, Inc. $PYPL Position Lifted by Gibraltar Capital Management Inc."
+            "text": "April Review: Markets Advance Through Global Volatility - Raymond James - Commentaries"
         },
         {
-            "time": "10:06",
+            "time": "11:59",
             "tag": "MERCADO",
-            "text": "NBT Bank N A NY Has $74.55 Million Stake in Apple Inc. $AAPL"
+            "text": "PFA Pension Forsikringsaktieselskab Buys New Holdings in International Business Machines Corporation $IBM"
         }
     ]
 }
