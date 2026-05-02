@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-02 15:51 UTC",
+        "last_updated": "2026-05-02 16:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 198.45,
-            "change": "-3.25%"
+            "change": "+1.43%"
         },
         {
             "symbol": "AMD",
             "price": 360.54,
-            "change": "+1.48%"
+            "change": "-3.27%"
         },
         {
             "symbol": "MSFT",
             "price": 414.44,
-            "change": "+0.98%"
+            "change": "+2.13%"
         },
         {
             "symbol": "CEG",
             "price": 307.81,
-            "change": "-1.94%"
+            "change": "-0.62%"
         },
         {
             "symbol": "VST",
             "price": 155.28,
-            "change": "+2.75%"
+            "change": "-2.33%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.46,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.52,
             0.52,
             0.51,
             0.5,
-            0.49,
-            0.49,
             0.5,
-            0.51,
-            0.51,
-            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.7,
-            24.63,
-            24.43,
-            24.25,
-            24.23,
-            24.59,
-            24.32,
-            24.77,
-            24.45,
-            24.52,
-            24.54,
-            24.94
+            25.01,
+            24.56,
+            24.65,
+            24.31,
+            24.09,
+            23.94,
+            24.04,
+            24.41,
+            24.89,
+            24.99,
+            24.69,
+            24.71
         ],
         "hsd_history_software": [
-            9.65,
-            9.67,
-            9.7,
-            9.86,
-            9.7,
-            9.54,
-            9.68,
-            9.84,
-            10.03,
-            9.94,
-            9.95,
-            9.98
+            10.26,
+            10.34,
+            10.47,
+            10.5,
+            10.33,
+            10.27,
+            10.2,
+            10.09,
+            10.2,
+            10.02,
+            10.0,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "15:54",
+            "tag": "RESULTADOS",
+            "text": "Applied Materials Reports Q2 Earnings on May 14. Here\u2019s What the $5B EPIC Bet Means for Investors"
+        },
+        {
+            "time": "15:36",
+            "tag": "MERCADO",
+            "text": "Analysts Offer Insights on Technology Companies: Tyler Technologies (TYL), Five9 (FIVN) and Aurora Innovation (AUR)"
+        },
+        {
+            "time": "15:33",
+            "tag": "AI",
+            "text": "Palo Alto Networks stock edges higher as the company launches blueprint event for safe AI innovation"
+        },
+        {
+            "time": "15:06",
+            "tag": "MERCADO",
+            "text": "Google Stock Price Prediction Revised: Check May 2026 Target (GOOGL)"
+        },
+        {
             "time": "14:55",
             "tag": "MERCADO",
             "text": "Amazon.com, Inc. (AMZN): Billionaire Tom Steyer Is Bullish on This Stock"
-        },
-        {
-            "time": "14:38",
-            "tag": "MERCADO",
-            "text": "Stocks to Watch: EBay, GameStop, Origin Materials"
-        },
-        {
-            "time": "14:31",
-            "tag": "MERCADO",
-            "text": "Texas Instruments Independent Director Mark Blinn Sells 100% Of Holding"
-        },
-        {
-            "time": "14:13",
-            "tag": "MERCADO",
-            "text": "Verizon Stock Is Up 19% Over the Past Year. Here\u2019s What a Q1 Beat Raise Signal for Investors"
-        },
-        {
-            "time": "13:45",
-            "tag": "RESULTADOS",
-            "text": "Arista Networks Stock Is Up 90% in the Past Year. Here\u2019s What Analysts Expect From Q1 Earnings"
         }
     ]
 }
