@@ -1,48 +1,48 @@
 {
     "metadata": {
-        "last_updated": "2026-05-02 07:49 UTC",
+        "last_updated": "2026-05-02 09:10 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 198.45,
-            "change": "-0.39%"
+            "change": "-1.29%"
         },
         {
             "symbol": "AMD",
             "price": 360.54,
-            "change": "-3.44%"
+            "change": "-3.38%"
         },
         {
             "symbol": "MSFT",
             "price": 414.44,
-            "change": "-2.51%"
+            "change": "-2.38%"
         },
         {
             "symbol": "CEG",
             "price": 307.81,
-            "change": "+1.85%"
+            "change": "+3.05%"
         },
         {
             "symbol": "VST",
             "price": 155.28,
-            "change": "-2.88%"
+            "change": "-3.39%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.63,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
-            0.51,
+            0.5,
+            0.5,
             0.51,
             0.5,
             0.49,
             0.49,
+            0.5,
             0.49,
             0.5,
             0.49,
@@ -51,31 +51,31 @@
         ],
         "hsd_history_hardware": [
             24.54,
-            24.76,
-            24.62,
-            24.39,
-            23.99,
-            24.09,
-            24.18,
-            24.33,
-            24.75,
-            24.66,
-            24.59,
-            24.63
+            24.97,
+            24.49,
+            24.06,
+            23.71,
+            24.01,
+            23.95,
+            24.36,
+            24.45,
+            24.79,
+            24.4,
+            24.79
         ],
         "hsd_history_software": [
-            9.86,
-            9.7,
-            9.58,
-            9.58,
-            9.65,
-            9.72,
-            9.87,
-            10.0,
-            9.89,
-            10.02,
             10.08,
-            9.89
+            10.2,
+            10.13,
+            10.0,
+            9.92,
+            9.84,
+            9.66,
+            9.77,
+            9.82,
+            9.82,
+            9.93,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:10",
+            "time": "08:11",
             "tag": "MERCADO",
-            "text": "Roundhill AVGO WeeklyPay ETF"
+            "text": "Karnataka clears 140 acres for US-based Applied Materials in Bengaluru"
         },
         {
-            "time": "06:51",
+            "time": "08:10",
             "tag": "MERCADO",
-            "text": "Wall Street Zen Upgrades Western Digital (NASDAQ:WDC) to \"Buy\""
+            "text": "Is It Too Late To Consider Camtek (CAMT) After Its 191% One Year Surge"
         },
         {
-            "time": "06:46",
-            "tag": "MERCADO",
-            "text": "Rep. Lizzie Fletcher Sells Apple Inc. (NASDAQ:AAPL) Shares"
-        },
-        {
-            "time": "06:46",
-            "tag": "MERCADO",
-            "text": "Rep. Jared Moskowitz Buys ASML Holding N.V. (NASDAQ:ASML) Shares"
-        },
-        {
-            "time": "06:39",
+            "time": "08:10",
             "tag": "AI",
-            "text": "A Look At Aehr Test Systems (AEHR) Valuation After Record US$41 Million AI Testing Order"
+            "text": "The Bull Case For Motorola Solutions (MSI) Could Change Following New Public Safety AI And RF Sensing Launches"
+        },
+        {
+            "time": "08:08",
+            "tag": "MERCADO",
+            "text": "How Investors Are Reacting To Northern Trust (NTRS) Digital Expansion, SCERS Win, and Capital Return Program"
+        },
+        {
+            "time": "08:07",
+            "tag": "MERCADO",
+            "text": "Caisse Des Depots ET Consignations Increases Holdings in Intuit Inc. $INTU"
         }
     ]
 }
