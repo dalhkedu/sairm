@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-02 17:48 UTC",
+        "last_updated": "2026-05-02 19:04 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 198.45,
-            "change": "+1.13%"
+            "change": "+3.17%"
         },
         {
             "symbol": "AMD",
             "price": 360.54,
-            "change": "-2.77%"
+            "change": "-2.37%"
         },
         {
             "symbol": "MSFT",
             "price": 414.44,
-            "change": "+2.81%"
+            "change": "-2.75%"
         },
         {
             "symbol": "CEG",
             "price": 307.81,
-            "change": "+3.21%"
+            "change": "+2.64%"
         },
         {
             "symbol": "VST",
             "price": 155.28,
-            "change": "+2.14%"
+            "change": "-0.66%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.4,
+        "cer_current": 0.59,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
             0.49,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
+            0.48,
+            0.48,
+            0.49,
             0.5,
             0.49,
             0.49,
-            0.5,
-            0.49
+            0.49,
+            0.48,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.32,
-            25.76,
-            25.66,
-            25.26,
-            24.88,
-            24.83,
-            24.5,
-            24.97,
-            24.49,
-            24.46,
+            25.4,
+            25.06,
+            24.92,
+            24.45,
+            24.82,
+            24.65,
+            25.11,
             24.78,
-            25.26
+            24.75,
+            24.79,
+            24.48,
+            24.69
         ],
         "hsd_history_software": [
-            9.47,
-            9.36,
-            9.21,
-            9.25,
-            9.25,
-            9.41,
-            9.58,
-            9.71,
-            9.62,
-            9.61,
-            9.72,
-            9.88
+            10.32,
+            10.24,
+            10.39,
+            10.26,
+            10.34,
+            10.21,
+            10.27,
+            10.25,
+            10.36,
+            10.17,
+            9.98,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:54",
-            "tag": "RESULTADOS",
-            "text": "Applied Materials Reports Q2 Earnings on May 14. Here\u2019s What the $5B EPIC Bet Means for Investors"
-        },
-        {
-            "time": "15:36",
+            "time": "18:00",
             "tag": "MERCADO",
-            "text": "Analysts Offer Insights on Technology Companies: Tyler Technologies (TYL), Five9 (FIVN) and Aurora Innovation (AUR)"
+            "text": "Missed Advanced Micro Devices' Big Move? Here's Why It's Still a Buy"
         },
         {
-            "time": "15:33",
-            "tag": "AI",
-            "text": "Palo Alto Networks stock edges higher as the company launches blueprint event for safe AI innovation"
-        },
-        {
-            "time": "15:07",
+            "time": "17:46",
             "tag": "MERCADO",
-            "text": "Amazon.com, Inc. (AMZN): Billionaire Tom Steyer Is Bullish on This Stock"
+            "text": "OPay eyes $4 billion valuation, hires Citigroup Inc., Deutsche Bank AG, JPMorgan Chase & Co. for planned US IPO"
         },
         {
-            "time": "15:06",
+            "time": "17:12",
             "tag": "MERCADO",
-            "text": "Google Stock Price Prediction Revised: Check May 2026 Target (GOOGL)"
+            "text": "VAMO ETF Volume Surges 50-Fold as TD SYNNEX Jumps"
+        },
+        {
+            "time": "17:10",
+            "tag": "MERCADO",
+            "text": "Wolfspeed (WOLF) Stock Soars 25% to 52-Week Peak Following Debt Restructuring"
+        },
+        {
+            "time": "17:05",
+            "tag": "MERCADO",
+            "text": "Telus argues customer\u2019s negligence contributed to his death during 911 service outage: lawsuit"
         }
     ]
 }
