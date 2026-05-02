@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-02 09:10 UTC",
+        "last_updated": "2026-05-02 10:55 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 198.45,
-            "change": "-1.29%"
+            "change": "-0.77%"
         },
         {
             "symbol": "AMD",
             "price": 360.54,
-            "change": "-3.38%"
+            "change": "+3.12%"
         },
         {
             "symbol": "MSFT",
             "price": 414.44,
-            "change": "-2.38%"
+            "change": "-1.62%"
         },
         {
             "symbol": "CEG",
             "price": 307.81,
-            "change": "+3.05%"
+            "change": "-1.29%"
         },
         {
             "symbol": "VST",
             "price": 155.28,
-            "change": "-3.39%"
+            "change": "-0.28%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.41,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
             0.5,
-            0.51,
-            0.5,
-            0.49,
-            0.49,
             0.5,
             0.49,
             0.5,
             0.49,
-            0.5,
-            0.49
+            0.48,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.54,
-            24.97,
-            24.49,
-            24.06,
-            23.71,
-            24.01,
+            24.17,
             23.95,
-            24.36,
-            24.45,
-            24.79,
+            24.34,
+            24.17,
+            24.55,
+            24.99,
+            24.78,
             24.4,
-            24.79
+            24.43,
+            24.84,
+            25.25,
+            24.93
         ],
         "hsd_history_software": [
-            10.08,
-            10.2,
-            10.13,
-            10.0,
+            9.87,
+            9.91,
+            9.9,
+            9.95,
+            9.95,
+            10.05,
+            10.01,
+            10.11,
             9.92,
-            9.84,
-            9.66,
-            9.77,
-            9.82,
-            9.82,
-            9.93,
-            9.99
+            10.02,
+            10.13,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:11",
+            "time": "10:08",
             "tag": "MERCADO",
-            "text": "Karnataka clears 140 acres for US-based Applied Materials in Bengaluru"
+            "text": "PayPal Holdings, Inc. $PYPL Position Lifted by Gibraltar Capital Management Inc."
         },
         {
-            "time": "08:10",
+            "time": "09:42",
             "tag": "MERCADO",
-            "text": "Is It Too Late To Consider Camtek (CAMT) After Its 191% One Year Surge"
+            "text": "M&T Bank Corp Trims Stake in Block, Inc. $XYZ"
         },
         {
-            "time": "08:10",
-            "tag": "AI",
-            "text": "The Bull Case For Motorola Solutions (MSI) Could Change Following New Public Safety AI And RF Sensing Launches"
+            "time": "09:17",
+            "tag": "MERCADO",
+            "text": "Davis Selected Advisers Has $495.01 Million Position in Texas Instruments Incorporated $TXN"
         },
         {
-            "time": "08:08",
+            "time": "09:07",
             "tag": "MERCADO",
-            "text": "How Investors Are Reacting To Northern Trust (NTRS) Digital Expansion, SCERS Win, and Capital Return Program"
+            "text": "Danske Bank A S Purchases 10,579 Shares of AMETEK, Inc. $AME"
         },
         {
-            "time": "08:07",
+            "time": "08:57",
             "tag": "MERCADO",
-            "text": "Caisse Des Depots ET Consignations Increases Holdings in Intuit Inc. $INTU"
+            "text": "A Look At Regeneron Pharmaceuticals (REGN) Valuation After Recent Share Price Weakness"
         }
     ]
 }
