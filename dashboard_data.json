@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-05-03 15:51 UTC",
+        "last_updated": "2026-05-03 16:55 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 198.45,
-            "change": "-2.77%"
+            "change": "-0.09%"
         },
         {
             "symbol": "AMD",
             "price": 360.54,
-            "change": "+2.1%"
+            "change": "+0.98%"
         },
         {
             "symbol": "MSFT",
             "price": 414.44,
-            "change": "-0.06%"
+            "change": "+2.21%"
         },
         {
             "symbol": "CEG",
             "price": 307.81,
-            "change": "+2.84%"
+            "change": "+3.34%"
         },
         {
             "symbol": "VST",
             "price": 155.28,
-            "change": "+0.87%"
+            "change": "-1.95%"
         }
     ],
     "dashboard_metrics": {
@@ -36,46 +36,46 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
             0.49,
-            0.5,
+            0.48,
             0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
             0.49,
-            0.5,
-            0.5,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            25.44,
-            25.1,
-            24.82,
+            24.88,
+            25.31,
+            25.07,
+            24.99,
+            25.22,
+            25.09,
+            24.91,
+            25.35,
+            24.99,
+            25.0,
             25.13,
-            25.04,
-            25.47,
-            25.04,
-            25.5,
-            25.1,
-            25.37,
-            24.94,
-            24.78
+            24.79
         ],
         "hsd_history_software": [
-            10.26,
-            10.17,
-            10.31,
-            10.12,
-            10.19,
-            10.38,
-            10.38,
-            10.37,
-            10.18,
-            10.13,
-            10.22,
-            10.17
+            9.45,
+            9.49,
+            9.57,
+            9.67,
+            9.6,
+            9.75,
+            9.58,
+            9.61,
+            9.65,
+            9.58,
+            9.72,
+            9.92
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:54",
-            "tag": "RESULTADOS",
-            "text": "Earnings call transcript: Alphabet Q1 2026 earnings beat expectations"
+            "time": "15:59",
+            "tag": "MERCADO",
+            "text": "Stocks to Watch This Week: AMD Reports, Disney Earns, Roblox Fights Back"
         },
         {
-            "time": "14:32",
+            "time": "15:51",
+            "tag": "MERCADO",
+            "text": "Jim Cramer on Caterpillar: \u201cIt\u2019s Got a Ton of Business From the Data Center Build-Out\u201d"
+        },
+        {
+            "time": "15:40",
             "tag": "AI",
-            "text": "Sempra\u2019s LNG and Grid Expansion for AI Power Demand Could Be A Game Changer For SRE"
+            "text": "Assessing Arista Networks (ANET) Valuation As Analyst Optimism And AI Data Center Products Gain Attention"
         },
         {
-            "time": "14:22",
+            "time": "15:31",
             "tag": "MERCADO",
-            "text": "Salesforce Stock Is Down 30% in 2026. Here\u2019s What the $25 Billion Buyback Means for CRM Investors"
+            "text": "Preformed Line Products Robotics Move Raises Questions Around Rich Valuation"
         },
         {
-            "time": "13:11",
+            "time": "15:31",
             "tag": "MERCADO",
-            "text": "Woodard & Co. Asset Management Group Inc. ADV Sells 36,694 Shares of Verizon Communications Inc. $VZ"
-        },
-        {
-            "time": "13:11",
-            "tag": "MERCADO",
-            "text": "Teradyne, Inc. $TER Shares Sold by VELA Investment Management LLC"
+            "text": "Teslas Among Fastest-Selling Used Cars, Depreciate Less Than EV Rivals"
         }
     ]
 }
