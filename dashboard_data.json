@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-03 20:49 UTC",
+        "last_updated": "2026-05-03 21:47 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 198.45,
-            "change": "+2.39%"
+            "change": "+2.55%"
         },
         {
             "symbol": "AMD",
             "price": 360.54,
-            "change": "+3.49%"
+            "change": "-2.28%"
         },
         {
             "symbol": "MSFT",
             "price": 414.44,
-            "change": "+1.7%"
+            "change": "+1.32%"
         },
         {
             "symbol": "CEG",
             "price": 307.81,
-            "change": "+3.02%"
+            "change": "+2.5%"
         },
         {
             "symbol": "VST",
             "price": 155.28,
-            "change": "-1.98%"
+            "change": "-3.38%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.44,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
+            0.51,
+            0.51,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.5
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            23.59,
-            23.22,
-            23.65,
-            23.43,
-            23.15,
-            23.26,
-            23.61,
-            23.88,
-            24.28,
+            24.68,
+            24.58,
+            24.79,
+            24.82,
+            24.49,
             24.39,
-            24.3,
-            24.61
+            24.11,
+            24.37,
+            24.76,
+            24.91,
+            25.0,
+            25.03
         ],
         "hsd_history_software": [
-            10.53,
-            10.41,
-            10.32,
             10.22,
+            10.04,
+            10.16,
+            9.98,
+            9.87,
+            10.04,
+            10.0,
+            9.96,
+            10.04,
+            10.06,
             10.26,
-            10.21,
-            10.23,
-            10.27,
-            10.23,
-            10.09,
-            10.1,
-            10.06
+            10.19
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "21:08",
+            "tag": "MERCADO",
+            "text": "A Tesla Owner Spent $73 to Sue Tesla. He Just Walked Away With $10,600"
+        },
+        {
+            "time": "20:26",
+            "tag": "RESULTADOS",
+            "text": "Applied Materials Gets 140-Acre India Approval as AMAT Earnings and China Risks Loom"
+        },
+        {
             "time": "19:07",
             "tag": "MERCADO",
             "text": "Is Alphabet Inc. (GOOGL) A Good Stock To Buy Now?"
@@ -139,16 +149,6 @@
             "time": "18:46",
             "tag": "MERCADO",
             "text": "Amazon.com Inc. \u2013 Custom silicon a structural advantage"
-        },
-        {
-            "time": "18:39",
-            "tag": "MERCADO",
-            "text": "What\u2019s Behind Goldman Sachs\u2019 Bullish Stance on WeRide Inc. (WRD)"
-        },
-        {
-            "time": "18:38",
-            "tag": "MERCADO",
-            "text": "3 Utility Stocks Built for a World of High Energy Prices and Grid Strain"
         }
     ]
 }
