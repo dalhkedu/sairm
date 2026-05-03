@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-03 21:47 UTC",
+        "last_updated": "2026-05-03 22:48 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 198.45,
-            "change": "+2.55%"
+            "change": "+0.57%"
         },
         {
             "symbol": "AMD",
             "price": 360.54,
-            "change": "-2.28%"
+            "change": "-3.23%"
         },
         {
             "symbol": "MSFT",
             "price": 414.44,
-            "change": "+1.32%"
+            "change": "+2.36%"
         },
         {
             "symbol": "CEG",
             "price": 307.81,
-            "change": "+2.5%"
+            "change": "-0.86%"
         },
         {
             "symbol": "VST",
             "price": 155.28,
-            "change": "-3.38%"
+            "change": "-0.5%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.65,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
-            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.49,
             0.5,
             0.51,
             0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.51
+            0.5,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.68,
-            24.58,
-            24.79,
+            25.68,
+            25.61,
+            25.11,
+            24.63,
+            24.96,
+            25.42,
+            25.13,
             24.82,
-            24.49,
-            24.39,
-            24.11,
-            24.37,
-            24.76,
-            24.91,
-            25.0,
-            25.03
+            25.08,
+            24.78,
+            25.24,
+            25.14
         ],
         "hsd_history_software": [
-            10.22,
-            10.04,
-            10.16,
-            9.98,
-            9.87,
-            10.04,
-            10.0,
-            9.96,
-            10.04,
+            10.2,
+            10.38,
+            10.23,
+            10.18,
+            10.29,
+            10.23,
+            10.13,
+            10.01,
+            9.92,
+            10.01,
             10.06,
-            10.26,
-            10.19
+            10.08
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "21:30",
+            "tag": "AI",
+            "text": "Dollar General stores are creating hyperspecific, real-time ads for shoppers using AI"
+        },
+        {
+            "time": "21:27",
+            "tag": "AI",
+            "text": "How Investors Are Reacting To Simon Property Group (SPG) AI Downgrade Amid Vanguard\u2019s Big Stake"
+        },
+        {
+            "time": "21:27",
+            "tag": "AI",
+            "text": "How Investors Are Reacting To Simon Property Group (SPG) AI Downgrade Amid Vanguard\u2019s Big Stake"
+        },
+        {
             "time": "21:08",
             "tag": "MERCADO",
             "text": "A Tesla Owner Spent $73 to Sue Tesla. He Just Walked Away With $10,600"
@@ -134,21 +149,6 @@
             "time": "20:26",
             "tag": "RESULTADOS",
             "text": "Applied Materials Gets 140-Acre India Approval as AMAT Earnings and China Risks Loom"
-        },
-        {
-            "time": "19:07",
-            "tag": "MERCADO",
-            "text": "Is Alphabet Inc. (GOOGL) A Good Stock To Buy Now?"
-        },
-        {
-            "time": "18:47",
-            "tag": "MERCADO",
-            "text": "Major manufacturer opens $5M Tuscaloosa facility, adds 30 jobs"
-        },
-        {
-            "time": "18:46",
-            "tag": "MERCADO",
-            "text": "Amazon.com Inc. \u2013 Custom silicon a structural advantage"
         }
     ]
 }
