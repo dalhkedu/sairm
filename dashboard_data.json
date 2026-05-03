@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-03 22:48 UTC",
+        "last_updated": "2026-05-03 23:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 198.45,
-            "change": "+0.57%"
+            "change": "+2.25%"
         },
         {
             "symbol": "AMD",
             "price": 360.54,
-            "change": "-3.23%"
+            "change": "+0.46%"
         },
         {
             "symbol": "MSFT",
             "price": 414.44,
-            "change": "+2.36%"
+            "change": "+2.54%"
         },
         {
             "symbol": "CEG",
             "price": 307.81,
-            "change": "-0.86%"
+            "change": "+2.62%"
         },
         {
             "symbol": "VST",
             "price": 155.28,
-            "change": "-0.5%"
+            "change": "+0.15%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.41,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.5,
-            0.5,
-            0.5,
+            0.47,
+            0.48,
             0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
             0.49,
             0.5,
-            0.51,
-            0.51,
             0.5,
-            0.49,
-            0.5
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.68,
-            25.61,
-            25.11,
-            24.63,
-            24.96,
             25.42,
-            25.13,
-            24.82,
-            25.08,
-            24.78,
-            25.24,
-            25.14
+            25.54,
+            25.05,
+            25.06,
+            24.7,
+            24.64,
+            24.8,
+            25.06,
+            24.74,
+            24.95,
+            24.98,
+            24.87
         ],
         "hsd_history_software": [
-            10.2,
-            10.38,
-            10.23,
-            10.18,
-            10.29,
-            10.23,
-            10.13,
-            10.01,
-            9.92,
-            10.01,
-            10.06,
-            10.08
+            9.53,
+            9.65,
+            9.72,
+            9.76,
+            9.65,
+            9.48,
+            9.38,
+            9.34,
+            9.52,
+            9.53,
+            9.69,
+            9.85
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "22:44",
+            "tag": "MERCADO",
+            "text": "Technical Reactions to INVA Trends in Macro Strategies"
+        },
+        {
+            "time": "22:39",
+            "tag": "MERCADO",
+            "text": "Elastic N.V. (ESTC) Bullish Thesis Summary"
+        },
+        {
+            "time": "21:38",
+            "tag": "MERCADO",
+            "text": "Small-Cap Stocks to Sell and Watch: 8x8, Universal Logistics, Boot Barn Analysis | May 2026 - News and Statistics"
+        },
+        {
             "time": "21:30",
             "tag": "AI",
             "text": "Dollar General stores are creating hyperspecific, real-time ads for shoppers using AI"
@@ -134,21 +149,6 @@
             "time": "21:27",
             "tag": "AI",
             "text": "How Investors Are Reacting To Simon Property Group (SPG) AI Downgrade Amid Vanguard\u2019s Big Stake"
-        },
-        {
-            "time": "21:27",
-            "tag": "AI",
-            "text": "How Investors Are Reacting To Simon Property Group (SPG) AI Downgrade Amid Vanguard\u2019s Big Stake"
-        },
-        {
-            "time": "21:08",
-            "tag": "MERCADO",
-            "text": "A Tesla Owner Spent $73 to Sue Tesla. He Just Walked Away With $10,600"
-        },
-        {
-            "time": "20:26",
-            "tag": "RESULTADOS",
-            "text": "Applied Materials Gets 140-Acre India Approval as AMAT Earnings and China Risks Loom"
         }
     ]
 }
