@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-04 11:51 UTC",
+        "last_updated": "2026-05-04 14:08 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 198.45,
-            "change": "-3.02%"
+            "price": 198.13,
+            "change": "-0.92%"
         },
         {
             "symbol": "AMD",
-            "price": 360.54,
-            "change": "+2.78%"
+            "price": 349.07,
+            "change": "-2.8%"
         },
         {
             "symbol": "MSFT",
-            "price": 414.44,
-            "change": "+3.01%"
+            "price": 414.92,
+            "change": "+0.53%"
         },
         {
             "symbol": "CEG",
-            "price": 307.81,
-            "change": "-1.95%"
+            "price": 321.74,
+            "change": "+0.38%"
         },
         {
             "symbol": "VST",
-            "price": 155.28,
-            "change": "-0.95%"
+            "price": 161.44,
+            "change": "+0.96%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.66,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.49
+            0.49,
+            0.48,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.8,
+            25.73,
+            25.42,
+            25.75,
+            25.96,
+            26.07,
+            26.28,
+            25.81,
+            25.7,
+            25.7,
             25.64,
-            25.58,
-            25.61,
-            25.57,
-            25.36,
-            25.55,
-            25.06,
-            25.37,
-            25.28,
-            24.95,
-            25.34
+            25.56,
+            25.22
         ],
         "hsd_history_software": [
-            9.73,
-            9.91,
-            10.0,
-            10.04,
-            9.87,
-            10.05,
-            10.07,
-            10.08,
+            9.35,
+            9.42,
+            9.58,
+            9.75,
+            9.65,
+            9.8,
+            9.98,
+            10.11,
+            10.2,
+            10.09,
             9.97,
-            9.78,
-            9.78,
-            9.93
+            9.87
         ],
         "rci_data": [
             85.0,
-            19.845
+            19.813
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:02",
+            "time": "13:32",
             "tag": "AI",
-            "text": "$125M bet on claims AI targets jump from 500,000 to 30M cases"
+            "text": "Oracle\u2019s Pentagon AI Deal Puts Its Cloud Bet Back in the Spotlight"
         },
         {
-            "time": "10:55",
+            "time": "13:30",
             "tag": "MERCADO",
-            "text": "Broadridge\u2019s Distributed Ledger Repo Achieves 268% Year Over Year Growth in April"
+            "text": "Qualcomm becomes Official Circuit Partner of NASCAR San Diego Weekend presented by Anduril"
         },
         {
-            "time": "10:50",
+            "time": "13:28",
             "tag": "MERCADO",
-            "text": "Montag A & Associates Inc. Reduces Stake in Cadence Design Systems, Inc. $CDNS"
+            "text": "Blackstone's data center REIT aims to raise ~$1.74B in IPO"
         },
         {
-            "time": "10:49",
+            "time": "13:24",
             "tag": "MERCADO",
-            "text": "Montag A & Associates Inc. Invests $3.02 Million in Fiserv, Inc. $FISV"
+            "text": "Tyler Technologies Announces 2026 Maine App Challenge Winners"
         },
         {
-            "time": "10:44",
+            "time": "13:20",
             "tag": "MERCADO",
-            "text": "Strs Ohio Has $16.13 Million Stake in PayPal Holdings, Inc. $PYPL"
+            "text": "This Prudential Financial Analyst Turns Bearish; Here Are Top 5 Downgrades For Monday"
         }
     ]
 }
