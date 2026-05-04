@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-04 22:04 UTC",
+        "last_updated": "2026-05-04 23:56 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 198.48,
-            "change": "+1.75%"
+            "change": "-1.37%"
         },
         {
             "symbol": "AMD",
             "price": 341.54,
-            "change": "-2.78%"
+            "change": "+3.05%"
         },
         {
             "symbol": "MSFT",
             "price": 413.62,
-            "change": "+0.12%"
+            "change": "+1.7%"
         },
         {
             "symbol": "CEG",
             "price": 321.05,
-            "change": "+2.74%"
+            "change": "-2.76%"
         },
         {
             "symbol": "VST",
             "price": 160.85,
-            "change": "-0.12%"
+            "change": "+1.17%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.44,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.5,
             0.5,
             0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
+            0.5,
             0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.17,
-            24.28,
-            24.51,
-            24.68,
-            24.53,
-            24.56,
-            24.2,
-            24.21,
-            24.66,
-            24.78,
-            24.85,
-            25.32
+            26.7,
+            26.87,
+            26.41,
+            26.14,
+            25.63,
+            25.94,
+            25.48,
+            25.78,
+            25.73,
+            25.46,
+            25.49,
+            25.42
         ],
         "hsd_history_software": [
-            9.56,
-            9.45,
-            9.27,
-            9.14,
-            9.31,
-            9.4,
             9.59,
-            9.73,
-            9.91,
-            9.91,
-            9.72,
-            9.88
+            9.69,
+            9.56,
+            9.76,
+            9.74,
+            9.89,
+            10.06,
+            9.9,
+            9.94,
+            10.07,
+            10.04,
+            9.85
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:35",
+            "time": "23:00",
             "tag": "MERCADO",
-            "text": "Hewlett Packard Enterprise Declares Dividend on Series C Preferred"
+            "text": "Got $10,000? United Rentals Could Turn the Next Decade of Construction and Energy Projects Into Serious Wealth"
         },
         {
-            "time": "21:33",
+            "time": "22:49",
             "tag": "MERCADO",
-            "text": "Worldwide Domain Name Registrations Nearing the 400 Million Mark After a Healthy 1st Quarter Detailed in Latest Verisign Industry Brief"
+            "text": "Analog Devices chair & CEO Vincent Roche sells $3.98m in stock"
         },
         {
-            "time": "21:09",
-            "tag": "AI",
-            "text": "Bridging the gap: Legacy tools gain enterprise AI support"
+            "time": "22:44",
+            "tag": "MERCADO",
+            "text": "Oracle (NYSE:ORCL) Shares Up 5% - Here's What Happened"
         },
         {
-            "time": "21:08",
+            "time": "22:43",
             "tag": "MERCADO",
-            "text": "Bragg Gaming to Release First Quarter 2026 Results on May 14"
+            "text": "International Business Machines (NYSE:IBM) Stock Price Down 1.1% - What's Next?"
         },
         {
-            "time": "21:05",
-            "tag": "MERCADO",
-            "text": "Paycom Announces Quarterly Cash Dividend"
+            "time": "22:07",
+            "tag": "RESULTADOS",
+            "text": "Eaton Stock Faces May 5 Test as AI Data Center Bets Meet Earnings Reality"
         }
     ]
 }
