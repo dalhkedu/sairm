@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-04 03:32 UTC",
+        "last_updated": "2026-05-04 06:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 198.45,
-            "change": "-2.78%"
+            "change": "+2.77%"
         },
         {
             "symbol": "AMD",
             "price": 360.54,
-            "change": "-0.84%"
+            "change": "+1.96%"
         },
         {
             "symbol": "MSFT",
             "price": 414.44,
-            "change": "+2.36%"
+            "change": "+1.17%"
         },
         {
             "symbol": "CEG",
             "price": 307.81,
-            "change": "-3.07%"
+            "change": "+1.35%"
         },
         {
             "symbol": "VST",
             "price": 155.28,
-            "change": "+0.6%"
+            "change": "-1.17%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.68,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
+            0.55,
+            0.54,
+            0.54,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.5,
-            0.51,
-            0.51,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            23.77,
-            23.52,
-            23.39,
-            23.75,
-            24.2,
-            24.03,
-            23.81,
-            24.04,
-            24.27,
-            24.56,
-            24.92,
-            24.94
+            24.12,
+            24.19,
+            24.01,
+            24.0,
+            24.44,
+            24.89,
+            25.33,
+            25.4,
+            25.33,
+            24.96,
+            24.59,
+            24.73
         ],
         "hsd_history_software": [
-            9.27,
-            9.37,
-            9.37,
-            9.53,
-            9.65,
-            9.83,
-            9.85,
-            10.01,
-            10.06,
-            10.02,
-            10.01,
-            10.0
+            9.68,
+            9.76,
+            9.87,
+            9.89,
+            9.7,
+            9.86,
+            9.96,
+            10.15,
+            10.03,
+            9.9,
+            9.99,
+            10.14
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:59",
+            "time": "05:16",
+            "tag": "MERCADO",
+            "text": "Applied Materials Announces Acquisition With NEXX"
+        },
+        {
+            "time": "05:16",
+            "tag": "MERCADO",
+            "text": "Kraft Heinz insights: Is the concept of consumer brand loyalty dead?"
+        },
+        {
+            "time": "05:16",
+            "tag": "RESULTADOS",
+            "text": "Northland Securities Comments on Teradyne Q2 Earnings"
+        },
+        {
+            "time": "05:15",
+            "tag": "MERCADO",
+            "text": "Leidos (LDOS) Declares Quarterly Dividend of $0.43"
+        },
+        {
+            "time": "05:09",
             "tag": "AI",
-            "text": "Anthropic Partners with Blackstone and Goldman Sachs for $1.5B AI Venture"
-        },
-        {
-            "time": "02:12",
-            "tag": "MERCADO",
-            "text": "G Sachs: Apple Inc. (AAPL.US) Maintains Solid Gross Margin, Should Ease Memory Cost Concerns"
-        },
-        {
-            "time": "01:45",
-            "tag": "AI",
-            "text": "Super Micro Computer Shares Plunge 33% Following DOJ Indictment Over $2.5B Illegal AI Server Shipments to China"
-        },
-        {
-            "time": "01:40",
-            "tag": "MERCADO",
-            "text": "Crown Castle Completes $8.5B Sale of Fiber and Small Cell Businesses to Zayo & EQT Unit"
-        },
-        {
-            "time": "00:19",
-            "tag": "MERCADO",
-            "text": "Applied Materials Acquires ASMPT's NEXX Business"
+            "text": "IPO-Bound Anthropic Is Reportedly Teaming Up With Blackstone, Goldman Sachs In $1.5B Joint Venture To Sell AI"
         }
     ]
 }
