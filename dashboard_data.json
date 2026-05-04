@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-05-04 18:17 UTC",
+        "last_updated": "2026-05-04 20:18 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 198.69,
-            "change": "+1.58%"
+            "price": 198.48,
+            "change": "+1.1%"
         },
         {
             "symbol": "AMD",
-            "price": 343.94,
-            "change": "-2.6%"
+            "price": 341.54,
+            "change": "+1.42%"
         },
         {
             "symbol": "MSFT",
-            "price": 414.71,
-            "change": "+2.47%"
+            "price": 413.62,
+            "change": "+1.51%"
         },
         {
             "symbol": "CEG",
-            "price": 320.69,
-            "change": "-0.08%"
+            "price": 321.05,
+            "change": "+1.32%"
         },
         {
             "symbol": "VST",
-            "price": 159.9,
-            "change": "-2.91%"
+            "price": 160.85,
+            "change": "-0.51%"
         }
     ],
     "dashboard_metrics": {
@@ -36,50 +36,50 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.49,
+            0.5,
             0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.53,
-            0.52,
-            0.52,
             0.51,
             0.5,
-            0.51
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
+            24.07,
+            24.04,
+            24.48,
+            24.69,
+            24.88,
+            24.43,
+            24.92,
+            25.27,
+            25.67,
+            25.26,
             25.12,
-            25.58,
-            25.82,
-            25.62,
-            25.85,
-            26.24,
-            26.71,
-            26.55,
-            26.18,
-            26.08,
-            25.78,
-            25.31
+            25.04
         ],
         "hsd_history_software": [
-            9.41,
-            9.36,
-            9.54,
-            9.73,
-            9.73,
-            9.67,
-            9.74,
-            9.81,
-            9.86,
-            10.04,
-            10.15,
-            9.99
+            10.06,
+            10.06,
+            10.14,
+            10.34,
+            10.36,
+            10.5,
+            10.44,
+            10.38,
+            10.25,
+            10.14,
+            10.08,
+            10.03
         ],
         "rci_data": [
             85.0,
-            19.869
+            19.848
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:32",
+            "time": "19:39",
             "tag": "MERCADO",
-            "text": "Epam Systems stock hits 52-week low at 109.61 USD"
+            "text": "Jim Cramer Says \u201cI\u2019d Press My Bet With Astera Labs\u201d"
         },
         {
-            "time": "17:21",
+            "time": "19:33",
             "tag": "MERCADO",
-            "text": "Barclays (DJP) issues AutoCallable Notes linked to Datadog shares"
+            "text": "Qualcomm announced as official circuit partner of NASCAR San Diego"
         },
         {
-            "time": "17:20",
+            "time": "19:16",
             "tag": "MERCADO",
-            "text": "Seagate and Western Digital Are a Hard Disk Drive Duopoly. Barchart Ranks the Storage Stocks Here."
+            "text": "Take-Two CEO Says \u2018Grand Theft Auto VI\u2019 Expectations Are \u2018Terrifying\u2019"
         },
         {
-            "time": "17:15",
+            "time": "19:15",
             "tag": "MERCADO",
-            "text": "CoreWeave Inc Stock (CRWV) Moved Up by 6.53% on May 4: Drivers Behind the Movement"
+            "text": "Cantor Fitzgerald Raises PT on QUALCOMM (QCOM) Stock"
         },
         {
-            "time": "17:04",
-            "tag": "AI",
-            "text": "Sanofi invests $294M to expand AI Center of Excellence in Toronto and accelerate innovation for patients"
+            "time": "19:15",
+            "tag": "MERCADO",
+            "text": "Melius Research Beings Coverage of Micron Technology (MU) Stock"
         }
     ]
 }
