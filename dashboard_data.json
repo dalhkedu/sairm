@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-05 16:25 UTC",
+        "last_updated": "2026-05-05 18:12 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 198.29,
-            "change": "-0.52%"
+            "price": 197.12,
+            "change": "+1.59%"
         },
         {
             "symbol": "AMD",
-            "price": 354.48,
-            "change": "+2.29%"
+            "price": 358.11,
+            "change": "+1.89%"
         },
         {
             "symbol": "MSFT",
-            "price": 409.37,
-            "change": "+2.08%"
+            "price": 410.5,
+            "change": "+2.16%"
         },
         {
             "symbol": "CEG",
-            "price": 323.78,
-            "change": "+0.76%"
+            "price": 321.5,
+            "change": "-2.71%"
         },
         {
             "symbol": "VST",
-            "price": 162.37,
-            "change": "-3.2%"
+            "price": 161.53,
+            "change": "-1.59%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.69,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
             0.5,
-            0.51
+            0.51,
+            0.51,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.46,
-            23.4,
-            23.51,
-            23.59,
-            23.78,
-            24.2,
-            24.15,
-            24.6,
-            24.65,
-            25.09,
-            25.08,
-            24.61
+            25.81,
+            25.97,
+            25.74,
+            26.05,
+            26.33,
+            26.36,
+            26.26,
+            25.89,
+            25.71,
+            25.81,
+            25.35,
+            25.34
         ],
         "hsd_history_software": [
-            10.37,
-            10.17,
-            10.14,
-            10.14,
-            10.1,
-            10.18,
-            10.34,
-            10.27,
-            10.15,
-            10.11,
-            9.93,
-            9.84
+            9.37,
+            9.29,
+            9.44,
+            9.45,
+            9.55,
+            9.62,
+            9.73,
+            9.85,
+            9.69,
+            9.79,
+            9.92,
+            9.93
         ],
         "rci_data": [
             85.0,
-            19.829
+            19.712000000000003
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:37",
+            "time": "17:39",
             "tag": "MERCADO",
-            "text": "Insurance claims and underwriting data now sit inside Claude"
+            "text": "SKYX Will Deploy its Technologies in its First European Hotel During a Master Renovation of The Grand Hotel du Parc, a Historical Hotel in La Bourboule, France - Part of Group OTT"
         },
         {
-            "time": "15:32",
+            "time": "17:36",
             "tag": "MERCADO",
-            "text": "Large insider sale by Reed Hastings drives Netflix stock down 3.01%"
+            "text": "Why Southern Company (SO) Is Riding Data Center Power Demand"
         },
         {
-            "time": "15:21",
-            "tag": "RESULTADOS",
-            "text": "OptimizeRx (OPRX) Projected to Post Earnings on Tuesday"
+            "time": "17:29",
+            "tag": "MERCADO",
+            "text": "Why Dominion Energy (D) Is Central to Virginia\u2019s Data Center Power Surge"
         },
         {
-            "time": "15:16",
+            "time": "17:28",
             "tag": "MERCADO",
-            "text": "Qualcomm Inc Stock (QCOM) Moved Up by 6.95% on May 5: Drivers Behind the Movement"
+            "text": "Netflix Cofounder Reed Hastings Sells Stock Worth Nearly $38M \u2013 NFLX Stock Eyes A Three-Day Red Streak"
         },
         {
-            "time": "15:15",
+            "time": "17:23",
             "tag": "MERCADO",
-            "text": "Western Digital Corp Stock (WDC) Moved Up by 8.21% on May 5: What Signal Does It Send?"
+            "text": "Iron Mountain puts ITAD at the center of its growth"
         }
     ]
 }
