@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-05 11:17 UTC",
+        "last_updated": "2026-05-05 16:25 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 198.48,
-            "change": "-1.02%"
+            "price": 198.29,
+            "change": "-0.52%"
         },
         {
             "symbol": "AMD",
-            "price": 341.54,
-            "change": "+0.99%"
+            "price": 354.48,
+            "change": "+2.29%"
         },
         {
             "symbol": "MSFT",
-            "price": 413.62,
-            "change": "+3.44%"
+            "price": 409.37,
+            "change": "+2.08%"
         },
         {
             "symbol": "CEG",
-            "price": 321.05,
-            "change": "-3.3%"
+            "price": 323.78,
+            "change": "+0.76%"
         },
         {
             "symbol": "VST",
-            "price": 160.85,
-            "change": "-2.18%"
+            "price": 162.37,
+            "change": "-3.2%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.58,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.46,
-            0.47,
             0.48,
-            0.47,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
             0.48,
             0.48,
             0.49,
             0.49,
             0.5,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            24.05,
-            24.42,
-            24.62,
-            24.98,
-            25.1,
-            25.14,
-            25.24,
-            24.93,
-            25.32,
-            24.84,
-            24.58,
-            24.97
+            23.46,
+            23.4,
+            23.51,
+            23.59,
+            23.78,
+            24.2,
+            24.15,
+            24.6,
+            24.65,
+            25.09,
+            25.08,
+            24.61
         ],
         "hsd_history_software": [
-            9.53,
-            9.39,
-            9.54,
-            9.65,
-            9.82,
-            9.75,
-            9.82,
-            9.86,
-            10.01,
-            9.99,
+            10.37,
+            10.17,
+            10.14,
+            10.14,
+            10.1,
             10.18,
-            10.1
+            10.34,
+            10.27,
+            10.15,
+            10.11,
+            9.93,
+            9.84
         ],
         "rci_data": [
             85.0,
-            19.848
+            19.829
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:33",
+            "time": "15:37",
             "tag": "MERCADO",
-            "text": "Strs Ohio Sells 9,498 Shares of Tyler Technologies, Inc. $TYL"
+            "text": "Insurance claims and underwriting data now sit inside Claude"
         },
         {
-            "time": "10:33",
+            "time": "15:32",
             "tag": "MERCADO",
-            "text": "Intact Investment Management Inc. Has $4.07 Million Stock Position in RTX Corporation $RTX"
+            "text": "Large insider sale by Reed Hastings drives Netflix stock down 3.01%"
         },
         {
-            "time": "10:33",
-            "tag": "MERCADO",
-            "text": "From wallets to brokerages, Broadridge covers tokenized-share voting"
+            "time": "15:21",
+            "tag": "RESULTADOS",
+            "text": "OptimizeRx (OPRX) Projected to Post Earnings on Tuesday"
         },
         {
-            "time": "10:31",
+            "time": "15:16",
             "tag": "MERCADO",
-            "text": "Strs Ohio Increases Position in Quanta Services, Inc. $PWR"
+            "text": "Qualcomm Inc Stock (QCOM) Moved Up by 6.95% on May 5: Drivers Behind the Movement"
         },
         {
-            "time": "10:31",
+            "time": "15:15",
             "tag": "MERCADO",
-            "text": "PFA Pension Forsikringsaktieselskab Acquires New Holdings in Paycom Software, Inc. $PAYC"
+            "text": "Western Digital Corp Stock (WDC) Moved Up by 8.21% on May 5: What Signal Does It Send?"
         }
     ]
 }
