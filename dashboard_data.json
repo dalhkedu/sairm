@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-04 23:56 UTC",
+        "last_updated": "2026-05-05 03:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 198.48,
-            "change": "-1.37%"
+            "change": "-0.75%"
         },
         {
             "symbol": "AMD",
             "price": 341.54,
-            "change": "+3.05%"
+            "change": "-2.39%"
         },
         {
             "symbol": "MSFT",
             "price": 413.62,
-            "change": "+1.7%"
+            "change": "-0.28%"
         },
         {
             "symbol": "CEG",
             "price": 321.05,
-            "change": "-2.76%"
+            "change": "+2.85%"
         },
         {
             "symbol": "VST",
             "price": 160.85,
-            "change": "+1.17%"
+            "change": "-0.51%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.62,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.48,
             0.48,
+            0.48,
+            0.48,
+            0.49,
             0.49,
             0.48,
             0.49,
             0.49,
             0.5,
             0.5,
-            0.49,
-            0.5,
-            0.49,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            26.7,
-            26.87,
-            26.41,
-            26.14,
-            25.63,
-            25.94,
-            25.48,
-            25.78,
-            25.73,
-            25.46,
-            25.49,
-            25.42
+            24.3,
+            24.08,
+            23.87,
+            23.58,
+            23.38,
+            23.25,
+            23.59,
+            23.63,
+            24.04,
+            24.4,
+            24.39,
+            24.63
         ],
         "hsd_history_software": [
-            9.59,
-            9.69,
-            9.56,
-            9.76,
-            9.74,
-            9.89,
-            10.06,
-            9.9,
-            9.94,
+            9.8,
+            10.0,
+            9.82,
+            9.65,
+            9.83,
+            9.79,
+            9.79,
+            9.79,
+            9.93,
+            10.12,
             10.07,
-            10.04,
-            9.85
+            10.08
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "23:00",
+            "time": "03:09",
             "tag": "MERCADO",
-            "text": "Got $10,000? United Rentals Could Turn the Next Decade of Construction and Energy Projects Into Serious Wealth"
+            "text": "NextNav (NN) Deepens Losses To Fund 5G PNT Push \u2013 Is The Platform Bet Justified?"
         },
         {
-            "time": "22:49",
-            "tag": "MERCADO",
-            "text": "Analog Devices chair & CEO Vincent Roche sells $3.98m in stock"
-        },
-        {
-            "time": "22:44",
-            "tag": "MERCADO",
-            "text": "Oracle (NYSE:ORCL) Shares Up 5% - Here's What Happened"
-        },
-        {
-            "time": "22:43",
-            "tag": "MERCADO",
-            "text": "International Business Machines (NYSE:IBM) Stock Price Down 1.1% - What's Next?"
-        },
-        {
-            "time": "22:07",
+            "time": "03:08",
             "tag": "RESULTADOS",
-            "text": "Eaton Stock Faces May 5 Test as AI Data Center Bets Meet Earnings Reality"
+            "text": "ON Semiconductor Corp.: Q1 Earnings Snapshot"
+        },
+        {
+            "time": "02:53",
+            "tag": "MERCADO",
+            "text": "Morgan Stanley expects Xiaomi's (01810.HK) Q1 smartphone gross margin to exceed forecasts, with average selling price reaching a new high."
+        },
+        {
+            "time": "02:46",
+            "tag": "MERCADO",
+            "text": "Apple Explores Using Intel and Samsung to Build Main Device Chips in the US"
+        },
+        {
+            "time": "02:36",
+            "tag": "MERCADO",
+            "text": "SMCI Investor Alert: Super Micro Computer Securities Fraud"
         }
     ]
 }
