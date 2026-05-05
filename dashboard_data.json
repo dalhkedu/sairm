@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-05 20:09 UTC",
+        "last_updated": "2026-05-05 22:02 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 196.5,
-            "change": "-1.98%"
+            "change": "-1.08%"
         },
         {
             "symbol": "AMD",
             "price": 355.26,
-            "change": "+1.25%"
+            "change": "-1.17%"
         },
         {
             "symbol": "MSFT",
-            "price": 411.35,
-            "change": "-2.5%"
+            "price": 411.38,
+            "change": "+2.28%"
         },
         {
             "symbol": "CEG",
             "price": 320.42,
-            "change": "-1.12%"
+            "change": "+1.37%"
         },
         {
             "symbol": "VST",
-            "price": 160.4,
-            "change": "+1.1%"
+            "price": 160.38,
+            "change": "-2.51%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.68,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
             0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
+            0.52,
             0.51,
             0.51,
             0.51,
             0.51,
             0.5,
+            0.51,
             0.5,
-            0.49
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.48,
-            26.14,
-            26.35,
-            25.91,
-            25.94,
-            25.99,
-            25.66,
-            25.23,
-            25.35,
-            25.57,
-            25.48,
-            25.35
+            25.46,
+            25.8,
+            26.03,
+            25.98,
+            26.15,
+            25.65,
+            25.28,
+            25.75,
+            25.69,
+            25.27,
+            25.28,
+            25.36
         ],
         "hsd_history_software": [
-            10.69,
-            10.7,
-            10.88,
-            10.82,
-            10.77,
-            10.58,
-            10.45,
-            10.3,
-            10.31,
-            10.27,
-            10.07,
-            10.02
+            9.96,
+            9.89,
+            9.97,
+            9.97,
+            9.92,
+            9.73,
+            9.65,
+            9.69,
+            9.79,
+            9.76,
+            9.78,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:23",
-            "tag": "MERCADO",
-            "text": "How Eli Lilly and Company has helped shape some of medicine\u2019s defining moments"
+            "time": "21:33",
+            "tag": "AI",
+            "text": "Apple settles lawsuit over late Siri AI features for $250 million"
         },
         {
-            "time": "19:20",
+            "time": "21:33",
             "tag": "MERCADO",
-            "text": "Tyler Technologies Shareholders Approve Board, Pay and Auditor"
+            "text": "Fortinet CFO Ohlgart sells $53,461 in company stock"
         },
         {
-            "time": "19:13",
+            "time": "21:29",
             "tag": "MERCADO",
-            "text": "Tech Moves: Amazon VP is now Chewy CTO; Smartsheet names CFO; Microsoft exec joins NetApp"
+            "text": "Leidos (NYSE:LDOS) Stock Price Down 7.1% - Here's Why"
         },
         {
-            "time": "19:03",
+            "time": "21:29",
             "tag": "MERCADO",
-            "text": "Duke Energy signs 2.7 gigawatts in new data center deals as pipeline surges"
+            "text": "Cadence Design Systems Insider Sold Shares Worth $337,490, According to a Recent SEC Filing"
         },
         {
-            "time": "18:59",
+            "time": "21:27",
             "tag": "MERCADO",
-            "text": "Tyler Technologies shareholders elect directors and approve proposals at annual meeting"
+            "text": "Fortinet (FTNT) CEO sells 5,355 shares following RSU vesting"
         }
     ]
 }
