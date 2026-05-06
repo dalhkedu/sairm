@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-06 20:25 UTC",
+        "last_updated": "2026-05-06 22:00 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 207.83,
-            "change": "-2.2%"
+            "change": "-1.88%"
         },
         {
             "symbol": "AMD",
             "price": 421.39,
-            "change": "-2.59%"
+            "change": "+0.58%"
         },
         {
             "symbol": "MSFT",
             "price": 413.96,
-            "change": "+3.12%"
+            "change": "-2.2%"
         },
         {
             "symbol": "CEG",
             "price": 322.78,
-            "change": "-2.63%"
+            "change": "+1.4%"
         },
         {
             "symbol": "VST",
             "price": 158.29,
-            "change": "+2.85%"
+            "change": "-1.87%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.46,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
             0.5,
             0.49,
             0.49,
             0.49,
             0.48,
-            0.48,
             0.49,
             0.49,
-            0.49,
-            0.49,
-            0.49
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.24,
-            24.03,
-            24.48,
-            24.8,
-            25.15,
-            24.87,
+            23.76,
+            24.21,
+            24.7,
+            24.93,
+            24.45,
+            24.41,
             24.42,
-            24.49,
-            24.83,
-            24.84,
-            25.05,
-            24.79
+            24.34,
+            24.44,
+            24.48,
+            24.92,
+            24.9
         ],
         "hsd_history_software": [
-            10.11,
-            10.15,
-            10.26,
-            10.45,
-            10.43,
-            10.26,
-            10.11,
-            10.01,
-            10.03,
-            9.96,
-            10.13,
-            10.04
+            9.8,
+            9.76,
+            9.9,
+            9.97,
+            10.08,
+            10.22,
+            10.39,
+            10.52,
+            10.34,
+            10.47,
+            10.27,
+            10.14
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:32",
+            "time": "21:01",
             "tag": "MERCADO",
-            "text": "Johnson & Johnson completes clinical study for OTTAVA robotic surgical system"
+            "text": "Arm Holdings Posts Fiscal 2026 Results and Hosts Webcast to Brief Investors"
         },
         {
-            "time": "19:29",
+            "time": "20:49",
             "tag": "MERCADO",
-            "text": "CDW Stock Sinks To 52-Week Low - Here's Why"
+            "text": "KLA Corp. (KLAC) Price Forecast: Advance Signals Potential Trend Continuation"
         },
         {
-            "time": "19:24",
+            "time": "20:49",
             "tag": "MERCADO",
-            "text": "Monolithic Power Systems stock reaches all-time high at 1662.0 USD"
+            "text": "Axon Shares Slip Despite Q1 Results Above Expectations"
         },
         {
-            "time": "19:23",
+            "time": "20:49",
             "tag": "MERCADO",
-            "text": "Fortinet Stock: A 389% Ransomware Surge Is Building the Bull Case for FTNT in 2026"
+            "text": "Autodesk Inc. stock underperforms Wednesday when compared to competitors"
         },
         {
-            "time": "19:22",
+            "time": "20:40",
             "tag": "MERCADO",
-            "text": "Nvidia's Status as the World's Biggest Company Could Could End Soon Thanks to a Familiar Rival"
+            "text": "Palo Alto warns of critical software bug used in firewall attacks"
         }
     ]
 }
