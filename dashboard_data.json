@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-06 03:29 UTC",
+        "last_updated": "2026-05-06 06:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 196.5,
-            "change": "-2.4%"
+            "change": "+2.95%"
         },
         {
             "symbol": "AMD",
             "price": 355.26,
-            "change": "-3.22%"
+            "change": "-0.18%"
         },
         {
             "symbol": "MSFT",
             "price": 411.38,
-            "change": "+0.64%"
+            "change": "-1.34%"
         },
         {
             "symbol": "CEG",
             "price": 320.42,
-            "change": "+2.35%"
+            "change": "-1.21%"
         },
         {
             "symbol": "VST",
             "price": 160.38,
-            "change": "+1.92%"
+            "change": "-1.03%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.65,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.46,
-            0.46,
-            0.46,
-            0.46,
-            0.46,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49
+            0.51,
+            0.51,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.55,
-            25.34,
-            25.74,
-            26.04,
-            25.93,
-            25.43,
-            24.94,
+            25.35,
+            25.2,
+            25.68,
             25.27,
-            25.34,
-            25.67,
-            25.81,
-            25.31
+            25.69,
+            25.98,
+            25.88,
+            26.22,
+            25.82,
+            25.76,
+            25.39,
+            25.43
         ],
         "hsd_history_software": [
-            9.55,
-            9.72,
-            9.77,
-            9.76,
-            9.68,
-            9.88,
-            9.78,
-            9.75,
-            9.82,
-            9.88,
+            10.02,
+            10.14,
+            10.14,
+            10.03,
+            10.11,
+            10.24,
+            10.28,
+            10.18,
             10.01,
-            10.09
+            10.04,
+            10.06,
+            10.01
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:38",
-            "tag": "RESULTADOS",
-            "text": "Kforce Q1 2026 Earnings: Revenue Hits $330.4M, EPS Beats by 18.6% - News and Statistics"
-        },
-        {
-            "time": "02:35",
+            "time": "05:52",
             "tag": "MERCADO",
-            "text": "LeMaitre Vascular Sees 2026 Sales $277M-$283M >LMAT"
+            "text": "IT Q1 Deep Dive: Gartner Maintains Margins Amid Flat Demand and Geopolitical Headwinds"
         },
         {
-            "time": "02:30",
+            "time": "05:31",
             "tag": "MERCADO",
-            "text": "Top Netflix Insiders Cash Out in Major Stock Move"
+            "text": "Still Time to Pay Up for Micron & Sandisk Stock?"
         },
         {
-            "time": "02:08",
-            "tag": "RESULTADOS",
-            "text": "Jack Henry & Associates (NASDAQ:JKHY) Posts Quarterly Earnings Results, Beats Estimates By $0.28 EPS"
+            "time": "05:09",
+            "tag": "MERCADO",
+            "text": "SS Innovations International Demonstrates seamless long-distance surgical precision powered by SSI Mantra and MantrAsana"
         },
         {
-            "time": "01:58",
-            "tag": "AI",
-            "text": "Anthropic launches private-label financial AI 'agents' on same day as Schwab enters artificial intelligence fray -- and its shares rise with LPL, Raymond James"
+            "time": "05:09",
+            "tag": "MERCADO",
+            "text": "Roadzen Announces $8 Million Registered Direct Equity Offering"
+        },
+        {
+            "time": "05:08",
+            "tag": "MERCADO",
+            "text": "Crop biostimulant firm secures \u00a32.5m ahead of first product launch"
         }
     ]
 }
