@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-07 16:53 UTC",
+        "last_updated": "2026-05-07 18:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 212.72,
-            "change": "+1.69%"
+            "price": 213.05,
+            "change": "-1.68%"
         },
         {
             "symbol": "AMD",
-            "price": 405.97,
-            "change": "+1.87%"
+            "price": 405.5,
+            "change": "+1.66%"
         },
         {
             "symbol": "MSFT",
-            "price": 421.66,
-            "change": "+0.91%"
+            "price": 423.32,
+            "change": "-0.6%"
         },
         {
             "symbol": "CEG",
-            "price": 315.38,
-            "change": "+2.23%"
+            "price": 312.54,
+            "change": "+0.55%"
         },
         {
             "symbol": "VST",
-            "price": 159.34,
-            "change": "-2.41%"
+            "price": 156.99,
+            "change": "+3.23%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.64,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
             0.5,
+            0.51,
             0.5,
             0.49,
             0.49,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            25.64,
-            25.31,
-            25.7,
-            25.28,
-            24.8,
+            24.07,
+            24.23,
+            24.63,
             25.1,
-            25.58,
-            25.14,
-            25.51,
-            25.1,
+            24.95,
+            24.97,
+            24.61,
+            24.98,
             25.12,
-            25.25
+            25.3,
+            24.99,
+            25.1
         ],
         "hsd_history_software": [
-            9.68,
-            9.8,
-            9.86,
-            9.74,
-            9.64,
-            9.64,
-            9.83,
-            9.9,
-            9.96,
-            9.89,
-            9.75,
-            9.88
+            10.07,
+            10.2,
+            10.13,
+            10.26,
+            10.18,
+            10.12,
+            10.23,
+            10.11,
+            10.01,
+            10.2,
+            10.03,
+            10.11
         ],
         "rci_data": [
             85.0,
-            21.272
+            21.305000000000003
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:02",
-            "tag": "RESULTADOS",
-            "text": "Axon Enterprise Stock Jumps After Earnings. Tasers Are Going International."
+            "time": "17:39",
+            "tag": "MERCADO",
+            "text": "GraniteShares Declares Weekly YieldBOOST ETF Distributions: COYY, TSYY, NVYY, XBTY, AMYY, TQQY, AZYY, YSPY, MTYY, PLYY, HOYY, SMYY, BBYY, FBYY, IOYY, MAAY, NUGY, SEMY, QBY, RGYY, HMYY, RTYY, COIY, ASTY, CONY, CRWY, BIOY, FINY, TECY, FIYY"
         },
         {
-            "time": "15:36",
+            "time": "17:34",
             "tag": "MERCADO",
-            "text": "Analysts\u2019 Opinions Are Mixed on These Technology Stocks: Bullish (BLSH) and Leidos Holdings (LDOS)"
+            "text": "Jack Henry & Associates (NASDAQ:JKHY) Given New $161.00 Price Target at The Goldman Sachs Group"
         },
         {
-            "time": "15:27",
+            "time": "17:30",
             "tag": "MERCADO",
-            "text": "Why Western Digital Stock Still Looks Undervalued Even After a 150% Run in 2026"
+            "text": "Uber and Ulta Beauty extend their delivery partnership (UBER:NYSE)"
         },
         {
-            "time": "15:24",
+            "time": "17:30",
             "tag": "MERCADO",
-            "text": "Materialise Q1 2026 slides: profitability surges despite flat revenue"
+            "text": "Teradyne Declares Quarterly Cash Dividend"
         },
         {
-            "time": "15:24",
+            "time": "17:17",
             "tag": "MERCADO",
-            "text": "Automation takes center stage at Smurfit Westrock \u2018superplant\u2019 in Wisconsin"
+            "text": "Quantum Motion Secures $160M to Advance Silicon CMOS Quantum Systems"
         }
     ]
 }
