@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-05-07 06:38 UTC",
+        "last_updated": "2026-05-07 09:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 207.83,
-            "change": "-1.62%"
+            "change": "-1.05%"
         },
         {
             "symbol": "AMD",
             "price": 421.39,
-            "change": "-2.99%"
+            "change": "+2.97%"
         },
         {
             "symbol": "MSFT",
             "price": 413.96,
-            "change": "+3.24%"
+            "change": "-0.99%"
         },
         {
             "symbol": "CEG",
             "price": 322.78,
-            "change": "+2.05%"
+            "change": "+1.91%"
         },
         {
             "symbol": "VST",
             "price": 158.29,
-            "change": "-1.84%"
+            "change": "+1.13%"
         }
     ],
     "dashboard_metrics": {
@@ -36,46 +36,46 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.5,
             0.5,
             0.51,
             0.51,
             0.5,
             0.5,
-            0.49,
-            0.49,
-            0.49,
             0.5,
-            0.49
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            27.44,
-            27.05,
-            26.72,
-            27.17,
-            27.05,
-            26.82,
-            26.42,
-            26.15,
-            26.46,
-            26.26,
-            25.89,
-            25.42
+            24.75,
+            24.6,
+            24.29,
+            24.31,
+            24.5,
+            24.83,
+            25.04,
+            25.28,
+            25.4,
+            25.06,
+            24.82,
+            24.8
         ],
         "hsd_history_software": [
-            9.87,
-            9.89,
-            9.83,
-            9.65,
-            9.71,
-            9.75,
-            9.82,
-            9.97,
-            9.96,
-            10.06,
+            10.31,
+            10.18,
+            10.31,
+            10.23,
+            10.08,
             10.11,
-            9.96
+            10.21,
+            10.08,
+            10.18,
+            10.16,
+            10.21,
+            10.01
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:03",
+            "time": "09:11",
             "tag": "MERCADO",
-            "text": "DTE Energy Sees 8.4 GW Data Center Opportunity, Expands Grid Investments"
+            "text": "Alpha&Omega Semiconductor 3Q Loss $13.8M >AOSL"
         },
         {
-            "time": "05:48",
-            "tag": "AI",
-            "text": "SAP acquires Prior Labs to establish frontier AI lab in Europe"
-        },
-        {
-            "time": "05:40",
+            "time": "09:05",
             "tag": "MERCADO",
-            "text": "Insider Sell: Alan Reid Sells 1,000 Shares of Sanmina Corp (SANM)"
+            "text": "Insulet Corporation (PODD) PT Lowered to $200 at Bernstein SocGen Group, 'shares fall; what now?'"
         },
         {
-            "time": "05:39",
-            "tag": "AI",
-            "text": "Rambus unveils PCIe 7.0 switch IP aimed at scaling AI and data centre performance"
-        },
-        {
-            "time": "05:38",
+            "time": "08:51",
             "tag": "MERCADO",
-            "text": "Why Redwire Stock Fell After a Record Backlog: Q1 Miss and $350 Million Share Sale Plan"
+            "text": "Gateway Investment Advisers LLC Sells 13,711 Shares of Analog Devices, Inc. $ADI"
+        },
+        {
+            "time": "08:50",
+            "tag": "MERCADO",
+            "text": "Apple Inc. $AAPL Shares Purchased by Sunpointe LLC"
+        },
+        {
+            "time": "08:50",
+            "tag": "MERCADO",
+            "text": "Lbp Am Sa Lowers Position in Microsoft Corporation $MSFT"
         }
     ]
 }
