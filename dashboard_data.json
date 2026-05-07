@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-06 23:01 UTC",
+        "last_updated": "2026-05-07 03:29 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 207.83,
-            "change": "-0.41%"
+            "change": "+3.26%"
         },
         {
             "symbol": "AMD",
             "price": 421.39,
-            "change": "+2.87%"
+            "change": "-1.03%"
         },
         {
             "symbol": "MSFT",
             "price": 413.96,
-            "change": "-0.07%"
+            "change": "+2.26%"
         },
         {
             "symbol": "CEG",
             "price": 322.78,
-            "change": "-2.03%"
+            "change": "-0.39%"
         },
         {
             "symbol": "VST",
             "price": 158.29,
-            "change": "-2.71%"
+            "change": "-1.26%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.46,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.45,
+            0.46,
+            0.47,
+            0.47,
             0.47,
             0.47,
             0.48,
             0.48,
             0.49,
-            0.48,
             0.49,
             0.49,
-            0.5,
-            0.5,
-            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.34,
-            25.69,
-            25.5,
-            25.16,
-            24.96,
-            24.9,
-            25.23,
-            25.24,
-            25.34,
-            25.03,
-            25.34,
-            25.29
+            25.83,
+            26.22,
+            25.73,
+            25.44,
+            25.74,
+            25.56,
+            25.12,
+            25.33,
+            25.4,
+            25.48,
+            25.45,
+            25.07
         ],
         "hsd_history_software": [
+            10.39,
+            10.25,
+            10.1,
+            10.25,
+            10.19,
+            10.21,
+            10.33,
+            10.22,
             10.05,
-            10.06,
-            10.15,
-            10.27,
-            10.43,
-            10.23,
-            10.27,
-            10.27,
-            10.17,
-            10.03,
-            9.89,
-            10.06
+            10.21,
+            10.26,
+            10.19
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:07",
+            "time": "02:39",
             "tag": "MERCADO",
-            "text": "Axon raises annual revenue growth forecast on strong software, security device demand"
+            "text": "Kulicke & Soffa (NASDAQ: KLIC) Q2 revenue rises to $242.6M"
         },
         {
-            "time": "22:03",
+            "time": "02:17",
             "tag": "MERCADO",
-            "text": "Charles Schwab director sells over $914k in company stock"
+            "text": "Jeff Zhou Sells 500 Shares of Monolithic Power Systems (NASDAQ:MPWR) Stock"
         },
         {
-            "time": "22:03",
-            "tag": "MERCADO",
-            "text": "Rockwell Automation SVP Nardecchia sells $1.13m in stock"
+            "time": "02:01",
+            "tag": "AI",
+            "text": "How Citigroup\u2019s Profitability, AI, and Capital Plans At Investor Day Have Changed Its Investment Story (C)"
         },
         {
-            "time": "21:56",
+            "time": "02:00",
             "tag": "MERCADO",
-            "text": "PTC lifts annual revenue forecast on steady software demand"
+            "text": "Littelfuse, Inc. (NASDAQ:LFUS) Announces Quarterly Dividend of $0.75"
         },
         {
-            "time": "21:55",
-            "tag": "MERCADO",
-            "text": "A Look At Microchip Technology (MCHP) Valuation After Its Recent Share Price Surge"
+            "time": "01:40",
+            "tag": "RESULTADOS",
+            "text": "Ethos Technologies Inc. Shines In Hyper-Growth Earnings Call"
         }
     ]
 }
