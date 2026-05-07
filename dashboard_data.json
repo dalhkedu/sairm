@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-07 18:26 UTC",
+        "last_updated": "2026-05-07 20:16 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 213.05,
-            "change": "-1.68%"
+            "price": 211.5,
+            "change": "+2.37%"
         },
         {
             "symbol": "AMD",
-            "price": 405.5,
-            "change": "+1.66%"
+            "price": 408.46,
+            "change": "+0.04%"
         },
         {
             "symbol": "MSFT",
-            "price": 423.32,
-            "change": "-0.6%"
+            "price": 420.77,
+            "change": "+2.02%"
         },
         {
             "symbol": "CEG",
-            "price": 312.54,
-            "change": "+0.55%"
+            "price": 311.28,
+            "change": "+3.15%"
         },
         {
             "symbol": "VST",
-            "price": 156.99,
-            "change": "+3.23%"
+            "price": 153.95,
+            "change": "-2.76%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.41,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
+            0.5,
             0.5,
             0.51,
             0.5,
-            0.49,
+            0.5,
             0.49,
             0.5,
-            0.49
+            0.49,
+            0.5,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.07,
-            24.23,
-            24.63,
-            25.1,
-            24.95,
-            24.97,
-            24.61,
-            24.98,
-            25.12,
-            25.3,
-            24.99,
-            25.1
+            24.83,
+            24.91,
+            24.69,
+            24.86,
+            25.21,
+            24.89,
+            24.82,
+            25.24,
+            24.85,
+            25.05,
+            25.55,
+            25.23
         ],
         "hsd_history_software": [
-            10.07,
+            10.29,
             10.2,
-            10.13,
-            10.26,
-            10.18,
-            10.12,
-            10.23,
             10.11,
-            10.01,
-            10.2,
-            10.03,
-            10.11
+            10.09,
+            9.92,
+            9.96,
+            9.84,
+            9.77,
+            9.78,
+            9.79,
+            9.98,
+            9.95
         ],
         "rci_data": [
             85.0,
-            21.305000000000003
+            21.15
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:39",
-            "tag": "MERCADO",
-            "text": "GraniteShares Declares Weekly YieldBOOST ETF Distributions: COYY, TSYY, NVYY, XBTY, AMYY, TQQY, AZYY, YSPY, MTYY, PLYY, HOYY, SMYY, BBYY, FBYY, IOYY, MAAY, NUGY, SEMY, QBY, RGYY, HMYY, RTYY, COIY, ASTY, CONY, CRWY, BIOY, FINY, TECY, FIYY"
+            "time": "19:38",
+            "tag": "AI",
+            "text": "Japan's SoftBank explores homegrown AI servers with Nvidia, Foxconn, Nikkei reports"
         },
         {
-            "time": "17:34",
+            "time": "19:30",
             "tag": "MERCADO",
-            "text": "Jack Henry & Associates (NASDAQ:JKHY) Given New $161.00 Price Target at The Goldman Sachs Group"
+            "text": "Ubiquiti faces earnings test as valuation concerns mount By Investing.com"
         },
         {
-            "time": "17:30",
+            "time": "19:18",
             "tag": "MERCADO",
-            "text": "Uber and Ulta Beauty extend their delivery partnership (UBER:NYSE)"
+            "text": "Intuit Inc Stock (INTU) Moved Up by 4.90% on May 7: Facts Behind the Movement"
         },
         {
-            "time": "17:30",
-            "tag": "MERCADO",
-            "text": "Teradyne Declares Quarterly Cash Dividend"
+            "time": "19:14",
+            "tag": "AI",
+            "text": "IBM touts AI productivity gains and quantum milestones at Think conference"
         },
         {
-            "time": "17:17",
-            "tag": "MERCADO",
-            "text": "Quantum Motion Secures $160M to Advance Silicon CMOS Quantum Systems"
+            "time": "19:04",
+            "tag": "AI",
+            "text": "Layoffs Don\u2019t Deliver AI ROI\u2014Redeploying Workers Does, Data Shows"
         }
     ]
 }
