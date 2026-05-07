@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-07 11:50 UTC",
+        "last_updated": "2026-05-07 14:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 207.83,
-            "change": "-0.72%"
+            "price": 213.13,
+            "change": "+0.67%"
         },
         {
             "symbol": "AMD",
-            "price": 421.39,
-            "change": "-3.19%"
+            "price": 420.55,
+            "change": "-0.45%"
         },
         {
             "symbol": "MSFT",
-            "price": 413.96,
-            "change": "-1.56%"
+            "price": 423.62,
+            "change": "+0.91%"
         },
         {
             "symbol": "CEG",
-            "price": 322.78,
-            "change": "+2.3%"
+            "price": 318.49,
+            "change": "+0.49%"
         },
         {
             "symbol": "VST",
-            "price": 158.29,
-            "change": "-1.98%"
+            "price": 159.0,
+            "change": "-0.14%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.5,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.48,
+            0.48,
             0.47,
             0.47,
-            0.47,
-            0.47,
+            0.48,
             0.48,
             0.49,
             0.49,
             0.49,
-            0.48,
-            0.49,
-            0.49
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.66,
-            24.31,
-            24.28,
-            24.02,
-            24.14,
-            24.59,
-            24.81,
-            24.88,
-            24.49,
-            24.92,
-            24.7,
-            25.14
+            22.64,
+            23.06,
+            23.33,
+            23.16,
+            23.55,
+            23.82,
+            24.1,
+            24.57,
+            24.89,
+            25.2,
+            24.9,
+            25.03
         ],
         "hsd_history_software": [
-            9.48,
-            9.57,
-            9.65,
-            9.65,
-            9.8,
-            9.91,
-            10.02,
-            9.93,
-            10.13,
-            9.96,
+            9.9,
+            9.79,
+            9.98,
+            9.86,
+            9.81,
+            9.95,
+            9.97,
             10.05,
-            9.95
+            10.05,
+            10.07,
+            10.07,
+            9.96
         ],
         "rci_data": [
             85.0,
-            20.783
+            21.313
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:07",
-            "tag": "MERCADO",
-            "text": "J&J\u2019s Ottava robot meets goals in gastric bypass study"
-        },
-        {
-            "time": "11:07",
-            "tag": "MERCADO",
-            "text": "BMO Capital Markets reiterated coverage on Paycom Software with a new price target"
-        },
-        {
-            "time": "11:06",
-            "tag": "MERCADO",
-            "text": "Bernstein cuts Criteo stock price target to $35 on outlook cut"
-        },
-        {
-            "time": "11:05",
+            "time": "13:32",
             "tag": "AI",
-            "text": "AI spending rises in factories, but skills gaps block digital progress"
+            "text": "Raymond James launches AI Academy, extends its advisor tech push"
         },
         {
-            "time": "11:02",
-            "tag": "AI",
-            "text": "Cramer Defends Massive AI Spending Spree: 'The Demand Already Exists'"
+            "time": "13:28",
+            "tag": "MERCADO",
+            "text": "Moody\u2019s Stock Is Down 18% From Its 52-Week High. Here\u2019s the Path to $597 by 2028"
+        },
+        {
+            "time": "13:19",
+            "tag": "MERCADO",
+            "text": "Is Amazon.com (AMZN) the Best Strong Buy S&P 500 Stock to Invest In?"
+        },
+        {
+            "time": "13:19",
+            "tag": "MERCADO",
+            "text": "Applied Materials Targets $3.5 Billion Electrochemical Deposition Market With NEXX Acquisition"
+        },
+        {
+            "time": "13:11",
+            "tag": "MERCADO",
+            "text": "T-Mobile US (TMUS) Executive Buys $1.0M in Shares"
         }
     ]
 }
