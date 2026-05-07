@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-07 03:29 UTC",
+        "last_updated": "2026-05-07 06:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 207.83,
-            "change": "+3.26%"
+            "change": "-1.62%"
         },
         {
             "symbol": "AMD",
             "price": 421.39,
-            "change": "-1.03%"
+            "change": "-2.99%"
         },
         {
             "symbol": "MSFT",
             "price": 413.96,
-            "change": "+2.26%"
+            "change": "+3.24%"
         },
         {
             "symbol": "CEG",
             "price": 322.78,
-            "change": "-0.39%"
+            "change": "+2.05%"
         },
         {
             "symbol": "VST",
             "price": 158.29,
-            "change": "-1.26%"
+            "change": "-1.84%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.54,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.45,
-            0.46,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
+            0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
             0.49,
             0.49,
             0.49,
-            0.5
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.83,
-            26.22,
-            25.73,
-            25.44,
-            25.74,
-            25.56,
-            25.12,
-            25.33,
-            25.4,
-            25.48,
-            25.45,
-            25.07
+            27.44,
+            27.05,
+            26.72,
+            27.17,
+            27.05,
+            26.82,
+            26.42,
+            26.15,
+            26.46,
+            26.26,
+            25.89,
+            25.42
         ],
         "hsd_history_software": [
-            10.39,
-            10.25,
-            10.1,
-            10.25,
-            10.19,
-            10.21,
-            10.33,
-            10.22,
-            10.05,
-            10.21,
-            10.26,
-            10.19
+            9.87,
+            9.89,
+            9.83,
+            9.65,
+            9.71,
+            9.75,
+            9.82,
+            9.97,
+            9.96,
+            10.06,
+            10.11,
+            9.96
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:39",
+            "time": "06:03",
             "tag": "MERCADO",
-            "text": "Kulicke & Soffa (NASDAQ: KLIC) Q2 revenue rises to $242.6M"
+            "text": "DTE Energy Sees 8.4 GW Data Center Opportunity, Expands Grid Investments"
         },
         {
-            "time": "02:17",
-            "tag": "MERCADO",
-            "text": "Jeff Zhou Sells 500 Shares of Monolithic Power Systems (NASDAQ:MPWR) Stock"
-        },
-        {
-            "time": "02:01",
+            "time": "05:48",
             "tag": "AI",
-            "text": "How Citigroup\u2019s Profitability, AI, and Capital Plans At Investor Day Have Changed Its Investment Story (C)"
+            "text": "SAP acquires Prior Labs to establish frontier AI lab in Europe"
         },
         {
-            "time": "02:00",
+            "time": "05:40",
             "tag": "MERCADO",
-            "text": "Littelfuse, Inc. (NASDAQ:LFUS) Announces Quarterly Dividend of $0.75"
+            "text": "Insider Sell: Alan Reid Sells 1,000 Shares of Sanmina Corp (SANM)"
         },
         {
-            "time": "01:40",
-            "tag": "RESULTADOS",
-            "text": "Ethos Technologies Inc. Shines In Hyper-Growth Earnings Call"
+            "time": "05:39",
+            "tag": "AI",
+            "text": "Rambus unveils PCIe 7.0 switch IP aimed at scaling AI and data centre performance"
+        },
+        {
+            "time": "05:38",
+            "tag": "MERCADO",
+            "text": "Why Redwire Stock Fell After a Record Backlog: Q1 Miss and $350 Million Share Sale Plan"
         }
     ]
 }
