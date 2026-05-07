@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-07 09:35 UTC",
+        "last_updated": "2026-05-07 11:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 207.83,
-            "change": "-1.05%"
+            "change": "-0.72%"
         },
         {
             "symbol": "AMD",
             "price": 421.39,
-            "change": "+2.97%"
+            "change": "-3.19%"
         },
         {
             "symbol": "MSFT",
             "price": 413.96,
-            "change": "-0.99%"
+            "change": "-1.56%"
         },
         {
             "symbol": "CEG",
             "price": 322.78,
-            "change": "+1.91%"
+            "change": "+2.3%"
         },
         {
             "symbol": "VST",
             "price": 158.29,
-            "change": "+1.13%"
+            "change": "-1.98%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.59,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.5,
-            0.5
+            0.48,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.75,
-            24.6,
-            24.29,
+            24.66,
             24.31,
-            24.5,
-            24.83,
-            25.04,
-            25.28,
-            25.4,
-            25.06,
-            24.82,
-            24.8
+            24.28,
+            24.02,
+            24.14,
+            24.59,
+            24.81,
+            24.88,
+            24.49,
+            24.92,
+            24.7,
+            25.14
         ],
         "hsd_history_software": [
-            10.31,
-            10.18,
-            10.31,
-            10.23,
-            10.08,
-            10.11,
-            10.21,
-            10.08,
-            10.18,
-            10.16,
-            10.21,
-            10.01
+            9.48,
+            9.57,
+            9.65,
+            9.65,
+            9.8,
+            9.91,
+            10.02,
+            9.93,
+            10.13,
+            9.96,
+            10.05,
+            9.95
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:11",
+            "time": "11:07",
             "tag": "MERCADO",
-            "text": "Alpha&Omega Semiconductor 3Q Loss $13.8M >AOSL"
+            "text": "J&J\u2019s Ottava robot meets goals in gastric bypass study"
         },
         {
-            "time": "09:05",
+            "time": "11:07",
             "tag": "MERCADO",
-            "text": "Insulet Corporation (PODD) PT Lowered to $200 at Bernstein SocGen Group, 'shares fall; what now?'"
+            "text": "BMO Capital Markets reiterated coverage on Paycom Software with a new price target"
         },
         {
-            "time": "08:51",
+            "time": "11:06",
             "tag": "MERCADO",
-            "text": "Gateway Investment Advisers LLC Sells 13,711 Shares of Analog Devices, Inc. $ADI"
+            "text": "Bernstein cuts Criteo stock price target to $35 on outlook cut"
         },
         {
-            "time": "08:50",
-            "tag": "MERCADO",
-            "text": "Apple Inc. $AAPL Shares Purchased by Sunpointe LLC"
+            "time": "11:05",
+            "tag": "AI",
+            "text": "AI spending rises in factories, but skills gaps block digital progress"
         },
         {
-            "time": "08:50",
-            "tag": "MERCADO",
-            "text": "Lbp Am Sa Lowers Position in Microsoft Corporation $MSFT"
+            "time": "11:02",
+            "tag": "AI",
+            "text": "Cramer Defends Massive AI Spending Spree: 'The Demand Already Exists'"
         }
     ]
 }
