@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-07 14:21 UTC",
+        "last_updated": "2026-05-07 16:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 213.13,
-            "change": "+0.67%"
+            "price": 212.72,
+            "change": "+1.69%"
         },
         {
             "symbol": "AMD",
-            "price": 420.55,
-            "change": "-0.45%"
+            "price": 405.97,
+            "change": "+1.87%"
         },
         {
             "symbol": "MSFT",
-            "price": 423.62,
+            "price": 421.66,
             "change": "+0.91%"
         },
         {
             "symbol": "CEG",
-            "price": 318.49,
-            "change": "+0.49%"
+            "price": 315.38,
+            "change": "+2.23%"
         },
         {
             "symbol": "VST",
-            "price": 159.0,
-            "change": "-0.14%"
+            "price": 159.34,
+            "change": "-2.41%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.44,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
             0.49,
             0.49,
-            0.49,
+            0.5,
+            0.5,
             0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            22.64,
-            23.06,
-            23.33,
-            23.16,
-            23.55,
-            23.82,
-            24.1,
-            24.57,
-            24.89,
-            25.2,
-            24.9,
-            25.03
+            25.64,
+            25.31,
+            25.7,
+            25.28,
+            24.8,
+            25.1,
+            25.58,
+            25.14,
+            25.51,
+            25.1,
+            25.12,
+            25.25
         ],
         "hsd_history_software": [
-            9.9,
-            9.79,
-            9.98,
+            9.68,
+            9.8,
             9.86,
-            9.81,
-            9.95,
-            9.97,
-            10.05,
-            10.05,
-            10.07,
-            10.07,
-            9.96
+            9.74,
+            9.64,
+            9.64,
+            9.83,
+            9.9,
+            9.96,
+            9.89,
+            9.75,
+            9.88
         ],
         "rci_data": [
             85.0,
-            21.313
+            21.272
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:32",
-            "tag": "AI",
-            "text": "Raymond James launches AI Academy, extends its advisor tech push"
+            "time": "16:02",
+            "tag": "RESULTADOS",
+            "text": "Axon Enterprise Stock Jumps After Earnings. Tasers Are Going International."
         },
         {
-            "time": "13:28",
+            "time": "15:36",
             "tag": "MERCADO",
-            "text": "Moody\u2019s Stock Is Down 18% From Its 52-Week High. Here\u2019s the Path to $597 by 2028"
+            "text": "Analysts\u2019 Opinions Are Mixed on These Technology Stocks: Bullish (BLSH) and Leidos Holdings (LDOS)"
         },
         {
-            "time": "13:19",
+            "time": "15:27",
             "tag": "MERCADO",
-            "text": "Is Amazon.com (AMZN) the Best Strong Buy S&P 500 Stock to Invest In?"
+            "text": "Why Western Digital Stock Still Looks Undervalued Even After a 150% Run in 2026"
         },
         {
-            "time": "13:19",
+            "time": "15:24",
             "tag": "MERCADO",
-            "text": "Applied Materials Targets $3.5 Billion Electrochemical Deposition Market With NEXX Acquisition"
+            "text": "Materialise Q1 2026 slides: profitability surges despite flat revenue"
         },
         {
-            "time": "13:11",
+            "time": "15:24",
             "tag": "MERCADO",
-            "text": "T-Mobile US (TMUS) Executive Buys $1.0M in Shares"
+            "text": "Automation takes center stage at Smurfit Westrock \u2018superplant\u2019 in Wisconsin"
         }
     ]
 }
