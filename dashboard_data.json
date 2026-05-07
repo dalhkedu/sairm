@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-07 22:02 UTC",
+        "last_updated": "2026-05-07 23:55 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 211.5,
-            "change": "+0.95%"
+            "change": "-3.21%"
         },
         {
             "symbol": "AMD",
             "price": 408.46,
-            "change": "+1.89%"
+            "change": "+0.99%"
         },
         {
             "symbol": "MSFT",
             "price": 420.77,
-            "change": "-3.33%"
+            "change": "+0.26%"
         },
         {
             "symbol": "CEG",
             "price": 311.28,
-            "change": "-2.67%"
+            "change": "-0.2%"
         },
         {
             "symbol": "VST",
             "price": 153.95,
-            "change": "+1.98%"
+            "change": "-0.16%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.51,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.5,
+            0.5,
+            0.51,
             0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
             0.51,
             0.51,
             0.5,
-            0.5,
-            0.49
+            0.49,
+            0.48,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.59,
-            25.95,
-            26.0,
-            25.55,
-            25.4,
-            25.32,
-            25.06,
-            24.91,
-            25.25,
-            25.69,
-            25.22,
-            25.34
+            22.83,
+            22.95,
+            22.7,
+            23.08,
+            22.72,
+            22.76,
+            22.95,
+            23.19,
+            23.64,
+            24.07,
+            24.17,
+            24.65
         ],
         "hsd_history_software": [
-            9.21,
-            9.03,
-            9.16,
-            9.25,
-            9.36,
-            9.47,
-            9.44,
-            9.53,
-            9.68,
-            9.84,
-            10.03,
-            10.0
+            9.89,
+            9.81,
+            9.93,
+            9.91,
+            9.92,
+            9.89,
+            9.85,
+            9.95,
+            10.04,
+            9.96,
+            9.93,
+            10.02
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:25",
-            "tag": "RESULTADOS",
-            "text": "Microchip Technology (NASDAQ:MCHP) Releases Q1 2027 Earnings Guidance"
+            "time": "22:42",
+            "tag": "MERCADO",
+            "text": "Freightos Conference: New CEO, Q1 Transactions Miss, and 15% Workforce Cut to Boost Profit Path"
         },
         {
-            "time": "21:20",
+            "time": "22:42",
             "tag": "MERCADO",
-            "text": "Paycom jumps after Q1 results, 2026 outlook reiteration, and a sizable share repurchase"
+            "text": "F5 (NASDAQ:FFIV) CEO Francois Locoh-Donou Sells 3,783 Shares"
         },
         {
-            "time": "21:14",
+            "time": "22:42",
             "tag": "MERCADO",
-            "text": "Align Technology Inc. stock underperforms Thursday when compared to competitors"
+            "text": "Equinix (NASDAQ:EQIX) Chairman Sells $5,669,241.52 in Stock"
         },
         {
-            "time": "21:07",
+            "time": "22:42",
             "tag": "MERCADO",
-            "text": "Motorola Solutions raises annual forecasts on robust demand"
+            "text": "Cadence Design Systems (NASDAQ:CDNS) CFO John Wall Sells 5,000 Shares"
         },
         {
-            "time": "21:05",
+            "time": "22:41",
             "tag": "MERCADO",
-            "text": "12 Information Technology Stocks Moving In Thursday's After-Market Session"
+            "text": "KLA Announces Ten-for-One Stock Split and Dividend Boost"
         }
     ]
 }
