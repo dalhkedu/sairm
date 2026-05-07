@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-07 20:16 UTC",
+        "last_updated": "2026-05-07 22:02 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 211.5,
-            "change": "+2.37%"
+            "change": "+0.95%"
         },
         {
             "symbol": "AMD",
             "price": 408.46,
-            "change": "+0.04%"
+            "change": "+1.89%"
         },
         {
             "symbol": "MSFT",
             "price": 420.77,
-            "change": "+2.02%"
+            "change": "-3.33%"
         },
         {
             "symbol": "CEG",
             "price": 311.28,
-            "change": "+3.15%"
+            "change": "-2.67%"
         },
         {
             "symbol": "VST",
             "price": 153.95,
-            "change": "-2.76%"
+            "change": "+1.98%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.45,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.5,
-            0.5,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.51,
             0.5,
             0.5,
-            0.49,
-            0.5,
-            0.49,
-            0.5,
-            0.49,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            24.83,
-            24.91,
-            24.69,
-            24.86,
-            25.21,
-            24.89,
-            24.82,
-            25.24,
-            24.85,
-            25.05,
+            25.59,
+            25.95,
+            26.0,
             25.55,
-            25.23
+            25.4,
+            25.32,
+            25.06,
+            24.91,
+            25.25,
+            25.69,
+            25.22,
+            25.34
         ],
         "hsd_history_software": [
-            10.29,
-            10.2,
-            10.11,
-            10.09,
-            9.92,
-            9.96,
+            9.21,
+            9.03,
+            9.16,
+            9.25,
+            9.36,
+            9.47,
+            9.44,
+            9.53,
+            9.68,
             9.84,
-            9.77,
-            9.78,
-            9.79,
-            9.98,
-            9.95
+            10.03,
+            10.0
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:38",
-            "tag": "AI",
-            "text": "Japan's SoftBank explores homegrown AI servers with Nvidia, Foxconn, Nikkei reports"
+            "time": "21:25",
+            "tag": "RESULTADOS",
+            "text": "Microchip Technology (NASDAQ:MCHP) Releases Q1 2027 Earnings Guidance"
         },
         {
-            "time": "19:30",
+            "time": "21:20",
             "tag": "MERCADO",
-            "text": "Ubiquiti faces earnings test as valuation concerns mount By Investing.com"
+            "text": "Paycom jumps after Q1 results, 2026 outlook reiteration, and a sizable share repurchase"
         },
         {
-            "time": "19:18",
+            "time": "21:14",
             "tag": "MERCADO",
-            "text": "Intuit Inc Stock (INTU) Moved Up by 4.90% on May 7: Facts Behind the Movement"
+            "text": "Align Technology Inc. stock underperforms Thursday when compared to competitors"
         },
         {
-            "time": "19:14",
-            "tag": "AI",
-            "text": "IBM touts AI productivity gains and quantum milestones at Think conference"
+            "time": "21:07",
+            "tag": "MERCADO",
+            "text": "Motorola Solutions raises annual forecasts on robust demand"
         },
         {
-            "time": "19:04",
-            "tag": "AI",
-            "text": "Layoffs Don\u2019t Deliver AI ROI\u2014Redeploying Workers Does, Data Shows"
+            "time": "21:05",
+            "tag": "MERCADO",
+            "text": "12 Information Technology Stocks Moving In Thursday's After-Market Session"
         }
     ]
 }
