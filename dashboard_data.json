@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-07 23:55 UTC",
+        "last_updated": "2026-05-08 03:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 211.5,
-            "change": "-3.21%"
+            "change": "+2.58%"
         },
         {
             "symbol": "AMD",
             "price": 408.46,
-            "change": "+0.99%"
+            "change": "+3.2%"
         },
         {
             "symbol": "MSFT",
             "price": 420.77,
-            "change": "+0.26%"
+            "change": "-2.65%"
         },
         {
             "symbol": "CEG",
             "price": 311.28,
-            "change": "-0.2%"
+            "change": "-3.24%"
         },
         {
             "symbol": "VST",
             "price": 153.95,
-            "change": "-0.16%"
+            "change": "-1.78%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.62,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.5,
-            0.49,
+            0.47,
+            0.48,
             0.48,
             0.49,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            22.83,
-            22.95,
-            22.7,
-            23.08,
-            22.72,
-            22.76,
-            22.95,
-            23.19,
-            23.64,
-            24.07,
-            24.17,
-            24.65
+            25.61,
+            25.69,
+            26.07,
+            25.74,
+            25.97,
+            25.63,
+            25.37,
+            24.97,
+            25.05,
+            24.84,
+            24.95,
+            24.89
         ],
         "hsd_history_software": [
-            9.89,
-            9.81,
+            9.94,
+            10.07,
             9.93,
-            9.91,
+            10.11,
             9.92,
-            9.89,
-            9.85,
-            9.95,
-            10.04,
-            9.96,
-            9.93,
-            10.02
+            10.06,
+            9.99,
+            10.0,
+            10.1,
+            10.13,
+            10.28,
+            10.12
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:42",
-            "tag": "MERCADO",
-            "text": "Freightos Conference: New CEO, Q1 Transactions Miss, and 15% Workforce Cut to Boost Profit Path"
+            "time": "02:38",
+            "tag": "AI",
+            "text": "ISG (Nasdaq: III) grows Q1 profit and wins $17M AI contract"
         },
         {
-            "time": "22:42",
+            "time": "02:34",
             "tag": "MERCADO",
-            "text": "F5 (NASDAQ:FFIV) CEO Francois Locoh-Donou Sells 3,783 Shares"
+            "text": "CDW Maintains by Barclays -- Price Target Lowered to $123"
         },
         {
-            "time": "22:42",
-            "tag": "MERCADO",
-            "text": "Equinix (NASDAQ:EQIX) Chairman Sells $5,669,241.52 in Stock"
+            "time": "02:33",
+            "tag": "RESULTADOS",
+            "text": "Earnings call transcript: Inseego Corp\u2019s Q1 2026 revenue grows 8% YoY"
         },
         {
-            "time": "22:42",
-            "tag": "MERCADO",
-            "text": "Cadence Design Systems (NASDAQ:CDNS) CFO John Wall Sells 5,000 Shares"
+            "time": "02:09",
+            "tag": "RESULTADOS",
+            "text": "INOD Stock Steadies As Traders Eye Q1 2026 Earnings Call"
         },
         {
-            "time": "22:41",
-            "tag": "MERCADO",
-            "text": "KLA Announces Ten-for-One Stock Split and Dividend Boost"
+            "time": "02:07",
+            "tag": "RESULTADOS",
+            "text": "Motorola Solutions (MSI) Reports Strong Q1 2026 Earnings and Raises Guidance"
         }
     ]
 }
