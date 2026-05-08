@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-08 15:43 UTC",
+        "last_updated": "2026-05-08 17:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 216.27,
-            "change": "+1.44%"
+            "price": 216.02,
+            "change": "+1.11%"
         },
         {
             "symbol": "AMD",
-            "price": 438.2,
-            "change": "-3.27%"
+            "price": 443.66,
+            "change": "-3.42%"
         },
         {
             "symbol": "MSFT",
-            "price": 416.52,
-            "change": "+1.05%"
+            "price": 416.96,
+            "change": "-1.82%"
         },
         {
             "symbol": "CEG",
-            "price": 312.34,
-            "change": "+2.9%"
+            "price": 309.55,
+            "change": "-3.46%"
         },
         {
             "symbol": "VST",
-            "price": 149.24,
-            "change": "+0.36%"
+            "price": 148.1,
+            "change": "+0.43%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.65,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.48,
-            0.48,
-            0.49,
-            0.49,
             0.49,
             0.49,
             0.5,
             0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.56,
-            26.73,
-            26.67,
-            26.88,
-            26.49,
-            26.3,
-            25.88,
-            25.54,
-            25.55,
-            25.65,
-            25.39,
-            25.45
+            25.56,
+            25.94,
+            26.32,
+            25.82,
+            25.34,
+            24.89,
+            24.48,
+            24.53,
+            24.73,
+            25.19,
+            25.06,
+            24.92
         ],
         "hsd_history_software": [
-            10.15,
-            10.33,
-            10.49,
-            10.65,
-            10.61,
-            10.79,
-            10.58,
-            10.6,
-            10.42,
-            10.47,
-            10.35,
-            10.15
+            9.64,
+            9.76,
+            9.69,
+            9.54,
+            9.44,
+            9.29,
+            9.41,
+            9.54,
+            9.51,
+            9.68,
+            9.79,
+            9.95
         ],
         "rci_data": [
             85.0,
-            21.627000000000002
+            21.602
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:03",
+            "time": "16:32",
             "tag": "MERCADO",
-            "text": "Wells Fargo & Company Has Lowered Expectations for EPAM Systems (NYSE:EPAM) Stock Price"
+            "text": "Paychex Inc. Stock (US7043261079): Analyst Price Target Revision and Recent Performance Trends"
         },
         {
-            "time": "15:01",
-            "tag": "AI",
-            "text": "FIS reiterates 2026 outlook for $2.1B free cash flow while targeting >$3B by 2028 through Anthropic AI agents rollout"
+            "time": "16:31",
+            "tag": "MERCADO",
+            "text": "Trump invites Boeing, Mastercard CEOs to join China trip next week: sources"
         },
         {
-            "time": "14:59",
+            "time": "16:16",
             "tag": "MERCADO",
-            "text": "Evergy expects retail sales to rise up to 8% annually on data center growth"
+            "text": "3 months of Navy-SOUTHCOM missions will use Brunswick vessels"
         },
         {
-            "time": "14:53",
+            "time": "16:15",
             "tag": "MERCADO",
-            "text": "Western Digital Corp stock (US95040Q1040): Mixed signals after latest earnings and guidance update"
+            "text": "Jacobs Solutions stock (US4698141098): Strong Q2 growth and record backlog lift shares"
         },
         {
-            "time": "14:50",
+            "time": "15:59",
             "tag": "MERCADO",
-            "text": "Microchip Technology Analysts Boost Their Forecasts Following Upbeat Q4 Results"
+            "text": "AT&T Leads in the 2026 Gartner\u00ae Critical Capabilities for Global WAN Services Research with Highest Use Case Score"
         }
     ]
 }
