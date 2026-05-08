@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-08 17:22 UTC",
+        "last_updated": "2026-05-08 19:23 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 216.02,
-            "change": "+1.11%"
+            "price": 215.15,
+            "change": "-0.65%"
         },
         {
             "symbol": "AMD",
-            "price": 443.66,
-            "change": "-3.42%"
+            "price": 447.54,
+            "change": "+2.99%"
         },
         {
             "symbol": "MSFT",
-            "price": 416.96,
-            "change": "-1.82%"
+            "price": 414.45,
+            "change": "+3.42%"
         },
         {
             "symbol": "CEG",
-            "price": 309.55,
-            "change": "-3.46%"
+            "price": 305.42,
+            "change": "+1.33%"
         },
         {
             "symbol": "VST",
-            "price": 148.1,
-            "change": "+0.43%"
+            "price": 147.66,
+            "change": "-3.21%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.47,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
+            0.54,
+            0.54,
+            0.54,
+            0.54,
+            0.54,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
             0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            25.56,
-            25.94,
-            26.32,
-            25.82,
-            25.34,
-            24.89,
-            24.48,
+            25.29,
+            24.84,
+            25.07,
+            25.15,
+            24.79,
+            24.39,
             24.53,
-            24.73,
-            25.19,
-            25.06,
-            24.92
+            25.0,
+            24.71,
+            24.75,
+            24.55,
+            24.69
         ],
         "hsd_history_software": [
-            9.64,
-            9.76,
-            9.69,
-            9.54,
-            9.44,
-            9.29,
-            9.41,
-            9.54,
-            9.51,
-            9.68,
-            9.79,
-            9.95
+            9.75,
+            9.6,
+            9.47,
+            9.57,
+            9.46,
+            9.62,
+            9.75,
+            9.74,
+            9.73,
+            9.67,
+            9.85,
+            9.86
         ],
         "rci_data": [
             85.0,
-            21.602
+            21.515
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:32",
+            "time": "18:34",
             "tag": "MERCADO",
-            "text": "Paychex Inc. Stock (US7043261079): Analyst Price Target Revision and Recent Performance Trends"
+            "text": "Gen Digital Inc. (NASDAQ:GEN) to Issue $0.13 Quarterly Dividend"
         },
         {
-            "time": "16:31",
+            "time": "18:25",
             "tag": "MERCADO",
-            "text": "Trump invites Boeing, Mastercard CEOs to join China trip next week: sources"
+            "text": "Uber Sold Its AV Unit; Now It's The Industry's Gatekeeper (NYSE:UBER)"
         },
         {
-            "time": "16:16",
+            "time": "18:10",
             "tag": "MERCADO",
-            "text": "3 months of Navy-SOUTHCOM missions will use Brunswick vessels"
+            "text": "Intuit Adds QuickBooks Workforce, a Human Capital Management Solution for SMBs"
         },
         {
-            "time": "16:15",
-            "tag": "MERCADO",
-            "text": "Jacobs Solutions stock (US4698141098): Strong Q2 growth and record backlog lift shares"
+            "time": "18:10",
+            "tag": "AI",
+            "text": "Deal Dispatch: J.M. Smucker Considers Strategic Review, Meta Buys Assured Robot Intelligence, Buzzfeed On Brink Of Bankruptcy"
         },
         {
-            "time": "15:59",
+            "time": "18:07",
             "tag": "MERCADO",
-            "text": "AT&T Leads in the 2026 Gartner\u00ae Critical Capabilities for Global WAN Services Research with Highest Use Case Score"
+            "text": "EPAM Maintained by Wells Fargo -- Price Target Lowered to $151"
         }
     ]
 }
