@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-08 07:53 UTC",
+        "last_updated": "2026-05-08 09:25 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 211.5,
-            "change": "+2.69%"
+            "change": "-0.69%"
         },
         {
             "symbol": "AMD",
             "price": 408.46,
-            "change": "+0.67%"
+            "change": "-2.09%"
         },
         {
             "symbol": "MSFT",
             "price": 420.77,
-            "change": "+2.96%"
+            "change": "-1.08%"
         },
         {
             "symbol": "CEG",
             "price": 311.28,
-            "change": "-3.38%"
+            "change": "-0.5%"
         },
         {
             "symbol": "VST",
             "price": 153.95,
-            "change": "-1.79%"
+            "change": "+1.77%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.69,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.49,
             0.49,
             0.5,
             0.51,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51
+            0.49,
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.04,
-            25.19,
+            25.36,
+            24.99,
             25.18,
-            25.54,
-            25.04,
-            25.55,
-            26.04,
-            25.97,
-            25.84,
-            26.09,
-            25.69,
-            25.38
+            25.48,
+            25.83,
+            25.39,
+            25.06,
+            25.08,
+            25.25,
+            24.81,
+            24.48,
+            24.93
         ],
         "hsd_history_software": [
-            10.19,
-            10.08,
-            10.23,
-            10.04,
+            9.76,
+            9.76,
+            9.81,
+            9.7,
+            9.85,
+            9.91,
+            10.07,
+            9.88,
             9.92,
-            10.09,
-            10.18,
-            10.13,
-            10.08,
-            10.13,
-            9.95,
-            9.94
+            9.92,
+            9.99,
+            10.08
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:02",
-            "tag": "MERCADO",
-            "text": "KLA's 10-for-1 Stock Split Signals Major Confidence"
-        },
-        {
-            "time": "06:41",
-            "tag": "MERCADO",
-            "text": "Stellantis, Leapmotor expand EV partnership in Europe"
-        },
-        {
-            "time": "06:10",
+            "time": "08:10",
             "tag": "AI",
-            "text": "Rapid7 joins OpenAI cyber programme to speed defence"
+            "text": "Vocodia Holdings (OTCPK:VHAI) - Stock Analysis"
         },
         {
-            "time": "06:09",
+            "time": "08:06",
             "tag": "MERCADO",
-            "text": "TransAlta Sees 'Upward Inflection' Ahead on Data Center Demand, RBC Says"
+            "text": "Comerica Bank Reduces Stock Holdings in Alphabet Inc. $GOOG"
         },
         {
-            "time": "06:08",
+            "time": "07:59",
+            "tag": "AI",
+            "text": "Philip Morris International\u2019s Moira Gilchrist Positions Human Judgment as a Critical Leadership Advantage Amid Rapid AI Adoption at Wall Street Journal Forum"
+        },
+        {
+            "time": "07:56",
             "tag": "MERCADO",
-            "text": "Microchip Technology vs NVIDIA: Which Stock Could Rally?"
+            "text": "Is It Too Late To Consider NetApp (NTAP) After Strong Multi Year Share Price Gains"
+        },
+        {
+            "time": "07:50",
+            "tag": "MERCADO",
+            "text": "Canal Insurance CO Sells 10,000 Shares of International Business Machines Corporation $IBM"
         }
     ]
 }
