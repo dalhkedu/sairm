@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-08 05:59 UTC",
+        "last_updated": "2026-05-08 07:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 211.5,
-            "change": "+1.91%"
+            "change": "+2.69%"
         },
         {
             "symbol": "AMD",
             "price": 408.46,
-            "change": "+2.53%"
+            "change": "+0.67%"
         },
         {
             "symbol": "MSFT",
             "price": 420.77,
-            "change": "+2.13%"
+            "change": "+2.96%"
         },
         {
             "symbol": "CEG",
             "price": 311.28,
-            "change": "-1.7%"
+            "change": "-3.38%"
         },
         {
             "symbol": "VST",
             "price": 153.95,
-            "change": "-2.43%"
+            "change": "-1.79%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.52,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
+            0.49,
+            0.5,
             0.51,
             0.5,
-            0.5,
-            0.49
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.12,
-            25.0,
-            25.25,
-            25.23,
-            24.97,
-            24.5,
-            24.97,
-            24.88,
-            24.95,
-            24.87,
-            25.09,
-            25.21
+            25.04,
+            25.19,
+            25.18,
+            25.54,
+            25.04,
+            25.55,
+            26.04,
+            25.97,
+            25.84,
+            26.09,
+            25.69,
+            25.38
         ],
         "hsd_history_software": [
-            9.74,
-            9.64,
-            9.6,
-            9.45,
-            9.64,
-            9.74,
-            9.76,
-            9.82,
-            9.81,
-            9.91,
-            9.88,
-            9.81
+            10.19,
+            10.08,
+            10.23,
+            10.04,
+            9.92,
+            10.09,
+            10.18,
+            10.13,
+            10.08,
+            10.13,
+            9.95,
+            9.94
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:10",
+            "time": "07:02",
             "tag": "MERCADO",
-            "text": "Power Integrations Appoints New Global Sales Leader"
+            "text": "KLA's 10-for-1 Stock Split Signals Major Confidence"
         },
         {
-            "time": "04:40",
+            "time": "06:41",
             "tag": "MERCADO",
-            "text": "Outset Medical Inc. (OM) Misses Q1 EPS by 83c"
+            "text": "Stellantis, Leapmotor expand EV partnership in Europe"
         },
         {
-            "time": "04:27",
-            "tag": "MERCADO",
-            "text": "JKHY Maintained by RBC Capital -- Price Target Lowered to $180"
-        },
-        {
-            "time": "04:22",
-            "tag": "MERCADO",
-            "text": "Medical Device Cleaning Market Size Accelerated by 9.8% CAGR |"
-        },
-        {
-            "time": "04:13",
+            "time": "06:10",
             "tag": "AI",
-            "text": "Gen Digital Q4 FY26 slides: $5B revenue milestone, AI drives growth"
+            "text": "Rapid7 joins OpenAI cyber programme to speed defence"
+        },
+        {
+            "time": "06:09",
+            "tag": "MERCADO",
+            "text": "TransAlta Sees 'Upward Inflection' Ahead on Data Center Demand, RBC Says"
+        },
+        {
+            "time": "06:08",
+            "tag": "MERCADO",
+            "text": "Microchip Technology vs NVIDIA: Which Stock Could Rally?"
         }
     ]
 }
