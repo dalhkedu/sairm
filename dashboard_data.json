@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-08 13:57 UTC",
+        "last_updated": "2026-05-08 15:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 217.02,
-            "change": "+0.43%"
+            "price": 216.27,
+            "change": "+1.44%"
         },
         {
             "symbol": "AMD",
-            "price": 431.16,
-            "change": "-1.55%"
+            "price": 438.2,
+            "change": "-3.27%"
         },
         {
             "symbol": "MSFT",
-            "price": 416.33,
-            "change": "+1.87%"
+            "price": 416.52,
+            "change": "+1.05%"
         },
         {
             "symbol": "CEG",
-            "price": 311.58,
-            "change": "-1.77%"
+            "price": 312.34,
+            "change": "+2.9%"
         },
         {
             "symbol": "VST",
-            "price": 150.78,
-            "change": "-2.23%"
+            "price": 149.24,
+            "change": "+0.36%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.46,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.5,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
+            0.48,
             0.48,
             0.49,
             0.49,
+            0.49,
+            0.49,
             0.5,
+            0.5,
+            0.49,
+            0.49,
             0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            25.31,
-            25.07,
-            24.85,
-            24.72,
-            24.72,
-            25.14,
-            25.24,
-            25.43,
-            25.34,
-            25.35,
-            25.08,
-            25.15
+            26.56,
+            26.73,
+            26.67,
+            26.88,
+            26.49,
+            26.3,
+            25.88,
+            25.54,
+            25.55,
+            25.65,
+            25.39,
+            25.45
         ],
         "hsd_history_software": [
-            10.24,
-            10.36,
+            10.15,
             10.33,
-            10.14,
-            10.17,
-            10.02,
-            10.19,
-            10.16,
-            10.2,
-            10.19,
-            10.17,
-            10.18
+            10.49,
+            10.65,
+            10.61,
+            10.79,
+            10.58,
+            10.6,
+            10.42,
+            10.47,
+            10.35,
+            10.15
         ],
         "rci_data": [
             85.0,
-            21.702
+            21.627000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:04",
+            "time": "15:03",
             "tag": "MERCADO",
-            "text": "Managing and pricing data centre risk remains a key challenge: Holmes, Moody\u2019s"
+            "text": "Wells Fargo & Company Has Lowered Expectations for EPAM Systems (NYSE:EPAM) Stock Price"
         },
         {
-            "time": "13:02",
-            "tag": "MERCADO",
-            "text": "Air Force's next-gen engine moves from digital design to hardware"
+            "time": "15:01",
+            "tag": "AI",
+            "text": "FIS reiterates 2026 outlook for $2.1B free cash flow while targeting >$3B by 2028 through Anthropic AI agents rollout"
         },
         {
-            "time": "12:59",
+            "time": "14:59",
             "tag": "MERCADO",
-            "text": "Verizon CEO Dan Schulman will appear at two investor conferences"
+            "text": "Evergy expects retail sales to rise up to 8% annually on data center growth"
         },
         {
-            "time": "12:42",
+            "time": "14:53",
             "tag": "MERCADO",
-            "text": "Microchip Technology Incorporated Plans Quarterly Dividend of $0.46 (NASDAQ:MCHP)"
+            "text": "Western Digital Corp stock (US95040Q1040): Mixed signals after latest earnings and guidance update"
         },
         {
-            "time": "12:40",
+            "time": "14:50",
             "tag": "MERCADO",
-            "text": "Expedia Group, Inc. to Issue Quarterly Dividend of $0.48 (NASDAQ:EXPE)"
+            "text": "Microchip Technology Analysts Boost Their Forecasts Following Upbeat Q4 Results"
         }
     ]
 }
