@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-08 11:20 UTC",
+        "last_updated": "2026-05-08 13:57 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 211.5,
-            "change": "+3.12%"
+            "price": 217.02,
+            "change": "+0.43%"
         },
         {
             "symbol": "AMD",
-            "price": 408.46,
-            "change": "+2.37%"
+            "price": 431.16,
+            "change": "-1.55%"
         },
         {
             "symbol": "MSFT",
-            "price": 420.77,
-            "change": "+2.23%"
+            "price": 416.33,
+            "change": "+1.87%"
         },
         {
             "symbol": "CEG",
-            "price": 311.28,
-            "change": "+2.12%"
+            "price": 311.58,
+            "change": "-1.77%"
         },
         {
             "symbol": "VST",
-            "price": 153.95,
-            "change": "+2.69%"
+            "price": 150.78,
+            "change": "-2.23%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
-        "rci_current": 0.21,
+        "cer_current": 0.68,
+        "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.5,
+            0.49,
+            0.5,
+            0.49,
+            0.49,
             0.48,
-            0.48,
             0.49,
             0.49,
+            0.5,
             0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.51
+            0.49
         ],
         "hsd_history_hardware": [
-            23.7,
-            23.43,
-            23.52,
-            23.34,
-            23.79,
-            23.44,
-            23.55,
-            23.99,
-            24.26,
-            24.75,
-            24.65,
-            24.89
+            25.31,
+            25.07,
+            24.85,
+            24.72,
+            24.72,
+            25.14,
+            25.24,
+            25.43,
+            25.34,
+            25.35,
+            25.08,
+            25.15
         ],
         "hsd_history_software": [
-            9.69,
-            9.68,
-            9.86,
-            10.0,
-            9.81,
-            9.86,
-            9.91,
-            10.03,
-            10.12,
-            10.06,
-            10.0,
-            10.15
+            10.24,
+            10.36,
+            10.33,
+            10.14,
+            10.17,
+            10.02,
+            10.19,
+            10.16,
+            10.2,
+            10.19,
+            10.17,
+            10.18
         ],
         "rci_data": [
             85.0,
-            21.15
+            21.702
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:24",
+            "time": "13:04",
             "tag": "MERCADO",
-            "text": "Mitsubishi UFJ Asset Management Co. Ltd. Increases Stock Holdings in Microchip Technology Incorporated $MCHP"
+            "text": "Managing and pricing data centre risk remains a key challenge: Holmes, Moody\u2019s"
         },
         {
-            "time": "10:23",
+            "time": "13:02",
             "tag": "MERCADO",
-            "text": "Mitsubishi UFJ Asset Management Co. Ltd. Buys 15,809 Shares of Keysight Technologies Inc. $KEYS"
+            "text": "Air Force's next-gen engine moves from digital design to hardware"
         },
         {
-            "time": "10:23",
+            "time": "12:59",
             "tag": "MERCADO",
-            "text": "Mitsubishi UFJ Asset Management Co. Ltd. Acquires 37,254 Shares of Iron Mountain Incorporated $IRM"
+            "text": "Verizon CEO Dan Schulman will appear at two investor conferences"
         },
         {
-            "time": "10:23",
+            "time": "12:42",
             "tag": "MERCADO",
-            "text": "Mitsubishi UFJ Asset Management Co. Ltd. Has $67.94 Million Stock Holdings in Hewlett Packard Enterprise Company $HPE"
+            "text": "Microchip Technology Incorporated Plans Quarterly Dividend of $0.46 (NASDAQ:MCHP)"
         },
         {
-            "time": "10:23",
+            "time": "12:40",
             "tag": "MERCADO",
-            "text": "Mitsubishi UFJ Asset Management Co. Ltd. Raises Stock Position in Fidelity National Information Services, Inc. $FIS"
+            "text": "Expedia Group, Inc. to Issue Quarterly Dividend of $0.48 (NASDAQ:EXPE)"
         }
     ]
 }
