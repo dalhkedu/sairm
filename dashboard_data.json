@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-08 19:23 UTC",
+        "last_updated": "2026-05-08 21:04 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 215.15,
-            "change": "-0.65%"
+            "price": 215.2,
+            "change": "-3.13%"
         },
         {
             "symbol": "AMD",
-            "price": 447.54,
-            "change": "+2.99%"
+            "price": 455.19,
+            "change": "+1.72%"
         },
         {
             "symbol": "MSFT",
-            "price": 414.45,
-            "change": "+3.42%"
+            "price": 415.12,
+            "change": "-0.17%"
         },
         {
             "symbol": "CEG",
-            "price": 305.42,
-            "change": "+1.33%"
+            "price": 303.63,
+            "change": "-3.27%"
         },
         {
             "symbol": "VST",
-            "price": 147.66,
-            "change": "-3.21%"
+            "price": 147.72,
+            "change": "-1.25%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.68,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.54,
-            0.54,
-            0.54,
-            0.54,
-            0.53,
+            0.5,
+            0.5,
+            0.51,
             0.52,
-            0.52,
+            0.51,
             0.52,
             0.52,
             0.51,
-            0.51
+            0.51,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.29,
+            24.59,
+            24.22,
+            24.66,
             24.84,
-            25.07,
-            25.15,
-            24.79,
-            24.39,
-            24.53,
-            25.0,
-            24.71,
-            24.75,
-            24.55,
-            24.69
+            25.29,
+            25.18,
+            25.12,
+            25.57,
+            25.99,
+            25.69,
+            25.35,
+            25.29
         ],
         "hsd_history_software": [
-            9.75,
-            9.6,
-            9.47,
-            9.57,
-            9.46,
-            9.62,
-            9.75,
-            9.74,
-            9.73,
-            9.67,
-            9.85,
-            9.86
+            9.43,
+            9.59,
+            9.52,
+            9.58,
+            9.64,
+            9.63,
+            9.8,
+            9.93,
+            9.87,
+            9.76,
+            9.84,
+            9.96
         ],
         "rci_data": [
             85.0,
-            21.515
+            21.52
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:34",
+            "time": "20:32",
             "tag": "MERCADO",
-            "text": "Gen Digital Inc. (NASDAQ:GEN) to Issue $0.13 Quarterly Dividend"
+            "text": "WeRide shareholders face May 22 record date before June 26 AGM"
         },
         {
-            "time": "18:25",
-            "tag": "MERCADO",
-            "text": "Uber Sold Its AV Unit; Now It's The Industry's Gatekeeper (NYSE:UBER)"
-        },
-        {
-            "time": "18:10",
-            "tag": "MERCADO",
-            "text": "Intuit Adds QuickBooks Workforce, a Human Capital Management Solution for SMBs"
-        },
-        {
-            "time": "18:10",
+            "time": "20:19",
             "tag": "AI",
-            "text": "Deal Dispatch: J.M. Smucker Considers Strategic Review, Meta Buys Assured Robot Intelligence, Buzzfeed On Brink Of Bankruptcy"
+            "text": "HPQ Rises As HP Inc. Rides AI And Gaming Momentum"
         },
         {
-            "time": "18:07",
+            "time": "20:15",
             "tag": "MERCADO",
-            "text": "EPAM Maintained by Wells Fargo -- Price Target Lowered to $151"
+            "text": "Datadog Inc Stock (DDOG) Closed Up by 5.98% on May 8: What Investors Need To Know"
+        },
+        {
+            "time": "20:12",
+            "tag": "MERCADO",
+            "text": "Stryker reports renew focus on healthcare cyber risk"
+        },
+        {
+            "time": "20:10",
+            "tag": "MERCADO",
+            "text": "Align Technology Inc. stock (US0162551016): Q1 2026 earnings beat and new buyback lift sentiment des"
         }
     ]
 }
