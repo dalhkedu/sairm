@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-09 09:22 UTC",
+        "last_updated": "2026-05-09 10:59 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 215.2,
-            "change": "+1.72%"
+            "change": "+0.94%"
         },
         {
             "symbol": "AMD",
             "price": 455.19,
-            "change": "-2.21%"
+            "change": "+2.97%"
         },
         {
             "symbol": "MSFT",
             "price": 415.12,
-            "change": "+1.48%"
+            "change": "+1.84%"
         },
         {
             "symbol": "CEG",
             "price": 303.63,
-            "change": "-0.56%"
+            "change": "-0.52%"
         },
         {
             "symbol": "VST",
             "price": 147.72,
-            "change": "+0.39%"
+            "change": "-1.52%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.57,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.52,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
             0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.5,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            23.4,
-            23.81,
-            23.42,
-            23.45,
-            23.13,
-            23.16,
-            23.59,
-            24.06,
-            23.8,
-            23.97,
-            24.37,
-            24.62
+            26.18,
+            25.81,
+            25.44,
+            25.57,
+            25.12,
+            25.36,
+            25.34,
+            25.65,
+            25.63,
+            25.44,
+            25.64,
+            25.25
         ],
         "hsd_history_software": [
-            10.37,
-            10.29,
-            10.35,
-            10.4,
-            10.56,
-            10.62,
-            10.45,
-            10.44,
-            10.34,
-            10.25,
-            10.07,
-            10.1
+            9.83,
+            9.76,
+            9.7,
+            9.8,
+            9.98,
+            10.11,
+            10.04,
+            9.87,
+            9.84,
+            10.02,
+            9.98,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,9 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "INFO",
-            "tag": "LIMIT",
-            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
+            "time": "10:09",
+            "tag": "RESULTADOS",
+            "text": "ETFs to Gain as NVIDIA Q1 Earnings Fuel Rally in AI Stocks"
+        },
+        {
+            "time": "10:07",
+            "tag": "MERCADO",
+            "text": "Flex Ltd. $FLEX Shares Sold by Principal Financial Group Inc."
+        },
+        {
+            "time": "10:03",
+            "tag": "MERCADO",
+            "text": "MGO One Seven LLC Sells 4,839 Shares of Texas Instruments Incorporated $TXN"
+        },
+        {
+            "time": "10:03",
+            "tag": "MERCADO",
+            "text": "MGO One Seven LLC Has $5.31 Million Position in Cadence Design Systems, Inc. $CDNS"
+        },
+        {
+            "time": "09:59",
+            "tag": "MERCADO",
+            "text": "Mitsubishi UFJ Asset Management Co. Ltd. Has $52.04 Million Stock Position in Leidos Holdings, Inc. $LDOS"
         }
     ]
 }
