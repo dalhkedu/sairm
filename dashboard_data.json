@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-09 14:54 UTC",
+        "last_updated": "2026-05-09 15:56 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 215.2,
-            "change": "+2.47%"
+            "change": "+1.79%"
         },
         {
             "symbol": "AMD",
             "price": 455.19,
-            "change": "+2.92%"
+            "change": "-1.03%"
         },
         {
             "symbol": "MSFT",
             "price": 415.12,
-            "change": "+2.47%"
+            "change": "-2.49%"
         },
         {
             "symbol": "CEG",
             "price": 303.63,
-            "change": "-0.8%"
+            "change": "+2.37%"
         },
         {
             "symbol": "VST",
             "price": 147.72,
-            "change": "-1.97%"
+            "change": "-1.22%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.51,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
+            24.18,
+            24.2,
+            24.62,
+            24.55,
+            24.92,
+            25.18,
             25.4,
-            25.47,
-            25.94,
-            25.98,
-            26.27,
-            26.64,
-            26.15,
-            26.12,
-            26.24,
-            25.96,
-            25.76,
-            25.43
+            25.05,
+            24.75,
+            24.89,
+            24.6,
+            24.72
         ],
         "hsd_history_software": [
-            10.05,
-            10.1,
-            9.96,
+            9.86,
             9.82,
             9.79,
-            9.75,
-            9.88,
-            9.93,
-            10.09,
-            9.95,
-            10.02,
-            10.19
+            9.91,
+            9.99,
+            9.94,
+            9.81,
+            9.84,
+            9.94,
+            9.9,
+            10.08,
+            10.01
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:00",
+            "time": "15:05",
             "tag": "MERCADO",
-            "text": "Wells Fargo, Bank of America in losers; IREN, Hut 8, Circle Internet among gainers: week's financials wrap"
+            "text": "T-Mobile US Inc. stock (US8725901040): Q1 beat and broadband push lift TMUS shares"
         },
         {
-            "time": "13:58",
+            "time": "15:02",
             "tag": "MERCADO",
-            "text": "Crown Castle Inc. stock (US22822V1017): Tower and fiber operator faces pressure from rate cuts and capex plans"
+            "text": "Match Group Inc. stock (US57669L1008): Revenue beats and dividend lift sentiment despite earnings miss in Q1 2026"
         },
         {
-            "time": "13:53",
+            "time": "14:58",
             "tag": "MERCADO",
-            "text": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Akamai Technologies (NASDAQ:AKAM) Stock"
+            "text": "Jack Henry & Associates stock (US46625H1005): Goldman Sachs cuts price target as shares near 52-week"
         },
         {
-            "time": "13:43",
-            "tag": "MERCADO",
-            "text": "Lumentum to replace CoStar on Nasdaq-100 (LITE:NASDAQ)"
+            "time": "14:55",
+            "tag": "RESULTADOS",
+            "text": "Fox Corp. (Class B) stock (US35137L2043): Earnings, streaming growth and US market exposure in focus"
         },
         {
-            "time": "13:32",
-            "tag": "MERCADO",
-            "text": "Tyler Technologies stock (US9022521051): ARR growth accelerates in Q1 2026 earnings report"
+            "time": "14:50",
+            "tag": "AI",
+            "text": "Alphabet Inc. Class C stock (US02079K1079): Mixed signals after latest earnings beat and AI push"
         }
     ]
 }
