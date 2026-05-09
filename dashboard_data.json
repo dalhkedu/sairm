@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-09 19:07 UTC",
+        "last_updated": "2026-05-09 20:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 215.2,
-            "change": "+1.7%"
+            "change": "+1.26%"
         },
         {
             "symbol": "AMD",
             "price": 455.19,
-            "change": "+1.37%"
+            "change": "+0.92%"
         },
         {
             "symbol": "MSFT",
             "price": 415.12,
-            "change": "+3.11%"
+            "change": "+2.54%"
         },
         {
             "symbol": "CEG",
             "price": 303.63,
-            "change": "-2.42%"
+            "change": "-0.9%"
         },
         {
             "symbol": "VST",
             "price": 147.72,
-            "change": "-0.48%"
+            "change": "-2.3%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.5,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
+            0.49,
+            0.49,
+            0.5,
+            0.49,
             0.5,
             0.5,
-            0.5
+            0.49,
+            0.5,
+            0.51,
+            0.5,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.88,
-            25.16,
-            25.62,
-            25.97,
-            25.82,
-            26.04,
-            25.59,
-            25.45,
-            24.99,
-            24.9,
-            25.21,
-            24.83
+            23.81,
+            24.2,
+            24.51,
+            24.18,
+            24.06,
+            24.28,
+            24.01,
+            23.97,
+            24.3,
+            24.75,
+            24.77,
+            24.88
         ],
         "hsd_history_software": [
-            10.17,
-            9.98,
-            10.08,
-            10.14,
-            10.24,
-            10.06,
-            10.08,
-            10.07,
+            9.93,
+            10.04,
+            10.22,
+            10.4,
+            10.42,
+            10.36,
+            10.21,
             10.1,
-            10.17,
-            10.1,
-            10.18
+            9.94,
+            9.82,
+            10.0,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:34",
+            "time": "20:00",
+            "tag": "MERCADO",
+            "text": "Honeywell stock (US4448591028): Automation and aerospace giant in focus"
+        },
+        {
+            "time": "19:17",
             "tag": "AI",
-            "text": "Alphabet Inc. (Class C) stock (US02079K1079): Google parent eyes AI\u2010driven growth amid ad market shi"
+            "text": "Western Digital Stock Jumped Again. The AI Storage Trade Has a New Test"
         },
         {
-            "time": "18:01",
+            "time": "19:17",
             "tag": "MERCADO",
-            "text": "How Investors Are Reacting To FactSet Research Systems (FDS) J.P. Morgan Collaboration And Dividend Increase"
+            "text": "F5 Inc. stock (US3156161024): Up on raised 2026 outlook and multicloud security push"
         },
         {
-            "time": "17:59",
-            "tag": "RESULTADOS",
-            "text": "Radware (NASDAQ:RDWR) Posts Earnings Results, Beats Estimates By $0.03 EPS"
+            "time": "18:52",
+            "tag": "AI",
+            "text": "Automatic Data Processing stock (US0530151036): HR and payroll leader eyes AI?driven growth"
         },
         {
-            "time": "17:40",
-            "tag": "MERCADO",
-            "text": "Nio Onvo starts deliveries of 2026 L90 SUV"
-        },
-        {
-            "time": "17:39",
-            "tag": "MERCADO",
-            "text": "Analysts\u2019 Opinions Are Mixed on These Technology Stocks: Lyft (LYFT), RingCentral (RNG) and nLIGHT (LASR)"
+            "time": "18:47",
+            "tag": "AI",
+            "text": "Oracle Just Won a Pentagon AI Deal. Here\u2019s What It Says About the Stock\u2019s Path to $622"
         }
     ]
 }
