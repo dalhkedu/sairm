@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-09 15:56 UTC",
+        "last_updated": "2026-05-09 17:00 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 215.2,
-            "change": "+1.79%"
+            "change": "-2.17%"
         },
         {
             "symbol": "AMD",
             "price": 455.19,
-            "change": "-1.03%"
+            "change": "+2.22%"
         },
         {
             "symbol": "MSFT",
             "price": 415.12,
-            "change": "-2.49%"
+            "change": "-3.04%"
         },
         {
             "symbol": "CEG",
             "price": 303.63,
-            "change": "+2.37%"
+            "change": "+1.4%"
         },
         {
             "symbol": "VST",
             "price": 147.72,
-            "change": "-1.22%"
+            "change": "-1.24%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.52,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.48,
+            0.49,
             0.5,
             0.5,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            24.18,
-            24.2,
-            24.62,
-            24.55,
-            24.92,
-            25.18,
-            25.4,
-            25.05,
-            24.75,
-            24.89,
-            24.6,
-            24.72
+            25.51,
+            25.84,
+            26.35,
+            25.84,
+            25.74,
+            25.24,
+            25.41,
+            25.11,
+            25.6,
+            25.55,
+            25.78,
+            25.33
         ],
         "hsd_history_software": [
-            9.86,
-            9.82,
-            9.79,
-            9.91,
-            9.99,
-            9.94,
-            9.81,
-            9.84,
-            9.94,
-            9.9,
-            10.08,
-            10.01
+            9.97,
+            10.06,
+            10.14,
+            10.14,
+            10.31,
+            10.11,
+            10.23,
+            10.25,
+            10.17,
+            10.14,
+            9.95,
+            9.92
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:05",
+            "time": "16:08",
             "tag": "MERCADO",
-            "text": "T-Mobile US Inc. stock (US8725901040): Q1 beat and broadband push lift TMUS shares"
+            "text": "Logitech International S.A. stock (CH0025751329): Shares rise on strong fiscal 2026 results and margin expansion"
         },
         {
-            "time": "15:02",
+            "time": "15:50",
             "tag": "MERCADO",
-            "text": "Match Group Inc. stock (US57669L1008): Revenue beats and dividend lift sentiment despite earnings miss in Q1 2026"
+            "text": "Garmin Ltd. stock (CH0114405324): Mixed signals from latest earnings and guidance"
         },
         {
-            "time": "14:58",
+            "time": "15:45",
             "tag": "MERCADO",
-            "text": "Jack Henry & Associates stock (US46625H1005): Goldman Sachs cuts price target as shares near 52-week"
+            "text": "Agilent Technologies Inc. stock (US00846U1016): FDA approval and earnings miss shape outlook"
         },
         {
-            "time": "14:55",
+            "time": "15:30",
+            "tag": "MERCADO",
+            "text": "Intel Shares Surge on Reported Preliminary Chip Agreement with Apple"
+        },
+        {
+            "time": "15:29",
             "tag": "RESULTADOS",
-            "text": "Fox Corp. (Class B) stock (US35137L2043): Earnings, streaming growth and US market exposure in focus"
-        },
-        {
-            "time": "14:50",
-            "tag": "AI",
-            "text": "Alphabet Inc. Class C stock (US02079K1079): Mixed signals after latest earnings beat and AI push"
+            "text": "Jabil Inc. stock (US46612W1036): Earnings beat lifts outlook and share price"
         }
     ]
 }
