@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-09 17:00 UTC",
+        "last_updated": "2026-05-09 19:07 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 215.2,
-            "change": "-2.17%"
+            "change": "+1.7%"
         },
         {
             "symbol": "AMD",
             "price": 455.19,
-            "change": "+2.22%"
+            "change": "+1.37%"
         },
         {
             "symbol": "MSFT",
             "price": 415.12,
-            "change": "-3.04%"
+            "change": "+3.11%"
         },
         {
             "symbol": "CEG",
             "price": 303.63,
-            "change": "+1.4%"
+            "change": "-2.42%"
         },
         {
             "symbol": "VST",
             "price": 147.72,
-            "change": "-1.24%"
+            "change": "-0.48%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.47,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
+            0.52,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
             0.5,
             0.5,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            25.51,
-            25.84,
-            26.35,
-            25.84,
-            25.74,
-            25.24,
-            25.41,
-            25.11,
-            25.6,
-            25.55,
-            25.78,
-            25.33
+            24.88,
+            25.16,
+            25.62,
+            25.97,
+            25.82,
+            26.04,
+            25.59,
+            25.45,
+            24.99,
+            24.9,
+            25.21,
+            24.83
         ],
         "hsd_history_software": [
-            9.97,
-            10.06,
-            10.14,
-            10.14,
-            10.31,
-            10.11,
-            10.23,
-            10.25,
             10.17,
+            9.98,
+            10.08,
             10.14,
-            9.95,
-            9.92
+            10.24,
+            10.06,
+            10.08,
+            10.07,
+            10.1,
+            10.17,
+            10.1,
+            10.18
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:08",
-            "tag": "MERCADO",
-            "text": "Logitech International S.A. stock (CH0025751329): Shares rise on strong fiscal 2026 results and margin expansion"
+            "time": "18:34",
+            "tag": "AI",
+            "text": "Alphabet Inc. (Class C) stock (US02079K1079): Google parent eyes AI\u2010driven growth amid ad market shi"
         },
         {
-            "time": "15:50",
+            "time": "18:01",
             "tag": "MERCADO",
-            "text": "Garmin Ltd. stock (CH0114405324): Mixed signals from latest earnings and guidance"
+            "text": "How Investors Are Reacting To FactSet Research Systems (FDS) J.P. Morgan Collaboration And Dividend Increase"
         },
         {
-            "time": "15:45",
-            "tag": "MERCADO",
-            "text": "Agilent Technologies Inc. stock (US00846U1016): FDA approval and earnings miss shape outlook"
-        },
-        {
-            "time": "15:30",
-            "tag": "MERCADO",
-            "text": "Intel Shares Surge on Reported Preliminary Chip Agreement with Apple"
-        },
-        {
-            "time": "15:29",
+            "time": "17:59",
             "tag": "RESULTADOS",
-            "text": "Jabil Inc. stock (US46612W1036): Earnings beat lifts outlook and share price"
+            "text": "Radware (NASDAQ:RDWR) Posts Earnings Results, Beats Estimates By $0.03 EPS"
+        },
+        {
+            "time": "17:40",
+            "tag": "MERCADO",
+            "text": "Nio Onvo starts deliveries of 2026 L90 SUV"
+        },
+        {
+            "time": "17:39",
+            "tag": "MERCADO",
+            "text": "Analysts\u2019 Opinions Are Mixed on These Technology Stocks: Lyft (LYFT), RingCentral (RNG) and nLIGHT (LASR)"
         }
     ]
 }
