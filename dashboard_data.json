@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-10 19:08 UTC",
+        "last_updated": "2026-05-10 20:52 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 215.2,
-            "change": "-0.87%"
+            "change": "+1.02%"
         },
         {
             "symbol": "AMD",
             "price": 455.19,
-            "change": "+2.53%"
+            "change": "+2.4%"
         },
         {
             "symbol": "MSFT",
             "price": 415.12,
-            "change": "+0.75%"
+            "change": "-3.17%"
         },
         {
             "symbol": "CEG",
             "price": 303.63,
-            "change": "+0.55%"
+            "change": "+2.07%"
         },
         {
             "symbol": "VST",
             "price": 147.72,
-            "change": "-2.38%"
+            "change": "-0.55%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.48,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.45,
-            0.46,
-            0.47,
-            0.46,
-            0.46,
-            0.47,
-            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.49,
             0.49,
             0.5,
-            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            25.44,
-            25.73,
-            25.39,
-            25.17,
+            26.42,
+            26.14,
+            25.71,
+            25.65,
+            25.24,
+            25.18,
+            24.72,
+            25.1,
+            24.73,
+            24.64,
             24.71,
-            25.12,
-            24.7,
-            24.95,
-            25.14,
-            24.95,
-            25.29,
-            25.45
+            24.69
         ],
         "hsd_history_software": [
-            9.56,
-            9.75,
-            9.92,
-            9.74,
-            9.86,
-            9.82,
-            9.75,
-            9.73,
-            9.93,
-            10.07,
-            9.88,
-            9.84
+            10.5,
+            10.32,
+            10.48,
+            10.53,
+            10.36,
+            10.43,
+            10.46,
+            10.34,
+            10.24,
+            10.13,
+            10.02,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "19:47",
+            "tag": "MERCADO",
+            "text": "Top US Stocks To Watch This Week: AMAT, Cisco, Nebius And Circle"
+        },
+        {
+            "time": "18:46",
+            "tag": "MERCADO",
+            "text": "Rogers Communications stock (CA7751092007): Telecom giant edges higher on TSX"
+        },
+        {
             "time": "17:38",
             "tag": "AI",
             "text": "A Look At Arista Networks (ANET) Valuation After Strong Q1 AI Momentum And Recent Share Price Volatility"
@@ -136,19 +146,9 @@
             "text": "|\u2018Somewhere Out There\u2019: Shawn Levy Sets Original Sci-Fi Film At Netflix From \u2018Moonshot\u2019 Writer Max Taxe"
         },
         {
-            "time": "16:39",
+            "time": "17:10",
             "tag": "MERCADO",
-            "text": "QQQM Is a Better Buy Than QQQ -- For 1 Powerful Reason"
-        },
-        {
-            "time": "16:38",
-            "tag": "AI",
-            "text": "Nvidia, AI factories and the transition to accelerated computing"
-        },
-        {
-            "time": "16:23",
-            "tag": "MERCADO",
-            "text": "A Look At McGraw Hill (MH) Valuation After Recent Share Price Rebound And Digital Revenue Progress"
+            "text": "Rackspace Technology, Inc. Income Statement \u2013 LS:A2QAH7"
         }
     ]
 }
