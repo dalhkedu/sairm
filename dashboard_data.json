@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-10 13:25 UTC",
+        "last_updated": "2026-05-10 14:56 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 215.2,
-            "change": "-3.5%"
+            "change": "+0.08%"
         },
         {
             "symbol": "AMD",
             "price": 455.19,
-            "change": "-0.84%"
+            "change": "-2.02%"
         },
         {
             "symbol": "MSFT",
             "price": 415.12,
-            "change": "+1.59%"
+            "change": "+2.8%"
         },
         {
             "symbol": "CEG",
             "price": 303.63,
-            "change": "-1.93%"
+            "change": "-2.52%"
         },
         {
             "symbol": "VST",
             "price": 147.72,
-            "change": "+1.19%"
+            "change": "+1.07%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.6,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.45,
-            0.45,
-            0.45,
-            0.44,
-            0.45,
-            0.46,
-            0.46,
-            0.46,
+            0.49,
+            0.48,
+            0.48,
+            0.47,
             0.47,
             0.48,
             0.48,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            25.39,
-            25.37,
-            25.71,
-            25.82,
-            25.56,
-            25.44,
-            25.46,
-            25.3,
-            25.08,
-            25.39,
-            25.28,
-            25.23
+            25.18,
+            25.55,
+            25.17,
+            24.92,
+            24.95,
+            24.9,
+            24.62,
+            24.69,
+            24.3,
+            24.58,
+            25.06,
+            25.19
         ],
         "hsd_history_software": [
-            9.8,
-            9.7,
-            9.78,
-            9.73,
             9.54,
-            9.39,
-            9.51,
-            9.44,
-            9.49,
-            9.69,
+            9.73,
+            9.83,
+            9.7,
+            9.67,
             9.71,
-            9.88
+            9.65,
+            9.72,
+            9.66,
+            9.75,
+            9.71,
+            9.9
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:11",
+            "time": "14:15",
             "tag": "MERCADO",
-            "text": "Citigroup Targets Higher Returns, Unveils $30 Billion Buyback at Investor Day"
+            "text": "No WARN Act protections, lost RSUs and other 'shockers' that 20,000-plus laid-off Oracle employees claim"
         },
         {
-            "time": "12:00",
+            "time": "13:52",
+            "tag": "MERCADO",
+            "text": "Why 25 of 29 Analysts Back T-Mobile Stock With a $263 Mean Price Target in 2026"
+        },
+        {
+            "time": "13:13",
             "tag": "AI",
-            "text": "Customers Bank Expands AI Partnership With OpenAI"
+            "text": "Cisco Stock at $97: How the Silicon One AI Buildout Changes the Long-Term Valuation Picture"
         },
         {
-            "time": "11:43",
-            "tag": "MERCADO",
-            "text": "UBS Group AG Cuts Stake in Cognex Corporation $CGNX"
-        },
-        {
-            "time": "11:43",
+            "time": "13:13",
             "tag": "AI",
-            "text": "How FIS\u2019s AI and Digital\u2011Money Push with Anthropic Could Reshape Fidelity National Information Services (FIS) Investors"
+            "text": "Caterpillar Stock Surged Over 170% in One Year: Can the AI Infrastructure Supercycle Keep Delivering?"
         },
         {
-            "time": "11:41",
+            "time": "13:11",
             "tag": "MERCADO",
-            "text": "UNIVEST FINANCIAL Corp Sells 1,015 Shares of Equinix, Inc. $EQIX"
+            "text": "Agilent Taps Cirena To Turn Long RNA Technology Into Genome Editing Growth"
         }
     ]
 }
