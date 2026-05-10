@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-10 14:56 UTC",
+        "last_updated": "2026-05-10 15:58 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 215.2,
-            "change": "+0.08%"
+            "change": "+2.15%"
         },
         {
             "symbol": "AMD",
             "price": 455.19,
-            "change": "-2.02%"
+            "change": "+2.59%"
         },
         {
             "symbol": "MSFT",
             "price": 415.12,
-            "change": "+2.8%"
+            "change": "+1.3%"
         },
         {
             "symbol": "CEG",
             "price": 303.63,
-            "change": "-2.52%"
+            "change": "-0.14%"
         },
         {
             "symbol": "VST",
             "price": 147.72,
-            "change": "+1.07%"
+            "change": "+2.59%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.5,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.48,
-            0.48,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.49
+            0.53,
+            0.54,
+            0.54,
+            0.54,
+            0.53,
+            0.53,
+            0.54,
+            0.53,
+            0.52,
+            0.52,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.18,
-            25.55,
-            25.17,
-            24.92,
+            25.57,
+            25.25,
+            24.87,
+            25.31,
+            25.61,
+            25.42,
+            25.43,
+            25.15,
             24.95,
-            24.9,
-            24.62,
-            24.69,
-            24.3,
-            24.58,
-            25.06,
-            25.19
+            25.16,
+            25.11,
+            24.97
         ],
         "hsd_history_software": [
-            9.54,
-            9.73,
-            9.83,
-            9.7,
-            9.67,
-            9.71,
-            9.65,
-            9.72,
-            9.66,
-            9.75,
-            9.71,
-            9.9
+            10.21,
+            10.27,
+            10.21,
+            10.05,
+            10.2,
+            10.34,
+            10.14,
+            10.19,
+            10.09,
+            10.22,
+            10.09,
+            10.01
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "14:48",
+            "tag": "MERCADO",
+            "text": "Does Evergy\u2019s Q1 Beat And Data Center Deals Change The Bull Case For EVRG?"
+        },
+        {
+            "time": "14:26",
+            "tag": "AI",
+            "text": "Citizens Financial Group CEO Touts Private Bank Growth, $450M AI Efficiency Push"
+        },
+        {
             "time": "14:15",
             "tag": "MERCADO",
             "text": "No WARN Act protections, lost RSUs and other 'shockers' that 20,000-plus laid-off Oracle employees claim"
         },
         {
-            "time": "13:52",
-            "tag": "MERCADO",
-            "text": "Why 25 of 29 Analysts Back T-Mobile Stock With a $263 Mean Price Target in 2026"
-        },
-        {
-            "time": "13:13",
+            "time": "14:08",
             "tag": "AI",
-            "text": "Cisco Stock at $97: How the Silicon One AI Buildout Changes the Long-Term Valuation Picture"
+            "text": "Why Amazon (AMZN) is a Top AI Stock Pick of Cathie Wood?"
         },
         {
-            "time": "13:13",
-            "tag": "AI",
-            "text": "Caterpillar Stock Surged Over 170% in One Year: Can the AI Infrastructure Supercycle Keep Delivering?"
-        },
-        {
-            "time": "13:11",
+            "time": "14:05",
             "tag": "MERCADO",
-            "text": "Agilent Taps Cirena To Turn Long RNA Technology Into Genome Editing Growth"
+            "text": "Tesla recalls every Cybertruck RWD ever sold \u2014 all 173 of them \u2014 because the wheels could fall off"
         }
     ]
 }
