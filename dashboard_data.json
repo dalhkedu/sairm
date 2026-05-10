@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-05-09 23:53 UTC",
+        "last_updated": "2026-05-10 03:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 215.2,
-            "change": "-2.88%"
+            "change": "-0.49%"
         },
         {
             "symbol": "AMD",
             "price": 455.19,
-            "change": "+0.58%"
+            "change": "+2.0%"
         },
         {
             "symbol": "MSFT",
             "price": 415.12,
-            "change": "+0.95%"
+            "change": "+2.86%"
         },
         {
             "symbol": "CEG",
             "price": 303.63,
-            "change": "-1.02%"
+            "change": "-1.66%"
         },
         {
             "symbol": "VST",
             "price": 147.72,
-            "change": "-0.35%"
+            "change": "+2.72%"
         }
     ],
     "dashboard_metrics": {
@@ -36,46 +36,46 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
+            0.5,
             0.49,
             0.49,
-            0.49
+            0.5,
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.09,
-            25.9,
-            25.4,
-            25.3,
-            25.76,
-            26.05,
-            25.6,
-            25.84,
-            26.2,
-            26.12,
-            25.84,
-            25.35
+            25.53,
+            25.82,
+            25.45,
+            25.19,
+            24.95,
+            24.75,
+            24.71,
+            24.86,
+            24.47,
+            24.02,
+            24.27,
+            24.71
         ],
         "hsd_history_software": [
-            10.21,
-            10.41,
-            10.22,
             10.15,
-            10.08,
-            10.02,
+            10.05,
+            10.18,
+            10.28,
             10.16,
-            10.1,
-            9.91,
-            9.87,
-            10.06,
-            10.19
+            10.26,
+            10.28,
+            10.36,
+            10.29,
+            10.18,
+            9.99,
+            10.03
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:43",
+            "time": "03:06",
+            "tag": "MERCADO",
+            "text": "TRB Advisors LP Boosts Apple Inc Stake by 22,000 Shares"
+        },
+        {
+            "time": "02:31",
+            "tag": "RESULTADOS",
+            "text": "Inseego (NASDAQ:INSG) Releases Earnings Results, Beats Estimates By $0.09 EPS"
+        },
+        {
+            "time": "02:14",
             "tag": "AI",
-            "text": "Raymond James Bets On AI And ETFs To Deepen Advisor Platform"
+            "text": "A Look At Akamai Technologies (AKAM) Valuation After Landmark US$1.8b AI Cloud Deal And Revenue Beat"
         },
         {
-            "time": "22:42",
-            "tag": "RESULTADOS",
-            "text": "EPAM Systems (NYSE:EPAM) Announces Earnings Results"
+            "time": "02:12",
+            "tag": "AI",
+            "text": "Caterpillar: A Compelling AI Infrastructure Investment"
         },
         {
-            "time": "21:34",
+            "time": "01:43",
             "tag": "MERCADO",
-            "text": "Calpine Acquisition Strengthens Constellation Energy Corporation (CEG) as a High-Growth Utility Stock"
-        },
-        {
-            "time": "20:53",
-            "tag": "MERCADO",
-            "text": "Verisk Analytics stock (US92345Y1064): Analysts see upside but shares cool after recent run-up"
-        },
-        {
-            "time": "20:39",
-            "tag": "RESULTADOS",
-            "text": "Arlo Technologies (NYSE:ARLO) Announces Earnings Results"
+            "text": "Will HP's (HPQ) HyperX Software Push Redefine Its PC\u2011Centric Narrative?"
         }
     ]
 }
