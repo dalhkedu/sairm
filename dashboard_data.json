@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-10 11:54 UTC",
+        "last_updated": "2026-05-10 13:25 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 215.2,
-            "change": "+0.16%"
+            "change": "-3.5%"
         },
         {
             "symbol": "AMD",
             "price": 455.19,
-            "change": "-3.05%"
+            "change": "-0.84%"
         },
         {
             "symbol": "MSFT",
             "price": 415.12,
-            "change": "-0.6%"
+            "change": "+1.59%"
         },
         {
             "symbol": "CEG",
             "price": 303.63,
-            "change": "-2.1%"
+            "change": "-1.93%"
         },
         {
             "symbol": "VST",
             "price": 147.72,
-            "change": "+1.76%"
+            "change": "+1.19%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.69,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
+            0.45,
+            0.45,
+            0.45,
+            0.44,
+            0.45,
+            0.46,
+            0.46,
+            0.46,
+            0.47,
             0.48,
             0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            24.24,
-            24.35,
-            24.02,
-            24.49,
-            24.32,
-            24.11,
-            24.04,
-            24.26,
-            24.08,
-            24.49,
-            24.49,
-            24.59
+            25.39,
+            25.37,
+            25.71,
+            25.82,
+            25.56,
+            25.44,
+            25.46,
+            25.3,
+            25.08,
+            25.39,
+            25.28,
+            25.23
         ],
         "hsd_history_software": [
-            10.48,
-            10.55,
-            10.37,
-            10.28,
-            10.36,
-            10.21,
-            10.2,
-            10.25,
-            10.38,
-            10.31,
-            10.25,
-            10.17
+            9.8,
+            9.7,
+            9.78,
+            9.73,
+            9.54,
+            9.39,
+            9.51,
+            9.44,
+            9.49,
+            9.69,
+            9.71,
+            9.88
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:05",
+            "time": "12:11",
             "tag": "MERCADO",
-            "text": "Microchip Technology Posts $1.31B Quarter: Is Microchip Technology Stock Finally Turning the Corner?"
+            "text": "Citigroup Targets Higher Returns, Unveils $30 Billion Buyback at Investor Day"
         },
         {
-            "time": "11:03",
-            "tag": "MERCADO",
-            "text": "Strs Ohio Reduces Stake in PTC Inc. $PTC"
+            "time": "12:00",
+            "tag": "AI",
+            "text": "Customers Bank Expands AI Partnership With OpenAI"
         },
         {
-            "time": "10:59",
+            "time": "11:43",
             "tag": "MERCADO",
-            "text": "Firetrail Investments PTY Ltd. Buys New Stake in Cadence Design Systems, Inc. $CDNS"
+            "text": "UBS Group AG Cuts Stake in Cognex Corporation $CGNX"
         },
         {
-            "time": "10:55",
-            "tag": "MERCADO",
-            "text": "Income Insurance Ltd Makes New Investment in Oracle Corporation $ORCL"
+            "time": "11:43",
+            "tag": "AI",
+            "text": "How FIS\u2019s AI and Digital\u2011Money Push with Anthropic Could Reshape Fidelity National Information Services (FIS) Investors"
         },
         {
-            "time": "10:55",
+            "time": "11:41",
             "tag": "MERCADO",
-            "text": "Nan Fung Trinity HK Ltd. Boosts Holdings in Oracle Corporation $ORCL"
+            "text": "UNIVEST FINANCIAL Corp Sells 1,015 Shares of Equinix, Inc. $EQIX"
         }
     ]
 }
