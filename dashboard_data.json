@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-11 15:16 UTC",
+        "last_updated": "2026-05-11 17:56 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 221.18,
-            "change": "-0.83%"
+            "price": 220.62,
+            "change": "+1.15%"
         },
         {
             "symbol": "AMD",
-            "price": 460.05,
-            "change": "+1.2%"
+            "price": 466.8,
+            "change": "-2.52%"
         },
         {
             "symbol": "MSFT",
-            "price": 409.8,
-            "change": "-2.09%"
+            "price": 411.19,
+            "change": "-2.91%"
         },
         {
             "symbol": "CEG",
-            "price": 294.59,
-            "change": "-1.07%"
+            "price": 300.4,
+            "change": "-0.07%"
         },
         {
             "symbol": "VST",
-            "price": 147.85,
-            "change": "+0.49%"
+            "price": 151.49,
+            "change": "+0.23%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.52,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5,
             0.51,
             0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            22.92,
-            22.95,
-            23.32,
-            23.76,
-            24.21,
-            23.74,
-            24.08,
-            24.12,
-            24.58,
-            24.42,
-            24.88,
-            24.51
+            22.53,
+            22.94,
+            22.79,
+            23.04,
+            23.36,
+            23.6,
+            23.92,
+            24.16,
+            24.04,
+            24.07,
+            24.17,
+            24.53
         ],
         "hsd_history_software": [
-            9.46,
-            9.47,
-            9.33,
-            9.4,
-            9.29,
-            9.47,
-            9.41,
-            9.6,
-            9.56,
-            9.72,
-            9.88,
-            9.96
+            10.55,
+            10.56,
+            10.63,
+            10.59,
+            10.41,
+            10.45,
+            10.44,
+            10.48,
+            10.32,
+            10.18,
+            10.08,
+            9.97
         ],
         "rci_data": [
             85.0,
-            22.118000000000002
+            22.062
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:36",
+            "time": "17:10",
             "tag": "MERCADO",
-            "text": "Qualcomm, Micron among market cap stock movers on Monday"
+            "text": "MIND CTI Reports First Quarter 2026 Results"
         },
         {
-            "time": "14:35",
-            "tag": "AI",
-            "text": "Tapestry receives U.S. patent for AI platform Mira By Investing.com"
-        },
-        {
-            "time": "14:27",
-            "tag": "AI",
-            "text": "Tapestry\u2019s Mira AI cuts days of data work to minutes, wins patent"
-        },
-        {
-            "time": "14:26",
+            "time": "17:08",
             "tag": "MERCADO",
-            "text": "RTX's Collins Aerospace accelerates production with $26.5 million investment in Largo, Florida"
+            "text": "Netflix sued by Texas for allegedly spying on children, addicting users"
         },
         {
-            "time": "14:26",
+            "time": "17:07",
             "tag": "MERCADO",
-            "text": "News Corp stock (US65249B1098): Media giant's steady presence in digital shift"
+            "text": "Fortinet, Cloudflare likely to be among beneficiaries of post-quantum cryptography: BTIG (FTNT:NASDAQ)"
+        },
+        {
+            "time": "16:56",
+            "tag": "MERCADO",
+            "text": "Does Digital Realty\u2019s US$7.5 Billion ATM and Talent Push Reshape the Bull Case for DLR?"
+        },
+        {
+            "time": "16:56",
+            "tag": "MERCADO",
+            "text": "Reed Hastings Exit And Narnia Bet Reframe Netflix Investor Story"
         }
     ]
 }
