@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-11 19:56 UTC",
+        "last_updated": "2026-05-11 21:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 219.31,
-            "change": "-3.03%"
+            "price": 219.44,
+            "change": "-3.1%"
         },
         {
             "symbol": "AMD",
-            "price": 458.05,
-            "change": "+1.31%"
+            "price": 458.79,
+            "change": "+0.09%"
         },
         {
             "symbol": "MSFT",
-            "price": 412.26,
-            "change": "+2.81%"
+            "price": 412.66,
+            "change": "-1.35%"
         },
         {
             "symbol": "CEG",
-            "price": 299.28,
-            "change": "+1.75%"
+            "price": 299.69,
+            "change": "+3.14%"
         },
         {
             "symbol": "VST",
-            "price": 151.96,
-            "change": "+3.28%"
+            "price": 152.05,
+            "change": "-0.41%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.65,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.54,
-            0.54,
+            0.53,
             0.53,
             0.52,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
             0.52,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            23.92,
-            24.4,
-            24.43,
-            24.39,
-            23.99,
-            24.32,
-            24.38,
-            24.7,
-            24.87,
-            24.7,
-            24.91,
-            24.56
+            25.62,
+            26.13,
+            26.65,
+            26.46,
+            26.33,
+            26.61,
+            26.42,
+            25.92,
+            25.65,
+            25.69,
+            25.24,
+            25.0
         ],
         "hsd_history_software": [
-            10.09,
-            10.15,
-            10.19,
-            10.35,
-            10.33,
-            10.27,
-            10.45,
-            10.48,
-            10.32,
-            10.19,
-            10.04,
-            10.03
+            10.08,
+            9.89,
+            9.94,
+            9.82,
+            9.99,
+            10.03,
+            9.92,
+            10.07,
+            10.12,
+            10.08,
+            9.94,
+            10.02
         ],
         "rci_data": [
             85.0,
-            21.931
+            21.944
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:10",
+            "time": "20:31",
             "tag": "MERCADO",
-            "text": "Rocket Lab rallies to an all-time high as its M&A roll-up strategy impresses (RKLB:NASDAQ)"
+            "text": "Intuitive Surgical Stock Drops 6%: Why ISRG Hit A Fresh 52-Week Low Today"
         },
         {
-            "time": "19:08",
+            "time": "20:16",
             "tag": "MERCADO",
-            "text": "Starbucks tech layoffs hit Seattle workers"
+            "text": "Westlake City Council approves $1.7 million contract for new police cameras, advanced drone"
         },
         {
-            "time": "18:46",
-            "tag": "RESULTADOS",
-            "text": "Buy Cisco Stock Ahead of Q3 Earnings? Here's What to Know"
-        },
-        {
-            "time": "18:45",
+            "time": "20:14",
             "tag": "MERCADO",
-            "text": "Starbucks to cut 61 technology jobs in Seattle"
+            "text": "Javier Olivan sells META stock; multiple trades reported (META)"
         },
         {
-            "time": "18:43",
+            "time": "20:14",
+            "tag": "MERCADO",
+            "text": "Agilent to Participate in Jefferies Global Healthcare Conference"
+        },
+        {
+            "time": "20:11",
             "tag": "AI",
-            "text": "Medtronic Study Reveals AI-Enabled Clinician Alerts Significantly Improve Evaluation and Valve Intervention For Patients With Heart Valve Disease"
+            "text": "Safe Pro\u2019s Edge AI Battlefield Threat Detection Selected by U.S. Army for Upcoming Force-on-Force Combat Exercise"
         }
     ]
 }
