@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-11 07:47 UTC",
+        "last_updated": "2026-05-11 11:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 215.2,
-            "change": "-1.4%"
+            "change": "+1.69%"
         },
         {
             "symbol": "AMD",
             "price": 455.19,
-            "change": "+1.36%"
+            "change": "-3.16%"
         },
         {
             "symbol": "MSFT",
             "price": 415.12,
-            "change": "-1.85%"
+            "change": "+1.77%"
         },
         {
             "symbol": "CEG",
             "price": 303.63,
-            "change": "-0.25%"
+            "change": "-1.45%"
         },
         {
             "symbol": "VST",
             "price": 147.72,
-            "change": "-0.1%"
+            "change": "-2.89%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.58,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
             0.5,
             0.5,
             0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.5,
-            0.5,
-            0.51
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.43,
-            25.76,
-            25.75,
-            25.87,
-            25.37,
-            25.49,
-            25.37,
-            25.34,
-            25.57,
-            25.32,
             25.05,
-            24.79
+            24.88,
+            24.63,
+            24.43,
+            24.18,
+            24.05,
+            24.06,
+            23.76,
+            23.81,
+            23.97,
+            24.31,
+            24.54
         ],
         "hsd_history_software": [
-            10.03,
-            10.12,
-            10.02,
-            10.04,
-            9.94,
-            9.93,
-            9.85,
-            9.98,
-            9.81,
-            10.01,
-            9.93,
-            9.87
+            10.79,
+            10.71,
+            10.63,
+            10.52,
+            10.38,
+            10.43,
+            10.24,
+            10.23,
+            10.08,
+            9.9,
+            9.96,
+            10.15
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:48",
+            "time": "10:39",
             "tag": "MERCADO",
-            "text": "Blackstone Agrees to Buy Stake in Greek Online Market Skroutz"
+            "text": "Assessing Agilysys (AGYS) Valuation After Volatile Trading And A Contrasting Undervalued Narrative"
         },
         {
-            "time": "06:16",
+            "time": "10:36",
             "tag": "MERCADO",
-            "text": "Regulatory Risks Rise: How Global Data Privacy and Cybersecurity Laws Threaten Qorvo Inc.\u2019s Costs and Performance"
+            "text": "ServiceNow, Inc. $NOW Position Boosted by Securian Asset Management Inc."
         },
         {
-            "time": "06:10",
-            "tag": "AI",
-            "text": "Is Rambus (RMBS) Quietly Repositioning Its IP Portfolio Around Next-Gen AI Interconnect Demand?"
-        },
-        {
-            "time": "06:07",
-            "tag": "RESULTADOS",
-            "text": "What is Erste Group Bank's Estimate for IBM FY2027 Earnings?"
-        },
-        {
-            "time": "05:52",
+            "time": "10:31",
             "tag": "MERCADO",
-            "text": "Synopsys Inc. stock (US8716071076): Shares extend gains after strong quarterly results and analyst t"
+            "text": "Nio Onvo targets over 3,300 available swap stations by year-end"
+        },
+        {
+            "time": "10:30",
+            "tag": "MERCADO",
+            "text": "Kepler Cheuvreux Suisse SA Has $14.92 Million Stock Holdings in NetApp, Inc. $NTAP"
+        },
+        {
+            "time": "10:30",
+            "tag": "MERCADO",
+            "text": "Securian Asset Management Inc. Cuts Stake in Lam Research Corporation $LRCX"
         }
     ]
 }
