@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-11 22:57 UTC",
+        "last_updated": "2026-05-12 00:04 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 219.44,
-            "change": "-2.3%"
+            "change": "-0.64%"
         },
         {
             "symbol": "AMD",
             "price": 458.79,
-            "change": "+0.77%"
+            "change": "+3.24%"
         },
         {
             "symbol": "MSFT",
             "price": 412.66,
-            "change": "-0.17%"
+            "change": "+1.3%"
         },
         {
             "symbol": "CEG",
             "price": 299.69,
-            "change": "+0.71%"
+            "change": "+2.52%"
         },
         {
             "symbol": "VST",
             "price": 152.05,
-            "change": "-1.07%"
+            "change": "-0.25%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.51,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
+            0.54,
+            0.53,
             0.52,
             0.52,
             0.52,
             0.51,
+            0.51,
+            0.51,
             0.5,
-            0.49,
+            0.51,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.63,
-            25.11,
-            24.71,
-            25.01,
-            24.62,
-            24.79,
-            24.96,
-            25.34,
-            24.89,
-            25.11,
-            24.87,
-            25.09
+            26.76,
+            26.79,
+            26.48,
+            26.38,
+            26.36,
+            26.1,
+            25.68,
+            25.48,
+            25.5,
+            25.02,
+            24.67,
+            24.82
         ],
         "hsd_history_software": [
-            9.86,
-            10.03,
-            9.92,
-            9.88,
-            9.98,
-            10.18,
-            10.29,
-            10.14,
-            10.06,
-            10.13,
-            10.17,
-            10.06
+            10.41,
+            10.22,
+            10.38,
+            10.34,
+            10.48,
+            10.53,
+            10.64,
+            10.59,
+            10.46,
+            10.37,
+            10.3,
+            10.18
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:06",
+            "time": "23:32",
             "tag": "MERCADO",
-            "text": "Blackstone and Halliburton Said to Invest $1 Billion in VoltaGrid"
+            "text": "Hasbro delays 10-Q after cyber incident"
         },
         {
-            "time": "22:01",
+            "time": "23:24",
             "tag": "MERCADO",
-            "text": "Seagate Technology Holdings PLC (STX) Stock Up 6.6% but GF Value Says Overvalued -- GF Score: 73/100"
+            "text": "Arista Networks (NYSE:ANET) Stock Price Down 3.7% - Time to Sell?"
         },
         {
-            "time": "21:51",
+            "time": "22:39",
             "tag": "MERCADO",
-            "text": "Autodesk Inc. stock (US0527691069): Latest company overview and market position"
+            "text": "Is Applied Optoelectronics, Inc. (AAOI) Among the Best Photonics Stocks to Buy?"
         },
         {
-            "time": "21:51",
-            "tag": "MERCADO",
-            "text": "Intuit (INTU) director receives 64 RSUs instead of cash fees"
+            "time": "22:39",
+            "tag": "RESULTADOS",
+            "text": "ZoomInfo (GTM) Reports Strong Q4 Earnings with Revenue and EPS Beat"
         },
         {
-            "time": "21:32",
-            "tag": "AI",
-            "text": "Is Motorola Solutions (MSI) Quietly Recasting Its Public Safety Story Around Software And AI?"
+            "time": "22:29",
+            "tag": "MERCADO",
+            "text": "LinearB Named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Developer Productivity Insight Platforms"
         }
     ]
 }
