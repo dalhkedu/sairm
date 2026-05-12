@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-12 00:04 UTC",
+        "last_updated": "2026-05-12 04:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 219.44,
-            "change": "-0.64%"
+            "change": "+0.37%"
         },
         {
             "symbol": "AMD",
             "price": 458.79,
-            "change": "+3.24%"
+            "change": "+3.31%"
         },
         {
             "symbol": "MSFT",
             "price": 412.66,
-            "change": "+1.3%"
+            "change": "+3.24%"
         },
         {
             "symbol": "CEG",
             "price": 299.69,
-            "change": "+2.52%"
+            "change": "+1.29%"
         },
         {
             "symbol": "VST",
             "price": 152.05,
-            "change": "-0.25%"
+            "change": "-0.24%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.69,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
             0.51,
             0.51,
             0.51,
             0.5,
+            0.5,
+            0.5,
+            0.5,
             0.51,
             0.5,
-            0.5
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            26.76,
-            26.79,
-            26.48,
-            26.38,
-            26.36,
-            26.1,
-            25.68,
-            25.48,
-            25.5,
-            25.02,
+            24.98,
+            25.14,
+            24.75,
+            24.34,
+            24.49,
+            24.05,
+            24.15,
+            24.61,
+            24.68,
             24.67,
-            24.82
+            24.84,
+            25.17
         ],
         "hsd_history_software": [
-            10.41,
-            10.22,
-            10.38,
-            10.34,
-            10.48,
-            10.53,
-            10.64,
-            10.59,
-            10.46,
-            10.37,
-            10.3,
-            10.18
+            9.93,
+            9.88,
+            10.04,
+            9.93,
+            9.91,
+            9.82,
+            9.74,
+            9.83,
+            10.01,
+            9.96,
+            10.14,
+            10.17
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "23:32",
+            "time": "03:51",
             "tag": "MERCADO",
-            "text": "Hasbro delays 10-Q after cyber incident"
+            "text": "Seahawks become first NFL team to partner with PayPal"
         },
         {
-            "time": "23:24",
+            "time": "03:37",
             "tag": "MERCADO",
-            "text": "Arista Networks (NYSE:ANET) Stock Price Down 3.7% - Time to Sell?"
+            "text": "Alphabet closes \u20ac9 billion and C$9.5 billion senior notes offerings"
         },
         {
-            "time": "22:39",
+            "time": "03:14",
             "tag": "MERCADO",
-            "text": "Is Applied Optoelectronics, Inc. (AAOI) Among the Best Photonics Stocks to Buy?"
+            "text": "Hedge funds record decade-high weekly buying in Korea, Japan, Taiwan equities, Morgan Stanley says"
         },
         {
-            "time": "22:39",
-            "tag": "RESULTADOS",
-            "text": "ZoomInfo (GTM) Reports Strong Q4 Earnings with Revenue and EPS Beat"
+            "time": "03:09",
+            "tag": "MERCADO",
+            "text": "JD.com Q1 2026 results preview: food delivery losses in focus"
         },
         {
-            "time": "22:29",
+            "time": "03:09",
             "tag": "MERCADO",
-            "text": "LinearB Named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Developer Productivity Insight Platforms"
+            "text": "Days After Announcing Deal, Malone Buying out GCI\u2019s Stake in Liberty Latin America"
         }
     ]
 }
