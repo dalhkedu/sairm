@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-13 00:02 UTC",
+        "last_updated": "2026-05-13 04:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 220.78,
-            "change": "+0.04%"
+            "change": "+1.75%"
         },
         {
             "symbol": "AMD",
             "price": 448.29,
-            "change": "-3.09%"
+            "change": "-3.13%"
         },
         {
             "symbol": "MSFT",
             "price": 407.77,
-            "change": "+0.87%"
+            "change": "+1.48%"
         },
         {
             "symbol": "CEG",
             "price": 293.6,
-            "change": "+1.47%"
+            "change": "-3.15%"
         },
         {
             "symbol": "VST",
             "price": 146.87,
-            "change": "-3.07%"
+            "change": "+2.0%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.48,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
             0.5,
-            0.51,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            26.83,
-            26.82,
-            26.33,
-            25.83,
-            25.5,
-            25.46,
-            25.1,
-            25.39,
-            25.15,
-            25.22,
-            24.88,
-            24.84
+            23.3,
+            22.91,
+            23.3,
+            23.64,
+            23.8,
+            23.91,
+            24.15,
+            24.12,
+            24.57,
+            24.39,
+            24.84,
+            24.85
         ],
         "hsd_history_software": [
-            9.25,
-            9.33,
-            9.47,
-            9.66,
-            9.49,
-            9.62,
-            9.72,
-            9.9,
-            9.85,
-            9.72,
-            9.9,
-            9.86
+            9.88,
+            10.03,
+            9.89,
+            10.08,
+            9.91,
+            10.03,
+            10.16,
+            10.18,
+            9.98,
+            10.12,
+            9.93,
+            10.11
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,9 @@
     ],
     "news_feed": [
         {
-            "time": "23:07",
-            "tag": "MERCADO",
-            "text": "Google Leads 15 Top Performers Onto These Best Stock Watchlists"
-        },
-        {
-            "time": "23:04",
-            "tag": "RESULTADOS",
-            "text": "Axe Compute Schedules First-Quarter 2026 Earnings Webcast"
-        },
-        {
-            "time": "22:59",
-            "tag": "MERCADO",
-            "text": "Oracle appoints healthcare leader Tomislav Mihaljevic to board"
-        },
-        {
-            "time": "22:55",
-            "tag": "AI",
-            "text": "AI and GLP-1 drugs: Eli Lilly & Co.\u2019s CEO talks of focus beyond 150 years"
-        },
-        {
-            "time": "22:50",
-            "tag": "MERCADO",
-            "text": "Idira launches as Palo Alto Networks extends CyberArk tech to machine and agentic identities"
+            "time": "INFO",
+            "tag": "LIMIT",
+            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
         }
     ]
 }
