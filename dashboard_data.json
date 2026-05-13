@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-13 18:57 UTC",
+        "last_updated": "2026-05-13 20:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 226.96,
-            "change": "+1.42%"
+            "price": 225.83,
+            "change": "-1.85%"
         },
         {
             "symbol": "AMD",
-            "price": 446.8,
-            "change": "-1.1%"
+            "price": 445.5,
+            "change": "-1.02%"
         },
         {
             "symbol": "MSFT",
-            "price": 405.46,
-            "change": "-3.45%"
+            "price": 405.21,
+            "change": "+1.59%"
         },
         {
             "symbol": "CEG",
-            "price": 275.64,
-            "change": "+1.43%"
+            "price": 274.89,
+            "change": "-1.2%"
         },
         {
             "symbol": "VST",
-            "price": 143.1,
-            "change": "-1.24%"
+            "price": 142.61,
+            "change": "-0.83%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.52,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.52,
-            0.53,
-            0.52,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
             0.52,
             0.51,
-            0.5
+            0.52,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.52,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.44,
-            24.61,
-            25.05,
-            25.55,
-            25.41,
-            25.08,
-            25.32,
-            25.59,
-            25.85,
-            25.43,
+            25.18,
             25.15,
-            25.12
+            24.98,
+            25.36,
+            25.0,
+            24.96,
+            24.92,
+            25.4,
+            25.32,
+            24.91,
+            25.16,
+            24.98
         ],
         "hsd_history_software": [
-            9.64,
-            9.76,
+            10.12,
+            10.18,
+            10.01,
+            9.92,
+            9.9,
+            9.86,
+            9.9,
             9.91,
-            10.08,
-            10.19,
-            10.36,
-            10.22,
-            10.08,
-            10.19,
-            10.06,
-            10.03,
-            10.18
+            9.77,
+            9.96,
+            10.13,
+            10.11
         ],
         "rci_data": [
             85.0,
-            22.695999999999998
+            22.583000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:08",
+            "time": "20:08",
             "tag": "MERCADO",
-            "text": "213 inventors, 2,800 patents: inside Donaldson\u2019s filtration awards"
+            "text": "Amplify CWP Growth & Income ETF"
         },
         {
-            "time": "18:07",
+            "time": "20:05",
             "tag": "MERCADO",
-            "text": "Corning stock reaches all-time high of 209.43 USD By Investing.com"
+            "text": "Expedia\u2019s Explore 26 event to share new ways to improve your trips"
         },
         {
-            "time": "18:03",
+            "time": "20:00",
             "tag": "MERCADO",
-            "text": "Delta Rejected World\u2019s Fastest Wi-Fi Over Branding and It Could Backfire"
+            "text": "Expedia Group to Webcast Explore 26 General Opening Session on May 19, 2026"
         },
         {
-            "time": "18:03",
+            "time": "19:53",
             "tag": "MERCADO",
-            "text": "Broadcom sues EU antitrust regulators over request for US legal documents"
+            "text": "Teradyne Inc. stock (US8807701029): French fund buys shares amid strong Q1 growth"
         },
         {
-            "time": "17:57",
+            "time": "19:52",
             "tag": "MERCADO",
-            "text": "Analog Devices Stock: Analyst Estimates & Ratings"
+            "text": "Accenture, Roper Technologies, and 8 More Beaten-Down Stocks Worth Considering"
         }
     ]
 }
