@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-13 16:21 UTC",
+        "last_updated": "2026-05-13 18:57 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 226.88,
-            "change": "+2.23%"
+            "price": 226.96,
+            "change": "+1.42%"
         },
         {
             "symbol": "AMD",
-            "price": 447.11,
+            "price": 446.8,
             "change": "-1.1%"
         },
         {
             "symbol": "MSFT",
-            "price": 405.11,
-            "change": "+1.41%"
+            "price": 405.46,
+            "change": "-3.45%"
         },
         {
             "symbol": "CEG",
-            "price": 275.94,
-            "change": "-2.37%"
+            "price": 275.64,
+            "change": "+1.43%"
         },
         {
             "symbol": "VST",
-            "price": 141.68,
-            "change": "-2.32%"
+            "price": 143.1,
+            "change": "-1.24%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.65,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.53,
             0.53,
-            0.54,
+            0.52,
+            0.53,
+            0.52,
+            0.53,
             0.53,
             0.52,
             0.52,
             0.52,
             0.51,
-            0.51,
-            0.51,
-            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            23.52,
-            23.8,
-            23.89,
-            23.89,
-            24.22,
-            24.54,
-            24.58,
-            24.32,
-            24.52,
-            24.94,
-            25.01,
-            25.28
+            24.44,
+            24.61,
+            25.05,
+            25.55,
+            25.41,
+            25.08,
+            25.32,
+            25.59,
+            25.85,
+            25.43,
+            25.15,
+            25.12
         ],
         "hsd_history_software": [
-            10.22,
-            10.37,
-            10.25,
-            10.43,
-            10.32,
+            9.64,
+            9.76,
+            9.91,
+            10.08,
+            10.19,
             10.36,
-            10.57,
-            10.41,
-            10.27,
-            10.16,
-            10.27,
+            10.22,
+            10.08,
+            10.19,
+            10.06,
+            10.03,
             10.18
         ],
         "rci_data": [
             85.0,
-            22.688
+            22.695999999999998
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:32",
+            "time": "18:08",
             "tag": "MERCADO",
-            "text": "Akamai Technologies Jumps 6.9% After B of A Securities Upgrades to Buy"
+            "text": "213 inventors, 2,800 patents: inside Donaldson\u2019s filtration awards"
         },
         {
-            "time": "15:31",
+            "time": "18:07",
             "tag": "MERCADO",
-            "text": "Global-E Online Delivers 50.0% Q1 2026 Upside, Revenue Up 33%"
+            "text": "Corning stock reaches all-time high of 209.43 USD By Investing.com"
         },
         {
-            "time": "15:31",
-            "tag": "AI",
-            "text": "DTE: Robust growth in Q1 2026, led by T-Mobile US, fiber expansion, and AI innovation"
+            "time": "18:03",
+            "tag": "MERCADO",
+            "text": "Delta Rejected World\u2019s Fastest Wi-Fi Over Branding and It Could Backfire"
         },
         {
-            "time": "15:30",
+            "time": "18:03",
             "tag": "MERCADO",
-            "text": "NetApp stock (US64120B1098): Shares drop 1.27% amid market pressures"
+            "text": "Broadcom sues EU antitrust regulators over request for US legal documents"
         },
         {
-            "time": "15:17",
+            "time": "17:57",
             "tag": "MERCADO",
-            "text": "AMETEK Inc stock (US0311001004): Zacks upgrades to Buy amid analyst support"
+            "text": "Analog Devices Stock: Analyst Estimates & Ratings"
         }
     ]
 }
