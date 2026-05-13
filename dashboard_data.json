@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-13 04:49 UTC",
+        "last_updated": "2026-05-13 07:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 220.78,
-            "change": "+1.75%"
+            "change": "+2.21%"
         },
         {
             "symbol": "AMD",
             "price": 448.29,
-            "change": "-3.13%"
+            "change": "+1.57%"
         },
         {
             "symbol": "MSFT",
             "price": 407.77,
-            "change": "+1.48%"
+            "change": "-2.99%"
         },
         {
             "symbol": "CEG",
             "price": 293.6,
-            "change": "-3.15%"
+            "change": "-2.98%"
         },
         {
             "symbol": "VST",
             "price": 146.87,
-            "change": "+2.0%"
+            "change": "-2.87%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.59,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.5,
+            0.51,
+            0.52,
+            0.51,
+            0.52,
+            0.51,
             0.51,
             0.5,
             0.5,
-            0.5,
             0.49,
-            0.5,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            23.3,
-            22.91,
-            23.3,
-            23.64,
-            23.8,
-            23.91,
-            24.15,
-            24.12,
-            24.57,
-            24.39,
-            24.84,
-            24.85
+            26.92,
+            27.07,
+            26.59,
+            26.08,
+            25.85,
+            25.47,
+            25.16,
+            25.37,
+            25.05,
+            24.98,
+            24.74,
+            25.01
         ],
         "hsd_history_software": [
-            9.88,
-            10.03,
-            9.89,
-            10.08,
-            9.91,
-            10.03,
-            10.16,
-            10.18,
-            9.98,
-            10.12,
             9.93,
-            10.11
+            10.1,
+            10.04,
+            9.86,
+            9.76,
+            9.85,
+            9.83,
+            9.86,
+            9.78,
+            9.67,
+            9.77,
+            9.93
         ],
         "rci_data": [
             85.0,
@@ -126,9 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "INFO",
-            "tag": "LIMIT",
-            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
+            "time": "07:00",
+            "tag": "MERCADO",
+            "text": "Cepheid Receives CE Marking Under IVDR for Xpert\u00ae GI Panel"
+        },
+        {
+            "time": "06:40",
+            "tag": "MERCADO",
+            "text": "Best Buy Co., Inc. (NYSE:BBY) Given Average Rating of \"Hold\" by Analysts"
+        },
+        {
+            "time": "06:37",
+            "tag": "MERCADO",
+            "text": "Oracle Corporation (NYSE:ORCL) Given Average Recommendation of \"Moderate Buy\" by Brokerages"
+        },
+        {
+            "time": "06:35",
+            "tag": "MERCADO",
+            "text": "Playtika (PLTK) Reports Q1 EPS"
+        },
+        {
+            "time": "06:31",
+            "tag": "MERCADO",
+            "text": "Is AppLovin a Better Buy Than Synopsys?"
         }
     ]
 }
