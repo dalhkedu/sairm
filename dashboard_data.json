@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-13 07:50 UTC",
+        "last_updated": "2026-05-13 10:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 220.78,
-            "change": "+2.21%"
+            "change": "-0.13%"
         },
         {
             "symbol": "AMD",
             "price": 448.29,
-            "change": "+1.57%"
+            "change": "-2.47%"
         },
         {
             "symbol": "MSFT",
             "price": 407.77,
-            "change": "-2.99%"
+            "change": "-2.11%"
         },
         {
             "symbol": "CEG",
             "price": 293.6,
-            "change": "-2.98%"
+            "change": "+2.45%"
         },
         {
             "symbol": "VST",
             "price": 146.87,
-            "change": "-2.87%"
+            "change": "+0.24%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.67,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
             0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
             0.52,
             0.51,
             0.52,
             0.51,
             0.51,
-            0.5,
-            0.5,
-            0.49,
-            0.5
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            26.92,
-            27.07,
-            26.59,
-            26.08,
+            26.17,
+            26.17,
+            26.24,
+            26.42,
+            26.18,
             25.85,
-            25.47,
-            25.16,
-            25.37,
-            25.05,
-            24.98,
-            24.74,
-            25.01
+            25.73,
+            25.52,
+            25.73,
+            25.51,
+            25.56,
+            25.17
         ],
         "hsd_history_software": [
-            9.93,
-            10.1,
-            10.04,
-            9.86,
-            9.76,
-            9.85,
-            9.83,
-            9.86,
-            9.78,
-            9.67,
-            9.77,
-            9.93
+            9.13,
+            9.22,
+            9.4,
+            9.35,
+            9.3,
+            9.36,
+            9.52,
+            9.59,
+            9.69,
+            9.71,
+            9.88,
+            9.83
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:00",
+            "time": "10:01",
             "tag": "MERCADO",
-            "text": "Cepheid Receives CE Marking Under IVDR for Xpert\u00ae GI Panel"
+            "text": "Trek Financial LLC Purchases 2,937 Shares of International Business Machines Corporation $IBM"
         },
         {
-            "time": "06:40",
+            "time": "10:01",
             "tag": "MERCADO",
-            "text": "Best Buy Co., Inc. (NYSE:BBY) Given Average Rating of \"Hold\" by Analysts"
+            "text": "Swiss Life Asset Management Ltd Sells 4,699 Shares of Expedia Group, Inc. $EXPE"
         },
         {
-            "time": "06:37",
+            "time": "10:01",
             "tag": "MERCADO",
-            "text": "Oracle Corporation (NYSE:ORCL) Given Average Recommendation of \"Moderate Buy\" by Brokerages"
+            "text": "PayPal Holdings, Inc. $PYPL Shares Acquired by Money Concepts Capital Corp"
         },
         {
-            "time": "06:35",
+            "time": "10:01",
             "tag": "MERCADO",
-            "text": "Playtika (PLTK) Reports Q1 EPS"
+            "text": "Swiss Life Asset Management Ltd Purchases 7,604 Shares of NXP Semiconductors N.V. $NXPI"
         },
         {
-            "time": "06:31",
+            "time": "10:00",
             "tag": "MERCADO",
-            "text": "Is AppLovin a Better Buy Than Synopsys?"
+            "text": "Meridian Wealth Management LLC Grows Stake in Lam Research Corporation $LRCX"
         }
     ]
 }
