@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-13 13:12 UTC",
+        "last_updated": "2026-05-13 16:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 220.78,
-            "change": "-0.4%"
+            "price": 226.88,
+            "change": "+2.23%"
         },
         {
             "symbol": "AMD",
-            "price": 448.29,
-            "change": "+0.75%"
+            "price": 447.11,
+            "change": "-1.1%"
         },
         {
             "symbol": "MSFT",
-            "price": 407.77,
-            "change": "-2.48%"
+            "price": 405.11,
+            "change": "+1.41%"
         },
         {
             "symbol": "CEG",
-            "price": 293.6,
-            "change": "+2.2%"
+            "price": 275.94,
+            "change": "-2.37%"
         },
         {
             "symbol": "VST",
-            "price": 146.87,
-            "change": "-3.38%"
+            "price": 141.68,
+            "change": "-2.32%"
         }
     ],
     "dashboard_metrics": {
         "cer_current": 0.62,
-        "rci_current": 0.22,
+        "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.51,
+            0.53,
+            0.53,
+            0.54,
+            0.53,
+            0.52,
+            0.52,
             0.52,
             0.51,
             0.51,
-            0.51
+            0.51,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.32,
-            26.56,
-            26.14,
-            25.79,
-            25.54,
-            25.21,
-            25.45,
-            25.36,
-            25.86,
-            25.84,
-            25.6,
-            25.38
+            23.52,
+            23.8,
+            23.89,
+            23.89,
+            24.22,
+            24.54,
+            24.58,
+            24.32,
+            24.52,
+            24.94,
+            25.01,
+            25.28
         ],
         "hsd_history_software": [
-            9.84,
-            9.76,
-            9.8,
-            9.78,
-            9.82,
-            9.97,
-            9.81,
-            9.84,
-            9.91,
-            9.83,
-            10.03,
-            9.88
+            10.22,
+            10.37,
+            10.25,
+            10.43,
+            10.32,
+            10.36,
+            10.57,
+            10.41,
+            10.27,
+            10.16,
+            10.27,
+            10.18
         ],
         "rci_data": [
             85.0,
-            22.078
+            22.688
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:57",
+            "time": "15:32",
             "tag": "MERCADO",
-            "text": "Pratt & Whitney and GE Set to Assemble Next-Gen Adaptive Cycle Engines"
+            "text": "Akamai Technologies Jumps 6.9% After B of A Securities Upgrades to Buy"
         },
         {
-            "time": "12:38",
+            "time": "15:31",
             "tag": "MERCADO",
-            "text": "iShares FinTech Active ETF"
+            "text": "Global-E Online Delivers 50.0% Q1 2026 Upside, Revenue Up 33%"
         },
         {
-            "time": "12:33",
-            "tag": "MERCADO",
-            "text": "$1B buyback boost: CDW board expands share repurchase plan"
+            "time": "15:31",
+            "tag": "AI",
+            "text": "DTE: Robust growth in Q1 2026, led by T-Mobile US, fiber expansion, and AI innovation"
         },
         {
-            "time": "12:31",
+            "time": "15:30",
             "tag": "MERCADO",
-            "text": "eBay said no to GameStop. Preloved Fashion May Have Dodged A Bullet."
+            "text": "NetApp stock (US64120B1098): Shares drop 1.27% amid market pressures"
         },
         {
-            "time": "12:31",
+            "time": "15:17",
             "tag": "MERCADO",
-            "text": "Procter & Gamble makes performance gains with migration of SAP systems to Microsoft Azure"
+            "text": "AMETEK Inc stock (US0311001004): Zacks upgrades to Buy amid analyst support"
         }
     ]
 }
