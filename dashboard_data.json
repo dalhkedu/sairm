@@ -1,80 +1,80 @@
 {
     "metadata": {
-        "last_updated": "2026-05-13 20:49 UTC",
+        "last_updated": "2026-05-13 22:15 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.83,
-            "change": "-1.85%"
+            "change": "+0.02%"
         },
         {
             "symbol": "AMD",
             "price": 445.5,
-            "change": "-1.02%"
+            "change": "+2.33%"
         },
         {
             "symbol": "MSFT",
             "price": 405.21,
-            "change": "+1.59%"
+            "change": "+2.59%"
         },
         {
             "symbol": "CEG",
             "price": 274.89,
-            "change": "-1.2%"
+            "change": "-0.16%"
         },
         {
             "symbol": "VST",
             "price": 142.61,
-            "change": "-0.83%"
+            "change": "+2.03%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.66,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
             0.5,
             0.51,
-            0.52,
             0.51,
+            0.51,
+            0.5,
+            0.51,
+            0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            25.18,
-            25.15,
-            24.98,
-            25.36,
-            25.0,
-            24.96,
-            24.92,
-            25.4,
-            25.32,
-            24.91,
-            25.16,
-            24.98
+            26.96,
+            27.22,
+            26.92,
+            27.1,
+            26.58,
+            26.23,
+            25.85,
+            26.2,
+            26.04,
+            25.85,
+            25.45,
+            25.16
         ],
         "hsd_history_software": [
-            10.12,
+            10.28,
+            10.37,
+            10.28,
+            10.48,
+            10.39,
+            10.28,
             10.18,
-            10.01,
-            9.92,
-            9.9,
-            9.86,
-            9.9,
-            9.91,
-            9.77,
-            9.96,
-            10.13,
+            10.12,
+            10.2,
+            10.25,
+            10.19,
             10.11
         ],
         "rci_data": [
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:08",
-            "tag": "MERCADO",
-            "text": "Amplify CWP Growth & Income ETF"
+            "time": "21:37",
+            "tag": "RESULTADOS",
+            "text": "Cisco: Fiscal Q3 Earnings Snapshot"
         },
         {
-            "time": "20:05",
+            "time": "21:20",
             "tag": "MERCADO",
-            "text": "Expedia\u2019s Explore 26 event to share new ways to improve your trips"
+            "text": "Salesforce (NYSE:CRM) Trading Down 3.1% Following Analyst Downgrade"
         },
         {
-            "time": "20:00",
-            "tag": "MERCADO",
-            "text": "Expedia Group to Webcast Explore 26 General Opening Session on May 19, 2026"
+            "time": "21:16",
+            "tag": "AI",
+            "text": "Truist raises Digital Realty stock price target on AI demand By Investing.com"
         },
         {
-            "time": "19:53",
+            "time": "20:57",
             "tag": "MERCADO",
-            "text": "Teradyne Inc. stock (US8807701029): French fund buys shares amid strong Q1 growth"
+            "text": "Tyler Technologies stock (US9022521051): Shares fall 4.6% on heavy trading volume"
         },
         {
-            "time": "19:52",
+            "time": "20:53",
             "tag": "MERCADO",
-            "text": "Accenture, Roper Technologies, and 8 More Beaten-Down Stocks Worth Considering"
+            "text": "Verisign stock (US92343E1029): Recent 6.67% gain highlights momentum"
         }
     ]
 }
