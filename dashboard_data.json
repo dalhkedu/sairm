@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-14 12:27 UTC",
+        "last_updated": "2026-05-14 15:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 225.83,
-            "change": "+0.56%"
+            "price": 235.4,
+            "change": "-2.73%"
         },
         {
             "symbol": "AMD",
-            "price": 445.5,
-            "change": "+0.66%"
+            "price": 452.6,
+            "change": "+1.83%"
         },
         {
             "symbol": "MSFT",
-            "price": 405.21,
-            "change": "-3.0%"
+            "price": 410.89,
+            "change": "-0.6%"
         },
         {
             "symbol": "CEG",
-            "price": 274.89,
-            "change": "-0.64%"
+            "price": 277.28,
+            "change": "-2.82%"
         },
         {
             "symbol": "VST",
-            "price": 142.61,
-            "change": "-1.43%"
+            "price": 141.01,
+            "change": "+1.36%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
-        "rci_current": 0.23,
+        "cer_current": 0.62,
+        "rci_current": 0.24,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.49
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.31,
-            24.4,
-            24.64,
-            24.2,
-            23.84,
-            23.83,
-            24.1,
-            24.05,
-            24.25,
-            24.19,
-            24.58,
-            24.69
+            23.59,
+            23.75,
+            23.49,
+            23.76,
+            23.73,
+            24.07,
+            24.22,
+            24.68,
+            24.93,
+            24.97,
+            25.08,
+            24.82
         ],
         "hsd_history_software": [
-            9.68,
-            9.69,
-            9.76,
-            9.88,
-            9.71,
-            9.78,
-            9.88,
-            9.86,
-            9.79,
-            9.97,
-            9.82,
-            9.83
+            10.1,
+            9.98,
+            10.15,
+            10.03,
+            10.0,
+            10.19,
+            10.13,
+            10.21,
+            10.09,
+            10.23,
+            10.05,
+            9.89
         ],
         "rci_data": [
             85.0,
-            22.583000000000002
+            23.54
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:32",
+            "time": "14:25",
+            "tag": "MERCADO",
+            "text": "ResMed Inc stock (US75102W1036): Strong earnings offset by market underperformance"
+        },
+        {
+            "time": "14:23",
+            "tag": "MERCADO",
+            "text": "Why Prologis Stock Could Reach $199 as Data Center Demand Meets Industrial Recovery"
+        },
+        {
+            "time": "14:20",
+            "tag": "MERCADO",
+            "text": "DuPont de Nemours stock (US2632451003): Q1 earnings beat and stock surge"
+        },
+        {
+            "time": "14:19",
+            "tag": "RESULTADOS",
+            "text": "Dynatrace Analysts Cut Their Forecasts After Q4 Earnings"
+        },
+        {
+            "time": "14:18",
             "tag": "AI",
-            "text": "ServiceNow (NOW), Accenture Launch Engineering Program to Scale Agentic AI for Enterprises"
-        },
-        {
-            "time": "11:29",
-            "tag": "MERCADO",
-            "text": "Equinix stock (US29444U7033): Q1 earnings beat with $10.79 EPS"
-        },
-        {
-            "time": "11:27",
-            "tag": "MERCADO",
-            "text": "Antelope Enterprise Stock Surges Again as AEHL\u2019s Bitcoin Plan Draws a Fast-Moving Trade"
-        },
-        {
-            "time": "11:25",
-            "tag": "MERCADO",
-            "text": "VIRGINIA RETIREMENT SYSTEMS ET Al Grows Position in Analog Devices, Inc. $ADI"
-        },
-        {
-            "time": "11:25",
-            "tag": "MERCADO",
-            "text": "VIRGINIA RETIREMENT SYSTEMS ET Al Buys 9,560 Shares of MSCI Inc $MSCI"
+            "text": "Akamai Technologies Announces Intent to Acquire LayerX, Advancing Its Workforce Security Strategy with AI Usage Control"
         }
     ]
 }
