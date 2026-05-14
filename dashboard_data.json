@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-14 19:53 UTC",
+        "last_updated": "2026-05-14 21:13 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 235.69,
-            "change": "+1.07%"
+            "price": 235.74,
+            "change": "-0.24%"
         },
         {
             "symbol": "AMD",
-            "price": 451.04,
-            "change": "-0.49%"
+            "price": 449.7,
+            "change": "-3.02%"
         },
         {
             "symbol": "MSFT",
-            "price": 409.15,
-            "change": "-2.88%"
+            "price": 409.43,
+            "change": "-2.85%"
         },
         {
             "symbol": "CEG",
-            "price": 275.71,
-            "change": "-0.88%"
+            "price": 275.26,
+            "change": "-1.46%"
         },
         {
             "symbol": "VST",
-            "price": 141.94,
-            "change": "-0.09%"
+            "price": 141.9,
+            "change": "+2.69%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.46,
         "rci_current": 0.24,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
             0.49,
-            0.49
+            0.5,
+            0.51,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.79,
-            25.2,
-            25.26,
-            24.86,
+            25.5,
+            25.07,
+            25.06,
+            24.82,
+            24.99,
+            24.6,
+            24.81,
+            25.22,
+            25.24,
             24.84,
-            24.49,
-            24.59,
-            24.27,
-            24.7,
-            24.9,
-            25.38,
-            25.03
+            24.54,
+            24.86
         ],
         "hsd_history_software": [
             10.53,
-            10.42,
-            10.29,
-            10.36,
-            10.28,
-            10.17,
-            10.14,
-            10.1,
-            10.11,
-            10.29,
-            10.1,
-            9.98
+            10.48,
+            10.51,
+            10.49,
+            10.47,
+            10.62,
+            10.51,
+            10.59,
+            10.45,
+            10.32,
+            10.19,
+            10.11
         ],
         "rci_data": [
             85.0,
-            23.569000000000003
+            23.574
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:00",
+            "time": "20:57",
             "tag": "MERCADO",
-            "text": "A Fifth Grader\u2019s Letter Made Double Good Walk Away From Costco"
+            "text": "Intuitive Surgical stock (US4612021034): earnings and procedure growth keep da Vinci story in focus"
         },
         {
-            "time": "19:00",
+            "time": "20:53",
             "tag": "MERCADO",
-            "text": "News Corp stock (US65249B2088): Maintains $1B buyback amid analyst upgrade"
+            "text": "Enphase Energy Inc stock (US29355A1079): shares surge as new microinverter fuels rally"
         },
         {
-            "time": "18:45",
-            "tag": "RESULTADOS",
-            "text": "Trimble stock (US8962391058): Earnings beat and $1B buyback offset 30% year-to-date decline"
+            "time": "20:39",
+            "tag": "MERCADO",
+            "text": "Amkor Technology declares $0.08352 quarterly dividend"
         },
         {
-            "time": "18:40",
+            "time": "20:33",
             "tag": "MERCADO",
-            "text": "Alphabet Inc. (Class C) stock (US02079K1079): Nearly 4% gain on May 13"
+            "text": "IDEXX Laboratories to Present at Stifel Conference and Announces 2026 Investor Day"
         },
         {
-            "time": "18:40",
+            "time": "20:33",
             "tag": "MERCADO",
-            "text": "CRTO Maintains by Morgan Stanley -- Price Target Lowered to $29"
+            "text": "Fair Isaac Corporation (FICO) stock is up, what you need to know"
         }
     ]
 }
