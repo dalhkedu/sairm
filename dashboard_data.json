@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-14 17:54 UTC",
+        "last_updated": "2026-05-14 19:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 234.57,
-            "change": "+1.94%"
+            "price": 235.69,
+            "change": "+1.07%"
         },
         {
             "symbol": "AMD",
-            "price": 448.25,
-            "change": "-0.67%"
+            "price": 451.04,
+            "change": "-0.49%"
         },
         {
             "symbol": "MSFT",
-            "price": 409.19,
-            "change": "-2.48%"
+            "price": 409.15,
+            "change": "-2.88%"
         },
         {
             "symbol": "CEG",
-            "price": 276.34,
-            "change": "-2.95%"
+            "price": 275.71,
+            "change": "-0.88%"
         },
         {
             "symbol": "VST",
-            "price": 141.17,
-            "change": "-3.34%"
+            "price": 141.94,
+            "change": "-0.09%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
-        "rci_current": 0.23,
+        "cer_current": 0.42,
+        "rci_current": 0.24,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
+            0.52,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
             0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            24.95,
-            25.15,
-            25.05,
-            25.17,
-            25.15,
-            25.5,
-            25.86,
-            25.94,
-            25.64,
-            26.05,
-            25.8,
-            25.31
+            24.79,
+            25.2,
+            25.26,
+            24.86,
+            24.84,
+            24.49,
+            24.59,
+            24.27,
+            24.7,
+            24.9,
+            25.38,
+            25.03
         ],
         "hsd_history_software": [
-            9.37,
-            9.55,
-            9.37,
-            9.37,
-            9.29,
-            9.44,
-            9.53,
-            9.57,
-            9.57,
-            9.74,
-            9.72,
-            9.84
+            10.53,
+            10.42,
+            10.29,
+            10.36,
+            10.28,
+            10.17,
+            10.14,
+            10.1,
+            10.11,
+            10.29,
+            10.1,
+            9.98
         ],
         "rci_data": [
             85.0,
-            23.457
+            23.569000000000003
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:03",
+            "time": "19:00",
             "tag": "MERCADO",
-            "text": "Citi Cuts PT on Salesforce (CRM) From $200 To $188 Amid Weak Enterprise Software Spending Trends"
+            "text": "A Fifth Grader\u2019s Letter Made Double Good Walk Away From Costco"
         },
         {
-            "time": "17:00",
+            "time": "19:00",
             "tag": "MERCADO",
-            "text": "Motorola Solutions Expands Silvus Technologies Production and Fulfillment Capacity to Meet Growth Demand"
+            "text": "News Corp stock (US65249B2088): Maintains $1B buyback amid analyst upgrade"
         },
         {
-            "time": "16:58",
-            "tag": "MERCADO",
-            "text": "Take-Two Stock Jumps on Buzz About Grand Theft Auto VI Preorders"
+            "time": "18:45",
+            "tag": "RESULTADOS",
+            "text": "Trimble stock (US8962391058): Earnings beat and $1B buyback offset 30% year-to-date decline"
         },
         {
-            "time": "16:57",
+            "time": "18:40",
             "tag": "MERCADO",
-            "text": "Keysight Technologies stock (US49338L1035): Shares gain 0.51% amid Q2 earnings anticipation"
+            "text": "Alphabet Inc. (Class C) stock (US02079K1079): Nearly 4% gain on May 13"
         },
         {
-            "time": "16:57",
+            "time": "18:40",
             "tag": "MERCADO",
-            "text": "Dover Corp stock (US25985P1030): SWEP invests $30M to double heat exchanger capacity"
+            "text": "CRTO Maintains by Morgan Stanley -- Price Target Lowered to $29"
         }
     ]
 }
