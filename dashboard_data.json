@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-15 12:55 UTC",
+        "last_updated": "2026-05-15 15:19 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 235.74,
-            "change": "+1.93%"
+            "price": 227.2,
+            "change": "+2.11%"
         },
         {
             "symbol": "AMD",
-            "price": 449.7,
-            "change": "+2.59%"
+            "price": 433.36,
+            "change": "+1.2%"
         },
         {
             "symbol": "MSFT",
-            "price": 409.43,
-            "change": "+1.77%"
+            "price": 423.98,
+            "change": "-1.47%"
         },
         {
             "symbol": "CEG",
-            "price": 275.26,
-            "change": "-0.72%"
+            "price": 269.12,
+            "change": "+0.11%"
         },
         {
             "symbol": "VST",
-            "price": 141.9,
-            "change": "-3.05%"
+            "price": 138.8,
+            "change": "+2.44%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
-        "rci_current": 0.24,
+        "cer_current": 0.62,
+        "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.48,
             0.49,
-            0.49,
+            0.48,
+            0.47,
+            0.48,
+            0.48,
             0.48,
             0.49,
             0.49,
             0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            25.37,
-            25.01,
-            25.15,
-            24.85,
-            25.08,
-            25.3,
-            25.1,
-            24.8,
-            24.88,
-            24.67,
-            25.09,
-            24.95
+            24.95,
+            24.69,
+            24.29,
+            24.66,
+            24.9,
+            25.17,
+            24.97,
+            25.47,
+            24.99,
+            24.87,
+            25.19,
+            25.48
         ],
         "hsd_history_software": [
-            9.69,
-            9.53,
-            9.44,
-            9.41,
-            9.57,
-            9.73,
-            9.6,
-            9.52,
-            9.63,
-            9.7,
-            9.63,
-            9.81
+            9.82,
+            9.89,
+            9.9,
+            10.05,
+            10.12,
+            10.22,
+            10.2,
+            10.31,
+            10.28,
+            10.08,
+            9.94,
+            10.04
         ],
         "rci_data": [
             85.0,
-            23.574
+            22.72
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:10",
-            "tag": "MERCADO",
-            "text": "PLDT profit slips 1.77% to P8.87 billion as rising costs offset revenue growth"
-        },
-        {
-            "time": "12:04",
-            "tag": "MERCADO",
-            "text": "Aureus Greenway Holdings to Trade as PUSA on May 15 Ahead of Powerus Combination"
-        },
-        {
-            "time": "11:57",
-            "tag": "MERCADO",
-            "text": "Dominion Energy, Apple And A Health Care Stock: CNBC's 'Final Trades'"
-        },
-        {
-            "time": "11:56",
+            "time": "14:30",
             "tag": "AI",
-            "text": "Autodesk stock (US0527691069): Results and AI workflows remain in focus"
+            "text": "American Express Expands AI Education With New Scholarship Programs For Small Businesses"
         },
         {
-            "time": "11:43",
+            "time": "14:23",
+            "tag": "MERCADO",
+            "text": "F5 Networks Inc stock hits all-time high at 365.73 USD"
+        },
+        {
+            "time": "14:15",
+            "tag": "MERCADO",
+            "text": "Lam Research Corp Stock (LRCX) Moved Down by 6.28% on May 15: A Full Analysis"
+        },
+        {
+            "time": "14:11",
+            "tag": "RESULTADOS",
+            "text": "Earnings call transcript: Creative Realities reports Q1 2026 revenue surge, stock dips"
+        },
+        {
+            "time": "14:01",
             "tag": "AI",
-            "text": "Arrive AI reports Q1 revenue of $14,925, net loss of $6.4M"
+            "text": "International Business Machines Corporation stock (US4592001014): AI focus and steady cash flows in the spotlight"
         }
     ]
 }
