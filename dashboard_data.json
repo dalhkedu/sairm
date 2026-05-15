@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-15 00:05 UTC",
+        "last_updated": "2026-05-15 04:52 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 235.74,
-            "change": "+0.67%"
+            "change": "-0.83%"
         },
         {
             "symbol": "AMD",
             "price": 449.7,
-            "change": "+0.41%"
+            "change": "+3.16%"
         },
         {
             "symbol": "MSFT",
             "price": 409.43,
-            "change": "-1.9%"
+            "change": "+2.01%"
         },
         {
             "symbol": "CEG",
             "price": 275.26,
-            "change": "+0.38%"
+            "change": "+2.58%"
         },
         {
             "symbol": "VST",
             "price": 141.9,
-            "change": "+1.54%"
+            "change": "-1.6%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.49,
         "rci_current": 0.24,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.47,
+            0.49,
+            0.49,
+            0.49,
             0.48,
-            0.47,
-            0.46,
-            0.47,
-            0.48,
+            0.49,
             0.48,
             0.48,
             0.48,
             0.49,
-            0.49
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.15,
-            25.31,
-            25.15,
-            25.1,
-            25.42,
-            24.99,
-            24.51,
-            24.33,
-            24.28,
-            24.62,
-            25.01,
-            24.82
+            25.87,
+            25.63,
+            25.24,
+            25.23,
+            25.54,
+            25.4,
+            25.16,
+            25.47,
+            25.43,
+            25.8,
+            25.3,
+            25.15
         ],
         "hsd_history_software": [
-            10.4,
-            10.47,
-            10.34,
-            10.2,
-            10.29,
-            10.19,
-            10.04,
-            10.07,
+            10.09,
+            9.89,
+            9.93,
+            9.96,
             10.02,
-            10.1,
-            10.08,
-            10.2
+            10.0,
+            9.88,
+            9.74,
+            9.87,
+            9.82,
+            10.0,
+            10.14
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "23:40",
+            "time": "03:46",
             "tag": "AI",
-            "text": "ReAlpha (NASDAQ: AIRE) Regains Compliance with Nasdaq Minimum Bid Price Requirement"
+            "text": "Gartner Lawsuit And AI Research Challenge Test Investor Confidence And Valuation"
         },
         {
-            "time": "23:34",
+            "time": "03:26",
             "tag": "MERCADO",
-            "text": "Alarm.com stock hits 52-week low at 41.49 USD"
+            "text": "Enphase (ENPH) Soars 14% on Demand Surge Ahead of Tax Credit Deadline"
         },
         {
-            "time": "23:21",
+            "time": "03:11",
             "tag": "MERCADO",
-            "text": "Cantor Fitzgerald Raises its Price Target on NXP Semiconductors (NXPI)"
+            "text": "ARK Investment\u2019s Cathie Wood Boosts Alphabet Class C Stake"
         },
         {
-            "time": "23:17",
+            "time": "03:01",
             "tag": "MERCADO",
-            "text": "Jack Henry & Associates (NASDAQ:JKHY) CEO Purchases $266,840.00 in Stock"
+            "text": "eGain reports Q3 revenue $22.5M, GAAP net income $2.4M and improved margins"
         },
         {
-            "time": "23:09",
+            "time": "02:39",
             "tag": "MERCADO",
-            "text": "Amprius Technologies Announces the Pricing of its Previously Announced Exchange of Public Warrants for Common Stock"
+            "text": "FormFactor Announces Participation at Upcoming Conferences"
         }
     ]
 }
