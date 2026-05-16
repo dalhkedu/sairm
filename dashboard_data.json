@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-16 00:00 UTC",
+        "last_updated": "2026-05-16 03:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.32,
-            "change": "-0.12%"
+            "change": "+3.12%"
         },
         {
             "symbol": "AMD",
             "price": 424.1,
-            "change": "-1.41%"
+            "change": "+0.75%"
         },
         {
             "symbol": "MSFT",
             "price": 421.92,
-            "change": "+0.5%"
+            "change": "+1.78%"
         },
         {
             "symbol": "CEG",
             "price": 267.2,
-            "change": "-3.43%"
+            "change": "-2.8%"
         },
         {
             "symbol": "VST",
             "price": 139.68,
-            "change": "+0.46%"
+            "change": "-0.36%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.65,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
             0.49,
             0.49,
-            0.49,
-            0.49,
             0.5,
-            0.5,
+            0.51,
             0.5,
             0.5,
             0.49,
             0.5,
             0.5,
-            0.51
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.32,
-            24.31,
-            24.26,
-            24.44,
-            24.27,
-            24.61,
-            24.54,
-            24.72,
-            25.08,
-            25.49,
-            25.04,
-            25.14
+            25.23,
+            25.16,
+            25.56,
+            25.81,
+            26.22,
+            26.11,
+            25.85,
+            25.51,
+            25.31,
+            25.25,
+            25.37,
+            25.45
         ],
         "hsd_history_software": [
-            9.07,
-            9.24,
-            9.32,
-            9.23,
-            9.35,
-            9.53,
-            9.71,
-            9.77,
-            9.9,
-            9.89,
-            9.86,
-            9.94
+            10.19,
+            10.21,
+            10.17,
+            10.05,
+            10.15,
+            10.29,
+            10.23,
+            10.24,
+            10.37,
+            10.18,
+            10.06,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:53",
+            "time": "02:59",
             "tag": "MERCADO",
-            "text": "Tigo Energy Receives Additional Proceeds from Patent Sale"
+            "text": "SPDR S&P 500 ETF Trust (SPY) Daily Update, 5/15/2026"
         },
         {
-            "time": "22:17",
+            "time": "02:46",
             "tag": "MERCADO",
-            "text": "Pershing Square Snapped Up Microsoft Shares, Exited Hilton, Slashed Alphabet Stake in First Quarter"
+            "text": "Evaluating Emerson Electric (EMR) After Recent Share Price Weakness And Mixed Valuation Signals"
         },
         {
-            "time": "22:12",
+            "time": "02:25",
             "tag": "MERCADO",
-            "text": "Unity Software (NYSE: U) director awarded 12,086 restricted stock units in new equity grant"
+            "text": "Insider Sell Alert: Mathew Bunker Sells Shares of Microchip Tech"
         },
         {
-            "time": "22:11",
+            "time": "02:10",
             "tag": "MERCADO",
-            "text": "UPDATE \u2013 Next Generation of Scientific Leaders Awarded More"
+            "text": "Celestica: Irrational Pullback Gives Another Buying Opportunity (NYSE:CLS)"
         },
         {
-            "time": "21:53",
-            "tag": "MERCADO",
-            "text": "American Tower Corp. stock (US03027X1000): Q1 2026 results and REIT strategy in focus"
+            "time": "02:04",
+            "tag": "AI",
+            "text": "COHU: All proposals passed amid strong growth, with a focus on AI and recurring revenue expansion"
         }
     ]
 }
