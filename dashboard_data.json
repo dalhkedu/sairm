@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-16 03:54 UTC",
+        "last_updated": "2026-05-16 06:24 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.32,
-            "change": "+3.12%"
+            "change": "-0.5%"
         },
         {
             "symbol": "AMD",
             "price": 424.1,
-            "change": "+0.75%"
+            "change": "-0.4%"
         },
         {
             "symbol": "MSFT",
             "price": 421.92,
-            "change": "+1.78%"
+            "change": "-3.28%"
         },
         {
             "symbol": "CEG",
             "price": 267.2,
-            "change": "-2.8%"
+            "change": "+2.42%"
         },
         {
             "symbol": "VST",
             "price": 139.68,
-            "change": "-0.36%"
+            "change": "-1.16%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.67,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
             0.49,
             0.49,
             0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.23,
-            25.16,
-            25.56,
-            25.81,
-            26.22,
-            26.11,
-            25.85,
-            25.51,
-            25.31,
-            25.25,
-            25.37,
-            25.45
+            23.95,
+            23.65,
+            23.53,
+            23.76,
+            23.94,
+            24.29,
+            24.17,
+            24.63,
+            24.43,
+            24.49,
+            24.7,
+            24.73
         ],
         "hsd_history_software": [
-            10.19,
-            10.21,
-            10.17,
-            10.05,
-            10.15,
-            10.29,
+            11.14,
+            11.2,
+            11.04,
+            10.84,
+            10.94,
+            10.9,
+            10.72,
+            10.64,
+            10.54,
+            10.36,
             10.23,
-            10.24,
-            10.37,
-            10.18,
-            10.06,
-            10.07
+            10.11
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:59",
+            "time": "05:39",
             "tag": "MERCADO",
-            "text": "SPDR S&P 500 ETF Trust (SPY) Daily Update, 5/15/2026"
+            "text": "Intrusion Inc (INTZ) Q1 2026: EPS -$0.18 vs -$0.09 est (miss), R"
         },
         {
-            "time": "02:46",
+            "time": "05:16",
             "tag": "MERCADO",
-            "text": "Evaluating Emerson Electric (EMR) After Recent Share Price Weakness And Mixed Valuation Signals"
+            "text": "General Motors to pay $12.75 million in driver data privacy settlement"
         },
         {
-            "time": "02:25",
+            "time": "05:11",
             "tag": "MERCADO",
-            "text": "Insider Sell Alert: Mathew Bunker Sells Shares of Microchip Tech"
+            "text": "Analog Devices (NASDAQ:ADI) Cut to \"Hold\" at Wall Street Zen"
         },
         {
-            "time": "02:10",
-            "tag": "MERCADO",
-            "text": "Celestica: Irrational Pullback Gives Another Buying Opportunity (NYSE:CLS)"
+            "time": "05:05",
+            "tag": "RESULTADOS",
+            "text": "A Look At Fair Isaac\u2019s Valuation As Competitive Pressures Test Growth And Earnings Strength"
         },
         {
-            "time": "02:04",
-            "tag": "AI",
-            "text": "COHU: All proposals passed amid strong growth, with a focus on AI and recurring revenue expansion"
+            "time": "04:57",
+            "tag": "MERCADO",
+            "text": "AT&T, T-Mobile, Verizon launch joint initiative to address cellphone dead zones in US"
         }
     ]
 }
