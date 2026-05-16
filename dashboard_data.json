@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-16 19:16 UTC",
+        "last_updated": "2026-05-16 20:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.32,
-            "change": "+3.39%"
+            "change": "+3.22%"
         },
         {
             "symbol": "AMD",
             "price": 424.1,
-            "change": "-0.2%"
+            "change": "+3.35%"
         },
         {
             "symbol": "MSFT",
             "price": 421.92,
-            "change": "+2.1%"
+            "change": "-1.68%"
         },
         {
             "symbol": "CEG",
             "price": 267.2,
-            "change": "-0.3%"
+            "change": "-1.63%"
         },
         {
             "symbol": "VST",
             "price": 139.68,
-            "change": "-3.11%"
+            "change": "-0.56%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.51,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
             0.49,
             0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
+            25.16,
+            24.84,
+            25.31,
             25.15,
-            25.26,
-            25.69,
-            26.14,
-            26.64,
-            26.65,
-            26.48,
-            26.04,
+            25.19,
+            25.12,
+            25.0,
+            25.49,
+            25.17,
+            25.39,
             25.65,
-            25.36,
-            25.78,
-            25.4
+            25.2
         ],
         "hsd_history_software": [
-            9.86,
-            10.03,
-            9.88,
-            9.75,
-            9.8,
-            9.75,
-            9.9,
-            10.06,
-            10.08,
-            10.24,
-            10.08,
-            10.01
+            9.45,
+            9.57,
+            9.45,
+            9.63,
+            9.82,
+            9.67,
+            9.74,
+            9.81,
+            9.96,
+            10.07,
+            10.1,
+            9.93
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "20:29",
+            "tag": "MERCADO",
+            "text": "NVE Corp stock (US62945V1044): steady after latest dividend and earnings update"
+        },
+        {
+            "time": "20:21",
+            "tag": "MERCADO",
+            "text": "Nordson Corp stock (US6556631025): earnings in focus as Wall Street awaits fresh quarterly numbers"
+        },
+        {
+            "time": "18:43",
+            "tag": "AI",
+            "text": "F5\u2019s Kubernetes-Native Security And AI Push With Red Hat Could Be A Game Changer For F5 (FFIV)"
+        },
+        {
             "time": "18:29",
             "tag": "MERCADO",
             "text": "Stride Inc stock (US86333M1080): earnings growth and analyst focus put online education player in th"
@@ -134,21 +149,6 @@
             "time": "18:21",
             "tag": "AI",
             "text": "IQVIA Holdings Inc stock (US46266C1053): earnings momentum and AI narrative draw fresh attention"
-        },
-        {
-            "time": "18:12",
-            "tag": "MERCADO",
-            "text": "This is why Northrop Grumman Corporation (NOC) is a Top Aerospace and Defense Stock to Buy"
-        },
-        {
-            "time": "18:10",
-            "tag": "MERCADO",
-            "text": "Trimble Inc stock (US8962391004): solid earnings backdrop and digital construction push attract attention"
-        },
-        {
-            "time": "18:08",
-            "tag": "MERCADO",
-            "text": "Qualcomm (QCOM) Faces 8% Drop Amid Analyst Upgrades and Valuation Insights"
         }
     ]
 }
