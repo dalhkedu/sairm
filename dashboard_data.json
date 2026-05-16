@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-16 14:59 UTC",
+        "last_updated": "2026-05-16 16:03 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.32,
-            "change": "+0.47%"
+            "change": "-0.49%"
         },
         {
             "symbol": "AMD",
             "price": 424.1,
-            "change": "+0.32%"
+            "change": "-1.81%"
         },
         {
             "symbol": "MSFT",
             "price": 421.92,
-            "change": "+1.73%"
+            "change": "+0.16%"
         },
         {
             "symbol": "CEG",
             "price": 267.2,
-            "change": "+1.35%"
+            "change": "+0.46%"
         },
         {
             "symbol": "VST",
             "price": 139.68,
-            "change": "-0.48%"
+            "change": "+1.01%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.41,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
             0.5,
-            0.49,
-            0.49,
+            0.5,
+            0.51,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.84,
-            24.92,
-            24.92,
-            24.97,
-            24.72,
-            24.6,
-            25.04,
             25.54,
-            25.73,
+            25.74,
+            25.35,
             25.36,
-            25.38,
-            25.41
+            25.7,
+            25.22,
+            25.24,
+            25.07,
+            25.26,
+            24.82,
+            24.85,
+            24.68
         ],
         "hsd_history_software": [
-            10.25,
-            10.41,
-            10.51,
-            10.32,
-            10.28,
-            10.37,
-            10.49,
-            10.42,
-            10.52,
-            10.39,
-            10.26,
-            10.12
+            9.89,
+            9.91,
+            9.91,
+            9.73,
+            9.78,
+            9.67,
+            9.54,
+            9.73,
+            9.76,
+            9.87,
+            9.71,
+            9.84
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:01",
-            "tag": "MERCADO",
-            "text": "AT&T Inc stock (US0019571090): Telecom heavyweight stays in focus after fresh institutional moves"
-        },
-        {
-            "time": "13:56",
-            "tag": "MERCADO",
-            "text": "Applied Materials, Inc. stock (US0382221051): Analyst upgrades follow record Q2 earnings and higher outlook"
-        },
-        {
-            "time": "13:55",
-            "tag": "MERCADO",
-            "text": "Verizon Communications Inc. stock (US92343V1044): Share dip despite strategic wins and network push"
-        },
-        {
-            "time": "13:40",
+            "time": "15:10",
             "tag": "AI",
-            "text": "Alphabet Inc. Class C stock (US02079K1079): Google parent\u2019s AI and ad engine in focus after latest earnings"
+            "text": "Evogene Ltd stock (IL0010831684): AI-driven biotech draws attention after recent financing update"
         },
         {
-            "time": "13:32",
+            "time": "15:07",
             "tag": "MERCADO",
-            "text": "International Business Machines Corporation stock (US4592001014): Weak 2026 performance despite soli"
+            "text": "Rep. Byron Donalds Sells Off Shares of Intuit Inc. (NASDAQ:INTU)"
+        },
+        {
+            "time": "14:38",
+            "tag": "AI",
+            "text": "News Corp Class A stock (US65249B2007): earnings, AI bets and streaming strategy in focus"
+        },
+        {
+            "time": "14:32",
+            "tag": "MERCADO",
+            "text": "Amdocs Limited (NASDAQ:DOX) Receives Average Recommendation of \"Hold\" from Brokerages"
+        },
+        {
+            "time": "14:18",
+            "tag": "AI",
+            "text": "Broadcom Inc. stock (US11135F1012): Apple deal, VMware integration and AI boom keep investors alert"
         }
     ]
 }
