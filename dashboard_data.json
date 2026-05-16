@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-16 16:03 UTC",
+        "last_updated": "2026-05-16 17:57 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.32,
-            "change": "-0.49%"
+            "change": "-1.57%"
         },
         {
             "symbol": "AMD",
             "price": 424.1,
-            "change": "-1.81%"
+            "change": "-1.69%"
         },
         {
             "symbol": "MSFT",
             "price": 421.92,
-            "change": "+0.16%"
+            "change": "-0.9%"
         },
         {
             "symbol": "CEG",
             "price": 267.2,
-            "change": "+0.46%"
+            "change": "-1.14%"
         },
         {
             "symbol": "VST",
             "price": 139.68,
-            "change": "+1.01%"
+            "change": "+0.78%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.4,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.5,
-            0.5,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.51,
             0.5,
-            0.5
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.54,
-            25.74,
-            25.35,
-            25.36,
-            25.7,
-            25.22,
-            25.24,
-            25.07,
-            25.26,
+            23.98,
+            23.77,
+            23.9,
+            23.59,
+            23.92,
+            23.86,
+            24.17,
+            24.3,
+            24.45,
+            24.68,
             24.82,
-            24.85,
-            24.68
+            25.07
         ],
         "hsd_history_software": [
-            9.89,
-            9.91,
-            9.91,
-            9.73,
-            9.78,
-            9.67,
-            9.54,
-            9.73,
-            9.76,
+            9.47,
+            9.5,
+            9.44,
+            9.53,
+            9.55,
+            9.63,
+            9.72,
+            9.84,
+            9.98,
             9.87,
-            9.71,
-            9.84
+            9.97,
+            10.08
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:10",
+            "time": "17:07",
             "tag": "AI",
-            "text": "Evogene Ltd stock (IL0010831684): AI-driven biotech draws attention after recent financing update"
+            "text": "GSI Technology Inc stock (US36253G1013): AI memory specialist back in focus after quarterly update"
         },
         {
-            "time": "15:07",
+            "time": "16:37",
             "tag": "MERCADO",
-            "text": "Rep. Byron Donalds Sells Off Shares of Intuit Inc. (NASDAQ:INTU)"
+            "text": "Gen Digital stock (US36870C1018): Cybersecurity player in focus after recent earnings and dividend"
         },
         {
-            "time": "14:38",
-            "tag": "AI",
-            "text": "News Corp Class A stock (US65249B2007): earnings, AI bets and streaming strategy in focus"
-        },
-        {
-            "time": "14:32",
+            "time": "16:33",
             "tag": "MERCADO",
-            "text": "Amdocs Limited (NASDAQ:DOX) Receives Average Recommendation of \"Hold\" from Brokerages"
+            "text": "Walmart and Amazon race to win over rural America with speedier deliveries"
         },
         {
-            "time": "14:18",
-            "tag": "AI",
-            "text": "Broadcom Inc. stock (US11135F1012): Apple deal, VMware integration and AI boom keep investors alert"
+            "time": "16:33",
+            "tag": "RESULTADOS",
+            "text": "Best Buy stock (US0865161014): Earnings reaction puts US electronics retail in focus"
+        },
+        {
+            "time": "16:17",
+            "tag": "MERCADO",
+            "text": "SPDR S&P 500 ETF Trust Sees Inflows Amid Tech Strength"
         }
     ]
 }
