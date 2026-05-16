@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-16 13:38 UTC",
+        "last_updated": "2026-05-16 14:59 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.32,
-            "change": "-1.25%"
+            "change": "+0.47%"
         },
         {
             "symbol": "AMD",
             "price": 424.1,
-            "change": "-1.48%"
+            "change": "+0.32%"
         },
         {
             "symbol": "MSFT",
             "price": 421.92,
-            "change": "-2.71%"
+            "change": "+1.73%"
         },
         {
             "symbol": "CEG",
             "price": 267.2,
-            "change": "-2.63%"
+            "change": "+1.35%"
         },
         {
             "symbol": "VST",
             "price": 139.68,
-            "change": "-1.32%"
+            "change": "-0.48%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.66,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
+            0.53,
+            0.53,
             0.52,
             0.52,
             0.51,
             0.51,
             0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
+            0.5,
+            0.49,
+            0.49,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            26.8,
-            26.41,
-            26.52,
-            26.68,
-            26.48,
-            26.37,
-            26.72,
-            26.32,
-            26.33,
-            25.97,
-            25.48,
-            25.2
+            24.84,
+            24.92,
+            24.92,
+            24.97,
+            24.72,
+            24.6,
+            25.04,
+            25.54,
+            25.73,
+            25.36,
+            25.38,
+            25.41
         ],
         "hsd_history_software": [
-            10.02,
-            9.83,
-            9.76,
-            9.92,
-            9.84,
-            9.76,
-            9.91,
-            9.96,
-            9.85,
-            9.87,
-            9.73,
-            9.87
+            10.25,
+            10.41,
+            10.51,
+            10.32,
+            10.28,
+            10.37,
+            10.49,
+            10.42,
+            10.52,
+            10.39,
+            10.26,
+            10.12
         ],
         "rci_data": [
             85.0,
@@ -126,9 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "INFO",
-            "tag": "LIMIT",
-            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
+            "time": "14:01",
+            "tag": "MERCADO",
+            "text": "AT&T Inc stock (US0019571090): Telecom heavyweight stays in focus after fresh institutional moves"
+        },
+        {
+            "time": "13:56",
+            "tag": "MERCADO",
+            "text": "Applied Materials, Inc. stock (US0382221051): Analyst upgrades follow record Q2 earnings and higher outlook"
+        },
+        {
+            "time": "13:55",
+            "tag": "MERCADO",
+            "text": "Verizon Communications Inc. stock (US92343V1044): Share dip despite strategic wins and network push"
+        },
+        {
+            "time": "13:40",
+            "tag": "AI",
+            "text": "Alphabet Inc. Class C stock (US02079K1079): Google parent\u2019s AI and ad engine in focus after latest earnings"
+        },
+        {
+            "time": "13:32",
+            "tag": "MERCADO",
+            "text": "International Business Machines Corporation stock (US4592001014): Weak 2026 performance despite soli"
         }
     ]
 }
