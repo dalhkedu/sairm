@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-16 11:54 UTC",
+        "last_updated": "2026-05-16 13:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.32,
-            "change": "+1.83%"
+            "change": "-1.25%"
         },
         {
             "symbol": "AMD",
             "price": 424.1,
-            "change": "+0.9%"
+            "change": "-1.48%"
         },
         {
             "symbol": "MSFT",
             "price": 421.92,
-            "change": "-2.14%"
+            "change": "-2.71%"
         },
         {
             "symbol": "CEG",
             "price": 267.2,
-            "change": "+1.51%"
+            "change": "-2.63%"
         },
         {
             "symbol": "VST",
             "price": 139.68,
-            "change": "-1.29%"
+            "change": "-1.32%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.42,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
             0.51,
-            0.51,
-            0.51,
             0.52,
             0.52,
             0.51,
-            0.5,
             0.51,
             0.51,
-            0.5,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.3,
-            25.52,
-            25.28,
-            25.08,
-            24.68,
-            24.73,
-            25.19,
-            24.98,
-            25.3,
-            25.66,
-            25.54,
-            25.49
+            26.8,
+            26.41,
+            26.52,
+            26.68,
+            26.48,
+            26.37,
+            26.72,
+            26.32,
+            26.33,
+            25.97,
+            25.48,
+            25.2
         ],
         "hsd_history_software": [
-            10.23,
-            10.17,
-            10.16,
-            10.08,
-            10.0,
-            9.96,
+            10.02,
             9.83,
-            9.87,
+            9.76,
+            9.92,
             9.84,
-            10.01,
+            9.76,
             9.91,
-            10.11
+            9.96,
+            9.85,
+            9.87,
+            9.73,
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,9 @@
     ],
     "news_feed": [
         {
-            "time": "11:07",
-            "tag": "RESULTADOS",
-            "text": "Broadcom Inc. (AVGO) Tops Q1 Earnings and Revenue Estimates"
-        },
-        {
-            "time": "10:54",
-            "tag": "MERCADO",
-            "text": "Qsemble Capital Management LP Invests $5.36 Million in Cadence Design Systems, Inc. $CDNS"
-        },
-        {
-            "time": "10:52",
-            "tag": "MERCADO",
-            "text": "Qsemble Capital Management LP Invests $8.50 Million in PayPal Holdings, Inc. $PYPL"
-        },
-        {
-            "time": "10:48",
-            "tag": "MERCADO",
-            "text": "Lawood & Co. Invests $3.60 Million in Cisco Systems, Inc. $CSCO"
-        },
-        {
-            "time": "10:46",
-            "tag": "AI",
-            "text": "Western Digital Corp stock (US95040Q1040): strong AI storage boom drives volatile rally"
+            "time": "INFO",
+            "tag": "LIMIT",
+            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
         }
     ]
 }
