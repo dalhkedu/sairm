@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-16 17:57 UTC",
+        "last_updated": "2026-05-16 19:16 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.32,
-            "change": "-1.57%"
+            "change": "+3.39%"
         },
         {
             "symbol": "AMD",
             "price": 424.1,
-            "change": "-1.69%"
+            "change": "-0.2%"
         },
         {
             "symbol": "MSFT",
             "price": 421.92,
-            "change": "-0.9%"
+            "change": "+2.1%"
         },
         {
             "symbol": "CEG",
             "price": 267.2,
-            "change": "-1.14%"
+            "change": "-0.3%"
         },
         {
             "symbol": "VST",
             "price": 139.68,
-            "change": "+0.78%"
+            "change": "-3.11%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.4,
+        "cer_current": 0.65,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
+            0.52,
+            0.53,
             0.52,
             0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
             0.51,
             0.5,
+            0.5,
+            0.5,
             0.49,
-            0.49,
-            0.49
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.98,
-            23.77,
-            23.9,
-            23.59,
-            23.92,
-            23.86,
-            24.17,
-            24.3,
-            24.45,
-            24.68,
-            24.82,
-            25.07
+            25.15,
+            25.26,
+            25.69,
+            26.14,
+            26.64,
+            26.65,
+            26.48,
+            26.04,
+            25.65,
+            25.36,
+            25.78,
+            25.4
         ],
         "hsd_history_software": [
-            9.47,
-            9.5,
-            9.44,
-            9.53,
-            9.55,
-            9.63,
-            9.72,
-            9.84,
-            9.98,
-            9.87,
-            9.97,
-            10.08
+            9.86,
+            10.03,
+            9.88,
+            9.75,
+            9.8,
+            9.75,
+            9.9,
+            10.06,
+            10.08,
+            10.24,
+            10.08,
+            10.01
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:07",
+            "time": "18:29",
+            "tag": "MERCADO",
+            "text": "Stride Inc stock (US86333M1080): earnings growth and analyst focus put online education player in th"
+        },
+        {
+            "time": "18:21",
             "tag": "AI",
-            "text": "GSI Technology Inc stock (US36253G1013): AI memory specialist back in focus after quarterly update"
+            "text": "IQVIA Holdings Inc stock (US46266C1053): earnings momentum and AI narrative draw fresh attention"
         },
         {
-            "time": "16:37",
+            "time": "18:12",
             "tag": "MERCADO",
-            "text": "Gen Digital stock (US36870C1018): Cybersecurity player in focus after recent earnings and dividend"
+            "text": "This is why Northrop Grumman Corporation (NOC) is a Top Aerospace and Defense Stock to Buy"
         },
         {
-            "time": "16:33",
+            "time": "18:10",
             "tag": "MERCADO",
-            "text": "Walmart and Amazon race to win over rural America with speedier deliveries"
+            "text": "Trimble Inc stock (US8962391004): solid earnings backdrop and digital construction push attract attention"
         },
         {
-            "time": "16:33",
-            "tag": "RESULTADOS",
-            "text": "Best Buy stock (US0865161014): Earnings reaction puts US electronics retail in focus"
-        },
-        {
-            "time": "16:17",
+            "time": "18:08",
             "tag": "MERCADO",
-            "text": "SPDR S&P 500 ETF Trust Sees Inflows Amid Tech Strength"
+            "text": "Qualcomm (QCOM) Faces 8% Drop Amid Analyst Upgrades and Valuation Insights"
         }
     ]
 }
