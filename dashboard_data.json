@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-17 09:07 UTC",
+        "last_updated": "2026-05-17 11:09 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.32,
-            "change": "+3.01%"
+            "change": "+1.96%"
         },
         {
             "symbol": "AMD",
             "price": 424.1,
-            "change": "+1.14%"
+            "change": "-1.28%"
         },
         {
             "symbol": "MSFT",
-            "price": 421.92,
-            "change": "-0.91%"
+            "price": NaN,
+            "change": "-2.77%"
         },
         {
             "symbol": "CEG",
             "price": 267.2,
-            "change": "+1.29%"
+            "change": "-1.73%"
         },
         {
             "symbol": "VST",
             "price": 139.68,
-            "change": "+3.05%"
+            "change": "-0.67%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.51,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
+            0.48,
+            0.47,
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            23.77,
-            23.69,
-            23.85,
-            23.72,
-            23.84,
-            24.12,
-            24.08,
+            24.5,
+            24.91,
             24.46,
-            24.75,
-            24.78,
-            25.0,
-            25.35
+            24.67,
+            24.47,
+            24.73,
+            24.83,
+            24.86,
+            24.48,
+            24.52,
+            24.83,
+            24.96
         ],
         "hsd_history_software": [
-            10.14,
-            10.24,
             10.37,
-            10.48,
-            10.42,
-            10.59,
-            10.39,
-            10.26,
-            10.26,
-            10.26,
-            10.07,
-            10.1
+            10.34,
+            10.3,
+            10.45,
+            10.31,
+            10.43,
+            10.29,
+            10.22,
+            10.08,
+            10.04,
+            10.01,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:39",
+            "time": "10:35",
             "tag": "MERCADO",
-            "text": "ORANGEKLOUD TECHNOLOGY (ORKT) Stock News"
+            "text": "iA Global Asset Management Inc. Increases Stock Position in PayPal Holdings, Inc. $PYPL"
         },
         {
-            "time": "08:34",
+            "time": "10:35",
             "tag": "MERCADO",
-            "text": "Canada Post Corp Registered Pension Plan Grows Holdings in Qualcomm Incorporated $QCOM"
+            "text": "Qualcomm Incorporated $QCOM Shares Sold by Staley Capital Advisers Inc."
         },
         {
-            "time": "08:34",
+            "time": "10:35",
             "tag": "MERCADO",
-            "text": "Barr E S & Co. Makes New Investment in Qualcomm Incorporated $QCOM"
+            "text": "iA Global Asset Management Inc. Increases Holdings in Cadence Design Systems, Inc. $CDNS"
         },
         {
-            "time": "08:34",
+            "time": "10:31",
             "tag": "MERCADO",
-            "text": "Canada Post Corp Registered Pension Plan Sells 42,840 Shares of Oracle Corporation $ORCL"
+            "text": "STF Management LP Sells 11,712 Shares of T-Mobile US, Inc. $TMUS"
         },
         {
-            "time": "08:33",
+            "time": "10:31",
             "tag": "MERCADO",
-            "text": "Canada Post Corp Registered Pension Plan Buys 22,380 Shares of Verizon Communications Inc. $VZ"
+            "text": "Palo Alto Networks, Inc. $PANW Shares Sold by STF Management LP"
         }
     ]
 }
