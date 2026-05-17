@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-05-16 23:56 UTC",
+        "last_updated": "2026-05-17 03:55 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.32,
-            "change": "+2.63%"
+            "change": "+2.22%"
         },
         {
             "symbol": "AMD",
             "price": 424.1,
-            "change": "+1.4%"
+            "change": "+3.46%"
         },
         {
             "symbol": "MSFT",
             "price": 421.92,
-            "change": "+1.6%"
+            "change": "-0.07%"
         },
         {
             "symbol": "CEG",
             "price": 267.2,
-            "change": "+2.89%"
+            "change": "+1.64%"
         },
         {
             "symbol": "VST",
             "price": 139.68,
-            "change": "-0.6%"
+            "change": "-1.74%"
         }
     ],
     "dashboard_metrics": {
@@ -36,46 +36,46 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
             0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.5
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.93,
-            25.34,
-            24.95,
-            24.67,
-            24.5,
-            24.78,
-            25.22,
-            25.42,
-            25.26,
-            25.0,
-            25.11,
-            25.45
+            24.01,
+            24.17,
+            23.75,
+            23.58,
+            23.73,
+            23.98,
+            23.58,
+            24.0,
+            24.08,
+            24.46,
+            24.22,
+            24.68
         ],
         "hsd_history_software": [
-            9.97,
-            10.14,
-            10.19,
-            10.07,
-            10.21,
-            10.21,
-            10.29,
-            10.26,
-            10.28,
-            10.23,
-            10.15,
-            9.98
+            10.72,
+            10.85,
+            10.64,
+            10.58,
+            10.48,
+            10.68,
+            10.72,
+            10.65,
+            10.47,
+            10.46,
+            10.33,
+            10.14
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:46",
-            "tag": "AI",
-            "text": "TSMC Trims Vanguard Stake To Sharpen Focus On AI Chip Core"
-        },
-        {
-            "time": "22:39",
+            "time": "03:08",
             "tag": "MERCADO",
-            "text": "5 ETFs to Buy for June"
+            "text": "CoreWeave, Inc. Class A Trade Ideas \u2014 BX:CRWV"
         },
         {
-            "time": "22:23",
+            "time": "01:37",
             "tag": "MERCADO",
-            "text": "Mastercard Incorporated Class A Trade Ideas \u2014 SIX:MA.USD"
+            "text": "Alphabet Inc. Class C Trade Ideas \u2014 BVL:GOOG"
         },
         {
-            "time": "21:41",
-            "tag": "AI",
-            "text": "Is Teradata\u2019s (TDC) New AI Platform Quietly Redefining Its Hybrid Data-Cloud Edge?"
-        },
-        {
-            "time": "21:11",
+            "time": "00:10",
             "tag": "MERCADO",
-            "text": "SEI Investments Co stock (US8123501061): capital return and ETF flows keep the spotlight on this fin"
+            "text": "CEVA (CEVA) price target increased by 32.24% to 41.24"
+        },
+        {
+            "time": "00:09",
+            "tag": "MERCADO",
+            "text": "Certain Common Stock of Cyngn Inc. are subject to a Lock-Up Agreement Ending on 17-MAY-2026."
+        },
+        {
+            "time": "23:39",
+            "tag": "MERCADO",
+            "text": "Assessing Aehr Test Systems (AEHR) Valuation After Strong Recent Share Price Momentum"
         }
     ]
 }
