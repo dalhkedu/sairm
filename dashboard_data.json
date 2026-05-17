@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-17 17:59 UTC",
+        "last_updated": "2026-05-17 19:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.32,
-            "change": "+2.27%"
+            "change": "+1.23%"
         },
         {
             "symbol": "AMD",
             "price": 424.1,
-            "change": "-2.07%"
+            "change": "-3.18%"
         },
         {
             "symbol": "MSFT",
             "price": 421.92,
-            "change": "-0.1%"
+            "change": "-2.99%"
         },
         {
             "symbol": "CEG",
             "price": 267.2,
-            "change": "+3.13%"
+            "change": "-2.36%"
         },
         {
             "symbol": "VST",
             "price": 139.68,
-            "change": "+0.58%"
+            "change": "+1.97%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.43,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
+            0.51,
             0.52,
             0.52,
-            0.53,
-            0.53,
             0.52,
-            0.53,
+            0.52,
+            0.52,
+            0.52,
             0.52,
             0.51,
             0.51,
-            0.52,
+            0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            24.24,
-            23.98,
-            24.2,
-            24.32,
-            24.38,
-            24.35,
-            24.69,
-            25.12,
-            25.05,
-            25.51,
-            25.51,
-            25.36
+            25.59,
+            25.97,
+            26.38,
+            26.2,
+            26.38,
+            26.01,
+            25.71,
+            25.4,
+            25.16,
+            25.31,
+            24.94,
+            25.25
         ],
         "hsd_history_software": [
-            10.28,
-            10.13,
-            9.97,
+            10.26,
+            10.44,
+            10.29,
+            10.25,
             10.09,
-            10.19,
-            10.06,
-            9.94,
-            10.0,
-            10.15,
-            10.15,
-            10.28,
-            10.12
+            10.14,
+            10.32,
+            10.35,
+            10.48,
+            10.4,
+            10.23,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:07",
-            "tag": "MERCADO",
-            "text": "Has Palo Alto Networks (PANW) Run Too Far After Its Recent Surge In Share Price?"
-        },
-        {
-            "time": "17:06",
+            "time": "18:23",
             "tag": "AI",
-            "text": "Why Fortinet (FTNT) Is Up 7.6% After Tapping NVIDIA To Accelerate Its FortiAIGate AI Security"
+            "text": "Former Microsoft VP says Microsoft missed the AI wave like the internet and mobile, as Copilot scales back in Windows 11"
         },
         {
-            "time": "16:46",
+            "time": "18:02",
             "tag": "MERCADO",
-            "text": "Robert W. Baird Maintains Hold Rating on Fortinet (FTNT) Stock"
+            "text": "Lam Research stock (US5184391044): chip equipment player in focus after latest quarterly results"
         },
         {
-            "time": "16:46",
+            "time": "17:59",
             "tag": "MERCADO",
-            "text": "Mizuho lifts PT on Advanced Micro Devices (AMD) Stock"
+            "text": "Home Sales, Nvidia, Walmart, Home Depot, Target, and More to Watch This Week"
         },
         {
-            "time": "16:44",
+            "time": "17:40",
             "tag": "MERCADO",
-            "text": "Synopsys Stock Analysis: Elliott, Ansys, and an $11.3 Billion Backlog Make the Case"
+            "text": "AT&T Shares Slide for the Week; Monday Trading in Focus"
+        },
+        {
+            "time": "17:37",
+            "tag": "MERCADO",
+            "text": "CoStar Group Inc stock (US22160N1090): Nasdaq-100 exit and Homes.com spending shake investor confidence"
         }
     ]
 }
