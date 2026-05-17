@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-17 06:47 UTC",
+        "last_updated": "2026-05-17 09:07 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.32,
-            "change": "-0.2%"
+            "change": "+3.01%"
         },
         {
             "symbol": "AMD",
             "price": 424.1,
-            "change": "+2.84%"
+            "change": "+1.14%"
         },
         {
             "symbol": "MSFT",
             "price": 421.92,
-            "change": "-1.1%"
+            "change": "-0.91%"
         },
         {
             "symbol": "CEG",
             "price": 267.2,
-            "change": "-3.21%"
+            "change": "+1.29%"
         },
         {
             "symbol": "VST",
             "price": 139.68,
-            "change": "-2.93%"
+            "change": "+3.05%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.46,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
             0.51,
-            0.51,
+            0.52,
             0.51,
             0.51,
             0.51,
             0.52,
-            0.53,
-            0.53,
-            0.53,
+            0.51,
             0.52,
             0.51,
-            0.51
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.27,
-            24.31,
-            24.52,
-            24.93,
-            25.19,
-            25.59,
-            25.63,
-            25.42,
-            25.35,
-            25.25,
-            25.32,
-            24.92
+            23.77,
+            23.69,
+            23.85,
+            23.72,
+            23.84,
+            24.12,
+            24.08,
+            24.46,
+            24.75,
+            24.78,
+            25.0,
+            25.35
         ],
         "hsd_history_software": [
-            10.41,
-            10.39,
-            10.28,
-            10.23,
+            10.14,
+            10.24,
             10.37,
-            10.4,
-            10.27,
-            10.45,
-            10.33,
-            10.17,
-            9.97,
-            9.83
+            10.48,
+            10.42,
+            10.59,
+            10.39,
+            10.26,
+            10.26,
+            10.26,
+            10.07,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:58",
+            "time": "08:39",
             "tag": "MERCADO",
-            "text": "DuPont de Nemours Inc stock (US2632451003): Q1 earnings beat and portfolio reshaping move the spotli"
+            "text": "ORANGEKLOUD TECHNOLOGY (ORKT) Stock News"
         },
         {
-            "time": "05:13",
+            "time": "08:34",
             "tag": "MERCADO",
-            "text": "Omnicom Reshapes PR Leadership As Data And Commerce Strategy Evolves"
+            "text": "Canada Post Corp Registered Pension Plan Grows Holdings in Qualcomm Incorporated $QCOM"
         },
         {
-            "time": "05:09",
+            "time": "08:34",
             "tag": "MERCADO",
-            "text": "Hewlett Packard Enterprise (NYSE:HPE) Downgraded by Wall Street Zen to \"Hold\""
+            "text": "Barr E S & Co. Makes New Investment in Qualcomm Incorporated $QCOM"
         },
         {
-            "time": "05:08",
+            "time": "08:34",
             "tag": "MERCADO",
-            "text": "Lime IPO Filing: Uber's Strategic Advantage and Investment Outlook - News and Statistics"
+            "text": "Canada Post Corp Registered Pension Plan Sells 42,840 Shares of Oracle Corporation $ORCL"
         },
         {
-            "time": "04:49",
+            "time": "08:33",
             "tag": "MERCADO",
-            "text": "Assessing Regeneron Pharmaceuticals (REGN) Valuation After Recent Share Pullback And Pipeline Expectations"
+            "text": "Canada Post Corp Registered Pension Plan Buys 22,380 Shares of Verizon Communications Inc. $VZ"
         }
     ]
 }
