@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-17 19:22 UTC",
+        "last_updated": "2026-05-17 20:57 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.32,
-            "change": "+1.23%"
+            "change": "+0.13%"
         },
         {
             "symbol": "AMD",
             "price": 424.1,
-            "change": "-3.18%"
+            "change": "+1.34%"
         },
         {
             "symbol": "MSFT",
             "price": 421.92,
-            "change": "-2.99%"
+            "change": "-2.14%"
         },
         {
             "symbol": "CEG",
             "price": 267.2,
-            "change": "-2.36%"
+            "change": "+2.91%"
         },
         {
             "symbol": "VST",
             "price": 139.68,
-            "change": "+1.97%"
+            "change": "-0.44%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.65,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51
+            0.46,
+            0.47,
+            0.47,
+            0.48,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.59,
-            25.97,
-            26.38,
-            26.2,
-            26.38,
-            26.01,
-            25.71,
-            25.4,
-            25.16,
-            25.31,
-            24.94,
-            25.25
+            24.93,
+            25.27,
+            25.38,
+            25.38,
+            25.3,
+            24.82,
+            24.85,
+            25.08,
+            25.21,
+            24.79,
+            24.8,
+            24.62
         ],
         "hsd_history_software": [
-            10.26,
-            10.44,
-            10.29,
-            10.25,
-            10.09,
-            10.14,
-            10.32,
-            10.35,
-            10.48,
-            10.4,
-            10.23,
-            10.07
+            10.17,
+            10.1,
+            10.08,
+            9.98,
+            9.92,
+            9.73,
+            9.88,
+            9.9,
+            9.94,
+            10.08,
+            10.05,
+            9.91
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:23",
+            "time": "19:44",
+            "tag": "MERCADO",
+            "text": "Automatic Data Processing Inc stock (US0527691069): earnings beat and dividend profile under investo"
+        },
+        {
+            "time": "19:44",
             "tag": "AI",
-            "text": "Former Microsoft VP says Microsoft missed the AI wave like the internet and mobile, as Copilot scales back in Windows 11"
+            "text": "Marvell Technology stock (US5950171042): AI demand, earnings and analyst upgrades keep focus on Marvell"
         },
         {
-            "time": "18:02",
-            "tag": "MERCADO",
-            "text": "Lam Research stock (US5184391044): chip equipment player in focus after latest quarterly results"
+            "time": "19:40",
+            "tag": "RESULTADOS",
+            "text": "Garmin Ltd stock (US3687361044): Earnings and product mix keep the radar on Garmin"
         },
         {
-            "time": "17:59",
+            "time": "19:30",
             "tag": "MERCADO",
-            "text": "Home Sales, Nvidia, Walmart, Home Depot, Target, and More to Watch This Week"
+            "text": "CoStar Set to Drop from Nasdaq-100 Monday: What\u2019s Next for CSGP Holders"
         },
         {
-            "time": "17:40",
+            "time": "19:17",
             "tag": "MERCADO",
-            "text": "AT&T Shares Slide for the Week; Monday Trading in Focus"
-        },
-        {
-            "time": "17:37",
-            "tag": "MERCADO",
-            "text": "CoStar Group Inc stock (US22160N1090): Nasdaq-100 exit and Homes.com spending shake investor confidence"
+            "text": "5 Best Performing Semiconductor Stocks So Far in 2026"
         }
     ]
 }
