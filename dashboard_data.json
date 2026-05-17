@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-17 16:04 UTC",
+        "last_updated": "2026-05-17 17:59 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.32,
-            "change": "+2.82%"
+            "change": "+2.27%"
         },
         {
             "symbol": "AMD",
             "price": 424.1,
-            "change": "-0.86%"
+            "change": "-2.07%"
         },
         {
             "symbol": "MSFT",
             "price": 421.92,
-            "change": "-1.43%"
+            "change": "-0.1%"
         },
         {
             "symbol": "CEG",
             "price": 267.2,
-            "change": "-0.71%"
+            "change": "+3.13%"
         },
         {
             "symbol": "VST",
             "price": 139.68,
-            "change": "-1.17%"
+            "change": "+0.58%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.48,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.5
+            0.53,
+            0.52,
+            0.52,
+            0.53,
+            0.53,
+            0.52,
+            0.53,
+            0.52,
+            0.51,
+            0.51,
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.53,
             24.24,
-            23.95,
+            23.98,
+            24.2,
+            24.32,
+            24.38,
             24.35,
-            24.01,
-            23.81,
-            23.85,
-            24.18,
-            24.05,
-            24.24,
-            24.72,
-            24.69
+            24.69,
+            25.12,
+            25.05,
+            25.51,
+            25.51,
+            25.36
         ],
         "hsd_history_software": [
-            10.35,
+            10.28,
+            10.13,
+            9.97,
+            10.09,
             10.19,
-            10.0,
-            9.81,
-            9.88,
+            10.06,
             9.94,
-            9.88,
-            9.87,
-            9.81,
-            9.75,
-            9.87,
-            10.02
+            10.0,
+            10.15,
+            10.15,
+            10.28,
+            10.12
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:31",
+            "time": "17:07",
             "tag": "MERCADO",
-            "text": "Norton by Gen Digital: what the security suite offers"
+            "text": "Has Palo Alto Networks (PANW) Run Too Far After Its Recent Surge In Share Price?"
         },
         {
-            "time": "14:51",
-            "tag": "MERCADO",
-            "text": "Tesla Model Y as a family EV: range, charging, safety"
-        },
-        {
-            "time": "14:49",
-            "tag": "MERCADO",
-            "text": "Alphabet Inc Class A stock (US02079K3059): Cloud growth and ad strength stay in focus"
-        },
-        {
-            "time": "14:34",
+            "time": "17:06",
             "tag": "AI",
-            "text": "Western Digital Corp stock (US95040Q1040): dividend hike and AI storage boom keep investors on alert"
+            "text": "Why Fortinet (FTNT) Is Up 7.6% After Tapping NVIDIA To Accelerate Its FortiAIGate AI Security"
         },
         {
-            "time": "14:30",
+            "time": "16:46",
             "tag": "MERCADO",
-            "text": "Clearfield Inc stock (US18482P1030): May rally puts fiber player back on the radar"
+            "text": "Robert W. Baird Maintains Hold Rating on Fortinet (FTNT) Stock"
+        },
+        {
+            "time": "16:46",
+            "tag": "MERCADO",
+            "text": "Mizuho lifts PT on Advanced Micro Devices (AMD) Stock"
+        },
+        {
+            "time": "16:44",
+            "tag": "MERCADO",
+            "text": "Synopsys Stock Analysis: Elliott, Ansys, and an $11.3 Billion Backlog Make the Case"
         }
     ]
 }
