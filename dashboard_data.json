@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-17 23:03 UTC",
+        "last_updated": "2026-05-18 03:58 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.32,
-            "change": "-2.29%"
+            "change": "-2.24%"
         },
         {
             "symbol": "AMD",
             "price": 424.1,
-            "change": "+2.02%"
+            "change": "-1.41%"
         },
         {
             "symbol": "MSFT",
             "price": 421.92,
-            "change": "-1.89%"
+            "change": "+1.05%"
         },
         {
             "symbol": "CEG",
             "price": 267.2,
-            "change": "-0.76%"
+            "change": "+0.07%"
         },
         {
             "symbol": "VST",
             "price": 139.68,
-            "change": "-1.93%"
+            "change": "+0.86%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.58,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.48,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
+            0.55,
+            0.54,
+            0.55,
+            0.54,
+            0.54,
+            0.54,
+            0.54,
+            0.53,
+            0.52,
+            0.53,
+            0.52,
             0.51
         ],
         "hsd_history_hardware": [
-            26.67,
-            26.22,
-            26.22,
-            26.28,
-            26.49,
-            26.01,
-            25.53,
-            25.7,
-            25.69,
-            25.72,
-            25.42,
-            25.28
+            25.24,
+            25.3,
+            25.52,
+            25.48,
+            25.27,
+            25.01,
+            24.81,
+            24.72,
+            25.0,
+            24.86,
+            25.21,
+            24.72
         ],
         "hsd_history_software": [
-            9.1,
-            9.14,
-            9.12,
-            9.27,
-            9.42,
-            9.26,
-            9.34,
-            9.34,
-            9.51,
-            9.55,
-            9.68,
-            9.82
+            10.08,
+            9.9,
+            9.81,
+            9.88,
+            9.71,
+            9.85,
+            9.97,
+            9.93,
+            9.88,
+            9.96,
+            10.05,
+            10.18
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:12",
-            "tag": "MERCADO",
-            "text": "eBay Inc. stock (US2786421030): earnings update and strategic shifts keep investors watching"
+            "time": "03:07",
+            "tag": "AI",
+            "text": "Microsoft Corporation stock (US5949181045): AI and cloud momentum after latest quarterly results"
         },
         {
-            "time": "22:00",
-            "tag": "RESULTADOS",
-            "text": "Why Rackspace Technology (RXT) Is Up 6.0% After AMD AI Cloud Pact And Earnings Turnaround"
+            "time": "02:45",
+            "tag": "AI",
+            "text": "Applied Materials Inc. stock (US0382221051): record quarter, AI demand and higher dividend"
         },
         {
-            "time": "21:59",
+            "time": "02:39",
             "tag": "MERCADO",
-            "text": "Masimo Corp stock (US5747951003): earnings, Danaher deal and what\u2019s next for the medical-tech specialist"
+            "text": "A Look At Blackstone (BX) Valuation After The BXDC Data Center REIT IPO"
         },
         {
-            "time": "21:58",
+            "time": "02:38",
             "tag": "MERCADO",
-            "text": "T-Mobile is giving away the Apple iPhone 17 for free \u2014 how to claim this weekend"
+            "text": "What Hilton Worldwide Holdings (HLT)'s Leadership Reshuffle and New Tech Focus Means For Shareholders"
         },
         {
-            "time": "21:34",
-            "tag": "MERCADO",
-            "text": "AT&T Inc stock (US00206R1023): earnings beat and fiber momentum put focus back on growth"
+            "time": "02:38",
+            "tag": "AI",
+            "text": "The Bull Case For Gen Digital (GEN) Could Change Following Strong FY26 Results And Norton Neo AI Browser Launch"
         }
     ]
 }
