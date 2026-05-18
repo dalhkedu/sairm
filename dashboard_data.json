@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-18 12:34 UTC",
+        "last_updated": "2026-05-18 16:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 225.32,
-            "change": "0.0%"
+            "price": 221.14,
+            "change": "-2.78%"
         },
         {
             "symbol": "AMD",
-            "price": 424.1,
-            "change": "-3.29%"
+            "price": 414.81,
+            "change": "+1.23%"
         },
         {
             "symbol": "MSFT",
-            "price": 421.92,
-            "change": "-0.42%"
+            "price": 418.5,
+            "change": "+0.91%"
         },
         {
             "symbol": "CEG",
-            "price": 267.2,
-            "change": "-1.09%"
+            "price": 260.62,
+            "change": "-0.78%"
         },
         {
             "symbol": "VST",
-            "price": 139.68,
-            "change": "-3.44%"
+            "price": 134.76,
+            "change": "-0.4%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
-        "rci_current": 0.23,
+        "cer_current": 0.47,
+        "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.49,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.51,
             0.5,
             0.49,
             0.49,
-            0.49,
-            0.49,
+            0.5,
             0.5,
             0.49,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            26.02,
-            26.1,
-            26.35,
-            26.85,
-            26.36,
-            25.99,
-            25.68,
             25.5,
-            25.34,
-            24.98,
-            24.77,
-            25.14
+            25.44,
+            25.74,
+            26.05,
+            26.0,
+            26.12,
+            25.9,
+            25.6,
+            25.19,
+            25.38,
+            25.68,
+            25.35
         ],
         "hsd_history_software": [
-            10.06,
-            10.09,
-            10.13,
-            10.31,
-            10.27,
-            10.17,
-            10.19,
-            10.31,
-            10.27,
-            10.15,
-            10.04,
-            9.9
+            10.53,
+            10.39,
+            10.45,
+            10.35,
+            10.3,
+            10.3,
+            10.46,
+            10.32,
+            10.14,
+            9.96,
+            9.98,
+            10.17
         ],
         "rci_data": [
             85.0,
-            22.532
+            22.113999999999997
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:00",
+            "time": "15:37",
             "tag": "MERCADO",
-            "text": "Nvidia earnings preview: Morgan Stanley highlights key metrics to watch"
+            "text": "Is Roper Technologies (ROP) Now An Opportunity After A 44% One Year Share Price Slide"
         },
         {
-            "time": "12:00",
+            "time": "15:28",
             "tag": "MERCADO",
-            "text": "American-made EV chargers tap Driivz software to expand across U.S."
+            "text": "Seagate falls after exec mulls long lead times; chip stocks in the red"
         },
         {
-            "time": "12:00",
-            "tag": "MERCADO",
-            "text": "New Barcelona data hub links Europe with Americas, Africa and Asia"
+            "time": "15:24",
+            "tag": "AI",
+            "text": "NetApp stock (US64120B1098): AI storage player draws takeover speculation and eyes upcoming earnings"
         },
         {
-            "time": "12:00",
+            "time": "15:23",
             "tag": "MERCADO",
-            "text": "Teledyne Energetics US Announces Production Awards and Launch of New Arm & Fire Module for One-Way-Attack UAS Platforms"
+            "text": "Here\u2019s Why CoStar (CSGP) is Among the 10 Fastest Growing S&P 500 Stocks to Buy Now"
         },
         {
-            "time": "12:00",
+            "time": "15:15",
             "tag": "MERCADO",
-            "text": "Navy taps Raytheon to make ship radars share airwaves with 5G"
+            "text": "Corning Inc Stock (GLW) Moved Down by 5.65% on May 18: Key Drivers Unveiled"
         }
     ]
 }
