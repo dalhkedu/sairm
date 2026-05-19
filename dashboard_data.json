@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-19 21:22 UTC",
+        "last_updated": "2026-05-19 23:04 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 220.61,
-            "change": "-0.87%"
+            "change": "+2.0%"
         },
         {
             "symbol": "AMD",
             "price": 414.05,
-            "change": "-3.27%"
+            "change": "-3.33%"
         },
         {
             "symbol": "MSFT",
             "price": 417.42,
-            "change": "+3.07%"
+            "change": "+2.5%"
         },
         {
             "symbol": "CEG",
             "price": 260.67,
-            "change": "+0.78%"
+            "change": "+1.44%"
         },
         {
             "symbol": "VST",
             "price": 134.71,
-            "change": "-1.21%"
+            "change": "+1.33%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.69,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
+            0.49,
             0.5,
-            0.51,
             0.5,
-            0.51,
-            0.51,
-            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            26.73,
-            26.37,
-            26.29,
-            26.46,
-            26.02,
-            25.67,
-            25.53,
             25.8,
-            25.9,
+            25.6,
+            26.08,
+            25.93,
+            25.45,
+            25.61,
+            25.59,
+            25.12,
+            25.06,
             25.49,
-            25.29,
-            25.39
+            25.46,
+            25.14
         ],
         "hsd_history_software": [
-            10.21,
-            10.19,
-            10.21,
-            10.11,
-            10.26,
-            10.16,
-            10.21,
-            10.4,
-            10.29,
-            10.15,
-            10.03,
-            10.05
+            9.21,
+            9.32,
+            9.27,
+            9.24,
+            9.4,
+            9.27,
+            9.39,
+            9.52,
+            9.56,
+            9.73,
+            9.63,
+            9.81
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:35",
-            "tag": "RESULTADOS",
-            "text": "A Look At Take Two Interactive (TTWO) Valuation As GTA VI Optimism Builds Ahead Of Earnings"
-        },
-        {
-            "time": "20:33",
+            "time": "22:31",
             "tag": "MERCADO",
-            "text": "Bill Ackman's Alphabet Sale Has Cost $641 Million \u2014 Will His New Mag 7 Pick Save The Trade?"
+            "text": "A Look At Equinix (EQIX) Valuation After Recent Share Price Cooling And Longer Term Gains"
         },
         {
-            "time": "20:31",
-            "tag": "MERCADO",
-            "text": "The Netflix Empire Is Expanding as It Makes \u2018Major Moves\u2019 Into Candy and Toys"
-        },
-        {
-            "time": "20:30",
+            "time": "22:26",
             "tag": "AI",
-            "text": "Salesforce taps TTEC Digital to help companies push AI agents into daily use"
+            "text": "Paychex stock (US7043261079): new AI platform and steady dividends draw fresh investor attention"
         },
         {
-            "time": "20:28",
+            "time": "22:20",
             "tag": "AI",
-            "text": "Why Eaton (ETN) Is Benefiting From AI\u2019s Grid-to-Chip Power Demands"
+            "text": "Moody's Corporation stock (US6153691059): AI push and steady ratings demand keep long-term story in"
+        },
+        {
+            "time": "22:10",
+            "tag": "AI",
+            "text": "CEVA Inc stock (US1572101053): fresh guidance and AI focus after latest quarterly results"
+        },
+        {
+            "time": "22:09",
+            "tag": "AI",
+            "text": "Yelp Inc stock (US9858171054): Q1 earnings, AI push and advertising headwinds in focus"
         }
     ]
 }
