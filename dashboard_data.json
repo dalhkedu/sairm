@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-19 12:41 UTC",
+        "last_updated": "2026-05-19 16:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 222.32,
-            "change": "-0.1%"
+            "price": 220.93,
+            "change": "+2.76%"
         },
         {
             "symbol": "AMD",
-            "price": 420.99,
-            "change": "-0.35%"
+            "price": 410.55,
+            "change": "+1.83%"
         },
         {
             "symbol": "MSFT",
-            "price": 423.54,
-            "change": "+2.73%"
+            "price": 418.82,
+            "change": "+0.06%"
         },
         {
             "symbol": "CEG",
-            "price": 262.0,
-            "change": "-1.73%"
+            "price": 257.33,
+            "change": "-2.6%"
         },
         {
             "symbol": "VST",
-            "price": 136.75,
-            "change": "+3.28%"
+            "price": 134.64,
+            "change": "+3.32%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.69,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
             0.51,
             0.52,
             0.51,
+            0.5,
             0.51,
+            0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.58,
-            24.51,
-            24.82,
-            25.16,
-            25.62,
-            25.43,
-            25.38,
-            25.09,
+            24.76,
+            25.25,
+            25.37,
+            25.74,
+            25.6,
+            25.15,
             24.88,
             24.48,
-            24.58,
-            24.94
+            24.51,
+            24.13,
+            24.21,
+            24.67
         ],
         "hsd_history_software": [
-            9.79,
-            9.73,
-            9.76,
-            9.88,
-            9.83,
-            9.82,
-            9.83,
-            10.0,
+            9.67,
+            9.75,
+            9.8,
+            9.8,
+            9.99,
+            9.86,
+            9.78,
+            9.96,
             9.9,
-            10.05,
-            10.19,
-            10.2
+            10.03,
+            10.22,
+            10.07
         ],
         "rci_data": [
             85.0,
-            22.232
+            22.093
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:00",
-            "tag": "AI",
-            "text": "Why a Singapore tech firm is wiring up digital IDs and AI in Africa"
-        },
-        {
-            "time": "11:59",
+            "time": "15:18",
             "tag": "MERCADO",
-            "text": "Apple will subtitle videos and let Vision Pro help control power wheelchairs"
+            "text": "Amazon.com Inc Stock (AMZN) Moved Down by 3.03% on May 19: What Signal Does It Send?"
         },
         {
-            "time": "11:59",
-            "tag": "AI",
-            "text": "Inside the AI 'scientist' Incyte will use to guide drug research"
-        },
-        {
-            "time": "11:52",
+            "time": "15:15",
             "tag": "MERCADO",
-            "text": "Morgan Stanley hired a new tech banker in California. It's too late for what really matters"
+            "text": "Corning Inc Stock (GLW) Moved Down by 3.61% on May 19: Key Drivers Unveiled"
         },
         {
-            "time": "11:46",
+            "time": "15:14",
             "tag": "MERCADO",
-            "text": "Epic Games' 'Fortnite' returns to App Stores worldwide"
+            "text": "The Smart Waste Management Market is expected to reach US$ 8.3 Billion, Growing at a CAGR of 15.6%, By 2032 | Allied Market Research"
+        },
+        {
+            "time": "15:09",
+            "tag": "MERCADO",
+            "text": "Insider Selling: Jeffrey Chen Unloads $14.66M Of ASE Technology Holding Co Stock"
+        },
+        {
+            "time": "15:07",
+            "tag": "MERCADO",
+            "text": "KLAC: Strong WFE and process control growth, market share gains, and robust outlook through 2030"
         }
     ]
 }
