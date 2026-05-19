@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-19 09:51 UTC",
+        "last_updated": "2026-05-19 12:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 222.32,
-            "change": "-2.35%"
+            "change": "-0.1%"
         },
         {
             "symbol": "AMD",
             "price": 420.99,
-            "change": "+2.84%"
+            "change": "-0.35%"
         },
         {
             "symbol": "MSFT",
             "price": 423.54,
-            "change": "+0.77%"
+            "change": "+2.73%"
         },
         {
             "symbol": "CEG",
             "price": 262.0,
-            "change": "+2.58%"
+            "change": "-1.73%"
         },
         {
             "symbol": "VST",
             "price": 136.75,
-            "change": "+0.54%"
+            "change": "+3.28%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.42,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.48,
-            0.48,
-            0.49,
             0.5,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
             0.5,
-            0.51
+            0.51,
+            0.51,
+            0.5,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.25,
-            23.44,
-            23.79,
-            23.8,
-            23.78,
-            23.89,
-            24.3,
-            24.79,
-            24.71,
-            25.17,
-            25.4,
-            25.2
+            24.58,
+            24.51,
+            24.82,
+            25.16,
+            25.62,
+            25.43,
+            25.38,
+            25.09,
+            24.88,
+            24.48,
+            24.58,
+            24.94
         ],
         "hsd_history_software": [
+            9.79,
+            9.73,
+            9.76,
             9.88,
-            10.04,
-            10.04,
+            9.83,
+            9.82,
+            9.83,
+            10.0,
+            9.9,
+            10.05,
             10.19,
-            10.12,
-            10.14,
-            10.31,
-            10.18,
-            10.13,
-            9.94,
-            10.01,
-            9.99
+            10.2
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:08",
-            "tag": "MERCADO",
-            "text": "Microsoft Corporation $MSFT Shares Sold by OLD National Bancorp IN"
+            "time": "12:00",
+            "tag": "AI",
+            "text": "Why a Singapore tech firm is wiring up digital IDs and AI in Africa"
         },
         {
-            "time": "09:07",
+            "time": "11:59",
             "tag": "MERCADO",
-            "text": "Pinnacle Associates Ltd. Purchases Shares of 3,025 Western Digital Corporation $WDC"
+            "text": "Apple will subtitle videos and let Vision Pro help control power wheelchairs"
         },
         {
-            "time": "09:06",
-            "tag": "MERCADO",
-            "text": "OptimizeRx Corp stock (US6837631027): earnings momentum and buyback plan put focus back on digital h"
+            "time": "11:59",
+            "tag": "AI",
+            "text": "Inside the AI 'scientist' Incyte will use to guide drug research"
         },
         {
-            "time": "09:03",
+            "time": "11:52",
             "tag": "MERCADO",
-            "text": "T-Mobile US, Inc. $TMUS Shares Acquired by GSA Capital Partners LLP"
+            "text": "Morgan Stanley hired a new tech banker in California. It's too late for what really matters"
         },
         {
-            "time": "08:47",
+            "time": "11:46",
             "tag": "MERCADO",
-            "text": "Handelsbanken Fonder AB Boosts Stake in Adobe Inc. $ADBE"
+            "text": "Epic Games' 'Fortnite' returns to App Stores worldwide"
         }
     ]
 }
