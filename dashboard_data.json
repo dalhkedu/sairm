@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-18 22:05 UTC",
+        "last_updated": "2026-05-19 00:10 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 222.32,
-            "change": "-1.8%"
+            "change": "+2.61%"
         },
         {
             "symbol": "AMD",
             "price": 420.99,
-            "change": "+2.28%"
+            "change": "+3.22%"
         },
         {
             "symbol": "MSFT",
             "price": 423.54,
-            "change": "+2.19%"
+            "change": "-1.4%"
         },
         {
             "symbol": "CEG",
             "price": 262.0,
-            "change": "-0.09%"
+            "change": "+0.06%"
         },
         {
             "symbol": "VST",
             "price": 136.75,
-            "change": "-2.52%"
+            "change": "-0.43%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.66,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.47,
-            0.46,
-            0.46,
-            0.46,
-            0.46,
-            0.46,
-            0.47,
-            0.47,
+            0.48,
+            0.48,
+            0.48,
             0.48,
             0.49,
-            0.5
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.37,
-            26.09,
-            25.92,
-            25.95,
-            25.95,
-            26.06,
-            26.16,
-            25.86,
-            25.48,
-            25.74,
-            25.46,
-            25.01
+            25.28,
+            25.45,
+            25.12,
+            25.29,
+            25.11,
+            24.93,
+            24.55,
+            24.4,
+            24.23,
+            24.66,
+            24.65,
+            24.53
         ],
         "hsd_history_software": [
-            9.98,
-            9.89,
-            9.81,
-            9.72,
-            9.84,
-            10.01,
-            9.94,
-            9.98,
-            10.0,
+            10.06,
             10.09,
-            9.97,
-            9.92
+            10.17,
+            10.19,
+            10.38,
+            10.35,
+            10.29,
+            10.11,
+            10.29,
+            10.25,
+            10.11,
+            10.18
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,9 @@
     ],
     "news_feed": [
         {
-            "time": "21:20",
-            "tag": "MERCADO",
-            "text": "A Look at Seagate Technology Holdings PLC (STX) After 6.9% Decli"
-        },
-        {
-            "time": "21:20",
-            "tag": "MERCADO",
-            "text": "Oracle Corp (ORCL) Stock Down 3.3% but Still Overvalued -- GF Sc"
-        },
-        {
-            "time": "21:12",
-            "tag": "AI",
-            "text": "International Business Machines stock (US4592001014): IBM leans into hybrid cloud and AI after recent earnings"
-        },
-        {
-            "time": "21:07",
-            "tag": "MERCADO",
-            "text": "Palo Alto Networks (NASDAQ:PANW) Trading Up 1.9% Following Analyst Upgrade"
-        },
-        {
-            "time": "20:56",
-            "tag": "MERCADO",
-            "text": "Stryker enrolls first patient in first-in-human study of AVS IVL in a coronary indication"
+            "time": "INFO",
+            "tag": "LIMIT",
+            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
         }
     ]
 }
