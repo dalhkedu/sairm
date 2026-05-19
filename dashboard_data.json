@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-19 00:10 UTC",
+        "last_updated": "2026-05-19 05:03 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 222.32,
-            "change": "+2.61%"
+            "change": "+0.26%"
         },
         {
             "symbol": "AMD",
             "price": 420.99,
-            "change": "+3.22%"
+            "change": "+2.19%"
         },
         {
             "symbol": "MSFT",
             "price": 423.54,
-            "change": "-1.4%"
+            "change": "+2.28%"
         },
         {
             "symbol": "CEG",
             "price": 262.0,
-            "change": "+0.06%"
+            "change": "+0.26%"
         },
         {
             "symbol": "VST",
             "price": 136.75,
-            "change": "-0.43%"
+            "change": "-1.47%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.69,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49
+            0.5,
+            0.5,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.5,
+            0.51,
+            0.5,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.28,
-            25.45,
-            25.12,
-            25.29,
-            25.11,
-            24.93,
-            24.55,
-            24.4,
-            24.23,
-            24.66,
-            24.65,
-            24.53
+            24.72,
+            24.63,
+            24.36,
+            24.37,
+            24.01,
+            23.95,
+            24.41,
+            24.0,
+            24.34,
+            24.51,
+            24.81,
+            24.92
         ],
         "hsd_history_software": [
-            10.06,
-            10.09,
-            10.17,
-            10.19,
-            10.38,
-            10.35,
-            10.29,
-            10.11,
-            10.29,
-            10.25,
-            10.11,
-            10.18
+            9.47,
+            9.55,
+            9.44,
+            9.27,
+            9.42,
+            9.46,
+            9.63,
+            9.68,
+            9.79,
+            9.78,
+            9.98,
+            9.86
         ],
         "rci_data": [
             85.0,
@@ -126,9 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "INFO",
-            "tag": "LIMIT",
-            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
+            "time": "04:39",
+            "tag": "MERCADO",
+            "text": "Entegris SVP Clint Haris sells $842,843 in stock"
+        },
+        {
+            "time": "04:15",
+            "tag": "RESULTADOS",
+            "text": "UBS Raises Broadcom Inc. (AVGO.US) TP to USD490, Sees Earnings Likely to Beat in Coming Quarters"
+        },
+        {
+            "time": "04:10",
+            "tag": "MERCADO",
+            "text": "MarketAxess Holdings stock (US57060D1081): options surge puts electronic bond platform in focus"
+        },
+        {
+            "time": "04:10",
+            "tag": "MERCADO",
+            "text": "Thermal eyes for drones: DRS targets small UAVs with Tenum 640 Orbit"
+        },
+        {
+            "time": "04:10",
+            "tag": "MERCADO",
+            "text": "Draganfly to Acquire Skip Dynamix Fixed-Wing Drone Assets in US$7.5 Million Deal"
         }
     ]
 }
