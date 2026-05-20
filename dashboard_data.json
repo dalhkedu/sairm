@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-20 10:53 UTC",
+        "last_updated": "2026-05-20 13:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 220.61,
-            "change": "-1.27%"
+            "price": 221.5,
+            "change": "+0.98%"
         },
         {
             "symbol": "AMD",
-            "price": 414.05,
-            "change": "+1.18%"
+            "price": 432.32,
+            "change": "+0.03%"
         },
         {
             "symbol": "MSFT",
-            "price": NaN,
-            "change": "-0.29%"
+            "price": 413.11,
+            "change": "+1.72%"
         },
         {
             "symbol": "CEG",
-            "price": 260.67,
-            "change": "+2.34%"
+            "price": 271.67,
+            "change": "-2.42%"
         },
         {
             "symbol": "VST",
-            "price": 134.71,
-            "change": "+0.21%"
+            "price": 139.74,
+            "change": "-0.05%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.47,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
             0.49,
             0.49,
-            0.48,
-            0.47,
-            0.48,
-            0.48,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
             0.49,
-            0.49
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            23.98,
-            23.98,
-            24.26,
-            24.37,
-            24.26,
-            23.9,
-            23.96,
-            24.45,
-            24.59,
-            24.27,
-            24.54,
-            24.51
+            25.75,
+            25.6,
+            25.4,
+            25.46,
+            25.8,
+            25.45,
+            25.25,
+            25.0,
+            25.45,
+            25.86,
+            25.45,
+            25.0
         ],
         "hsd_history_software": [
-            9.71,
-            9.84,
-            9.65,
-            9.74,
-            9.82,
-            9.65,
-            9.58,
-            9.58,
-            9.78,
-            9.91,
             9.8,
-            9.88
+            9.86,
+            9.85,
+            9.97,
+            10.02,
+            9.97,
+            9.88,
+            10.03,
+            10.0,
+            10.03,
+            9.92,
+            10.09
         ],
         "rci_data": [
             85.0,
-            22.061
+            22.15
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:04",
+            "time": "13:02",
             "tag": "MERCADO",
-            "text": "Marathon Asset Management Ltd Sells 9,065 Shares of Autodesk, Inc. $ADSK"
+            "text": "Expedia Group to buy CarTrawler, rental-car engine for 70+ airlines"
         },
         {
-            "time": "10:02",
+            "time": "13:00",
             "tag": "MERCADO",
-            "text": "Broadcom Inc. stock (US11135F1012): Investors eye upcoming earnings and structured note linkage"
+            "text": "New RTX system keeps battlefield data flowing even under jamming"
         },
         {
-            "time": "10:01",
+            "time": "12:59",
             "tag": "MERCADO",
-            "text": "Oracle Corporation $ORCL Position Increased by Harvest Portfolios Group Inc."
+            "text": "UPST Investor Alert: Upstart Holdings Securities Fraud Lawsuit - Investors With Losses May Seek to Lead the Class Action After Allegedly Misleading on Model Performance: Levi & Korsinsky"
         },
         {
-            "time": "10:01",
-            "tag": "MERCADO",
-            "text": "Harvest Portfolios Group Inc. Has $25.09 Million Stock Holdings in Motorola Solutions, Inc. $MSI"
+            "time": "12:59",
+            "tag": "AI",
+            "text": "Hard drives still provide most AI storage, Western Digital survey says"
         },
         {
-            "time": "10:00",
+            "time": "12:59",
             "tag": "MERCADO",
-            "text": "Uber Technologies, Inc. $UBER Shares Sold by Investment House LLC"
+            "text": "Dolby Recognized as 2025 Supplier of the Year and Overdrive Award Winner by General Motors"
         }
     ]
 }
