@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-20 03:53 UTC",
+        "last_updated": "2026-05-20 07:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 220.61,
-            "change": "+1.62%"
+            "change": "+2.84%"
         },
         {
             "symbol": "AMD",
             "price": 414.05,
-            "change": "+1.09%"
+            "change": "-2.53%"
         },
         {
             "symbol": "MSFT",
             "price": 417.42,
-            "change": "-3.35%"
+            "change": "+2.45%"
         },
         {
             "symbol": "CEG",
             "price": 260.67,
-            "change": "-0.51%"
+            "change": "-0.74%"
         },
         {
             "symbol": "VST",
             "price": 134.71,
-            "change": "+1.88%"
+            "change": "-0.67%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.42,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.56,
-            0.56,
-            0.56,
-            0.55,
-            0.55,
-            0.54,
-            0.53,
-            0.53,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.52,
             0.52,
             0.52,
-            0.51
+            0.51,
+            0.5,
+            0.51,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.18,
+            26.44,
+            26.28,
+            25.8,
+            25.5,
+            25.05,
+            24.75,
             24.63,
-            25.07,
-            24.78,
-            25.1,
-            25.43,
-            25.43,
-            25.28,
-            25.25,
-            25.02,
-            24.76,
-            24.91
+            25.09,
+            25.29,
+            24.95,
+            24.98,
+            25.36
         ],
         "hsd_history_software": [
+            10.2,
+            10.32,
+            10.42,
+            10.32,
+            10.26,
+            10.19,
+            10.33,
+            10.18,
             10.09,
-            10.25,
-            10.4,
-            10.27,
+            10.09,
             10.24,
-            10.12,
-            9.96,
-            9.85,
-            9.84,
-            9.95,
-            9.85,
-            9.82
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:55",
+            "time": "07:05",
             "tag": "MERCADO",
-            "text": "Arista Networks Inc. stock (US0404131064): Cloud networking specialist grows after strong Q1 update"
+            "text": "Adell Harriman & Carpenter Inc. Boosts Stock Position in Cisco Systems, Inc. $CSCO"
         },
         {
-            "time": "02:44",
+            "time": "07:05",
             "tag": "MERCADO",
-            "text": "Uber emerges as Baemin parent DH\u2019s top shareholder, raises questions over Korean top delivery app\u2019s future"
+            "text": "Microsoft Corporation $MSFT is Absher Wealth Management LLC's 3rd Largest Position"
         },
         {
-            "time": "02:35",
+            "time": "07:05",
             "tag": "MERCADO",
-            "text": "AeroVironment, Inc."
+            "text": "Advanced Micro Devices, Inc. $AMD Shares Acquired by Adell Harriman & Carpenter Inc."
         },
         {
-            "time": "02:19",
+            "time": "07:04",
             "tag": "MERCADO",
-            "text": "Agilent Technologies Inc. stock (US00846U1016): TSA World Cup contract puts airport security business in focus"
+            "text": "Adell Harriman & Carpenter Inc. Decreases Stock Position in Qualcomm Incorporated $QCOM"
         },
         {
-            "time": "02:19",
-            "tag": "MERCADO",
-            "text": "Keysight Technologies (KEYS) Reports Strong Q2 Results, Shares Surge 8%"
+            "time": "06:58",
+            "tag": "AI",
+            "text": "Hewlett Packard Enterprise stock (US42824C1099): AI, hybrid cloud and latest quarterly numbers in fo"
         }
     ]
 }
