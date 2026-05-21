@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-21 20:53 UTC",
+        "last_updated": "2026-05-21 22:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 219.51,
-            "change": "-0.56%"
+            "change": "+2.73%"
         },
         {
             "symbol": "AMD",
             "price": 449.59,
-            "change": "+1.2%"
+            "change": "+0.16%"
         },
         {
             "symbol": "MSFT",
             "price": 419.09,
-            "change": "-3.27%"
+            "change": "+2.07%"
         },
         {
             "symbol": "CEG",
             "price": 285.83,
-            "change": "-1.14%"
+            "change": "-0.59%"
         },
         {
             "symbol": "VST",
             "price": 149.08,
-            "change": "+2.72%"
+            "change": "+1.59%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.66,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.5,
+            0.5,
+            0.5,
             0.5,
             0.51,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
+            0.51,
+            0.51,
+            0.51,
             0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.42,
-            24.9,
-            25.08,
-            24.91,
-            24.65,
-            24.18,
-            24.38,
-            24.44,
-            24.55,
-            24.86,
+            26.65,
+            26.31,
+            25.99,
+            25.72,
+            25.45,
+            25.13,
+            24.85,
+            24.78,
             25.04,
-            25.21
+            25.38,
+            25.26,
+            25.4
         ],
         "hsd_history_software": [
-            10.49,
-            10.42,
-            10.32,
-            10.26,
-            10.21,
-            10.19,
+            10.43,
+            10.43,
+            10.34,
+            10.51,
+            10.41,
+            10.36,
+            10.23,
+            10.12,
+            10.01,
             10.02,
-            9.88,
-            9.95,
-            9.87,
-            9.92,
-            10.01
+            10.03,
+            9.84
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:07",
+            "time": "21:40",
             "tag": "MERCADO",
-            "text": "Enphase powers to 52-week high as Goldman points to data center transformer opportunity (ENPH:NASDAQ)"
+            "text": "MarketAxess Holdings Inc stock hits 52-week low at $137.03 By Investing.com"
         },
         {
-            "time": "20:04",
+            "time": "20:23",
             "tag": "MERCADO",
-            "text": "Take-Two Interactive Software, Inc. Reports Results for Fourth Quarter and Fiscal Year 2026"
+            "text": "American Tower Corporation Declares Quarterly Distribution"
         },
         {
-            "time": "19:54",
-            "tag": "AI",
-            "text": "Starbucks scraps AI tool for automating inventory at North American stores"
+            "time": "20:22",
+            "tag": "MERCADO",
+            "text": "Take-Two Stock Rallies After Q4 Beats Estimates: Details"
         },
         {
-            "time": "19:47",
+            "time": "20:22",
             "tag": "MERCADO",
-            "text": "Why Caterpillar (CAT) Is Becoming a Power Infrastructure Play Too"
+            "text": "IQVIA Holdings Inc stock (US46266C1053): data-driven healthcare group in focus after latest earnings"
         },
         {
-            "time": "19:30",
+            "time": "20:12",
             "tag": "MERCADO",
-            "text": "Leidos Slide Raises Fresh S&P 500 Stock Debate"
+            "text": "Shawn Canter resigns as KULR Technology Group CFO, separation effective May 22, 2026"
         }
     ]
 }
