@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-20 23:21 UTC",
+        "last_updated": "2026-05-21 04:01 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 223.47,
-            "change": "+2.36%"
+            "change": "+0.64%"
         },
         {
             "symbol": "AMD",
             "price": 447.58,
-            "change": "-1.26%"
+            "change": "+3.5%"
         },
         {
             "symbol": "MSFT",
             "price": 421.06,
-            "change": "-1.65%"
+            "change": "+0.83%"
         },
         {
             "symbol": "CEG",
             "price": 281.26,
-            "change": "+1.76%"
+            "change": "-2.95%"
         },
         {
             "symbol": "VST",
             "price": 144.0,
-            "change": "-3.3%"
+            "change": "-0.3%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.46,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
             0.49,
             0.48,
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.49,
             0.49,
             0.5,
             0.5,
             0.5,
-            0.49,
-            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            25.21,
-            24.94,
+            25.02,
+            25.0,
+            25.14,
             25.38,
-            25.66,
-            25.43,
-            25.45,
-            25.67,
-            25.36,
+            24.9,
+            24.46,
+            24.42,
             24.91,
-            25.28,
-            24.78,
-            24.76
+            25.02,
+            24.89,
+            25.32,
+            25.04
         ],
         "hsd_history_software": [
-            9.89,
-            10.03,
-            9.88,
-            10.05,
-            10.06,
-            10.0,
-            9.87,
-            10.02,
-            10.03,
-            9.93,
-            10.04,
-            9.99
+            10.55,
+            10.41,
+            10.3,
+            10.51,
+            10.49,
+            10.35,
+            10.4,
+            10.23,
+            10.11,
+            10.17,
+            10.19,
+            10.19
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:32",
-            "tag": "MERCADO",
-            "text": "Jacobs Solutions stock (US48020Q1076): RBC sticks to bullish view after strong Q2 earnings swing the spotlight"
+            "time": "03:37",
+            "tag": "AI",
+            "text": "How Incyte\u2019s (INCY) Opzelura Data and Edison AI Deal Could Reframe Its Risk Profile"
         },
         {
-            "time": "22:30",
+            "time": "03:30",
             "tag": "MERCADO",
-            "text": "Electronic Arts Inc stock (US2855121099): fresh F1 25 season pack keeps gaming pipeline in focus"
+            "text": "Trimble stock (US8962391004): software strength after Q1 earnings"
         },
         {
-            "time": "22:26",
+            "time": "03:13",
             "tag": "MERCADO",
-            "text": "Qorvo stock (US74736K1016): Skyworks merger and insider moves keep RF chip maker in focus"
+            "text": "Calif. Panel Says Uber Not Liable For College Student's Death"
         },
         {
-            "time": "22:25",
+            "time": "03:09",
             "tag": "MERCADO",
-            "text": "[Form 4] Fortinet, Inc. Insider Trading Activity"
+            "text": "GM Names Avnet 2025 Supplier of the Year for Creative Semiconductor Supply Chain Solutions"
         },
         {
-            "time": "22:23",
+            "time": "03:09",
             "tag": "MERCADO",
-            "text": "Honeywell, NHL Partner For Digitally Enabled Venues 05/21/2026"
+            "text": "Avnet Declares Regular Quarterly Dividend"
         }
     ]
 }
