@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-21 16:16 UTC",
+        "last_updated": "2026-05-21 18:58 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 219.4,
-            "change": "-1.73%"
+            "price": 219.04,
+            "change": "+0.26%"
         },
         {
             "symbol": "AMD",
-            "price": 442.1,
-            "change": "+0.07%"
+            "price": 443.59,
+            "change": "-1.28%"
         },
         {
             "symbol": "MSFT",
-            "price": 417.62,
-            "change": "-0.85%"
+            "price": 418.37,
+            "change": "-2.15%"
         },
         {
             "symbol": "CEG",
-            "price": 285.62,
-            "change": "-1.17%"
+            "price": 286.06,
+            "change": "+1.33%"
         },
         {
             "symbol": "VST",
-            "price": 148.44,
-            "change": "-0.16%"
+            "price": 148.18,
+            "change": "+0.32%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.51,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
-            0.48,
-            0.47,
-            0.48,
-            0.49,
-            0.49,
+            0.5,
             0.49,
             0.5,
             0.5,
             0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            23.37,
-            23.84,
-            23.99,
-            23.67,
-            23.74,
-            23.83,
-            24.16,
-            24.06,
-            24.36,
-            24.51,
-            24.28,
-            24.57
+            23.94,
+            23.92,
+            24.32,
+            24.46,
+            24.3,
+            23.97,
+            24.29,
+            24.66,
+            25.07,
+            24.83,
+            25.32,
+            25.07
         ],
         "hsd_history_software": [
-            9.57,
-            9.53,
-            9.63,
-            9.81,
-            9.73,
-            9.69,
-            9.85,
-            9.91,
-            9.72,
-            9.82,
-            9.69,
-            9.84
+            10.58,
+            10.38,
+            10.55,
+            10.62,
+            10.82,
+            10.67,
+            10.59,
+            10.67,
+            10.5,
+            10.41,
+            10.24,
+            10.18
         ],
         "rci_data": [
             85.0,
-            21.94
+            21.904
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:21",
+            "time": "18:01",
             "tag": "MERCADO",
-            "text": "Nvidia CFO Colette Kress says CPU revenue will total $20 billion across standalone and superchip sales"
+            "text": "Hedge Fund and Insider Trading News: Christopher Hohn, Paul Tudor Jones, Bill Ackman, Bridgewater Associates, Brevan Howard Asset Management, Aflac Inc (AFL), Astera Labs, Inc (ALAB), and More"
         },
         {
-            "time": "15:11",
-            "tag": "MERCADO",
-            "text": "Intuitive Unveils Da Vinci 5 Ecosystem Enhancements"
-        },
-        {
-            "time": "15:05",
+            "time": "17:59",
             "tag": "AI",
-            "text": "Alphabet Inc. Class C stock (US02079K1079): Cloud growth and AI bets keep investors watching"
+            "text": "Exelon backs AI power planning, safer batteries in $20M climate push"
         },
         {
-            "time": "15:01",
+            "time": "17:56",
             "tag": "MERCADO",
-            "text": "IBM Rallies 8% While Oracle, Cisco, HPE Drift: Is the Laggard Finally Bouncing?"
+            "text": "Crown Castle Reshapes Leadership Team as Tower Operator Sharpens Focus on Commercial Growth and Digital Infrastructure"
         },
         {
-            "time": "14:59",
-            "tag": "AI",
-            "text": "Vectra AI Named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Network Detection and Response"
+            "time": "17:48",
+            "tag": "MERCADO",
+            "text": "Media Advisory \u2014 HII DefenseTech LIVE"
+        },
+        {
+            "time": "17:48",
+            "tag": "MERCADO",
+            "text": "Lam Research Corp stock hits all-time high at 302.04 USD"
         }
     ]
 }
