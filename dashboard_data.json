@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-21 12:16 UTC",
+        "last_updated": "2026-05-21 16:16 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 223.47,
-            "change": "+3.33%"
+            "price": 219.4,
+            "change": "-1.73%"
         },
         {
             "symbol": "AMD",
-            "price": 447.58,
-            "change": "-0.16%"
+            "price": 442.1,
+            "change": "+0.07%"
         },
         {
             "symbol": "MSFT",
-            "price": 421.06,
-            "change": "+3.33%"
+            "price": 417.62,
+            "change": "-0.85%"
         },
         {
             "symbol": "CEG",
-            "price": 281.26,
-            "change": "-1.77%"
+            "price": 285.62,
+            "change": "-1.17%"
         },
         {
             "symbol": "VST",
-            "price": 144.0,
-            "change": "+2.02%"
+            "price": 148.44,
+            "change": "-0.16%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.54,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.47,
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
             0.49,
             0.5,
             0.5,
             0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            25.57,
-            25.83,
-            26.24,
-            26.63,
-            26.42,
-            26.5,
-            26.28,
-            25.79,
-            25.3,
-            24.81,
-            24.64,
-            24.51
+            23.37,
+            23.84,
+            23.99,
+            23.67,
+            23.74,
+            23.83,
+            24.16,
+            24.06,
+            24.36,
+            24.51,
+            24.28,
+            24.57
         ],
         "hsd_history_software": [
-            10.3,
-            10.23,
-            10.06,
-            10.09,
-            10.0,
-            10.0,
-            9.94,
+            9.57,
+            9.53,
+            9.63,
+            9.81,
+            9.73,
+            9.69,
             9.85,
-            10.0,
-            10.16,
-            10.05,
-            10.1
+            9.91,
+            9.72,
+            9.82,
+            9.69,
+            9.84
         ],
         "rci_data": [
             85.0,
-            22.347
+            21.94
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:38",
+            "time": "15:21",
             "tag": "MERCADO",
-            "text": "Rigetti (NASDAQ: RGTI) eyes $100M U.S. quantum funding deal"
+            "text": "Nvidia CFO Colette Kress says CPU revenue will total $20 billion across standalone and superchip sales"
         },
         {
-            "time": "11:30",
+            "time": "15:11",
             "tag": "MERCADO",
-            "text": "S&P 500 Futures Fall in Premarket Trading; D-Wave Quantum, Rigetti Computing Lead"
+            "text": "Intuitive Unveils Da Vinci 5 Ecosystem Enhancements"
         },
         {
-            "time": "11:28",
-            "tag": "MERCADO",
-            "text": "IBM, D-Wave, Rigetti, GlobalFoundries confirm proposed U.S. quantum funding awards (IBM:NYSE)"
+            "time": "15:05",
+            "tag": "AI",
+            "text": "Alphabet Inc. Class C stock (US02079K1079): Cloud growth and AI bets keep investors watching"
         },
         {
-            "time": "11:27",
+            "time": "15:01",
             "tag": "MERCADO",
-            "text": "Roth Capital Initiates SailPoint at Buy"
+            "text": "IBM Rallies 8% While Oracle, Cisco, HPE Drift: Is the Laggard Finally Bouncing?"
         },
         {
-            "time": "11:25",
-            "tag": "MERCADO",
-            "text": "Rigetti Computing signs letter of intent for $100m CHIPS Act funding"
+            "time": "14:59",
+            "tag": "AI",
+            "text": "Vectra AI Named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Network Detection and Response"
         }
     ]
 }
