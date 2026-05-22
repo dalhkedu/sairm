@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-22 09:32 UTC",
+        "last_updated": "2026-05-22 12:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 219.51,
-            "change": "+1.67%"
+            "change": "+0.02%"
         },
         {
             "symbol": "AMD",
             "price": 449.59,
-            "change": "-2.54%"
+            "change": "-3.01%"
         },
         {
             "symbol": "MSFT",
             "price": 419.09,
-            "change": "-0.52%"
+            "change": "+1.88%"
         },
         {
             "symbol": "CEG",
             "price": 285.83,
-            "change": "-1.07%"
+            "change": "+1.44%"
         },
         {
             "symbol": "VST",
             "price": 149.08,
-            "change": "+2.69%"
+            "change": "+0.31%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.48,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
+            0.46,
+            0.47,
+            0.47,
+            0.47,
+            0.46,
+            0.46,
+            0.47,
+            0.48,
             0.49,
             0.49,
-            0.5,
-            0.5
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            23.9,
+            23.12,
+            23.25,
+            23.1,
+            23.48,
+            23.89,
+            23.95,
+            23.91,
             24.25,
-            24.06,
-            24.14,
-            24.52,
-            24.76,
-            24.44,
-            24.05,
-            24.08,
-            24.37,
-            24.28,
-            24.76
+            24.55,
+            24.33,
+            24.46,
+            24.61
         ],
         "hsd_history_software": [
-            9.85,
-            9.94,
-            10.03,
-            10.14,
-            10.11,
-            10.08,
-            10.07,
-            10.2,
             10.33,
-            10.21,
-            10.05,
-            10.16
+            10.25,
+            10.38,
+            10.29,
+            10.37,
+            10.37,
+            10.47,
+            10.29,
+            10.34,
+            10.14,
+            10.01,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:03",
+            "time": "11:34",
             "tag": "MERCADO",
-            "text": "Apple Inc. $AAPL is OLD National Bancorp IN's 5th Largest Position"
+            "text": "Wealth Science Advisors LLC Invests $3 Million in Apple Inc. $AAPL"
         },
         {
-            "time": "08:57",
-            "tag": "MERCADO",
-            "text": "Johnson & Johnson backs NJ startup hub to drive new healthcare tech"
-        },
-        {
-            "time": "08:54",
+            "time": "11:22",
             "tag": "AI",
-            "text": "How syringe-maker BD is using AI to stay sharp"
+            "text": "Kawasaki teams up with Nvidia, Microsoft, and others to develop physical AI"
         },
         {
-            "time": "08:44",
+            "time": "11:19",
             "tag": "MERCADO",
-            "text": "Diamond Hill Capital Management Inc. Acquires 45,511 Shares of VeriSign, Inc. $VRSN"
+            "text": "53,295 Shares in Verizon Communications Inc. $VZ Acquired by Keudell Morrison Wealth Management"
         },
         {
-            "time": "08:38",
+            "time": "11:19",
             "tag": "MERCADO",
-            "text": "Global Retirement Partners LLC Increases Stock Position in Salesforce Inc. $CRM"
+            "text": "Pzena Investment Management LLC Has $107.56 Million Position in Cisco Systems, Inc. $CSCO"
+        },
+        {
+            "time": "11:14",
+            "tag": "MERCADO",
+            "text": "Trimble Inc. stock (US8962391058): focus shifts to transportation spin-off and Q1 earnings"
         }
     ]
 }
