@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-22 15:49 UTC",
+        "last_updated": "2026-05-22 17:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 216.98,
-            "change": "-2.09%"
+            "price": 215.86,
+            "change": "-1.31%"
         },
         {
             "symbol": "AMD",
-            "price": 468.6,
-            "change": "+2.44%"
+            "price": 472.5,
+            "change": "+0.06%"
         },
         {
             "symbol": "MSFT",
-            "price": 418.98,
-            "change": "+1.14%"
+            "price": 418.21,
+            "change": "+0.17%"
         },
         {
             "symbol": "CEG",
-            "price": 295.5,
-            "change": "-0.21%"
+            "price": 294.49,
+            "change": "-2.44%"
         },
         {
             "symbol": "VST",
-            "price": 156.48,
-            "change": "+3.06%"
+            "price": 157.1,
+            "change": "+0.86%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.4,
+        "cer_current": 0.6,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
             0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
             0.51,
             0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            23.22,
-            23.17,
-            23.47,
-            23.89,
-            23.66,
-            23.85,
-            24.09,
-            24.56,
-            24.72,
-            25.09,
-            24.89,
-            24.72
+            24.29,
+            24.39,
+            24.73,
+            24.53,
+            24.69,
+            25.03,
+            25.46,
+            25.71,
+            25.25,
+            25.32,
+            25.39,
+            25.24
         ],
         "hsd_history_software": [
-            10.24,
-            10.1,
-            10.09,
-            9.98,
-            10.17,
-            10.26,
-            10.32,
-            10.13,
-            10.22,
-            10.14,
+            9.54,
+            9.73,
+            9.77,
+            9.88,
+            10.01,
+            9.92,
+            10.12,
+            10.15,
             10.08,
-            10.04
+            10.28,
+            10.13,
+            10.17
         ],
         "rci_data": [
             85.0,
-            21.697999999999997
+            21.586000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:59",
-            "tag": "MERCADO",
-            "text": "Amkor buys another 67 acres in Peoria"
-        },
-        {
-            "time": "14:35",
-            "tag": "MERCADO",
-            "text": "Cadence Design Systems stock hits all-time high of 376.5 USD"
-        },
-        {
-            "time": "14:30",
-            "tag": "MERCADO",
-            "text": "The Zacks Analyst Blog Highlights Applied Materials, Shell and KLA"
-        },
-        {
-            "time": "14:30",
+            "time": "17:10",
             "tag": "RESULTADOS",
-            "text": "KEYS Q2 Earnings Beat on Communications, Industrial Segment Growth"
+            "text": "Youdao, Inc. (NYSE:DAO) Q1 2026 Earnings Call Transcript"
         },
         {
-            "time": "14:29",
+            "time": "17:06",
             "tag": "MERCADO",
-            "text": "Generac stock rallies after buy upgrade tied to hyperscaler momentum"
+            "text": "Agilent Unveils the 9500 ICP-MS: Redefining Trace Element Analysis"
+        },
+        {
+            "time": "16:54",
+            "tag": "MERCADO",
+            "text": "Uber evaluating takeover of Delivery Hero - Bloomberg (UBER:NYSE)"
+        },
+        {
+            "time": "16:29",
+            "tag": "MERCADO",
+            "text": "Cadence Design Systems (NASDAQ:CDNS) Sets New 52-Week High - Should You Buy?"
+        },
+        {
+            "time": "16:15",
+            "tag": "MERCADO",
+            "text": "KLA Corp Stock (KLAC) Moved Up by 3.14% on May 22: Facts Behind the Movement"
         }
     ]
 }
