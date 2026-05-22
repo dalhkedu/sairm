@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-22 21:14 UTC",
+        "last_updated": "2026-05-22 23:03 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 215.33,
-            "change": "+2.48%"
+            "change": "-1.01%"
         },
         {
             "symbol": "AMD",
-            "price": NaN,
-            "change": "-3.35%"
+            "price": 467.51,
+            "change": "-2.55%"
         },
         {
             "symbol": "MSFT",
             "price": 418.57,
-            "change": "+0.16%"
+            "change": "-1.63%"
         },
         {
             "symbol": "CEG",
             "price": 294.07,
-            "change": "-0.09%"
+            "change": "+2.75%"
         },
         {
             "symbol": "VST",
             "price": 156.27,
-            "change": "-0.83%"
+            "change": "-2.11%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.41,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.46,
-            0.45,
-            0.45,
-            0.46,
-            0.46,
-            0.47,
-            0.48,
-            0.48,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
             0.49,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            26.0,
-            26.28,
-            26.16,
-            26.19,
-            26.1,
-            25.87,
-            25.77,
-            25.41,
-            25.54,
-            25.05,
-            24.71,
-            24.6
+            24.93,
+            24.67,
+            24.91,
+            24.93,
+            25.09,
+            24.74,
+            25.01,
+            24.62,
+            24.15,
+            24.44,
+            24.84,
+            25.02
         ],
         "hsd_history_software": [
-            9.64,
-            9.54,
-            9.58,
-            9.64,
-            9.67,
+            9.81,
+            9.63,
+            9.78,
+            9.97,
+            9.85,
+            9.66,
+            9.68,
             9.73,
-            9.64,
-            9.72,
+            9.76,
             9.84,
-            9.91,
-            10.07,
-            9.9
+            9.99,
+            10.19
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:30",
+            "time": "21:42",
             "tag": "MERCADO",
-            "text": "NXP Semiconductors N.V. stock underperforms Friday when compared to competitors despite daily gains"
+            "text": "PAR Technology Corp stock (US6988841036): insider selling, volatile share price and what investors should know now"
         },
         {
-            "time": "20:17",
+            "time": "21:36",
             "tag": "MERCADO",
-            "text": "Verizon named a leader in Gartner\u00ae Magic Quadrant\u2122 IoT report, marking third recognition after Private Network, Global WAN reports"
+            "text": "Affiliate reports multiple stock sales (SMCI) in Form 144 filing"
         },
         {
-            "time": "20:15",
+            "time": "21:35",
             "tag": "MERCADO",
-            "text": "NetApp Inc Stock (NTAP) Closed Up by 12.42% on May 22: Drivers Behind the Movement"
+            "text": "Director Pardun receives 1,963 RSUs at MaxLinear (MXL)"
         },
         {
-            "time": "20:14",
+            "time": "21:35",
             "tag": "MERCADO",
-            "text": "HP Inc Stock (HPQ) Closed Up by 15.18% on May 22: A Full Analysis"
+            "text": "MaxLinear (MXL) director Greg Dougherty receives 1,963 restricted stock units"
         },
         {
-            "time": "20:14",
+            "time": "21:32",
             "tag": "MERCADO",
-            "text": "Fortinet Insider Sold Shares Worth $18,749,948, According to a Recent SEC Filing"
+            "text": "[144] Palo Alto Networks Inc SEC Filing"
         }
     ]
 }
