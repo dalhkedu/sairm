@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-21 22:21 UTC",
+        "last_updated": "2026-05-22 00:05 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 219.51,
-            "change": "+2.73%"
+            "change": "-1.74%"
         },
         {
             "symbol": "AMD",
             "price": 449.59,
-            "change": "+0.16%"
+            "change": "-0.76%"
         },
         {
             "symbol": "MSFT",
             "price": 419.09,
-            "change": "+2.07%"
+            "change": "+2.24%"
         },
         {
             "symbol": "CEG",
             "price": 285.83,
-            "change": "-0.59%"
+            "change": "+1.76%"
         },
         {
             "symbol": "VST",
             "price": 149.08,
-            "change": "+1.59%"
+            "change": "-1.55%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.46,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
             0.51,
             0.51,
+            0.52,
+            0.52,
             0.51,
+            0.52,
+            0.52,
             0.51,
             0.5,
+            0.51,
             0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            26.65,
-            26.31,
-            25.99,
-            25.72,
+            24.71,
+            24.5,
+            24.76,
+            25.2,
+            25.41,
+            25.35,
+            25.5,
+            25.77,
+            25.67,
+            25.32,
             25.45,
-            25.13,
-            24.85,
-            24.78,
-            25.04,
-            25.38,
-            25.26,
-            25.4
+            25.36
         ],
         "hsd_history_software": [
-            10.43,
-            10.43,
-            10.34,
-            10.51,
-            10.41,
-            10.36,
-            10.23,
-            10.12,
-            10.01,
-            10.02,
+            9.9,
+            9.87,
             10.03,
-            9.84
+            10.2,
+            10.04,
+            10.23,
+            10.11,
+            10.25,
+            10.2,
+            10.11,
+            10.15,
+            10.0
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:40",
+            "time": "23:40",
             "tag": "MERCADO",
-            "text": "MarketAxess Holdings Inc stock hits 52-week low at $137.03 By Investing.com"
+            "text": "How Investors May Respond To Symbotic (SYM) Expanding AWG Deal And New High-Density Automation Milestone"
         },
         {
-            "time": "20:23",
+            "time": "23:39",
             "tag": "MERCADO",
-            "text": "American Tower Corporation Declares Quarterly Distribution"
+            "text": "RMSGW SEC Filings - Real Messenger Corp 10-K, 10-Q, 8-K Forms"
         },
         {
-            "time": "20:22",
+            "time": "22:59",
             "tag": "MERCADO",
-            "text": "Take-Two Stock Rallies After Q4 Beats Estimates: Details"
+            "text": "Revvity stock (US76155R1086): diagnostics specialist in focus after latest earnings and life-science"
         },
         {
-            "time": "20:22",
+            "time": "22:45",
             "tag": "MERCADO",
-            "text": "IQVIA Holdings Inc stock (US46266C1053): data-driven healthcare group in focus after latest earnings"
+            "text": "Roth Capital Initiates SailPoint at Buy"
         },
         {
-            "time": "20:12",
-            "tag": "MERCADO",
-            "text": "Shawn Canter resigns as KULR Technology Group CFO, separation effective May 22, 2026"
+            "time": "22:41",
+            "tag": "AI",
+            "text": "Alphabet Class C stock (US02079K1079): AI investments and ad trends in focus after latest earnings"
         }
     ]
 }
