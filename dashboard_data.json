@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-23 13:42 UTC",
+        "last_updated": "2026-05-23 15:03 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 215.33,
-            "change": "-1.0%"
+            "change": "+1.67%"
         },
         {
             "symbol": "AMD",
             "price": 467.51,
-            "change": "+2.69%"
+            "change": "-1.52%"
         },
         {
             "symbol": "MSFT",
             "price": 418.57,
-            "change": "-0.06%"
+            "change": "+3.36%"
         },
         {
             "symbol": "CEG",
             "price": 294.07,
-            "change": "+0.93%"
+            "change": "-3.26%"
         },
         {
             "symbol": "VST",
             "price": 156.27,
-            "change": "-2.55%"
+            "change": "-0.46%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.53,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.52,
-            0.52,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
             0.51,
             0.51,
             0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.94,
-            25.78,
-            25.4,
-            25.35,
-            24.92,
-            24.73,
-            24.7,
-            24.7,
-            24.83,
-            25.03,
-            25.29,
-            25.35
+            26.85,
+            26.97,
+            27.44,
+            27.15,
+            26.66,
+            26.63,
+            26.39,
+            26.26,
+            25.97,
+            25.62,
+            25.59,
+            25.27
         ],
         "hsd_history_software": [
-            10.19,
+            10.28,
+            10.26,
+            10.46,
+            10.31,
+            10.15,
+            10.09,
             10.05,
-            10.1,
-            10.06,
-            10.01,
-            9.99,
-            10.14,
-            10.06,
-            10.22,
-            10.33,
-            10.24,
-            10.15
+            9.89,
+            9.94,
+            10.12,
+            10.05,
+            10.12
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "14:06",
+            "tag": "MERCADO",
+            "text": "Analog Devices (ADI) Reports Record Revenue and Strong Q3 Guidan"
+        },
+        {
+            "time": "13:38",
+            "tag": "MERCADO",
+            "text": "AT&T Inc. (T) Announces Launch of eSim for International Travelers"
+        },
+        {
+            "time": "13:23",
+            "tag": "MERCADO",
+            "text": "Apple Is Priced Like Everything Has To Go Right: It Just Might (NASDAQ:AAPL)"
+        },
+        {
             "time": "13:06",
             "tag": "MERCADO",
             "text": "Intel recent market rise may not lead to job rebound"
@@ -134,21 +149,6 @@
             "time": "12:29",
             "tag": "MERCADO",
             "text": "Silicon Labs Chip-Based Wi-SUN Modules Surpass 500,000 Shipments in India"
-        },
-        {
-            "time": "12:21",
-            "tag": "MERCADO",
-            "text": "Is Lam Research Corporation (LRCX) One of the Best Oversold Growth Stocks to Invest in Now?"
-        },
-        {
-            "time": "12:03",
-            "tag": "MERCADO",
-            "text": "RTX (RTX) Demonstrates Self-Healing Combat Communications System PACE4ACE"
-        },
-        {
-            "time": "11:57",
-            "tag": "MERCADO",
-            "text": "Is Netflix, Inc. (NFLX) One of the Best Communication Stocks to Invest In?"
         }
     ]
 }
