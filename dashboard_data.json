@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-23 17:02 UTC",
+        "last_updated": "2026-05-23 19:15 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 215.33,
-            "change": "+1.16%"
+            "change": "+0.22%"
         },
         {
             "symbol": "AMD",
             "price": 467.51,
-            "change": "-2.88%"
+            "change": "+0.36%"
         },
         {
             "symbol": "MSFT",
             "price": 418.57,
-            "change": "+1.68%"
+            "change": "-0.25%"
         },
         {
             "symbol": "CEG",
             "price": 294.07,
-            "change": "+0.13%"
+            "change": "+2.46%"
         },
         {
             "symbol": "VST",
             "price": 156.27,
-            "change": "+0.32%"
+            "change": "-1.31%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.59,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
+            0.52,
+            0.53,
+            0.52,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
             0.52,
             0.51,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
             0.51,
-            0.51,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            25.39,
-            25.39,
-            25.27,
-            25.56,
-            25.07,
-            24.58,
+            25.12,
+            24.84,
+            24.41,
+            24.4,
+            24.15,
+            24.5,
             24.18,
-            24.23,
-            24.26,
-            24.22,
-            24.34,
-            24.76
+            24.41,
+            24.76,
+            24.81,
+            25.3,
+            25.31
         ],
         "hsd_history_software": [
-            10.18,
-            10.25,
-            10.06,
-            10.22,
-            10.31,
-            10.21,
-            10.09,
-            10.24,
-            10.2,
+            10.35,
+            10.19,
+            10.38,
+            10.32,
+            10.12,
+            10.07,
             10.01,
-            10.09,
-            10.14
+            10.02,
+            9.83,
+            9.79,
+            9.78,
+            9.81
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:08",
+            "time": "17:41",
             "tag": "MERCADO",
-            "text": "Jim Cramer on Equinix: \u201cIt\u2019s a Great Way to Play the Data Center\u201d"
+            "text": "Tesla recalls more than 14,000 Model Y vehicles over label issue"
         },
         {
-            "time": "15:07",
+            "time": "17:20",
             "tag": "MERCADO",
-            "text": "Jim Cramer on Astera Labs: \u201cI Say You Hold On\u201d"
+            "text": "My Top 3 Recession-Proof Utilities Stocks for May 2026"
         },
         {
-            "time": "15:06",
+            "time": "16:43",
+            "tag": "MERCADO",
+            "text": "Delivery Hero confirms proposed bid from Uber (UBER:NYSE)"
+        },
+        {
+            "time": "16:39",
             "tag": "AI",
-            "text": "AI-Driven NDR | Gartner\u00ae Visionary | LinkShadow"
+            "text": "Can Bit Digital\u2019s (BTBT) New IR Strategy Clarify Its Shift Toward Ethereum And AI Infrastructure?"
         },
         {
-            "time": "14:54",
+            "time": "16:20",
             "tag": "MERCADO",
-            "text": "Apple Inc. (AAPL)\u2019s Durable Growth Narrative Keeps Getting Stronger"
-        },
-        {
-            "time": "14:37",
-            "tag": "MERCADO",
-            "text": "Morgan Stanley makes bold Lam Research stock call"
+            "text": "T-Mobile is giving away the Apple iPhone 17 for free \u2014 how to claim this offer"
         }
     ]
 }
