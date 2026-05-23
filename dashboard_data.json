@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-23 06:35 UTC",
+        "last_updated": "2026-05-23 09:03 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 215.33,
-            "change": "-1.92%"
+            "change": "-1.04%"
         },
         {
             "symbol": "AMD",
             "price": 467.51,
-            "change": "-2.22%"
+            "change": "+2.64%"
         },
         {
             "symbol": "MSFT",
             "price": 418.57,
-            "change": "-0.51%"
+            "change": "+0.37%"
         },
         {
             "symbol": "CEG",
             "price": 294.07,
-            "change": "-3.46%"
+            "change": "+2.12%"
         },
         {
             "symbol": "VST",
             "price": 156.27,
-            "change": "-1.83%"
+            "change": "+0.62%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.42,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
-            0.5,
+            0.49,
             0.49,
             0.5,
             0.49,
-            0.5,
-            0.5,
             0.49,
             0.48,
+            0.48,
             0.49,
+            0.49,
+            0.5,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            26.58,
-            26.93,
-            27.25,
-            26.71,
+            26.04,
+            26.5,
+            26.36,
+            26.41,
+            26.14,
+            26.12,
+            26.59,
+            27.01,
             26.56,
-            26.29,
-            26.08,
-            25.73,
-            25.53,
-            25.7,
-            25.53,
-            25.36
+            26.25,
+            25.79,
+            25.43
         ],
         "hsd_history_software": [
-            9.8,
-            9.96,
-            10.11,
-            10.04,
-            10.01,
-            10.21,
-            10.02,
-            10.08,
             10.16,
-            10.03,
-            10.08,
-            10.14
+            10.28,
+            10.11,
+            10.3,
+            10.33,
+            10.2,
+            10.11,
+            10.24,
+            10.34,
+            10.46,
+            10.39,
+            10.19
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:31",
+            "time": "08:33",
             "tag": "MERCADO",
-            "text": "Google Appeals Landmark Monopoly Ruling That Targets Apple Default Deals"
+            "text": "Cumberland Partners Ltd Purchases 120,269 Shares of Netflix, Inc. $NFLX"
         },
         {
-            "time": "05:08",
+            "time": "08:33",
             "tag": "MERCADO",
-            "text": "Analysts Offer Insights on Technology Companies: Workday (WDAY) and Tenable Holdings (TENB)"
+            "text": "Bristol Gate Capital Partners Inc. Sells 2,403 Shares of MSCI Inc $MSCI"
         },
         {
-            "time": "04:39",
+            "time": "08:31",
             "tag": "MERCADO",
-            "text": "Bentley Systems declares $0.07 Q2 dividend By Investing.com"
+            "text": "Evoke Wealth LLC Boosts Stock Holdings in Qualcomm Incorporated $QCOM"
         },
         {
-            "time": "04:39",
+            "time": "08:31",
             "tag": "MERCADO",
-            "text": "Gitlab (GTLB) Gets a Hold from TD Cowen"
+            "text": "Cumberland Partners Ltd Lowers Stock Holdings in Cisco Systems, Inc. $CSCO"
         },
         {
-            "time": "04:09",
+            "time": "08:31",
             "tag": "MERCADO",
-            "text": "The market is buzzing with gapping stocks on Tuesday. Let's uncover which stocks are experiencing notable gaps during today's session."
+            "text": "Cumberland Partners Ltd Makes New $4.74 Million Investment in AMETEK, Inc. $AME"
         }
     ]
 }
