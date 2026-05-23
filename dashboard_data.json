@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-23 09:03 UTC",
+        "last_updated": "2026-05-23 11:15 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 215.33,
-            "change": "-1.04%"
+            "change": "-1.68%"
         },
         {
             "symbol": "AMD",
             "price": 467.51,
-            "change": "+2.64%"
+            "change": "+0.4%"
         },
         {
             "symbol": "MSFT",
             "price": 418.57,
-            "change": "+0.37%"
+            "change": "+3.08%"
         },
         {
             "symbol": "CEG",
             "price": 294.07,
-            "change": "+2.12%"
+            "change": "+1.43%"
         },
         {
             "symbol": "VST",
             "price": 156.27,
-            "change": "+0.62%"
+            "change": "-0.3%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.44,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
+            0.48,
+            0.47,
+            0.47,
+            0.47,
             0.48,
             0.48,
             0.49,
             0.49,
             0.5,
             0.5,
-            0.5
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.04,
-            26.5,
-            26.36,
-            26.41,
-            26.14,
-            26.12,
-            26.59,
-            27.01,
-            26.56,
-            26.25,
-            25.79,
-            25.43
+            25.58,
+            25.36,
+            25.56,
+            25.32,
+            25.82,
+            25.6,
+            25.41,
+            25.78,
+            25.39,
+            24.92,
+            24.66,
+            24.59
         ],
         "hsd_history_software": [
-            10.16,
-            10.28,
-            10.11,
-            10.3,
-            10.33,
-            10.2,
-            10.11,
-            10.24,
-            10.34,
-            10.46,
-            10.39,
-            10.19
+            9.82,
+            9.99,
+            9.88,
+            10.02,
+            10.07,
+            10.22,
+            10.13,
+            9.96,
+            9.96,
+            9.99,
+            9.97,
+            10.02
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:33",
+            "time": "10:36",
             "tag": "MERCADO",
-            "text": "Cumberland Partners Ltd Purchases 120,269 Shares of Netflix, Inc. $NFLX"
+            "text": "RD Lewis Holdings Inc. Acquires 23,882 Shares of Netflix, Inc. $NFLX"
         },
         {
-            "time": "08:33",
+            "time": "10:35",
             "tag": "MERCADO",
-            "text": "Bristol Gate Capital Partners Inc. Sells 2,403 Shares of MSCI Inc $MSCI"
+            "text": "Karras Company Inc. Makes New $912,000 Investment in Equinix, Inc. $EQIX"
         },
         {
-            "time": "08:31",
+            "time": "10:35",
             "tag": "MERCADO",
-            "text": "Evoke Wealth LLC Boosts Stock Holdings in Qualcomm Incorporated $QCOM"
+            "text": "Platt Wealth Management LLC Acquires Shares of 2,835 Qualcomm Incorporated $QCOM"
         },
         {
-            "time": "08:31",
+            "time": "10:35",
             "tag": "MERCADO",
-            "text": "Cumberland Partners Ltd Lowers Stock Holdings in Cisco Systems, Inc. $CSCO"
+            "text": "11,313 Shares in Cisco Systems, Inc. $CSCO Bought by Karras Company Inc."
         },
         {
-            "time": "08:31",
+            "time": "10:35",
             "tag": "MERCADO",
-            "text": "Cumberland Partners Ltd Makes New $4.74 Million Investment in AMETEK, Inc. $AME"
+            "text": "Karras Company Inc. Invests $1.92 Million in Salesforce Inc. $CRM"
         }
     ]
 }
