@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-23 15:03 UTC",
+        "last_updated": "2026-05-23 17:02 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 215.33,
-            "change": "+1.67%"
+            "change": "+1.16%"
         },
         {
             "symbol": "AMD",
             "price": 467.51,
-            "change": "-1.52%"
+            "change": "-2.88%"
         },
         {
             "symbol": "MSFT",
             "price": 418.57,
-            "change": "+3.36%"
+            "change": "+1.68%"
         },
         {
             "symbol": "CEG",
             "price": 294.07,
-            "change": "-3.26%"
+            "change": "+0.13%"
         },
         {
             "symbol": "VST",
             "price": 156.27,
-            "change": "-0.46%"
+            "change": "+0.32%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
+        "cer_current": 0.52,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
             0.5,
             0.5,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
             0.5,
             0.51,
             0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            26.85,
-            26.97,
-            27.44,
-            27.15,
-            26.66,
-            26.63,
-            26.39,
-            26.26,
-            25.97,
-            25.62,
-            25.59,
-            25.27
+            25.39,
+            25.39,
+            25.27,
+            25.56,
+            25.07,
+            24.58,
+            24.18,
+            24.23,
+            24.26,
+            24.22,
+            24.34,
+            24.76
         ],
         "hsd_history_software": [
-            10.28,
-            10.26,
-            10.46,
+            10.18,
+            10.25,
+            10.06,
+            10.22,
             10.31,
-            10.15,
+            10.21,
             10.09,
-            10.05,
-            9.89,
-            9.94,
-            10.12,
-            10.05,
-            10.12
+            10.24,
+            10.2,
+            10.01,
+            10.09,
+            10.14
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:06",
+            "time": "15:08",
             "tag": "MERCADO",
-            "text": "Analog Devices (ADI) Reports Record Revenue and Strong Q3 Guidan"
+            "text": "Jim Cramer on Equinix: \u201cIt\u2019s a Great Way to Play the Data Center\u201d"
         },
         {
-            "time": "13:38",
+            "time": "15:07",
             "tag": "MERCADO",
-            "text": "AT&T Inc. (T) Announces Launch of eSim for International Travelers"
+            "text": "Jim Cramer on Astera Labs: \u201cI Say You Hold On\u201d"
         },
         {
-            "time": "13:23",
-            "tag": "MERCADO",
-            "text": "Apple Is Priced Like Everything Has To Go Right: It Just Might (NASDAQ:AAPL)"
+            "time": "15:06",
+            "tag": "AI",
+            "text": "AI-Driven NDR | Gartner\u00ae Visionary | LinkShadow"
         },
         {
-            "time": "13:06",
+            "time": "14:54",
             "tag": "MERCADO",
-            "text": "Intel recent market rise may not lead to job rebound"
+            "text": "Apple Inc. (AAPL)\u2019s Durable Growth Narrative Keeps Getting Stronger"
         },
         {
-            "time": "12:29",
+            "time": "14:37",
             "tag": "MERCADO",
-            "text": "Silicon Labs Chip-Based Wi-SUN Modules Surpass 500,000 Shipments in India"
+            "text": "Morgan Stanley makes bold Lam Research stock call"
         }
     ]
 }
