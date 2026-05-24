@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-24 09:57 UTC",
+        "last_updated": "2026-05-24 11:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 215.33,
-            "change": "-2.31%"
+            "change": "-2.4%"
         },
         {
             "symbol": "AMD",
-            "price": 467.51,
-            "change": "+1.35%"
+            "price": NaN,
+            "change": "+0.15%"
         },
         {
             "symbol": "MSFT",
             "price": 418.57,
-            "change": "+0.69%"
+            "change": "-1.42%"
         },
         {
             "symbol": "CEG",
             "price": 294.07,
-            "change": "+0.12%"
+            "change": "-3.12%"
         },
         {
             "symbol": "VST",
             "price": 156.27,
-            "change": "+0.72%"
+            "change": "-1.02%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.55,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.49,
             0.49,
             0.5,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.5,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            25.23,
-            25.37,
-            25.13,
-            25.57,
-            25.87,
-            25.4,
-            25.58,
+            24.5,
+            24.99,
+            24.95,
+            24.52,
+            24.13,
+            24.26,
+            24.68,
             25.14,
-            25.55,
-            25.42,
-            25.39,
-            24.95
+            25.01,
+            24.89,
+            24.51,
+            24.56
         ],
         "hsd_history_software": [
-            10.18,
-            10.1,
-            9.95,
-            9.98,
-            10.18,
-            10.03,
+            10.32,
+            10.26,
             10.21,
             10.04,
+            10.01,
+            9.91,
+            9.83,
             9.97,
-            10.07,
-            10.11,
-            9.97
+            10.03,
+            10.14,
+            9.96,
+            10.06
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:05",
+            "time": "10:35",
             "tag": "MERCADO",
-            "text": "Resona Asset Management Co. Ltd. Sells 45,243 Shares of Akamai Technologies, Inc. $AKAM"
+            "text": "North Star Asset Management Inc. Has $8.06 Million Stake in Akamai Technologies, Inc. $AKAM"
         },
         {
-            "time": "09:05",
+            "time": "10:33",
             "tag": "MERCADO",
-            "text": "HP Inc. $HPQ Shares Sold by Handelsbanken Fonder AB"
+            "text": "North Star Asset Management Inc. Acquires 10,830 Shares of Salesforce Inc. $CRM"
         },
         {
-            "time": "08:51",
+            "time": "10:22",
             "tag": "MERCADO",
-            "text": "Generali Investments Management Co LLC Sells 19,336 Shares of Apple Inc. $AAPL"
+            "text": "Smead Capital Management Inc. Sells 140,849 Shares of eBay Inc. $EBAY"
         },
         {
-            "time": "08:51",
+            "time": "10:21",
             "tag": "MERCADO",
-            "text": "Obermeyer Wealth Partners Lowers Stock Holdings in Apple Inc. $AAPL"
+            "text": "OLD Republic International Corp Decreases Stake in Cisco Systems, Inc. $CSCO"
         },
         {
-            "time": "08:49",
+            "time": "10:20",
             "tag": "MERCADO",
-            "text": "ProVise Management Group LLC Sells 2,210 Shares of Apple Inc. $AAPL"
+            "text": "Prospera Financial Services Inc Buys 11,159 Shares of Oracle Corporation $ORCL"
         }
     ]
 }
