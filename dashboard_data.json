@@ -1,47 +1,47 @@
 {
     "metadata": {
-        "last_updated": "2026-05-24 07:24 UTC",
+        "last_updated": "2026-05-24 09:57 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 215.33,
-            "change": "+0.74%"
+            "change": "-2.31%"
         },
         {
             "symbol": "AMD",
             "price": 467.51,
-            "change": "-0.21%"
+            "change": "+1.35%"
         },
         {
             "symbol": "MSFT",
             "price": 418.57,
-            "change": "-3.03%"
+            "change": "+0.69%"
         },
         {
             "symbol": "CEG",
             "price": 294.07,
-            "change": "-1.78%"
+            "change": "+0.12%"
         },
         {
             "symbol": "VST",
             "price": 156.27,
-            "change": "-2.25%"
+            "change": "+0.72%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.56,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.51,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.51,
-            0.51,
+            0.5,
             0.51,
             0.51,
             0.51,
@@ -50,32 +50,32 @@
             0.5
         ],
         "hsd_history_hardware": [
-            24.94,
-            25.11,
-            25.18,
-            25.56,
-            25.18,
-            25.25,
-            25.48,
-            25.52,
-            25.24,
-            25.51,
-            25.82,
-            25.35
+            25.23,
+            25.37,
+            25.13,
+            25.57,
+            25.87,
+            25.4,
+            25.58,
+            25.14,
+            25.55,
+            25.42,
+            25.39,
+            24.95
         ],
         "hsd_history_software": [
-            10.38,
-            10.35,
-            10.23,
-            10.15,
-            10.12,
-            10.12,
-            10.13,
-            9.99,
-            9.86,
+            10.18,
+            10.1,
             9.95,
-            9.93,
-            9.82
+            9.98,
+            10.18,
+            10.03,
+            10.21,
+            10.04,
+            9.97,
+            10.07,
+            10.11,
+            9.97
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:35",
+            "time": "09:05",
             "tag": "MERCADO",
-            "text": "Is NetApp\u2019s (NTAP) OpenShift Data Push Quietly Redefining Its Hybrid Cloud Investment Story?"
+            "text": "Resona Asset Management Co. Ltd. Sells 45,243 Shares of Akamai Technologies, Inc. $AKAM"
         },
         {
-            "time": "05:31",
+            "time": "09:05",
             "tag": "MERCADO",
-            "text": "Paycom: Making Use Of The Low Valuation (NYSE:PAYC)"
+            "text": "HP Inc. $HPQ Shares Sold by Handelsbanken Fonder AB"
         },
         {
-            "time": "05:15",
+            "time": "08:51",
             "tag": "MERCADO",
-            "text": "Fortinet and Palo Alto Networks Revenue Growth"
+            "text": "Generali Investments Management Co LLC Sells 19,336 Shares of Apple Inc. $AAPL"
         },
         {
-            "time": "05:06",
+            "time": "08:51",
             "tag": "MERCADO",
-            "text": "Analog Devices (NASDAQ:ADI) Upgraded to \"Buy\" at Wall Street Zen"
+            "text": "Obermeyer Wealth Partners Lowers Stock Holdings in Apple Inc. $AAPL"
         },
         {
-            "time": "04:40",
+            "time": "08:49",
             "tag": "MERCADO",
-            "text": "YieldMax Target 12 Big 50 Option Income ETF"
+            "text": "ProVise Management Group LLC Sells 2,210 Shares of Apple Inc. $AAPL"
         }
     ]
 }
