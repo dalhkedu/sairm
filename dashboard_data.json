@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-24 19:21 UTC",
+        "last_updated": "2026-05-24 20:59 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 215.33,
-            "change": "+1.2%"
+            "change": "-1.38%"
         },
         {
             "symbol": "AMD",
             "price": 467.51,
-            "change": "-1.95%"
+            "change": "-2.46%"
         },
         {
             "symbol": "MSFT",
             "price": 418.57,
-            "change": "-2.15%"
+            "change": "+1.22%"
         },
         {
             "symbol": "CEG",
             "price": 294.07,
-            "change": "-3.03%"
+            "change": "-1.52%"
         },
         {
             "symbol": "VST",
             "price": 156.27,
-            "change": "-1.11%"
+            "change": "+2.95%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.63,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.48,
-            0.47,
-            0.48,
-            0.49,
             0.5,
+            0.5,
+            0.51,
+            0.52,
+            0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.49,
+            0.48,
             0.49
         ],
         "hsd_history_hardware": [
-            25.07,
-            24.95,
-            24.5,
-            24.71,
-            24.84,
-            25.15,
-            24.82,
-            24.38,
-            24.77,
-            25.12,
-            24.67,
-            24.62
+            23.89,
+            23.92,
+            24.15,
+            23.98,
+            24.14,
+            23.81,
+            24.06,
+            24.23,
+            24.55,
+            24.58,
+            24.64,
+            24.87
         ],
         "hsd_history_software": [
-            10.21,
-            10.01,
-            9.84,
-            9.79,
-            9.75,
-            9.77,
-            9.95,
-            10.13,
+            9.58,
+            9.52,
+            9.58,
+            9.57,
+            9.71,
+            9.8,
+            9.98,
+            9.89,
+            9.99,
+            9.98,
             10.06,
-            10.14,
-            9.96,
-            9.82
+            10.11
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "19:38",
+            "tag": "AI",
+            "text": "F5 Inc. stock (US3156161024): New earnings, product and AI security catalysts"
+        },
+        {
+            "time": "19:36",
+            "tag": "MERCADO",
+            "text": "T-Mobile reps and customers are upset over the latest change made by the company"
+        },
+        {
+            "time": "19:22",
+            "tag": "MERCADO",
+            "text": "Digital Realty data centers: backbone of cloud in the US"
+        },
+        {
+            "time": "18:24",
+            "tag": "MERCADO",
+            "text": "Seagate CEO\u2019s Factory Comment Spooked Investors. Here\u2019s Where the Stock Could Go"
+        },
+        {
             "time": "18:06",
             "tag": "MERCADO",
             "text": "Salesforce Inc. (NYSE: CRM) Stock Price Gains 2.2% as Agentforce Momentum Builds"
-        },
-        {
-            "time": "17:57",
-            "tag": "MERCADO",
-            "text": "Oracle Corporation (NYSE: ORCL) Approaches $300 as Cloud Infrastructure Demand Outpaces Enterprise Software Peers"
-        },
-        {
-            "time": "17:37",
-            "tag": "MERCADO",
-            "text": "Duke Energy (DUK) Price Target Lowered by $5"
-        },
-        {
-            "time": "17:28",
-            "tag": "MERCADO",
-            "text": "Analyst Upgrades Automatic Data Processing (ADP) to \u2018Equal Weight\u2019, Assigns $214 Price Target"
-        },
-        {
-            "time": "17:28",
-            "tag": "MERCADO",
-            "text": "Analyst Upgrades Automatic Data Processing (ADP) to \u2018Equal Weight\u2019, Assigns $214 Price Target"
         }
     ]
 }
