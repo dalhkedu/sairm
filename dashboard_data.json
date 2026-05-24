@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-24 17:05 UTC",
+        "last_updated": "2026-05-24 19:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 215.33,
-            "change": "+0.53%"
+            "change": "+1.2%"
         },
         {
             "symbol": "AMD",
             "price": 467.51,
-            "change": "+0.18%"
+            "change": "-1.95%"
         },
         {
             "symbol": "MSFT",
             "price": 418.57,
-            "change": "-2.06%"
+            "change": "-2.15%"
         },
         {
             "symbol": "CEG",
             "price": 294.07,
-            "change": "+0.57%"
+            "change": "-3.03%"
         },
         {
             "symbol": "VST",
             "price": 156.27,
-            "change": "+0.3%"
+            "change": "-1.11%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.66,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.53,
-            0.53,
-            0.52,
-            0.51,
-            0.51,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.49,
+            0.48,
+            0.47,
+            0.48,
+            0.49,
             0.5,
-            0.51
+            0.49
         ],
         "hsd_history_hardware": [
-            24.73,
+            25.07,
             24.95,
-            24.48,
-            24.62,
-            24.55,
-            24.81,
-            25.11,
-            25.06,
-            25.32,
-            25.09,
-            24.72,
-            24.69
+            24.5,
+            24.71,
+            24.84,
+            25.15,
+            24.82,
+            24.38,
+            24.77,
+            25.12,
+            24.67,
+            24.62
         ],
         "hsd_history_software": [
-            10.65,
-            10.52,
-            10.69,
-            10.5,
-            10.38,
-            10.23,
-            10.19,
-            10.18,
-            10.08,
-            9.99,
-            9.99,
-            10.1
+            10.21,
+            10.01,
+            9.84,
+            9.79,
+            9.75,
+            9.77,
+            9.95,
+            10.13,
+            10.06,
+            10.14,
+            9.96,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:23",
+            "time": "18:06",
             "tag": "MERCADO",
-            "text": "Why Enphase Energy (ENPH) Is Up 21.1% After Expanding PowerMatch And Launching GaN Commercial Inverters"
+            "text": "Salesforce Inc. (NYSE: CRM) Stock Price Gains 2.2% as Agentforce Momentum Builds"
         },
         {
-            "time": "16:12",
+            "time": "17:57",
             "tag": "MERCADO",
-            "text": "DTE Energy Ties Data Center Growth To Renewables And Microgrid Plans"
+            "text": "Oracle Corporation (NYSE: ORCL) Approaches $300 as Cloud Infrastructure Demand Outpaces Enterprise Software Peers"
         },
         {
-            "time": "16:03",
+            "time": "17:37",
             "tag": "MERCADO",
-            "text": "Morgan Stanley sends clear message on Take-Two stock ahead of GTA VI"
+            "text": "Duke Energy (DUK) Price Target Lowered by $5"
         },
         {
-            "time": "15:49",
+            "time": "17:28",
             "tag": "MERCADO",
-            "text": "Paychex stock (US7043261079): dividend yield stays high as investors eye payroll demand"
+            "text": "Analyst Upgrades Automatic Data Processing (ADP) to \u2018Equal Weight\u2019, Assigns $214 Price Target"
         },
         {
-            "time": "15:48",
+            "time": "17:28",
             "tag": "MERCADO",
-            "text": "Texas Instruments Rose 31% Over the Last 30 Days. Here\u2019s What to Expect in 2026"
+            "text": "Analyst Upgrades Automatic Data Processing (ADP) to \u2018Equal Weight\u2019, Assigns $214 Price Target"
         }
     ]
 }
