@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-25 21:12 UTC",
+        "last_updated": "2026-05-25 23:07 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 215.33,
-            "change": "-0.1%"
+            "change": "-0.5%"
         },
         {
             "symbol": "AMD",
             "price": 467.51,
-            "change": "-0.69%"
+            "change": "-2.86%"
         },
         {
             "symbol": "MSFT",
             "price": 418.57,
-            "change": "+0.75%"
+            "change": "-3.18%"
         },
         {
             "symbol": "CEG",
             "price": 294.07,
-            "change": "-1.35%"
+            "change": "+1.23%"
         },
         {
             "symbol": "VST",
             "price": 156.27,
-            "change": "+3.24%"
+            "change": "-1.29%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.68,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
+            0.48,
+            0.48,
             0.49,
             0.49,
             0.49,
-            0.5,
-            0.5,
-            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            24.11,
-            24.04,
-            24.35,
-            24.31,
-            24.4,
-            24.64,
-            24.68,
-            24.62,
+            25.26,
+            25.57,
+            25.82,
+            25.72,
+            25.52,
             25.03,
-            25.22,
-            24.97,
-            25.29
+            24.7,
+            24.62,
+            24.42,
+            24.28,
+            24.42,
+            24.65
         ],
         "hsd_history_software": [
-            9.23,
-            9.25,
-            9.38,
-            9.2,
-            9.31,
-            9.41,
-            9.48,
-            9.66,
-            9.6,
-            9.76,
-            9.87,
-            10.05
+            10.17,
+            10.02,
+            10.09,
+            10.16,
+            10.1,
+            10.04,
+            10.22,
+            10.08,
+            10.13,
+            10.04,
+            9.98,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:37",
-            "tag": "MERCADO",
-            "text": "Corning stock (US2193501051): Optical glass specialist in focus as estimates improve and demand tren"
-        },
-        {
-            "time": "20:17",
-            "tag": "MERCADO",
-            "text": "F5 Inc. stock (US3156161024): Network specialist after recent quarterly update"
-        },
-        {
-            "time": "20:13",
-            "tag": "MERCADO",
-            "text": "PNC fintech subsidiary numo secures Bank of America partnership"
-        },
-        {
-            "time": "20:11",
+            "time": "22:08",
             "tag": "AI",
-            "text": "Trimble Inc. stock (US8962391058): solid Q1 results and AI-driven positioning in industrial technolo"
+            "text": "International Business Machines stock (US4592001014): AI push and hybrid cloud strategy in focus"
         },
         {
-            "time": "20:09",
+            "time": "22:00",
             "tag": "MERCADO",
-            "text": "ANSYS stock (US0357101090): Siemens takeover offer puts simulation specialist in focus"
+            "text": "50 years on, Apple faces the creative rut that hit Japan's firms"
+        },
+        {
+            "time": "21:57",
+            "tag": "AI",
+            "text": "Autodesk Inc. stock (US0527691069): AI design push and steady demand after latest quarterly results"
+        },
+        {
+            "time": "21:18",
+            "tag": "MERCADO",
+            "text": "IHS Holding Valuation Story Builds Around Telecom Infrastructure"
+        },
+        {
+            "time": "21:15",
+            "tag": "AI",
+            "text": "Innodata Transitions to AI Engineering Partner Role"
         }
     ]
 }
