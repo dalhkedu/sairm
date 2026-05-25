@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-25 17:08 UTC",
+        "last_updated": "2026-05-25 19:45 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 215.33,
-            "change": "-2.85%"
+            "change": "-1.61%"
         },
         {
             "symbol": "AMD",
             "price": 467.51,
-            "change": "+0.37%"
+            "change": "-0.03%"
         },
         {
             "symbol": "MSFT",
             "price": 418.57,
-            "change": "+2.33%"
+            "change": "+0.02%"
         },
         {
             "symbol": "CEG",
             "price": 294.07,
-            "change": "-3.45%"
+            "change": "+1.82%"
         },
         {
             "symbol": "VST",
             "price": 156.27,
-            "change": "-2.21%"
+            "change": "-3.2%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.65,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
+            0.47,
+            0.47,
+            0.46,
+            0.45,
+            0.46,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
             0.48,
             0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            25.17,
-            25.35,
-            25.02,
-            25.36,
-            24.97,
-            24.96,
-            25.35,
-            25.01,
-            24.72,
-            24.99,
-            25.22,
-            24.91
+            26.07,
+            25.91,
+            25.79,
+            26.29,
+            25.8,
+            26.21,
+            26.25,
+            25.91,
+            26.31,
+            25.98,
+            25.69,
+            25.2
         ],
         "hsd_history_software": [
-            9.47,
-            9.57,
-            9.74,
-            9.6,
-            9.68,
-            9.61,
-            9.6,
+            10.13,
+            9.95,
+            10.02,
+            9.92,
+            9.81,
             9.78,
-            9.85,
+            9.84,
+            9.74,
             9.93,
-            10.01,
-            10.18
+            9.95,
+            9.99,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:40",
+            "time": "19:10",
             "tag": "MERCADO",
-            "text": "Wix set to ax a fifth of staff in post-earnings shockwave (WIX:NASDAQ)"
+            "text": "Trip.com Group (TCOM) Is Down 6.5% After Anti-Monopoly Probe And Litigation Jitters Resurface"
         },
         {
-            "time": "15:39",
-            "tag": "MERCADO",
-            "text": "Youxin Technology (Nasdaq:YAAS) - Stock Analysis"
-        },
-        {
-            "time": "15:38",
+            "time": "18:55",
             "tag": "AI",
-            "text": "3 Top-Ranked AI Construction Stocks With Double-Digit Near-Term Upside"
+            "text": "Axon Enterprise Inc. stock (US05464C1018): Strong Q1 growth and AI strategy keep investors watching"
         },
         {
-            "time": "15:37",
-            "tag": "AI",
-            "text": "Alphabet Inc. Class A stock (US02079K3059): focus on AI, cloud and advertising after latest quarterly update"
-        },
-        {
-            "time": "15:33",
+            "time": "18:33",
             "tag": "MERCADO",
-            "text": "PNC Financial Services Trims AST SpaceMobile (NASDAQ: ASTS) Stake by 10.7%"
+            "text": "Enbridge to Develop $1.2 Billion Solar & Storage Project to Power Meta Data Centers"
+        },
+        {
+            "time": "18:13",
+            "tag": "MERCADO",
+            "text": "Applied Materials, Inc. (AMAT) Sees Quarterly Revenue Exceeding Forecasts"
+        },
+        {
+            "time": "18:12",
+            "tag": "MERCADO",
+            "text": "Mizuho Maintains an \u201cOutperform\u201d Rating on ON Semiconductor Corporation (ON)"
         }
     ]
 }
