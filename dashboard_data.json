@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-25 14:10 UTC",
+        "last_updated": "2026-05-25 17:08 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 215.33,
-            "change": "-0.27%"
+            "change": "-2.85%"
         },
         {
             "symbol": "AMD",
             "price": 467.51,
-            "change": "+1.21%"
+            "change": "+0.37%"
         },
         {
             "symbol": "MSFT",
             "price": 418.57,
-            "change": "+3.37%"
+            "change": "+2.33%"
         },
         {
             "symbol": "CEG",
             "price": 294.07,
-            "change": "+1.01%"
+            "change": "-3.45%"
         },
         {
             "symbol": "VST",
             "price": 156.27,
-            "change": "-1.01%"
+            "change": "-2.21%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.41,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.5,
-            0.49,
-            0.49,
             0.49,
             0.49,
             0.5,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
             0.5,
-            0.51,
-            0.5,
-            0.49
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.7,
-            23.61,
-            23.89,
-            23.87,
-            23.57,
-            23.81,
-            24.24,
-            24.32,
-            24.27,
-            24.74,
-            24.64,
-            24.81
+            25.17,
+            25.35,
+            25.02,
+            25.36,
+            24.97,
+            24.96,
+            25.35,
+            25.01,
+            24.72,
+            24.99,
+            25.22,
+            24.91
         ],
         "hsd_history_software": [
-            10.66,
-            10.46,
-            10.54,
-            10.5,
-            10.35,
-            10.35,
-            10.22,
-            10.39,
-            10.23,
-            10.08,
-            10.26,
-            10.13
+            9.47,
+            9.57,
+            9.74,
+            9.6,
+            9.68,
+            9.61,
+            9.6,
+            9.78,
+            9.85,
+            9.93,
+            10.01,
+            10.18
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:37",
+            "time": "15:40",
             "tag": "MERCADO",
-            "text": "Intel Foundry\u2019s Rio Rancho Facility To Become Its Crown Jewel In Production of Next-Gen Glass Substrates"
+            "text": "Wix set to ax a fifth of staff in post-earnings shockwave (WIX:NASDAQ)"
         },
         {
-            "time": "12:28",
+            "time": "15:39",
+            "tag": "MERCADO",
+            "text": "Youxin Technology (Nasdaq:YAAS) - Stock Analysis"
+        },
+        {
+            "time": "15:38",
             "tag": "AI",
-            "text": "Alphabet I/O Agentic AI Push; Iridium Up 23% in May"
+            "text": "3 Top-Ranked AI Construction Stocks With Double-Digit Near-Term Upside"
         },
         {
-            "time": "12:22",
+            "time": "15:37",
             "tag": "AI",
-            "text": "SAP Signavio in Gartner Magic Quadrant for Process Intelligence"
+            "text": "Alphabet Inc. Class A stock (US02079K3059): focus on AI, cloud and advertising after latest quarterly update"
         },
         {
-            "time": "12:07",
+            "time": "15:33",
             "tag": "MERCADO",
-            "text": "Posthaste: Worried about a market bubble? You ain't seen nothing yet, warns top BofA strategist"
-        },
-        {
-            "time": "11:57",
-            "tag": "MERCADO",
-            "text": "Plano to vote on rezoning AT&T signature tower, plaza at new HQ site"
+            "text": "PNC Financial Services Trims AST SpaceMobile (NASDAQ: ASTS) Stake by 10.7%"
         }
     ]
 }
