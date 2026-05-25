@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-24 22:04 UTC",
+        "last_updated": "2026-05-25 00:02 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 215.33,
-            "change": "+1.47%"
+            "change": "+2.42%"
         },
         {
             "symbol": "AMD",
             "price": 467.51,
-            "change": "+3.07%"
+            "change": "+3.41%"
         },
         {
             "symbol": "MSFT",
             "price": 418.57,
-            "change": "+0.36%"
+            "change": "-2.32%"
         },
         {
             "symbol": "CEG",
             "price": 294.07,
-            "change": "-2.18%"
+            "change": "-0.56%"
         },
         {
             "symbol": "VST",
             "price": 156.27,
-            "change": "-1.44%"
+            "change": "-0.56%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.56,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
             0.53,
             0.53,
-            0.54,
+            0.53,
             0.53,
             0.52,
             0.52,
             0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            26.11,
-            26.28,
-            25.98,
-            25.89,
-            26.34,
-            26.07,
-            25.78,
-            25.48,
-            25.1,
-            24.83,
-            24.57,
-            24.9
+            24.54,
+            24.26,
+            24.6,
+            24.98,
+            25.39,
+            25.73,
+            25.61,
+            25.52,
+            25.29,
+            25.4,
+            25.9,
+            25.42
         ],
         "hsd_history_software": [
-            10.63,
-            10.53,
-            10.43,
-            10.41,
-            10.43,
-            10.6,
-            10.5,
-            10.45,
-            10.39,
-            10.44,
-            10.35,
-            10.19
+            10.89,
+            10.72,
+            10.82,
+            10.88,
+            10.7,
+            10.67,
+            10.59,
+            10.55,
+            10.55,
+            10.38,
+            10.19,
+            10.02
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "23:30",
+            "tag": "MERCADO",
+            "text": "Onto\u2019s Zero\u2011Coupon Notes And Rigaku Stake Could Be A Game Changer For Onto Innovation (ONTO)"
+        },
+        {
+            "time": "23:27",
+            "tag": "AI",
+            "text": "Arista Networks (ANET) Is Up 8.5% After AI-Focused Beat, Guidance Hike And Gartner Leadership Gains"
+        },
+        {
+            "time": "22:24",
+            "tag": "AI",
+            "text": "Assessing Analog Devices (ADI) Valuation After Record AI Driven Quarterly Results And Analyst Upgrades"
+        },
+        {
+            "time": "22:08",
+            "tag": "AI",
+            "text": "Qualcomm Stock Is the Sleeping Giant of the AI Revolution. It\u2019s Starting to Wake Up."
+        },
+        {
             "time": "21:29",
             "tag": "AI",
             "text": "Is Haitong\u2019s AI Token Thesis Quietly Rewriting Kingsoft Cloud\u2019s (KC) Path to Scale and Profitability?"
-        },
-        {
-            "time": "21:29",
-            "tag": "MERCADO",
-            "text": "KULR Technology Group (KULR) Is Up 28.1% After New Drone And Space Battery Wins - Has The Bull Case Changed?"
-        },
-        {
-            "time": "21:16",
-            "tag": "MERCADO",
-            "text": "Match Group Inc. stock (US57669L1008): dating-app owner steadies after latest earnings"
-        },
-        {
-            "time": "21:08",
-            "tag": "AI",
-            "text": "Top Stocks To Benefit As Goldman Sachs Touts Liquid Cooling As The Next AI Trade"
-        },
-        {
-            "time": "21:06",
-            "tag": "MERCADO",
-            "text": "Honeywell International Nears June 29 Split With 'All Green Lights,' Reaffirms Outlook"
         }
     ]
 }
