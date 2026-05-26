@@ -1,23 +1,23 @@
 {
     "metadata": {
-        "last_updated": "2026-05-26 15:40 UTC",
+        "last_updated": "2026-05-26 18:29 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 214.1,
-            "change": "-0.4%"
+            "price": 213.97,
+            "change": "+0.12%"
         },
         {
             "symbol": "AMD",
-            "price": 489.14,
-            "change": "+0.41%"
+            "price": 498.92,
+            "change": "+0.78%"
         },
         {
             "symbol": "MSFT",
-            "price": 416.21,
-            "change": "+2.39%"
+            "price": 415.08,
+            "change": "-0.76%"
         },
         {
             "symbol": "CEG",
@@ -26,60 +26,60 @@
         },
         {
             "symbol": "VST",
-            "price": 164.95,
-            "change": "-1.56%"
+            "price": 164.38,
+            "change": "+0.69%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.62,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
+            0.5,
+            0.49,
+            0.5,
+            0.49,
             0.5,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.62,
-            23.98,
-            24.08,
-            24.46,
-            24.55,
-            24.27,
-            24.37,
-            24.83,
-            24.64,
-            25.02,
-            25.09,
-            25.39
+            27.24,
+            27.15,
+            26.64,
+            26.43,
+            26.14,
+            25.71,
+            25.56,
+            25.53,
+            25.05,
+            24.98,
+            25.26,
+            25.09
         ],
         "hsd_history_software": [
-            9.65,
-            9.76,
-            9.73,
-            9.91,
-            9.84,
-            9.98,
-            9.83,
-            9.87,
-            9.97,
+            10.36,
+            10.47,
+            10.27,
+            10.23,
+            10.17,
+            10.0,
             10.02,
-            9.92,
-            9.91
+            9.95,
+            10.08,
+            10.22,
+            10.19,
+            10.18
         ],
         "rci_data": [
             85.0,
-            21.41
+            21.397
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:04",
-            "tag": "MERCADO",
-            "text": "Agilent Launches Multi-Attribute Method (MAM) Solution for BioPharma Quality Control"
-        },
-        {
-            "time": "14:59",
-            "tag": "MERCADO",
-            "text": "Inside Keysight\u2019s quantum and 6G demos at Boston\u2019s IMS 2026"
-        },
-        {
-            "time": "14:57",
+            "time": "17:27",
             "tag": "AI",
-            "text": "AI is \u2018going to break down millions of careers,\u2019 Gartner analyst says"
+            "text": "Braiin shares soar after utility-switching deal sparks speculative frenzy (BRAI:NASDAQ)"
         },
         {
-            "time": "14:52",
+            "time": "17:22",
             "tag": "MERCADO",
-            "text": "Iran-linked hackers target key US, allied sectors with sophisticated spear-phishing messages"
+            "text": "Apple Rose 14% in 30 Days. Here\u2019s How Much the Stock Could Rise in 2026"
         },
         {
-            "time": "14:47",
+            "time": "17:22",
             "tag": "MERCADO",
-            "text": "Cisco Systems, Inc. stock (US17275R1023): analyst moves and software shift keep the network giant in focus"
+            "text": "Equinix opens MD5 data center in Madrid, Spain"
+        },
+        {
+            "time": "17:15",
+            "tag": "MERCADO",
+            "text": "Applovin Corp Stock (APP) Moved Up by 5.90% on May 26: A Full Analysis"
+        },
+        {
+            "time": "17:11",
+            "tag": "RESULTADOS",
+            "text": "NetApp to Release Q4 Earnings: Here's What Investors Should Expect"
         }
     ]
 }
