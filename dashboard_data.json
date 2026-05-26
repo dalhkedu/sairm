@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-26 20:55 UTC",
+        "last_updated": "2026-05-26 22:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.86,
-            "change": "-0.68%"
+            "change": "-0.6%"
         },
         {
             "symbol": "AMD",
             "price": 503.89,
-            "change": "-1.61%"
+            "change": "-2.73%"
         },
         {
             "symbol": "MSFT",
-            "price": 416.03,
-            "change": "+0.17%"
+            "price": NaN,
+            "change": "+3.25%"
         },
         {
             "symbol": "CEG",
             "price": 301.57,
-            "change": "+2.27%"
+            "change": "-1.68%"
         },
         {
             "symbol": "VST",
             "price": 164.56,
-            "change": "-2.75%"
+            "change": "+0.44%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
+        "cer_current": 0.65,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
             0.51,
-            0.52,
-            0.52,
-            0.53,
-            0.54,
-            0.53,
-            0.52,
-            0.53,
-            0.53,
-            0.52,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.51,
+            0.51,
             0.52,
             0.51
         ],
         "hsd_history_hardware": [
-            24.05,
-            23.78,
-            23.89,
-            24.15,
-            24.42,
-            24.49,
-            24.46,
-            24.53,
-            24.15,
-            24.27,
-            24.66,
-            25.08
+            24.71,
+            25.21,
+            25.63,
+            26.08,
+            25.57,
+            25.83,
+            25.89,
+            26.13,
+            25.69,
+            25.19,
+            25.46,
+            25.46
         ],
         "hsd_history_software": [
-            10.09,
-            9.95,
-            9.98,
-            9.84,
-            9.88,
-            9.75,
-            9.67,
-            9.7,
-            9.65,
-            9.78,
-            9.93,
-            9.92
+            10.73,
+            10.81,
+            10.66,
+            10.65,
+            10.6,
+            10.48,
+            10.46,
+            10.43,
+            10.29,
+            10.21,
+            10.03,
+            10.0
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:06",
+            "time": "21:13",
             "tag": "MERCADO",
-            "text": "Tyler Technologies Expands Digital Payments in Anchorage"
+            "text": "Gartner\u00ae Report: The CISO's Cyber Resilience Remit Is Expanding"
         },
         {
-            "time": "19:59",
+            "time": "21:11",
             "tag": "MERCADO",
-            "text": "Expedia Group to Participate in Evercore\u2019s 2026 Global TMT Conference"
+            "text": "Equinix (NASDAQ:EQIX) EVP Sells $2,210,278.80 in Stock"
         },
         {
-            "time": "19:49",
+            "time": "21:11",
             "tag": "MERCADO",
-            "text": "Salesforce earnings preview: Jefferies eyes in-line Q1, second-half growth key"
+            "text": "Jon Freier Sells 4,799 Shares of T-Mobile US (NASDAQ:TMUS) Stock"
         },
         {
-            "time": "19:46",
+            "time": "21:09",
             "tag": "MERCADO",
-            "text": "BetMGM Sportsbook Review (May 2026): 28 States, 8.8/10"
+            "text": "[144] CISCO SYSTEMS, INC. SEC Filing"
         },
         {
-            "time": "19:44",
+            "time": "20:56",
             "tag": "MERCADO",
-            "text": "Sonar Named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Technical Debt Management Tools"
+            "text": "AccessIT Group Earns Elite Palo Alto Networks Platinum Status"
         }
     ]
 }
