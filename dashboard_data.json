@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-25 23:07 UTC",
+        "last_updated": "2026-05-26 03:52 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 215.33,
-            "change": "-0.5%"
+            "change": "+0.85%"
         },
         {
             "symbol": "AMD",
             "price": 467.51,
-            "change": "-2.86%"
+            "change": "-0.87%"
         },
         {
             "symbol": "MSFT",
             "price": 418.57,
-            "change": "-3.18%"
+            "change": "+3.08%"
         },
         {
             "symbol": "CEG",
             "price": 294.07,
-            "change": "+1.23%"
+            "change": "+1.17%"
         },
         {
             "symbol": "VST",
             "price": 156.27,
-            "change": "-1.29%"
+            "change": "-1.27%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.43,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.47,
+            0.47,
             0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
             0.49,
             0.48,
             0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
             0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            25.26,
-            25.57,
-            25.82,
-            25.72,
-            25.52,
-            25.03,
-            24.7,
-            24.62,
-            24.42,
+            23.33,
+            23.57,
+            23.64,
+            23.38,
+            23.86,
+            23.69,
+            24.05,
             24.28,
-            24.42,
+            24.43,
+            24.55,
+            24.73,
             24.65
         ],
         "hsd_history_software": [
-            10.17,
-            10.02,
-            10.09,
+            10.47,
+            10.41,
+            10.43,
+            10.25,
+            10.11,
+            10.11,
+            10.3,
             10.16,
-            10.1,
-            10.04,
-            10.22,
-            10.08,
+            10.01,
             10.13,
-            10.04,
-            9.98,
-            9.82
+            9.97,
+            10.14
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:08",
-            "tag": "AI",
-            "text": "International Business Machines stock (US4592001014): AI push and hybrid cloud strategy in focus"
-        },
-        {
-            "time": "22:00",
+            "time": "02:10",
             "tag": "MERCADO",
-            "text": "50 years on, Apple faces the creative rut that hit Japan's firms"
+            "text": "T1 Energy, Navitas, Birkenstock, RXO Lead Weekly Surges"
         },
         {
-            "time": "21:57",
+            "time": "02:06",
             "tag": "AI",
-            "text": "Autodesk Inc. stock (US0527691069): AI design push and steady demand after latest quarterly results"
+            "text": "Why Fortinet (FTNT) Is Up 5.9% After Expanding NVIDIA\u2011Powered FortiAIGate AI Security Capabilities"
         },
         {
-            "time": "21:18",
+            "time": "01:40",
             "tag": "MERCADO",
-            "text": "IHS Holding Valuation Story Builds Around Telecom Infrastructure"
+            "text": "Assessing Tower Semiconductor (NasdaqGS:TSEM) Valuation After Major Silicon Photonics Deals And Strong Guidance"
         },
         {
-            "time": "21:15",
-            "tag": "AI",
-            "text": "Innodata Transitions to AI Engineering Partner Role"
+            "time": "01:39",
+            "tag": "MERCADO",
+            "text": "Sun Life: Building Trust in Technology, Redefining the Future of Insurance"
+        },
+        {
+            "time": "01:39",
+            "tag": "MERCADO",
+            "text": "Mizuho Securities Maintains Micron Technology(MU.US) With Buy Rating, Maintains Target Price $800"
         }
     ]
 }
