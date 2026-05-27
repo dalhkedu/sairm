@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-26 22:22 UTC",
+        "last_updated": "2026-05-27 00:09 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.86,
-            "change": "-0.6%"
+            "change": "-0.08%"
         },
         {
             "symbol": "AMD",
             "price": 503.89,
-            "change": "-2.73%"
+            "change": "+0.19%"
         },
         {
             "symbol": "MSFT",
-            "price": NaN,
-            "change": "+3.25%"
+            "price": 416.03,
+            "change": "-1.83%"
         },
         {
             "symbol": "CEG",
             "price": 301.57,
-            "change": "-1.68%"
+            "change": "+0.42%"
         },
         {
             "symbol": "VST",
             "price": 164.56,
-            "change": "+0.44%"
+            "change": "-2.58%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.61,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.51,
             0.51,
             0.52,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            24.71,
-            25.21,
-            25.63,
-            26.08,
-            25.57,
-            25.83,
-            25.89,
-            26.13,
-            25.69,
-            25.19,
-            25.46,
-            25.46
+            24.64,
+            24.75,
+            24.9,
+            24.7,
+            25.11,
+            25.05,
+            25.13,
+            25.36,
+            24.96,
+            24.62,
+            24.2,
+            24.57
         ],
         "hsd_history_software": [
-            10.73,
-            10.81,
-            10.66,
-            10.65,
-            10.6,
-            10.48,
-            10.46,
-            10.43,
-            10.29,
-            10.21,
-            10.03,
-            10.0
+            9.53,
+            9.51,
+            9.55,
+            9.62,
+            9.55,
+            9.71,
+            9.9,
+            9.9,
+            9.87,
+            9.95,
+            9.76,
+            9.95
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:13",
+            "time": "23:20",
             "tag": "MERCADO",
-            "text": "Gartner\u00ae Report: The CISO's Cyber Resilience Remit Is Expanding"
+            "text": "Microchip Technology (NASDAQ:MCHP) COO Sells $467,200.00 in Stock"
         },
         {
-            "time": "21:11",
+            "time": "23:19",
             "tag": "MERCADO",
-            "text": "Equinix (NASDAQ:EQIX) EVP Sells $2,210,278.80 in Stock"
+            "text": "Microsoft doesn\u2019t expect its data centers will trigger review under Great Lakes Compact"
         },
         {
-            "time": "21:11",
+            "time": "23:18",
             "tag": "MERCADO",
-            "text": "Jon Freier Sells 4,799 Shares of T-Mobile US (NASDAQ:TMUS) Stock"
+            "text": "Wedbush Highlights IBM\u2019s Role in Quantum Chip Foundry Partnership"
         },
         {
-            "time": "21:09",
+            "time": "22:07",
             "tag": "MERCADO",
-            "text": "[144] CISCO SYSTEMS, INC. SEC Filing"
+            "text": "London Stock Exchange Group (LSEG) Strengthens Tech Infrastructure via Broadcom Partnership"
         },
         {
-            "time": "20:56",
-            "tag": "MERCADO",
-            "text": "AccessIT Group Earns Elite Palo Alto Networks Platinum Status"
+            "time": "22:03",
+            "tag": "AI",
+            "text": "IREN Limited signs $1.6B deal with Dell for AI cloud systems"
         }
     ]
 }
