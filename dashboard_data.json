@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-27 19:27 UTC",
+        "last_updated": "2026-05-27 21:58 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 212.23,
-            "change": "-0.35%"
+            "price": 212.6,
+            "change": "+2.47%"
         },
         {
             "symbol": "AMD",
-            "price": 495.55,
+            "price": 495.54,
             "change": "-0.7%"
         },
         {
             "symbol": "MSFT",
-            "price": 413.3,
-            "change": "+0.02%"
+            "price": 412.67,
+            "change": "-1.0%"
         },
         {
             "symbol": "CEG",
-            "price": 288.01,
-            "change": "-2.58%"
+            "price": 288.68,
+            "change": "-1.54%"
         },
         {
             "symbol": "VST",
-            "price": 160.12,
-            "change": "-2.53%"
+            "price": 160.15,
+            "change": "-0.43%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.41,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
+            0.47,
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.48,
             0.49,
             0.49,
-            0.5
+            0.49,
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.54,
-            24.67,
-            24.44,
-            24.31,
-            24.79,
-            25.05,
-            25.34,
-            25.5,
-            25.6,
-            25.54,
-            25.21,
-            24.96
+            25.57,
+            25.24,
+            25.72,
+            25.88,
+            25.94,
+            25.75,
+            25.98,
+            25.82,
+            25.73,
+            25.81,
+            25.37,
+            25.18
         ],
         "hsd_history_software": [
-            10.26,
-            10.43,
-            10.55,
-            10.66,
-            10.57,
-            10.41,
-            10.21,
-            10.11,
-            10.02,
-            10.15,
-            10.23,
-            10.06
+            9.73,
+            9.55,
+            9.54,
+            9.69,
+            9.75,
+            9.71,
+            9.58,
+            9.66,
+            9.81,
+            9.66,
+            9.85,
+            9.93
         ],
         "rci_data": [
             85.0,
-            21.223
+            21.259999999999998
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:32",
+            "time": "20:50",
             "tag": "MERCADO",
-            "text": "NCR Voyix and U.S. Bank Voyager Partner to Expand Fleet Card Acceptance Through Voyix Connect"
+            "text": "Cisco (CSCO) CEO Charles Robbins sells 21,400 shares under 10b5-1 plan"
         },
         {
-            "time": "18:31",
+            "time": "20:39",
             "tag": "MERCADO",
-            "text": "High-and-heavy equipment makers tap into data centers for growth"
+            "text": "Jefferies Upgrades Generac to Buy: What a $302 Target Means for GNRC Investors"
         },
         {
-            "time": "18:25",
-            "tag": "MERCADO",
-            "text": "Tesla's long-awaited Roadster will be built in Texas, executives say"
-        },
-        {
-            "time": "18:19",
-            "tag": "MERCADO",
-            "text": "Qualcomm Lands Massive ByteDance ASIC Deal to Anchor Data Center Pivot"
-        },
-        {
-            "time": "18:19",
+            "time": "20:33",
             "tag": "AI",
-            "text": "Oracle Corporation stock (US68389X1054): AI boom meets cloud transition after latest quarterly resul"
+            "text": "Moody's Corporation stock (US6153691059): earnings momentum and AI ambitions attract attention"
+        },
+        {
+            "time": "20:31",
+            "tag": "MERCADO",
+            "text": "Synopsys to Add Elliott Partner to Board"
+        },
+        {
+            "time": "20:31",
+            "tag": "RESULTADOS",
+            "text": "Synopsys Stock Slips Despite Q2 Earnings Beat"
         }
     ]
 }
