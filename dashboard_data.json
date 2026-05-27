@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-27 00:09 UTC",
+        "last_updated": "2026-05-27 05:18 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.86,
-            "change": "-0.08%"
+            "change": "+1.81%"
         },
         {
             "symbol": "AMD",
             "price": 503.89,
-            "change": "+0.19%"
+            "change": "-1.47%"
         },
         {
             "symbol": "MSFT",
             "price": 416.03,
-            "change": "-1.83%"
+            "change": "+1.63%"
         },
         {
             "symbol": "CEG",
             "price": 301.57,
-            "change": "+0.42%"
+            "change": "+2.88%"
         },
         {
             "symbol": "VST",
             "price": 164.56,
-            "change": "-2.58%"
+            "change": "+2.85%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.67,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.51,
             0.5,
             0.51,
+            0.52,
+            0.51,
+            0.52,
             0.51,
             0.52,
             0.51,
             0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
+            0.52,
             0.51
         ],
         "hsd_history_hardware": [
-            24.64,
-            24.75,
-            24.9,
-            24.7,
-            25.11,
-            25.05,
-            25.13,
-            25.36,
-            24.96,
-            24.62,
-            24.2,
-            24.57
+            21.96,
+            22.31,
+            22.64,
+            22.44,
+            22.7,
+            23.15,
+            23.32,
+            23.4,
+            23.66,
+            24.14,
+            24.41,
+            24.9
         ],
         "hsd_history_software": [
-            9.53,
-            9.51,
+            9.4,
+            9.48,
+            9.59,
             9.55,
-            9.62,
-            9.55,
-            9.71,
-            9.9,
-            9.9,
+            9.52,
+            9.66,
+            9.79,
             9.87,
-            9.95,
-            9.76,
-            9.95
+            9.75,
+            9.9,
+            10.0,
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "23:20",
+            "time": "04:38",
             "tag": "MERCADO",
-            "text": "Microchip Technology (NASDAQ:MCHP) COO Sells $467,200.00 in Stock"
+            "text": "SpaceX IPO Hype Stretches SPDR S&P Telecom ETF Beyond Its Limits"
         },
         {
-            "time": "23:19",
+            "time": "04:08",
             "tag": "MERCADO",
-            "text": "Microsoft doesn\u2019t expect its data centers will trigger review under Great Lakes Compact"
+            "text": "Viasat\u2019s next-gen cockpit service reaches milestone as airlines modernize communications to save fuel"
         },
         {
-            "time": "23:18",
+            "time": "03:39",
             "tag": "MERCADO",
-            "text": "Wedbush Highlights IBM\u2019s Role in Quantum Chip Foundry Partnership"
+            "text": "VEON\u2019s Kyivstar Expands Renewable Energy Portfolio with Acquisition of Six Solar Power Plants"
         },
         {
-            "time": "22:07",
-            "tag": "MERCADO",
-            "text": "London Stock Exchange Group (LSEG) Strengthens Tech Infrastructure via Broadcom Partnership"
-        },
-        {
-            "time": "22:03",
+            "time": "03:39",
             "tag": "AI",
-            "text": "IREN Limited signs $1.6B deal with Dell for AI cloud systems"
+            "text": "Turning data into intelligence for the AI native era"
+        },
+        {
+            "time": "03:06",
+            "tag": "RESULTADOS",
+            "text": "Autodesk (ADSK) Q1 Earnings Report Preview: What To Look For"
         }
     ]
 }
