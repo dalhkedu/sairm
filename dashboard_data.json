@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-27 21:58 UTC",
+        "last_updated": "2026-05-27 23:23 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 212.6,
-            "change": "+2.47%"
+            "change": "+3.09%"
         },
         {
             "symbol": "AMD",
             "price": 495.54,
-            "change": "-0.7%"
+            "change": "+1.6%"
         },
         {
             "symbol": "MSFT",
             "price": 412.67,
-            "change": "-1.0%"
+            "change": "-1.75%"
         },
         {
             "symbol": "CEG",
             "price": 288.68,
-            "change": "-1.54%"
+            "change": "-1.04%"
         },
         {
             "symbol": "VST",
             "price": 160.15,
-            "change": "-0.43%"
+            "change": "-2.53%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.6,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
-            0.48,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
+            0.51,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
             0.5,
             0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            25.57,
-            25.24,
-            25.72,
+            26.34,
             25.88,
-            25.94,
-            25.75,
-            25.98,
-            25.82,
-            25.73,
-            25.81,
-            25.37,
-            25.18
+            25.48,
+            25.44,
+            25.03,
+            25.32,
+            24.92,
+            24.57,
+            25.04,
+            25.05,
+            24.69,
+            25.14
         ],
         "hsd_history_software": [
-            9.73,
-            9.55,
-            9.54,
-            9.69,
+            9.83,
+            10.01,
+            9.87,
             9.75,
-            9.71,
-            9.58,
-            9.66,
-            9.81,
-            9.66,
-            9.85,
-            9.93
+            9.77,
+            9.78,
+            9.92,
+            9.97,
+            10.17,
+            9.98,
+            9.86,
+            10.03
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:50",
-            "tag": "MERCADO",
-            "text": "Cisco (CSCO) CEO Charles Robbins sells 21,400 shares under 10b5-1 plan"
-        },
-        {
-            "time": "20:39",
-            "tag": "MERCADO",
-            "text": "Jefferies Upgrades Generac to Buy: What a $302 Target Means for GNRC Investors"
-        },
-        {
-            "time": "20:33",
+            "time": "22:33",
             "tag": "AI",
-            "text": "Moody's Corporation stock (US6153691059): earnings momentum and AI ambitions attract attention"
+            "text": "International Business Machines Corporation stock (US4592001014): AI push and Red Hat drive IBM\u2019s"
         },
         {
-            "time": "20:31",
+            "time": "22:10",
             "tag": "MERCADO",
-            "text": "Synopsys to Add Elliott Partner to Board"
+            "text": "T-Mobile US, Inc. stock (US8725901040): network investment, buyback focus after recent results"
         },
         {
-            "time": "20:31",
-            "tag": "RESULTADOS",
-            "text": "Synopsys Stock Slips Despite Q2 Earnings Beat"
+            "time": "22:06",
+            "tag": "MERCADO",
+            "text": "P66\u2019s Vanessa Sutherland & Michael Voutsinas \u2014 The New World of Legal Operations"
+        },
+        {
+            "time": "21:58",
+            "tag": "MERCADO",
+            "text": "William Blair Initiates on Insulet (PODD) With Outperform and Says the Valuation Gap Is Hard to Justify"
+        },
+        {
+            "time": "21:58",
+            "tag": "MERCADO",
+            "text": "Intuitive Surgical (ISRG) Is Pushing 100 Upgrades to Its da Vinci 5 Robot Starting June"
         }
     ]
 }
