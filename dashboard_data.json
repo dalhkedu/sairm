@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-05-27 09:57 UTC",
+        "last_updated": "2026-05-27 12:57 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.86,
-            "change": "-3.32%"
+            "change": "-0.65%"
         },
         {
             "symbol": "AMD",
             "price": 503.89,
-            "change": "+1.51%"
+            "change": "+3.48%"
         },
         {
             "symbol": "MSFT",
             "price": 416.03,
-            "change": "+0.49%"
+            "change": "-2.75%"
         },
         {
             "symbol": "CEG",
             "price": 301.57,
-            "change": "-1.31%"
+            "change": "-1.46%"
         },
         {
             "symbol": "VST",
             "price": 164.56,
-            "change": "+0.53%"
+            "change": "+1.76%"
         }
     ],
     "dashboard_metrics": {
@@ -38,44 +38,44 @@
         "cer_history": [
             0.5,
             0.51,
+            0.52,
+            0.51,
             0.5,
             0.49,
+            0.48,
             0.49,
-            0.5,
             0.49,
             0.49,
-            0.5,
-            0.5,
-            0.5,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            25.0,
-            24.86,
-            24.73,
-            24.48,
-            24.39,
-            24.17,
-            24.46,
-            24.8,
-            24.65,
-            25.13,
-            25.02,
-            24.64
+            26.15,
+            25.93,
+            26.32,
+            26.74,
+            27.17,
+            26.98,
+            26.48,
+            26.73,
+            26.38,
+            25.89,
+            25.5,
+            25.06
         ],
         "hsd_history_software": [
-            10.31,
-            10.34,
-            10.23,
-            10.31,
-            10.19,
-            10.28,
-            10.39,
-            10.21,
-            10.02,
-            10.16,
-            9.99,
-            9.88
+            9.34,
+            9.43,
+            9.29,
+            9.3,
+            9.34,
+            9.5,
+            9.61,
+            9.58,
+            9.7,
+            9.71,
+            9.84,
+            9.9
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:51",
-            "tag": "MERCADO",
-            "text": "Flputnam Investment Management Co. Sells 11,733 Shares of Cisco Systems, Inc. $CSCO"
+            "time": "12:03",
+            "tag": "RESULTADOS",
+            "text": "HP Faces Earnings Test After Six-Day Rally, Is AI PC Penetration the Deciding Factor?"
         },
         {
-            "time": "08:51",
+            "time": "12:00",
             "tag": "MERCADO",
-            "text": "Netflix, Inc. $NFLX Stock Holdings Lifted by Flputnam Investment Management Co."
+            "text": "John Deere gives Thoughtworks its highest supplier rating for digital tech"
         },
         {
-            "time": "08:51",
+            "time": "12:00",
             "tag": "MERCADO",
-            "text": "Truist Financial Corp Acquires 21,407 Shares of Amazon.com, Inc. $AMZN"
+            "text": "Axon uses Echodyne radar to help agencies detect rogue drones"
         },
         {
-            "time": "08:51",
+            "time": "11:59",
             "tag": "MERCADO",
-            "text": "Sun Financial Inc Makes New $2.30 Million Investment in Amazon.com, Inc. $AMZN"
+            "text": "New FICO tools help borrowers reach higher mortgage credit scores"
         },
         {
-            "time": "08:50",
+            "time": "11:58",
             "tag": "MERCADO",
-            "text": "Flputnam Investment Management Co. Reduces Holdings in International Business Machines Corporation $IBM"
+            "text": "Benchmark Adjusts Price Target on Palo Alto Networks to $270 From $200, Maintains Buy Rating"
         }
     ]
 }
