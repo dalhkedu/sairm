@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-28 16:55 UTC",
+        "last_updated": "2026-05-28 19:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 213.54,
-            "change": "-1.49%"
+            "price": 214.27,
+            "change": "-3.37%"
         },
         {
             "symbol": "AMD",
-            "price": 521.2,
-            "change": "-3.27%"
+            "price": 518.79,
+            "change": "-2.2%"
         },
         {
             "symbol": "MSFT",
-            "price": 423.54,
-            "change": "+2.05%"
+            "price": 426.45,
+            "change": "+3.25%"
         },
         {
             "symbol": "CEG",
-            "price": 287.95,
-            "change": "+0.62%"
+            "price": 285.98,
+            "change": "-2.96%"
         },
         {
             "symbol": "VST",
-            "price": 162.5,
-            "change": "+2.21%"
+            "price": 160.16,
+            "change": "-2.01%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.63,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
+            0.5,
             0.5,
             0.5,
             0.49,
-            0.49,
-            0.49,
             0.5,
-            0.49,
+            0.51,
             0.5,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.55,
-            25.37,
-            25.62,
+            25.27,
             25.65,
-            25.47,
-            25.62,
-            25.16,
-            25.62,
-            25.88,
-            25.42,
-            25.36,
-            24.87
+            25.44,
+            25.93,
+            25.56,
+            25.58,
+            25.95,
+            25.86,
+            25.66,
+            25.65,
+            25.26,
+            24.91
         ],
         "hsd_history_software": [
-            10.11,
-            10.08,
+            10.74,
+            10.59,
+            10.4,
+            10.32,
+            10.48,
+            10.33,
+            10.25,
+            10.31,
+            10.2,
+            10.03,
             9.97,
-            10.02,
-            9.83,
-            9.96,
-            9.81,
-            9.75,
-            9.82,
-            9.87,
-            9.93,
-            10.04
+            9.85
         ],
         "rci_data": [
             85.0,
-            21.354
+            21.427000000000003
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:07",
+            "time": "19:02",
+            "tag": "MERCADO",
+            "text": "Dow (DOW) Launches Advanced Thermal Gel for High-Speed Electronics"
+        },
+        {
+            "time": "18:37",
+            "tag": "MERCADO",
+            "text": "Intel Rose 42% Over the Last 30 Days. Here\u2019s What Could Drive the Stock in 2026"
+        },
+        {
+            "time": "18:36",
+            "tag": "MERCADO",
+            "text": "Bridgeline Digital (BLIN) Enhances eCommerce Experience with Haw"
+        },
+        {
+            "time": "18:31",
             "tag": "AI",
-            "text": "LG Energy Solution rides AI power surge with $1.6b US battery deal"
+            "text": "Dow launches thermal gel for AI networking, optical electronics applications (DOW:NYSE)"
         },
         {
-            "time": "15:42",
-            "tag": "AI",
-            "text": "Mistral AI plans AI deployment at Digital Realty data center in Paris, France"
-        },
-        {
-            "time": "15:25",
+            "time": "18:16",
             "tag": "MERCADO",
-            "text": "Autodesk Stock Is Down 17% YTD. What the Numbers Say About 2026"
-        },
-        {
-            "time": "15:18",
-            "tag": "MERCADO",
-            "text": "Wells Fargo to offer 50-bps incentive for ICON 3D-printed homes"
-        },
-        {
-            "time": "15:18",
-            "tag": "MERCADO",
-            "text": "CVS Health streamlines healthcare call center interactions"
+            "text": "Microsoft Corp Stock (MSFT) Moved Up by 3.57% on May 28: Drivers Behind the Movement"
         }
     ]
 }
