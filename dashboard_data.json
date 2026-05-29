@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-29 21:53 UTC",
+        "last_updated": "2026-05-29 23:16 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 211.14,
-            "change": "-1.29%"
+            "change": "-2.04%"
         },
         {
             "symbol": "AMD",
             "price": 516.1,
-            "change": "+3.44%"
+            "change": "-2.61%"
         },
         {
             "symbol": "MSFT",
             "price": 450.24,
-            "change": "-3.2%"
+            "change": "+0.79%"
         },
         {
             "symbol": "CEG",
             "price": 287.75,
-            "change": "+1.73%"
+            "change": "-1.55%"
         },
         {
             "symbol": "VST",
             "price": 160.23,
-            "change": "-1.03%"
+            "change": "-1.97%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.46,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.47,
+            0.48,
+            0.48,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
             0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.09,
-            24.77,
+            25.16,
+            24.91,
+            25.11,
             25.03,
-            25.52,
+            24.59,
+            24.73,
+            25.0,
+            25.46,
+            25.51,
+            25.69,
             25.48,
-            25.97,
-            26.12,
-            25.64,
-            25.64,
-            25.84,
-            25.83,
-            25.36
+            25.0
         ],
         "hsd_history_software": [
-            10.2,
-            10.08,
-            10.28,
-            10.32,
-            10.53,
-            10.46,
-            10.29,
+            10.34,
             10.4,
-            10.46,
-            10.3,
-            10.24,
-            10.05
+            10.31,
+            10.4,
+            10.29,
+            10.21,
+            10.32,
+            10.16,
+            10.07,
+            10.02,
+            10.03,
+            9.97
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:59",
+            "time": "22:39",
             "tag": "MERCADO",
-            "text": "Garmin Ltd stock (US3687361044): Shares trade near USD 238 ahead of ex-dividend date and valuation focus"
+            "text": "Unity Software (U) CAO sells 13,247 shares to cover RSU taxes"
         },
         {
-            "time": "20:56",
+            "time": "22:35",
             "tag": "MERCADO",
-            "text": "Micron's Spectacular Rally May Not Have Happened If Not For McDonalds Potato Supplier"
+            "text": "Boeing (BA) Secures $200M R&D Contract for Aerospace Technologie"
         },
         {
-            "time": "20:54",
-            "tag": "AI",
-            "text": "OpenAI said to have held talks with Citigroup, JPMorgan for IPO preparations (OPENAI:Private)"
+            "time": "22:27",
+            "tag": "MERCADO",
+            "text": "Western Digital director Bruce Kiddoo sells $396k in stock"
         },
         {
-            "time": "20:33",
+            "time": "22:19",
             "tag": "MERCADO",
-            "text": "AT&T to post Q2 2026 results and host webcast July 22"
+            "text": "EA (NASDAQ: EA) accounting chief sells 3,000 common shares"
         },
         {
-            "time": "20:14",
+            "time": "21:38",
             "tag": "MERCADO",
-            "text": "Hewlett Packard Enterprise (HPE) Stock Trades Up, Here Is Why"
+            "text": "NetApp (NTAP) Stock Trades Up, Here Is Why"
         }
     ]
 }
