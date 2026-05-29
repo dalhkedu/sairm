@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-05-29 08:02 UTC",
+        "last_updated": "2026-05-29 12:17 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.25,
-            "change": "+3.33%"
+            "change": "-1.32%"
         },
         {
             "symbol": "AMD",
             "price": 518.09,
-            "change": "+1.51%"
+            "change": "-2.38%"
         },
         {
             "symbol": "MSFT",
             "price": 426.99,
-            "change": "+3.35%"
+            "change": "+2.58%"
         },
         {
             "symbol": "CEG",
             "price": 286.31,
-            "change": "+0.27%"
+            "change": "-1.57%"
         },
         {
             "symbol": "VST",
             "price": 160.28,
-            "change": "+0.09%"
+            "change": "-3.13%"
         }
     ],
     "dashboard_metrics": {
@@ -37,45 +37,45 @@
         "energy_price": 128.4,
         "cer_history": [
             0.5,
-            0.51,
             0.5,
-            0.51,
             0.5,
-            0.49,
-            0.49,
             0.5,
-            0.49,
-            0.49,
-            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            24.2,
-            23.89,
-            23.97,
-            24.43,
-            24.37,
-            24.43,
-            24.54,
-            24.63,
-            24.97,
-            24.92,
-            25.32,
-            25.14
+            25.01,
+            25.11,
+            24.75,
+            24.85,
+            25.22,
+            25.17,
+            25.45,
+            25.66,
+            25.87,
+            25.6,
+            25.61,
+            25.18
         ],
         "hsd_history_software": [
-            10.26,
-            10.46,
-            10.35,
-            10.41,
+            10.48,
+            10.49,
+            10.29,
+            10.42,
+            10.36,
             10.31,
             10.14,
-            10.25,
-            10.27,
-            10.17,
-            10.32,
-            10.25,
-            10.14
+            9.97,
+            9.96,
+            10.04,
+            10.21,
+            10.13
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:29",
+            "time": "11:32",
             "tag": "MERCADO",
-            "text": "Amazon.com, Inc. $AMZN Shares Sold by Bronte Capital Management Pty Ltd."
+            "text": "NetApp soars as Wall Street is impressed with Q4 results, guidance (NTAP:NASDAQ)"
         },
         {
-            "time": "07:28",
+            "time": "11:30",
             "tag": "MERCADO",
-            "text": "Cary Street Partners Financial LLC Buys 7,995 Shares of Leidos Holdings, Inc. $LDOS"
+            "text": "S&P 500 Futures Climb in Premarket Trading; Dell Technologies, NetApp Lead"
         },
         {
-            "time": "07:27",
+            "time": "11:19",
             "tag": "MERCADO",
-            "text": "Bokf Na Sells 46,119 Shares of Amazon.com, Inc. $AMZN"
+            "text": "United Super Pty Ltd in its capacity as Trustee for the Construction & Building Unions Superannuation Fund Buys New Stake in Expedia Group, Inc. $EXPE"
         },
         {
-            "time": "07:25",
+            "time": "11:19",
             "tag": "MERCADO",
-            "text": "BP, American Atomics, NextEra Energy: Iran Conflict Highlights the Importance of a Diversified Energy Mix for the Future"
+            "text": "United Super Pty Ltd in its capacity as Trustee for the Construction & Building Unions Superannuation Fund Invests $66.36 Million in Cisco Systems, Inc. $CSCO"
         },
         {
-            "time": "07:22",
+            "time": "11:18",
             "tag": "MERCADO",
-            "text": "Intuit Inc. (NASDAQ:INTU) Receives Average Recommendation of \"Moderate Buy\" from Analysts"
+            "text": "United Super Pty Ltd in its capacity as Trustee for the Construction & Building Unions Superannuation Fund Raises Holdings in F5, Inc. $FFIV"
         }
     ]
 }
