@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-05-29 19:32 UTC",
+        "last_updated": "2026-05-29 21:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 216.91,
-            "change": "-0.59%"
+            "price": 211.14,
+            "change": "-1.29%"
         },
         {
             "symbol": "AMD",
-            "price": 506.85,
-            "change": "+2.22%"
+            "price": 516.1,
+            "change": "+3.44%"
         },
         {
             "symbol": "MSFT",
-            "price": 443.43,
-            "change": "+0.67%"
+            "price": 450.24,
+            "change": "-3.2%"
         },
         {
             "symbol": "CEG",
-            "price": 287.23,
-            "change": "-2.08%"
+            "price": 287.75,
+            "change": "+1.73%"
         },
         {
             "symbol": "VST",
-            "price": 159.71,
-            "change": "+2.75%"
+            "price": 160.23,
+            "change": "-1.03%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
-        "rci_current": 0.22,
+        "cer_current": 0.41,
+        "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
-            0.48,
             0.49,
             0.49,
-            0.48,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
+            0.49,
+            0.5,
+            0.49,
+            0.5,
             0.49,
             0.49,
+            0.5,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            23.4,
-            23.73,
-            24.12,
-            23.93,
-            24.31,
-            24.15,
-            24.37,
-            24.79,
-            24.51,
-            24.21,
-            24.3,
-            24.74
+            25.09,
+            24.77,
+            25.03,
+            25.52,
+            25.48,
+            25.97,
+            26.12,
+            25.64,
+            25.64,
+            25.84,
+            25.83,
+            25.36
         ],
         "hsd_history_software": [
-            10.58,
-            10.49,
-            10.39,
-            10.25,
+            10.2,
+            10.08,
+            10.28,
+            10.32,
+            10.53,
+            10.46,
+            10.29,
             10.4,
-            10.42,
-            10.4,
-            10.35,
-            10.25,
-            10.11,
-            10.04,
-            10.11
+            10.46,
+            10.3,
+            10.24,
+            10.05
         ],
         "rci_data": [
             85.0,
-            21.691
+            21.114
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:39",
+            "time": "20:59",
             "tag": "MERCADO",
-            "text": "Arm Holdings PLC Stock (ARM) Moved Up by 4.84% on May 29: Drivers Behind the Movement"
+            "text": "Garmin Ltd stock (US3687361044): Shares trade near USD 238 ahead of ex-dividend date and valuation focus"
         },
         {
-            "time": "18:38",
+            "time": "20:56",
             "tag": "MERCADO",
-            "text": "DTE-backed battery startup launches with $2M raise to address data center demand"
+            "text": "Micron's Spectacular Rally May Not Have Happened If Not For McDonalds Potato Supplier"
         },
         {
-            "time": "18:35",
-            "tag": "MERCADO",
-            "text": "Cisco Systems stock hits all-time high of $120.81"
+            "time": "20:54",
+            "tag": "AI",
+            "text": "OpenAI said to have held talks with Citigroup, JPMorgan for IPO preparations (OPENAI:Private)"
         },
         {
-            "time": "18:31",
+            "time": "20:33",
             "tag": "MERCADO",
-            "text": "Autohome (NYSE:ATHM) Decline Puts Valuation Story Under Watch"
+            "text": "AT&T to post Q2 2026 results and host webcast July 22"
         },
         {
-            "time": "18:22",
+            "time": "20:14",
             "tag": "MERCADO",
-            "text": "CrowdStrike Named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Endpoint Protection for Seventh Consecutive Time"
+            "text": "Hewlett Packard Enterprise (HPE) Stock Trades Up, Here Is Why"
         }
     ]
 }
