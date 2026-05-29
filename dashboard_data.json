@@ -1,46 +1,46 @@
 {
     "metadata": {
-        "last_updated": "2026-05-29 03:56 UTC",
+        "last_updated": "2026-05-29 08:02 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.25,
-            "change": "-1.96%"
+            "change": "+3.33%"
         },
         {
             "symbol": "AMD",
             "price": 518.09,
-            "change": "+2.69%"
+            "change": "+1.51%"
         },
         {
             "symbol": "MSFT",
             "price": 426.99,
-            "change": "-0.91%"
+            "change": "+3.35%"
         },
         {
             "symbol": "CEG",
             "price": 286.31,
-            "change": "+2.38%"
+            "change": "+0.27%"
         },
         {
             "symbol": "VST",
             "price": 160.28,
-            "change": "-0.8%"
+            "change": "+0.09%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.43,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
+            0.5,
+            0.51,
+            0.5,
+            0.51,
+            0.5,
             0.49,
             0.49,
             0.5,
@@ -50,32 +50,32 @@
             0.49
         ],
         "hsd_history_hardware": [
-            25.8,
-            25.83,
-            25.79,
-            25.59,
-            25.23,
-            25.17,
-            25.5,
-            25.4,
-            25.0,
-            24.53,
-            24.95,
-            25.11
+            24.2,
+            23.89,
+            23.97,
+            24.43,
+            24.37,
+            24.43,
+            24.54,
+            24.63,
+            24.97,
+            24.92,
+            25.32,
+            25.14
         ],
         "hsd_history_software": [
-            10.37,
-            10.23,
-            10.38,
-            10.28,
             10.26,
-            10.37,
-            10.42,
-            10.38,
-            10.38,
+            10.46,
+            10.35,
+            10.41,
+            10.31,
+            10.14,
             10.25,
-            10.07,
-            10.09
+            10.27,
+            10.17,
+            10.32,
+            10.25,
+            10.14
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:40",
+            "time": "07:29",
             "tag": "MERCADO",
-            "text": "Why Serve Robotics (SERV) Is Up 7.7% After Diligent Deal And Healthcare Expansion Pivot"
+            "text": "Amazon.com, Inc. $AMZN Shares Sold by Bronte Capital Management Pty Ltd."
         },
         {
-            "time": "02:37",
+            "time": "07:28",
             "tag": "MERCADO",
-            "text": "Copart Enters Online Wholesale Used-Car Market"
+            "text": "Cary Street Partners Financial LLC Buys 7,995 Shares of Leidos Holdings, Inc. $LDOS"
         },
         {
-            "time": "02:20",
+            "time": "07:27",
             "tag": "MERCADO",
-            "text": "Teledyne Expands Sensing Portfolio As New Launches Test Valuation Premium"
+            "text": "Bokf Na Sells 46,119 Shares of Amazon.com, Inc. $AMZN"
         },
         {
-            "time": "02:15",
-            "tag": "AI",
-            "text": "Starbucks to weigh AI usage into account in tech workers' bonuses"
+            "time": "07:25",
+            "tag": "MERCADO",
+            "text": "BP, American Atomics, NextEra Energy: Iran Conflict Highlights the Importance of a Diversified Energy Mix for the Future"
         },
         {
-            "time": "02:04",
+            "time": "07:22",
             "tag": "MERCADO",
-            "text": "Quantum Computing (NASDAQ: QUBT) CEO reports 10.33% ownership stake"
+            "text": "Intuit Inc. (NASDAQ:INTU) Receives Average Recommendation of \"Moderate Buy\" from Analysts"
         }
     ]
 }
