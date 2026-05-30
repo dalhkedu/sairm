@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-30 09:20 UTC",
+        "last_updated": "2026-05-30 11:23 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 211.14,
-            "change": "+1.91%"
+            "change": "-0.91%"
         },
         {
             "symbol": "AMD",
             "price": 516.1,
-            "change": "-3.35%"
+            "change": "+3.15%"
         },
         {
             "symbol": "MSFT",
             "price": 450.24,
-            "change": "+1.5%"
+            "change": "-3.15%"
         },
         {
             "symbol": "CEG",
             "price": 287.75,
-            "change": "+3.39%"
+            "change": "-1.48%"
         },
         {
             "symbol": "VST",
             "price": 160.23,
-            "change": "-1.23%"
+            "change": "-2.68%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.61,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.52,
-            0.51,
-            0.51,
-            0.51,
+            0.52,
             0.51,
             0.5,
             0.51,
             0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.49
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.04,
-            25.87,
-            25.75,
-            25.28,
-            25.49,
-            25.28,
-            25.16,
-            24.75,
-            24.72,
-            24.93,
-            24.95,
-            25.37
+            24.32,
+            24.2,
+            24.34,
+            24.51,
+            24.73,
+            25.03,
+            24.63,
+            24.28,
+            24.01,
+            24.38,
+            24.74,
+            25.05
         ],
         "hsd_history_software": [
-            9.28,
-            9.28,
-            9.36,
-            9.49,
-            9.31,
-            9.35,
-            9.49,
-            9.5,
-            9.62,
-            9.74,
-            9.88,
-            9.84
+            10.19,
+            10.09,
+            10.04,
+            9.94,
+            9.76,
+            9.79,
+            9.7,
+            9.78,
+            9.89,
+            9.98,
+            10.02,
+            9.9
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:36",
+            "time": "10:33",
             "tag": "MERCADO",
-            "text": "Forsta AP Fonden Sells 294,600 Shares of Verizon Communications Inc. $VZ"
+            "text": "National Pension Service Has $96.88 Million Stock Position in Fortinet, Inc. $FTNT"
         },
         {
-            "time": "08:36",
+            "time": "10:33",
             "tag": "MERCADO",
-            "text": "Cisco Systems, Inc. $CSCO Holdings Decreased by Forsta AP Fonden"
+            "text": "National Pension Service Boosts Stake in Equinix, Inc. $EQIX"
         },
         {
-            "time": "08:36",
+            "time": "10:33",
             "tag": "MERCADO",
-            "text": "Forsta AP Fonden Sells 4,100 Shares of Salesforce Inc. $CRM"
+            "text": "National Pension Service Lowers Position in PayPal Holdings, Inc. $PYPL"
         },
         {
-            "time": "08:34",
+            "time": "10:33",
             "tag": "MERCADO",
-            "text": "Forsta AP Fonden Sells 3,600 Shares of Analog Devices, Inc. $ADI"
+            "text": "National Pension Service Purchases 8,051 Shares of Cadence Design Systems, Inc. $CDNS"
         },
         {
-            "time": "08:34",
+            "time": "10:29",
             "tag": "MERCADO",
-            "text": "Forsta AP Fonden Cuts Stake in Western Digital Corporation $WDC"
+            "text": "National Pension Service Has $179.49 Million Stock Position in Motorola Solutions, Inc. $MSI"
         }
     ]
 }
