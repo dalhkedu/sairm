@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-30 11:23 UTC",
+        "last_updated": "2026-05-30 13:45 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 211.14,
-            "change": "-0.91%"
+            "change": "-1.07%"
         },
         {
             "symbol": "AMD",
             "price": 516.1,
-            "change": "+3.15%"
+            "change": "-0.33%"
         },
         {
             "symbol": "MSFT",
             "price": 450.24,
-            "change": "-3.15%"
+            "change": "+0.78%"
         },
         {
             "symbol": "CEG",
             "price": 287.75,
-            "change": "-1.48%"
+            "change": "+1.09%"
         },
         {
             "symbol": "VST",
             "price": 160.23,
-            "change": "-2.68%"
+            "change": "-1.98%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.44,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.5,
             0.51,
             0.5,
             0.51,
             0.51,
-            0.51,
-            0.52,
-            0.51,
+            0.5,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.32,
-            24.2,
-            24.34,
-            24.51,
-            24.73,
-            25.03,
-            24.63,
-            24.28,
-            24.01,
-            24.38,
-            24.74,
-            25.05
+            24.06,
+            24.55,
+            24.9,
+            25.38,
+            25.44,
+            25.42,
+            25.31,
+            25.41,
+            25.06,
+            25.37,
+            25.2,
+            25.45
         ],
         "hsd_history_software": [
-            10.19,
-            10.09,
-            10.04,
-            9.94,
-            9.76,
-            9.79,
+            9.18,
+            9.31,
+            9.33,
+            9.5,
+            9.58,
             9.7,
-            9.78,
-            9.89,
-            9.98,
-            10.02,
-            9.9
+            9.83,
+            9.87,
+            9.99,
+            10.17,
+            10.03,
+            10.12
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:33",
+            "time": "12:30",
             "tag": "MERCADO",
-            "text": "National Pension Service Has $96.88 Million Stock Position in Fortinet, Inc. $FTNT"
+            "text": "The Week Ahead (June 1-7): Nvidia Kicks Off GTC; Regulators Review Unitree IPO"
         },
         {
-            "time": "10:33",
-            "tag": "MERCADO",
-            "text": "National Pension Service Boosts Stake in Equinix, Inc. $EQIX"
+            "time": "12:09",
+            "tag": "AI",
+            "text": "Smart Investor: Best AI Stocks, What\u2019s Next for Bonds, and Governance Risks for SpaceX IPO Buyers"
         },
         {
-            "time": "10:33",
+            "time": "11:46",
             "tag": "MERCADO",
-            "text": "National Pension Service Lowers Position in PayPal Holdings, Inc. $PYPL"
+            "text": "WASHINGTON TRUST Co Has $3.70 Million Stock Holdings in PayPal Holdings, Inc. $PYPL"
         },
         {
-            "time": "10:33",
+            "time": "11:39",
             "tag": "MERCADO",
-            "text": "National Pension Service Purchases 8,051 Shares of Cadence Design Systems, Inc. $CDNS"
+            "text": "Iridium Communications Drops 5.5% Amid Sector-Wide Selling"
         },
         {
-            "time": "10:29",
+            "time": "11:37",
             "tag": "MERCADO",
-            "text": "National Pension Service Has $179.49 Million Stock Position in Motorola Solutions, Inc. $MSI"
+            "text": "Analysts\u2019 Top Technology Picks: F5, Inc. (FFIV), Elastic (ESTC)"
         }
     ]
 }
