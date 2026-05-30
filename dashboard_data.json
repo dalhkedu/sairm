@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-30 19:21 UTC",
+        "last_updated": "2026-05-30 21:01 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 211.14,
-            "change": "-1.93%"
+            "change": "-3.09%"
         },
         {
             "symbol": "AMD",
             "price": 516.1,
-            "change": "+0.26%"
+            "change": "-0.39%"
         },
         {
             "symbol": "MSFT",
             "price": 450.24,
-            "change": "+0.14%"
+            "change": "-3.38%"
         },
         {
             "symbol": "CEG",
             "price": 287.75,
-            "change": "+2.94%"
+            "change": "+0.1%"
         },
         {
             "symbol": "VST",
             "price": 160.23,
-            "change": "+2.71%"
+            "change": "-1.1%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.42,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
+            0.5,
+            0.51,
             0.51,
             0.52,
             0.51,
             0.52,
             0.52,
-            0.52,
-            0.52,
-            0.52,
+            0.51,
+            0.5,
             0.52,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            23.33,
-            23.78,
-            23.64,
-            23.88,
-            23.81,
-            23.97,
-            23.89,
-            23.8,
-            24.1,
-            24.36,
-            24.76,
-            25.05
+            25.74,
+            25.93,
+            26.01,
+            25.66,
+            25.51,
+            25.07,
+            25.25,
+            25.31,
+            25.24,
+            24.95,
+            25.05,
+            25.35
         ],
         "hsd_history_software": [
-            10.15,
-            9.99,
-            10.12,
-            10.02,
-            9.87,
-            9.95,
-            10.07,
-            9.9,
-            9.92,
-            9.94,
+            9.81,
+            9.85,
+            9.79,
+            9.89,
             9.78,
-            9.81
+            9.86,
+            9.73,
+            9.77,
+            9.75,
+            9.94,
+            10.08,
+            10.18
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:31",
+            "time": "19:35",
             "tag": "MERCADO",
-            "text": "Nordson Corporation stock (US6556631025): shares steady as investors digest recent earnings and insi"
+            "text": "Babcock & Wilcox Enterprises, Inc. (BW): Leopold Aschenbrenner Likes This Energy Stock"
         },
         {
-            "time": "18:19",
-            "tag": "AI",
-            "text": "Industrial Growth And LiDAR Opportunity Expand Analog Devices AI Story"
-        },
-        {
-            "time": "18:09",
-            "tag": "RESULTADOS",
-            "text": "XPeng Inc. (XPEV) Q1 2026 Earnings Call Transcript Summary"
-        },
-        {
-            "time": "17:32",
+            "time": "19:21",
             "tag": "MERCADO",
-            "text": "Vodafone Group plc stock (GB00BH4HKS39): London shares little changed as Ireland unit deal progresse"
+            "text": "Not everyone has ditched their landline \u2014 and AT&T is about to change things for those who haven't"
         },
         {
-            "time": "17:21",
+            "time": "19:09",
             "tag": "MERCADO",
-            "text": "AT&T, T-Mobile, And Verizon Joint Venture Opens New Doors For AST SpaceMobile (NASDAQ: ASTS) Stock"
+            "text": "Not everyone has ditched their landline \u2014 and AT&T is about to change things for those who haven't"
+        },
+        {
+            "time": "19:07",
+            "tag": "MERCADO",
+            "text": "18 Stocks on Jim Cramer\u2019s Radar: Strategy, GE Aerospace, and Best Buy"
+        },
+        {
+            "time": "19:02",
+            "tag": "MERCADO",
+            "text": "BitMine Immersion Turns Into Ethereum Proxy With MAVAN And Index Catalyst"
         }
     ]
 }
