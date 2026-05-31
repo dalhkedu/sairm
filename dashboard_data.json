@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-31 08:49 UTC",
+        "last_updated": "2026-05-31 11:00 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 211.14,
-            "change": "-1.53%"
+            "change": "-1.02%"
         },
         {
             "symbol": "AMD",
             "price": 516.1,
-            "change": "+2.99%"
+            "change": "+3.0%"
         },
         {
             "symbol": "MSFT",
             "price": 450.24,
-            "change": "+2.02%"
+            "change": "-1.29%"
         },
         {
             "symbol": "CEG",
             "price": 287.75,
-            "change": "-0.01%"
+            "change": "-0.52%"
         },
         {
             "symbol": "VST",
             "price": 160.23,
-            "change": "+3.44%"
+            "change": "-2.83%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.61,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.5,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.12,
-            24.64,
-            25.13,
-            25.04,
-            25.33,
-            25.62,
-            25.48,
-            25.1,
-            25.15,
+            24.48,
+            24.59,
+            24.5,
+            24.96,
+            24.83,
+            24.8,
+            24.52,
+            24.99,
+            25.43,
+            24.99,
             24.76,
-            25.06,
-            24.61
+            24.66
         ],
         "hsd_history_software": [
-            11.06,
-            10.92,
-            10.87,
-            10.67,
-            10.55,
+            10.76,
+            10.73,
+            10.7,
+            10.59,
+            10.46,
             10.37,
-            10.4,
-            10.25,
-            10.05,
-            10.06,
-            10.09,
-            9.96
+            10.26,
+            10.37,
+            10.27,
+            10.14,
+            10.03,
+            9.94
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:07",
+            "time": "10:06",
             "tag": "MERCADO",
-            "text": "Jabil, Inc. $JBL Stock Position Lifted by Geode Capital Management LLC"
+            "text": "Norges Bank Takes $942.54 Million Position in Motorola Solutions, Inc. $MSI"
         },
         {
-            "time": "08:04",
+            "time": "10:06",
             "tag": "MERCADO",
-            "text": "Geode Capital Management LLC Increases Stock Position in First Solar, Inc. $FSLR"
+            "text": "Norges Bank Invests $831.37 Million in AMETEK, Inc. $AME"
         },
         {
-            "time": "07:54",
+            "time": "10:03",
             "tag": "MERCADO",
-            "text": "Flputnam Investment Management Co. Sells 960 Shares of Equinix, Inc. $EQIX"
+            "text": "Norges Bank Invests $788.73 Million in Western Digital Corporation $WDC"
         },
         {
-            "time": "07:35",
+            "time": "10:02",
             "tag": "MERCADO",
-            "text": "Generali Asset Management SPA SGR Sells 2,455 Shares of Amazon.com, Inc. $AMZN"
+            "text": "Norges Bank Invests $1.35 Billion in Cadence Design Systems, Inc. $CDNS"
         },
         {
-            "time": "07:35",
-            "tag": "MERCADO",
-            "text": "FSB Premier Wealth Management Inc. Boosts Holdings in Amazon.com, Inc. $AMZN"
+            "time": "10:02",
+            "tag": "AI",
+            "text": "Wall Street Hedging Surges To Highs As Nvidia (NASDAQ: NVDA), Oracle (NYSE: ORCL) And Amazon (NASDAQ: AMZN) Pile Billions Into AI"
         }
     ]
 }
