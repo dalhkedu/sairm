@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-31 00:10 UTC",
+        "last_updated": "2026-05-31 05:20 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 211.14,
-            "change": "-3.14%"
+            "change": "-1.15%"
         },
         {
             "symbol": "AMD",
             "price": 516.1,
-            "change": "+3.17%"
+            "change": "-1.32%"
         },
         {
             "symbol": "MSFT",
             "price": 450.24,
-            "change": "+1.27%"
+            "change": "+2.82%"
         },
         {
             "symbol": "CEG",
             "price": 287.75,
-            "change": "-1.59%"
+            "change": "+0.16%"
         },
         {
             "symbol": "VST",
             "price": 160.23,
-            "change": "-1.33%"
+            "change": "-0.8%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.63,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.48,
             0.48,
             0.49,
             0.49,
             0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.51,
-            0.51
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.48,
-            24.66,
-            24.71,
+            25.41,
+            25.09,
+            25.01,
+            24.57,
+            24.8,
+            25.1,
             25.11,
-            24.83,
+            25.28,
             24.91,
-            24.98,
-            24.78,
-            24.35,
-            24.54,
-            24.81,
-            24.84
+            24.69,
+            24.91,
+            24.68
         ],
         "hsd_history_software": [
-            10.54,
-            10.5,
-            10.67,
-            10.48,
-            10.37,
-            10.52,
-            10.53,
-            10.46,
-            10.57,
-            10.37,
-            10.18,
-            10.13
+            10.19,
+            10.11,
+            10.05,
+            9.89,
+            9.85,
+            10.04,
+            10.15,
+            10.21,
+            10.14,
+            10.01,
+            9.95,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "23:14",
+            "time": "03:26",
             "tag": "RESULTADOS",
-            "text": "NetApp, Inc. 2026 Q4 - Results - Earnings Call Presentation (NASDAQ:NTAP) 2026-05-30"
+            "text": "Hewlett Packard Enterprise (HPE) Q1 Earnings: What To Expect"
         },
         {
-            "time": "22:40",
+            "time": "03:09",
             "tag": "MERCADO",
-            "text": "Uber Freight Targets European Market For 10X Expansion Push By 2028"
+            "text": "Reddit, Inc. Class A Trade Ideas \u2014 BX:RDDT"
         },
         {
-            "time": "19:39",
+            "time": "03:09",
+            "tag": "MERCADO",
+            "text": "Hartford Quality Value ETF Holdings"
+        },
+        {
+            "time": "02:23",
+            "tag": "MERCADO",
+            "text": "Is ICE\u2019s Record Energy OI and GPU Futures Push Altering The Investment Case For Intercontinental Exchange (ICE)?"
+        },
+        {
+            "time": "02:23",
             "tag": "AI",
-            "text": "Is Hut 8 (HUT) Using Louisiana Water Upgrades to Cement Its AI Infrastructure Pivot?"
-        },
-        {
-            "time": "19:35",
-            "tag": "MERCADO",
-            "text": "Babcock & Wilcox Enterprises, Inc. (BW): Leopold Aschenbrenner Likes This Energy Stock"
-        },
-        {
-            "time": "19:21",
-            "tag": "MERCADO",
-            "text": "Not everyone has ditched their landline \u2014 and AT&T is about to change things for those who haven't"
+            "text": "Western Digital\u2019s Post Quantum Drives Put AI Storage Story In Focus"
         }
     ]
 }
