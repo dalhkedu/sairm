@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-31 21:02 UTC",
+        "last_updated": "2026-05-31 23:02 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 211.14,
-            "change": "-2.8%"
+            "change": "+0.26%"
         },
         {
             "symbol": "AMD",
             "price": 516.1,
-            "change": "-2.46%"
+            "change": "-1.25%"
         },
         {
             "symbol": "MSFT",
             "price": 450.24,
-            "change": "-2.09%"
+            "change": "+0.78%"
         },
         {
             "symbol": "CEG",
             "price": 287.75,
-            "change": "+0.92%"
+            "change": "-1.11%"
         },
         {
             "symbol": "VST",
             "price": 160.23,
-            "change": "+0.48%"
+            "change": "-2.41%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.56,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
             0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.49
+            0.51
         ],
         "hsd_history_hardware": [
-            24.36,
-            24.06,
-            23.65,
-            24.13,
-            24.59,
-            24.77,
-            24.78,
-            24.62,
-            24.61,
-            24.54,
-            24.89,
-            24.94
+            26.26,
+            26.19,
+            26.01,
+            25.99,
+            26.04,
+            25.84,
+            26.06,
+            25.68,
+            25.44,
+            25.62,
+            25.42,
+            25.13
         ],
         "hsd_history_software": [
-            9.15,
-            9.25,
-            9.4,
-            9.54,
-            9.41,
-            9.39,
-            9.5,
-            9.69,
-            9.68,
-            9.86,
-            10.04,
-            9.86
+            10.59,
+            10.5,
+            10.37,
+            10.55,
+            10.4,
+            10.38,
+            10.26,
+            10.07,
+            9.89,
+            9.85,
+            9.99,
+            9.98
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:29",
+            "time": "22:40",
             "tag": "MERCADO",
-            "text": "Crown Castle Inc. stock (US22822V1017): shares steady as investors await next catalysts"
+            "text": "Is Angi Inc. a Value Trap or a Turnaround Play"
         },
         {
-            "time": "19:15",
+            "time": "22:06",
             "tag": "MERCADO",
-            "text": "Industrial-Led Beat And Higher Guidance Could Be A Game Changer For Analog Devices (ADI)"
+            "text": "Western Digital Corporation (WDC): Leopold Aschenbrenner Is Selling This Stock"
         },
         {
-            "time": "18:38",
-            "tag": "AI",
-            "text": "NetApp (NTAP) Is Up 25.1% After AI-Driven FY26 Results and FY27 Outlook Upgrade - Has The Bull Case Changed?"
-        },
-        {
-            "time": "18:33",
+            "time": "22:06",
             "tag": "MERCADO",
-            "text": "How Did Cristiano Amon Go From A Young Engineer To Qualcomm CEO? His Advice Starts With Knowing What You"
+            "text": "Seagate Technology Holdings plc (STX): Leopold Aschenbrenner Sells Stake"
         },
         {
-            "time": "17:40",
-            "tag": "AI",
-            "text": "VIAVI Solutions (VIAV): A $500 Million Stock Offering, Debt Payoff, and a New AI Security Testing Tool"
+            "time": "22:02",
+            "tag": "MERCADO",
+            "text": "Electronic Arts Inc stock (US2855121099): shares steady ahead of June showcase and live-service upda"
+        },
+        {
+            "time": "22:02",
+            "tag": "MERCADO",
+            "text": "Seagate Technology Holdings plc (STX): Leopold Aschenbrenner Sells Stake"
         }
     ]
 }
