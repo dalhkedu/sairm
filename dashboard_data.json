@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-31 05:20 UTC",
+        "last_updated": "2026-05-31 08:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 211.14,
-            "change": "-1.15%"
+            "change": "-1.53%"
         },
         {
             "symbol": "AMD",
             "price": 516.1,
-            "change": "-1.32%"
+            "change": "+2.99%"
         },
         {
             "symbol": "MSFT",
             "price": 450.24,
-            "change": "+2.82%"
+            "change": "+2.02%"
         },
         {
             "symbol": "CEG",
             "price": 287.75,
-            "change": "+0.16%"
+            "change": "-0.01%"
         },
         {
             "symbol": "VST",
             "price": 160.23,
-            "change": "-0.8%"
+            "change": "+3.44%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.66,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49
+            0.53,
+            0.53,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.41,
-            25.09,
-            25.01,
-            24.57,
-            24.8,
+            25.12,
+            24.64,
+            25.13,
+            25.04,
+            25.33,
+            25.62,
+            25.48,
             25.1,
-            25.11,
-            25.28,
-            24.91,
-            24.69,
-            24.91,
-            24.68
+            25.15,
+            24.76,
+            25.06,
+            24.61
         ],
         "hsd_history_software": [
-            10.19,
-            10.11,
+            11.06,
+            10.92,
+            10.87,
+            10.67,
+            10.55,
+            10.37,
+            10.4,
+            10.25,
             10.05,
-            9.89,
-            9.85,
-            10.04,
-            10.15,
-            10.21,
-            10.14,
-            10.01,
-            9.95,
-            10.05
+            10.06,
+            10.09,
+            9.96
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "03:26",
-            "tag": "RESULTADOS",
-            "text": "Hewlett Packard Enterprise (HPE) Q1 Earnings: What To Expect"
-        },
-        {
-            "time": "03:09",
+            "time": "08:07",
             "tag": "MERCADO",
-            "text": "Reddit, Inc. Class A Trade Ideas \u2014 BX:RDDT"
+            "text": "Jabil, Inc. $JBL Stock Position Lifted by Geode Capital Management LLC"
         },
         {
-            "time": "03:09",
+            "time": "08:04",
             "tag": "MERCADO",
-            "text": "Hartford Quality Value ETF Holdings"
+            "text": "Geode Capital Management LLC Increases Stock Position in First Solar, Inc. $FSLR"
         },
         {
-            "time": "02:23",
+            "time": "07:54",
             "tag": "MERCADO",
-            "text": "Is ICE\u2019s Record Energy OI and GPU Futures Push Altering The Investment Case For Intercontinental Exchange (ICE)?"
+            "text": "Flputnam Investment Management Co. Sells 960 Shares of Equinix, Inc. $EQIX"
         },
         {
-            "time": "02:23",
-            "tag": "AI",
-            "text": "Western Digital\u2019s Post Quantum Drives Put AI Storage Story In Focus"
+            "time": "07:35",
+            "tag": "MERCADO",
+            "text": "Generali Asset Management SPA SGR Sells 2,455 Shares of Amazon.com, Inc. $AMZN"
+        },
+        {
+            "time": "07:35",
+            "tag": "MERCADO",
+            "text": "FSB Premier Wealth Management Inc. Boosts Holdings in Amazon.com, Inc. $AMZN"
         }
     ]
 }
