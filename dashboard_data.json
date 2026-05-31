@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-05-31 11:00 UTC",
+        "last_updated": "2026-05-31 13:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 211.14,
-            "change": "-1.02%"
+            "change": "+0.51%"
         },
         {
             "symbol": "AMD",
             "price": 516.1,
-            "change": "+3.0%"
+            "change": "-2.32%"
         },
         {
             "symbol": "MSFT",
             "price": 450.24,
-            "change": "-1.29%"
+            "change": "-0.57%"
         },
         {
             "symbol": "CEG",
             "price": 287.75,
-            "change": "-0.52%"
+            "change": "-1.67%"
         },
         {
             "symbol": "VST",
             "price": 160.23,
-            "change": "-2.83%"
+            "change": "+2.19%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.47,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
+            0.48,
             0.48,
             0.48,
             0.49,
+            0.48,
             0.49,
-            0.5,
             0.49,
-            0.5
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.48,
-            24.59,
-            24.5,
-            24.96,
-            24.83,
-            24.8,
-            24.52,
-            24.99,
-            25.43,
-            24.99,
-            24.76,
-            24.66
+            26.02,
+            26.08,
+            26.36,
+            26.35,
+            26.22,
+            25.76,
+            25.86,
+            26.26,
+            25.84,
+            25.82,
+            25.72,
+            25.49
         ],
         "hsd_history_software": [
-            10.76,
-            10.73,
-            10.7,
-            10.59,
-            10.46,
-            10.37,
-            10.26,
-            10.37,
-            10.27,
-            10.14,
-            10.03,
-            9.94
+            9.88,
+            9.73,
+            9.71,
+            9.79,
+            9.76,
+            9.62,
+            9.68,
+            9.76,
+            9.69,
+            9.69,
+            9.66,
+            9.85
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:06",
-            "tag": "MERCADO",
-            "text": "Norges Bank Takes $942.54 Million Position in Motorola Solutions, Inc. $MSI"
-        },
-        {
-            "time": "10:06",
-            "tag": "MERCADO",
-            "text": "Norges Bank Invests $831.37 Million in AMETEK, Inc. $AME"
-        },
-        {
-            "time": "10:03",
-            "tag": "MERCADO",
-            "text": "Norges Bank Invests $788.73 Million in Western Digital Corporation $WDC"
-        },
-        {
-            "time": "10:02",
-            "tag": "MERCADO",
-            "text": "Norges Bank Invests $1.35 Billion in Cadence Design Systems, Inc. $CDNS"
-        },
-        {
-            "time": "10:02",
+            "time": "12:09",
             "tag": "AI",
-            "text": "Wall Street Hedging Surges To Highs As Nvidia (NASDAQ: NVDA), Oracle (NYSE: ORCL) And Amazon (NASDAQ: AMZN) Pile Billions Into AI"
+            "text": "SoundHound AI's Stock Price Is Down 29% in the Last 6 Months -- Here's Why It Still Could Be a Long-Term Buy"
+        },
+        {
+            "time": "12:09",
+            "tag": "MERCADO",
+            "text": "A Look At Infleqtion (INFQ) Valuation After Oxford Quantum Innovation Centre Expansion"
+        },
+        {
+            "time": "12:08",
+            "tag": "MERCADO",
+            "text": "Qualcomm Incorporated $QCOM Shares Purchased by Verity & Verity LLC"
+        },
+        {
+            "time": "12:03",
+            "tag": "AI",
+            "text": "Western Digital Emerges as a New AI Storage Winner Alongside Micron"
+        },
+        {
+            "time": "11:34",
+            "tag": "MERCADO",
+            "text": "Amazon.com (AMZN): The Best Data Center Stock with Huge Upside Potential"
         }
     ]
 }
