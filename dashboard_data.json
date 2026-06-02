@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-02 21:50 UTC",
+        "last_updated": "2026-06-02 23:48 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 222.82,
-            "change": "-2.3%"
+            "change": "+0.89%"
         },
         {
             "symbol": "AMD",
             "price": 521.54,
-            "change": "-3.07%"
+            "change": "+0.6%"
         },
         {
             "symbol": "MSFT",
             "price": 441.31,
-            "change": "-1.59%"
+            "change": "+2.55%"
         },
         {
             "symbol": "CEG",
-            "price": NaN,
-            "change": "+0.8%"
+            "price": 272.65,
+            "change": "+1.39%"
         },
         {
             "symbol": "VST",
             "price": 157.97,
-            "change": "-0.69%"
+            "change": "+0.86%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.53,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.53,
+            0.52,
+            0.51,
+            0.51,
             0.5,
             0.5,
             0.51,
+            0.5,
             0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.51
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.26,
-            24.45,
-            24.37,
-            24.73,
-            25.15,
-            24.87,
-            24.98,
-            25.05,
-            24.87,
-            25.11,
-            25.56,
-            25.14
+            23.5,
+            23.43,
+            23.87,
+            23.74,
+            24.14,
+            24.03,
+            24.51,
+            24.38,
+            24.62,
+            24.77,
+            24.89,
+            24.99
         ],
         "hsd_history_software": [
-            10.68,
-            10.65,
-            10.51,
-            10.46,
-            10.54,
-            10.38,
-            10.18,
-            10.1,
-            9.98,
+            10.4,
+            10.37,
+            10.32,
+            10.19,
+            10.05,
             10.09,
-            10.23,
-            10.09
+            9.94,
+            10.14,
+            10.05,
+            10.14,
+            10.05,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:58",
+            "time": "23:07",
             "tag": "MERCADO",
-            "text": "Texas Instruments (TXN) Appoints Julie Knecht as New CFO"
+            "text": "Adobe Inc. stock underperforms Tuesday when compared to competitors"
         },
         {
-            "time": "20:52",
-            "tag": "AI",
-            "text": "\u3014U.S. Equities\u3015Dow Inc. closed at a record high for the fifth consecutive day, rising $228 on AI-related optimism (2nd) \u2606 Revised"
+            "time": "23:06",
+            "tag": "MERCADO",
+            "text": "Insider Selling: Axon Enterprise (NASDAQ:AXON) Director Sells 629 Shares of Stock"
         },
         {
-            "time": "20:39",
+            "time": "22:50",
             "tag": "MERCADO",
-            "text": "This California city is adding off-grid solar + storage EV chargers"
+            "text": "Datasea Inc stock (US2381111054): low-priced Nasdaq shares see active trading amid sector volatility"
         },
         {
-            "time": "20:38",
+            "time": "22:33",
             "tag": "MERCADO",
-            "text": "Oracle Stock's Rally Vaults Larry Ellison Past Bezos to World's Third-Richest Person"
+            "text": "Salesforce shareholders back board, governance and equity plans"
         },
         {
-            "time": "20:37",
+            "time": "22:32",
             "tag": "MERCADO",
-            "text": "How JPMorganChase is supporting the future of farming in Iowa"
+            "text": "Duke Energy Weighs Tech Partnerships For Nuclear And Data Center Growth"
         }
     ]
 }
