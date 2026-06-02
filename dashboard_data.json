@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-06-02 18:41 UTC",
+        "last_updated": "2026-06-02 21:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 222.14,
-            "change": "-0.43%"
+            "price": 222.82,
+            "change": "-2.3%"
         },
         {
             "symbol": "AMD",
-            "price": 514.53,
-            "change": "+1.97%"
+            "price": 521.54,
+            "change": "-3.07%"
         },
         {
             "symbol": "MSFT",
-            "price": 442.07,
-            "change": "-2.32%"
+            "price": 441.31,
+            "change": "-1.59%"
         },
         {
             "symbol": "CEG",
-            "price": 274.82,
-            "change": "+2.33%"
+            "price": NaN,
+            "change": "+0.8%"
         },
         {
             "symbol": "VST",
-            "price": 158.77,
-            "change": "+1.0%"
+            "price": 157.97,
+            "change": "-0.69%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.56,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
             0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.5
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            26.29,
-            26.3,
-            26.33,
-            26.15,
-            26.13,
-            26.15,
-            26.38,
-            25.92,
-            25.75,
-            25.33,
-            25.16,
-            24.83
+            24.26,
+            24.45,
+            24.37,
+            24.73,
+            25.15,
+            24.87,
+            24.98,
+            25.05,
+            24.87,
+            25.11,
+            25.56,
+            25.14
         ],
         "hsd_history_software": [
-            9.9,
-            9.89,
-            10.07,
-            10.03,
-            9.86,
-            9.87,
+            10.68,
+            10.65,
+            10.51,
+            10.46,
+            10.54,
+            10.38,
+            10.18,
+            10.1,
             9.98,
-            9.9,
-            9.78,
-            9.6,
-            9.79,
-            9.8
+            10.09,
+            10.23,
+            10.09
         ],
         "rci_data": [
             85.0,
-            22.214
+            22.282
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:48",
+            "time": "20:58",
             "tag": "MERCADO",
-            "text": "Strayer University & Capella University Data Breach Investigation"
+            "text": "Texas Instruments (TXN) Appoints Julie Knecht as New CFO"
         },
         {
-            "time": "17:45",
-            "tag": "MERCADO",
-            "text": "\u2018Zero Credibility\u2019: Major Clipper Outage Caused by Cubic\u2019s Failure to Pay AT&T Bill"
-        },
-        {
-            "time": "17:38",
+            "time": "20:52",
             "tag": "AI",
-            "text": "Truist Financial Reiterates \"Hold\" Rating for Science Applications International (NASDAQ:SAIC)"
+            "text": "\u3014U.S. Equities\u3015Dow Inc. closed at a record high for the fifth consecutive day, rising $228 on AI-related optimism (2nd) \u2606 Revised"
         },
         {
-            "time": "17:37",
-            "tag": "AI",
-            "text": "Aptiv shares rise 6.2% as NVIDIA edge-AI partnership expansion fuels momentum"
-        },
-        {
-            "time": "17:37",
+            "time": "20:39",
             "tag": "MERCADO",
-            "text": "Verisk (VRSK) slides 3.6% as investors weigh platform transition risk and recent insider selling"
+            "text": "This California city is adding off-grid solar + storage EV chargers"
+        },
+        {
+            "time": "20:38",
+            "tag": "MERCADO",
+            "text": "Oracle Stock's Rally Vaults Larry Ellison Past Bezos to World's Third-Richest Person"
+        },
+        {
+            "time": "20:37",
+            "tag": "MERCADO",
+            "text": "How JPMorganChase is supporting the future of farming in Iowa"
         }
     ]
 }
