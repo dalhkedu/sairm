@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-06-03 09:53 UTC",
+        "last_updated": "2026-06-03 14:44 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 222.82,
-            "change": "+2.3%"
+            "price": 215.76,
+            "change": "-1.91%"
         },
         {
             "symbol": "AMD",
-            "price": 521.54,
-            "change": "+1.44%"
+            "price": 535.7,
+            "change": "+0.4%"
         },
         {
             "symbol": "MSFT",
-            "price": 441.31,
-            "change": "+2.22%"
+            "price": 428.15,
+            "change": "-2.3%"
         },
         {
             "symbol": "CEG",
-            "price": 272.65,
-            "change": "+0.71%"
+            "price": 269.3,
+            "change": "+2.95%"
         },
         {
             "symbol": "VST",
-            "price": 157.97,
-            "change": "+2.44%"
+            "price": 157.32,
+            "change": "+2.35%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.41,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
+            0.51,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
             0.5,
             0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.51
+            0.49
         ],
         "hsd_history_hardware": [
-            24.21,
-            24.3,
-            24.19,
-            24.25,
-            23.82,
-            24.27,
-            24.28,
-            24.46,
-            24.81,
-            25.03,
-            24.89,
-            25.06
+            26.46,
+            26.27,
+            26.7,
+            26.32,
+            26.05,
+            25.69,
+            25.5,
+            25.54,
+            25.68,
+            25.56,
+            25.14,
+            25.17
         ],
         "hsd_history_software": [
-            10.25,
-            10.39,
-            10.4,
-            10.23,
-            10.32,
-            10.45,
-            10.38,
-            10.23,
-            10.13,
+            9.88,
             10.05,
-            9.92,
-            9.81
+            10.14,
+            10.18,
+            10.2,
+            10.25,
+            10.43,
+            10.31,
+            10.27,
+            10.24,
+            10.13,
+            10.03
         ],
         "rci_data": [
             85.0,
-            22.282
+            21.575999999999997
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:26",
+            "time": "14:10",
             "tag": "MERCADO",
-            "text": "Infosys, TCS and Wipro expand Microsoft 365 Copilot deployments beyond 300,000 employees"
+            "text": "Jefferies (JEF) sells auto-callable notes linked to XLF, XLV, XLK"
         },
         {
-            "time": "09:00",
-            "tag": "AI",
-            "text": "Adobe\u2019s CMO on agentic tools for marketers and responsible AI governance"
+            "time": "14:04",
+            "tag": "MERCADO",
+            "text": "Robust Job Growth in May: ADP Reports 122,000 New Positions"
         },
         {
-            "time": "08:42",
+            "time": "14:03",
             "tag": "MERCADO",
-            "text": "CIBC Asset Management Inc Buys 13,139 Shares of Texas Instruments Incorporated $TXN"
+            "text": "Why IonQ Stock Skyrocketed 59.7% in May"
         },
         {
-            "time": "08:42",
+            "time": "13:53",
             "tag": "MERCADO",
-            "text": "CIBC Asset Management Inc Increases Stock Position in Honeywell International Inc. $HON"
+            "text": "Tesla's (TSLA) \"Sell\" Rating Reiterated at JPMorgan Chase & Co."
         },
         {
-            "time": "08:42",
+            "time": "13:53",
             "tag": "MERCADO",
-            "text": "Amazon.com, Inc. $AMZN is Securian Asset Management Inc.'s 9th Largest Position"
+            "text": "AT&T most at risk as consumers migrate towards satellite -- Oppenheimer (T:NYSE)"
         }
     ]
 }
