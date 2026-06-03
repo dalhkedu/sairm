@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-06-03 18:46 UTC",
+        "last_updated": "2026-06-03 21:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 216.02,
-            "change": "-1.24%"
+            "price": 214.75,
+            "change": "+2.84%"
         },
         {
             "symbol": "AMD",
-            "price": 541.45,
-            "change": "-2.93%"
+            "price": 542.52,
+            "change": "+1.41%"
         },
         {
             "symbol": "MSFT",
-            "price": 428.46,
-            "change": "+2.08%"
+            "price": 427.34,
+            "change": "+0.01%"
         },
         {
             "symbol": "CEG",
-            "price": 266.67,
-            "change": "+1.23%"
+            "price": 267.24,
+            "change": "-3.02%"
         },
         {
             "symbol": "VST",
-            "price": 154.46,
-            "change": "-1.1%"
+            "price": 153.8,
+            "change": "+2.13%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
-        "rci_current": 0.22,
+        "cer_current": 0.6,
+        "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
+            0.5,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5,
             0.51,
-            0.5,
-            0.5,
-            0.51
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.11,
-            25.56,
-            25.56,
-            25.14,
-            25.12,
+            26.91,
+            26.47,
+            26.05,
+            25.63,
+            25.43,
+            25.95,
+            25.69,
             25.21,
-            25.52,
-            25.57,
-            25.1,
-            24.96,
-            24.84,
-            25.32
+            25.32,
+            25.8,
+            25.29,
+            25.34
         ],
         "hsd_history_software": [
-            9.79,
+            9.43,
+            9.36,
+            9.28,
+            9.39,
+            9.41,
+            9.5,
+            9.49,
+            9.48,
+            9.67,
+            9.68,
             9.69,
-            9.64,
-            9.55,
-            9.54,
-            9.66,
-            9.65,
-            9.82,
-            9.69,
-            9.85,
-            9.92,
-            10.05
+            9.87
         ],
         "rci_data": [
             85.0,
-            21.602
+            21.475
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:08",
-            "tag": "MERCADO",
-            "text": "5 Best Silver and Copper Stocks to Buy for the EV Transition"
-        },
-        {
-            "time": "18:01",
-            "tag": "MERCADO",
-            "text": "Qualcomm to Partner with Trackhouse Racing for PROJECT91 Entry in Inaugural NASCAR San Diego Cup Series Race"
-        },
-        {
-            "time": "17:54",
-            "tag": "MERCADO",
-            "text": "Baxter Introduces IV Verify Line Labeling System"
-        },
-        {
-            "time": "17:41",
+            "time": "21:18",
             "tag": "AI",
-            "text": "Sanofi taps Snowflake for AI drug development push"
+            "text": "Qualcomm Unveils First AI Mini PC Powered by Snapdragon X2 Elite"
         },
         {
-            "time": "17:39",
+            "time": "20:59",
             "tag": "MERCADO",
-            "text": "RingCentral CAO Tarun Arora sells $155,446 in stock"
+            "text": "Autodesk Signs Strategic Collaboration Agreement With Amazon Web Services"
+        },
+        {
+            "time": "20:59",
+            "tag": "MERCADO",
+            "text": "Autodesk design tools coming to Amazon's AWS marketplace"
+        },
+        {
+            "time": "20:54",
+            "tag": "MERCADO",
+            "text": "Teradyne (TER) director Mercedes Johnson sells 167 shares in planned trade"
+        },
+        {
+            "time": "20:46",
+            "tag": "MERCADO",
+            "text": "Aspen Aerogels Named a 2025 Supplier of the Year by General Motors"
         }
     ]
 }
