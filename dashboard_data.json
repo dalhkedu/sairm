@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-04 08:51 UTC",
+        "last_updated": "2026-06-04 11:57 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.75,
-            "change": "+2.91%"
+            "change": "-0.61%"
         },
         {
             "symbol": "AMD",
             "price": 542.52,
-            "change": "-2.04%"
+            "change": "-1.87%"
         },
         {
             "symbol": "MSFT",
             "price": 427.34,
-            "change": "+0.16%"
+            "change": "+3.39%"
         },
         {
             "symbol": "CEG",
             "price": 267.24,
-            "change": "-2.99%"
+            "change": "+2.22%"
         },
         {
             "symbol": "VST",
             "price": 153.8,
-            "change": "-1.36%"
+            "change": "-2.18%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.7,
+        "cer_current": 0.57,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
+            0.51,
+            0.51,
+            0.51,
             0.52,
             0.52,
+            0.53,
             0.52,
             0.51,
-            0.5,
             0.51,
             0.5,
-            0.49,
-            0.48,
-            0.49,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            24.34,
-            24.46,
-            24.46,
-            24.76,
-            24.52,
-            24.41,
-            24.23,
-            23.98,
-            23.75,
-            24.0,
-            24.09,
-            24.56
+            25.92,
+            25.54,
+            25.29,
+            25.32,
+            25.39,
+            25.23,
+            25.13,
+            25.46,
+            25.64,
+            25.26,
+            24.94,
+            25.39
         ],
         "hsd_history_software": [
-            9.99,
-            9.83,
-            10.02,
-            9.92,
-            9.75,
+            9.53,
+            9.57,
+            9.64,
             9.76,
+            9.85,
+            9.69,
+            9.86,
+            9.68,
+            9.73,
             9.9,
-            9.77,
-            9.91,
-            9.89,
-            9.99,
-            9.91
+            10.06,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:00",
+            "time": "11:07",
             "tag": "MERCADO",
-            "text": "Rockwell Automation Launches New Season of ROKStudios Video Series Highlighting OEM Leaders on Machine Lifecycle Innovation"
+            "text": "Jim Cramer on GE HealthCare: \u201cMaybe It\u2019s Too Expensive\u201d"
         },
         {
-            "time": "07:37",
+            "time": "11:05",
             "tag": "MERCADO",
-            "text": "Bowen Hanes & Co. Inc. Increases Stake in Motorola Solutions, Inc. $MSI"
+            "text": "Teledyne FLIR Defense Awarded $11.2 Million U.S. Army Contract for Advanced CBRN Sensor Drone Kits"
         },
         {
-            "time": "07:37",
+            "time": "11:00",
             "tag": "MERCADO",
-            "text": "Bank of New York Mellon Corp Has $489.59 Million Stock Position in AMETEK, Inc. $AME"
+            "text": "Insulet to Spotlight New Data and Innovations Demonstrating How Omnipod\u00ae Simplifies Diabetes Management and Delivers Strong Clinical Outcomes at the American Diabetes Association 86th Scientific Sessions"
         },
         {
-            "time": "07:35",
+            "time": "10:58",
             "tag": "MERCADO",
-            "text": "Bowen Hanes & Co. Inc. Buys Shares of 1,870,000 Viavi Solutions Inc. $VIAV"
+            "text": "Verizon Communications Executive VP & Chief Human Resources Officer Samantha Hammock Sells 82% Of Holding"
         },
         {
-            "time": "07:21",
-            "tag": "MERCADO",
-            "text": "Bank of New York Mellon Corp Boosts Stake in DoorDash, Inc. $DASH"
+            "time": "10:48",
+            "tag": "AI",
+            "text": "A Look At Coherent (COHR) Valuation After Nvidia AI Partnership And Long Dated Transceiver Orders"
         }
     ]
 }
