@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-06-04 11:57 UTC",
+        "last_updated": "2026-06-04 15:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 214.75,
-            "change": "-0.61%"
+            "price": 216.43,
+            "change": "+1.21%"
         },
         {
             "symbol": "AMD",
-            "price": 542.52,
-            "change": "-1.87%"
+            "price": 524.08,
+            "change": "+0.43%"
         },
         {
             "symbol": "MSFT",
-            "price": 427.34,
-            "change": "+3.39%"
+            "price": NaN,
+            "change": "-1.73%"
         },
         {
             "symbol": "CEG",
-            "price": 267.24,
-            "change": "+2.22%"
+            "price": 262.65,
+            "change": "+1.76%"
         },
         {
             "symbol": "VST",
-            "price": 153.8,
-            "change": "-2.18%"
+            "price": 151.45,
+            "change": "+2.04%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
-        "rci_current": 0.21,
+        "cer_current": 0.58,
+        "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
+            0.52,
+            0.52,
+            0.52,
             0.51,
             0.52,
             0.52,
-            0.53,
+            0.52,
+            0.52,
             0.52,
             0.51,
             0.51,
-            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.92,
-            25.54,
-            25.29,
-            25.32,
-            25.39,
-            25.23,
-            25.13,
-            25.46,
-            25.64,
-            25.26,
-            24.94,
-            25.39
+            24.59,
+            24.84,
+            24.85,
+            25.11,
+            25.05,
+            24.7,
+            24.32,
+            24.6,
+            24.92,
+            24.7,
+            24.23,
+            24.71
         ],
         "hsd_history_software": [
-            9.53,
-            9.57,
-            9.64,
-            9.76,
-            9.85,
-            9.69,
-            9.86,
-            9.68,
-            9.73,
-            9.9,
-            10.06,
-            10.07
+            10.44,
+            10.4,
+            10.36,
+            10.34,
+            10.2,
+            10.13,
+            9.94,
+            10.13,
+            10.22,
+            10.15,
+            10.07,
+            10.17
         ],
         "rci_data": [
             85.0,
-            21.475
+            21.643
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,9 @@
     ],
     "news_feed": [
         {
-            "time": "11:07",
-            "tag": "MERCADO",
-            "text": "Jim Cramer on GE HealthCare: \u201cMaybe It\u2019s Too Expensive\u201d"
-        },
-        {
-            "time": "11:05",
-            "tag": "MERCADO",
-            "text": "Teledyne FLIR Defense Awarded $11.2 Million U.S. Army Contract for Advanced CBRN Sensor Drone Kits"
-        },
-        {
-            "time": "11:00",
-            "tag": "MERCADO",
-            "text": "Insulet to Spotlight New Data and Innovations Demonstrating How Omnipod\u00ae Simplifies Diabetes Management and Delivers Strong Clinical Outcomes at the American Diabetes Association 86th Scientific Sessions"
-        },
-        {
-            "time": "10:58",
-            "tag": "MERCADO",
-            "text": "Verizon Communications Executive VP & Chief Human Resources Officer Samantha Hammock Sells 82% Of Holding"
-        },
-        {
-            "time": "10:48",
-            "tag": "AI",
-            "text": "A Look At Coherent (COHR) Valuation After Nvidia AI Partnership And Long Dated Transceiver Orders"
+            "time": "INFO",
+            "tag": "LIMIT",
+            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
         }
     ]
 }
