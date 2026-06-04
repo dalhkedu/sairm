@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-06-04 18:20 UTC",
+        "last_updated": "2026-06-04 20:58 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 220.34,
-            "change": "-3.49%"
+            "price": 218.66,
+            "change": "+2.35%"
         },
         {
             "symbol": "AMD",
-            "price": 529.96,
-            "change": "-2.84%"
+            "price": 523.2,
+            "change": "+0.92%"
         },
         {
             "symbol": "MSFT",
-            "price": 428.15,
-            "change": "-3.08%"
+            "price": 428.05,
+            "change": "-2.83%"
         },
         {
             "symbol": "CEG",
-            "price": 262.85,
-            "change": "+2.74%"
+            "price": 264.59,
+            "change": "+2.68%"
         },
         {
             "symbol": "VST",
-            "price": 152.71,
-            "change": "-2.2%"
+            "price": 153.7,
+            "change": "-3.14%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.6,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.47,
+            0.47,
             0.48,
             0.47,
-            0.46,
-            0.47,
-            0.46,
-            0.47,
-            0.47,
+            0.48,
             0.48,
             0.48,
             0.49,
+            0.49,
+            0.48,
             0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            23.69,
-            23.36,
-            23.73,
+            23.95,
+            23.99,
             23.71,
-            24.11,
-            24.28,
-            24.08,
-            24.02,
-            24.5,
-            24.97,
-            24.97,
-            25.02
+            23.75,
+            24.18,
+            23.82,
+            24.15,
+            24.17,
+            24.27,
+            24.54,
+            25.0,
+            25.25
         ],
         "hsd_history_software": [
-            10.75,
-            10.8,
-            10.7,
-            10.73,
-            10.62,
-            10.42,
-            10.46,
-            10.3,
-            10.13,
+            9.83,
+            9.82,
+            9.77,
+            9.76,
+            9.72,
+            9.85,
+            9.94,
             10.1,
-            10.03,
-            9.91
+            10.1,
+            9.94,
+            10.13,
+            9.98
         ],
         "rci_data": [
             85.0,
-            22.034000000000002
+            21.866
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:09",
+            "time": "20:04",
             "tag": "AI",
-            "text": "Is MarketAxess (MKTX) Quietly Redefining Its Moat With AI-Powered Bond Trading And New-Issue Tools?"
+            "text": "WD-40 reshapes leadership to harness AI and digital tech"
         },
         {
-            "time": "17:07",
+            "time": "20:00",
             "tag": "MERCADO",
-            "text": "JPMorgan\u2019s Jamie Dimon to pitch Elon Musk\u2019s SpaceX IPO to uber-rich clients"
+            "text": "Wearable Devices (WLDS) shareholders back proposal at June 4 special meeting"
         },
         {
-            "time": "16:54",
+            "time": "19:58",
             "tag": "MERCADO",
-            "text": "AT&T Shares Are Sliding: What's Driving The Action?"
+            "text": "IBM, AT&T Accused By Whistleblower of Covering Up Foreign Hacks"
         },
         {
-            "time": "16:50",
+            "time": "19:54",
             "tag": "MERCADO",
-            "text": "PG&E Surpasses 1 Million Customer Solar Interconnections--Most of Any U.S. Utility"
+            "text": "iShares MSCI World ETF Faces a Congested June Calendar: Dividend, Fed Decision, and Tariff Fallout"
         },
         {
-            "time": "16:39",
-            "tag": "MERCADO",
-            "text": "Riot Platforms Sued Over Patent for Data Center Cooling Tech"
+            "time": "19:40",
+            "tag": "AI",
+            "text": "Cybersecurity stocks fall after news of Anthropic's new AI model 'Claude Mythos'"
         }
     ]
 }
