@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-06-05 18:00 UTC",
+        "last_updated": "2026-06-05 20:05 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 207.96,
-            "change": "-3.42%"
+            "price": 205.1,
+            "change": "+2.55%"
         },
         {
             "symbol": "AMD",
-            "price": 477.52,
-            "change": "+2.06%"
+            "price": 466.38,
+            "change": "+2.3%"
         },
         {
             "symbol": "MSFT",
-            "price": NaN,
-            "change": "+1.6%"
+            "price": 416.67,
+            "change": "+1.8%"
         },
         {
             "symbol": "CEG",
-            "price": 256.89,
-            "change": "+1.51%"
+            "price": 254.83,
+            "change": "-2.92%"
         },
         {
             "symbol": "VST",
-            "price": 149.37,
-            "change": "+2.0%"
+            "price": 148.74,
+            "change": "-0.3%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.66,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
+            0.52,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
+            0.53,
+            0.52,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
+            0.52,
+            0.51,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.39,
+            23.55,
+            23.63,
+            23.66,
             24.05,
-            24.25,
-            24.43,
-            24.52,
-            24.84,
-            25.31,
-            24.88,
-            24.52,
-            24.69,
-            24.56,
-            24.51
+            24.15,
+            24.09,
+            23.9,
+            23.88,
+            24.36,
+            24.75,
+            24.9,
+            25.34
         ],
         "hsd_history_software": [
-            9.75,
-            9.89,
-            9.8,
-            9.86,
-            9.94,
+            9.68,
+            9.83,
+            9.73,
+            9.83,
+            9.93,
             9.79,
-            9.74,
-            9.77,
-            9.88,
             9.79,
-            9.74,
+            9.65,
+            9.7,
+            9.79,
+            9.85,
             9.94
         ],
         "rci_data": [
             85.0,
-            20.796
+            20.51
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:10",
-            "tag": "RESULTADOS",
-            "text": "Earnings call transcript: Forrester Q1 2026 misses EPS, revenue beats By Investing.com"
-        },
-        {
-            "time": "17:09",
+            "time": "19:33",
             "tag": "MERCADO",
-            "text": "NextNRG Reports Preliminary May 2026 Revenue of $9.3 Million, Up 41% Year-Over-Year"
+            "text": "Is Palo Alto Stock a Buy After Issuing Robust Outlook?"
         },
         {
-            "time": "17:06",
+            "time": "19:31",
             "tag": "MERCADO",
-            "text": "JPMorgan Raises its Price Target on Analog Devices (ADI)"
+            "text": "I'm 35 With $52,000 in Credit Card Debt and a Baby on the Way. Where Do I Even Start?"
         },
         {
-            "time": "16:53",
+            "time": "19:19",
+            "tag": "MERCADO",
+            "text": "Solid Gold Resources Corp. Announces Transaction with Apitipi Anicinapek Nation to Launch One of Canada's"
+        },
+        {
+            "time": "19:18",
             "tag": "AI",
-            "text": "Starbucks (SBUX) Ties Part of Tech Bonuses to AI Usage"
+            "text": "Anthropic Is Helping the NSA Hack China. It Also Wants Everyone to Pause AI"
         },
         {
-            "time": "16:43",
+            "time": "19:18",
             "tag": "MERCADO",
-            "text": "Raymond James Raises its Price Target on Marvell (MRVL) to $235 from $105"
+            "text": "Jetterix Analyzed: A Detailed Evaluation Of The Jetterix Pressure Nozzle Trending In The United States!"
         }
     ]
 }
