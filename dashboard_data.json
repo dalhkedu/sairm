@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-06-05 15:56 UTC",
+        "last_updated": "2026-06-05 18:00 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 209.07,
-            "change": "+2.17%"
+            "price": 207.96,
+            "change": "-3.42%"
         },
         {
             "symbol": "AMD",
-            "price": 486.61,
-            "change": "+3.29%"
+            "price": 477.52,
+            "change": "+2.06%"
         },
         {
             "symbol": "MSFT",
-            "price": 420.96,
-            "change": "+0.26%"
+            "price": NaN,
+            "change": "+1.6%"
         },
         {
             "symbol": "CEG",
-            "price": 257.25,
-            "change": "-0.08%"
+            "price": 256.89,
+            "change": "+1.51%"
         },
         {
             "symbol": "VST",
-            "price": 150.26,
-            "change": "-1.7%"
+            "price": 149.37,
+            "change": "+2.0%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.52,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
+            0.5,
+            0.5,
             0.5,
             0.51,
-            0.51,
-            0.51,
             0.5,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            26.14,
-            26.46,
-            25.99,
-            25.64,
-            25.28,
-            25.0,
+            24.39,
+            24.05,
+            24.25,
+            24.43,
+            24.52,
+            24.84,
             25.31,
-            25.38,
-            25.37,
-            25.67,
-            25.33,
-            24.89
+            24.88,
+            24.52,
+            24.69,
+            24.56,
+            24.51
         ],
         "hsd_history_software": [
-            10.3,
-            10.22,
-            10.33,
-            10.24,
-            10.12,
-            10.2,
-            10.14,
-            10.06,
-            10.02,
-            10.17,
-            10.07,
-            10.08
+            9.75,
+            9.89,
+            9.8,
+            9.86,
+            9.94,
+            9.79,
+            9.74,
+            9.77,
+            9.88,
+            9.79,
+            9.74,
+            9.94
         ],
         "rci_data": [
             85.0,
-            20.907
+            20.796
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:57",
+            "time": "17:10",
+            "tag": "RESULTADOS",
+            "text": "Earnings call transcript: Forrester Q1 2026 misses EPS, revenue beats By Investing.com"
+        },
+        {
+            "time": "17:09",
+            "tag": "MERCADO",
+            "text": "NextNRG Reports Preliminary May 2026 Revenue of $9.3 Million, Up 41% Year-Over-Year"
+        },
+        {
+            "time": "17:06",
+            "tag": "MERCADO",
+            "text": "JPMorgan Raises its Price Target on Analog Devices (ADI)"
+        },
+        {
+            "time": "16:53",
             "tag": "AI",
-            "text": "After a 160% AI-Driven Rally, Can Caterpillar Stock Keep Climbing?"
+            "text": "Starbucks (SBUX) Ties Part of Tech Bonuses to AI Usage"
         },
         {
-            "time": "14:41",
+            "time": "16:43",
             "tag": "MERCADO",
-            "text": "Thermo Fisher Scientific Introduces Thermo Scientific Glacios 3 Cryo-TEM"
-        },
-        {
-            "time": "14:39",
-            "tag": "AI",
-            "text": "5 Healthcare Stocks That the AI Crowd Is Overlooking"
-        },
-        {
-            "time": "14:34",
-            "tag": "MERCADO",
-            "text": "INOD Maintained by Wedbush -- Price Target Raised to $120"
-        },
-        {
-            "time": "14:23",
-            "tag": "MERCADO",
-            "text": "Jim Cramer Highlights Cisco Systems as the Top Dow Performer"
+            "text": "Raymond James Raises its Price Target on Marvell (MRVL) to $235 from $105"
         }
     ]
 }
