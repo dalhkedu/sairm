@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-06-05 20:05 UTC",
+        "last_updated": "2026-06-05 22:16 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 205.1,
-            "change": "+2.55%"
+            "change": "-2.86%"
         },
         {
             "symbol": "AMD",
             "price": 466.38,
-            "change": "+2.3%"
+            "change": "+3.48%"
         },
         {
             "symbol": "MSFT",
             "price": 416.67,
-            "change": "+1.8%"
+            "change": "-1.35%"
         },
         {
             "symbol": "CEG",
             "price": 254.83,
-            "change": "-2.92%"
+            "change": "-2.37%"
         },
         {
             "symbol": "VST",
-            "price": 148.74,
-            "change": "-0.3%"
+            "price": 148.76,
+            "change": "-1.35%"
         }
     ],
     "dashboard_metrics": {
@@ -36,46 +36,46 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.53,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.5
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            23.55,
-            23.63,
-            23.66,
-            24.05,
-            24.15,
-            24.09,
-            23.9,
-            23.88,
-            24.36,
-            24.75,
-            24.9,
-            25.34
+            26.55,
+            26.19,
+            25.96,
+            25.93,
+            26.32,
+            25.81,
+            25.36,
+            25.25,
+            25.63,
+            25.29,
+            25.27,
+            24.93
         ],
         "hsd_history_software": [
-            9.68,
-            9.83,
-            9.73,
-            9.83,
-            9.93,
-            9.79,
-            9.79,
-            9.65,
-            9.7,
-            9.79,
-            9.85,
-            9.94
+            10.32,
+            10.29,
+            10.42,
+            10.59,
+            10.63,
+            10.43,
+            10.23,
+            10.1,
+            9.94,
+            9.92,
+            9.82,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:33",
-            "tag": "MERCADO",
-            "text": "Is Palo Alto Stock a Buy After Issuing Robust Outlook?"
-        },
-        {
-            "time": "19:31",
-            "tag": "MERCADO",
-            "text": "I'm 35 With $52,000 in Credit Card Debt and a Baby on the Way. Where Do I Even Start?"
-        },
-        {
-            "time": "19:19",
-            "tag": "MERCADO",
-            "text": "Solid Gold Resources Corp. Announces Transaction with Apitipi Anicinapek Nation to Launch One of Canada's"
-        },
-        {
-            "time": "19:18",
+            "time": "21:25",
             "tag": "AI",
-            "text": "Anthropic Is Helping the NSA Hack China. It Also Wants Everyone to Pause AI"
+            "text": "Intuit (INTU) Launches AI-Native QuickBooks Workforce Platform"
         },
         {
-            "time": "19:18",
+            "time": "21:22",
             "tag": "MERCADO",
-            "text": "Jetterix Analyzed: A Detailed Evaluation Of The Jetterix Pressure Nozzle Trending In The United States!"
+            "text": "Insulet shares rise as investors focus on Omnipod 5 software upgrade and expanded CGM compatibility"
+        },
+        {
+            "time": "21:07",
+            "tag": "MERCADO",
+            "text": "Amprius CEO Thomas Stepien sells $41,940 in company stock"
+        },
+        {
+            "time": "21:02",
+            "tag": "AI",
+            "text": "Apollo Wraps Up $35 Billion Debt to Buy AI Chips for Anthropic"
+        },
+        {
+            "time": "21:01",
+            "tag": "MERCADO",
+            "text": "NetApp (NTAP) director Gerald Held sells 7,132 shares in open-market trade"
         }
     ]
 }
