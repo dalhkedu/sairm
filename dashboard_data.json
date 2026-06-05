@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-06-05 12:42 UTC",
+        "last_updated": "2026-06-05 15:56 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 218.66,
-            "change": "-0.74%"
+            "price": 209.07,
+            "change": "+2.17%"
         },
         {
             "symbol": "AMD",
-            "price": 523.2,
-            "change": "+2.33%"
+            "price": 486.61,
+            "change": "+3.29%"
         },
         {
             "symbol": "MSFT",
-            "price": 428.05,
-            "change": "-3.01%"
+            "price": 420.96,
+            "change": "+0.26%"
         },
         {
             "symbol": "CEG",
-            "price": 264.59,
-            "change": "-1.29%"
+            "price": 257.25,
+            "change": "-0.08%"
         },
         {
             "symbol": "VST",
-            "price": 153.7,
-            "change": "-2.29%"
+            "price": 150.26,
+            "change": "-1.7%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
-        "rci_current": 0.22,
+        "cer_current": 0.65,
+        "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
+            0.51,
+            0.51,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
             0.51,
             0.52,
-            0.52,
-            0.51,
             0.51,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.69,
-            24.44,
-            24.88,
-            25.1,
+            26.14,
+            26.46,
+            25.99,
+            25.64,
+            25.28,
             25.0,
-            25.25,
-            25.13,
-            25.14,
-            25.03,
-            25.19,
-            24.78,
-            24.66
+            25.31,
+            25.38,
+            25.37,
+            25.67,
+            25.33,
+            24.89
         ],
         "hsd_history_software": [
+            10.3,
             10.22,
-            10.1,
-            9.95,
-            10.03,
-            9.85,
-            9.75,
-            9.79,
-            9.92,
-            9.75,
-            9.84,
-            9.74,
-            9.91
+            10.33,
+            10.24,
+            10.12,
+            10.2,
+            10.14,
+            10.06,
+            10.02,
+            10.17,
+            10.07,
+            10.08
         ],
         "rci_data": [
             85.0,
-            21.866
+            20.907
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:09",
+            "time": "14:57",
+            "tag": "AI",
+            "text": "After a 160% AI-Driven Rally, Can Caterpillar Stock Keep Climbing?"
+        },
+        {
+            "time": "14:41",
             "tag": "MERCADO",
-            "text": "Docusign dips after Q1 results, analysts mull ARR growth outlook, IAM platform"
+            "text": "Thermo Fisher Scientific Introduces Thermo Scientific Glacios 3 Cryo-TEM"
         },
         {
-            "time": "12:07",
+            "time": "14:39",
             "tag": "AI",
-            "text": "Watch AI: Entire Market Is One Trade, Says Morgan Stanley\u2019s Lisa Shalett"
+            "text": "5 Healthcare Stocks That the AI Crowd Is Overlooking"
         },
         {
-            "time": "11:59",
-            "tag": "AI",
-            "text": "Intel and Hitachi team up on \u2018physical AI\u2019 for factories and power"
-        },
-        {
-            "time": "11:59",
-            "tag": "AI",
-            "text": "AI payment agents and $25T volume: inside Fifth Third's Newline"
-        },
-        {
-            "time": "11:59",
+            "time": "14:34",
             "tag": "MERCADO",
-            "text": "Is Motorola Solutions (MSI) Pricing In Too Much Optimism After Solid Year To Date Gains?"
+            "text": "INOD Maintained by Wedbush -- Price Target Raised to $120"
+        },
+        {
+            "time": "14:23",
+            "tag": "MERCADO",
+            "text": "Jim Cramer Highlights Cisco Systems as the Top Dow Performer"
         }
     ]
 }
