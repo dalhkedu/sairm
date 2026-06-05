@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-05 05:20 UTC",
+        "last_updated": "2026-06-05 09:56 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 218.66,
-            "change": "-2.88%"
+            "change": "-1.66%"
         },
         {
             "symbol": "AMD",
             "price": 523.2,
-            "change": "-0.97%"
+            "change": "+0.98%"
         },
         {
             "symbol": "MSFT",
             "price": 428.05,
-            "change": "+1.7%"
+            "change": "-3.22%"
         },
         {
             "symbol": "CEG",
             "price": 264.59,
-            "change": "-0.02%"
+            "change": "+2.28%"
         },
         {
             "symbol": "VST",
             "price": 153.7,
-            "change": "-1.42%"
+            "change": "+2.58%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.6,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.5,
             0.5,
             0.49,
+            0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            26.25,
-            26.37,
-            26.2,
-            26.17,
-            25.75,
-            25.57,
-            25.59,
-            25.34,
-            25.76,
-            25.35,
-            25.19,
-            25.17
+            24.75,
+            24.9,
+            25.28,
+            24.95,
+            25.23,
+            24.99,
+            25.03,
+            25.32,
+            24.88,
+            24.44,
+            24.3,
+            24.52
         ],
         "hsd_history_software": [
-            10.43,
-            10.34,
-            10.48,
-            10.5,
-            10.38,
-            10.38,
-            10.22,
-            10.07,
-            10.18,
-            10.01,
-            10.06,
-            10.18
+            10.05,
+            9.95,
+            10.02,
+            10.16,
+            10.02,
+            9.84,
+            9.98,
+            9.79,
+            9.64,
+            9.76,
+            9.95,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:04",
+            "time": "09:10",
             "tag": "MERCADO",
-            "text": "\\\u2018One of our core areas\u2019: Ahead of global agency review, Coca-Cola\u2019s CFO focuses on data matching"
+            "text": "Zoom CEO Eric Yuan sells $2.64 million in class A shares"
         },
         {
-            "time": "04:04",
+            "time": "08:55",
+            "tag": "MERCADO",
+            "text": "Intech Investment Management LLC Sells 27,365 Shares of F5, Inc. $FFIV"
+        },
+        {
+            "time": "08:45",
+            "tag": "MERCADO",
+            "text": "Why this $40-billion money manager likes Lam Research and Nvidia but sold Ryder System"
+        },
+        {
+            "time": "08:39",
             "tag": "AI",
-            "text": "Coca-Cola's AI-powered Jos\u00e9 Mourinho campaign could signal a shift in celebrity partnerships"
+            "text": "Assessing Northern Trust (NTRS) Valuation As Data And AI Initiatives Gain Traction"
         },
         {
-            "time": "04:02",
-            "tag": "RESULTADOS",
-            "text": "Analog Devices Stock (ADI) Opinions on Recent Earnings and Acquisition"
-        },
-        {
-            "time": "03:38",
+            "time": "08:39",
             "tag": "MERCADO",
-            "text": "Quantum Computing\u2019s Biggest IPO Prices Strong and Then Fizzles"
-        },
-        {
-            "time": "03:33",
-            "tag": "MERCADO",
-            "text": "Enphase Energy (ENPH) Price Target Doubled at TD Cowen"
+            "text": "Extreme Networks director Edward Kennedy sells $1.14m in stock"
         }
     ]
 }
