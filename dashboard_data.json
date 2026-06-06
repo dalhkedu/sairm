@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-06 14:43 UTC",
+        "last_updated": "2026-06-06 16:08 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 205.1,
-            "change": "+0.34%"
+            "change": "+1.16%"
         },
         {
             "symbol": "AMD",
             "price": 466.38,
-            "change": "+0.85%"
+            "change": "+2.23%"
         },
         {
             "symbol": "MSFT",
             "price": 416.67,
-            "change": "+3.11%"
+            "change": "-3.45%"
         },
         {
             "symbol": "CEG",
             "price": 254.83,
-            "change": "-1.15%"
+            "change": "+0.36%"
         },
         {
             "symbol": "VST",
             "price": 148.76,
-            "change": "-3.18%"
+            "change": "+2.77%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.46,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.5,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.5,
             0.5,
             0.49,
-            0.5
+            0.5,
+            0.49,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.98,
-            24.83,
-            25.3,
-            25.01,
-            24.89,
-            25.14,
-            25.38,
-            25.05,
-            25.01,
-            24.85,
-            25.02,
-            25.19
+            26.4,
+            26.48,
+            25.97,
+            25.47,
+            25.52,
+            25.59,
+            25.65,
+            25.78,
+            25.77,
+            25.29,
+            25.31,
+            25.36
         ],
         "hsd_history_software": [
-            9.81,
+            9.64,
             9.75,
-            9.93,
-            9.92,
-            9.93,
-            9.84,
+            9.86,
+            9.83,
+            9.83,
+            9.65,
+            9.71,
+            9.68,
+            9.82,
+            9.91,
             9.9,
-            10.01,
-            9.88,
-            10.07,
-            10.1,
-            10.16
+            10.09
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:03",
+            "time": "15:39",
             "tag": "MERCADO",
-            "text": "Carrier Global Stock (CARR) Opinions on Data Center Cooling Demand"
+            "text": "Celestica Shares Slide as Momentum Cools After Record Run-up"
         },
         {
-            "time": "13:42",
+            "time": "15:16",
             "tag": "MERCADO",
-            "text": "The Price of Perfection for Analog Devices Stock"
+            "text": "Jim Cramer on Take-Two Interactive: \u201cI Wouldn\u2019t Buy It All at Once; It\u2019s an Erratic Trader\u201d"
         },
         {
-            "time": "13:00",
+            "time": "14:39",
             "tag": "MERCADO",
-            "text": "These Four Stocks Could Do What Cisco Did in 2000"
+            "text": "A Look At Tyler Technologies (TYL) Valuation After Recent Share Price Weakness"
         },
         {
-            "time": "12:24",
+            "time": "14:39",
             "tag": "MERCADO",
-            "text": "US Sugar deploys fleet of autonomous John Deere tractors in Florida"
+            "text": "Assessing Align Technology (ALGN) After Years Of Share Price Declines And DCF Upside Potential"
         },
         {
-            "time": "12:10",
-            "tag": "AI",
-            "text": "HIVE Digital Technologies CFO on Bitcoin mining and AI data center growth \u2013 ICYMI"
+            "time": "14:38",
+            "tag": "MERCADO",
+            "text": "Seagate Technology Holdings PLC Trade Ideas \u2014 XETR:847"
         }
     ]
 }
