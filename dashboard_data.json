@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-05 22:16 UTC",
+        "last_updated": "2026-06-06 00:09 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 205.1,
-            "change": "-2.86%"
+            "change": "+1.9%"
         },
         {
             "symbol": "AMD",
             "price": 466.38,
-            "change": "+3.48%"
+            "change": "-2.04%"
         },
         {
             "symbol": "MSFT",
             "price": 416.67,
-            "change": "-1.35%"
+            "change": "+1.16%"
         },
         {
             "symbol": "CEG",
             "price": 254.83,
-            "change": "-2.37%"
+            "change": "+0.13%"
         },
         {
             "symbol": "VST",
             "price": 148.76,
-            "change": "-1.35%"
+            "change": "+3.08%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.6,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.47,
             0.48,
             0.48,
             0.49,
+            0.5,
+            0.49,
             0.49,
             0.49,
             0.49,
             0.49,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49
+            0.51
         ],
         "hsd_history_hardware": [
-            26.55,
-            26.19,
-            25.96,
-            25.93,
-            26.32,
-            25.81,
-            25.36,
-            25.25,
-            25.63,
-            25.29,
-            25.27,
-            24.93
+            26.52,
+            26.42,
+            26.41,
+            25.95,
+            26.11,
+            25.89,
+            25.66,
+            25.85,
+            25.46,
+            25.0,
+            25.16,
+            25.46
         ],
         "hsd_history_software": [
-            10.32,
-            10.29,
-            10.42,
-            10.59,
-            10.63,
-            10.43,
-            10.23,
-            10.1,
-            9.94,
-            9.92,
-            9.82,
-            9.82
+            9.36,
+            9.54,
+            9.71,
+            9.53,
+            9.47,
+            9.54,
+            9.58,
+            9.61,
+            9.79,
+            9.71,
+            9.72,
+            9.9
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:25",
+            "time": "23:39",
+            "tag": "MERCADO",
+            "text": "Insider Selling: Impinj (NASDAQ:PI) Director Sells 6,313 Shares of Stock"
+        },
+        {
+            "time": "23:07",
+            "tag": "MERCADO",
+            "text": "Is The Walt Disney Company (DIS) One of the Top Cheap Stocks With Strong Buy Ratings on Wall Street?"
+        },
+        {
+            "time": "22:53",
+            "tag": "MERCADO",
+            "text": "Anchorage Expands Relationship with Tyler Technologies to Modernize Payment Process for Muni Services"
+        },
+        {
+            "time": "22:49",
+            "tag": "MERCADO",
+            "text": "GoDaddy (NYSE: GDDY) director Leah Sweet awarded 2,925 RSUs, now holds 14,339 shares"
+        },
+        {
+            "time": "22:42",
             "tag": "AI",
-            "text": "Intuit (INTU) Launches AI-Native QuickBooks Workforce Platform"
-        },
-        {
-            "time": "21:22",
-            "tag": "MERCADO",
-            "text": "Insulet shares rise as investors focus on Omnipod 5 software upgrade and expanded CGM compatibility"
-        },
-        {
-            "time": "21:07",
-            "tag": "MERCADO",
-            "text": "Amprius CEO Thomas Stepien sells $41,940 in company stock"
-        },
-        {
-            "time": "21:02",
-            "tag": "AI",
-            "text": "Apollo Wraps Up $35 Billion Debt to Buy AI Chips for Anthropic"
-        },
-        {
-            "time": "21:01",
-            "tag": "MERCADO",
-            "text": "NetApp (NTAP) director Gerald Held sells 7,132 shares in open-market trade"
+            "text": "Enphase SST Push Positions Company For AI Data Center Opportunity"
         }
     ]
 }
