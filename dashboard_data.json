@@ -1,80 +1,80 @@
 {
     "metadata": {
-        "last_updated": "2026-06-07 13:59 UTC",
+        "last_updated": "2026-06-07 15:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 205.1,
-            "change": "+1.47%"
+            "change": "+1.37%"
         },
         {
             "symbol": "AMD",
             "price": 466.38,
-            "change": "-1.62%"
+            "change": "-0.7%"
         },
         {
             "symbol": "MSFT",
             "price": 416.67,
-            "change": "+2.69%"
+            "change": "+0.61%"
         },
         {
             "symbol": "CEG",
             "price": 254.83,
-            "change": "+0.02%"
+            "change": "+2.15%"
         },
         {
             "symbol": "VST",
             "price": 148.76,
-            "change": "+0.77%"
+            "change": "+1.88%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.41,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
+            0.5,
+            0.51,
+            0.52,
+            0.51,
+            0.5,
             0.49,
             0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.48,
-            0.49
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            26.16,
-            25.7,
-            25.91,
-            25.67,
-            25.32,
-            24.85,
-            25.11,
-            24.78,
-            25.01,
-            24.79,
-            24.74,
-            25.01
+            25.16,
+            25.14,
+            25.31,
+            25.02,
+            24.82,
+            24.94,
+            24.55,
+            24.56,
+            24.86,
+            24.55,
+            24.58,
+            24.96
         ],
         "hsd_history_software": [
-            9.81,
-            9.95,
-            9.98,
-            10.18,
-            10.04,
-            10.02,
-            9.94,
-            9.97,
+            10.46,
+            10.48,
+            10.51,
+            10.47,
+            10.47,
+            10.41,
+            10.4,
+            10.21,
+            10.03,
+            10.21,
             10.05,
-            10.01,
-            10.2,
             10.14
         ],
         "rci_data": [
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "14:59",
+            "tag": "MERCADO",
+            "text": "Is eBay Inc. (EBAY) A Good Stock To Buy Now?"
+        },
+        {
+            "time": "14:57",
+            "tag": "MERCADO",
+            "text": "Is Harmonic Inc. (HLIT) A Good Stock To Buy Now?"
+        },
+        {
+            "time": "14:54",
+            "tag": "MERCADO",
+            "text": "Is SLB N.V. (SLB) A Good Stock To Buy Now?"
+        },
+        {
+            "time": "13:59",
+            "tag": "MERCADO",
+            "text": "Dear Qualcomm Stock Fans, Mark Your Calendars for June 24"
+        },
+        {
             "time": "12:40",
             "tag": "AI",
             "text": "REX AI Equity Premium Income ETF"
-        },
-        {
-            "time": "12:19",
-            "tag": "MERCADO",
-            "text": "This Insider Has Just Sold Shares In Applied Materials"
-        },
-        {
-            "time": "11:47",
-            "tag": "AI",
-            "text": "Envirotech Vehicles Builds 500 MW AI Infrastructure Platform Across 548-Acre Campus"
-        },
-        {
-            "time": "11:45",
-            "tag": "MERCADO",
-            "text": "An Overlooked Cleantech Fund Just Did in Eighteen Months What the S&P 500 Took Five Years to Accomplish"
-        },
-        {
-            "time": "11:32",
-            "tag": "MERCADO",
-            "text": "WINTON GROUP Ltd Sells 67,249 Shares of Best Buy Co., Inc. $BBY"
         }
     ]
 }
