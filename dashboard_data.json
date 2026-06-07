@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-07 09:17 UTC",
+        "last_updated": "2026-06-07 11:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 205.1,
-            "change": "+1.13%"
+            "change": "-2.98%"
         },
         {
             "symbol": "AMD",
             "price": 466.38,
-            "change": "+1.32%"
+            "change": "-2.64%"
         },
         {
             "symbol": "MSFT",
             "price": 416.67,
-            "change": "+1.4%"
+            "change": "-0.1%"
         },
         {
             "symbol": "CEG",
             "price": 254.83,
-            "change": "-2.0%"
+            "change": "-1.39%"
         },
         {
             "symbol": "VST",
             "price": 148.76,
-            "change": "+1.88%"
+            "change": "+1.11%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.7,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.48,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
+            0.53,
+            0.52,
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            24.1,
-            24.08,
-            24.19,
-            24.37,
-            24.5,
-            24.07,
-            23.85,
-            24.31,
-            24.21,
-            24.18,
-            24.48,
-            24.72
+            24.8,
+            24.67,
+            25.02,
+            25.46,
+            25.37,
+            25.22,
+            24.94,
+            24.86,
+            25.35,
+            25.64,
+            25.31,
+            25.01
         ],
         "hsd_history_software": [
-            10.56,
-            10.71,
-            10.75,
-            10.79,
-            10.87,
-            10.67,
-            10.75,
-            10.85,
-            10.65,
-            10.55,
-            10.39,
-            10.2
+            10.19,
+            10.02,
+            10.08,
+            10.03,
+            10.21,
+            10.24,
+            10.33,
+            10.37,
+            10.29,
+            10.15,
+            10.14,
+            10.02
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:39",
-            "tag": "AI",
-            "text": "How Investors May Respond To TransUnion (TRU) Deepening Its Snowflake AI Data Cloud Integration"
+            "time": "11:00",
+            "tag": "MERCADO",
+            "text": "Axon Enterprise, Inc $AXON Shares Sold by Telemark Asset Management LLC"
         },
         {
-            "time": "08:22",
+            "time": "10:59",
             "tag": "MERCADO",
-            "text": "Assessing Enphase Energy (ENPH) Valuation After A Sharp Pullback And Renewed Investor Focus"
+            "text": "Apple Inc. $AAPL Stock Holdings Lessened by William Mack & Associates Inc."
         },
         {
-            "time": "08:00",
+            "time": "10:58",
             "tag": "MERCADO",
-            "text": "Dearborn Partners LLC Has $24 Million Stake in T-Mobile US, Inc. $TMUS"
+            "text": "Syon Capital LLC Grows Stake in Advanced Micro Devices, Inc. $AMD"
         },
         {
-            "time": "07:59",
+            "time": "10:58",
             "tag": "MERCADO",
-            "text": "Dearborn Partners LLC Has $29.29 Million Stock Position in Verizon Communications Inc. $VZ"
+            "text": "Verizon Communications Inc. $VZ Shares Sold by Los Angeles Capital Management LLC"
         },
         {
-            "time": "07:42",
+            "time": "10:57",
             "tag": "MERCADO",
-            "text": "CIBC Asset Management Inc Has $4.59 Million Position in Tyler Technologies, Inc. $TYL"
+            "text": "Syon Capital LLC Acquires 10,802 Shares of Cisco Systems, Inc. $CSCO"
         }
     ]
 }
