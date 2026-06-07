@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-07 19:27 UTC",
+        "last_updated": "2026-06-07 21:16 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 205.1,
-            "change": "+2.63%"
+            "change": "+1.34%"
         },
         {
             "symbol": "AMD",
             "price": 466.38,
-            "change": "-0.42%"
+            "change": "-0.1%"
         },
         {
             "symbol": "MSFT",
             "price": 416.67,
-            "change": "+0.54%"
+            "change": "+3.31%"
         },
         {
             "symbol": "CEG",
             "price": 254.83,
-            "change": "+2.35%"
+            "change": "+1.46%"
         },
         {
             "symbol": "VST",
             "price": 148.76,
-            "change": "-2.93%"
+            "change": "+2.37%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
+        "cer_current": 0.5,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
             0.48,
-            0.48,
-            0.49,
-            0.49,
             0.49,
             0.5,
+            0.5,
             0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
             0.49,
             0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.82,
-            25.02,
-            24.83,
-            25.14,
-            24.66,
-            24.74,
-            24.35,
-            24.74,
-            24.83,
-            24.86,
-            25.01,
-            25.1
+            24.02,
+            24.5,
+            24.12,
+            24.57,
+            24.22,
+            24.02,
+            24.0,
+            24.4,
+            24.76,
+            24.3,
+            24.51,
+            24.5
         ],
         "hsd_history_software": [
-            9.26,
-            9.32,
-            9.44,
-            9.61,
-            9.77,
-            9.72,
-            9.67,
-            9.5,
-            9.47,
-            9.62,
-            9.81,
-            9.8
+            10.38,
+            10.31,
+            10.14,
+            10.23,
+            10.1,
+            9.97,
+            9.89,
+            9.86,
+            9.89,
+            10.05,
+            10.01,
+            10.04
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "20:27",
+            "tag": "RESULTADOS",
+            "text": "Oracle Stock Analysis And Earnings Preview: Will It Have A Broadcom Moment?"
+        },
+        {
+            "time": "20:19",
+            "tag": "MERCADO",
+            "text": "Is Fortinet, Inc. (FTNT) A Good Stock To Buy Now?"
+        },
+        {
+            "time": "20:19",
+            "tag": "MERCADO",
+            "text": "Is Cisco Systems, Inc. (CSCO) A Good Stock To Buy Now?"
+        },
+        {
+            "time": "18:52",
+            "tag": "MERCADO",
+            "text": "GameStop and Ryan Cohen Still Want to Buy eBay. An Exclusive Interview."
+        },
+        {
             "time": "18:31",
             "tag": "MERCADO",
             "text": "Qualcomm Co-Founder Irwin Jacobs Was Told To Study Hotel Management \u2014 Instead He Built A $253 Billion Gia"
-        },
-        {
-            "time": "17:24",
-            "tag": "AI",
-            "text": "14 AI Stocks Making Headlines on Wall Street: Qualcomm, Microsoft, and More"
-        },
-        {
-            "time": "17:08",
-            "tag": "MERCADO",
-            "text": "Is Walmart Inc. (WMT) A Good Stock To Buy Now?"
-        },
-        {
-            "time": "16:48",
-            "tag": "MERCADO",
-            "text": "Is Akamai Technologies, Inc. (AKAM) A Good Stock To Buy Now?"
-        },
-        {
-            "time": "16:29",
-            "tag": "MERCADO",
-            "text": "Delta Thailand Included in S&P Global Sustainability Yearbook 2026 for 11th Consecutive Year"
         }
     ]
 }
