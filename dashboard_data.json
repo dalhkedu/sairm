@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-07 05:23 UTC",
+        "last_updated": "2026-06-07 09:17 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 205.1,
-            "change": "+3.32%"
+            "change": "+1.13%"
         },
         {
             "symbol": "AMD",
             "price": 466.38,
-            "change": "+0.3%"
+            "change": "+1.32%"
         },
         {
             "symbol": "MSFT",
             "price": 416.67,
-            "change": "+0.09%"
+            "change": "+1.4%"
         },
         {
             "symbol": "CEG",
             "price": 254.83,
-            "change": "+3.05%"
+            "change": "-2.0%"
         },
         {
             "symbol": "VST",
             "price": 148.76,
-            "change": "-3.18%"
+            "change": "+1.88%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.51,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.5,
-            0.5,
+            0.47,
+            0.47,
+            0.48,
+            0.47,
+            0.48,
+            0.48,
             0.49,
-            0.5,
-            0.49,
-            0.5,
-            0.49,
+            0.48,
+            0.48,
             0.49,
             0.49,
-            0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            24.53,
-            24.43,
-            24.29,
-            24.64,
-            24.88,
-            25.34,
-            25.22,
-            25.5,
-            25.83,
-            25.61,
-            25.26,
-            25.11
+            24.1,
+            24.08,
+            24.19,
+            24.37,
+            24.5,
+            24.07,
+            23.85,
+            24.31,
+            24.21,
+            24.18,
+            24.48,
+            24.72
         ],
         "hsd_history_software": [
-            10.77,
-            10.84,
-            10.74,
-            10.66,
+            10.56,
+            10.71,
+            10.75,
+            10.79,
+            10.87,
+            10.67,
+            10.75,
+            10.85,
             10.65,
-            10.45,
-            10.34,
-            10.3,
-            10.21,
-            10.15,
-            9.95,
-            9.86
+            10.55,
+            10.39,
+            10.2
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:21",
-            "tag": "MERCADO",
-            "text": "Teledyne\u2019s Defense And Space Moves Raise Questions On TDY Valuation"
-        },
-        {
-            "time": "03:48",
-            "tag": "MERCADO",
-            "text": "Magnite: Great Start To 2026 Should Drive The Stock's Recovery"
-        },
-        {
-            "time": "02:36",
-            "tag": "MERCADO",
-            "text": "Infleqtion ETF Launch And UK Quantum Hub Reframe Risk And Momentum"
-        },
-        {
-            "time": "02:09",
+            "time": "08:39",
             "tag": "AI",
-            "text": "Why The Narrative Around Globant (GLOB) Is Shifting On AI Growth And Softer Client Spending"
+            "text": "How Investors May Respond To TransUnion (TRU) Deepening Its Snowflake AI Data Cloud Integration"
         },
         {
-            "time": "01:25",
-            "tag": "AI",
-            "text": "How Investors May Respond To Motorola Solutions (MSI) Launching AI-Powered SafetyCam For Front-Line Workers"
+            "time": "08:22",
+            "tag": "MERCADO",
+            "text": "Assessing Enphase Energy (ENPH) Valuation After A Sharp Pullback And Renewed Investor Focus"
+        },
+        {
+            "time": "08:00",
+            "tag": "MERCADO",
+            "text": "Dearborn Partners LLC Has $24 Million Stake in T-Mobile US, Inc. $TMUS"
+        },
+        {
+            "time": "07:59",
+            "tag": "MERCADO",
+            "text": "Dearborn Partners LLC Has $29.29 Million Stock Position in Verizon Communications Inc. $VZ"
+        },
+        {
+            "time": "07:42",
+            "tag": "MERCADO",
+            "text": "CIBC Asset Management Inc Has $4.59 Million Position in Tyler Technologies, Inc. $TYL"
         }
     ]
 }
