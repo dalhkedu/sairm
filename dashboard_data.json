@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-06-08 09:24 UTC",
+        "last_updated": "2026-06-08 14:11 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 205.1,
-            "change": "-0.86%"
+            "price": 207.05,
+            "change": "+2.41%"
         },
         {
             "symbol": "AMD",
-            "price": 466.38,
-            "change": "-1.58%"
+            "price": 485.5,
+            "change": "-2.67%"
         },
         {
             "symbol": "MSFT",
-            "price": 416.67,
-            "change": "+3.02%"
+            "price": 412.07,
+            "change": "-0.5%"
         },
         {
             "symbol": "CEG",
-            "price": 254.83,
-            "change": "+0.74%"
+            "price": 253.79,
+            "change": "+2.62%"
         },
         {
             "symbol": "VST",
-            "price": 148.76,
-            "change": "+0.34%"
+            "price": 147.83,
+            "change": "+2.2%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.52,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.51,
             0.5,
             0.51,
             0.51,
             0.51,
             0.51,
+            0.5,
             0.51,
-            0.51
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.81,
-            25.1,
-            24.62,
-            25.06,
-            25.01,
-            25.0,
-            24.95,
-            25.45,
-            25.57,
-            25.79,
-            25.31,
-            24.95
+            25.28,
+            24.99,
+            24.64,
+            24.19,
+            23.9,
+            23.9,
+            24.27,
+            24.26,
+            24.05,
+            24.11,
+            24.46,
+            24.67
         ],
         "hsd_history_software": [
-            10.41,
+            10.16,
+            10.05,
+            10.22,
+            10.4,
+            10.4,
             10.21,
-            10.28,
-            10.08,
-            9.91,
-            9.91,
-            9.91,
-            9.9,
-            10.03,
-            9.91,
-            9.98,
-            10.17
+            10.27,
+            10.21,
+            10.41,
+            10.23,
+            10.22,
+            10.13
         ],
         "rci_data": [
             85.0,
-            20.51
+            20.705000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:34",
+            "time": "13:39",
             "tag": "MERCADO",
-            "text": "Clearbridge Investments LLC Sells 6,151,361 Shares of PayPal Holdings, Inc. $PYPL"
+            "text": "NorthStrive Defense Tech Executes Binding Agreement to Acquire Exclusive License to Patented Multi-Domain Drone Payload Technology for Defense, Aerospace and Maritime Applications"
         },
         {
-            "time": "08:34",
+            "time": "13:32",
             "tag": "MERCADO",
-            "text": "Lam Research Corporation $LRCX Shares Bought by Franklin Resources Inc."
+            "text": "What Makes CDW Corp (CDW) a Good Investment?"
         },
         {
-            "time": "08:34",
+            "time": "13:30",
             "tag": "MERCADO",
-            "text": "Deepwater Asset Management LLC Invests $4.98 Million in Axon Enterprise, Inc $AXON"
+            "text": "Broadridge\u2019s Distributed Ledger Repo Achieves 220% Year Over Year Growth; Processes $7.2 Trillion in May"
         },
         {
-            "time": "08:34",
+            "time": "13:29",
             "tag": "MERCADO",
-            "text": "1,513,280 Shares in Arista Networks, Inc. $ANET Bought by Clearbridge Investments LLC"
+            "text": "Market Chatter: Uber Technologies Opens Waitlist for Wayve Robotaxis Ahead of UK Launch"
         },
         {
-            "time": "08:34",
+            "time": "13:28",
             "tag": "MERCADO",
-            "text": "Erste Asset Management GmbH Purchases 63,717 Shares of Intuit Inc. $INTU"
+            "text": "How Is Fortinet's Stock Performance Compared to Other Cybersecurity Stocks?"
         }
     ]
 }
