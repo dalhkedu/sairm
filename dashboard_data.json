@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-06-10 14:25 UTC",
+        "last_updated": "2026-06-10 18:03 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 206.41,
-            "change": "-0.69%"
+            "price": 203.12,
+            "change": "+3.08%"
         },
         {
             "symbol": "AMD",
-            "price": 473.34,
-            "change": "+2.02%"
+            "price": 458.18,
+            "change": "-0.8%"
         },
         {
             "symbol": "MSFT",
-            "price": 403.32,
-            "change": "+3.43%"
+            "price": 401.86,
+            "change": "+2.47%"
         },
         {
             "symbol": "CEG",
-            "price": 244.22,
-            "change": "+2.25%"
+            "price": 244.2,
+            "change": "-0.1%"
         },
         {
             "symbol": "VST",
-            "price": 141.12,
-            "change": "+0.1%"
+            "price": 139.07,
+            "change": "+2.29%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
-        "rci_current": 0.21,
+        "cer_current": 0.51,
+        "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.54,
+            0.53,
+            0.52,
             0.52,
             0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.49,
-            0.48,
-            0.49,
-            0.5,
-            0.49,
-            0.49
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            23.16,
-            23.48,
-            23.51,
-            23.8,
-            23.76,
-            23.54,
-            23.89,
-            24.27,
-            24.69,
-            24.87,
-            24.67,
-            24.51
+            24.11,
+            23.78,
+            23.57,
+            23.93,
+            24.0,
+            24.42,
+            24.2,
+            24.13,
+            24.56,
+            24.7,
+            24.92,
+            25.0
         ],
         "hsd_history_software": [
-            9.22,
-            9.26,
-            9.16,
-            9.3,
-            9.46,
-            9.33,
-            9.33,
-            9.51,
-            9.55,
-            9.7,
-            9.83,
-            9.99
+            9.63,
+            9.69,
+            9.71,
+            9.72,
+            9.62,
+            9.79,
+            9.94,
+            10.13,
+            10.25,
+            10.06,
+            9.96,
+            10.15
         ],
         "rci_data": [
             85.0,
-            20.641000000000002
+            20.312
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:37",
+            "time": "17:30",
             "tag": "MERCADO",
-            "text": "VeriSign (VRSN) Valuation Check After Recent Share Price Momentum And Overvaluation Concerns"
+            "text": "Luxury meets legacy: ORO Hotel & Residences partners with Ron del Barrilito to create Signature Barrilito"
         },
         {
-            "time": "13:32",
+            "time": "17:22",
             "tag": "MERCADO",
-            "text": "Bank of America Introduces New Ways to Reward Clients, Manage Payments and Track Credit"
+            "text": "T1 Energy Shares Slide After Fuzzy Panda Alleges Management Misled Investors - T1 Energy  ( NYSE:TE ) "
         },
         {
-            "time": "13:30",
-            "tag": "AI",
-            "text": "Phenom Partners with ServiceNow to Introduce AI Hiring Agents"
+            "time": "17:19",
+            "tag": "CRYPTO",
+            "text": "To The Moon? SpaceX IPO May Ground Crypto ETFs - iShares Bitcoin Trust  ( NASDAQ:IBIT ) "
         },
         {
-            "time": "13:17",
+            "time": "17:14",
             "tag": "MERCADO",
-            "text": "Barclays Adjusts Lam Research Price Target to $335 From $275, Maintains Equal Weight Rating"
+            "text": "Roblox Corporation  ( RBLX )  Faces Securities Class Action Amid Surprise Age Verification Impact, $6.7 Billi"
         },
         {
-            "time": "13:10",
+            "time": "17:14",
             "tag": "MERCADO",
-            "text": "[6-K] Pop Culture Group Co., Ltd Current Report (Foreign Issuer) | CPOP SEC Filing - Form 6-K"
+            "text": "Dogecoin Whales Bought 200 Million DOGE Last Week: What's Going On?"
         }
     ]
 }
