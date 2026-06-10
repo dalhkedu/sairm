@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-10 05:21 UTC",
+        "last_updated": "2026-06-10 10:07 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 208.19,
-            "change": "-0.87%"
+            "change": "+3.41%"
         },
         {
             "symbol": "AMD",
             "price": 475.51,
-            "change": "-1.83%"
+            "change": "-0.53%"
         },
         {
             "symbol": "MSFT",
             "price": 403.41,
-            "change": "-0.78%"
+            "change": "-0.67%"
         },
         {
             "symbol": "CEG",
             "price": 251.65,
-            "change": "-3.49%"
+            "change": "+1.74%"
         },
         {
             "symbol": "VST",
             "price": 146.22,
-            "change": "+3.34%"
+            "change": "-0.1%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.55,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.55,
-            0.54,
-            0.53,
-            0.54,
-            0.54,
-            0.53,
-            0.52,
-            0.52,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
             0.51,
             0.51,
+            0.5,
+            0.5,
+            0.5,
             0.51,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            25.38,
-            24.97,
-            25.41,
-            25.92,
-            25.56,
-            25.47,
-            25.19,
-            25.61,
-            25.82,
-            25.35,
-            24.94,
-            24.53
+            22.42,
+            22.5,
+            22.7,
+            22.9,
+            23.25,
+            23.59,
+            24.06,
+            23.96,
+            24.12,
+            24.38,
+            24.45,
+            24.57
         ],
         "hsd_history_software": [
-            10.51,
-            10.57,
-            10.43,
-            10.24,
-            10.09,
-            10.03,
+            9.69,
+            9.82,
+            9.65,
+            9.85,
+            9.82,
+            9.83,
             10.01,
-            10.02,
-            9.97,
+            9.94,
             10.0,
-            10.17,
-            9.99
+            10.13,
+            9.98,
+            9.85
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:39",
-            "tag": "MERCADO",
-            "text": "Samsara executive vice president, CFO Dominic Phillips sells $691,765 in stock By Investing.com"
+            "time": "09:33",
+            "tag": "AI",
+            "text": "Qualcomm, Aramco, Saudi Arabia\u2019s RDIA and HUMAIN announce startups selected for Design in Saudi Arabia with AI 2026"
         },
         {
-            "time": "04:09",
+            "time": "09:25",
             "tag": "MERCADO",
-            "text": "Bandwidth, HubSpot, and Commerce Shares Are Falling, What You Need To Know"
+            "text": "A Look At Broadridge Financial Solutions (BR) Valuation After Recent Share Price Weakness"
         },
         {
-            "time": "04:09",
+            "time": "09:24",
             "tag": "MERCADO",
-            "text": "Hub Cyber Security (HUBC) major holder exits 143,772-share stake"
+            "text": "Deutsche Bank AG Has $1.06 Billion Stock Holdings in Intuit Inc. $INTU"
         },
         {
-            "time": "04:06",
+            "time": "09:16",
             "tag": "MERCADO",
-            "text": "Infosys shares fall over 1.5% as stock turns ex-dividend; price adjusts downward"
+            "text": "Los Angeles Capital Management LLC Boosts Position in Enphase Energy, Inc. $ENPH"
         },
         {
-            "time": "04:04",
-            "tag": "MERCADO",
-            "text": "TCS, Persistent Cushion Nifty IT Even As Infosys Drags Index After Anthropic's Fable Release"
+            "time": "09:12",
+            "tag": "AI",
+            "text": "Tenable Holdings, Inc. Adds AI-Powered Cloud Threat Detection to Tenable One Platform"
         }
     ]
 }
