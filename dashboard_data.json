@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-09 22:43 UTC",
+        "last_updated": "2026-06-10 00:17 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 208.19,
-            "change": "-2.64%"
+            "change": "+0.95%"
         },
         {
             "symbol": "AMD",
             "price": 475.51,
-            "change": "+3.29%"
+            "change": "+2.87%"
         },
         {
             "symbol": "MSFT",
             "price": 403.41,
-            "change": "+0.57%"
+            "change": "+1.54%"
         },
         {
             "symbol": "CEG",
             "price": 251.65,
-            "change": "-0.98%"
+            "change": "-0.68%"
         },
         {
             "symbol": "VST",
             "price": 146.22,
-            "change": "+2.91%"
+            "change": "-2.15%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.55,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
+            0.5,
+            0.5,
             0.49,
+            0.5,
+            0.5,
             0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            24.88,
-            24.65,
-            24.93,
-            24.61,
-            24.68,
-            24.22,
-            24.36,
-            24.41,
-            24.31,
-            24.75,
-            25.17,
-            24.83
+            25.42,
+            25.21,
+            25.67,
+            25.63,
+            26.13,
+            25.73,
+            25.61,
+            25.28,
+            24.92,
+            24.89,
+            24.94,
+            25.32
         ],
         "hsd_history_software": [
+            10.13,
+            9.93,
+            9.79,
+            9.84,
             9.89,
-            9.81,
-            9.93,
+            10.01,
+            9.82,
+            9.74,
+            9.85,
+            10.0,
             9.97,
-            10.02,
-            9.88,
-            9.94,
-            9.99,
-            9.95,
-            9.93,
-            9.9,
-            10.02
+            9.96
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:05",
+            "time": "23:40",
             "tag": "MERCADO",
-            "text": "Blinding the Watchmen: Abusing Cloud Logging Services for Defense Evasion and Visibility"
+            "text": "Barclays Lifts PT on Snowflake (SNOW) \u2013 Here\u2019s Why"
         },
         {
-            "time": "21:37",
-            "tag": "MERCADO",
-            "text": "Fortinet Inc (FTNT) Shares Fall 3.2% -- GF Value Says Still Over"
-        },
-        {
-            "time": "21:36",
+            "time": "23:12",
             "tag": "AI",
-            "text": "Supermicro proposes $7B equity plan to help fulfill AI server orders"
+            "text": "S&P Global Cohere Alliance Aims To Cement AI Data Workflow Role"
         },
         {
-            "time": "21:35",
+            "time": "23:10",
             "tag": "MERCADO",
-            "text": "Tyler Technologies Shares 2026 Investor Day Presentation"
+            "text": "Dell director Egon Durban-linked entity sells $34m Dell Technologies stock"
         },
         {
-            "time": "21:25",
+            "time": "23:02",
             "tag": "MERCADO",
-            "text": "Palo Alto Networks (NASDAQ:PANW) Shares Down 2.2% - Time to Sell?"
+            "text": "Arqit Quantum Inc. (ARQQ) Reports Q1 Fiscal 2026 Results"
+        },
+        {
+            "time": "23:01",
+            "tag": "MERCADO",
+            "text": "NetApp Inc (NTAP) Shares Fall 3.1% -- What GF Score of 87 Tells Investors"
         }
     ]
 }
