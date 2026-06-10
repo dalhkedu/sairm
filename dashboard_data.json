@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-10 21:25 UTC",
+        "last_updated": "2026-06-10 23:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 200.42,
-            "change": "-1.8%"
+            "change": "+3.13%"
         },
         {
             "symbol": "AMD",
             "price": 452.4,
-            "change": "+3.48%"
+            "change": "+1.84%"
         },
         {
             "symbol": "MSFT",
             "price": 397.36,
-            "change": "+2.78%"
+            "change": "+2.19%"
         },
         {
             "symbol": "CEG",
             "price": 242.3,
-            "change": "-0.74%"
+            "change": "+1.01%"
         },
         {
             "symbol": "VST",
             "price": 138.54,
-            "change": "+0.31%"
+            "change": "-1.76%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.62,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.48,
             0.48,
-            0.48,
-            0.48,
-            0.48,
+            0.47,
             0.48,
             0.48,
             0.49,
+            0.5,
             0.49,
-            0.5,
-            0.5,
-            0.5
+            0.49,
+            0.49,
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.59,
-            26.26,
-            26.11,
-            25.77,
-            25.32,
-            25.63,
-            25.97,
-            26.14,
-            25.75,
-            25.59,
-            25.41,
-            24.94
+            25.12,
+            25.31,
+            25.35,
+            25.2,
+            25.6,
+            25.51,
+            26.01,
+            25.67,
+            25.24,
+            25.46,
+            25.44,
+            25.39
         ],
         "hsd_history_software": [
+            10.3,
+            10.34,
+            10.28,
+            10.17,
             10.04,
-            9.88,
-            9.94,
-            10.03,
-            9.84,
-            9.91,
-            9.97,
+            10.09,
+            10.05,
+            10.05,
             10.16,
-            10.08,
-            10.04,
-            10.04,
-            9.89
+            10.25,
+            10.25,
+            10.14
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:38",
-            "tag": "MERCADO",
-            "text": "Stocks making big moves yesterday: J. M. Smucker, International Flavors & Fragrances, Lam Research, Portillo's, and Redwire"
-        },
-        {
-            "time": "20:24",
-            "tag": "MERCADO",
-            "text": "[8-K] Rapid7, Inc. Reports Material Event"
-        },
-        {
-            "time": "20:22",
-            "tag": "MERCADO",
-            "text": "[Form 4] Rapid7, Inc. Insider Trading Activity"
-        },
-        {
-            "time": "20:17",
+            "time": "22:16",
             "tag": "AI",
-            "text": "AI-powered WAF, virtual patching: How F5 is hardening networks against frontier threats"
+            "text": "HPE Unleash AI targets stalled pilots"
         },
         {
-            "time": "20:15",
+            "time": "22:15",
             "tag": "MERCADO",
-            "text": "Match Group Inc. stock (US57669L1008): Dating app operator in focus after latest quarterly report"
+            "text": "A Look At Thermo Fisher Scientific (TMO) Valuation After Q1 Beat And ASMS Product Announcements"
+        },
+        {
+            "time": "22:15",
+            "tag": "MERCADO",
+            "text": "Tesla\u2019s Robotaxi Falls Short With Long Waits and Stalled Rides"
+        },
+        {
+            "time": "22:14",
+            "tag": "AI",
+            "text": "Teradyne And Tokyo Electron Target AI Chiplet Test As Adoption Watchpoint"
+        },
+        {
+            "time": "22:09",
+            "tag": "MERCADO",
+            "text": "Shareholder challenge to Thomson Reuters over ICE contracts wins only slim support"
         }
     ]
 }
