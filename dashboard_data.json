@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-10 00:17 UTC",
+        "last_updated": "2026-06-10 05:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 208.19,
-            "change": "+0.95%"
+            "change": "-0.87%"
         },
         {
             "symbol": "AMD",
             "price": 475.51,
-            "change": "+2.87%"
+            "change": "-1.83%"
         },
         {
             "symbol": "MSFT",
             "price": 403.41,
-            "change": "+1.54%"
+            "change": "-0.78%"
         },
         {
             "symbol": "CEG",
             "price": 251.65,
-            "change": "-0.68%"
+            "change": "-3.49%"
         },
         {
             "symbol": "VST",
             "price": 146.22,
-            "change": "-2.15%"
+            "change": "+3.34%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.61,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49
+            0.55,
+            0.54,
+            0.53,
+            0.54,
+            0.54,
+            0.53,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.42,
-            25.21,
-            25.67,
-            25.63,
-            26.13,
-            25.73,
+            25.38,
+            24.97,
+            25.41,
+            25.92,
+            25.56,
+            25.47,
+            25.19,
             25.61,
-            25.28,
-            24.92,
-            24.89,
+            25.82,
+            25.35,
             24.94,
-            25.32
+            24.53
         ],
         "hsd_history_software": [
-            10.13,
-            9.93,
-            9.79,
-            9.84,
-            9.89,
+            10.51,
+            10.57,
+            10.43,
+            10.24,
+            10.09,
+            10.03,
             10.01,
-            9.82,
-            9.74,
-            9.85,
-            10.0,
+            10.02,
             9.97,
-            9.96
+            10.0,
+            10.17,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "23:40",
+            "time": "04:39",
             "tag": "MERCADO",
-            "text": "Barclays Lifts PT on Snowflake (SNOW) \u2013 Here\u2019s Why"
+            "text": "Samsara executive vice president, CFO Dominic Phillips sells $691,765 in stock By Investing.com"
         },
         {
-            "time": "23:12",
-            "tag": "AI",
-            "text": "S&P Global Cohere Alliance Aims To Cement AI Data Workflow Role"
+            "time": "04:09",
+            "tag": "MERCADO",
+            "text": "Bandwidth, HubSpot, and Commerce Shares Are Falling, What You Need To Know"
         },
         {
-            "time": "23:10",
+            "time": "04:09",
             "tag": "MERCADO",
-            "text": "Dell director Egon Durban-linked entity sells $34m Dell Technologies stock"
+            "text": "Hub Cyber Security (HUBC) major holder exits 143,772-share stake"
         },
         {
-            "time": "23:02",
+            "time": "04:06",
             "tag": "MERCADO",
-            "text": "Arqit Quantum Inc. (ARQQ) Reports Q1 Fiscal 2026 Results"
+            "text": "Infosys shares fall over 1.5% as stock turns ex-dividend; price adjusts downward"
         },
         {
-            "time": "23:01",
+            "time": "04:04",
             "tag": "MERCADO",
-            "text": "NetApp Inc (NTAP) Shares Fall 3.1% -- What GF Score of 87 Tells Investors"
+            "text": "TCS, Persistent Cushion Nifty IT Even As Infosys Drags Index After Anthropic's Fable Release"
         }
     ]
 }
