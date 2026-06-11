@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-06-11 09:13 UTC",
+        "last_updated": "2026-06-11 14:01 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 200.42,
-            "change": "+1.8%"
+            "price": 203.22,
+            "change": "-3.38%"
         },
         {
             "symbol": "AMD",
-            "price": 452.4,
-            "change": "+2.99%"
+            "price": 478.98,
+            "change": "+2.02%"
         },
         {
             "symbol": "MSFT",
-            "price": 397.36,
-            "change": "-1.83%"
+            "price": 392.28,
+            "change": "-0.76%"
         },
         {
             "symbol": "CEG",
-            "price": 242.3,
-            "change": "-1.4%"
+            "price": 247.04,
+            "change": "-0.59%"
         },
         {
             "symbol": "VST",
-            "price": 138.54,
-            "change": "-1.38%"
+            "price": 144.62,
+            "change": "-3.02%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.41,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
+            0.47,
+            0.48,
+            0.47,
             0.48,
             0.48,
             0.48,
-            0.49,
-            0.49,
-            0.49,
             0.49,
             0.5,
+            0.5,
+            0.5,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            25.52,
+            23.86,
+            23.73,
+            23.86,
+            24.22,
+            24.69,
+            25.0,
             25.03,
-            24.83,
-            24.74,
-            25.24,
-            25.12,
-            24.91,
-            25.16,
-            24.76,
-            25.26,
-            25.46,
-            25.03
+            25.04,
+            24.68,
+            24.29,
+            24.51,
+            24.63
         ],
         "hsd_history_software": [
-            9.91,
-            10.07,
-            10.17,
-            10.2,
-            10.26,
-            10.41,
-            10.25,
-            10.11,
-            9.98,
-            10.07,
-            10.16,
-            10.05
+            9.87,
+            9.86,
+            10.01,
+            9.93,
+            9.96,
+            9.9,
+            9.73,
+            9.74,
+            9.92,
+            9.86,
+            10.0,
+            10.07
         ],
         "rci_data": [
             85.0,
-            20.041999999999998
+            20.322000000000003
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:41",
+            "time": "13:30",
             "tag": "MERCADO",
-            "text": "RBC Capital Markets plans more hiring for U.S. expansion, CEO says"
+            "text": "Menletics Brings Military Calisthenics Home - New Personalized App for Men Earns Hundreds of User Reviews"
         },
         {
-            "time": "08:37",
+            "time": "13:29",
             "tag": "MERCADO",
-            "text": "Dorsey & Whitney Trust CO LLC Sells 7,355 Shares of Qualcomm Incorporated $QCOM"
+            "text": "Ally Medical ER Is Headed to Pflugerville"
         },
         {
-            "time": "08:31",
+            "time": "13:25",
             "tag": "MERCADO",
-            "text": "Capital Wealth Planning LLC Has $163.24 Million Stock Holdings in Verizon Communications Inc. $VZ"
+            "text": "Why Is Paranovus Entertainment Technology Stock Sliding On Thursday? - Paranovus Entertainment  ( NASDAQ:PA"
         },
         {
-            "time": "08:31",
+            "time": "13:25",
             "tag": "MERCADO",
-            "text": "Deutsche Bank AG Decreases Stock Position in PayPal Holdings, Inc. $PYPL"
+            "text": "Miral and Warner Bros. Discovery Global Experiences Announce Two New DC Attractions Coming to Warner Bros"
         },
         {
-            "time": "08:28",
-            "tag": "MERCADO",
-            "text": "Cerity Partners LLC Acquires 59,279 Shares of AT&T Inc. $T"
+            "time": "13:23",
+            "tag": "AI",
+            "text": "KFSH Advances Practical AI Applications Driving Transformation Across Specialized Healthcare"
         }
     ]
 }
