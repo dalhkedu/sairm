@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-06-11 18:17 UTC",
+        "last_updated": "2026-06-11 21:23 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": NaN,
-            "change": "+2.74%"
+            "price": 204.87,
+            "change": "+1.79%"
         },
         {
             "symbol": "AMD",
-            "price": 477.43,
-            "change": "+2.33%"
+            "price": 488.45,
+            "change": "+1.81%"
         },
         {
             "symbol": "MSFT",
-            "price": 388.85,
-            "change": "+0.16%"
+            "price": 390.34,
+            "change": "-3.1%"
         },
         {
             "symbol": "CEG",
-            "price": 246.1,
-            "change": "-2.81%"
+            "price": 246.71,
+            "change": "-0.27%"
         },
         {
             "symbol": "VST",
-            "price": 145.59,
-            "change": "-3.06%"
+            "price": 146.38,
+            "change": "-0.59%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
-        "rci_current": NaN,
+        "cer_current": 0.61,
+        "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.49,
             0.49,
             0.5,
+            0.49,
             0.5,
             0.51,
             0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            25.99,
-            26.21,
-            25.74,
-            25.33,
-            25.56,
-            25.55,
-            25.18,
-            25.2,
-            25.47,
-            25.15,
-            25.11,
-            24.82
+            24.56,
+            24.84,
+            24.48,
+            24.56,
+            24.28,
+            24.53,
+            24.89,
+            24.69,
+            25.06,
+            24.93,
+            24.87,
+            24.87
         ],
         "hsd_history_software": [
-            10.15,
-            10.17,
-            10.33,
-            10.26,
-            10.11,
-            10.05,
-            10.06,
-            10.09,
-            10.23,
-            10.08,
-            9.97,
+            9.64,
+            9.8,
+            9.71,
+            9.63,
+            9.73,
+            9.69,
+            9.54,
+            9.54,
+            9.67,
+            9.81,
+            9.75,
             9.84
         ],
         "rci_data": [
             85.0,
-            NaN
+            20.487
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:31",
+            "time": "20:34",
+            "tag": "MERCADO",
+            "text": "Seagate Technology Holdings Insider Sold Shares Worth $2,345,874, According to a Recent SEC Filing"
+        },
+        {
+            "time": "20:28",
+            "tag": "MERCADO",
+            "text": "Is It Time To Reassess Enphase Energy (ENPH) After Recent Price Volatility?"
+        },
+        {
+            "time": "20:17",
             "tag": "AI",
-            "text": "The Bull Case For Raymond James Financial (RJF) Could Change Following New AI-Focused Chief Architect Hire"
+            "text": "Alphabet (GOOG) investors expand stock plan but reject all ESG and AI proposals"
         },
         {
-            "time": "17:30",
+            "time": "20:15",
             "tag": "MERCADO",
-            "text": "Unusual Options Activity Points to Bullish Bets on MSFT, CSX, and SCHW"
+            "text": "Is Monolithic Power Systems, Inc. (MPWR) A Good Stock To Buy Now?"
         },
         {
-            "time": "17:21",
+            "time": "20:14",
             "tag": "MERCADO",
-            "text": "Is Expedia Group, Inc. (EXPE) A Good Stock To Buy Now?"
-        },
-        {
-            "time": "17:21",
-            "tag": "MERCADO",
-            "text": "Is Constellation Energy Corporation (CEG) A Good Stock To Buy Now?"
-        },
-        {
-            "time": "17:20",
-            "tag": "MERCADO",
-            "text": "Tesla's Optimus robot ambitions come into focus in Austin"
+            "text": "Analog Devices Inc Stock (ADI) Closed Up by 5.02% on Jun 11: What Investors Need To Know"
         }
     ]
 }
