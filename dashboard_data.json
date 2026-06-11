@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-06-11 04:14 UTC",
+        "last_updated": "2026-06-11 09:13 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 200.42,
-            "change": "+1.2%"
+            "change": "+1.8%"
         },
         {
             "symbol": "AMD",
             "price": 452.4,
-            "change": "+0.74%"
+            "change": "+2.99%"
         },
         {
             "symbol": "MSFT",
             "price": 397.36,
-            "change": "+1.27%"
+            "change": "-1.83%"
         },
         {
             "symbol": "CEG",
             "price": 242.3,
-            "change": "-1.42%"
+            "change": "-1.4%"
         },
         {
             "symbol": "VST",
             "price": 138.54,
-            "change": "+2.41%"
+            "change": "-1.38%"
         }
     ],
     "dashboard_metrics": {
@@ -36,46 +36,46 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.47,
-            0.47,
-            0.48,
+            0.49,
+            0.49,
             0.49,
             0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
             0.49,
             0.49,
             0.5,
-            0.5,
-            0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            24.55,
-            24.97,
-            25.2,
-            25.4,
-            25.49,
-            25.63,
-            25.42,
-            25.02,
-            24.67,
-            24.42,
-            24.9,
-            24.54
+            25.52,
+            25.03,
+            24.83,
+            24.74,
+            25.24,
+            25.12,
+            24.91,
+            25.16,
+            24.76,
+            25.26,
+            25.46,
+            25.03
         ],
         "hsd_history_software": [
-            10.12,
+            9.91,
+            10.07,
+            10.17,
+            10.2,
             10.26,
-            10.31,
+            10.41,
             10.25,
+            10.11,
+            9.98,
+            10.07,
             10.16,
-            10.01,
-            10.1,
-            10.12,
-            9.96,
-            9.93,
-            9.93,
-            10.03
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "03:40",
+            "time": "08:41",
             "tag": "MERCADO",
-            "text": "Fubo and NBCUniversal strike a deal that brings back NBC, Bravo and NBCSN"
+            "text": "RBC Capital Markets plans more hiring for U.S. expansion, CEO says"
         },
         {
-            "time": "03:38",
+            "time": "08:37",
             "tag": "MERCADO",
-            "text": "FRWD ETF Holdings List \u2014 NASDAQ:FRWD"
+            "text": "Dorsey & Whitney Trust CO LLC Sells 7,355 Shares of Qualcomm Incorporated $QCOM"
         },
         {
-            "time": "03:27",
-            "tag": "AI",
-            "text": "SLB strikes deal with Venezuela's PDVSA to modernise oil sector with AI push"
+            "time": "08:31",
+            "tag": "MERCADO",
+            "text": "Capital Wealth Planning LLC Has $163.24 Million Stock Holdings in Verizon Communications Inc. $VZ"
         },
         {
-            "time": "03:07",
+            "time": "08:31",
             "tag": "MERCADO",
-            "text": "Datadog CEO Olivier Pomel sells $29.5 million in stock By Investing.com"
+            "text": "Deutsche Bank AG Decreases Stock Position in PayPal Holdings, Inc. $PYPL"
         },
         {
-            "time": "03:00",
+            "time": "08:28",
             "tag": "MERCADO",
-            "text": "FuboTV adds NBCUniversal networks to streaming lineup"
+            "text": "Cerity Partners LLC Acquires 59,279 Shares of AT&T Inc. $T"
         }
     ]
 }
