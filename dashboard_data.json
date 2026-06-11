@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-06-11 14:01 UTC",
+        "last_updated": "2026-06-11 18:17 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 203.22,
-            "change": "-3.38%"
+            "price": NaN,
+            "change": "+2.74%"
         },
         {
             "symbol": "AMD",
-            "price": 478.98,
-            "change": "+2.02%"
+            "price": 477.43,
+            "change": "+2.33%"
         },
         {
             "symbol": "MSFT",
-            "price": 392.28,
-            "change": "-0.76%"
+            "price": 388.85,
+            "change": "+0.16%"
         },
         {
             "symbol": "CEG",
-            "price": 247.04,
-            "change": "-0.59%"
+            "price": 246.1,
+            "change": "-2.81%"
         },
         {
             "symbol": "VST",
-            "price": 144.62,
-            "change": "-3.02%"
+            "price": 145.59,
+            "change": "-3.06%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
-        "rci_current": 0.2,
+        "cer_current": 0.55,
+        "rci_current": NaN,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
+            0.49,
+            0.49,
             0.49,
             0.5,
             0.5,
+            0.51,
             0.5,
-            0.49,
-            0.5
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            23.86,
-            23.73,
-            23.86,
-            24.22,
-            24.69,
-            25.0,
-            25.03,
-            25.04,
-            24.68,
-            24.29,
-            24.51,
-            24.63
+            25.99,
+            26.21,
+            25.74,
+            25.33,
+            25.56,
+            25.55,
+            25.18,
+            25.2,
+            25.47,
+            25.15,
+            25.11,
+            24.82
         ],
         "hsd_history_software": [
-            9.87,
-            9.86,
-            10.01,
-            9.93,
-            9.96,
-            9.9,
-            9.73,
-            9.74,
-            9.92,
-            9.86,
-            10.0,
-            10.07
+            10.15,
+            10.17,
+            10.33,
+            10.26,
+            10.11,
+            10.05,
+            10.06,
+            10.09,
+            10.23,
+            10.08,
+            9.97,
+            9.84
         ],
         "rci_data": [
             85.0,
-            20.322000000000003
+            NaN
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:30",
-            "tag": "MERCADO",
-            "text": "Menletics Brings Military Calisthenics Home - New Personalized App for Men Earns Hundreds of User Reviews"
-        },
-        {
-            "time": "13:29",
-            "tag": "MERCADO",
-            "text": "Ally Medical ER Is Headed to Pflugerville"
-        },
-        {
-            "time": "13:25",
-            "tag": "MERCADO",
-            "text": "Why Is Paranovus Entertainment Technology Stock Sliding On Thursday? - Paranovus Entertainment  ( NASDAQ:PA"
-        },
-        {
-            "time": "13:25",
-            "tag": "MERCADO",
-            "text": "Miral and Warner Bros. Discovery Global Experiences Announce Two New DC Attractions Coming to Warner Bros"
-        },
-        {
-            "time": "13:23",
+            "time": "17:31",
             "tag": "AI",
-            "text": "KFSH Advances Practical AI Applications Driving Transformation Across Specialized Healthcare"
+            "text": "The Bull Case For Raymond James Financial (RJF) Could Change Following New AI-Focused Chief Architect Hire"
+        },
+        {
+            "time": "17:30",
+            "tag": "MERCADO",
+            "text": "Unusual Options Activity Points to Bullish Bets on MSFT, CSX, and SCHW"
+        },
+        {
+            "time": "17:21",
+            "tag": "MERCADO",
+            "text": "Is Expedia Group, Inc. (EXPE) A Good Stock To Buy Now?"
+        },
+        {
+            "time": "17:21",
+            "tag": "MERCADO",
+            "text": "Is Constellation Energy Corporation (CEG) A Good Stock To Buy Now?"
+        },
+        {
+            "time": "17:20",
+            "tag": "MERCADO",
+            "text": "Tesla's Optimus robot ambitions come into focus in Austin"
         }
     ]
 }
