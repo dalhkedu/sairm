@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-06-12 19:07 UTC",
+        "last_updated": "2026-06-12 21:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 204.99,
-            "change": "+3.46%"
+            "price": 205.19,
+            "change": "-1.7%"
         },
         {
             "symbol": "AMD",
-            "price": 516.3,
-            "change": "-0.78%"
+            "price": 511.57,
+            "change": "+1.36%"
         },
         {
             "symbol": "MSFT",
-            "price": 388.95,
-            "change": "-2.43%"
+            "price": 390.74,
+            "change": "+0.29%"
         },
         {
             "symbol": "CEG",
-            "price": 253.47,
-            "change": "-1.27%"
+            "price": 253.76,
+            "change": "+1.85%"
         },
         {
             "symbol": "VST",
-            "price": 149.13,
-            "change": "-2.41%"
+            "price": 148.02,
+            "change": "+2.97%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
-        "rci_current": 0.2,
+        "cer_current": 0.66,
+        "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.53,
+            0.5,
+            0.51,
+            0.51,
             0.52,
             0.52,
             0.52,
             0.51,
             0.5,
-            0.5
+            0.51,
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.32,
-            24.67,
-            24.61,
-            24.19,
-            23.86,
-            23.52,
-            23.98,
-            24.39,
-            24.43,
-            24.79,
-            24.72,
-            24.52
+            25.27,
+            24.95,
+            25.31,
+            25.5,
+            25.28,
+            24.94,
+            24.98,
+            25.24,
+            25.5,
+            25.29,
+            25.31,
+            24.92
         ],
         "hsd_history_software": [
-            9.89,
-            9.82,
-            9.76,
+            9.64,
+            9.79,
+            9.95,
+            9.94,
+            9.99,
+            10.04,
+            9.97,
+            10.01,
+            10.03,
+            10.06,
             9.93,
-            9.92,
-            10.09,
-            10.17,
-            10.11,
-            10.11,
-            10.25,
-            10.18,
-            10.14
+            10.02
         ],
         "rci_data": [
             85.0,
-            20.499000000000002
+            20.519000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:18",
+            "time": "20:47",
             "tag": "MERCADO",
-            "text": "[144] KULICKE & SOFFA INDUSTRIES INC SEC Filing"
+            "text": "Trimble Inc. Stock (US8962391058): Analyst views and ownership moves in focus"
         },
         {
-            "time": "17:49",
+            "time": "20:29",
             "tag": "MERCADO",
-            "text": "AMETEK Inc Stock (US0311001004): Valuation metrics in focus after recent record highs"
+            "text": "How Investors Are Reacting To General Electric (GE) Adding Microsoft Leader And Expanding Aerospace Partnerships"
         },
         {
-            "time": "17:26",
+            "time": "20:29",
             "tag": "MERCADO",
-            "text": "Is Roper Technologies, Inc. (ROP) A Good Stock To Buy Now?"
+            "text": "Verisk Analytics (VRSK) Stock After New Hurricane Model Update How Does The Valuation Stack Up"
         },
         {
-            "time": "17:20",
+            "time": "20:19",
             "tag": "MERCADO",
-            "text": "Monolithic Power Systems Stock (US6098391054): sharp weekly move puts valuation back in focus"
+            "text": "KLA Corporation, Amkor, and Teradyne Shares Skyrocket, What You Need To Know"
         },
         {
-            "time": "17:16",
-            "tag": "MERCADO",
-            "text": "Here's Why You Should Hold Stryker Stock in Your Portfolio for Now"
+            "time": "20:18",
+            "tag": "AI",
+            "text": "Seagate STX Jumps As Wall Street Lifts AI Price Targets"
         }
     ]
 }
