@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-14 16:24 UTC",
+        "last_updated": "2026-06-14 18:15 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 205.19,
-            "change": "+0.14%"
+            "change": "-0.51%"
         },
         {
             "symbol": "AMD",
             "price": 511.57,
-            "change": "-0.85%"
+            "change": "+3.27%"
         },
         {
             "symbol": "MSFT",
             "price": 390.74,
-            "change": "+1.84%"
+            "change": "+2.04%"
         },
         {
             "symbol": "CEG",
             "price": 253.76,
-            "change": "+0.23%"
+            "change": "+1.88%"
         },
         {
             "symbol": "VST",
             "price": 148.02,
-            "change": "-0.29%"
+            "change": "+2.61%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.52,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.54,
-            0.54,
-            0.54,
-            0.53,
-            0.53,
-            0.52,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.5
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.67,
-            24.66,
-            24.78,
-            24.87,
-            25.09,
-            24.67,
-            24.79,
-            25.14,
-            24.68,
-            24.86,
-            24.43,
-            24.8
+            23.49,
+            23.95,
+            24.04,
+            24.3,
+            24.44,
+            24.63,
+            24.5,
+            24.28,
+            24.65,
+            24.74,
+            24.37,
+            24.85
         ],
         "hsd_history_software": [
-            10.24,
-            10.37,
-            10.21,
-            10.06,
-            9.94,
-            10.06,
-            9.97,
-            9.87,
             9.74,
-            9.59,
-            9.78,
-            9.9
+            9.85,
+            9.9,
+            9.97,
+            9.93,
+            10.11,
+            10.19,
+            10.03,
+            10.04,
+            10.03,
+            9.89,
+            9.98
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:03",
-            "tag": "MERCADO",
-            "text": "Costco fixes its biggest customer pain points"
+            "time": "16:36",
+            "tag": "AI",
+            "text": "Arista Networks\u2019 $3.5 Billion AI Target: What the Income Statement Says in 2026"
         },
         {
-            "time": "14:49",
+            "time": "16:25",
             "tag": "MERCADO",
-            "text": "Evergy and Entergy Stocks Rise as Data-Center Power Demand Fuels Utility Valuations"
+            "text": "CDW Corp. Stock (US1258961002): Quarterly earnings and demand trends in focus"
         },
         {
-            "time": "14:48",
+            "time": "16:22",
             "tag": "MERCADO",
-            "text": "Onto Innovation initiated with an Overweight at Morgan Stanley"
+            "text": "Top DOW Execs to Watch in 2026: Intel Corp.\u2019s David Guffey"
         },
         {
-            "time": "13:52",
-            "tag": "MERCADO",
-            "text": "Microsoft (MSFT) and Quantinuum (QNT) Hit Quantum Milestone, Moving Closer to Commercial Reality"
+            "time": "16:10",
+            "tag": "RESULTADOS",
+            "text": "Align Technology Inc. Stock (US0162551016): Valuation Focus After Strong Earnings Beat"
         },
         {
-            "time": "13:11",
+            "time": "16:08",
             "tag": "MERCADO",
-            "text": "AV Introduces TOM 50 RE, a Backpackable UGV for Rapid Reconnaissance and Explosive Ordnance Disposal"
+            "text": "Tesla\u2019s Autonomous Driving Progress Earns Strong Backing From Piper Sandler (TSLA)"
         }
     ]
 }
