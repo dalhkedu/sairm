@@ -1,48 +1,48 @@
 {
     "metadata": {
-        "last_updated": "2026-06-15 18:40 UTC",
+        "last_updated": "2026-06-15 21:45 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 212.04,
-            "change": "+0.6%"
+            "price": 212.45,
+            "change": "-0.44%"
         },
         {
             "symbol": "AMD",
-            "price": 547.67,
-            "change": "+3.49%"
+            "price": 547.26,
+            "change": "+0.84%"
         },
         {
             "symbol": "MSFT",
-            "price": 398.53,
-            "change": "-1.09%"
+            "price": 399.76,
+            "change": "+2.51%"
         },
         {
             "symbol": "CEG",
-            "price": 262.65,
-            "change": "+2.15%"
+            "price": 262.35,
+            "change": "-2.49%"
         },
         {
             "symbol": "VST",
-            "price": 153.71,
-            "change": "+2.32%"
+            "price": 153.52,
+            "change": "+0.13%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.63,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
             0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
             0.5,
             0.5,
             0.5,
@@ -50,36 +50,36 @@
             0.5
         ],
         "hsd_history_hardware": [
-            24.54,
-            24.47,
-            24.77,
-            24.78,
-            24.71,
-            24.59,
-            25.05,
-            24.81,
-            24.82,
-            24.67,
-            24.63,
-            24.62
+            26.3,
+            26.6,
+            26.36,
+            26.5,
+            25.98,
+            26.4,
+            25.99,
+            25.63,
+            25.42,
+            25.44,
+            25.36,
+            24.88
         ],
         "hsd_history_software": [
-            10.37,
-            10.37,
-            10.45,
-            10.4,
-            10.2,
-            10.25,
+            10.16,
             10.08,
-            10.24,
-            10.08,
-            10.04,
-            10.01,
-            9.91
+            9.89,
+            10.0,
+            10.11,
+            10.18,
+            10.36,
+            10.32,
+            10.19,
+            10.22,
+            10.03,
+            9.93
         ],
         "rci_data": [
             85.0,
-            21.203999999999997
+            21.245
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:46",
+            "time": "20:53",
+            "tag": "RESULTADOS",
+            "text": "F5 Inc. Stock (US3156161024): Earnings Picture And Valuation Keep The Seattle Software Player In Foc"
+        },
+        {
+            "time": "20:46",
+            "tag": "MERCADO",
+            "text": "Qualcomm in talks to buy Tenstorrent, The Information reports"
+        },
+        {
+            "time": "20:43",
+            "tag": "MERCADO",
+            "text": "Mass-market twist for renters: how MAA\u2019s SmartRent platform reshapes apartment living"
+        },
+        {
+            "time": "20:41",
             "tag": "MERCADO",
             "text": "[144] APPLIED MATERIALS INC /DE SEC Filing"
         },
         {
-            "time": "17:34",
-            "tag": "AI",
-            "text": "Which Is the Better Tech ETF for Artificial Intelligence (AI) Stocks, State Street's XLK or Vanguard's VGT?"
-        },
-        {
-            "time": "17:33",
+            "time": "20:36",
             "tag": "MERCADO",
-            "text": "AT&T Stock (T) Opinions on World Cup Exposure and Telecom Holdings"
-        },
-        {
-            "time": "17:29",
-            "tag": "MERCADO",
-            "text": "Micron's Broadcom\u2011Driven Drop Never Made Sense \u2014 Dip Buyers Are Up 40%"
-        },
-        {
-            "time": "17:28",
-            "tag": "MERCADO",
-            "text": "Are ROKU, PAYO, LAB, FOX Obtaining Fair Deals for their Shareholders?"
+            "text": "Salesforce to acquire customer service automation startup Fin for $3.6B"
         }
     ]
 }
