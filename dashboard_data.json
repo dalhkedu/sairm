@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-06-16 15:57 UTC",
+        "last_updated": "2026-06-16 19:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 209.52,
-            "change": "+1.06%"
+            "price": 208.55,
+            "change": "+2.76%"
         },
         {
             "symbol": "AMD",
-            "price": 522.63,
-            "change": "-2.3%"
+            "price": 513.42,
+            "change": "+2.23%"
         },
         {
             "symbol": "MSFT",
-            "price": 393.09,
-            "change": "-0.4%"
+            "price": 393.67,
+            "change": "-0.03%"
         },
         {
             "symbol": "CEG",
-            "price": 270.03,
-            "change": "+0.14%"
+            "price": NaN,
+            "change": "+1.5%"
         },
         {
             "symbol": "VST",
-            "price": 158.15,
-            "change": "+3.43%"
+            "price": 159.26,
+            "change": "-0.65%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.55,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
             0.5,
             0.5,
             0.51,
-            0.5,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.84,
-            25.87,
-            26.05,
-            26.02,
-            25.83,
-            26.18,
-            25.76,
-            25.39,
-            25.38,
-            25.36,
-            24.94,
-            24.88
+            26.25,
+            25.88,
+            25.71,
+            26.19,
+            25.73,
+            26.17,
+            26.13,
+            26.57,
+            26.33,
+            25.89,
+            25.77,
+            25.33
         ],
         "hsd_history_software": [
-            10.07,
-            9.99,
-            9.81,
-            9.74,
-            9.78,
-            9.64,
-            9.53,
-            9.7,
-            9.67,
-            9.63,
-            9.82,
-            10.01
+            10.2,
+            10.16,
+            10.13,
+            10.24,
+            10.34,
+            10.27,
+            10.11,
+            10.28,
+            10.16,
+            10.32,
+            10.13,
+            10.03
         ],
         "rci_data": [
             85.0,
-            20.952
+            20.855
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:08",
+            "time": "19:08",
+            "tag": "MERCADO",
+            "text": "What Led JPMorgan to Revisit Its Tesla Inc (TSLA) Stock Rating?"
+        },
+        {
+            "time": "19:03",
             "tag": "AI",
-            "text": "Western Digital stock jumps as AI trade reignites"
+            "text": "Goldman Sachs Downgrades Intuit (INTU) to Sell and Says AI Could Gut TurboTax Revenue by 2030"
         },
         {
-            "time": "15:02",
+            "time": "18:58",
             "tag": "MERCADO",
-            "text": "Webull Canada launches 24/5 overnight trading"
+            "text": "Cisco Systems Inc (CSCO) Partners With AT&T. It\u2019s About Cars"
         },
         {
-            "time": "14:59",
+            "time": "18:53",
+            "tag": "MERCADO",
+            "text": "H.C. Wainwright Remains a Buy on Iovance Biotherapeutics (IOVA)"
+        },
+        {
+            "time": "18:47",
             "tag": "AI",
-            "text": "Inside Keysight's VPIphotonics deal for AI data center optics"
-        },
-        {
-            "time": "14:59",
-            "tag": "MERCADO",
-            "text": "Piper Sandler reiterates Take-Two stock rating on GTA 6 data"
-        },
-        {
-            "time": "14:55",
-            "tag": "MERCADO",
-            "text": "Wells Fargo named as preferred home mortgage lender for 3D printed homes constructed by ICON"
+            "text": "Is Applied Materials (AMAT) Quietly Recasting Its AI Moat With New Precision Chipmaking Tools?"
         }
     ]
 }
