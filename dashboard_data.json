@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-17 06:16 UTC",
+        "last_updated": "2026-06-17 11:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 207.41,
-            "change": "-2.15%"
+            "change": "-1.56%"
         },
         {
             "symbol": "AMD",
             "price": 507.29,
-            "change": "-2.44%"
+            "change": "-2.21%"
         },
         {
             "symbol": "MSFT",
             "price": 393.83,
-            "change": "-0.16%"
+            "change": "+2.76%"
         },
         {
             "symbol": "CEG",
             "price": 268.0,
-            "change": "+1.34%"
+            "change": "-1.83%"
         },
         {
             "symbol": "VST",
             "price": 158.61,
-            "change": "+1.19%"
+            "change": "+2.79%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.66,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.55,
-            0.54,
-            0.53,
-            0.53,
-            0.52,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.31,
-            25.24,
-            25.66,
-            25.21,
-            25.4,
-            24.99,
-            25.0,
-            24.82,
-            24.84,
-            25.24,
-            25.17,
-            25.31
+            24.73,
+            24.6,
+            24.47,
+            24.54,
+            24.89,
+            24.53,
+            24.14,
+            24.31,
+            24.71,
+            24.6,
+            24.96,
+            25.19
         ],
         "hsd_history_software": [
-            9.85,
-            9.79,
-            9.9,
-            10.08,
-            9.94,
-            9.98,
-            10.13,
-            10.17,
-            10.23,
-            10.28,
-            10.18,
-            10.03
+            9.4,
+            9.46,
+            9.56,
+            9.61,
+            9.57,
+            9.62,
+            9.45,
+            9.57,
+            9.69,
+            9.65,
+            9.8,
+            9.96
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:33",
-            "tag": "MERCADO",
-            "text": "Revvity (RVTY) Stock Could Be 10.9% Undervalued Despite Profit And Growth Pressure"
-        },
-        {
-            "time": "05:09",
+            "time": "11:00",
             "tag": "AI",
-            "text": "Robbins LLP Reminds DVLT Stockholders of its Investigation into Datavault AI Inc.; Contact the Firm for Information"
+            "text": "Jabil Partners With Adani on AI Infrastructure Manufacturing"
         },
         {
-            "time": "04:54",
+            "time": "10:57",
             "tag": "MERCADO",
-            "text": "Thermo Fisher Scientific (TMO) Stock Could Be 23% Below Fair Value After Neutral Rating"
+            "text": "Lombard Odier Asset Management Switzerland SA Sells 117,500 Shares of Intel Corporation $INTC"
         },
         {
-            "time": "04:54",
+            "time": "10:47",
+            "tag": "MERCADO",
+            "text": "Mar Vista Investment Partners LLC Lowers Stock Holdings in Intuit Inc. $INTU"
+        },
+        {
+            "time": "10:47",
+            "tag": "MERCADO",
+            "text": "Intuit Inc. $INTU Shares Sold by Fundsmith Investment Services LTD."
+        },
+        {
+            "time": "10:43",
             "tag": "AI",
-            "text": "Cisco and Splunk Ransomware-AI Integration Might Change The Case For Investing In NetApp (NTAP)"
-        },
-        {
-            "time": "04:38",
-            "tag": "MERCADO",
-            "text": "Inspecs Group and Qualcomm Technologies Form Collaboration to Develop Smart Eyewear"
+            "text": "CoStar Group (CSGP) Unveils Apartments.com AI But What Does It Reveal About Its Data Moat?"
         }
     ]
 }
