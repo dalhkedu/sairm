@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-06-17 11:50 UTC",
+        "last_updated": "2026-06-17 15:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 207.41,
-            "change": "-1.56%"
+            "price": 206.61,
+            "change": "-0.68%"
         },
         {
             "symbol": "AMD",
-            "price": 507.29,
-            "change": "-2.21%"
+            "price": 524.1,
+            "change": "+2.1%"
         },
         {
             "symbol": "MSFT",
-            "price": 393.83,
-            "change": "+2.76%"
+            "price": 385.74,
+            "change": "+0.03%"
         },
         {
             "symbol": "CEG",
-            "price": 268.0,
-            "change": "-1.83%"
+            "price": 270.89,
+            "change": "-1.57%"
         },
         {
             "symbol": "VST",
-            "price": 158.61,
-            "change": "+2.79%"
+            "price": 161.26,
+            "change": "-1.56%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.53,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
             0.49,
+            0.5,
             0.49,
             0.5,
             0.5,
+            0.49,
+            0.5,
             0.5,
             0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.5
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.73,
-            24.6,
-            24.47,
-            24.54,
-            24.89,
-            24.53,
-            24.14,
-            24.31,
-            24.71,
-            24.6,
-            24.96,
-            25.19
+            24.87,
+            25.23,
+            25.23,
+            25.44,
+            25.2,
+            24.7,
+            24.51,
+            24.75,
+            24.88,
+            25.22,
+            25.26,
+            25.03
         ],
         "hsd_history_software": [
-            9.4,
-            9.46,
-            9.56,
-            9.61,
-            9.57,
-            9.62,
-            9.45,
-            9.57,
-            9.69,
-            9.65,
+            10.06,
+            10.07,
+            9.92,
+            9.85,
             9.8,
-            9.96
+            9.92,
+            9.9,
+            10.06,
+            10.13,
+            10.24,
+            10.07,
+            10.12
         ],
         "rci_data": [
             85.0,
-            20.741
+            20.661
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:00",
+            "time": "15:07",
             "tag": "AI",
-            "text": "Jabil Partners With Adani on AI Infrastructure Manufacturing"
+            "text": "BofA Exec Sees AI Expanding Its Domination of Muni Underwriting"
         },
         {
-            "time": "10:57",
-            "tag": "MERCADO",
-            "text": "Lombard Odier Asset Management Switzerland SA Sells 117,500 Shares of Intel Corporation $INTC"
-        },
-        {
-            "time": "10:47",
-            "tag": "MERCADO",
-            "text": "Mar Vista Investment Partners LLC Lowers Stock Holdings in Intuit Inc. $INTU"
-        },
-        {
-            "time": "10:47",
-            "tag": "MERCADO",
-            "text": "Intuit Inc. $INTU Shares Sold by Fundsmith Investment Services LTD."
-        },
-        {
-            "time": "10:43",
+            "time": "15:00",
             "tag": "AI",
-            "text": "CoStar Group (CSGP) Unveils Apartments.com AI But What Does It Reveal About Its Data Moat?"
+            "text": "Vultr taps HPE and NVIDIA for global AI cloud buildout"
+        },
+        {
+            "time": "14:50",
+            "tag": "MERCADO",
+            "text": "Smart automotive manufacturing \u2013 Rockwell Automation & CAR publish white paper"
+        },
+        {
+            "time": "14:45",
+            "tag": "MERCADO",
+            "text": "SLB expects additional $10 billion in annual digital spending by 2030"
+        },
+        {
+            "time": "14:44",
+            "tag": "MERCADO",
+            "text": "Moody\u2019s Stock Posts 46% Operating Margins in Q1 2026: Here\u2019s What Investors Need to Know"
         }
     ]
 }
