@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-06-17 18:22 UTC",
+        "last_updated": "2026-06-17 21:09 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 206.17,
-            "change": "-3.27%"
+            "price": 204.65,
+            "change": "-0.69%"
         },
         {
             "symbol": "AMD",
-            "price": 520.55,
-            "change": "-1.64%"
+            "price": 512.48,
+            "change": "-2.51%"
         },
         {
             "symbol": "MSFT",
-            "price": 383.45,
-            "change": "-0.36%"
+            "price": 378.91,
+            "change": "+2.38%"
         },
         {
             "symbol": "CEG",
-            "price": 268.86,
-            "change": "-3.29%"
+            "price": 267.17,
+            "change": "-3.3%"
         },
         {
             "symbol": "VST",
-            "price": 160.92,
-            "change": "-1.79%"
+            "price": 158.83,
+            "change": "-1.82%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
-        "rci_current": 0.21,
+        "cer_current": 0.63,
+        "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.48,
             0.48,
             0.47,
+            0.48,
+            0.47,
             0.47,
             0.47,
             0.47,
             0.47,
             0.48,
             0.49,
-            0.49,
-            0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            22.84,
-            22.98,
-            22.8,
-            22.82,
-            23.2,
-            23.05,
-            23.27,
-            23.63,
-            23.79,
-            24.14,
-            24.51,
-            24.75
+            25.58,
+            25.77,
+            26.09,
+            25.72,
+            25.87,
+            26.0,
+            25.73,
+            25.4,
+            25.16,
+            25.08,
+            25.14,
+            25.18
         ],
         "hsd_history_software": [
-            10.48,
-            10.45,
-            10.27,
-            10.18,
-            10.14,
             10.15,
-            10.07,
-            10.13,
-            10.0,
+            10.25,
             10.15,
+            10.11,
             10.21,
-            10.08
+            10.31,
+            10.17,
+            10.24,
+            10.08,
+            9.93,
+            10.06,
+            10.12
         ],
         "rci_data": [
             85.0,
-            20.617
+            20.465
         ],
         "energy_data": [
             1.2,
@@ -126,9 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "INFO",
-            "tag": "LIMIT",
-            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
+            "time": "20:36",
+            "tag": "AI",
+            "text": "Broadridge Financial Solutions (BR) Stock Could Be 30% Undervalued After AI And Wealth Platform Wins"
+        },
+        {
+            "time": "20:35",
+            "tag": "AI",
+            "text": "Will F5\u2019s (FFIV) Equinix AI Guardrails Partnership Redefine Its Role in Multicloud Security?"
+        },
+        {
+            "time": "20:32",
+            "tag": "MERCADO",
+            "text": "[8-K] Lunai Bioworks Inc. Reports Material Event"
+        },
+        {
+            "time": "20:30",
+            "tag": "MERCADO",
+            "text": "Silver Lake entities (NYSE: DELL) shift Dell Class C stake via in-kind distributions"
+        },
+        {
+            "time": "20:27",
+            "tag": "MERCADO",
+            "text": "Trimble Opens Entries for the 2026 Construction Innovation Awards"
         }
     ]
 }
