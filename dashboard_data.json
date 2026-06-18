@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-06-18 12:56 UTC",
+        "last_updated": "2026-06-18 16:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 204.65,
-            "change": "+2.26%"
+            "price": 210.42,
+            "change": "+0.75%"
         },
         {
             "symbol": "AMD",
-            "price": 512.48,
-            "change": "-2.74%"
+            "price": 533.6,
+            "change": "+3.28%"
         },
         {
             "symbol": "MSFT",
-            "price": 378.91,
-            "change": "-2.03%"
+            "price": 378.88,
+            "change": "+1.49%"
         },
         {
             "symbol": "CEG",
-            "price": 267.17,
-            "change": "-3.24%"
+            "price": 279.4,
+            "change": "-2.83%"
         },
         {
             "symbol": "VST",
-            "price": 158.83,
-            "change": "-1.12%"
+            "price": 167.15,
+            "change": "+2.98%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
-        "rci_current": 0.2,
+        "cer_current": 0.47,
+        "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
             0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            23.78,
-            24.17,
-            24.08,
-            23.87,
-            24.25,
-            24.7,
-            24.56,
-            24.49,
-            24.13,
-            24.22,
-            24.34,
-            24.76
+            26.69,
+            26.52,
+            26.41,
+            26.4,
+            26.56,
+            26.74,
+            26.69,
+            26.64,
+            26.14,
+            25.65,
+            25.16,
+            24.88
         ],
         "hsd_history_software": [
-            9.81,
-            9.81,
-            9.76,
-            9.78,
-            9.66,
-            9.8,
-            9.82,
-            9.67,
-            9.84,
-            9.8,
-            9.84,
+            9.04,
+            9.11,
+            9.18,
+            9.34,
+            9.2,
+            9.27,
+            9.41,
+            9.59,
+            9.53,
+            9.62,
+            9.72,
             9.89
         ],
         "rci_data": [
             85.0,
-            20.465
+            21.041999999999998
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:09",
+            "time": "15:59",
             "tag": "MERCADO",
-            "text": "Quietly ambitious, the Invesco QQQ ETF puts Nasdaq heavyweights in one basket"
+            "text": "Apple to change iOS app distribution and payments in Brazil under regulator agreement (AAPL:NASDAQ)"
         },
         {
-            "time": "12:08",
-            "tag": "AI",
-            "text": "Stifel raises Jabil stock price target to $460 on AI growth"
-        },
-        {
-            "time": "12:04",
-            "tag": "AI",
-            "text": "Charles River Joins Lilly TuneLab to Optimize AI/ML Platform through Nonclinical Testing Expertise"
-        },
-        {
-            "time": "12:03",
-            "tag": "AI",
-            "text": "Ulta Beauty Launches New NielsenIQ Study on Gen Alpha and AI-Powered Beauty Discovery"
-        },
-        {
-            "time": "12:01",
+            "time": "15:51",
             "tag": "MERCADO",
-            "text": "Protecting the Promise Behind Every Genuine HP Printer Cartridge"
+            "text": "GTA 6 Preorder Announcement Crushes Delay Fears\u2014And Sends Take-Two Stock Flying"
+        },
+        {
+            "time": "15:47",
+            "tag": "MERCADO",
+            "text": "Honeywell launches compact navigation system for Uncrewed Aerial Systems"
+        },
+        {
+            "time": "15:31",
+            "tag": "MERCADO",
+            "text": "You Could Discover a New Favorite Show on Your Next Grocery Run: 'People Will Watch Content Anywhere'"
+        },
+        {
+            "time": "15:28",
+            "tag": "AI",
+            "text": "Bank of Nova Scotia (TSX:BNS) Stock Could Be 25% Below Fair Value After AI Rollout"
         }
     ]
 }
