@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-19 01:44 UTC",
+        "last_updated": "2026-06-19 07:10 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 210.69,
-            "change": "+0.8%"
+            "change": "-2.27%"
         },
         {
             "symbol": "AMD",
             "price": 537.37,
-            "change": "-2.47%"
+            "change": "-3.12%"
         },
         {
             "symbol": "MSFT",
             "price": 379.4,
-            "change": "+2.14%"
+            "change": "-2.67%"
         },
         {
             "symbol": "CEG",
             "price": 274.06,
-            "change": "+0.53%"
+            "change": "-1.17%"
         },
         {
             "symbol": "VST",
             "price": 163.75,
-            "change": "+0.85%"
+            "change": "+2.54%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.4,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
+            0.5,
             0.5,
             0.51,
-            0.51,
+            0.5,
+            0.5,
             0.51,
             0.5,
-            0.51
+            0.51,
+            0.5,
+            0.51,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.78,
-            26.67,
-            26.29,
-            26.78,
-            26.35,
-            26.6,
-            26.3,
-            26.3,
-            25.8,
-            26.02,
-            25.84,
-            25.35
+            25.99,
+            25.9,
+            26.11,
+            26.5,
+            26.15,
+            26.19,
+            25.73,
+            25.94,
+            25.75,
+            25.49,
+            25.46,
+            25.47
         ],
         "hsd_history_software": [
+            10.37,
+            10.47,
+            10.28,
+            10.31,
             10.16,
-            9.98,
-            10.1,
-            10.06,
-            9.9,
-            10.06,
-            9.95,
-            9.93,
-            9.97,
-            9.83,
-            9.97,
-            10.07
+            10.27,
+            10.12,
+            10.08,
+            10.08,
+            10.17,
+            10.01,
+            10.15
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:10",
+            "time": "06:15",
             "tag": "MERCADO",
-            "text": "TTEC Digital Achieves NiCE Platinum Partner Status"
+            "text": "Turkish competition board approves Uber acquisition of Getir delivery business"
         },
         {
-            "time": "01:10",
+            "time": "06:12",
             "tag": "MERCADO",
-            "text": "Tridentity Digital Tech DRC Africa SAS Announces National Activation Of RDC-PASS Digital Identity Ecosystem In Democratic Republic Of Congo"
+            "text": "Is eBay Outperforming the Nasdaq?"
         },
         {
-            "time": "01:01",
-            "tag": "MERCADO",
-            "text": "Align Technology Announces Board Leadership Transition. C. Raymond Larkin, Jr. to Retire as Chairman and Kevin Conroy to be Appointed Chairman Effective July 1, 2026"
+            "time": "06:09",
+            "tag": "AI",
+            "text": "Jabil more than doubles India's footprint to 1.2M sq. ft. to drive AI and tech exports"
         },
         {
-            "time": "00:56",
+            "time": "05:40",
             "tag": "MERCADO",
-            "text": "Why Revvity\u2019s Signals Image Artist software is becoming a quiet lab workhorse"
+            "text": "DMRC | Digimarc Corporation Common Stock Financials - Income Statement"
         },
         {
-            "time": "00:47",
+            "time": "05:40",
             "tag": "MERCADO",
-            "text": "Synaptics Inc VP Esther Song sells $17,423 of company stock"
+            "text": "Capital V LLC sells $416,131 of Viant Technology (NASDAQ:DSP) shares"
         }
     ]
 }
