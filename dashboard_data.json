@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-06-19 07:10 UTC",
+        "last_updated": "2026-06-19 12:08 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 210.69,
-            "change": "-2.27%"
+            "price": NaN,
+            "change": "+0.04%"
         },
         {
             "symbol": "AMD",
             "price": 537.37,
-            "change": "-3.12%"
+            "change": "-1.04%"
         },
         {
             "symbol": "MSFT",
             "price": 379.4,
-            "change": "-2.67%"
+            "change": "-2.26%"
         },
         {
             "symbol": "CEG",
             "price": 274.06,
-            "change": "-1.17%"
+            "change": "-2.44%"
         },
         {
             "symbol": "VST",
             "price": 163.75,
-            "change": "+2.54%"
+            "change": "+2.26%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.4,
-        "rci_current": 0.21,
+        "cer_current": 0.65,
+        "rci_current": NaN,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5,
             0.5,
-            0.51,
             0.5,
             0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.5,
-            0.51,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.99,
-            25.9,
-            26.11,
-            26.5,
-            26.15,
-            26.19,
-            25.73,
-            25.94,
-            25.75,
-            25.49,
-            25.46,
-            25.47
+            23.57,
+            23.76,
+            24.22,
+            24.53,
+            24.19,
+            24.67,
+            25.16,
+            25.39,
+            25.52,
+            25.55,
+            25.92,
+            25.45
         ],
         "hsd_history_software": [
-            10.37,
-            10.47,
-            10.28,
-            10.31,
-            10.16,
-            10.27,
-            10.12,
-            10.08,
-            10.08,
-            10.17,
-            10.01,
-            10.15
+            9.96,
+            9.79,
+            9.94,
+            9.96,
+            10.11,
+            10.03,
+            10.2,
+            10.24,
+            10.18,
+            10.07,
+            9.89,
+            9.94
         ],
         "rci_data": [
             85.0,
-            21.069
+            NaN
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:15",
+            "time": "11:06",
             "tag": "MERCADO",
-            "text": "Turkish competition board approves Uber acquisition of Getir delivery business"
+            "text": "Why Fortinet Stock Looks Fully Valued After Its Q1 2026 Gross Margin Retention Story"
         },
         {
-            "time": "06:12",
+            "time": "10:55",
             "tag": "MERCADO",
-            "text": "Is eBay Outperforming the Nasdaq?"
+            "text": "Smart logistics in the hospital, Cardinal Health Pyxis\u2122 Logistics keeps trays flowing"
         },
         {
-            "time": "06:09",
+            "time": "10:52",
+            "tag": "MERCADO",
+            "text": "Virtu Financial LLC Boosts Stock Position in Generac Holdings Inc. $GNRC"
+        },
+        {
+            "time": "10:43",
+            "tag": "MERCADO",
+            "text": "How Uber\u2019s New Multi-Partner Robotaxi Strategy At Uber Technologies (UBER) Has Changed Its Investment Story"
+        },
+        {
+            "time": "10:43",
             "tag": "AI",
-            "text": "Jabil more than doubles India's footprint to 1.2M sq. ft. to drive AI and tech exports"
-        },
-        {
-            "time": "05:40",
-            "tag": "MERCADO",
-            "text": "DMRC | Digimarc Corporation Common Stock Financials - Income Statement"
-        },
-        {
-            "time": "05:40",
-            "tag": "MERCADO",
-            "text": "Capital V LLC sells $416,131 of Viant Technology (NASDAQ:DSP) shares"
+            "text": "How Raymond James\u2019 New AI Architecture Leadership At Raymond James Financial (RJF) Has Changed Its Investment Story"
         }
     ]
 }
