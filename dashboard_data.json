@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-20 09:20 UTC",
+        "last_updated": "2026-06-20 11:58 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 210.69,
-            "change": "-2.29%"
+            "change": "+2.9%"
         },
         {
             "symbol": "AMD",
             "price": 537.37,
-            "change": "-0.11%"
+            "change": "-2.55%"
         },
         {
             "symbol": "MSFT",
             "price": 379.4,
-            "change": "-1.08%"
+            "change": "-2.24%"
         },
         {
             "symbol": "CEG",
             "price": 274.06,
-            "change": "-0.38%"
+            "change": "+2.4%"
         },
         {
             "symbol": "VST",
             "price": 163.75,
-            "change": "+0.39%"
+            "change": "-1.23%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.66,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
+            0.47,
             0.47,
             0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
             0.49,
             0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.49,
+            0.5,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.99,
-            25.41,
-            24.92,
-            25.27,
-            24.93,
-            25.22,
-            25.12,
-            24.89,
-            24.63,
-            24.77,
-            25.05,
-            24.69
+            23.02,
+            23.39,
+            23.27,
+            23.56,
+            23.86,
+            24.03,
+            24.52,
+            24.39,
+            24.56,
+            24.51,
+            24.75,
+            25.24
         ],
         "hsd_history_software": [
-            9.65,
-            9.72,
-            9.79,
-            9.8,
+            9.99,
+            10.12,
+            10.2,
+            10.21,
+            10.11,
+            10.12,
+            9.95,
+            9.84,
+            9.68,
+            9.68,
             9.67,
-            9.79,
-            9.82,
-            9.88,
-            10.03,
-            9.94,
-            10.04,
-            9.9
+            9.86
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:30",
+            "time": "10:36",
             "tag": "MERCADO",
-            "text": "Kovitz Investment Group Partners LLC Decreases Stock Position in Autodesk, Inc. $ADSK"
+            "text": "Rockefeller Capital Management L.P. Sells 250,875 Shares of AT&T Inc. $T"
         },
         {
-            "time": "08:30",
+            "time": "10:32",
             "tag": "MERCADO",
-            "text": "Employees Provident Fund Board Takes Position in Salesforce Inc. $CRM"
+            "text": "5,536 Shares in Salesforce Inc. $CRM Acquired by PeakShares LLC"
         },
         {
-            "time": "08:30",
+            "time": "10:28",
             "tag": "MERCADO",
-            "text": "Corient Private Wealth LLC Reduces Stock Position in Lam Research Corporation $LRCX"
+            "text": "Meadowbrook Advisors Group LLC Makes New Investment in Lam Research Corporation $LRCX"
         },
         {
-            "time": "08:27",
+            "time": "10:17",
             "tag": "MERCADO",
-            "text": "Why Fox Weather quietly matters in Fox Corp.\u2019s streaming puzzle"
+            "text": "28,374 Shares in Verizon Communications Inc. $VZ Acquired by PeakShares LLC"
         },
         {
-            "time": "07:38",
+            "time": "10:15",
             "tag": "MERCADO",
-            "text": "How Dow\u2019s Coolant Care Network Partnership At Veralto (VLTO) Has Changed Its Investment Story"
+            "text": "Hsbc Holdings PLC Increases Position in Intuit Inc. $INTU"
         }
     ]
 }
