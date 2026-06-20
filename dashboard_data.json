@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-20 00:11 UTC",
+        "last_updated": "2026-06-20 05:17 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 210.69,
-            "change": "-3.08%"
+            "change": "+0.17%"
         },
         {
             "symbol": "AMD",
             "price": 537.37,
-            "change": "+1.82%"
+            "change": "+2.09%"
         },
         {
             "symbol": "MSFT",
             "price": 379.4,
-            "change": "+3.2%"
+            "change": "-0.05%"
         },
         {
             "symbol": "CEG",
             "price": 274.06,
-            "change": "+1.18%"
+            "change": "-0.44%"
         },
         {
             "symbol": "VST",
             "price": 163.75,
-            "change": "-2.97%"
+            "change": "+2.98%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.43,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
-            0.5,
-            0.5,
-            0.5,
+            0.51,
             0.51,
             0.5,
             0.5,
             0.49,
             0.49,
             0.49,
-            0.48,
-            0.49
+            0.5,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.08,
-            24.66,
-            24.62,
-            24.3,
-            24.36,
-            24.6,
-            24.26,
-            23.99,
-            23.7,
-            24.15,
-            24.6,
-            24.91
+            24.84,
+            24.98,
+            24.96,
+            24.99,
+            24.54,
+            24.9,
+            24.43,
+            24.28,
+            24.38,
+            24.68,
+            25.06,
+            24.62
         ],
         "hsd_history_software": [
-            10.02,
-            10.11,
-            10.11,
-            9.98,
-            9.88,
-            9.85,
+            10.03,
+            9.94,
+            9.79,
             9.92,
-            9.86,
-            9.88,
-            10.08,
-            9.91,
-            9.94
+            10.0,
+            9.9,
+            10.05,
+            9.92,
+            9.79,
+            9.65,
+            9.83,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "23:42",
+            "time": "04:51",
             "tag": "MERCADO",
-            "text": "Cathie Wood\u2019s ARK sells Roku stock, buys Tesla and Snowflake"
+            "text": "First Trust NASDAQ-100-Technology Sector Index Fund (QTEC) Stock Price Quote Today & Current Price Chart"
         },
         {
-            "time": "23:41",
+            "time": "03:44",
             "tag": "MERCADO",
-            "text": "KB Financial, SK Telecom and Seoul Credit Foundation Join Forces on Small Business Data"
+            "text": "How Microsoft\u2019s Frontier Distributor Status for Arrow Electronics (ARW) Has Changed Its Investment Story"
         },
         {
-            "time": "23:33",
+            "time": "03:30",
             "tag": "MERCADO",
-            "text": "NetApp (NTAP) Stock Could Be 7% Undervalued After EPS Estimate Revisions"
+            "text": "Quiet workhorse in food packaging - the LVCM linear conveyor from Dover Corp. in focus"
         },
         {
-            "time": "23:13",
+            "time": "03:18",
             "tag": "MERCADO",
-            "text": "Why Munis ERP from Tyler Technologies is becoming city halls\u2019 quiet backbone"
+            "text": "Why Ansys Cloud Direct is quietly changing simulation workdays"
         },
         {
-            "time": "22:44",
+            "time": "03:03",
             "tag": "AI",
-            "text": "McKesson ideaShare 2026: How AI and Automation Are Reshaping the Dispensing Experience"
+            "text": "Agilysys (AGYS) Gets A Fresh AI Endorsement From Wasatch And Marriott Tie Up"
         }
     ]
 }
