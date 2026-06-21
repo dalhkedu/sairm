@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-20 22:11 UTC",
+        "last_updated": "2026-06-21 00:10 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 210.69,
-            "change": "-2.48%"
+            "change": "-2.46%"
         },
         {
             "symbol": "AMD",
             "price": 537.37,
-            "change": "+2.97%"
+            "change": "+2.81%"
         },
         {
             "symbol": "MSFT",
             "price": 379.4,
-            "change": "+2.6%"
+            "change": "+0.66%"
         },
         {
             "symbol": "CEG",
             "price": 274.06,
-            "change": "+3.39%"
+            "change": "+0.18%"
         },
         {
             "symbol": "VST",
             "price": 163.75,
-            "change": "-0.79%"
+            "change": "-0.99%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.51,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.51
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.8,
-            24.05,
-            23.69,
-            23.47,
-            23.45,
-            23.6,
-            23.6,
-            23.16,
-            23.53,
-            23.76,
-            24.2,
+            25.41,
+            25.17,
+            25.25,
+            24.77,
+            24.98,
+            24.88,
+            24.68,
+            24.43,
+            24.47,
+            24.16,
+            24.63,
             24.62
         ],
         "hsd_history_software": [
-            10.03,
-            10.13,
-            10.27,
-            10.09,
+            9.97,
+            9.92,
+            10.08,
             9.98,
-            9.99,
-            10.06,
-            10.04,
-            10.04,
+            10.03,
+            10.21,
+            10.24,
+            10.12,
+            10.1,
             9.94,
-            9.91,
-            9.92
+            9.99,
+            9.83
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:57",
+            "time": "23:07",
             "tag": "MERCADO",
-            "text": "KVH Industries Stock - Long-term strategy after divestiture reshapes business profile"
+            "text": "Better Buy: AMD vs. Intel After Intel's Monster Run"
         },
         {
-            "time": "20:15",
-            "tag": "MERCADO",
-            "text": "Inseego Stock - Long-term 5G and IoT strategy under the microscope"
+            "time": "22:38",
+            "tag": "AI",
+            "text": "Qualcomm Rose 6% Today as AI Data Center Hopes Build. Here\u2019s Where the Stock Could Head in 2026"
         },
         {
-            "time": "20:14",
-            "tag": "MERCADO",
-            "text": "Infosys Ltd Stock (INFY) Closed Down by 9.74% on Jun 20: What Investors Need To Know"
+            "time": "22:10",
+            "tag": "AI",
+            "text": "Is ACM Research\u2019s (ACMR) Advanced Packaging Momentum Quietly Rewriting Its AI Chip Tool Narrative?"
         },
         {
-            "time": "20:14",
+            "time": "22:10",
             "tag": "MERCADO",
-            "text": "ON Semiconductor Corp Stock (ON) Closed Up by 7.70% on Jun 20: Key Drivers Unveiled"
+            "text": "Napco Security Tech Stock - Analyst consensus and long-term drivers"
         },
         {
-            "time": "20:14",
-            "tag": "MERCADO",
-            "text": "Microchip Technology Inc Stock (MCHP) Closed Up by 6.01% on Jun 20: Facts Behind the Movement"
+            "time": "22:10",
+            "tag": "AI",
+            "text": "ON Semiconductor Positioned to Benefit from AI Spending Surge"
         }
     ]
 }
