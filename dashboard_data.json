@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-21 15:55 UTC",
+        "last_updated": "2026-06-21 17:42 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 210.69,
-            "change": "-2.24%"
+            "change": "+1.86%"
         },
         {
             "symbol": "AMD",
             "price": 537.37,
-            "change": "-2.26%"
+            "change": "+1.05%"
         },
         {
             "symbol": "MSFT",
             "price": 379.4,
-            "change": "+3.46%"
+            "change": "+3.28%"
         },
         {
             "symbol": "CEG",
             "price": 274.06,
-            "change": "+1.35%"
+            "change": "+1.73%"
         },
         {
             "symbol": "VST",
             "price": 163.75,
-            "change": "+0.53%"
+            "change": "-0.3%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.69,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
             0.51,
             0.51,
-            0.51,
-            0.51,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
             0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            25.89,
-            25.47,
-            25.16,
-            24.71,
-            24.81,
-            24.88,
-            24.41,
-            24.72,
-            25.07,
-            24.72,
-            24.58,
-            25.01
+            26.29,
+            26.11,
+            26.0,
+            25.63,
+            25.69,
+            25.38,
+            25.54,
+            25.81,
+            25.82,
+            25.57,
+            25.08,
+            24.68
         ],
         "hsd_history_software": [
-            10.67,
-            10.63,
-            10.44,
-            10.44,
-            10.35,
-            10.42,
-            10.43,
-            10.63,
-            10.54,
-            10.35,
-            10.22,
-            10.19
+            9.02,
+            9.11,
+            9.19,
+            9.34,
+            9.47,
+            9.61,
+            9.68,
+            9.55,
+            9.55,
+            9.69,
+            9.84,
+            9.96
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:33",
-            "tag": "AI",
-            "text": "3 Chip Supplier Stocks For AI Demand And P E Risk"
-        },
-        {
-            "time": "14:15",
+            "time": "16:15",
             "tag": "MERCADO",
-            "text": "Lam Research Corp Stock (LRCX) Moved Up by 3.97% on Jun 21: Drivers Behind the Movement"
+            "text": "International Business Machines Corp Stock (IBM) Moved Down by 5.02% on Jun 21: A Full Analysis"
         },
         {
-            "time": "13:48",
-            "tag": "AI",
-            "text": "Applied Materials Stock Looks Pricey\u2014Can AI Demand Justify the Rally?"
-        },
-        {
-            "time": "13:47",
-            "tag": "AI",
-            "text": "Texas Instruments targets scalable edge AI and connectivity in evolving embedded market"
-        },
-        {
-            "time": "13:47",
+            "time": "16:15",
             "tag": "MERCADO",
-            "text": "Broadcom Inc Stock (AVGO) Opened Up by 4.70% on Jun 21: Key Drivers Unveiled"
+            "text": "Western Digital Corp Stock (WDC) Moved Up by 4.79% on Jun 21: Drivers Behind the Movement"
+        },
+        {
+            "time": "16:15",
+            "tag": "MERCADO",
+            "text": "Qualcomm Inc Stock (QCOM) Moved Up by 6.17% on Jun 21: A Full Analysis"
+        },
+        {
+            "time": "16:08",
+            "tag": "MERCADO",
+            "text": "State Street SPDR S&P 500 ETF Trust vs. Invesco QQQ: ETF comparison for 2026 portfolios"
+        },
+        {
+            "time": "16:07",
+            "tag": "RESULTADOS",
+            "text": "3 AI Tech Stocks That Just Crushed Earnings: Are They Still Buys for the Long Term?"
         }
     ]
 }
