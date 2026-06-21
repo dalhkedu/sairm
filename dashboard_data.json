@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-21 06:05 UTC",
+        "last_updated": "2026-06-21 10:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 210.69,
-            "change": "-3.26%"
+            "change": "-2.61%"
         },
         {
             "symbol": "AMD",
             "price": 537.37,
-            "change": "+0.15%"
+            "change": "-2.04%"
         },
         {
             "symbol": "MSFT",
             "price": 379.4,
-            "change": "+2.07%"
+            "change": "+2.55%"
         },
         {
             "symbol": "CEG",
             "price": 274.06,
-            "change": "-0.35%"
+            "change": "+3.07%"
         },
         {
             "symbol": "VST",
             "price": 163.75,
-            "change": "-2.77%"
+            "change": "-1.29%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.54,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.5,
+            0.51,
             0.51,
             0.52,
-            0.51,
-            0.51,
-            0.51,
             0.52,
-            0.52,
-            0.51,
             0.51,
             0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            25.22,
-            25.35,
-            25.53,
-            25.38,
-            25.66,
-            25.58,
-            25.1,
-            24.77,
-            24.91,
-            25.16,
-            25.0,
-            25.0
+            24.57,
+            24.54,
+            24.65,
+            24.6,
+            25.01,
+            25.49,
+            25.28,
+            25.09,
+            25.29,
+            25.06,
+            24.68,
+            24.59
         ],
         "hsd_history_software": [
-            9.68,
-            9.8,
-            9.79,
-            9.65,
-            9.51,
-            9.38,
-            9.34,
-            9.53,
-            9.53,
-            9.64,
+            9.93,
+            9.93,
+            9.83,
+            9.73,
             9.66,
-            9.82
+            9.64,
+            9.6,
+            9.64,
+            9.64,
+            9.73,
+            9.91,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:01",
+            "time": "09:39",
             "tag": "MERCADO",
-            "text": "Monolithic Power Stock - analyst lens on growth and valuation"
+            "text": "Hsbc Holdings PLC Acquires 115,639 Shares of F5, Inc. $FFIV"
         },
         {
-            "time": "04:39",
-            "tag": "AI",
-            "text": "BigBear.ai (NYSE: BBAI) Stock Faces Profitability Test As SG&A Costs Surge 28.6% Against Flat Revenue Growth"
-        },
-        {
-            "time": "04:39",
+            "time": "09:31",
             "tag": "MERCADO",
-            "text": "Did New Real Estate and Cyber Partnerships Just Shift Brown & Brown's (BRO) Investment Narrative?"
+            "text": "Hsbc Holdings PLC Acquires 67,467 Shares of Motorola Solutions, Inc. $MSI"
         },
         {
-            "time": "04:39",
-            "tag": "AI",
-            "text": "Arista Networks (ANET) Stock Could Be 10.7% Undervalued As AI Networking Demand Builds"
+            "time": "09:24",
+            "tag": "MERCADO",
+            "text": "Pure Financial Advisors LLC Grows Position in Advanced Micro Devices, Inc. $AMD"
         },
         {
-            "time": "04:38",
-            "tag": "RESULTADOS",
-            "text": "Arrow Electronics (ARW) Stock Could Be 6% Overvalued After Earnings And Microsoft AI Win"
+            "time": "09:01",
+            "tag": "MERCADO",
+            "text": "AEGON ASSET MANAGEMENT UK Plc Sells 95,134 Shares of Expedia Group, Inc. $EXPE"
+        },
+        {
+            "time": "09:00",
+            "tag": "MERCADO",
+            "text": "Virtu Financial LLC Invests $1.42 Million in Lam Research Corporation $LRCX"
         }
     ]
 }
