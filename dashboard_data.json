@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-06-22 04:45 UTC",
+        "last_updated": "2026-06-22 10:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 210.69,
-            "change": "+3.15%"
+            "change": "-1.15%"
         },
         {
             "symbol": "AMD",
             "price": 537.37,
-            "change": "-2.76%"
+            "change": "-0.56%"
         },
         {
             "symbol": "MSFT",
             "price": 379.4,
-            "change": "+1.04%"
+            "change": "-0.35%"
         },
         {
             "symbol": "CEG",
             "price": 274.06,
-            "change": "-0.56%"
+            "change": "+2.08%"
         },
         {
             "symbol": "VST",
             "price": 163.75,
-            "change": "-1.88%"
+            "change": "-1.4%"
         }
     ],
     "dashboard_metrics": {
@@ -36,46 +36,46 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
             0.49,
             0.49,
             0.5,
             0.5,
             0.5,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            25.51,
-            25.16,
-            25.06,
-            24.81,
-            24.82,
-            25.0,
-            24.66,
-            24.86,
+            24.69,
+            24.38,
+            24.34,
+            24.56,
+            24.62,
+            24.31,
             24.71,
-            24.77,
-            24.99,
-            25.14
+            24.35,
+            24.64,
+            25.1,
+            24.8,
+            24.82
         ],
         "hsd_history_software": [
-            10.09,
-            9.99,
-            9.82,
-            9.71,
-            9.84,
-            9.74,
-            9.91,
-            9.82,
-            9.86,
-            9.98,
+            10.07,
+            9.89,
+            9.94,
             9.96,
-            9.9
+            9.93,
+            9.78,
+            9.97,
+            9.79,
+            9.96,
+            10.09,
+            10.25,
+            10.16
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:03",
-            "tag": "AI",
-            "text": "Wimbledon\u2019s app gets AI match chat, key moments and a redesign"
-        },
-        {
-            "time": "03:31",
+            "time": "10:05",
             "tag": "MERCADO",
-            "text": "SPCX Stock Slides Overnight: Musk Says \u2018Electric Rockets Are Impossible\u2019 After MSCI Slaps SpaceX With Lowest ESG Rating"
+            "text": "Tactive Advisors LLC Boosts Position in Advanced Micro Devices, Inc. $AMD"
         },
         {
-            "time": "03:23",
-            "tag": "AI",
-            "text": "Jabil: AI Growth Is Working, But Valuation Is Less Forgiving (NYSE:JBL)"
-        },
-        {
-            "time": "03:10",
+            "time": "09:55",
             "tag": "MERCADO",
-            "text": "Micron Technology Named Among Top Dividend Stocks by Billionaire Cliff Asness"
+            "text": "4,004 Shares in Salesforce Inc. $CRM Purchased by True Vision MN LLC"
         },
         {
-            "time": "03:07",
+            "time": "09:48",
             "tag": "MERCADO",
-            "text": "Is Apple (AAPL) One of the Top 12 Dividend Stocks to Buy According to Billionaire Cliff Asness?"
+            "text": "Sprinkle Financial Consultants LLC Has $1.88 Million Position in AT&T Inc. $T"
+        },
+        {
+            "time": "09:46",
+            "tag": "MERCADO",
+            "text": "Micron Stock Climbs Over 3% Pre-Market: What's Going On? - Micron Technology (NASDAQ:MU)"
+        },
+        {
+            "time": "09:42",
+            "tag": "MERCADO",
+            "text": "Cantor Fitzgerald Adjusts Price Target on QUALCOMM to $200 From $150, Maintains Neutral Rating"
         }
     ]
 }
