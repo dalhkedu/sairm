@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-23 20:19 UTC",
+        "last_updated": "2026-06-23 22:16 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 200.04,
-            "change": "+1.54%"
+            "change": "-0.04%"
         },
         {
             "symbol": "AMD",
             "price": 519.85,
-            "change": "-3.03%"
+            "change": "+1.59%"
         },
         {
             "symbol": "MSFT",
             "price": 373.94,
-            "change": "+0.48%"
+            "change": "-3.11%"
         },
         {
             "symbol": "CEG",
             "price": 270.26,
-            "change": "-1.47%"
+            "change": "+3.21%"
         },
         {
             "symbol": "VST",
             "price": 162.39,
-            "change": "+2.62%"
+            "change": "+0.42%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.52,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
+            0.5,
             0.51,
             0.51,
             0.5,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.69,
-            24.65,
-            24.47,
-            24.94,
-            25.29,
-            25.35,
-            25.08,
-            25.0,
-            25.25,
-            25.49,
-            25.48,
-            24.99
+            26.75,
+            26.8,
+            26.74,
+            26.25,
+            25.86,
+            25.42,
+            25.12,
+            24.99,
+            24.71,
+            24.79,
+            25.03,
+            25.19
         ],
         "hsd_history_software": [
-            10.85,
-            11.02,
-            10.89,
-            10.7,
-            10.84,
-            10.68,
-            10.56,
-            10.47,
+            10.45,
+            10.55,
+            10.36,
             10.39,
-            10.21,
-            10.02,
-            9.84
+            10.44,
+            10.27,
+            10.22,
+            10.11,
+            9.93,
+            9.86,
+            9.86,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:36",
-            "tag": "AI",
-            "text": "Palo Alto Networks (PANW) Stock Could Be 82.8% Overvalued After AI Security Momentum"
-        },
-        {
-            "time": "19:25",
-            "tag": "AI",
-            "text": "How TE Connectivity\u2019s Dividend Hike and AI-Focused Downgrade Will Impact TE Connectivity (TEL) Investors"
-        },
-        {
-            "time": "19:15",
+            "time": "21:39",
             "tag": "MERCADO",
-            "text": "Analog Devices Inc Stock (ADI) Moved Down by 9.23% on Jun 23: Drivers Behind the Movement"
+            "text": "Monday.com (MNDY) Declines More Than Market: Some Information for Investors"
         },
         {
-            "time": "19:05",
+            "time": "21:30",
             "tag": "MERCADO",
-            "text": "Why Uber\u2019s Business Model Gives it an Edge Against Robotaxis in the Ride-Hailing Race | Newswise"
+            "text": "Qualcomm Inc (QCOM) Shares Fall 8.0% -- GF Value Says Still Overvalued"
         },
         {
-            "time": "18:29",
+            "time": "21:13",
             "tag": "MERCADO",
-            "text": "Cummins Stock Adds Horsepower, Not Ballast"
+            "text": "Rockwell Automation Site Named a World Economic Forum Global Lighthouse"
+        },
+        {
+            "time": "21:11",
+            "tag": "MERCADO",
+            "text": "Form 4 Autodesk Inc For: 23 June By Investing.com"
+        },
+        {
+            "time": "21:10",
+            "tag": "MERCADO",
+            "text": "8x8 (EGHT) details Salesforce integration cyber incident impacting customer data"
         }
     ]
 }
