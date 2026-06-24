@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-24 21:37 UTC",
+        "last_updated": "2026-06-24 23:06 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 199.0,
-            "change": "+2.92%"
+            "change": "-1.12%"
         },
         {
             "symbol": "AMD",
             "price": 519.74,
-            "change": "-1.03%"
+            "change": "-3.34%"
         },
         {
             "symbol": "MSFT",
             "price": 365.46,
-            "change": "-3.48%"
+            "change": "+0.44%"
         },
         {
             "symbol": "CEG",
             "price": 267.97,
-            "change": "-3.18%"
+            "change": "+1.52%"
         },
         {
             "symbol": "VST",
             "price": 162.87,
-            "change": "-3.41%"
+            "change": "+1.13%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.44,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
             0.5,
             0.5,
             0.5,
-            0.49,
-            0.49
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.42,
-            26.0,
-            25.49,
-            25.24,
-            25.24,
-            25.02,
-            25.5,
-            25.12,
-            24.64,
-            24.51,
-            24.97,
-            25.16
+            25.13,
+            24.77,
+            24.55,
+            24.98,
+            25.38,
+            25.51,
+            25.27,
+            25.35,
+            25.68,
+            25.33,
+            25.68,
+            25.46
         ],
         "hsd_history_software": [
-            10.13,
-            9.99,
+            10.16,
+            9.98,
+            10.19,
+            10.21,
+            10.29,
+            10.2,
+            10.16,
+            10.11,
+            10.06,
             9.87,
             9.86,
-            9.82,
-            9.75,
-            9.76,
-            9.78,
-            9.78,
-            9.85,
-            10.05,
-            10.01
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:50",
-            "tag": "AI",
-            "text": "Qualcomm to acquire AI software company Modular for $3.9B in stock"
-        },
-        {
-            "time": "20:38",
+            "time": "22:10",
             "tag": "MERCADO",
-            "text": "FormFactor (FORM) Joins Russell 1000 Index Ahead of 2026 Reconstitution"
+            "text": "Infosys (NSE:INFY) stock drags down Nifty IT, drives about 40% of index\u2019s recent drop"
         },
         {
-            "time": "20:31",
-            "tag": "AI",
-            "text": "OpenAI, Broadcom debut custom Jalape\u00f1o chip for LLM inference"
-        },
-        {
-            "time": "20:29",
+            "time": "21:56",
             "tag": "MERCADO",
-            "text": "Qualcomm Accelerates Diversification with Comprehensive Strategy for Data Center and Sees Multiple Inflection Points Over the Next 3 to 5 Years"
+            "text": "Form 4 Cadence Design Systems Inc For: 24 June By Investing.com"
         },
         {
-            "time": "20:27",
+            "time": "21:47",
             "tag": "MERCADO",
-            "text": "How Investors May Respond To Allegion (ALLE) After Longbow\u2019s Upgrade On Non-Residential, Digital Access Outlook"
+            "text": "Morgan Stanley pulls no punches after tech stock sell-off"
+        },
+        {
+            "time": "21:41",
+            "tag": "MERCADO",
+            "text": "Iridium Communications (NASDAQ: IRDM) Launches Hybrid IoT Module To Capture Growing Satellite Connectivity Market"
+        },
+        {
+            "time": "21:40",
+            "tag": "MERCADO",
+            "text": "Corning (GLW) Announces Quarterly Dividend of $0.28 Per Share"
         }
     ]
 }
