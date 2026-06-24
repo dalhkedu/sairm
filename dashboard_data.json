@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-24 05:03 UTC",
+        "last_updated": "2026-06-24 09:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 200.04,
-            "change": "-0.83%"
+            "change": "+0.81%"
         },
         {
             "symbol": "AMD",
             "price": 519.85,
-            "change": "+0.29%"
+            "change": "+3.48%"
         },
         {
             "symbol": "MSFT",
             "price": 373.94,
-            "change": "-2.76%"
+            "change": "+0.56%"
         },
         {
             "symbol": "CEG",
             "price": 270.26,
-            "change": "+0.6%"
+            "change": "-0.2%"
         },
         {
             "symbol": "VST",
             "price": 162.39,
-            "change": "-1.63%"
+            "change": "+2.67%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
+        "cer_current": 0.6,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.47,
+            0.47,
+            0.46,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.47,
             0.48,
             0.48,
             0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            26.13,
-            25.63,
-            25.31,
-            25.58,
-            25.7,
-            25.85,
-            25.85,
-            25.35,
-            25.54,
-            25.12,
-            25.32,
-            25.27
+            25.01,
+            24.95,
+            25.08,
+            24.98,
+            24.62,
+            24.82,
+            24.53,
+            24.82,
+            25.08,
+            25.34,
+            24.91,
+            25.4
         ],
         "hsd_history_software": [
-            10.52,
-            10.64,
-            10.44,
-            10.37,
-            10.53,
-            10.36,
-            10.18,
-            10.31,
-            10.11,
-            10.13,
+            9.93,
+            9.83,
+            10.02,
+            10.05,
             9.97,
-            9.94
+            9.93,
+            9.76,
+            9.92,
+            9.87,
+            9.88,
+            9.91,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:09",
+            "time": "09:10",
             "tag": "MERCADO",
-            "text": "AD-332u8 from Avery Dennison Corp. - RFID label for busy retail shelves"
+            "text": "Pomerantz LLP Investigates GDS Holdings for Securities Fraud"
         },
         {
-            "time": "03:53",
-            "tag": "AI",
-            "text": "F5 launches AI Security Platform to put security leaders in control of enterprise AI risk"
-        },
-        {
-            "time": "03:27",
+            "time": "08:43",
             "tag": "MERCADO",
-            "text": "The Home Energy Analyzer from PG&E Corp. - usage data turns into savings hints"
+            "text": "Hsbc Holdings PLC Sells 9,290 Shares of VeriSign, Inc. $VRSN"
         },
         {
-            "time": "03:18",
-            "tag": "AI",
-            "text": "Broadcom: Market\u2019s Tantrum Around The AI Guidance Is Misguided (NASDAQ:AVGO)"
-        },
-        {
-            "time": "02:53",
+            "time": "08:41",
             "tag": "MERCADO",
-            "text": "Haven Robotic Mower from The Toro Company - quiet, cable-free lawn care for small yards"
+            "text": "Focus Universal Implements Reverse Split to Avoid Nasdaq Delisting"
+        },
+        {
+            "time": "08:19",
+            "tag": "MERCADO",
+            "text": "Infosys Share up by 2%: GlobalFoundries Deal Effect Explained"
+        },
+        {
+            "time": "08:11",
+            "tag": "MERCADO",
+            "text": "Evolv Shareholders Back Directors, Executive Pay and Auditor"
         }
     ]
 }
