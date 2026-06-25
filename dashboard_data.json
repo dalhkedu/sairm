@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-25 03:53 UTC",
+        "last_updated": "2026-06-25 07:48 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 199.0,
-            "change": "-1.97%"
+            "change": "+3.21%"
         },
         {
             "symbol": "AMD",
             "price": 519.74,
-            "change": "+1.06%"
+            "change": "+2.75%"
         },
         {
             "symbol": "MSFT",
             "price": 365.46,
-            "change": "+0.51%"
+            "change": "-3.34%"
         },
         {
             "symbol": "CEG",
-            "price": NaN,
-            "change": "+0.71%"
+            "price": 267.97,
+            "change": "+2.64%"
         },
         {
             "symbol": "VST",
             "price": 162.87,
-            "change": "+0.7%"
+            "change": "+0.28%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.62,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.53,
-            0.54,
-            0.53,
-            0.52,
-            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.51,
             0.51,
             0.51,
             0.51,
             0.5,
+            0.5,
+            0.5,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            23.46,
-            23.67,
-            23.32,
-            23.61,
-            23.78,
-            23.71,
-            24.09,
-            23.83,
-            24.03,
-            24.27,
-            24.55,
-            24.88
+            26.15,
+            25.79,
+            25.49,
+            25.28,
+            24.89,
+            24.46,
+            24.67,
+            24.84,
+            25.11,
+            25.0,
+            24.68,
+            24.63
         ],
         "hsd_history_software": [
-            10.43,
-            10.29,
-            10.25,
-            10.24,
-            10.16,
-            10.05,
-            10.05,
-            10.18,
-            10.13,
+            10.06,
+            10.23,
+            10.08,
             10.01,
-            9.88,
-            9.87
+            9.98,
+            10.04,
+            10.2,
+            10.06,
+            10.09,
+            10.17,
+            10.08,
+            10.13
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:26",
-            "tag": "AI",
-            "text": "How AMD\u2019s Rackspace Deal and MEXT Acquisition Could Reshape Advanced Micro Devices (AMD) Investors\u2019 AI Thesis"
-        },
-        {
-            "time": "02:09",
+            "time": "07:10",
             "tag": "RESULTADOS",
-            "text": "Is Seagate (STX) Turning AI-Fueled Pricing Power Into a More Durable Earnings Model?"
+            "text": "Sterling Infrastructure (STRL) Stock Could Be About Right After Strong Earnings And 2026 Outlook"
         },
         {
-            "time": "01:59",
-            "tag": "AI",
-            "text": "FPT Expands Strategic Collaboration with Microsoft to Advance AI Frontier Innovation Across Asia"
-        },
-        {
-            "time": "01:38",
-            "tag": "AI",
-            "text": "SK Hynix, Micron Solidify Memory Chips as Runaway Stars of AI"
-        },
-        {
-            "time": "01:09",
+            "time": "07:00",
             "tag": "MERCADO",
-            "text": "OPEN CEO Takes $1 Salary As $741 Million Tesla-Style Pay Package Bets On A Housing Market Turnaround"
+            "text": "Western Digital Corp Stock (WDC) Moved Down by 4.01% on Jun 25: What Signal Does It Send?"
+        },
+        {
+            "time": "07:00",
+            "tag": "MERCADO",
+            "text": "Seagate Technology Holdings PLC Stock (STX) Moved Down by 4.37% on Jun 25: Drivers Behind the Movement"
+        },
+        {
+            "time": "06:42",
+            "tag": "AI",
+            "text": "Is Amazon.com, Inc. (AMZN) the Best AI Chip Stock to Buy for the Long Term?"
+        },
+        {
+            "time": "06:27",
+            "tag": "MERCADO",
+            "text": "UBS Expects T-Mobile (TMUS) To Lead The Sector With 700,000 Postpaid Phone Additions In Q2"
         }
     ]
 }
