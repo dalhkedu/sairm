@@ -1,80 +1,80 @@
 {
     "metadata": {
-        "last_updated": "2026-06-24 23:06 UTC",
+        "last_updated": "2026-06-25 03:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 199.0,
-            "change": "-1.12%"
+            "change": "-1.97%"
         },
         {
             "symbol": "AMD",
             "price": 519.74,
-            "change": "-3.34%"
+            "change": "+1.06%"
         },
         {
             "symbol": "MSFT",
             "price": 365.46,
-            "change": "+0.44%"
+            "change": "+0.51%"
         },
         {
             "symbol": "CEG",
-            "price": 267.97,
-            "change": "+1.52%"
+            "price": NaN,
+            "change": "+0.71%"
         },
         {
             "symbol": "VST",
             "price": 162.87,
-            "change": "+1.13%"
+            "change": "+0.7%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.57,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.52,
+            0.53,
+            0.54,
+            0.53,
+            0.52,
+            0.52,
             0.51,
             0.51,
             0.51,
+            0.51,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.13,
-            24.77,
+            23.46,
+            23.67,
+            23.32,
+            23.61,
+            23.78,
+            23.71,
+            24.09,
+            23.83,
+            24.03,
+            24.27,
             24.55,
-            24.98,
-            25.38,
-            25.51,
-            25.27,
-            25.35,
-            25.68,
-            25.33,
-            25.68,
-            25.46
+            24.88
         ],
         "hsd_history_software": [
-            10.16,
-            9.98,
-            10.19,
-            10.21,
+            10.43,
             10.29,
-            10.2,
+            10.25,
+            10.24,
             10.16,
-            10.11,
-            10.06,
-            9.87,
-            9.86,
+            10.05,
+            10.05,
+            10.18,
+            10.13,
+            10.01,
+            9.88,
             9.87
         ],
         "rci_data": [
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:10",
-            "tag": "MERCADO",
-            "text": "Infosys (NSE:INFY) stock drags down Nifty IT, drives about 40% of index\u2019s recent drop"
+            "time": "02:26",
+            "tag": "AI",
+            "text": "How AMD\u2019s Rackspace Deal and MEXT Acquisition Could Reshape Advanced Micro Devices (AMD) Investors\u2019 AI Thesis"
         },
         {
-            "time": "21:56",
-            "tag": "MERCADO",
-            "text": "Form 4 Cadence Design Systems Inc For: 24 June By Investing.com"
+            "time": "02:09",
+            "tag": "RESULTADOS",
+            "text": "Is Seagate (STX) Turning AI-Fueled Pricing Power Into a More Durable Earnings Model?"
         },
         {
-            "time": "21:47",
-            "tag": "MERCADO",
-            "text": "Morgan Stanley pulls no punches after tech stock sell-off"
+            "time": "01:59",
+            "tag": "AI",
+            "text": "FPT Expands Strategic Collaboration with Microsoft to Advance AI Frontier Innovation Across Asia"
         },
         {
-            "time": "21:41",
-            "tag": "MERCADO",
-            "text": "Iridium Communications (NASDAQ: IRDM) Launches Hybrid IoT Module To Capture Growing Satellite Connectivity Market"
+            "time": "01:38",
+            "tag": "AI",
+            "text": "SK Hynix, Micron Solidify Memory Chips as Runaway Stars of AI"
         },
         {
-            "time": "21:40",
+            "time": "01:09",
             "tag": "MERCADO",
-            "text": "Corning (GLW) Announces Quarterly Dividend of $0.28 Per Share"
+            "text": "OPEN CEO Takes $1 Salary As $741 Million Tesla-Style Pay Package Bets On A Housing Market Turnaround"
         }
     ]
 }
