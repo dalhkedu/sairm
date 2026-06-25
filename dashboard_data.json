@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-06-25 13:21 UTC",
+        "last_updated": "2026-06-25 16:28 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 199.0,
-            "change": "-0.68%"
+            "price": 196.01,
+            "change": "-2.11%"
         },
         {
             "symbol": "AMD",
-            "price": 519.74,
-            "change": "-3.04%"
+            "price": 528.13,
+            "change": "+1.04%"
         },
         {
             "symbol": "MSFT",
-            "price": 365.46,
-            "change": "-0.69%"
+            "price": 352.72,
+            "change": "-2.38%"
         },
         {
             "symbol": "CEG",
-            "price": 267.97,
-            "change": "+2.43%"
+            "price": 270.94,
+            "change": "-1.46%"
         },
         {
             "symbol": "VST",
-            "price": 162.87,
-            "change": "-0.37%"
+            "price": 167.78,
+            "change": "-1.34%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.46,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
+            0.52,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.5,
+            0.49,
+            0.49,
             0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            24.38,
-            24.47,
-            24.91,
-            24.71,
-            24.78,
-            24.96,
-            25.0,
-            25.28,
-            25.31,
-            24.89,
-            25.24,
-            25.1
+            25.87,
+            26.25,
+            25.93,
+            25.54,
+            25.74,
+            25.87,
+            25.38,
+            25.77,
+            25.37,
+            25.56,
+            25.09,
+            25.15
         ],
         "hsd_history_software": [
-            9.48,
-            9.66,
-            9.64,
-            9.78,
-            9.76,
-            9.9,
-            10.03,
-            10.16,
-            10.22,
-            10.26,
-            10.08,
-            10.06
+            9.3,
+            9.4,
+            9.49,
+            9.54,
+            9.55,
+            9.43,
+            9.57,
+            9.59,
+            9.69,
+            9.86,
+            9.98,
+            10.1
         ],
         "rci_data": [
             85.0,
-            19.900000000000002
+            19.601
         ],
         "energy_data": [
             1.2,
@@ -126,9 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "INFO",
-            "tag": "LIMIT",
-            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
+            "time": "15:20",
+            "tag": "AI",
+            "text": "Micron Soars 17%, SanDisk Jumps 15%, Western Digital Climbs 13% After Blowout Quarter Locks In $100B of AI Memory Demand"
+        },
+        {
+            "time": "15:18",
+            "tag": "AI",
+            "text": "Tela\u2122 agentic AI assistant"
+        },
+        {
+            "time": "15:17",
+            "tag": "AI",
+            "text": "What Arista Networks Stock\u2019s Balance Sheet Revealed Before the AI Boom"
+        },
+        {
+            "time": "15:15",
+            "tag": "MERCADO",
+            "text": "Caterpillar Inc Stock (CAT) Moved Up by 5.28% on Jun 25: Facts Behind the Movement"
+        },
+        {
+            "time": "15:15",
+            "tag": "MERCADO",
+            "text": "The AES Smart Green Tariff from AES Corp. - software-backed clean power for big customers"
         }
     ]
 }
