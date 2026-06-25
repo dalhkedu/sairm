@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-06-25 07:48 UTC",
+        "last_updated": "2026-06-25 10:45 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 199.0,
-            "change": "+3.21%"
+            "change": "-0.93%"
         },
         {
             "symbol": "AMD",
             "price": 519.74,
-            "change": "+2.75%"
+            "change": "+2.83%"
         },
         {
             "symbol": "MSFT",
             "price": 365.46,
-            "change": "-3.34%"
+            "change": "+1.42%"
         },
         {
             "symbol": "CEG",
             "price": 267.97,
-            "change": "+2.64%"
+            "change": "+0.6%"
         },
         {
             "symbol": "VST",
             "price": 162.87,
-            "change": "+0.28%"
+            "change": "+2.24%"
         }
     ],
     "dashboard_metrics": {
@@ -36,46 +36,46 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.54,
+            0.54,
+            0.54,
+            0.54,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
             0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            26.15,
-            25.79,
-            25.49,
-            25.28,
-            24.89,
-            24.46,
-            24.67,
-            24.84,
-            25.11,
-            25.0,
-            24.68,
-            24.63
+            27.8,
+            27.27,
+            27.08,
+            26.65,
+            26.23,
+            25.83,
+            25.68,
+            25.34,
+            25.19,
+            25.25,
+            25.6,
+            25.31
         ],
         "hsd_history_software": [
-            10.06,
-            10.23,
-            10.08,
-            10.01,
             9.98,
-            10.04,
-            10.2,
-            10.06,
-            10.09,
-            10.17,
-            10.08,
-            10.13
+            9.95,
+            9.91,
+            10.05,
+            10.07,
+            10.25,
+            10.16,
+            10.22,
+            10.12,
+            10.18,
+            10.11,
+            9.92
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:10",
-            "tag": "RESULTADOS",
-            "text": "Sterling Infrastructure (STRL) Stock Could Be About Right After Strong Earnings And 2026 Outlook"
-        },
-        {
-            "time": "07:00",
+            "time": "10:02",
             "tag": "MERCADO",
-            "text": "Western Digital Corp Stock (WDC) Moved Down by 4.01% on Jun 25: What Signal Does It Send?"
+            "text": "Ridge Security Named a Sample Vendor in the 2026 Gartner Hype Cycle for Security Operations"
         },
         {
-            "time": "07:00",
-            "tag": "MERCADO",
-            "text": "Seagate Technology Holdings PLC Stock (STX) Moved Down by 4.37% on Jun 25: Drivers Behind the Movement"
-        },
-        {
-            "time": "06:42",
+            "time": "09:58",
             "tag": "AI",
-            "text": "Is Amazon.com, Inc. (AMZN) the Best AI Chip Stock to Buy for the Long Term?"
+            "text": "Micron drives global rally tech stock rally as traders abandon their fear of an AI bubble"
         },
         {
-            "time": "06:27",
+            "time": "09:47",
             "tag": "MERCADO",
-            "text": "UBS Expects T-Mobile (TMUS) To Lead The Sector With 700,000 Postpaid Phone Additions In Q2"
+            "text": "Ritholtz Wealth Management Boosts Holdings in Advanced Micro Devices, Inc. $AMD"
+        },
+        {
+            "time": "09:46",
+            "tag": "MERCADO",
+            "text": "Ritholtz Wealth Management Grows Stock Position in Verizon Communications Inc. $VZ"
+        },
+        {
+            "time": "09:46",
+            "tag": "MERCADO",
+            "text": "Ritholtz Wealth Management Boosts Stock Holdings in Lam Research Corporation $LRCX"
         }
     ]
 }
