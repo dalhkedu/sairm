@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-06-26 17:02 UTC",
+        "last_updated": "2026-06-26 19:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 194.47,
-            "change": "-2.25%"
+            "price": 194.68,
+            "change": "-2.62%"
         },
         {
             "symbol": "AMD",
-            "price": 520.02,
-            "change": "-1.97%"
+            "price": 514.93,
+            "change": "+1.56%"
         },
         {
             "symbol": "MSFT",
-            "price": 370.26,
-            "change": "-2.76%"
+            "price": 376.46,
+            "change": "-2.91%"
         },
         {
             "symbol": "CEG",
-            "price": 264.08,
-            "change": "+0.79%"
+            "price": 263.82,
+            "change": "+2.1%"
         },
         {
             "symbol": "VST",
-            "price": 165.85,
-            "change": "-2.77%"
+            "price": 163.31,
+            "change": "-3.18%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.57,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
             0.51,
             0.5,
+            0.49,
+            0.49,
             0.5,
             0.5,
+            0.49,
             0.5,
             0.5,
-            0.5
+            0.51,
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            23.87,
-            23.59,
-            23.94,
-            24.33,
-            24.16,
-            24.63,
+            24.82,
             24.68,
-            24.74,
-            24.36,
-            24.76,
-            24.32,
-            24.69
+            24.98,
+            24.77,
+            24.3,
+            24.25,
+            24.49,
+            24.86,
+            24.93,
+            24.61,
+            24.56,
+            24.82
         ],
         "hsd_history_software": [
-            9.23,
-            9.36,
-            9.51,
-            9.7,
-            9.87,
-            9.76,
-            9.7,
-            9.74,
-            9.8,
-            9.7,
-            9.84,
-            9.98
+            10.14,
+            9.95,
+            10.13,
+            9.93,
+            10.1,
+            10.04,
+            9.95,
+            10.08,
+            9.98,
+            10.12,
+            10.31,
+            10.19
         ],
         "rci_data": [
             85.0,
-            19.447
+            19.468000000000004
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:38",
+            "time": "18:40",
+            "tag": "MERCADO",
+            "text": "Costar shareholders re-elect directors, resist external pressure"
+        },
+        {
+            "time": "18:15",
+            "tag": "MERCADO",
+            "text": "Why Is BlackLine (BL) Stock Rocketing Higher Today"
+        },
+        {
+            "time": "18:15",
+            "tag": "MERCADO",
+            "text": "ASML Holding NV Stock (ASML) Moved Down by 3.08% on Jun 26: What Investors Need To Know"
+        },
+        {
+            "time": "18:10",
+            "tag": "MERCADO",
+            "text": "How Investors May Respond To Belden (BDC) Expanding Its Edge\u2011to\u2011Core Industrial And Broadband Networking Portfolio"
+        },
+        {
+            "time": "18:07",
             "tag": "AI",
-            "text": "Trump Administration Asks OpenAI to Limit GPT-5.6 Rollout: Reports"
-        },
-        {
-            "time": "15:41",
-            "tag": "MERCADO",
-            "text": "Is the Hut 8 Rally Sustainable?"
-        },
-        {
-            "time": "15:01",
-            "tag": "MERCADO",
-            "text": "Quantum's Q4 Adjusted Loss Narrows Y/Y, Revenues Match Estimates"
-        },
-        {
-            "time": "14:53",
-            "tag": "MERCADO",
-            "text": "Advance Trade in Goods fall in May"
-        },
-        {
-            "time": "14:53",
-            "tag": "AI",
-            "text": "Oracle's AI Spend Outruns Cloud Revenues: What's Ahead for the Stock?"
+            "text": "F5 expands further into AI security with SurePath AI acquisition"
         }
     ]
 }
