@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-26 07:59 UTC",
+        "last_updated": "2026-06-26 11:11 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 195.74,
-            "change": "-1.46%"
+            "change": "-0.23%"
         },
         {
             "symbol": "AMD",
             "price": 532.57,
-            "change": "-1.63%"
+            "change": "-0.84%"
         },
         {
             "symbol": "MSFT",
             "price": 352.83,
-            "change": "+0.7%"
+            "change": "-2.06%"
         },
         {
             "symbol": "CEG",
             "price": 268.69,
-            "change": "-0.81%"
+            "change": "-2.69%"
         },
         {
             "symbol": "VST",
             "price": 167.77,
-            "change": "+0.23%"
+            "change": "-0.89%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.6,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
             0.5,
             0.5,
+            0.51,
+            0.51,
+            0.51,
             0.5,
             0.5,
-            0.5
+            0.51,
+            0.51,
+            0.5,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.55,
-            24.37,
-            24.3,
-            24.01,
-            24.27,
-            23.84,
-            23.53,
-            23.57,
-            23.6,
-            23.85,
-            24.22,
-            24.65
+            25.06,
+            24.82,
+            24.81,
+            25.02,
+            24.9,
+            24.77,
+            25.25,
+            25.12,
+            25.33,
+            25.65,
+            25.59,
+            25.25
         ],
         "hsd_history_software": [
-            9.92,
-            9.99,
-            9.89,
-            9.92,
-            9.84,
-            9.8,
-            9.72,
-            9.85,
-            9.66,
-            9.72,
+            9.95,
+            10.1,
+            10.21,
+            10.35,
+            10.21,
+            10.03,
+            10.04,
             9.86,
-            10.04
+            10.01,
+            9.9,
+            9.77,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:32",
-            "tag": "AI",
-            "text": "Is Thermo Fisher (TMO) Turning Its AI Lab Platform Into a Durable Competitive Moat?"
-        },
-        {
-            "time": "06:19",
+            "time": "10:37",
             "tag": "MERCADO",
-            "text": "How Autohome\u2019s New Bylaws and Board Choices Could Reframe the ATHM Investment Story"
+            "text": "Tesla's tiny robotaxi fleet could 'dramatically scale,' Texas official says"
         },
         {
-            "time": "06:18",
+            "time": "10:29",
             "tag": "MERCADO",
-            "text": "Hybrid Beauty Discovery"
+            "text": "Intuitive Surgical (ISRG) Brings Real World Da Vinci SP Use Into Focus"
         },
         {
-            "time": "06:12",
+            "time": "10:25",
             "tag": "MERCADO",
-            "text": "Price to earnings forward of Canaan Inc. Sponsored ADR Class A \u2013 MUN:35J"
+            "text": "Goldman Sachs assumes Crown Castle stock coverage with neutral rating"
         },
         {
-            "time": "06:08",
-            "tag": "AI",
-            "text": "Capital One\u2019s New AI-Focused Leadership Team Might Change The Case For Investing In Capital One Financial (COF)"
+            "time": "10:10",
+            "tag": "MERCADO",
+            "text": "FTCI Forecast \u2014 Price Target \u2014 Prediction for 2027"
+        },
+        {
+            "time": "10:02",
+            "tag": "MERCADO",
+            "text": "Applied Materials Shares Rise Over 9% After Key Trading Signal - Applied Materials (NASDAQ:AMAT)"
         }
     ]
 }
