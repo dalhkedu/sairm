@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-06-26 19:53 UTC",
+        "last_updated": "2026-06-26 21:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 194.68,
-            "change": "-2.62%"
+            "price": 192.53,
+            "change": "+0.3%"
         },
         {
             "symbol": "AMD",
-            "price": 514.93,
-            "change": "+1.56%"
+            "price": 521.58,
+            "change": "+2.37%"
         },
         {
             "symbol": "MSFT",
-            "price": 376.46,
-            "change": "-2.91%"
+            "price": 372.97,
+            "change": "-0.3%"
         },
         {
             "symbol": "CEG",
-            "price": 263.82,
-            "change": "+2.1%"
+            "price": 264.02,
+            "change": "+0.67%"
         },
         {
             "symbol": "VST",
-            "price": 163.31,
-            "change": "-3.18%"
+            "price": 163.49,
+            "change": "-1.39%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.69,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.51,
             0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            24.82,
-            24.68,
-            24.98,
+            23.79,
+            23.77,
+            23.9,
+            23.58,
+            23.88,
+            24.36,
             24.77,
-            24.3,
-            24.25,
-            24.49,
-            24.86,
-            24.93,
-            24.61,
-            24.56,
-            24.82
+            24.46,
+            24.55,
+            24.65,
+            24.5,
+            24.65
         ],
         "hsd_history_software": [
-            10.14,
+            9.39,
+            9.49,
+            9.64,
+            9.56,
+            9.62,
+            9.57,
+            9.65,
+            9.69,
+            9.79,
             9.95,
-            10.13,
-            9.93,
-            10.1,
-            10.04,
-            9.95,
-            10.08,
-            9.98,
-            10.12,
-            10.31,
-            10.19
+            9.92,
+            10.08
         ],
         "rci_data": [
             85.0,
-            19.468000000000004
+            19.253
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:40",
+            "time": "20:31",
             "tag": "MERCADO",
-            "text": "Costar shareholders re-elect directors, resist external pressure"
+            "text": "[144] Alphabet Inc. SEC Filing"
         },
         {
-            "time": "18:15",
+            "time": "20:30",
             "tag": "MERCADO",
-            "text": "Why Is BlackLine (BL) Stock Rocketing Higher Today"
+            "text": "Silver Lake files Rule 144 resale notices for DELL (NYSE: DELL) across April\u2013June 2026"
         },
         {
-            "time": "18:15",
+            "time": "20:30",
             "tag": "MERCADO",
-            "text": "ASML Holding NV Stock (ASML) Moved Down by 3.08% on Jun 26: What Investors Need To Know"
+            "text": "Silver Lake selling large blocks of DELL (NYSE: DELL) Class C shares in Form 144"
         },
         {
-            "time": "18:10",
+            "time": "20:24",
             "tag": "MERCADO",
-            "text": "How Investors May Respond To Belden (BDC) Expanding Its Edge\u2011to\u2011Core Industrial And Broadband Networking Portfolio"
+            "text": "HP Inc. (HPQ) revises bylaws on director competitor criteria"
         },
         {
-            "time": "18:07",
-            "tag": "AI",
-            "text": "F5 expands further into AI security with SurePath AI acquisition"
+            "time": "20:16",
+            "tag": "MERCADO",
+            "text": "Apple Inc Stock (AAPL) Closed Up by 3.41% on Jun 26: Drivers Behind the Movement"
         }
     ]
 }
