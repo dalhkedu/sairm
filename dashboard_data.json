@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-27 11:36 UTC",
+        "last_updated": "2026-06-27 13:48 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 192.53,
-            "change": "+0.43%"
+            "change": "-1.61%"
         },
         {
             "symbol": "AMD",
             "price": 521.58,
-            "change": "+0.42%"
+            "change": "+0.96%"
         },
         {
             "symbol": "MSFT",
             "price": 372.97,
-            "change": "-2.31%"
+            "change": "+2.65%"
         },
         {
             "symbol": "CEG",
             "price": 264.02,
-            "change": "-1.67%"
+            "change": "+1.24%"
         },
         {
             "symbol": "VST",
             "price": 163.49,
-            "change": "+1.57%"
+            "change": "-1.75%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.56,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.5,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.48,
-            0.49
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.2,
-            25.87,
-            25.86,
-            25.56,
-            25.27,
-            25.03,
-            25.46,
-            25.87,
-            25.68,
-            26.17,
-            25.72,
-            25.28
+            23.67,
+            23.55,
+            23.89,
+            24.37,
+            24.25,
+            24.67,
+            24.47,
+            24.62,
+            24.16,
+            24.32,
+            24.56,
+            24.74
         ],
         "hsd_history_software": [
-            9.92,
-            9.94,
-            10.03,
-            10.12,
-            9.94,
-            9.85,
-            9.77,
-            9.94,
-            10.0,
-            10.01,
-            10.11,
-            10.11
+            9.68,
+            9.59,
+            9.49,
+            9.52,
+            9.54,
+            9.55,
+            9.67,
+            9.81,
+            9.81,
+            9.79,
+            9.8,
+            9.96
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:01",
+            "time": "12:27",
+            "tag": "MERCADO",
+            "text": "Hilton Honors app from Hilton Worldwide Holdings Inc. - mobile key, perks and quiet upgrades"
+        },
+        {
+            "time": "12:18",
+            "tag": "MERCADO",
+            "text": "With EPS Growth And More, Mitek Systems (NASDAQ:MITK) Makes An Interesting Case"
+        },
+        {
+            "time": "12:18",
+            "tag": "MERCADO",
+            "text": "Fortinet (FTNT) Rallies On Growth Narrative, Is It 70% Overvalued?"
+        },
+        {
+            "time": "12:09",
+            "tag": "MERCADO",
+            "text": "Smart Investor: Yellow Flags For Memory Stocks, Bubble Orders, and Morningstar\u2019s Fed Outlook"
+        },
+        {
+            "time": "12:02",
             "tag": "AI",
-            "text": "Moody's AI Strategy to Improve Business Workflows"
-        },
-        {
-            "time": "10:19",
-            "tag": "MERCADO",
-            "text": "Intuit Inc. $INTU Shares Sold by Sterling Capital Management LLC"
-        },
-        {
-            "time": "10:14",
-            "tag": "MERCADO",
-            "text": "Value Partners Investments Inc. Acquires 165,620 Shares of Salesforce Inc. $CRM"
-        },
-        {
-            "time": "09:52",
-            "tag": "MERCADO",
-            "text": "Maridea Wealth Management LLC Trims Holdings in Advanced Micro Devices, Inc. $AMD"
-        },
-        {
-            "time": "09:27",
-            "tag": "MERCADO",
-            "text": "Clear American Tower lands dual Wall Street backing, shares gain analyst momentum"
+            "text": "Why Monolithic Power Systems Stock Could Be Worth $2,453 on AI Demand"
         }
     ]
 }
