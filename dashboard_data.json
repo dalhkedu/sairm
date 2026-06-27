@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-27 13:48 UTC",
+        "last_updated": "2026-06-27 15:17 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 192.53,
-            "change": "-1.61%"
+            "change": "+2.04%"
         },
         {
             "symbol": "AMD",
             "price": 521.58,
-            "change": "+0.96%"
+            "change": "+1.14%"
         },
         {
             "symbol": "MSFT",
             "price": 372.97,
-            "change": "+2.65%"
+            "change": "-2.55%"
         },
         {
             "symbol": "CEG",
             "price": 264.02,
-            "change": "+1.24%"
+            "change": "+1.6%"
         },
         {
             "symbol": "VST",
             "price": 163.49,
-            "change": "-1.75%"
+            "change": "-2.23%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.63,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.53,
+            0.54,
+            0.54,
+            0.53,
+            0.54,
+            0.53,
+            0.53,
+            0.52,
+            0.53,
             0.52,
             0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            23.67,
-            23.55,
-            23.89,
-            24.37,
-            24.25,
-            24.67,
+            23.99,
+            24.18,
+            24.49,
+            24.22,
+            24.7,
+            24.6,
+            24.65,
+            25.09,
+            24.9,
+            24.42,
             24.47,
-            24.62,
-            24.16,
-            24.32,
-            24.56,
-            24.74
+            24.68
         ],
         "hsd_history_software": [
-            9.68,
-            9.59,
             9.49,
-            9.52,
-            9.54,
-            9.55,
-            9.67,
+            9.64,
+            9.53,
+            9.61,
+            9.74,
+            9.83,
+            9.75,
+            9.65,
             9.81,
-            9.81,
-            9.79,
-            9.8,
-            9.96
+            9.92,
+            10.0,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,9 @@
     ],
     "news_feed": [
         {
-            "time": "12:27",
-            "tag": "MERCADO",
-            "text": "Hilton Honors app from Hilton Worldwide Holdings Inc. - mobile key, perks and quiet upgrades"
-        },
-        {
-            "time": "12:18",
-            "tag": "MERCADO",
-            "text": "With EPS Growth And More, Mitek Systems (NASDAQ:MITK) Makes An Interesting Case"
-        },
-        {
-            "time": "12:18",
-            "tag": "MERCADO",
-            "text": "Fortinet (FTNT) Rallies On Growth Narrative, Is It 70% Overvalued?"
-        },
-        {
-            "time": "12:09",
-            "tag": "MERCADO",
-            "text": "Smart Investor: Yellow Flags For Memory Stocks, Bubble Orders, and Morningstar\u2019s Fed Outlook"
-        },
-        {
-            "time": "12:02",
-            "tag": "AI",
-            "text": "Why Monolithic Power Systems Stock Could Be Worth $2,453 on AI Demand"
+            "time": "INFO",
+            "tag": "LIMIT",
+            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
         }
     ]
 }
