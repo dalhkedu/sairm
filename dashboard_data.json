@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-26 23:09 UTC",
+        "last_updated": "2026-06-27 03:42 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 192.53,
-            "change": "-2.19%"
+            "change": "-2.9%"
         },
         {
             "symbol": "AMD",
             "price": 521.58,
-            "change": "+0.24%"
+            "change": "-1.75%"
         },
         {
             "symbol": "MSFT",
             "price": 372.97,
-            "change": "-0.47%"
+            "change": "+2.79%"
         },
         {
             "symbol": "CEG",
-            "price": NaN,
-            "change": "-0.73%"
+            "price": 264.02,
+            "change": "-2.84%"
         },
         {
             "symbol": "VST",
             "price": 163.49,
-            "change": "-1.3%"
+            "change": "+0.56%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.64,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
+            0.48,
+            0.49,
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
             0.5,
-            0.51,
             0.51,
             0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            23.42,
-            23.84,
-            24.19,
-            23.95,
-            23.83,
-            24.29,
-            24.09,
-            23.69,
-            24.17,
-            23.98,
-            24.13,
-            24.59
+            25.14,
+            24.81,
+            25.11,
+            24.87,
+            25.13,
+            25.41,
+            25.5,
+            26.01,
+            25.68,
+            25.79,
+            25.34,
+            25.07
         ],
         "hsd_history_software": [
-            10.35,
-            10.26,
-            10.43,
-            10.41,
-            10.41,
-            10.27,
-            10.25,
-            10.11,
-            10.19,
-            10.14,
-            10.13,
-            9.96
+            9.87,
+            10.03,
+            10.07,
+            10.04,
+            10.02,
+            9.94,
+            10.06,
+            10.2,
+            10.38,
+            10.2,
+            10.05,
+            10.09
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:37",
+            "time": "02:38",
             "tag": "MERCADO",
-            "text": "Fubo Adds Weigel Broadcasting\u2019s Networks"
+            "text": "The My Energy Rewards program from Alliant Energy Corp. - smart thermostats that quietly shave peak"
         },
         {
-            "time": "22:08",
+            "time": "02:22",
             "tag": "MERCADO",
-            "text": "PMTA Forecast \u2014 Price Target \u2014 Prediction for 2027"
+            "text": "Enphase Just Found A New Story To Tell"
         },
         {
-            "time": "21:52",
-            "tag": "AI",
-            "text": "Cisco Systems (NASDAQ:CSCO) drop puts AI order wave up against valuation pressures"
+            "time": "02:09",
+            "tag": "MERCADO",
+            "text": "Onto Innovation (ONTO) Suffers a Larger Drop Than the General Market: Key Insights"
         },
         {
-            "time": "21:50",
+            "time": "02:07",
             "tag": "MERCADO",
-            "text": "Fox Corporation | History, Media Properties, & Ownership | Britannica Money"
+            "text": "HP Updates Bylaws to Refine Director Qualification Rules"
         },
         {
-            "time": "21:32",
+            "time": "01:49",
             "tag": "MERCADO",
-            "text": "Western Digital Corp (WDC) Stock Down 13.2% but Still Overvalued -- GF Score: 60/100"
+            "text": "The Old-School Signal That Lit Up Palo Alto Networks Stock"
         }
     ]
 }
