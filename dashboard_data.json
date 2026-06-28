@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-28 19:24 UTC",
+        "last_updated": "2026-06-28 21:04 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 192.53,
-            "change": "-3.35%"
+            "change": "+0.27%"
         },
         {
             "symbol": "AMD",
             "price": 521.58,
-            "change": "+1.66%"
+            "change": "-0.72%"
         },
         {
             "symbol": "MSFT",
             "price": 372.97,
-            "change": "-2.26%"
+            "change": "+2.77%"
         },
         {
             "symbol": "CEG",
             "price": 264.02,
-            "change": "-1.62%"
+            "change": "+1.8%"
         },
         {
             "symbol": "VST",
             "price": 163.49,
-            "change": "-1.54%"
+            "change": "+1.23%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.54,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.54,
+            0.53,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.51,
             0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
             0.51,
-            0.5
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.44,
-            24.64,
-            24.65,
-            24.99,
-            24.88,
-            24.55,
-            24.61,
-            24.74,
-            24.56,
-            24.96,
-            25.03,
-            25.17
+            25.09,
+            24.68,
+            24.26,
+            24.33,
+            24.75,
+            25.0,
+            25.26,
+            25.27,
+            25.0,
+            24.79,
+            24.52,
+            24.6
         ],
         "hsd_history_software": [
-            9.96,
-            10.0,
-            9.97,
-            10.02,
-            10.07,
-            9.91,
-            9.86,
-            9.99,
-            9.81,
-            9.86,
+            9.76,
             9.84,
-            9.93
+            9.66,
+            9.7,
+            9.87,
+            9.82,
+            9.81,
+            9.93,
+            9.95,
+            9.98,
+            10.16,
+            10.18
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:11",
+            "time": "20:11",
             "tag": "MERCADO",
-            "text": "Teledyne\u2019s Alberta MEMS Expansion and FABrIC Role Might Change The Case For Investing In TDY"
+            "text": "RBC Capital Initiates Coverage of GE HealthCare Technologies Inc. (GEHC)"
         },
         {
-            "time": "17:59",
+            "time": "19:58",
             "tag": "MERCADO",
-            "text": "AT&T (NYSE:T) gets cash bid after low spectrum spend, dividend date set for July"
+            "text": "DexCom, Inc. (DXCM) Further Advances Vision of Glucose Biosensing for All"
         },
         {
-            "time": "17:38",
+            "time": "19:07",
             "tag": "MERCADO",
-            "text": "Lost Money on Synopsys, Inc. (SNPS)? Join Class Action Before December 30, 2025 - Contact Levi & Korsinsky"
+            "text": "BofA raises price target on Applied Materials to $720 amid bullish semiconductor outlook"
         },
         {
-            "time": "17:24",
+            "time": "18:47",
             "tag": "MERCADO",
-            "text": "Texas data center to use Cummins natural gas generators"
+            "text": "Barclays Maintained an \u201cOverweight\u201d rating on Lam Research Corporation (LRCX)"
         },
         {
-            "time": "16:46",
+            "time": "18:47",
             "tag": "MERCADO",
-            "text": "SLB N.V. (SLB) Launches SLB Digital Marketplace"
+            "text": "BofA is Bullish on Applied Materials, Inc. (AMAT)"
         }
     ]
 }
