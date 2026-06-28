@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-28 11:09 UTC",
+        "last_updated": "2026-06-28 13:52 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 192.53,
-            "change": "-2.83%"
+            "change": "-2.62%"
         },
         {
             "symbol": "AMD",
             "price": 521.58,
-            "change": "-1.84%"
+            "change": "+2.34%"
         },
         {
             "symbol": "MSFT",
             "price": 372.97,
-            "change": "-1.1%"
+            "change": "-2.84%"
         },
         {
             "symbol": "CEG",
             "price": 264.02,
-            "change": "-0.95%"
+            "change": "+0.66%"
         },
         {
             "symbol": "VST",
             "price": 163.49,
-            "change": "-2.13%"
+            "change": "+3.38%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.67,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.54,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
             0.5,
             0.5,
-            0.5
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.65,
-            25.77,
-            25.3,
-            25.65,
-            25.99,
-            25.54,
-            25.6,
-            25.21,
-            25.41,
-            25.03,
-            25.06,
-            24.83
+            25.75,
+            26.04,
+            26.26,
+            25.92,
+            25.92,
+            25.7,
+            25.97,
+            26.04,
+            26.09,
+            25.92,
+            25.46,
+            25.07
         ],
         "hsd_history_software": [
-            9.76,
-            9.64,
-            9.75,
-            9.78,
-            9.65,
-            9.73,
-            9.85,
-            9.93,
-            9.84,
-            9.99,
-            9.9,
-            10.07
+            10.65,
+            10.76,
+            10.73,
+            10.8,
+            10.62,
+            10.45,
+            10.61,
+            10.47,
+            10.43,
+            10.31,
+            10.15,
+            9.98
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:36",
+            "time": "12:19",
+            "tag": "MERCADO",
+            "text": "Morgan Stanley says salt is the new oil. Here's why and how to play it"
+        },
+        {
+            "time": "12:09",
             "tag": "AI",
-            "text": "Microsoft Corporation (MSFT) Is A Top Richard Chilton AI Stock"
+            "text": "AIFD Stock Fund Price and Chart \u2014 NASDAQ:AIFD"
         },
         {
-            "time": "10:35",
+            "time": "12:08",
             "tag": "MERCADO",
-            "text": "International Business Machines (IBM) Is A Top Stock In Billionaire Richard Chilton\u2019s Filings"
+            "text": "\u2018Downright Pedestrian,\u2019 Says Top Investor About Nvidia Stock"
         },
         {
-            "time": "10:33",
+            "time": "12:01",
             "tag": "MERCADO",
-            "text": "Texas Instruments Stock Has Fallen 15% From Its High. Is the Selloff a Bargain or a Warning?"
+            "text": "Wells Fargo Reiterates Buy Rating on Chime Financial Stock After First Profitable Quarter"
         },
         {
-            "time": "10:33",
+            "time": "11:48",
             "tag": "AI",
-            "text": "Palo Alto Networks Stock Is Up 110% From Its 52-Week Low. Here\u2019s Whether the AI Security Rally Can Last"
-        },
-        {
-            "time": "10:26",
-            "tag": "MERCADO",
-            "text": "Skylands Capital LLC Has $3.98 Million Position in Best Buy Co., Inc. $BBY"
+            "text": "Oracle Eliminates 21,000 Jobs As Tech Giant Replaces 13% of Global Workforce With AI"
         }
     ]
 }
