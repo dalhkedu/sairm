@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-28 17:16 UTC",
+        "last_updated": "2026-06-28 19:24 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 192.53,
-            "change": "-2.1%"
+            "change": "-3.35%"
         },
         {
             "symbol": "AMD",
             "price": 521.58,
-            "change": "-1.75%"
+            "change": "+1.66%"
         },
         {
             "symbol": "MSFT",
             "price": 372.97,
-            "change": "-2.79%"
+            "change": "-2.26%"
         },
         {
             "symbol": "CEG",
             "price": 264.02,
-            "change": "+3.48%"
+            "change": "-1.62%"
         },
         {
             "symbol": "VST",
             "price": 163.49,
-            "change": "+1.25%"
+            "change": "-1.54%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.6,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
             0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
             0.5,
             0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.3,
-            25.48,
-            25.17,
-            24.73,
-            24.72,
-            25.06,
-            24.8,
-            24.5,
-            24.81,
-            25.2,
-            25.16,
-            25.24
+            24.44,
+            24.64,
+            24.65,
+            24.99,
+            24.88,
+            24.55,
+            24.61,
+            24.74,
+            24.56,
+            24.96,
+            25.03,
+            25.17
         ],
         "hsd_history_software": [
-            9.82,
-            9.79,
             9.96,
+            10.0,
             9.97,
-            10.08,
-            9.96,
-            9.93,
-            9.98,
-            9.92,
-            10.06,
-            10.15,
-            10.11
+            10.02,
+            10.07,
+            9.91,
+            9.86,
+            9.99,
+            9.81,
+            9.86,
+            9.84,
+            9.93
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:19",
+            "time": "18:11",
             "tag": "MERCADO",
-            "text": "Why Palo Alto Networks (PANW) Is Up 5.7% After Deepening Its IBM\u2013Red Hat Security Collaboration"
+            "text": "Teledyne\u2019s Alberta MEMS Expansion and FABrIC Role Might Change The Case For Investing In TDY"
         },
         {
-            "time": "16:09",
+            "time": "17:59",
             "tag": "MERCADO",
-            "text": "Is Sunrun\u2019s Mega Home-Battery Alliance Reshaping the Investment Case for RUN?"
+            "text": "AT&T (NYSE:T) gets cash bid after low spectrum spend, dividend date set for July"
         },
         {
-            "time": "15:41",
+            "time": "17:38",
             "tag": "MERCADO",
-            "text": "Price to earnings forward of SPS Commerce, Inc. \u2013 NASDAQ:SPSC"
+            "text": "Lost Money on Synopsys, Inc. (SNPS)? Join Class Action Before December 30, 2025 - Contact Levi & Korsinsky"
         },
         {
-            "time": "15:28",
-            "tag": "AI",
-            "text": "The Ultimate AI Power Supercycle Winner: NextEra Energy or Vistra Stock?"
+            "time": "17:24",
+            "tag": "MERCADO",
+            "text": "Texas data center to use Cummins natural gas generators"
         },
         {
-            "time": "15:10",
-            "tag": "AI",
-            "text": "Penguin Solutions (PENG) Becomes NVIDIA AI Factory Specialized Partner"
+            "time": "16:46",
+            "tag": "MERCADO",
+            "text": "SLB N.V. (SLB) Launches SLB Digital Marketplace"
         }
     ]
 }
