@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-29 04:13 UTC",
+        "last_updated": "2026-06-29 09:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 192.53,
-            "change": "+1.79%"
+            "change": "-1.85%"
         },
         {
             "symbol": "AMD",
             "price": 521.58,
-            "change": "+1.36%"
+            "change": "-1.47%"
         },
         {
             "symbol": "MSFT",
             "price": 372.97,
-            "change": "-0.61%"
+            "change": "+1.86%"
         },
         {
             "symbol": "CEG",
             "price": 264.02,
-            "change": "-1.44%"
+            "change": "+0.63%"
         },
         {
             "symbol": "VST",
             "price": 163.49,
-            "change": "+0.29%"
+            "change": "+1.48%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.61,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
-            0.49,
+            0.48,
             0.49,
             0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.49
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.82,
-            24.64,
-            24.87,
-            24.5,
-            24.99,
-            24.77,
-            24.91,
-            25.38,
-            24.91,
-            24.58,
-            24.76,
-            24.88
+            25.84,
+            25.57,
+            26.02,
+            25.79,
+            25.89,
+            25.72,
+            25.3,
+            25.3,
+            24.98,
+            24.85,
+            25.35,
+            24.86
         ],
         "hsd_history_software": [
-            9.92,
-            10.1,
-            9.97,
-            9.87,
-            10.05,
-            10.21,
-            10.14,
-            10.33,
-            10.23,
-            10.09,
-            9.96,
-            9.88
+            9.9,
+            10.01,
+            10.04,
+            9.88,
+            9.95,
+            9.83,
+            9.7,
+            9.65,
+            9.7,
+            9.82,
+            9.73,
+            9.85
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "03:26",
-            "tag": "MERCADO",
-            "text": "Apple Back to School 2026 Arrives This Week: Free Accessories After $200 Mac Hike"
+            "time": "09:16",
+            "tag": "CRYPTO",
+            "text": "STMicroelectronics Unveils ST54M Secure Mobile Chip with Post-Quantum Cryptography"
         },
         {
-            "time": "03:23",
+            "time": "09:07",
             "tag": "MERCADO",
-            "text": "Navisphere Carrier from C.H. Robinson Worldwide Inc. - small fleets get a cleaner load board"
+            "text": "Union Bancaire Privee UBP SA Sells 95,574 Shares of VeriSign, Inc. $VRSN"
         },
         {
-            "time": "03:16",
+            "time": "09:07",
             "tag": "MERCADO",
-            "text": "Corning Incorporated(NYSE: GLW) added to Russell 3000E Growth Benchmark"
+            "text": "Tesla quietly resolves lawsuit tied to federal safety probe"
         },
         {
-            "time": "03:15",
+            "time": "09:01",
             "tag": "MERCADO",
-            "text": "AOC Targets Apple, Calls For Breakup Of 'Far Too Big' Companies After Tim Cook Defends Price Hikes: Need 'Consumer Protections' For People"
+            "text": "Riverbridge Partners LLC Sells 45,727 Shares of Amazon.com, Inc. $AMZN"
         },
         {
-            "time": "03:09",
+            "time": "09:00",
             "tag": "MERCADO",
-            "text": "Price to sales forward of Netskope, Inc. Class A \u2013 SWB:Z2G"
+            "text": "OP Asset Management Ltd Invests $2.10 Million in NetApp, Inc. $NTAP"
         }
     ]
 }
