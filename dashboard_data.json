@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-30 09:42 UTC",
+        "last_updated": "2026-06-30 12:11 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 194.97,
-            "change": "+0.28%"
+            "change": "-3.47%"
         },
         {
             "symbol": "AMD",
             "price": 539.49,
-            "change": "-1.35%"
+            "change": "+3.19%"
         },
         {
             "symbol": "MSFT",
             "price": 368.57,
-            "change": "-2.71%"
+            "change": "-2.3%"
         },
         {
             "symbol": "CEG",
             "price": 259.32,
-            "change": "+0.69%"
+            "change": "+3.25%"
         },
         {
             "symbol": "VST",
             "price": 162.38,
-            "change": "-1.17%"
+            "change": "-2.8%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.51,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
             0.5,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
             0.5,
             0.5,
-            0.51
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.71,
-            26.31,
-            26.6,
-            27.0,
-            26.5,
-            26.03,
-            26.3,
-            26.16,
-            25.69,
-            25.6,
-            25.15,
-            24.84
+            24.41,
+            24.36,
+            24.18,
+            23.8,
+            24.0,
+            24.46,
+            24.3,
+            24.65,
+            24.66,
+            24.71,
+            25.18,
+            25.34
         ],
         "hsd_history_software": [
-            9.99,
-            10.06,
-            10.26,
-            10.24,
-            10.11,
-            9.99,
-            10.03,
-            9.96,
+            9.88,
+            10.02,
+            10.22,
+            10.12,
+            10.04,
+            10.21,
             10.07,
-            10.08,
-            9.89,
-            9.86
+            10.2,
+            10.02,
+            9.97,
+            9.86,
+            9.81
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,9 @@
     ],
     "news_feed": [
         {
-            "time": "09:16",
-            "tag": "AI",
-            "text": "Gartner declares \u2018agentic AI\u2019 the next step function"
-        },
-        {
-            "time": "09:07",
-            "tag": "MERCADO",
-            "text": "Take-Two Interactive Software, Inc. $TTWO Shares Purchased by Patriot Financial Group Insurance Agency LLC"
-        },
-        {
-            "time": "09:01",
-            "tag": "MERCADO",
-            "text": "This exec worked her way up to Truist\u2019s top job in Georgia. Here\u2019s how."
-        },
-        {
-            "time": "08:54",
-            "tag": "MERCADO",
-            "text": "Amcor explores Kelpi\u2019s seaweed-based coatings for fibre packaging"
-        },
-        {
-            "time": "08:48",
-            "tag": "MERCADO",
-            "text": "Nissan Americas Employee Data Breach Analysis: Oracle PeopleSoft Zero-Day (CVE-2026-35273) Exploitation and Supply Chain Risks"
+            "time": "INFO",
+            "tag": "LIMIT",
+            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
         }
     ]
 }
