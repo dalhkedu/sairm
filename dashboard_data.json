@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-07-01 12:35 UTC",
+        "last_updated": "2026-07-01 15:44 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 200.09,
-            "change": "-0.93%"
+            "price": 197.02,
+            "change": "+1.02%"
         },
         {
             "symbol": "AMD",
-            "price": 580.91,
-            "change": "+2.26%"
+            "price": 554.46,
+            "change": "+2.05%"
         },
         {
             "symbol": "MSFT",
-            "price": 373.02,
-            "change": "-2.47%"
+            "price": 384.77,
+            "change": "+0.87%"
         },
         {
             "symbol": "CEG",
-            "price": 248.37,
-            "change": "-0.72%"
+            "price": 233.93,
+            "change": "-2.84%"
         },
         {
             "symbol": "VST",
-            "price": 158.63,
-            "change": "+1.32%"
+            "price": 152.26,
+            "change": "-2.46%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.69,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.51,
             0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
+            0.51,
+            0.52,
             0.51,
             0.51,
             0.5,
+            0.51,
+            0.51,
+            0.51,
             0.5,
-            0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            26.26,
-            26.18,
-            26.61,
-            26.27,
-            25.79,
-            25.46,
-            25.46,
-            25.17,
-            25.39,
-            25.4,
-            25.68,
-            25.48
+            23.64,
+            23.96,
+            23.56,
+            23.86,
+            23.97,
+            23.88,
+            24.24,
+            24.21,
+            24.13,
+            24.31,
+            24.42,
+            24.52
         ],
         "hsd_history_software": [
-            9.67,
-            9.78,
-            9.68,
-            9.7,
-            9.75,
-            9.95,
-            9.94,
-            10.01,
-            10.14,
-            10.08,
+            10.0,
+            9.83,
+            9.96,
+            9.79,
+            9.73,
+            9.85,
+            10.04,
+            9.97,
             9.91,
-            9.91
+            9.99,
+            10.04,
+            9.96
         ],
         "rci_data": [
             85.0,
-            20.009
+            19.702
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:07",
+            "time": "15:11",
             "tag": "MERCADO",
-            "text": "Cantor Fitzgerald reiterates Neutral rating on Realty Income stock"
+            "text": "Why Is MRAM Stock Surging Premarket Today?"
         },
         {
-            "time": "12:06",
+            "time": "15:02",
             "tag": "MERCADO",
-            "text": "Invesco QQQ Trust from Invesco Ltd. - tech-heavy ETF quietly anchors many US portfolios"
+            "text": "Western Digital (WDC) Price Forecast: 50% Gross Margin Record Fails to Stop Triangle Breakdown"
         },
         {
-            "time": "12:06",
+            "time": "14:57",
             "tag": "MERCADO",
-            "text": "MEDIA ALERT: Equinix Sets Conference Call for Second-Quarter Results"
+            "text": "Tyler Technologies stock follows its core municipal software business"
         },
         {
-            "time": "12:05",
+            "time": "14:55",
             "tag": "MERCADO",
-            "text": "Federal Realty Names Paige Pitcher Senior Vice President, Digital Innovation"
+            "text": "CDW Corp. holds the line as traders wait for a fresh catalyst."
         },
         {
-            "time": "12:03",
-            "tag": "MERCADO",
-            "text": "Here Are Wednesday\u2019s Best Wall Street Analyst Research Calls: Abbott Laboratories, Circle Internet, Dow, Kratos Defense, Lockheed Martin, Salesforce, ServiceNow,SpaceX, and More"
+            "time": "14:47",
+            "tag": "AI",
+            "text": "Market Chatter: Uber Dismisses Two Leaders of Its AI Data Labeling Business"
         }
     ]
 }
