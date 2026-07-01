@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-06-30 22:16 UTC",
+        "last_updated": "2026-07-01 00:08 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 200.09,
-            "change": "+0.7%"
+            "change": "+2.89%"
         },
         {
             "symbol": "AMD",
             "price": 580.91,
-            "change": "-1.13%"
+            "change": "+3.25%"
         },
         {
             "symbol": "MSFT",
             "price": 373.02,
-            "change": "+1.1%"
+            "change": "-2.91%"
         },
         {
             "symbol": "CEG",
             "price": 248.37,
-            "change": "+0.77%"
+            "change": "+0.34%"
         },
         {
             "symbol": "VST",
             "price": 158.63,
-            "change": "+0.89%"
+            "change": "+2.83%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.66,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.52,
+            0.52,
+            0.53,
+            0.54,
+            0.53,
+            0.52,
+            0.51,
             0.51,
             0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.5,
-            0.49
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            23.95,
-            24.22,
-            24.29,
+            24.76,
+            25.1,
+            25.49,
+            25.65,
+            25.36,
+            25.11,
+            24.74,
+            24.94,
+            24.84,
             24.67,
-            24.96,
-            25.29,
-            25.52,
-            25.3,
-            25.56,
-            25.5,
-            25.19,
-            24.79
+            25.06,
+            24.84
         ],
         "hsd_history_software": [
-            9.34,
-            9.28,
-            9.4,
-            9.47,
-            9.63,
-            9.79,
-            9.93,
-            10.04,
-            10.1,
-            9.98,
-            10.05,
-            10.18
+            10.29,
+            10.33,
+            10.44,
+            10.53,
+            10.4,
+            10.3,
+            10.19,
+            10.23,
+            10.15,
+            10.33,
+            10.17,
+            9.98
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:27",
+            "time": "23:38",
             "tag": "MERCADO",
-            "text": "Insider Selling: Alphabet (NASDAQ:GOOG) Director Sells $39,343.36 in Stock"
+            "text": "Extreme Networks (EXTR) Could Be 11% Overvalued Following Its New Stadium Wi Fi 7 Win"
         },
         {
-            "time": "21:25",
+            "time": "23:34",
             "tag": "AI",
-            "text": "Is F5 (FFIV) Fully Valued As Its AI Security Push Gains Traction?"
+            "text": "Taiwan raids Super Micro offices in probe tied to AI chips sent to China"
         },
         {
-            "time": "21:08",
+            "time": "23:14",
             "tag": "MERCADO",
-            "text": "Should Emerson\u2019s Russell Defensive Index Inclusion Reframe EMR as a Core Automation Risk-Management Holding?"
+            "text": "Entergy EVolve from Entergy Corp. - turnkey charging service for US fleets"
         },
         {
-            "time": "21:08",
-            "tag": "MERCADO",
-            "text": "Pasqal Pursues Nasdaq Listing Via $300M+ Funding Round"
+            "time": "22:48",
+            "tag": "AI",
+            "text": "OpenAI Deepens India Bet, Hires Ex-Uber Executive To Drive Growth, Partnerships"
         },
         {
-            "time": "21:02",
+            "time": "22:45",
             "tag": "MERCADO",
-            "text": "Where Arista Networks Stock Is Most Exposed"
+            "text": "MSFT Investors Have Opportunity to Lead Microsoft Corporation Securities Fraud Lawsuit"
         }
     ]
 }
