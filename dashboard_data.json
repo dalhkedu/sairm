@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-02 08:19 UTC",
+        "last_updated": "2026-07-02 11:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 197.58,
-            "change": "-2.48%"
+            "change": "+1.65%"
         },
         {
             "symbol": "AMD",
             "price": 540.88,
-            "change": "-0.94%"
+            "change": "+1.92%"
         },
         {
             "symbol": "MSFT",
             "price": 384.28,
-            "change": "+2.78%"
+            "change": "+1.04%"
         },
         {
             "symbol": "CEG",
             "price": 236.5,
-            "change": "+1.4%"
+            "change": "+2.99%"
         },
         {
             "symbol": "VST",
             "price": 153.16,
-            "change": "+2.52%"
+            "change": "+0.18%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.64,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.48,
             0.49,
             0.49,
             0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
+            0.51,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.29,
-            24.63,
-            24.73,
-            25.11,
-            25.4,
-            25.26,
-            25.22,
-            24.75,
-            24.74,
-            25.05,
-            25.28,
-            24.96
+            27.66,
+            27.99,
+            27.74,
+            27.94,
+            27.63,
+            27.13,
+            26.87,
+            26.47,
+            26.15,
+            25.91,
+            25.68,
+            25.42
         ],
         "hsd_history_software": [
-            9.64,
-            9.82,
-            9.77,
-            9.7,
-            9.8,
-            9.67,
-            9.82,
-            10.0,
-            9.97,
-            9.99,
-            10.13,
-            10.12
+            10.29,
+            10.19,
+            10.26,
+            10.33,
+            10.52,
+            10.66,
+            10.84,
+            10.64,
+            10.45,
+            10.26,
+            10.12,
+            9.97
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:31",
+            "time": "11:10",
             "tag": "MERCADO",
-            "text": "Essex Apartment Homes Resident Portal - Essex Property Trust bets on digital self-service"
+            "text": "GraniteShares 2x Long META Daily ETF (FBL) stock price, news, quote and history"
         },
         {
-            "time": "07:26",
+            "time": "11:00",
             "tag": "MERCADO",
-            "text": "Barton Investment Management Has $103.56 Million Holdings in Amazon.com, Inc. $AMZN"
+            "text": "Akamai Technologies To Hold Second Quarter 2026 Investor Conference Call On Thursday, August 6, at 4:30 PM ET"
         },
         {
-            "time": "07:26",
+            "time": "10:54",
             "tag": "MERCADO",
-            "text": "Advanced Micro Devices, Inc. $AMD is Cane Capital Partners LLC's 10th Largest Position"
+            "text": "Northrop Grumman highlights its defense role as a major US contractor"
         },
         {
-            "time": "07:25",
+            "time": "10:50",
             "tag": "MERCADO",
-            "text": "International Business Machines Corporation $IBM Shares Purchased by Cane Capital Partners LLC"
+            "text": "Avery Dennison balances packaging demand and label innovation as global trends shift"
         },
         {
-            "time": "07:20",
+            "time": "10:48",
             "tag": "MERCADO",
-            "text": "CoStar Group launches commercial real estate platform in France"
+            "text": "Motorola Solutions (MSI) Extends Denmark Emergency Network For 8 More Years"
         }
     ]
 }
