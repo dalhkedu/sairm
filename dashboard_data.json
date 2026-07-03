@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-03 08:11 UTC",
+        "last_updated": "2026-07-03 11:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 194.83,
-            "change": "+3.43%"
+            "change": "-3.35%"
         },
         {
             "symbol": "AMD",
             "price": 517.82,
-            "change": "+1.47%"
+            "change": "-0.02%"
         },
         {
             "symbol": "MSFT",
             "price": 390.49,
-            "change": "+2.0%"
+            "change": "-0.79%"
         },
         {
             "symbol": "CEG",
             "price": 239.25,
-            "change": "+0.61%"
+            "change": "+1.35%"
         },
         {
             "symbol": "VST",
             "price": 151.05,
-            "change": "-0.67%"
+            "change": "+3.23%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.43,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
-            0.52,
-            0.52,
             0.51,
             0.51,
-            0.52,
-            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.51,
             0.52,
             0.51,
-            0.5
+            0.51,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            23.9,
-            23.44,
-            23.47,
-            23.38,
-            23.16,
-            23.24,
-            22.93,
-            23.18,
-            23.61,
-            24.06,
-            24.35,
-            24.59
+            24.19,
+            23.77,
+            24.16,
+            24.11,
+            24.44,
+            24.59,
+            24.3,
+            24.32,
+            24.05,
+            24.11,
+            24.49,
+            24.8
         ],
         "hsd_history_software": [
-            9.9,
-            10.02,
-            10.03,
-            10.1,
-            9.9,
-            10.0,
+            9.53,
+            9.6,
+            9.69,
+            9.79,
+            9.88,
+            9.82,
+            9.97,
+            9.93,
+            10.01,
+            10.05,
             9.99,
-            9.91,
-            10.09,
-            10.1,
-            9.91,
-            9.88
+            9.91
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:38",
+            "time": "11:08",
             "tag": "MERCADO",
-            "text": "The ToughMet 3 from Materion Corp. - Copper alloy built for extreme wear"
+            "text": "ClearOne Inc focus on audio and conferencing technology as investors watch its niche positioning"
         },
         {
-            "time": "07:33",
+            "time": "10:55",
             "tag": "MERCADO",
-            "text": "Generali Powszechne Towarzystwo Emerytalne Has $29.65 Million Stake in NVIDIA Corporation $NVDA"
+            "text": "Jabil Inc. balances manufacturing scale and tech demand"
         },
         {
-            "time": "07:33",
-            "tag": "MERCADO",
-            "text": "Amazon.com, Inc. $AMZN Position Lifted by Generali Investments Towarzystwo Funduszy Inwestycyjnych"
+            "time": "10:52",
+            "tag": "AI",
+            "text": "MeetingTV sues Palo Alto Networks for allegedly trusting AI to falsely link them to Chinese espionage"
         },
         {
-            "time": "07:31",
+            "time": "10:37",
             "tag": "MERCADO",
-            "text": "Boston Trust Walden Corp Sells 9,019 Shares of Jack Henry & Associates, Inc. $JKHY"
+            "text": "Sierra Summit Advisors LLC Has $1.57 Million Position in First Solar, Inc. $FSLR"
         },
         {
-            "time": "07:31",
+            "time": "10:27",
             "tag": "MERCADO",
-            "text": "Hsbc Holdings PLC Has $363.04 Million Stock Position in Arista Networks, Inc. $ANET"
+            "text": "63,093 Shares in Salesforce Inc. $CRM Purchased by Y Intercept Hong Kong Ltd"
         }
     ]
 }
