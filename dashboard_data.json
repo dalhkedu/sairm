@@ -1,37 +1,37 @@
 {
     "metadata": {
-        "last_updated": "2026-07-03 20:16 UTC",
+        "last_updated": "2026-07-03 22:06 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 194.83,
-            "change": "-0.91%"
+            "change": "-2.8%"
         },
         {
             "symbol": "AMD",
             "price": 517.82,
-            "change": "-0.55%"
+            "change": "-2.57%"
         },
         {
             "symbol": "MSFT",
             "price": 390.49,
-            "change": "+0.24%"
+            "change": "+2.08%"
         },
         {
             "symbol": "CEG",
             "price": 239.25,
-            "change": "-2.65%"
+            "change": "-0.83%"
         },
         {
             "symbol": "VST",
             "price": 151.05,
-            "change": "-1.81%"
+            "change": "-2.63%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.45,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
@@ -39,43 +39,43 @@
             0.5,
             0.51,
             0.5,
-            0.5,
-            0.5,
+            0.51,
             0.5,
             0.5,
             0.51,
             0.51,
-            0.52,
             0.51,
-            0.5
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            23.35,
-            23.0,
-            23.14,
-            23.39,
-            23.85,
-            23.73,
-            24.02,
-            24.43,
             24.8,
+            24.63,
+            24.16,
+            24.65,
+            24.86,
+            24.66,
+            25.14,
+            24.84,
+            24.65,
             24.96,
-            25.45,
-            25.17
+            24.8,
+            24.57
         ],
         "hsd_history_software": [
-            9.66,
-            9.78,
-            9.92,
+            10.01,
+            9.9,
+            10.02,
             9.94,
-            9.93,
-            9.95,
-            9.77,
             9.85,
-            9.76,
-            9.95,
+            10.04,
+            10.01,
+            10.14,
+            10.16,
             10.07,
-            10.19
+            10.04,
+            10.15
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:59",
-            "tag": "MERCADO",
-            "text": "AMETEK Inc. adjusts to evolving industrial demand. The diversified manufacturer leans on precision electronics"
+            "time": "21:57",
+            "tag": "AI",
+            "text": "Cisco Systems Inc. focuses on network security and AI networking. Investors watch its role in global"
         },
         {
-            "time": "18:55",
+            "time": "21:02",
             "tag": "MERCADO",
-            "text": "Crown Castle Inc. focuses on wireless infrastructure and long-term connectivity demand"
+            "text": "Leidos Holdings highlights defense and technology capabilities as investors weigh long-term demand"
         },
         {
-            "time": "18:52",
+            "time": "20:47",
             "tag": "MERCADO",
-            "text": "Western Digital (WDC) Joins Growth Indices, Is The 8% Undervalued View Still Convincing?"
+            "text": "Iron Mountain highlights its data and records services as investors weigh long-term demand"
         },
         {
-            "time": "18:47",
-            "tag": "MERCADO",
-            "text": "Ecolab completes USD $4.75 billion CoolIT takeover"
+            "time": "20:47",
+            "tag": "AI",
+            "text": "Cigna (CI) Launches AI Pharmacy Program With $100 Million Behind It"
         },
         {
-            "time": "18:40",
+            "time": "20:40",
             "tag": "MERCADO",
-            "text": "Skyworks Solutions balances wireless demand and diversification"
+            "text": "W3H Stock Price and Chart \u2014 FWB:W3H"
         }
     ]
 }
