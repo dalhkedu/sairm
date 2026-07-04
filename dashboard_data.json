@@ -1,80 +1,80 @@
 {
     "metadata": {
-        "last_updated": "2026-07-04 07:48 UTC",
+        "last_updated": "2026-07-04 10:13 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 194.83,
-            "change": "+0.81%"
+            "change": "+2.94%"
         },
         {
             "symbol": "AMD",
             "price": 517.82,
-            "change": "-1.6%"
+            "change": "+0.97%"
         },
         {
             "symbol": "MSFT",
             "price": 390.49,
-            "change": "-2.46%"
+            "change": "+0.33%"
         },
         {
             "symbol": "CEG",
             "price": 239.25,
-            "change": "-1.29%"
+            "change": "-2.79%"
         },
         {
             "symbol": "VST",
             "price": 151.05,
-            "change": "-0.65%"
+            "change": "-1.08%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
+        "cer_current": 0.56,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
+            0.49,
+            0.49,
             0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
             0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            26.38,
-            26.17,
-            26.34,
-            25.96,
-            26.46,
-            25.99,
-            25.85,
-            25.6,
-            25.22,
-            25.46,
-            25.62,
-            25.13
+            26.09,
+            26.07,
+            26.37,
+            26.81,
+            26.55,
+            26.51,
+            26.0,
+            25.55,
+            25.49,
+            25.06,
+            25.23,
+            25.37
         ],
         "hsd_history_software": [
-            9.85,
-            9.9,
+            10.24,
+            10.33,
+            10.22,
+            10.2,
+            10.34,
+            10.17,
+            10.02,
+            10.09,
+            10.11,
             10.08,
-            9.98,
-            10.09,
-            10.04,
-            9.98,
-            9.9,
-            9.89,
-            10.04,
-            10.09,
+            9.99,
             10.15
         ],
         "rci_data": [
@@ -126,9 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "INFO",
-            "tag": "LIMIT",
-            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
+            "time": "09:23",
+            "tag": "MERCADO",
+            "text": "Keysight Technologies focuses on test and measurement solutions as investors watch long-term growth"
+        },
+        {
+            "time": "09:18",
+            "tag": "MERCADO",
+            "text": "Jabil Inc. highlights diversified manufacturing model as investors track global electronics demand"
+        },
+        {
+            "time": "09:14",
+            "tag": "MERCADO",
+            "text": "AT&T Inc. $T Stock Holdings Decreased by Leonteq Securities AG"
+        },
+        {
+            "time": "09:14",
+            "tag": "MERCADO",
+            "text": "Leonteq Securities AG Invests $1.14 Million in Applied Optoelectronics, Inc. $AAOI"
+        },
+        {
+            "time": "09:06",
+            "tag": "MERCADO",
+            "text": "3,384 Shares in Astera Labs, Inc. $ALAB Acquired by Patten Group Inc."
         }
     ]
 }
