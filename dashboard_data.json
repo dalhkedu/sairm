@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-03 22:06 UTC",
+        "last_updated": "2026-07-04 00:07 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 194.83,
-            "change": "-2.8%"
+            "change": "-1.53%"
         },
         {
             "symbol": "AMD",
             "price": 517.82,
-            "change": "-2.57%"
+            "change": "-1.15%"
         },
         {
             "symbol": "MSFT",
             "price": 390.49,
-            "change": "+2.08%"
+            "change": "-3.09%"
         },
         {
             "symbol": "CEG",
             "price": 239.25,
-            "change": "-0.83%"
+            "change": "-0.9%"
         },
         {
             "symbol": "VST",
             "price": 151.05,
-            "change": "-2.63%"
+            "change": "-1.4%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.47,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.5,
-            0.51,
-            0.5,
-            0.51,
             0.5,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51
+            0.5,
+            0.5,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.8,
-            24.63,
-            24.16,
-            24.65,
-            24.86,
-            24.66,
-            25.14,
-            24.84,
-            24.65,
-            24.96,
-            24.8,
-            24.57
+            25.11,
+            25.03,
+            25.08,
+            24.88,
+            24.91,
+            25.29,
+            25.75,
+            25.55,
+            25.84,
+            25.87,
+            25.58,
+            25.09
         ],
         "hsd_history_software": [
-            10.01,
-            9.9,
+            10.45,
+            10.51,
+            10.44,
+            10.5,
+            10.33,
+            10.45,
+            10.29,
+            10.08,
+            10.18,
+            10.22,
             10.02,
-            9.94,
-            9.85,
-            10.04,
-            10.01,
-            10.14,
-            10.16,
-            10.07,
-            10.04,
-            10.15
+            10.12
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "23:28",
+            "tag": "MERCADO",
+            "text": "Is Emerson Electric Co. (EMR) A Good Stock To Buy Now?"
+        },
+        {
+            "time": "23:11",
+            "tag": "MERCADO",
+            "text": "Is Cummins (CMI) Reclassification Into Growth Indexes Quietly Reshaping Its Investment Narrative?"
+        },
+        {
+            "time": "22:56",
+            "tag": "MERCADO",
+            "text": "CYPH SEC Filings - Cypherpunk Technologies Inc 10-K, 10-Q, 8-K Forms"
+        },
+        {
+            "time": "22:13",
+            "tag": "MERCADO",
+            "text": "iQiyi names Tian Ying as new CFO"
+        },
+        {
             "time": "21:57",
             "tag": "AI",
             "text": "Cisco Systems Inc. focuses on network security and AI networking. Investors watch its role in global"
-        },
-        {
-            "time": "21:02",
-            "tag": "MERCADO",
-            "text": "Leidos Holdings highlights defense and technology capabilities as investors weigh long-term demand"
-        },
-        {
-            "time": "20:47",
-            "tag": "MERCADO",
-            "text": "Iron Mountain highlights its data and records services as investors weigh long-term demand"
-        },
-        {
-            "time": "20:47",
-            "tag": "AI",
-            "text": "Cigna (CI) Launches AI Pharmacy Program With $100 Million Behind It"
-        },
-        {
-            "time": "20:40",
-            "tag": "MERCADO",
-            "text": "W3H Stock Price and Chart \u2014 FWB:W3H"
         }
     ]
 }
