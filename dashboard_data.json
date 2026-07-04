@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-07-04 00:07 UTC",
+        "last_updated": "2026-07-04 04:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 194.83,
-            "change": "-1.53%"
+            "change": "+0.7%"
         },
         {
             "symbol": "AMD",
             "price": 517.82,
-            "change": "-1.15%"
+            "change": "-1.2%"
         },
         {
             "symbol": "MSFT",
             "price": 390.49,
-            "change": "-3.09%"
+            "change": "+0.87%"
         },
         {
             "symbol": "CEG",
             "price": 239.25,
-            "change": "-0.9%"
+            "change": "+2.16%"
         },
         {
             "symbol": "VST",
             "price": 151.05,
-            "change": "-1.4%"
+            "change": "-2.43%"
         }
     ],
     "dashboard_metrics": {
@@ -36,46 +36,46 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
             0.5,
             0.5,
             0.5,
+            0.5,
+            0.51,
             0.5,
             0.5,
             0.49,
-            0.5
+            0.49,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.11,
-            25.03,
-            25.08,
-            24.88,
-            24.91,
-            25.29,
-            25.75,
-            25.55,
-            25.84,
-            25.87,
-            25.58,
-            25.09
+            25.05,
+            25.27,
+            25.18,
+            24.73,
+            25.2,
+            24.9,
+            24.65,
+            25.04,
+            24.98,
+            24.84,
+            24.9,
+            25.36
         ],
         "hsd_history_software": [
-            10.45,
-            10.51,
-            10.44,
-            10.5,
-            10.33,
-            10.45,
-            10.29,
-            10.08,
-            10.18,
-            10.22,
-            10.02,
-            10.12
+            10.1,
+            10.11,
+            10.24,
+            10.07,
+            9.99,
+            10.17,
+            10.12,
+            10.01,
+            9.87,
+            9.88,
+            9.92,
+            9.85
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "23:28",
+            "time": "03:09",
             "tag": "MERCADO",
-            "text": "Is Emerson Electric Co. (EMR) A Good Stock To Buy Now?"
+            "text": "BofA Highlights MercadoLibre Inc. (MELI) Credit Card Growth and Fintech Expansion"
         },
         {
-            "time": "23:11",
+            "time": "02:40",
             "tag": "MERCADO",
-            "text": "Is Cummins (CMI) Reclassification Into Growth Indexes Quietly Reshaping Its Investment Narrative?"
+            "text": "Joby Aviation, Toyota Motor Launch Initial Phase of Strategic Alliance"
         },
         {
-            "time": "22:56",
+            "time": "02:40",
             "tag": "MERCADO",
-            "text": "CYPH SEC Filings - Cypherpunk Technologies Inc 10-K, 10-Q, 8-K Forms"
+            "text": "PayPal Holdings (PYPL) Posts Solid Q1 Results, Expands WeChat Pay Integration"
         },
         {
-            "time": "22:13",
-            "tag": "MERCADO",
-            "text": "iQiyi names Tian Ying as new CFO"
-        },
-        {
-            "time": "21:57",
+            "time": "02:39",
             "tag": "AI",
-            "text": "Cisco Systems Inc. focuses on network security and AI networking. Investors watch its role in global"
+            "text": "Citizens Highlights Mid-America Apartment Communities (MAA) on Strong Leasing Momentum and AI Strategy"
+        },
+        {
+            "time": "02:38",
+            "tag": "AI",
+            "text": "Citizens Highlights Mid-America Apartment Communities (MAA) on Strong Leasing Momentum and AI Strategy"
         }
     ]
 }
