@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-04 14:39 UTC",
+        "last_updated": "2026-07-04 16:05 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 194.83,
-            "change": "-0.58%"
+            "change": "+0.69%"
         },
         {
             "symbol": "AMD",
             "price": 517.82,
-            "change": "+2.9%"
+            "change": "+1.16%"
         },
         {
             "symbol": "MSFT",
             "price": 390.49,
-            "change": "+2.57%"
+            "change": "+0.03%"
         },
         {
             "symbol": "CEG",
             "price": 239.25,
-            "change": "+0.41%"
+            "change": "+1.64%"
         },
         {
             "symbol": "VST",
             "price": 151.05,
-            "change": "+2.49%"
+            "change": "+2.46%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.41,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.52,
-            0.53,
-            0.53,
-            0.54,
-            0.54,
-            0.53,
-            0.54,
-            0.53,
-            0.53,
-            0.52,
-            0.51
+            0.48,
+            0.47,
+            0.48,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            22.79,
-            22.69,
-            22.68,
-            22.74,
-            22.54,
-            22.76,
-            23.04,
-            23.46,
-            23.88,
-            24.26,
-            24.26,
-            24.58
+            25.59,
+            25.57,
+            25.53,
+            25.64,
+            25.66,
+            25.9,
+            25.83,
+            25.65,
+            25.63,
+            25.84,
+            25.46,
+            25.09
         ],
         "hsd_history_software": [
-            10.1,
             10.23,
-            10.38,
+            10.28,
+            10.19,
+            10.39,
             10.22,
-            10.13,
-            10.33,
-            10.33,
-            10.5,
-            10.42,
-            10.34,
-            10.14,
-            10.06
+            10.39,
+            10.21,
+            10.1,
+            10.01,
+            10.17,
+            10.0,
+            10.11
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:59",
+            "time": "15:24",
             "tag": "MERCADO",
-            "text": "Himax (NASDAQ:HIMX) navigates one-time gain as chip sector slumps"
+            "text": "Cisco (NASDAQ:CSCO) drops $4.32 in short week, dividend in focus"
         },
         {
-            "time": "13:51",
+            "time": "14:39",
             "tag": "MERCADO",
-            "text": "Honeywell International Inc. (HON): One of The Best Robotics Stocks to Buy Poised for Manufacturing Automation Opportunities"
+            "text": "Norton Small Business from Gen Digital Inc. - security bundle tailored for US micro firms"
         },
         {
-            "time": "13:48",
+            "time": "14:38",
             "tag": "MERCADO",
-            "text": "Honeywell International Inc. (HON): One of The Best Robotics Stocks to Buy Poised for Manufacturing Automation Opportunities"
+            "text": "Robert W. Baird Maintains Buy on Palo Alto Networks"
         },
         {
-            "time": "13:47",
+            "time": "14:38",
             "tag": "MERCADO",
-            "text": "BofA Boosts Teradyne (TER) Price Target on Industry Growth"
+            "text": "MOTOTRBO Ion Smart Radio from Motorola Solutions Inc. - Android app power for frontline teams"
         },
         {
-            "time": "13:47",
-            "tag": "MERCADO",
-            "text": "Is NVIDIA Corporation (NVDA) The Best Robotics Stock to Buy According to Short Sellers?"
+            "time": "14:33",
+            "tag": "AI",
+            "text": "Western Digital Falls Over The Cliff As AI Trade Cools - What's Next? (NASDAQ:WDC)"
         }
     ]
 }
