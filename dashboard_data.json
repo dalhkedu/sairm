@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-04 10:13 UTC",
+        "last_updated": "2026-07-04 12:08 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 194.83,
-            "change": "+2.94%"
+            "change": "-0.79%"
         },
         {
             "symbol": "AMD",
             "price": 517.82,
-            "change": "+0.97%"
+            "change": "-3.13%"
         },
         {
             "symbol": "MSFT",
             "price": 390.49,
-            "change": "+0.33%"
+            "change": "+2.23%"
         },
         {
             "symbol": "CEG",
             "price": 239.25,
-            "change": "-2.79%"
+            "change": "-0.06%"
         },
         {
             "symbol": "VST",
             "price": 151.05,
-            "change": "-1.08%"
+            "change": "+0.88%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.64,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
             0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
             0.49,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.49,
-            0.49
+            0.51
         ],
         "hsd_history_hardware": [
-            26.09,
-            26.07,
-            26.37,
-            26.81,
-            26.55,
-            26.51,
-            26.0,
-            25.55,
-            25.49,
-            25.06,
+            24.41,
+            24.82,
+            24.71,
+            25.12,
+            24.78,
+            25.03,
+            24.83,
+            24.74,
+            25.18,
+            25.08,
             25.23,
-            25.37
+            25.1
         ],
         "hsd_history_software": [
-            10.24,
-            10.33,
-            10.22,
-            10.2,
-            10.34,
-            10.17,
-            10.02,
-            10.09,
-            10.11,
-            10.08,
             9.99,
-            10.15
+            10.0,
+            10.04,
+            10.05,
+            10.17,
+            9.98,
+            9.85,
+            9.79,
+            9.91,
+            9.94,
+            10.07,
+            10.03
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:23",
+            "time": "11:32",
             "tag": "MERCADO",
-            "text": "Keysight Technologies focuses on test and measurement solutions as investors watch long-term growth"
+            "text": "How Investors Are Reacting To NXP Semiconductors (NXPI) Leadership Shift And Upbeat Automotive Outlook"
         },
         {
-            "time": "09:18",
+            "time": "11:30",
             "tag": "MERCADO",
-            "text": "Jabil Inc. highlights diversified manufacturing model as investors track global electronics demand"
+            "text": "Verisign Inc. highlights its role in secure internet infrastructure as investors weigh long-term gro"
         },
         {
-            "time": "09:14",
+            "time": "11:02",
             "tag": "MERCADO",
-            "text": "AT&T Inc. $T Stock Holdings Decreased by Leonteq Securities AG"
+            "text": "Equinix Inc. highlights data-center growth as digital demand stays strong"
         },
         {
-            "time": "09:14",
+            "time": "10:45",
             "tag": "MERCADO",
-            "text": "Leonteq Securities AG Invests $1.14 Million in Applied Optoelectronics, Inc. $AAOI"
+            "text": "Welch Group LLC Buys 2,068 Shares of Amazon.com, Inc. $AMZN"
         },
         {
-            "time": "09:06",
+            "time": "10:37",
             "tag": "MERCADO",
-            "text": "3,384 Shares in Astera Labs, Inc. $ALAB Acquired by Patten Group Inc."
+            "text": "Wesbanco Bank Inc. Has $85.33 Million Holdings in Amazon.com, Inc. $AMZN"
         }
     ]
 }
