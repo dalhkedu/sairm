@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-05 08:08 UTC",
+        "last_updated": "2026-07-05 11:06 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 194.83,
-            "change": "-3.35%"
+            "change": "+1.88%"
         },
         {
             "symbol": "AMD",
             "price": 517.82,
-            "change": "-0.52%"
+            "change": "-3.47%"
         },
         {
             "symbol": "MSFT",
             "price": 390.49,
-            "change": "+0.92%"
+            "change": "-2.37%"
         },
         {
             "symbol": "CEG",
             "price": 239.25,
-            "change": "-0.8%"
+            "change": "-2.2%"
         },
         {
             "symbol": "VST",
             "price": 151.05,
-            "change": "-1.95%"
+            "change": "+1.34%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.65,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
+            0.49,
             0.5,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
             0.5,
             0.5,
             0.49,
-            0.49
+            0.49,
+            0.48,
+            0.49,
+            0.5,
+            0.5,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.85,
-            25.36,
-            25.08,
-            25.35,
-            24.91,
-            25.31,
-            24.96,
-            25.19,
-            25.32,
-            24.99,
-            25.14,
-            25.01
+            25.2,
+            25.41,
+            25.34,
+            25.52,
+            25.28,
+            25.12,
+            24.7,
+            24.47,
+            24.92,
+            24.86,
+            25.23,
+            25.25
         ],
         "hsd_history_software": [
-            9.44,
-            9.46,
-            9.36,
-            9.29,
-            9.38,
-            9.44,
-            9.55,
-            9.59,
-            9.6,
-            9.62,
+            9.79,
+            9.8,
+            9.65,
+            9.64,
             9.67,
-            9.8
+            9.86,
+            9.98,
+            10.01,
+            9.93,
+            10.0,
+            9.99,
+            10.01
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:32",
+            "time": "10:56",
             "tag": "MERCADO",
-            "text": "Hsbc Holdings PLC Has $90.56 Million Stock Position in NetApp, Inc. $NTAP"
+            "text": "Motorola Solutions keeps its focus on public safety"
         },
         {
-            "time": "07:32",
+            "time": "10:34",
             "tag": "MERCADO",
-            "text": "Hsbc Holdings PLC Boosts Stock Position in L3Harris Technologies Inc $LHX"
+            "text": "WBH Advisory Inc. Has $492,000 Position in Advanced Micro Devices, Inc. $AMD"
         },
         {
-            "time": "07:31",
+            "time": "10:30",
             "tag": "MERCADO",
-            "text": "Hsbc Holdings PLC Raises Stock Position in Fidelity National Information Services, Inc. $FIS"
+            "text": "F5 stock keeps its focus on software and services."
         },
         {
-            "time": "07:24",
+            "time": "10:28",
             "tag": "MERCADO",
-            "text": "The ADT-800 Industrial Printer - Avery Dennison extends classic labeling power for US production lin"
+            "text": "4,629 Shares in Monolithic Power Systems, Inc. $MPWR Purchased by Y Intercept Hong Kong Ltd"
         },
         {
-            "time": "07:17",
+            "time": "10:24",
             "tag": "MERCADO",
-            "text": "Match Group focuses on digital dating platforms as investors weigh long-term growth prospects"
+            "text": "Ametek Inc. highlights diversified industrial growth and technology focus"
         }
     ]
 }
