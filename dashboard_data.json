@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-05 04:58 UTC",
+        "last_updated": "2026-07-05 08:08 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 194.83,
-            "change": "-0.72%"
+            "change": "-3.35%"
         },
         {
             "symbol": "AMD",
             "price": 517.82,
-            "change": "+1.09%"
+            "change": "-0.52%"
         },
         {
             "symbol": "MSFT",
             "price": 390.49,
-            "change": "+1.83%"
+            "change": "+0.92%"
         },
         {
             "symbol": "CEG",
             "price": 239.25,
-            "change": "-2.12%"
+            "change": "-0.8%"
         },
         {
             "symbol": "VST",
             "price": 151.05,
-            "change": "-0.88%"
+            "change": "-1.95%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.57,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.51,
+            0.51,
             0.5,
-            0.49,
-            0.5,
-            0.5,
+            0.51,
+            0.51,
+            0.52,
             0.51,
             0.51,
             0.5,
             0.5,
             0.49,
-            0.49,
-            0.49,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            24.69,
-            25.01,
-            24.87,
-            25.02,
-            25.2,
-            25.03,
-            25.2,
-            25.59,
-            25.59,
+            24.85,
+            25.36,
+            25.08,
+            25.35,
+            24.91,
+            25.31,
+            24.96,
+            25.19,
             25.32,
-            25.49,
-            25.24
+            24.99,
+            25.14,
+            25.01
         ],
         "hsd_history_software": [
-            10.32,
-            10.49,
-            10.59,
-            10.57,
-            10.37,
-            10.3,
-            10.1,
-            10.1,
-            10.04,
-            9.92,
-            10.07,
-            9.95
+            9.44,
+            9.46,
+            9.36,
+            9.29,
+            9.38,
+            9.44,
+            9.55,
+            9.59,
+            9.6,
+            9.62,
+            9.67,
+            9.8
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "03:52",
+            "time": "07:32",
             "tag": "MERCADO",
-            "text": "The Garmin v\u00edvoactive 5. A classic GPS smartwatch leans into everyday health"
+            "text": "Hsbc Holdings PLC Has $90.56 Million Stock Position in NetApp, Inc. $NTAP"
         },
         {
-            "time": "03:40",
-            "tag": "AI",
-            "text": "Edo Lands KT Cloud for AI Data Center, Boosting 550 Billion Won Project"
+            "time": "07:32",
+            "tag": "MERCADO",
+            "text": "Hsbc Holdings PLC Boosts Stock Position in L3Harris Technologies Inc $LHX"
         },
         {
-            "time": "02:23",
+            "time": "07:31",
             "tag": "MERCADO",
-            "text": "The iQIYI VR Headset Adventure - Classics streaming beyond the screen"
+            "text": "Hsbc Holdings PLC Raises Stock Position in Fidelity National Information Services, Inc. $FIS"
         },
         {
-            "time": "02:22",
+            "time": "07:24",
             "tag": "MERCADO",
-            "text": "The Invesco QQQ ETF - Classic NASDAQ-100 exposure for US growth investors"
+            "text": "The ADT-800 Industrial Printer - Avery Dennison extends classic labeling power for US production lin"
         },
         {
-            "time": "02:19",
+            "time": "07:17",
             "tag": "MERCADO",
-            "text": "Netflix Is Down 21% This Year. History Says This Is the Time to Buy."
+            "text": "Match Group focuses on digital dating platforms as investors weigh long-term growth prospects"
         }
     ]
 }
