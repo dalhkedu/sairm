@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-05 00:03 UTC",
+        "last_updated": "2026-07-05 04:58 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 194.83,
-            "change": "-2.59%"
+            "change": "-0.72%"
         },
         {
             "symbol": "AMD",
             "price": 517.82,
-            "change": "+0.23%"
+            "change": "+1.09%"
         },
         {
             "symbol": "MSFT",
             "price": 390.49,
-            "change": "-0.87%"
+            "change": "+1.83%"
         },
         {
             "symbol": "CEG",
             "price": 239.25,
-            "change": "+2.01%"
+            "change": "-2.12%"
         },
         {
             "symbol": "VST",
             "price": 151.05,
-            "change": "-1.12%"
+            "change": "-0.88%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.52,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.46,
-            0.47,
-            0.46,
-            0.47,
-            0.48,
-            0.48,
+            0.5,
             0.49,
-            0.48,
-            0.48,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.49,
+            0.49,
             0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.88,
-            24.55,
-            24.11,
-            24.25,
-            24.11,
-            24.56,
-            24.99,
-            25.19,
-            24.79,
-            24.45,
-            24.53,
-            24.88
+            24.69,
+            25.01,
+            24.87,
+            25.02,
+            25.2,
+            25.03,
+            25.2,
+            25.59,
+            25.59,
+            25.32,
+            25.49,
+            25.24
         ],
         "hsd_history_software": [
-            9.88,
-            9.76,
-            9.79,
-            9.66,
-            9.68,
-            9.84,
-            9.66,
-            9.54,
-            9.7,
-            9.76,
-            9.76,
-            9.94
+            10.32,
+            10.49,
+            10.59,
+            10.57,
+            10.37,
+            10.3,
+            10.1,
+            10.1,
+            10.04,
+            9.92,
+            10.07,
+            9.95
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:50",
+            "time": "03:52",
+            "tag": "MERCADO",
+            "text": "The Garmin v\u00edvoactive 5. A classic GPS smartwatch leans into everyday health"
+        },
+        {
+            "time": "03:40",
             "tag": "AI",
-            "text": "ChatGPT-Maker OpenAI Is Headed for a $1 Trillion IPO. The Biggest Winner Could Be Microsoft Stock."
+            "text": "Edo Lands KT Cloud for AI Data Center, Boosting 550 Billion Won Project"
         },
         {
-            "time": "20:17",
+            "time": "02:23",
             "tag": "MERCADO",
-            "text": "Apple Is Reportedly Planning 5 New iPhones -- Including a $2,500 Foldable. Here's What It Means for the Stock."
+            "text": "The iQIYI VR Headset Adventure - Classics streaming beyond the screen"
         },
         {
-            "time": "19:30",
-            "tag": "AI",
-            "text": "The Artificial Intelligence  ( AI )  Memory Supercycle Is Getting Stronger. Here's How You Can Profit From This Boom With Less Than $100"
-        },
-        {
-            "time": "18:00",
+            "time": "02:22",
             "tag": "MERCADO",
-            "text": "Netflix Stock Is Flirting With $70. Once-in-a-Decade Opportunity or Value Trap?"
+            "text": "The Invesco QQQ ETF - Classic NASDAQ-100 exposure for US growth investors"
         },
         {
-            "time": "16:00",
+            "time": "02:19",
             "tag": "MERCADO",
-            "text": "Why Is Everyone Talking About SentinelOne Stock Right Now?"
+            "text": "Netflix Is Down 21% This Year. History Says This Is the Time to Buy."
         }
     ]
 }
