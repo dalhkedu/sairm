@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-07-06 12:50 UTC",
+        "last_updated": "2026-07-06 16:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 194.83,
-            "change": "-1.67%"
+            "price": 197.18,
+            "change": "-0.27%"
         },
         {
             "symbol": "AMD",
-            "price": 517.82,
-            "change": "+2.67%"
+            "price": 562.49,
+            "change": "-1.08%"
         },
         {
             "symbol": "MSFT",
-            "price": 390.49,
-            "change": "+3.45%"
+            "price": 384.04,
+            "change": "+1.5%"
         },
         {
             "symbol": "CEG",
-            "price": 239.25,
-            "change": "-1.17%"
+            "price": 243.6,
+            "change": "+0.38%"
         },
         {
             "symbol": "VST",
-            "price": 151.05,
-            "change": "-3.47%"
+            "price": 153.82,
+            "change": "-1.25%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
-        "rci_current": 0.19,
+        "cer_current": 0.59,
+        "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.53,
-            0.53,
+            0.51,
+            0.52,
+            0.51,
+            0.52,
             0.53,
             0.52,
             0.51,
             0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51
+            0.5,
+            0.49,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.73,
-            25.27,
-            25.06,
-            24.86,
-            24.87,
-            24.67,
-            24.23,
-            24.63,
-            24.46,
-            24.85,
-            24.75,
-            25.14
+            25.67,
+            25.88,
+            25.55,
+            25.48,
+            25.54,
+            25.53,
+            25.58,
+            25.61,
+            25.14,
+            25.5,
+            25.38,
+            24.93
         ],
         "hsd_history_software": [
-            10.28,
-            10.36,
-            10.16,
-            10.02,
-            10.1,
-            10.16,
-            10.07,
-            10.14,
-            9.97,
-            10.05,
+            10.91,
+            10.87,
+            10.77,
+            10.57,
+            10.38,
+            10.38,
             10.21,
-            10.15
+            10.02,
+            9.87,
+            10.04,
+            10.03,
+            9.95
         ],
         "rci_data": [
             85.0,
-            19.483
+            19.718
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:17",
+            "time": "15:30",
             "tag": "MERCADO",
-            "text": "China\u2019s Biren seeks US$900m to fund GPU push and challenge Nvidia"
+            "text": "Western Digital Jumps 7.0% After B of A Securities Maintains Buy"
         },
         {
-            "time": "12:00",
+            "time": "15:28",
             "tag": "MERCADO",
-            "text": "Hologic and Vossius take action against Siemens Healthineers over mammography system"
+            "text": "Teradyne Jumps 7.5% Amid Sector-Wide Rally"
         },
         {
-            "time": "12:00",
-            "tag": "MERCADO",
-            "text": "S&P Global reorganizes market intelligence unit"
+            "time": "15:25",
+            "tag": "AI",
+            "text": "American Express (AXP): An Analysis of The Role of AI and Payment Systems"
         },
         {
-            "time": "11:59",
+            "time": "15:20",
             "tag": "MERCADO",
-            "text": "Teledyne\u2019s new 67MP space camera comes from an SDL licensing deal"
+            "text": "Fortive Corp stock hits 52-week high at 63.43 USD By Investing.com"
         },
         {
-            "time": "11:56",
+            "time": "15:15",
             "tag": "MERCADO",
-            "text": "Verizon's main Irish unit pays out dividends of $1.45bn"
+            "text": "Micron, Ford sign long-term memory supply agreement for next-generation vehicles"
         }
     ]
 }
