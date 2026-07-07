@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-07 00:10 UTC",
+        "last_updated": "2026-07-07 04:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 195.55,
-            "change": "+1.28%"
+            "change": "-0.9%"
         },
         {
             "symbol": "AMD",
             "price": 552.05,
-            "change": "+1.65%"
+            "change": "+2.62%"
         },
         {
             "symbol": "MSFT",
             "price": 386.74,
-            "change": "+1.7%"
+            "change": "-1.65%"
         },
         {
             "symbol": "CEG",
             "price": 245.87,
-            "change": "+0.64%"
+            "change": "-0.07%"
         },
         {
             "symbol": "VST",
             "price": 157.22,
-            "change": "+1.38%"
+            "change": "-2.15%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.7,
+        "cer_current": 0.5,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.52,
+            0.52,
+            0.53,
+            0.52,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
             0.51,
-            0.5,
-            0.5,
-            0.49
+            0.51
         ],
         "hsd_history_hardware": [
-            23.28,
-            23.35,
-            23.8,
-            24.11,
-            24.06,
-            24.44,
-            24.62,
-            24.56,
-            24.79,
-            24.98,
-            24.95,
-            25.4
+            25.31,
+            25.08,
+            24.92,
+            24.83,
+            25.05,
+            25.34,
+            24.94,
+            24.54,
+            24.5,
+            24.12,
+            24.37,
+            24.75
         ],
         "hsd_history_software": [
-            10.21,
-            10.14,
-            10.24,
-            10.34,
-            10.15,
-            10.17,
             9.99,
-            9.86,
+            10.14,
+            10.02,
+            10.18,
+            10.08,
             10.01,
-            10.06,
-            10.13,
-            9.95
+            10.07,
+            10.02,
+            10.15,
+            10.16,
+            10.21,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,9 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "INFO",
-            "tag": "LIMIT",
-            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
+            "time": "04:10",
+            "tag": "MERCADO",
+            "text": "indie Semiconductor (INDI) CEO exercises RSUs and sells shares for taxes"
+        },
+        {
+            "time": "03:54",
+            "tag": "MERCADO",
+            "text": "5 Cool Things You Probably Didn't Know Your MacBook Could Do"
+        },
+        {
+            "time": "02:29",
+            "tag": "AI",
+            "text": "Cigna Group (CI) Could Be 17% Undervalued On Its $100 Million Evernorth AI Push"
+        },
+        {
+            "time": "02:01",
+            "tag": "RESULTADOS",
+            "text": "Cisco (CSCO) Stock Surges 46% in 2026: AI Infrastructure Growth, Earnings, and Outlook"
+        },
+        {
+            "time": "01:41",
+            "tag": "MERCADO",
+            "text": "Esco Technologies updates investors on strategy as shares trade steadily"
         }
     ]
 }
