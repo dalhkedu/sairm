@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-08 05:54 UTC",
+        "last_updated": "2026-07-08 08:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 196.93,
-            "change": "-1.37%"
+            "change": "-2.9%"
         },
         {
             "symbol": "AMD",
             "price": 516.11,
-            "change": "-1.48%"
+            "change": "-1.99%"
         },
         {
             "symbol": "MSFT",
             "price": 388.84,
-            "change": "+1.07%"
+            "change": "-1.98%"
         },
         {
             "symbol": "CEG",
             "price": 239.71,
-            "change": "-1.71%"
+            "change": "+2.34%"
         },
         {
             "symbol": "VST",
             "price": 155.73,
-            "change": "-2.57%"
+            "change": "+0.12%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.48,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
+            0.5,
             0.5,
             0.51,
             0.5,
             0.5,
-            0.5
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.49,
-            24.56,
-            24.39,
-            24.26,
-            24.7,
-            24.72,
-            25.21,
-            25.64,
-            25.22,
-            25.34,
-            25.03,
-            24.72
+            25.76,
+            26.09,
+            26.43,
+            26.04,
+            25.88,
+            25.6,
+            25.73,
+            25.4,
+            25.43,
+            25.71,
+            25.53,
+            25.08
         ],
         "hsd_history_software": [
-            9.48,
-            9.54,
-            9.63,
-            9.74,
-            9.8,
-            9.62,
             9.68,
-            9.81,
-            9.79,
-            9.81,
+            9.72,
+            9.86,
             9.8,
-            9.87
+            9.78,
+            9.88,
+            9.88,
+            9.93,
+            10.09,
+            10.02,
+            9.98,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:59",
+            "time": "08:10",
             "tag": "MERCADO",
-            "text": "Rockwell Automation Announces Hadaf Foods Selects Plex Smart Manufacturing Platform to Drive Connected, Data\u2011Driven Operations"
+            "text": "Sunrun chief legal & people officer sells $130,516 in stock"
         },
         {
-            "time": "04:57",
+            "time": "08:05",
             "tag": "MERCADO",
-            "text": "Synopsys DesignWare USB4 IP from Synopsys Inc. - enabling next-gen high-speed connectivity for chipmakers"
+            "text": "Jabil Inc. explores strategic review as investors weigh portfolio options"
         },
         {
-            "time": "04:49",
+            "time": "08:03",
             "tag": "MERCADO",
-            "text": "Allstate Milewise from Allstate Corp. - pay-per-mile car insurance targets low-mileage drivers"
+            "text": "NFL taps NetApp again for Madrid game at Bernab\u00e9u Stadium"
         },
         {
-            "time": "04:47",
+            "time": "08:01",
             "tag": "MERCADO",
-            "text": "Apple supplier Luxshare prices $3.1b HK listing at top"
+            "text": "Burney Co. Has $3.65 Million Position in International Business Machines Corporation $IBM"
         },
         {
-            "time": "04:45",
-            "tag": "AI",
-            "text": "How Investors May Respond To PTC (PTC) Embedding Whatfix AI Guidance Into Windchill PLM"
+            "time": "07:58",
+            "tag": "MERCADO",
+            "text": "Garmin Ltd. focuses on navigation technology as investors watch its global growth"
         }
     ]
 }
