@@ -1,37 +1,37 @@
 {
     "metadata": {
-        "last_updated": "2026-07-08 08:33 UTC",
+        "last_updated": "2026-07-08 11:07 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 196.93,
-            "change": "-2.9%"
+            "change": "-1.53%"
         },
         {
             "symbol": "AMD",
             "price": 516.11,
-            "change": "-1.99%"
+            "change": "+0.35%"
         },
         {
             "symbol": "MSFT",
             "price": 388.84,
-            "change": "-1.98%"
+            "change": "-0.41%"
         },
         {
             "symbol": "CEG",
             "price": 239.71,
-            "change": "+2.34%"
+            "change": "-2.79%"
         },
         {
             "symbol": "VST",
             "price": 155.73,
-            "change": "+0.12%"
+            "change": "+2.48%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.42,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
@@ -39,43 +39,43 @@
             0.51,
             0.5,
             0.5,
+            0.5,
+            0.51,
             0.51,
             0.5,
+            0.49,
             0.5,
+            0.49,
             0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
             0.49
         ],
         "hsd_history_hardware": [
-            25.76,
-            26.09,
-            26.43,
-            26.04,
-            25.88,
-            25.6,
-            25.73,
-            25.4,
-            25.43,
-            25.71,
-            25.53,
-            25.08
+            24.65,
+            25.01,
+            24.65,
+            24.32,
+            24.43,
+            24.78,
+            25.26,
+            25.28,
+            25.3,
+            25.54,
+            25.58,
+            25.36
         ],
         "hsd_history_software": [
-            9.68,
-            9.72,
-            9.86,
-            9.8,
-            9.78,
-            9.88,
-            9.88,
+            10.23,
+            10.17,
+            10.26,
+            10.46,
+            10.27,
+            10.31,
+            10.24,
+            10.08,
+            9.89,
             9.93,
-            10.09,
-            10.02,
-            9.98,
-            10.07
+            9.79,
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:10",
-            "tag": "MERCADO",
-            "text": "Sunrun chief legal & people officer sells $130,516 in stock"
+            "time": "10:29",
+            "tag": "AI",
+            "text": "Bio-Techne Launches Expanded R&D Systems AI-Engineered Designer Protein Portfolio"
         },
         {
-            "time": "08:05",
-            "tag": "MERCADO",
-            "text": "Jabil Inc. explores strategic review as investors weigh portfolio options"
+            "time": "10:28",
+            "tag": "AI",
+            "text": "Defining the Future of AI Security: Akamai Selected as Strategic Security Partner for WWT\u2019s ARMOR Framework"
         },
         {
-            "time": "08:03",
-            "tag": "MERCADO",
-            "text": "NFL taps NetApp again for Madrid game at Bernab\u00e9u Stadium"
+            "time": "10:28",
+            "tag": "AI",
+            "text": "WWT picks Akamai to secure its AI factories with NVIDIA gear"
         },
         {
-            "time": "08:01",
+            "time": "10:26",
             "tag": "MERCADO",
-            "text": "Burney Co. Has $3.65 Million Position in International Business Machines Corporation $IBM"
+            "text": "West Tower Group LLC Takes Position in Generac Holdings Inc. $GNRC"
         },
         {
-            "time": "07:58",
+            "time": "10:25",
             "tag": "MERCADO",
-            "text": "Garmin Ltd. focuses on navigation technology as investors watch its global growth"
+            "text": "Penobscot Investment Management Company Inc. Grows Position in Intuit Inc. $INTU"
         }
     ]
 }
