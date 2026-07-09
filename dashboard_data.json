@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-07-09 12:16 UTC",
+        "last_updated": "2026-07-09 15:58 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 204.12,
-            "change": "+0.79%"
+            "price": 201.87,
+            "change": "+0.15%"
         },
         {
             "symbol": "AMD",
-            "price": 517.41,
-            "change": "-1.5%"
+            "price": 556.32,
+            "change": "+1.05%"
         },
         {
             "symbol": "MSFT",
-            "price": 383.34,
-            "change": "+3.11%"
+            "price": 380.14,
+            "change": "-2.18%"
         },
         {
             "symbol": "CEG",
-            "price": 244.52,
-            "change": "-0.16%"
+            "price": 248.43,
+            "change": "+0.7%"
         },
         {
             "symbol": "VST",
-            "price": 154.82,
-            "change": "+1.43%"
+            "price": 159.19,
+            "change": "+2.29%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.53,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.5,
+            0.49,
             0.5,
             0.51,
             0.51,
             0.51,
             0.51,
-            0.5
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.21,
-            25.13,
-            25.2,
-            25.67,
-            25.47,
-            25.57,
-            25.13,
-            25.5,
-            25.39,
-            25.51,
-            25.18,
-            25.02
+            24.39,
+            24.71,
+            24.54,
+            24.38,
+            24.1,
+            23.65,
+            23.89,
+            24.16,
+            24.38,
+            24.69,
+            24.53,
+            25.0
         ],
         "hsd_history_software": [
-            9.96,
-            9.81,
-            9.97,
-            9.9,
-            10.04,
-            10.17,
+            10.07,
+            10.11,
             10.27,
-            10.28,
-            10.13,
-            10.29,
-            10.1,
-            10.05
+            10.46,
+            10.42,
+            10.49,
+            10.64,
+            10.46,
+            10.41,
+            10.35,
+            10.16,
+            10.07
         ],
         "rci_data": [
             85.0,
-            20.412
+            20.186999999999998
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:37",
+            "time": "15:07",
             "tag": "MERCADO",
-            "text": "Sumitomo Mitsui Trust Group Inc. Sells 478,206 Shares of Verizon Communications Inc. $VZ"
+            "text": "Gen Digital outlines its cybersecurity strategy. Investors weigh the long-term growth story"
         },
         {
-            "time": "11:36",
-            "tag": "AI",
-            "text": "Market Chatter: Starbucks Developing AI Tools to Replace Some Microsoft, IBM Applications"
+            "time": "15:03",
+            "tag": "MERCADO",
+            "text": "Keysight packs 400 Gbps cybersecurity testing into 1 rack unit"
         },
         {
-            "time": "11:33",
+            "time": "14:42",
             "tag": "MERCADO",
-            "text": "Sumitomo Mitsui Trust Group Inc. Sells 897,296 Shares of AT&T Inc. $T"
+            "text": "Goldman Sachs Adjusts Jack Henry & Associates Price Target to $158 From $161"
         },
         {
-            "time": "11:30",
+            "time": "14:39",
             "tag": "MERCADO",
-            "text": "Aehr wins another production order as silicon photonics ramp continues"
+            "text": "HP Inc. stock holds steady as PC demand stays in focus"
         },
         {
-            "time": "11:22",
+            "time": "14:37",
             "tag": "MERCADO",
-            "text": "Broadridge delivers reconciliation platform to RBI"
+            "text": "Halliburton, Eni achieve industry-first closed-loop rig automation in deepwater Indonesia"
         }
     ]
 }
