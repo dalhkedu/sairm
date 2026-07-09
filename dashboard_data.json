@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-09 00:13 UTC",
+        "last_updated": "2026-07-09 04:55 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 204.12,
-            "change": "-1.7%"
+            "change": "+3.39%"
         },
         {
             "symbol": "AMD",
             "price": 517.41,
-            "change": "+1.84%"
+            "change": "+0.76%"
         },
         {
             "symbol": "MSFT",
             "price": 383.34,
-            "change": "-1.38%"
+            "change": "+1.07%"
         },
         {
             "symbol": "CEG",
             "price": 244.52,
-            "change": "-2.23%"
+            "change": "-3.28%"
         },
         {
             "symbol": "VST",
             "price": 154.82,
-            "change": "+0.25%"
+            "change": "-1.76%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.66,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
             0.49,
             0.5,
             0.5,
             0.49,
-            0.49,
-            0.49,
-            0.5,
             0.5,
             0.51,
             0.5,
-            0.5,
-            0.51
+            0.49,
+            0.48,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.79,
-            25.43,
-            25.18,
-            25.49,
-            25.44,
-            25.15,
+            25.3,
             25.32,
-            25.28,
-            25.1,
-            25.16,
-            25.18,
-            25.49
+            25.25,
+            24.87,
+            25.17,
+            25.52,
+            25.92,
+            25.87,
+            26.06,
+            25.87,
+            25.39,
+            25.24
         ],
         "hsd_history_software": [
-            10.23,
-            10.2,
-            10.25,
-            10.11,
-            9.98,
-            10.01,
-            10.06,
-            9.9,
-            9.99,
-            10.13,
+            10.12,
+            10.09,
+            10.21,
+            10.38,
+            10.18,
+            10.31,
+            10.26,
             10.14,
-            10.02
+            10.2,
+            10.22,
+            10.11,
+            10.09
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:53",
-            "tag": "AI",
-            "text": "Why Arista Networks (ANET) Is Up 8.7% After Joining the Russell Top 50 and Expanding AI Offerings"
-        },
-        {
-            "time": "22:51",
+            "time": "04:06",
             "tag": "MERCADO",
-            "text": "How Autodesk\u2019s Russell Index Shift At Autodesk (ADSK) Has Changed Its Investment Story"
+            "text": "BlackRock Takes On Invesco, State Street With New Nasdaq-100 ETF"
         },
         {
-            "time": "22:43",
-            "tag": "AI",
-            "text": "Analog Devices Completes Empower Semiconductor Acquisition to Expand AI Power Portfolio"
+            "time": "03:40",
+            "tag": "MERCADO",
+            "text": "Genasys wins $3M U.S. Army mass notification contract"
         },
         {
-            "time": "22:27",
-            "tag": "AI",
-            "text": "Taco Bell ramps up voice AI use across nearly 900 drive-thrus"
+            "time": "03:39",
+            "tag": "MERCADO",
+            "text": "First Trust Nasdaq Semiconductor ETF outperforms with smart beta strategy, driven by Intel and Micron overweight."
         },
         {
-            "time": "22:11",
-            "tag": "AI",
-            "text": "Alset AI Announces Closing of Shares for Debt Transaction"
+            "time": "03:39",
+            "tag": "MERCADO",
+            "text": "SimpliSafe Expands Retail Distribution to Walmart Stores"
+        },
+        {
+            "time": "03:16",
+            "tag": "MERCADO",
+            "text": "GXO Logistics (GXO) Renews Key Contracts, Is The Valuation Gap Justified?"
         }
     ]
 }
