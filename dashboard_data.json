@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-09 04:55 UTC",
+        "last_updated": "2026-07-09 08:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 204.12,
-            "change": "+3.39%"
+            "change": "-1.22%"
         },
         {
             "symbol": "AMD",
             "price": 517.41,
-            "change": "+0.76%"
+            "change": "+1.89%"
         },
         {
             "symbol": "MSFT",
             "price": 383.34,
-            "change": "+1.07%"
+            "change": "-2.78%"
         },
         {
             "symbol": "CEG",
             "price": 244.52,
-            "change": "-3.28%"
+            "change": "+3.21%"
         },
         {
             "symbol": "VST",
             "price": 154.82,
-            "change": "-1.76%"
+            "change": "-0.38%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.56,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
             0.51,
             0.5,
-            0.49,
-            0.48,
-            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            25.3,
-            25.32,
-            25.25,
-            24.87,
-            25.17,
-            25.52,
-            25.92,
-            25.87,
-            26.06,
-            25.87,
-            25.39,
-            25.24
+            23.56,
+            23.97,
+            23.62,
+            24.04,
+            23.61,
+            23.85,
+            24.32,
+            24.75,
+            24.74,
+            25.02,
+            25.05,
+            24.62
         ],
         "hsd_history_software": [
-            10.12,
-            10.09,
-            10.21,
-            10.38,
-            10.18,
+            10.66,
+            10.71,
+            10.81,
+            10.71,
+            10.84,
+            10.74,
+            10.65,
+            10.49,
+            10.51,
             10.31,
-            10.26,
-            10.14,
-            10.2,
-            10.22,
-            10.11,
-            10.09
+            10.31,
+            10.17
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:06",
+            "time": "08:24",
             "tag": "MERCADO",
-            "text": "BlackRock Takes On Invesco, State Street With New Nasdaq-100 ETF"
+            "text": "Mettler-Toledo highlights precision weighing. Laboratory and industrial demand support the business"
         },
         {
-            "time": "03:40",
+            "time": "08:12",
             "tag": "MERCADO",
-            "text": "Genasys wins $3M U.S. Army mass notification contract"
+            "text": "Rambus launches DDR5 9600 server memory chipset"
         },
         {
-            "time": "03:39",
+            "time": "07:56",
             "tag": "MERCADO",
-            "text": "First Trust Nasdaq Semiconductor ETF outperforms with smart beta strategy, driven by Intel and Micron overweight."
+            "text": "Demars Financial Group LLC Purchases 6,108 Shares of Salesforce Inc. $CRM"
         },
         {
-            "time": "03:39",
+            "time": "07:54",
             "tag": "MERCADO",
-            "text": "SimpliSafe Expands Retail Distribution to Walmart Stores"
+            "text": "RTX Unit Collins Aerospace Opens UK Engineering Center"
         },
         {
-            "time": "03:16",
+            "time": "07:50",
             "tag": "MERCADO",
-            "text": "GXO Logistics (GXO) Renews Key Contracts, Is The Valuation Gap Justified?"
+            "text": "Synopsys Inc. highlights its role in chip design. The Nasdaq-listed software group underpins advance"
         }
     ]
 }
