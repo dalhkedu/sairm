@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-09 08:36 UTC",
+        "last_updated": "2026-07-09 12:16 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 204.12,
-            "change": "-1.22%"
+            "change": "+0.79%"
         },
         {
             "symbol": "AMD",
             "price": 517.41,
-            "change": "+1.89%"
+            "change": "-1.5%"
         },
         {
             "symbol": "MSFT",
             "price": 383.34,
-            "change": "-2.78%"
+            "change": "+3.11%"
         },
         {
             "symbol": "CEG",
             "price": 244.52,
-            "change": "+3.21%"
+            "change": "-0.16%"
         },
         {
             "symbol": "VST",
             "price": 154.82,
-            "change": "-0.38%"
+            "change": "+1.43%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.69,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.52,
             0.52,
             0.52,
             0.51,
-            0.52,
             0.51,
             0.51,
             0.51,
             0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            23.56,
-            23.97,
-            23.62,
-            24.04,
-            23.61,
-            23.85,
-            24.32,
-            24.75,
-            24.74,
-            25.02,
-            25.05,
-            24.62
+            25.21,
+            25.13,
+            25.2,
+            25.67,
+            25.47,
+            25.57,
+            25.13,
+            25.5,
+            25.39,
+            25.51,
+            25.18,
+            25.02
         ],
         "hsd_history_software": [
-            10.66,
-            10.71,
-            10.81,
-            10.71,
-            10.84,
-            10.74,
-            10.65,
-            10.49,
-            10.51,
-            10.31,
-            10.31,
-            10.17
+            9.96,
+            9.81,
+            9.97,
+            9.9,
+            10.04,
+            10.17,
+            10.27,
+            10.28,
+            10.13,
+            10.29,
+            10.1,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:24",
+            "time": "11:37",
             "tag": "MERCADO",
-            "text": "Mettler-Toledo highlights precision weighing. Laboratory and industrial demand support the business"
+            "text": "Sumitomo Mitsui Trust Group Inc. Sells 478,206 Shares of Verizon Communications Inc. $VZ"
         },
         {
-            "time": "08:12",
-            "tag": "MERCADO",
-            "text": "Rambus launches DDR5 9600 server memory chipset"
+            "time": "11:36",
+            "tag": "AI",
+            "text": "Market Chatter: Starbucks Developing AI Tools to Replace Some Microsoft, IBM Applications"
         },
         {
-            "time": "07:56",
+            "time": "11:33",
             "tag": "MERCADO",
-            "text": "Demars Financial Group LLC Purchases 6,108 Shares of Salesforce Inc. $CRM"
+            "text": "Sumitomo Mitsui Trust Group Inc. Sells 897,296 Shares of AT&T Inc. $T"
         },
         {
-            "time": "07:54",
+            "time": "11:30",
             "tag": "MERCADO",
-            "text": "RTX Unit Collins Aerospace Opens UK Engineering Center"
+            "text": "Aehr wins another production order as silicon photonics ramp continues"
         },
         {
-            "time": "07:50",
+            "time": "11:22",
             "tag": "MERCADO",
-            "text": "Synopsys Inc. highlights its role in chip design. The Nasdaq-listed software group underpins advance"
+            "text": "Broadridge delivers reconciliation platform to RBI"
         }
     ]
 }
