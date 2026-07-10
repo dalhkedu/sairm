@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-10 00:07 UTC",
+        "last_updated": "2026-07-10 04:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 202.78,
-            "change": "+2.3%"
+            "change": "+1.65%"
         },
         {
             "symbol": "AMD",
             "price": 546.72,
-            "change": "+0.42%"
+            "change": "-2.83%"
         },
         {
             "symbol": "MSFT",
             "price": 384.36,
-            "change": "+2.67%"
+            "change": "-0.66%"
         },
         {
             "symbol": "CEG",
             "price": 250.74,
-            "change": "-0.76%"
+            "change": "+1.31%"
         },
         {
             "symbol": "VST",
             "price": 157.98,
-            "change": "-3.01%"
+            "change": "-1.39%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.44,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.53,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.5
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            23.9,
-            24.26,
-            24.54,
-            25.01,
-            24.99,
-            25.43,
-            25.17,
-            25.32,
-            25.64,
-            25.31,
-            25.18,
-            24.89
+            25.79,
+            26.13,
+            25.75,
+            25.37,
+            25.63,
+            26.03,
+            25.54,
+            25.84,
+            25.54,
+            25.3,
+            25.05,
+            25.24
         ],
         "hsd_history_software": [
-            10.42,
-            10.27,
-            10.26,
-            10.22,
+            10.4,
+            10.23,
+            10.09,
+            10.03,
             10.06,
-            10.19,
-            10.35,
-            10.34,
-            10.47,
-            10.33,
-            10.2,
-            10.11
+            10.05,
+            9.96,
+            9.91,
+            9.89,
+            9.8,
+            9.76,
+            9.8
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "23:15",
+            "time": "04:02",
             "tag": "MERCADO",
-            "text": "VeriSign (NASDAQ:VRSN) EVP Thomas Indelicarto Sells 250 Shares of Stock"
+            "text": "IT Stocks Rally: Infosys, LTM, Tech Mahindra Shares Jump Over 4% After TCS Q1 Meets Estimates"
         },
         {
-            "time": "22:38",
-            "tag": "RESULTADOS",
-            "text": "Micron Technology Is Quietly Setting Up for a Strong Earnings Catalyst"
-        },
-        {
-            "time": "22:36",
+            "time": "03:46",
             "tag": "MERCADO",
-            "text": "US stocks rise as PepsiCo falls 5% on Q2 earnings miss"
+            "text": "Texas Instruments lands $33.6M state grant for Richardson plant expansion"
         },
         {
-            "time": "22:33",
+            "time": "03:07",
             "tag": "MERCADO",
-            "text": "Halliburton, Eni Boost Deepwater Efficiency by 15% with Closed-Loop Automation"
+            "text": "Arista Networks (ANET) Stock Forecast: 1.6Tbps Switch Launch Drives 7% Rally - BofA and KeyBanc at $200"
         },
         {
-            "time": "22:32",
-            "tag": "RESULTADOS",
-            "text": "Micron Technology Is Quietly Setting Up for a Strong Earnings Catalyst"
+            "time": "02:11",
+            "tag": "MERCADO",
+            "text": "iQIYI International Releases First Half of 2026 Global Trending Content: Chinese Dramas and Micro Dramas Power Dual-Engine Global Growth"
+        },
+        {
+            "time": "02:07",
+            "tag": "MERCADO",
+            "text": "Amazon.com, Inc. Shs Thailand Depositary Receipts Repr 1 Sh Financial Statements \u2013 SET:AMZN19"
         }
     ]
 }
