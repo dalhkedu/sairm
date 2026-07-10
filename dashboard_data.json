@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-07-10 14:33 UTC",
+        "last_updated": "2026-07-10 16:57 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 206.26,
-            "change": "+0.85%"
+            "price": 209.53,
+            "change": "-2.3%"
         },
         {
             "symbol": "AMD",
-            "price": 542.26,
-            "change": "-3.4%"
+            "price": 552.91,
+            "change": "-0.13%"
         },
         {
             "symbol": "MSFT",
-            "price": 382.61,
-            "change": "-2.12%"
+            "price": 385.67,
+            "change": "-1.93%"
         },
         {
             "symbol": "CEG",
-            "price": 249.94,
-            "change": "+0.35%"
+            "price": 251.31,
+            "change": "-1.97%"
         },
         {
             "symbol": "VST",
-            "price": 157.82,
-            "change": "-1.73%"
+            "price": 158.73,
+            "change": "+0.91%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.51,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
             0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
+            0.5,
             0.49,
             0.5,
             0.5,
-            0.51
+            0.5,
+            0.5,
+            0.49,
+            0.48,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.22,
-            24.81,
-            24.45,
-            24.04,
-            24.1,
-            24.5,
-            24.93,
-            24.95,
-            24.53,
-            24.92,
-            25.27,
-            24.79
+            23.68,
+            23.54,
+            23.96,
+            24.31,
+            23.85,
+            24.21,
+            24.63,
+            24.71,
+            24.63,
+            24.75,
+            25.13,
+            24.94
         ],
         "hsd_history_software": [
-            9.41,
-            9.52,
-            9.62,
-            9.8,
-            9.95,
-            10.06,
-            10.14,
-            10.16,
-            10.32,
-            10.33,
-            10.18,
-            10.13
+            10.51,
+            10.6,
+            10.61,
+            10.45,
+            10.41,
+            10.5,
+            10.37,
+            10.53,
+            10.49,
+            10.29,
+            10.23,
+            10.05
         ],
         "rci_data": [
             85.0,
-            20.626
+            20.953
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:15",
-            "tag": "AI",
-            "text": "Jiuzi Holdings, Inc.  ( Nasdaq: JZXN )  Intends to Sign Cooperation Agreement with AI Intelligent Imaging and Data Platform Company; Initial Cooperation Expected to Generate Approximately US$1.0 million in Profit"
-        },
-        {
-            "time": "13:01",
+            "time": "16:04",
             "tag": "MERCADO",
-            "text": "United Community Banks, Inc. and Peach State Bancshares, Inc. Announce Election Deadline for Peach State Shareholders to Elect Form of Merger Consideration and Expected Closing Date"
+            "text": "Synopsys stock reflects steady demand for chip design software as semiconductor complexity grows"
         },
         {
-            "time": "13:01",
+            "time": "16:00",
             "tag": "MERCADO",
-            "text": "United Community Banks, Inc. and Peach State Bancshares, Inc. Announce Election Deadline for Peach State Shareholders to Elect Form of Merger Consideration and Expected Closing Date"
+            "text": "How Investors Are Reacting To Jabil (JBL) Expanding U.S. Data Center Manufacturing In Mississippi"
         },
         {
-            "time": "13:00",
-            "tag": "AI",
-            "text": "Beamr's ML-Safe Video Data Technology Now Available on the RTMaps AI Store"
+            "time": "15:47",
+            "tag": "MERCADO",
+            "text": "Honeywell Aerospace, Enigma unveil collaboration on autonomous drones"
         },
         {
-            "time": "13:00",
-            "tag": "AI",
-            "text": "Beamr's ML-Safe Video Data Technology Now Available on the RTMaps AI Store"
+            "time": "15:39",
+            "tag": "MERCADO",
+            "text": "MSCI and UBS Announce Strategic Partnership to Boost Transparency in Private Markets"
+        },
+        {
+            "time": "15:12",
+            "tag": "MERCADO",
+            "text": "Rotary-wing helmet systems to be supplied to U.S. Army by Gentex"
         }
     ]
 }
