@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-10 20:25 UTC",
+        "last_updated": "2026-07-10 22:06 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 210.96,
-            "change": "+0.02%"
+            "change": "+2.58%"
         },
         {
             "symbol": "AMD",
             "price": 557.89,
-            "change": "-0.06%"
+            "change": "+1.88%"
         },
         {
             "symbol": "MSFT",
             "price": 385.1,
-            "change": "-0.97%"
+            "change": "+1.44%"
         },
         {
             "symbol": "CEG",
             "price": 251.38,
-            "change": "-1.4%"
+            "change": "-1.37%"
         },
         {
             "symbol": "VST",
             "price": 158.86,
-            "change": "-1.22%"
+            "change": "-0.47%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.56,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.46,
-            0.46,
-            0.46,
-            0.46,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.49
+            0.52,
+            0.53,
+            0.54,
+            0.55,
+            0.54,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.27,
-            24.89,
-            25.14,
-            25.04,
-            25.16,
-            24.92,
-            24.87,
-            25.22,
-            25.54,
+            25.85,
+            25.58,
+            25.83,
+            25.45,
             25.78,
-            25.43,
-            25.1
+            26.0,
+            25.67,
+            25.65,
+            26.02,
+            25.87,
+            25.38,
+            25.33
         ],
         "hsd_history_software": [
+            10.4,
+            10.35,
+            10.46,
+            10.37,
+            10.55,
+            10.53,
+            10.38,
+            10.4,
+            10.19,
+            10.13,
             10.0,
-            10.0,
-            10.08,
-            10.28,
-            10.29,
-            10.15,
-            10.32,
-            10.3,
-            10.34,
-            10.36,
-            10.29,
-            10.12
+            9.81
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:35",
+            "time": "21:11",
             "tag": "MERCADO",
-            "text": "Fortive stock holds steady as diversified industrial portfolio underpins long term growth outlook"
+            "text": "How Hewlett Packard Built A Fortress Out Of Its Backlog"
         },
         {
-            "time": "19:18",
+            "time": "21:05",
             "tag": "MERCADO",
-            "text": "/C O R R E C T I O N -- RTX/"
+            "text": "12 Information Technology Stocks Moving In Friday's After-Market Session"
         },
         {
-            "time": "19:13",
-            "tag": "MERCADO",
-            "text": "How Investors Are Reacting To Applied Materials (AMAT) Being Dropped From Key Russell Value Indices"
+            "time": "20:57",
+            "tag": "AI",
+            "text": "[U.S. Equities] Dow Inc. extends gains, rising $149, lifted by buying in semiconductor and AI-related stocks (10th) \u2606 Replacement"
         },
         {
-            "time": "19:00",
-            "tag": "MERCADO",
-            "text": "Onto Innovation stock reflects steady semiconductor equipment demand"
+            "time": "20:40",
+            "tag": "AI",
+            "text": "Tempus AI\u2019s Ryan Fukushima, CEO, data, sells $1.91m in stock"
         },
         {
-            "time": "18:59",
+            "time": "20:37",
             "tag": "MERCADO",
-            "text": "ServiceNow Stock Falls Friday: What's Going On?"
+            "text": "Datadog, Inc. (DDOG) CTO sells 53,912 shares and exercises equity awards"
         }
     ]
 }
