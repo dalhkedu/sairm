@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-11 17:09 UTC",
+        "last_updated": "2026-07-11 19:08 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 210.96,
-            "change": "-2.39%"
+            "change": "+0.77%"
         },
         {
             "symbol": "AMD",
             "price": 557.89,
-            "change": "+0.25%"
+            "change": "+2.6%"
         },
         {
             "symbol": "MSFT",
             "price": 385.1,
-            "change": "+2.01%"
+            "change": "+2.35%"
         },
         {
             "symbol": "CEG",
             "price": 251.38,
-            "change": "-1.62%"
+            "change": "+3.45%"
         },
         {
             "symbol": "VST",
             "price": 158.86,
-            "change": "+0.6%"
+            "change": "+0.45%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.59,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.53,
+            0.53,
+            0.54,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
             0.51,
             0.51,
             0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            25.23,
-            25.39,
-            24.97,
-            25.45,
-            25.82,
-            25.91,
-            25.51,
-            25.76,
-            25.95,
-            25.86,
-            25.61,
-            25.38
+            24.24,
+            23.8,
+            23.8,
+            23.9,
+            24.09,
+            23.95,
+            24.39,
+            24.88,
+            24.82,
+            24.44,
+            24.87,
+            25.09
         ],
         "hsd_history_software": [
+            9.77,
+            9.74,
+            9.77,
             9.92,
-            9.76,
-            9.65,
-            9.54,
-            9.44,
-            9.6,
-            9.7,
+            9.79,
+            9.97,
+            9.91,
             9.9,
-            9.86,
-            9.8,
-            9.89,
-            9.97
+            9.98,
+            10.05,
+            10.08,
+            9.9
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "17:39",
+            "tag": "AI",
+            "text": "JD.com Advances AI Procurement Technology for Efficient Supply Chains"
+        },
+        {
+            "time": "17:38",
+            "tag": "MERCADO",
+            "text": "ServiceNow (NOW) After The Hitachi Deal And The Fair Value Debate"
+        },
+        {
+            "time": "17:07",
+            "tag": "AI",
+            "text": "Fifth Third launches AI-powered mobile app interface, quietly builds crypto working group"
+        },
+        {
             "time": "16:39",
             "tag": "RESULTADOS",
             "text": "ASML Q2 Earnings Loom: Buy, Sell or Hold the Stock Ahead of Results?"
         },
         {
-            "time": "15:59",
+            "time": "16:37",
             "tag": "MERCADO",
-            "text": "Super Micro Computer (SMCI) Introduces DCBBS Blueprint for HPC"
-        },
-        {
-            "time": "15:38",
-            "tag": "MERCADO",
-            "text": "WealthShield Partners LLC Cuts Position in Digital Realty Trust, Inc. $DLR"
-        },
-        {
-            "time": "15:29",
-            "tag": "MERCADO",
-            "text": "Price Prediction: Synopsys Stock Will Be Worth This In 2030"
-        },
-        {
-            "time": "15:11",
-            "tag": "MERCADO",
-            "text": "Sequoia Financial Advisors LLC Purchases 28,669 Shares of Salesforce Inc. $CRM"
+            "text": "How Investors May Respond To Align Technology (ALGN) Executive Legal Chief Julie Coletti\u2019s Resignation"
         }
     ]
 }
