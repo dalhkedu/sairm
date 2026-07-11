@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-11 11:54 UTC",
+        "last_updated": "2026-07-11 13:25 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 210.96,
-            "change": "-3.39%"
+            "change": "+3.48%"
         },
         {
             "symbol": "AMD",
             "price": 557.89,
-            "change": "-3.12%"
+            "change": "-0.77%"
         },
         {
             "symbol": "MSFT",
             "price": 385.1,
-            "change": "-0.26%"
+            "change": "+1.68%"
         },
         {
             "symbol": "CEG",
             "price": 251.38,
-            "change": "-1.74%"
+            "change": "+1.37%"
         },
         {
             "symbol": "VST",
             "price": 158.86,
-            "change": "+2.58%"
+            "change": "+2.36%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.5,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.5,
             0.5,
             0.51,
             0.51,
+            0.52,
+            0.52,
             0.51
         ],
         "hsd_history_hardware": [
-            25.62,
-            25.29,
+            23.83,
+            23.77,
+            23.62,
+            24.05,
+            24.27,
+            24.6,
+            24.37,
+            24.83,
+            24.98,
+            24.73,
             25.08,
-            25.59,
-            25.71,
-            25.47,
-            25.34,
-            25.53,
-            25.51,
-            25.2,
-            25.54,
-            25.17
+            25.16
         ],
         "hsd_history_software": [
-            10.16,
-            10.09,
-            10.26,
-            10.06,
-            9.95,
-            10.1,
-            10.04,
-            10.02,
-            9.85,
-            10.01,
-            10.14,
-            10.13
+            9.76,
+            9.73,
+            9.71,
+            9.52,
+            9.66,
+            9.62,
+            9.55,
+            9.49,
+            9.65,
+            9.63,
+            9.77,
+            9.85
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:10",
+            "time": "12:11",
             "tag": "MERCADO",
-            "text": "(XMLV) Risk Channels and Responsive Allocation"
+            "text": "AlpenGlobal Capital LLC Acquires Shares of 35,911 Tesla, Inc. $TSLA"
         },
         {
-            "time": "11:07",
+            "time": "12:09",
             "tag": "MERCADO",
-            "text": "Form 4 Dell Technologies Inc For: 10 July By Investing.com"
+            "text": "Form 4 Aeva Technologies Inc For: 10 July By Investing.com"
         },
         {
-            "time": "10:59",
+            "time": "12:00",
+            "tag": "MERCADO",
+            "text": "Alibaba (BABA) Stock Forecast July 2026: Four Catalysts Drove 12% in Two Days; Is the $160 Target Achievable?"
+        },
+        {
+            "time": "11:38",
+            "tag": "MERCADO",
+            "text": "New Buy Rating for Oracle (ORCL), the Technology Giant"
+        },
+        {
+            "time": "11:37",
             "tag": "AI",
-            "text": "Omnicom Group stock holds steady as global advertising shifts toward data and AI"
-        },
-        {
-            "time": "10:10",
-            "tag": "MERCADO",
-            "text": "Analysts Are Bullish on Top Technology Stocks: Western Digital (WDC), Epam Systems (EPAM)"
-        },
-        {
-            "time": "10:00",
-            "tag": "MERCADO",
-            "text": "BBY stock edges into focus as Best Buy leans on its retail model"
+            "text": "Is F5 (FFIV) Using Equinix AI Guardrails Deal To Redefine Its Security Moat?"
         }
     ]
 }
