@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-11 22:52 UTC",
+        "last_updated": "2026-07-11 23:57 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 210.96,
-            "change": "+0.85%"
+            "change": "-0.87%"
         },
         {
             "symbol": "AMD",
             "price": 557.89,
-            "change": "+0.26%"
+            "change": "+1.38%"
         },
         {
             "symbol": "MSFT",
             "price": 385.1,
-            "change": "+0.35%"
+            "change": "-0.02%"
         },
         {
             "symbol": "CEG",
-            "price": NaN,
-            "change": "-0.29%"
+            "price": 251.38,
+            "change": "-2.0%"
         },
         {
             "symbol": "VST",
             "price": 158.86,
-            "change": "-2.1%"
+            "change": "-1.46%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.55,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
             0.5,
-            0.51,
-            0.51,
+            0.5,
             0.51,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            26.27,
-            26.35,
-            26.65,
-            26.22,
-            26.02,
-            25.64,
-            25.75,
-            25.64,
-            25.18,
-            25.52,
-            25.78,
-            25.5
+            25.19,
+            25.27,
+            25.5,
+            25.27,
+            25.57,
+            25.56,
+            25.13,
+            24.95,
+            24.62,
+            24.17,
+            24.34,
+            24.75
         ],
         "hsd_history_software": [
-            9.56,
+            9.52,
+            9.47,
+            9.65,
+            9.65,
             9.75,
             9.64,
-            9.79,
-            9.66,
-            9.84,
-            9.84,
-            9.67,
-            9.83,
-            9.74,
-            9.9,
-            9.96
+            9.78,
+            9.88,
+            10.08,
+            10.07,
+            10.07,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "22:39",
+            "tag": "RESULTADOS",
+            "text": "Eaton Shares Beat S&P 500, Trade at 40x Earnings"
+        },
+        {
             "time": "21:46",
             "tag": "MERCADO",
             "text": "KLA Gets $270 Price Target\u2014TSMC Seen as Key for Stock"
@@ -144,11 +149,6 @@
             "time": "20:40",
             "tag": "MERCADO",
             "text": "Form 425 Pasqal Holding SAS Filed by: Bleichroeder Acquisition France Merger Sub 2"
-        },
-        {
-            "time": "20:12",
-            "tag": "MERCADO",
-            "text": "Tuya Reports No Share Count Changes in June 2026 Hong Kong Filing"
         }
     ]
 }
