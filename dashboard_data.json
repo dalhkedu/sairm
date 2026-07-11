@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-11 13:25 UTC",
+        "last_updated": "2026-07-11 14:56 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 210.96,
-            "change": "+3.48%"
+            "change": "-1.27%"
         },
         {
             "symbol": "AMD",
             "price": 557.89,
-            "change": "-0.77%"
+            "change": "-0.04%"
         },
         {
             "symbol": "MSFT",
             "price": 385.1,
-            "change": "+1.68%"
+            "change": "+0.3%"
         },
         {
             "symbol": "CEG",
             "price": 251.38,
-            "change": "+1.37%"
+            "change": "+2.17%"
         },
         {
             "symbol": "VST",
             "price": 158.86,
-            "change": "+2.36%"
+            "change": "+2.92%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.47,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.5,
-            0.5,
-            0.49,
+            0.48,
             0.49,
             0.5,
+            0.49,
+            0.5,
+            0.49,
+            0.5,
+            0.51,
             0.5,
             0.51,
             0.51,
-            0.52,
-            0.52,
             0.51
         ],
         "hsd_history_hardware": [
-            23.83,
-            23.77,
-            23.62,
-            24.05,
-            24.27,
-            24.6,
-            24.37,
-            24.83,
-            24.98,
-            24.73,
+            24.79,
+            24.84,
+            24.75,
+            25.23,
             25.08,
-            25.16
+            24.86,
+            24.51,
+            24.8,
+            24.62,
+            24.91,
+            24.61,
+            24.54
         ],
         "hsd_history_software": [
-            9.76,
-            9.73,
-            9.71,
-            9.52,
-            9.66,
-            9.62,
-            9.55,
-            9.49,
-            9.65,
-            9.63,
-            9.77,
-            9.85
+            10.07,
+            10.06,
+            9.99,
+            10.13,
+            9.94,
+            10.12,
+            10.07,
+            10.25,
+            10.36,
+            10.45,
+            10.29,
+            10.16
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:11",
+            "time": "14:00",
             "tag": "MERCADO",
-            "text": "AlpenGlobal Capital LLC Acquires Shares of 35,911 Tesla, Inc. $TSLA"
+            "text": "Conning Inc. Buys 4,231 Shares of Salesforce Inc. $CRM"
         },
         {
-            "time": "12:09",
+            "time": "13:56",
             "tag": "MERCADO",
-            "text": "Form 4 Aeva Technologies Inc For: 10 July By Investing.com"
+            "text": "Corsair Virtuoso RGB Wireless XT by Corsair Gaming Inc. - premium headset for PC and console players"
         },
         {
-            "time": "12:00",
+            "time": "13:56",
             "tag": "MERCADO",
-            "text": "Alibaba (BABA) Stock Forecast July 2026: Four Catalysts Drove 12% in Two Days; Is the $160 Target Achievable?"
+            "text": "RKL Wealth Management LLC Cuts Stock Holdings in NVIDIA Corporation $NVDA"
         },
         {
-            "time": "11:38",
+            "time": "13:54",
             "tag": "MERCADO",
-            "text": "New Buy Rating for Oracle (ORCL), the Technology Giant"
+            "text": "Salesforce Inc. $CRM Holdings Trimmed by Candriam S.C.A."
         },
         {
-            "time": "11:37",
-            "tag": "AI",
-            "text": "Is F5 (FFIV) Using Equinix AI Guardrails Deal To Redefine Its Security Moat?"
+            "time": "13:40",
+            "tag": "MERCADO",
+            "text": "Fortinet, Inc. $FTNT is Fulcrum Capital LLC's 9th Largest Position"
         }
     ]
 }
