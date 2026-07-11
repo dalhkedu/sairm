@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-11 16:00 UTC",
+        "last_updated": "2026-07-11 17:09 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 210.96,
-            "change": "-0.02%"
+            "change": "-2.39%"
         },
         {
             "symbol": "AMD",
             "price": 557.89,
-            "change": "+1.82%"
+            "change": "+0.25%"
         },
         {
             "symbol": "MSFT",
             "price": 385.1,
-            "change": "+0.18%"
+            "change": "+2.01%"
         },
         {
             "symbol": "CEG",
             "price": 251.38,
-            "change": "-3.1%"
+            "change": "-1.62%"
         },
         {
             "symbol": "VST",
             "price": 158.86,
-            "change": "-2.17%"
+            "change": "+0.6%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.64,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.53,
-            0.52,
-            0.51,
-            0.5,
             0.51,
             0.51,
             0.5,
-            0.5
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.81,
-            26.67,
-            26.31,
-            26.17,
-            26.2,
-            26.13,
-            25.99,
-            25.86,
+            25.23,
+            25.39,
+            24.97,
+            25.45,
+            25.82,
+            25.91,
             25.51,
+            25.76,
+            25.95,
+            25.86,
             25.61,
-            25.28,
-            25.48
+            25.38
         ],
         "hsd_history_software": [
-            9.57,
-            9.44,
-            9.44,
-            9.47,
-            9.62,
-            9.51,
-            9.69,
-            9.68,
+            9.92,
+            9.76,
+            9.65,
             9.54,
-            9.66,
-            9.77,
-            9.83
+            9.44,
+            9.6,
+            9.7,
+            9.9,
+            9.86,
+            9.8,
+            9.89,
+            9.97
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:58",
-            "tag": "MERCADO",
-            "text": "Sumitomo Mitsui Trust Group Inc. Sells 36,531 Shares of Electronic Arts Inc. $EA"
+            "time": "16:39",
+            "tag": "RESULTADOS",
+            "text": "ASML Q2 Earnings Loom: Buy, Sell or Hold the Stock Ahead of Results?"
         },
         {
-            "time": "14:54",
+            "time": "15:59",
             "tag": "MERCADO",
-            "text": "KLCM Advisors Inc. Buys New Stake in Salesforce Inc. $CRM"
+            "text": "Super Micro Computer (SMCI) Introduces DCBBS Blueprint for HPC"
         },
         {
-            "time": "14:49",
+            "time": "15:38",
             "tag": "MERCADO",
-            "text": "Roper Technologies (ROP) Files ESOP Share Shelf As Its Undervalued Narrative Holds"
+            "text": "WealthShield Partners LLC Cuts Position in Digital Realty Trust, Inc. $DLR"
         },
         {
-            "time": "14:46",
+            "time": "15:29",
             "tag": "MERCADO",
-            "text": "38,817 Shares in Generac Holdings Inc. $GNRC Acquired by Swedbank AB"
+            "text": "Price Prediction: Synopsys Stock Will Be Worth This In 2030"
         },
         {
-            "time": "14:39",
+            "time": "15:11",
             "tag": "MERCADO",
-            "text": "Swedbank AB Acquires 15,301 Shares of NetApp, Inc. $NTAP"
+            "text": "Sequoia Financial Advisors LLC Purchases 28,669 Shares of Salesforce Inc. $CRM"
         }
     ]
 }
