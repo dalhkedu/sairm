@@ -1,80 +1,80 @@
 {
     "metadata": {
-        "last_updated": "2026-07-11 06:16 UTC",
+        "last_updated": "2026-07-11 08:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 210.96,
-            "change": "-2.33%"
+            "change": "-0.41%"
         },
         {
             "symbol": "AMD",
             "price": 557.89,
-            "change": "+3.4%"
+            "change": "+0.17%"
         },
         {
             "symbol": "MSFT",
             "price": 385.1,
-            "change": "-2.27%"
+            "change": "-1.63%"
         },
         {
             "symbol": "CEG",
             "price": 251.38,
-            "change": "+1.7%"
+            "change": "+2.84%"
         },
         {
             "symbol": "VST",
             "price": 158.86,
-            "change": "-1.33%"
+            "change": "+2.08%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.41,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.48,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
             0.5,
-            0.5
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.75,
-            25.32,
-            25.29,
-            24.89,
-            24.65,
-            24.5,
-            24.81,
-            24.66,
-            24.69,
-            24.43,
-            24.86,
-            24.71
+            23.66,
+            23.95,
+            23.84,
+            23.93,
+            24.13,
+            24.56,
+            24.28,
+            24.52,
+            24.36,
+            24.74,
+            24.31,
+            24.52
         ],
         "hsd_history_software": [
+            10.54,
+            10.38,
+            10.42,
+            10.36,
+            10.22,
             10.1,
+            10.1,
+            10.13,
+            9.95,
             9.96,
-            10.1,
-            9.91,
-            9.76,
-            9.6,
-            9.57,
-            9.68,
-            9.73,
-            9.81,
-            9.8,
+            9.77,
             9.9
         ],
         "rci_data": [
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:17",
+            "time": "08:10",
             "tag": "MERCADO",
-            "text": "Norton 360 Deluxe by Gen Digital Inc. - multi-device security with VPN bundled"
+            "text": "Phunware (PHUN) faces activist push as Goldenwise builds 6.6% stake and eyes board seats"
         },
         {
-            "time": "04:41",
+            "time": "07:52",
             "tag": "MERCADO",
-            "text": "Is Kodiak\u2019s 1.8 GW Baker Hughes Power Deal Reshaping The Investment Case For Kodiak Gas Services (KGS)?"
+            "text": "Expedia Partner Solutions by Expedia Group Inc. - hotel tech for travel brands"
         },
         {
-            "time": "04:15",
+            "time": "07:40",
             "tag": "MERCADO",
-            "text": "nLIGHT (LASR) Stock May Be Fully Priced On Its 387% Run"
+            "text": "Perfect Corp. Agrees To $2\u2011Per\u2011Share Going\u2011Private Merger Led By Founder Alice Chang"
         },
         {
-            "time": "03:44",
-            "tag": "MERCADO",
-            "text": "Did KeyBank\u2019s New Small\u2011Business Check Monitoring Tool Just Recast KeyCorp\u2019s (KEY) Digital Strategy?"
+            "time": "07:38",
+            "tag": "AI",
+            "text": "Analog Devices Stock and AI Infrastructure Names Worth A Closer Look"
         },
         {
-            "time": "03:40",
+            "time": "07:18",
             "tag": "MERCADO",
-            "text": "Laser Photonics (LASE) Registration filing Summary"
+            "text": "HP Inc. is an undervalued tech stock with a nearly 5% dividend yield and bullish technical signals."
         }
     ]
 }
