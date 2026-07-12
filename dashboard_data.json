@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-12 20:53 UTC",
+        "last_updated": "2026-07-12 21:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 210.96,
-            "change": "+1.36%"
+            "change": "-0.26%"
         },
         {
             "symbol": "AMD",
             "price": 557.89,
-            "change": "+0.08%"
+            "change": "+2.66%"
         },
         {
             "symbol": "MSFT",
             "price": 385.1,
-            "change": "+1.3%"
+            "change": "-1.94%"
         },
         {
             "symbol": "CEG",
             "price": 251.38,
-            "change": "+1.16%"
+            "change": "-0.28%"
         },
         {
             "symbol": "VST",
             "price": 158.86,
-            "change": "+0.54%"
+            "change": "-3.22%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.65,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
+            0.52,
+            0.53,
+            0.52,
+            0.53,
+            0.52,
+            0.52,
             0.52,
             0.52,
             0.51,
-            0.5,
-            0.5
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.29,
-            24.72,
-            24.29,
-            24.16,
-            24.58,
-            24.9,
-            24.55,
-            24.21,
-            24.67,
-            24.98,
-            25.17,
-            25.36
+            24.27,
+            24.45,
+            24.45,
+            24.91,
+            24.87,
+            24.83,
+            24.5,
+            24.59,
+            24.39,
+            24.3,
+            24.69,
+            24.71
         ],
         "hsd_history_software": [
-            9.65,
-            9.65,
-            9.84,
-            9.78,
+            10.51,
+            10.51,
+            10.41,
+            10.41,
+            10.27,
+            10.28,
+            10.08,
             9.9,
-            9.73,
-            9.74,
-            9.84,
-            9.69,
-            9.84,
-            9.98,
-            9.9
+            9.99,
+            9.82,
+            9.86,
+            9.97
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:18",
+            "time": "20:58",
             "tag": "MERCADO",
-            "text": "Sam Altman Says He's \u2018Not Afraid of Apple,\u2019 Has \u2018Tremendous Respect\u2019 for iPhone Maker Amid Trade Secret Lawsuit"
+            "text": "Amazon.com, Inc. (NASDAQ:AMZN) Receives Consensus Recommendation of \"Moderate Buy\" from Brokerages"
         },
         {
-            "time": "19:15",
+            "time": "20:51",
+            "tag": "RESULTADOS",
+            "text": "Citi Analysts Name Three Tech Stocks to Buy Ahead of Earnings"
+        },
+        {
+            "time": "20:37",
+            "tag": "MERCADO",
+            "text": "Analog Devices, Inc. (NASDAQ:ADI) Receives Consensus Rating of \"Moderate Buy\" from Analysts"
+        },
+        {
+            "time": "20:37",
+            "tag": "MERCADO",
+            "text": "Should Ulta\u2019s Times Square Flagship Investment Reshape How Ulta Beauty (ULTA) Investors View Its Strategy?"
+        },
+        {
+            "time": "20:37",
             "tag": "AI",
-            "text": "Apple sues OpenAI, alleges theft of trade secrets tied to ChatGPT hardware development"
-        },
-        {
-            "time": "19:10",
-            "tag": "MERCADO",
-            "text": "Gen Digital Inc. (NASDAQ:GEN) Receives Average Recommendation of \"Hold\" from Analysts"
-        },
-        {
-            "time": "18:18",
-            "tag": "MERCADO",
-            "text": "LGT Fund Management Co Ltd. Increases Position in Salesforce Inc. $CRM"
-        },
-        {
-            "time": "18:18",
-            "tag": "MERCADO",
-            "text": "United Bank Buys 3,075 Shares of Advanced Micro Devices, Inc. $AMD"
+            "text": "Charles River Laboratories International (CRL) Expands AI Pathology Platform, Is The Valuation Upside Already Priced In?"
         }
     ]
 }
