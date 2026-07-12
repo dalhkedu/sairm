@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-12 11:12 UTC",
+        "last_updated": "2026-07-12 13:25 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 210.96,
-            "change": "+2.03%"
+            "change": "+2.46%"
         },
         {
             "symbol": "AMD",
             "price": 557.89,
-            "change": "+2.89%"
+            "change": "+0.93%"
         },
         {
             "symbol": "MSFT",
-            "price": NaN,
-            "change": "-2.4%"
+            "price": 385.1,
+            "change": "-0.73%"
         },
         {
             "symbol": "CEG",
             "price": 251.38,
-            "change": "+3.3%"
+            "change": "-0.52%"
         },
         {
             "symbol": "VST",
-            "price": 158.86,
-            "change": "-2.3%"
+            "price": NaN,
+            "change": "+1.78%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.53,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.53,
+            0.52,
+            0.51,
+            0.5,
+            0.51,
+            0.51,
+            0.52,
             0.51,
             0.51,
             0.5,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            24.59,
-            24.3,
-            23.9,
-            23.63,
-            23.67,
-            24.02,
-            23.93,
+            25.64,
+            25.98,
+            25.61,
+            26.1,
+            25.91,
+            25.45,
+            24.99,
+            24.61,
+            24.77,
             24.37,
-            23.92,
-            24.33,
-            24.74,
-            25.19
+            24.53,
+            24.69
         ],
         "hsd_history_software": [
-            10.06,
-            10.14,
-            10.17,
-            10.36,
-            10.5,
-            10.68,
-            10.54,
-            10.4,
-            10.21,
+            10.13,
             10.08,
-            10.1,
-            10.17
+            10.05,
+            9.91,
+            9.93,
+            9.77,
+            9.6,
+            9.71,
+            9.88,
+            9.96,
+            9.84,
+            9.86
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:50",
-            "tag": "MERCADO",
-            "text": "Allegion stock holds steady as security portfolio supports long-term growth outlook"
+            "time": "12:55",
+            "tag": "AI",
+            "text": "Alphabet C stock holds steady as Google parent leans on AI growth and ad resilience"
         },
         {
-            "time": "09:46",
+            "time": "12:03",
             "tag": "MERCADO",
-            "text": "Perion wins Best Buy Canada's 308-store retail media network"
+            "text": "Western Digital (WDC) Stock Forecast: Melius Targets $1,050 After 84% Margin; Short Setup at $570"
         },
         {
-            "time": "09:18",
-            "tag": "MERCADO",
-            "text": "Keysight Technologies stock holds steady as test and measurement demand underpins long-term growth"
+            "time": "12:02",
+            "tag": "RESULTADOS",
+            "text": "Earnings playbook: Reporting season gets underway with JPMorgan Chase, Netflix on deck"
         },
         {
-            "time": "08:42",
+            "time": "11:37",
             "tag": "MERCADO",
-            "text": "Cisco Systems stock reflects steady network demand and long-term digital infrastructure role"
+            "text": "Intuitive Surgical stock holds steady as robotic surgery demand supports long-term growth"
         },
         {
-            "time": "08:30",
+            "time": "11:12",
             "tag": "MERCADO",
-            "text": "FactSet Research stock holds steady as analysts watch growth"
+            "text": "Tesla (TSLA) Faces New Robotaxi Safety Questions From Federal Regulators"
         }
     ]
 }
