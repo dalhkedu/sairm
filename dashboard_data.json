@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-11 23:57 UTC",
+        "last_updated": "2026-07-12 03:44 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 210.96,
-            "change": "-0.87%"
+            "change": "-1.92%"
         },
         {
             "symbol": "AMD",
             "price": 557.89,
-            "change": "+1.38%"
+            "change": "+2.09%"
         },
         {
             "symbol": "MSFT",
             "price": 385.1,
-            "change": "-0.02%"
+            "change": "+0.18%"
         },
         {
             "symbol": "CEG",
             "price": 251.38,
-            "change": "-2.0%"
+            "change": "+0.45%"
         },
         {
             "symbol": "VST",
             "price": 158.86,
-            "change": "-1.46%"
+            "change": "-0.22%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.62,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.5,
-            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.51,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.19,
-            25.27,
-            25.5,
-            25.27,
-            25.57,
+            26.34,
+            26.72,
+            26.6,
+            26.35,
+            25.9,
+            25.41,
+            25.16,
+            25.23,
+            24.77,
+            25.26,
             25.56,
-            25.13,
-            24.95,
-            24.62,
-            24.17,
-            24.34,
-            24.75
+            25.49
         ],
         "hsd_history_software": [
-            9.52,
-            9.47,
+            8.9,
+            9.01,
+            9.18,
+            9.35,
+            9.21,
+            9.34,
+            9.48,
             9.65,
-            9.65,
-            9.75,
-            9.64,
-            9.78,
-            9.88,
-            10.08,
-            10.07,
-            10.07,
-            10.07
+            9.84,
+            9.71,
+            9.86,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:39",
-            "tag": "RESULTADOS",
-            "text": "Eaton Shares Beat S&P 500, Trade at 40x Earnings"
+            "time": "02:24",
+            "tag": "MERCADO",
+            "text": "Teledyne Technologies stock holds steady as diversified sensing business supports long-term growth"
         },
         {
-            "time": "21:46",
+            "time": "01:42",
             "tag": "MERCADO",
-            "text": "KLA Gets $270 Price Target\u2014TSMC Seen as Key for Stock"
+            "text": "Garmin Ltd. stock holds steady as wearable and aviation demand support long-term growth"
         },
         {
-            "time": "21:09",
-            "tag": "MERCADO",
-            "text": "Axon Enterprise Adds Tech Leaders to Board of Directors"
+            "time": "01:10",
+            "tag": "AI",
+            "text": "Empery Digital shares rise after selling Bitcoin treasury to fund AI data center project"
         },
         {
-            "time": "20:47",
+            "time": "00:47",
             "tag": "MERCADO",
-            "text": "Corning stock reflects steady glass and materials demand as investors weigh long-term growth"
+            "text": "Motorola Solutions stock reflects steady demand for mission-critical communications"
         },
         {
-            "time": "20:40",
+            "time": "23:30",
             "tag": "MERCADO",
-            "text": "Form 425 Pasqal Holding SAS Filed by: Bleichroeder Acquisition France Merger Sub 2"
+            "text": "Is WisdomTree's New Space ETF WSPC a Sign WT Is Doubling Down on Thematics?"
         }
     ]
 }
