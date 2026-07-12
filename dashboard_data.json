@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-12 14:59 UTC",
+        "last_updated": "2026-07-12 16:05 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 210.96,
-            "change": "-1.9%"
+            "change": "-0.05%"
         },
         {
             "symbol": "AMD",
             "price": 557.89,
-            "change": "-2.17%"
+            "change": "+2.51%"
         },
         {
             "symbol": "MSFT",
             "price": 385.1,
-            "change": "-1.26%"
+            "change": "+1.57%"
         },
         {
             "symbol": "CEG",
             "price": 251.38,
-            "change": "-1.57%"
+            "change": "-0.06%"
         },
         {
             "symbol": "VST",
             "price": 158.86,
-            "change": "-0.24%"
+            "change": "-1.09%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.48,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.5,
+            0.55,
+            0.54,
+            0.53,
+            0.54,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
             0.51,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.51,
-            25.44,
-            25.91,
-            25.68,
-            26.07,
-            25.9,
-            26.0,
-            26.18,
-            25.92,
-            25.45,
-            25.07,
-            25.23
+            22.87,
+            23.29,
+            23.64,
+            23.81,
+            23.95,
+            24.28,
+            24.48,
+            24.02,
+            24.4,
+            24.85,
+            25.13,
+            25.25
         ],
         "hsd_history_software": [
-            10.44,
-            10.64,
-            10.58,
-            10.41,
-            10.31,
-            10.15,
-            10.2,
+            9.91,
+            10.0,
+            10.16,
+            10.36,
+            10.39,
+            10.21,
             10.22,
-            10.19,
-            10.07,
-            10.05,
-            10.17
+            10.22,
+            10.06,
+            10.24,
+            10.06,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:01",
+            "time": "15:36",
             "tag": "MERCADO",
-            "text": "Should You Buy Tesla, Inc. (TSLA)\u2019s Shares?"
+            "text": "Ferguson Wellman Capital Management Inc. Sells 2,424 Shares of Motorola Solutions, Inc. $MSI"
         },
         {
-            "time": "13:31",
+            "time": "15:26",
             "tag": "MERCADO",
-            "text": "S&P 500, SPY, VOO ETF: The 4 catalysts that could move markets this week"
+            "text": "Cullinan Associates Inc. Takes Position in Lam Research Corporation $LRCX"
         },
         {
-            "time": "13:28",
+            "time": "15:22",
             "tag": "MERCADO",
-            "text": "Intel\u2019s Insiders"
+            "text": "Fifth Third Bancorp Has $435.52 Million Holdings in Mastercard Incorporated $MA"
         },
         {
-            "time": "13:10",
-            "tag": "AI",
-            "text": "Why Celestica (CLS) Is Positioned to Sustain AI Infrastructure Growth Through Cloud Networking Leadership and Execution"
+            "time": "15:22",
+            "tag": "MERCADO",
+            "text": "Heritage Investors Management Corp Reduces Position in NVIDIA Corporation $NVDA"
         },
         {
-            "time": "13:03",
+            "time": "15:22",
             "tag": "MERCADO",
-            "text": "Moody's: Europe Data Centres Shift North for Sustainability"
+            "text": "Conning Inc. Sells 1,159 Shares of Advanced Micro Devices, Inc. $AMD"
         }
     ]
 }
