@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-07-13 18:45 UTC",
+        "last_updated": "2026-07-13 20:17 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 204.12,
-            "change": "-3.08%"
+            "price": 203.53,
+            "change": "-3.28%"
         },
         {
             "symbol": "AMD",
-            "price": 536.54,
-            "change": "+2.05%"
+            "price": 534.39,
+            "change": "+0.05%"
         },
         {
             "symbol": "MSFT",
-            "price": 392.99,
-            "change": "-1.54%"
+            "price": 390.99,
+            "change": "+1.5%"
         },
         {
             "symbol": "CEG",
-            "price": 256.21,
-            "change": "-2.91%"
+            "price": 257.57,
+            "change": "-2.45%"
         },
         {
             "symbol": "VST",
-            "price": 157.13,
-            "change": "+1.74%"
+            "price": 158.12,
+            "change": "+2.11%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.52,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.51
+            0.54,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.25,
-            24.7,
+            24.93,
+            24.59,
+            24.12,
+            24.03,
             24.38,
-            24.01,
-            24.11,
-            24.36,
+            24.67,
             24.83,
-            25.07,
-            24.6,
-            24.24,
-            24.19,
-            24.66
+            25.22,
+            25.13,
+            25.61,
+            25.6,
+            25.27
         ],
         "hsd_history_software": [
-            9.4,
-            9.47,
-            9.61,
-            9.78,
-            9.77,
-            9.89,
-            9.69,
-            9.73,
-            9.68,
-            9.64,
-            9.72,
-            9.9
+            10.44,
+            10.25,
+            10.09,
+            10.05,
+            9.98,
+            10.07,
+            10.15,
+            9.96,
+            10.16,
+            10.27,
+            10.08,
+            9.89
         ],
         "rci_data": [
             85.0,
-            20.412
+            20.352999999999998
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:04",
-            "tag": "AI",
-            "text": "Alphabet C stock holds steady as Google parent leans on AI and cloud growth"
+            "time": "19:25",
+            "tag": "MERCADO",
+            "text": "Quality Stocks Aren\u2019t the Names You\u2019d Expect"
         },
         {
-            "time": "17:50",
+            "time": "19:16",
             "tag": "MERCADO",
-            "text": "Microsoft Entra ID security updates: Passkeys are the default authentication method in Entra ID"
+            "text": "GLW Maintained by Citigroup -- Price Target Raised to $240"
         },
         {
-            "time": "17:34",
+            "time": "19:15",
             "tag": "MERCADO",
-            "text": "Seagate and Western Digital Shares Are Falling, What You Need To Know"
+            "text": "ServiceNow Inc Stock (NOW) Moved Up by 3.29% on Jul 13: What Signal Does It Send?"
         },
         {
-            "time": "17:30",
+            "time": "19:00",
             "tag": "MERCADO",
-            "text": "Applied Materials Shows Huge Unusual Put Options Activity - a Bullish Signal"
+            "text": "Meet the Gizmo Watch 4: Verizon\u2019s new kid-friendly smartwatch"
         },
         {
-            "time": "16:56",
+            "time": "19:00",
             "tag": "MERCADO",
-            "text": "F5 Appoints Cathy Peterman as Chief People Officer"
+            "text": "New Verizon Gizmo Watch 4 tracks kids\u2019 location and watch removal"
         }
     ]
 }
