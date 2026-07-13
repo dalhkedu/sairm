@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-13 03:45 UTC",
+        "last_updated": "2026-07-13 06:55 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 210.96,
-            "change": "-0.7%"
+            "change": "-2.47%"
         },
         {
             "symbol": "AMD",
             "price": 557.89,
-            "change": "+1.76%"
+            "change": "-2.13%"
         },
         {
             "symbol": "MSFT",
             "price": 385.1,
-            "change": "+2.05%"
+            "change": "+0.46%"
         },
         {
             "symbol": "CEG",
             "price": 251.38,
-            "change": "+3.34%"
+            "change": "-2.05%"
         },
         {
             "symbol": "VST",
             "price": 158.86,
-            "change": "+2.02%"
+            "change": "+0.21%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.62,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
             0.51,
             0.51,
             0.5,
-            0.51,
+            0.5,
+            0.49,
             0.5,
             0.51,
             0.5,
             0.5,
-            0.51,
+            0.49,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.23,
+            27.52,
+            27.01,
+            26.59,
+            26.37,
+            25.96,
+            25.76,
+            25.28,
             25.21,
-            25.68,
-            25.97,
-            25.47,
-            25.34,
-            25.0,
-            24.59,
-            24.85,
-            25.34,
-            25.24,
-            25.09
+            25.39,
+            24.99,
+            24.58,
+            24.77
         ],
         "hsd_history_software": [
-            9.83,
-            9.9,
-            9.84,
-            9.88,
-            9.92,
-            9.9,
-            9.92,
-            9.95,
-            10.11,
-            10.05,
-            10.02,
-            9.92
+            10.62,
+            10.76,
+            10.65,
+            10.56,
+            10.7,
+            10.85,
+            10.67,
+            10.49,
+            10.32,
+            10.13,
+            10.08,
+            10.18
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:43",
+            "time": "06:01",
             "tag": "MERCADO",
-            "text": "Digital Realty Trust (DLR) Raises $2.28 Billion In Follow On Offering"
+            "text": "Raiffeisen shifts shared service hub to Broadridge BRx Match"
         },
         {
-            "time": "02:33",
+            "time": "05:54",
             "tag": "MERCADO",
-            "text": "Insulet (PODD) Investor presentation Summary"
+            "text": "ServiceNow's requires_authentication=false: The One Boolean That Exposed Enterprise Data Worldwide"
         },
         {
-            "time": "02:30",
+            "time": "05:37",
             "tag": "MERCADO",
-            "text": "Apple Expands Broadcom Partnership with $30B Commitment for US-made Wireless Chips"
+            "text": "DTE Energy Company (DTE) Investor presentation Summary"
         },
         {
-            "time": "01:48",
-            "tag": "MERCADO",
-            "text": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: AAPL, MU, MSFT, META, BABA"
-        },
-        {
-            "time": "00:56",
+            "time": "05:28",
             "tag": "AI",
-            "text": "Associated Banc Corp (ASB) Names AI Banking Lead, Is The Stock Still Cheap?"
+            "text": "Honeywell (HON) Stock Looks Undervalued After Fresh AI Automation News"
+        },
+        {
+            "time": "05:26",
+            "tag": "MERCADO",
+            "text": "Electronic Arts stock holds steady as investors await the next catalyst"
         }
     ]
 }
