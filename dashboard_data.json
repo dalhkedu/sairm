@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-13 21:59 UTC",
+        "last_updated": "2026-07-13 23:04 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 203.53,
-            "change": "+3.36%"
+            "change": "+3.5%"
         },
         {
             "symbol": "AMD",
             "price": 534.39,
-            "change": "+2.24%"
+            "change": "+3.35%"
         },
         {
             "symbol": "MSFT",
             "price": 390.99,
-            "change": "-3.24%"
+            "change": "+1.73%"
         },
         {
             "symbol": "CEG",
             "price": 257.57,
-            "change": "-0.49%"
+            "change": "+0.96%"
         },
         {
             "symbol": "VST",
             "price": 158.12,
-            "change": "-3.15%"
+            "change": "-1.98%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.56,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.49,
             0.49,
             0.5,
             0.5,
+            0.51,
             0.5,
-            0.5
+            0.51,
+            0.5,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.42,
-            24.22,
-            24.4,
-            24.19,
-            24.41,
-            24.67,
-            24.44,
-            24.75,
-            25.12,
-            25.11,
-            24.69,
-            24.71
+            26.18,
+            26.13,
+            26.25,
+            25.9,
+            25.5,
+            25.58,
+            25.52,
+            25.3,
+            25.05,
+            25.0,
+            25.07,
+            25.42
         ],
         "hsd_history_software": [
-            8.92,
-            9.03,
-            9.04,
-            9.21,
-            9.35,
-            9.51,
-            9.6,
-            9.79,
-            9.78,
-            9.98,
-            9.82,
-            9.87
+            9.63,
+            9.7,
+            9.74,
+            9.87,
+            10.0,
+            10.12,
+            10.21,
+            10.03,
+            10.04,
+            10.04,
+            10.24,
+            10.17
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:03",
-            "tag": "AI",
-            "text": "Western Digital Stock Selloff Exposes a $240 Wall Street Split on AI Storage"
+            "time": "22:23",
+            "tag": "MERCADO",
+            "text": "Microchip Technology Inc (MCHP) Shares Fall 4.9% -- GF Value Says Still Overvalued"
         },
         {
-            "time": "20:52",
+            "time": "22:20",
             "tag": "MERCADO",
-            "text": "ServiceNow Options Spot-On: On July 13th, 124.79K Contracts Were Traded, With 1.49 Million Open Interest"
+            "text": "L3Harris wins U.S. Space Force contract for 18 missile-tracking AMDT3 satellites"
         },
         {
-            "time": "20:46",
+            "time": "22:19",
             "tag": "MERCADO",
-            "text": "Dexcom G7 15 Day Receives Health Canada Authorization: Extending Wear and Continuity for Canadian Adults Living with Diabetes"
+            "text": "Western Digital Corporation Stock 12\u2011Month Price Target Raised to $634.22, Implies 9% Upside"
         },
         {
-            "time": "20:46",
+            "time": "22:13",
             "tag": "MERCADO",
-            "text": "DEXCOM,-INC."
+            "text": "Traders Purchase High Volume of Put Options on KLA (NASDAQ:KLAC)"
         },
         {
-            "time": "20:46",
+            "time": "22:01",
             "tag": "MERCADO",
-            "text": "WD to Announce Fourth Quarter and Fiscal Year 2026 Financial Results on August 5, 2026"
+            "text": "Dell director Egon Durban-affiliated entities sell $15.8m stock By Investing.com"
         }
     ]
 }
