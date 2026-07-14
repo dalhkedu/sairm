@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-14 05:33 UTC",
+        "last_updated": "2026-07-14 08:10 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 203.53,
-            "change": "+0.43%"
+            "change": "+2.51%"
         },
         {
             "symbol": "AMD",
             "price": 534.39,
-            "change": "-2.31%"
+            "change": "+1.29%"
         },
         {
             "symbol": "MSFT",
             "price": 390.99,
-            "change": "+1.19%"
+            "change": "-2.14%"
         },
         {
             "symbol": "CEG",
             "price": 257.57,
-            "change": "+0.28%"
+            "change": "+2.32%"
         },
         {
             "symbol": "VST",
             "price": 158.12,
-            "change": "+0.65%"
+            "change": "-0.01%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.4,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.49
+            0.52,
+            0.53,
+            0.53,
+            0.53,
+            0.54,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
+            0.51,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.1,
-            25.75,
+            26.55,
+            26.25,
+            25.88,
+            26.15,
+            25.77,
+            25.65,
             25.28,
-            25.04,
-            25.28,
-            25.18,
+            25.27,
             25.38,
-            24.99,
-            25.1,
-            24.78,
-            24.5,
-            24.67
+            25.31,
+            25.63,
+            25.37
         ],
         "hsd_history_software": [
-            10.43,
-            10.39,
-            10.41,
-            10.21,
-            10.31,
-            10.46,
-            10.39,
-            10.21,
-            10.09,
-            10.17,
-            10.07,
-            9.92
+            9.44,
+            9.55,
+            9.74,
+            9.9,
+            9.78,
+            9.86,
+            9.74,
+            9.65,
+            9.74,
+            9.85,
+            9.94,
+            9.9
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:12",
+            "time": "07:33",
             "tag": "MERCADO",
-            "text": "Guardian Pharmacy Services (GRDN) 44th Annual J.P. Morgan Healthcare Conference summary"
+            "text": "Capelight Capital Asset Management LP Has $5.21 Million Stake in Amazon.com, Inc. $AMZN"
         },
         {
-            "time": "05:03",
-            "tag": "AI",
-            "text": "AI: Apple's unexpected strengths in AI Chip roadmap ahead. AI-RTZ #1147"
-        },
-        {
-            "time": "04:50",
-            "tag": "AI",
-            "text": "Gap Inc. Microsoft research finds that mindset beats mandate and there is such a thing as an AI hangover"
-        },
-        {
-            "time": "04:37",
+            "time": "07:26",
             "tag": "MERCADO",
-            "text": "Egon Durban-affiliated Silver Lake sells $31.1m Dell stock By Investing.com"
+            "text": "Arbejdsmarkedets Tillaegspension Acquires 44,611 Shares of NetApp, Inc. $NTAP"
         },
         {
-            "time": "04:10",
-            "tag": "RESULTADOS",
-            "text": "KeyBanc Lowers Netflix Stock (NFLX) Price Target Ahead of Q2 Earnings, Expects a \u2018Largely In Line Quarter\u2019"
+            "time": "07:25",
+            "tag": "MERCADO",
+            "text": "Tinder Gold by Match Group Inc. - subscription boosts ARPU and loyalty"
+        },
+        {
+            "time": "07:21",
+            "tag": "MERCADO",
+            "text": "Baer Investment Advisory LLC Buys 2,285 Shares of Amazon.com, Inc. $AMZN"
+        },
+        {
+            "time": "07:20",
+            "tag": "MERCADO",
+            "text": "Arbejdsmarkedets Tillaegspension Cuts Stake in Expedia Group, Inc. $EXPE"
         }
     ]
 }
