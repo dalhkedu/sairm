@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-07-14 12:16 UTC",
+        "last_updated": "2026-07-14 14:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 203.53,
-            "change": "-2.18%"
+            "price": 207.14,
+            "change": "+1.27%"
         },
         {
             "symbol": "AMD",
-            "price": 534.39,
-            "change": "-0.87%"
+            "price": 552.1,
+            "change": "+1.15%"
         },
         {
             "symbol": "MSFT",
-            "price": 390.99,
-            "change": "-1.29%"
+            "price": 386.83,
+            "change": "-3.31%"
         },
         {
             "symbol": "CEG",
-            "price": 257.57,
-            "change": "-3.23%"
+            "price": 262.86,
+            "change": "-2.84%"
         },
         {
             "symbol": "VST",
-            "price": 158.12,
-            "change": "-1.64%"
+            "price": 165.98,
+            "change": "+2.41%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
-        "rci_current": 0.2,
+        "cer_current": 0.46,
+        "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
+            0.51,
             0.51,
             0.51,
             0.5,
-            0.5
+            0.49,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            26.69,
-            26.43,
-            26.19,
-            26.35,
-            25.88,
-            25.87,
-            25.81,
-            25.4,
-            25.1,
-            24.76,
-            25.14,
-            25.49
+            26.26,
+            25.79,
+            25.67,
+            26.03,
+            25.76,
+            25.7,
+            25.28,
+            24.99,
+            25.47,
+            25.61,
+            25.51,
+            25.09
         ],
         "hsd_history_software": [
-            10.27,
-            10.42,
-            10.52,
-            10.34,
-            10.54,
-            10.42,
-            10.23,
-            10.2,
-            10.12,
-            10.15,
-            10.27,
-            10.13
+            9.38,
+            9.53,
+            9.39,
+            9.56,
+            9.47,
+            9.53,
+            9.66,
+            9.85,
+            10.04,
+            10.21,
+            10.26,
+            10.14
         ],
         "rci_data": [
             85.0,
-            20.352999999999998
+            20.714
         ],
         "energy_data": [
             1.2,
@@ -126,9 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "INFO",
-            "tag": "LIMIT",
-            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
+            "time": "14:05",
+            "tag": "MERCADO",
+            "text": "93% of Manufacturers Have MES, But Only 23% Have Fully Integrated It, New Rockwell Automation Report Finds"
+        },
+        {
+            "time": "14:00",
+            "tag": "AI",
+            "text": "Rockwell report: AI support expected for 54% of processes by 2030"
+        },
+        {
+            "time": "14:00",
+            "tag": "MERCADO",
+            "text": "Aderant CEO Chris Cartrett Will Lead Emergency-Services Software Firm"
+        },
+        {
+            "time": "14:00",
+            "tag": "MERCADO",
+            "text": "Apple Users Beware: This \u2018Copy-Paste\u2019 Scam Could Allow Someone to Take Control of Your Mac"
+        },
+        {
+            "time": "13:55",
+            "tag": "MERCADO",
+            "text": "Hologic\u2019s Aptima HPV Test Wins CE Mark for Self-Collected Samples"
         }
     ]
 }
