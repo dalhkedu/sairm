@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-14 20:14 UTC",
+        "last_updated": "2026-07-14 22:00 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 211.8,
-            "change": "-2.5%"
+            "change": "-2.46%"
         },
         {
             "symbol": "AMD",
             "price": 548.13,
-            "change": "-0.63%"
+            "change": "+2.46%"
         },
         {
             "symbol": "MSFT",
             "price": 384.93,
-            "change": "+0.9%"
+            "change": "-0.88%"
         },
         {
             "symbol": "CEG",
             "price": 256.43,
-            "change": "+2.91%"
+            "change": "+3.33%"
         },
         {
             "symbol": "VST",
-            "price": 158.39,
-            "change": "+3.44%"
+            "price": 158.43,
+            "change": "+0.21%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.7,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.51
+            0.46,
+            0.47,
+            0.47,
+            0.47,
+            0.46,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.6,
-            25.07,
-            25.35,
-            24.88,
-            25.0,
-            24.82,
-            24.87,
-            25.2,
-            24.76,
-            25.1,
-            25.49,
-            25.26
+            26.0,
+            26.16,
+            26.01,
+            25.52,
+            25.47,
+            25.43,
+            25.55,
+            25.05,
+            24.98,
+            24.57,
+            24.28,
+            24.72
         ],
         "hsd_history_software": [
-            10.45,
-            10.34,
-            10.23,
-            10.22,
-            10.05,
-            10.18,
-            10.2,
-            10.24,
-            10.39,
-            10.36,
-            10.16,
-            10.08
+            9.77,
+            9.91,
+            9.75,
+            9.93,
+            9.97,
+            9.96,
+            10.09,
+            10.08,
+            10.09,
+            10.07,
+            10.04,
+            10.2
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:42",
+            "time": "20:58",
             "tag": "MERCADO",
-            "text": "KTEC ETF Profile: Dividends, Returns (AMEX:KTEC)"
+            "text": "PagerDuty (PD) Welcomes New Board Member Alex Shootman"
         },
         {
-            "time": "19:37",
+            "time": "20:56",
             "tag": "MERCADO",
-            "text": "T-Mobile Will Survive Threat from SpaceX\u2019s Starlink and Is Best Bet in Wireless"
+            "text": "SDA awards L3Harris, Sierra $1.75B for missile defense satellites"
         },
         {
-            "time": "19:30",
-            "tag": "AI",
-            "text": "SoundHound AI (SOUN) and LivePerson Sign Amended Merger Agreement"
-        },
-        {
-            "time": "19:15",
+            "time": "20:46",
             "tag": "MERCADO",
-            "text": "ServiceNow Inc Stock (NOW) Moved Down by 5.49% on Jul 14: Drivers Behind the Movement"
+            "text": "AT&T (NYSE:T) 12% free-cash-flow yield draws fire as Starlink tests pricing"
         },
         {
-            "time": "19:13",
-            "tag": "AI",
-            "text": "Fortinet\u2019s AI Surge Is Impressive. Is Microsoft The Smarter Play?"
+            "time": "20:42",
+            "tag": "MERCADO",
+            "text": "Form 4 Dell Technologies Inc For: 14 July By Investing.com"
+        },
+        {
+            "time": "20:41",
+            "tag": "MERCADO",
+            "text": "Monolithic Power Systems to Report Second Quarter 2026 Results on July 30, 2026"
         }
     ]
 }
