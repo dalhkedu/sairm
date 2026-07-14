@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-13 23:04 UTC",
+        "last_updated": "2026-07-14 02:42 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 203.53,
-            "change": "+3.5%"
+            "change": "-1.78%"
         },
         {
             "symbol": "AMD",
             "price": 534.39,
-            "change": "+3.35%"
+            "change": "-1.2%"
         },
         {
             "symbol": "MSFT",
             "price": 390.99,
-            "change": "+1.73%"
+            "change": "-2.26%"
         },
         {
             "symbol": "CEG",
             "price": 257.57,
-            "change": "+0.96%"
+            "change": "-2.58%"
         },
         {
             "symbol": "VST",
             "price": 158.12,
-            "change": "-1.98%"
+            "change": "-1.44%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.63,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.46,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
+            0.48,
+            0.48,
             0.49,
             0.49,
             0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            26.18,
-            26.13,
-            26.25,
-            25.9,
-            25.5,
-            25.58,
-            25.52,
-            25.3,
-            25.05,
-            25.0,
-            25.07,
-            25.42
+            23.99,
+            24.05,
+            24.26,
+            24.45,
+            24.79,
+            24.77,
+            24.69,
+            24.51,
+            24.71,
+            24.7,
+            24.73,
+            24.94
         ],
         "hsd_history_software": [
-            9.63,
-            9.7,
-            9.74,
+            10.17,
+            10.35,
+            10.44,
+            10.41,
+            10.51,
+            10.31,
+            10.23,
+            10.05,
+            9.89,
             9.87,
-            10.0,
-            10.12,
-            10.21,
-            10.03,
-            10.04,
-            10.04,
-            10.24,
-            10.17
+            10.02,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:23",
+            "time": "02:09",
             "tag": "MERCADO",
-            "text": "Microchip Technology Inc (MCHP) Shares Fall 4.9% -- GF Value Says Still Overvalued"
+            "text": "Benchmark Electronics (BHE) Q1 Beat Puts Fair Value Back In Focus"
         },
         {
-            "time": "22:20",
+            "time": "01:54",
             "tag": "MERCADO",
-            "text": "L3Harris wins U.S. Space Force contract for 18 missile-tracking AMDT3 satellites"
+            "text": "Jim Cramer Warns \u201cI Don\u2019t Want to Own AT&T or Verizon\u201d as Starlink Threatens Telecom Stocks"
         },
         {
-            "time": "22:19",
-            "tag": "MERCADO",
-            "text": "Western Digital Corporation Stock 12\u2011Month Price Target Raised to $634.22, Implies 9% Upside"
+            "time": "01:32",
+            "tag": "AI",
+            "text": "Is Revvity (RVTY) Fairly Valued Following Its Anthropic Signals AI Tie Up?"
         },
         {
-            "time": "22:13",
+            "time": "01:25",
             "tag": "MERCADO",
-            "text": "Traders Purchase High Volume of Put Options on KLA (NASDAQ:KLAC)"
+            "text": "Trimble stock steadies on its connected work platform"
         },
         {
-            "time": "22:01",
+            "time": "01:18",
             "tag": "MERCADO",
-            "text": "Dell director Egon Durban-affiliated entities sell $15.8m stock By Investing.com"
+            "text": "IDEXX Laboratories stock holds steady as diagnostics demand supports long-term growth"
         }
     ]
 }
