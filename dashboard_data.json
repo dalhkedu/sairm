@@ -1,48 +1,48 @@
 {
     "metadata": {
-        "last_updated": "2026-07-14 14:54 UTC",
+        "last_updated": "2026-07-14 16:17 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 207.14,
-            "change": "+1.27%"
+            "price": 208.67,
+            "change": "+2.59%"
         },
         {
             "symbol": "AMD",
-            "price": 552.1,
-            "change": "+1.15%"
+            "price": 554.37,
+            "change": "-2.98%"
         },
         {
             "symbol": "MSFT",
-            "price": 386.83,
-            "change": "-3.31%"
+            "price": 385.0,
+            "change": "-1.11%"
         },
         {
             "symbol": "CEG",
-            "price": 262.86,
-            "change": "-2.84%"
+            "price": 256.85,
+            "change": "-1.48%"
         },
         {
             "symbol": "VST",
-            "price": 165.98,
-            "change": "+2.41%"
+            "price": 159.78,
+            "change": "+0.78%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.69,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.5,
+            0.49,
             0.49,
             0.5,
-            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
             0.5,
             0.5,
             0.5,
@@ -50,36 +50,36 @@
             0.51
         ],
         "hsd_history_hardware": [
-            26.26,
-            25.79,
-            25.67,
-            26.03,
-            25.76,
-            25.7,
-            25.28,
-            24.99,
-            25.47,
-            25.61,
-            25.51,
-            25.09
+            24.72,
+            24.29,
+            24.1,
+            24.43,
+            24.58,
+            24.95,
+            24.7,
+            25.18,
+            25.42,
+            25.17,
+            25.14,
+            25.28
         ],
         "hsd_history_software": [
-            9.38,
-            9.53,
-            9.39,
-            9.56,
-            9.47,
-            9.53,
+            9.84,
+            9.79,
+            9.62,
+            9.54,
             9.66,
-            9.85,
-            10.04,
-            10.21,
-            10.26,
-            10.14
+            9.73,
+            9.57,
+            9.73,
+            9.89,
+            9.96,
+            9.9,
+            9.86
         ],
         "rci_data": [
             85.0,
-            20.714
+            20.867
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:05",
+            "time": "15:29",
             "tag": "MERCADO",
-            "text": "93% of Manufacturers Have MES, But Only 23% Have Fully Integrated It, New Rockwell Automation Report Finds"
+            "text": "Align Sponsors Sixth Operation Smile Leadership Conference"
         },
         {
-            "time": "14:00",
+            "time": "15:25",
+            "tag": "MERCADO",
+            "text": "Intuitive Surgical Pre-Q2 Analysis: Buy, Hold or Sell the Stock Now?"
+        },
+        {
+            "time": "15:18",
             "tag": "AI",
-            "text": "Rockwell report: AI support expected for 54% of processes by 2030"
+            "text": "Leonardo DRS CEO on \u2018nearly insatiable\u2019 demand abroad, using AI and more"
         },
         {
-            "time": "14:00",
-            "tag": "MERCADO",
-            "text": "Aderant CEO Chris Cartrett Will Lead Emergency-Services Software Firm"
+            "time": "15:17",
+            "tag": "AI",
+            "text": "Fortinet Expands FortiEndpoint with New Capabilities for the AI Era"
         },
         {
-            "time": "14:00",
-            "tag": "MERCADO",
-            "text": "Apple Users Beware: This \u2018Copy-Paste\u2019 Scam Could Allow Someone to Take Control of Your Mac"
-        },
-        {
-            "time": "13:55",
-            "tag": "MERCADO",
-            "text": "Hologic\u2019s Aptima HPV Test Wins CE Mark for Self-Collected Samples"
+            "time": "15:17",
+            "tag": "AI",
+            "text": "Duos Edge AI Announces Abilene Edge Facility Grand Opening"
         }
     ]
 }
