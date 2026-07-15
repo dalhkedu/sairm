@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-15 08:17 UTC",
+        "last_updated": "2026-07-15 10:52 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 211.8,
-            "change": "-2.45%"
+            "change": "+1.42%"
         },
         {
             "symbol": "AMD",
             "price": 548.13,
-            "change": "+0.12%"
+            "change": "-1.5%"
         },
         {
             "symbol": "MSFT",
             "price": 384.93,
-            "change": "-0.58%"
+            "change": "-2.07%"
         },
         {
             "symbol": "CEG",
-            "price": 256.43,
-            "change": "-0.57%"
+            "price": NaN,
+            "change": "+1.96%"
         },
         {
             "symbol": "VST",
             "price": 158.43,
-            "change": "-1.13%"
+            "change": "-0.65%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.48,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
-            0.48,
-            0.47,
-            0.47,
-            0.48,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.49
+            0.56,
+            0.55,
+            0.54,
+            0.54,
+            0.53,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.32,
-            24.42,
-            24.13,
-            24.52,
-            24.97,
-            25.46,
-            25.7,
-            25.87,
-            25.87,
-            25.77,
-            25.49,
-            25.47
+            25.93,
+            25.48,
+            25.29,
+            25.43,
+            25.14,
+            24.94,
+            25.12,
+            25.51,
+            25.11,
+            24.71,
+            24.77,
+            24.97
         ],
         "hsd_history_software": [
-            9.81,
-            9.73,
-            9.63,
+            9.85,
+            9.76,
+            9.74,
+            9.6,
+            9.67,
             9.77,
+            9.72,
+            9.82,
             9.79,
-            9.99,
-            10.15,
-            10.03,
-            10.1,
-            10.01,
-            10.17,
-            10.05
+            9.74,
+            9.85,
+            10.03
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:18",
+            "time": "10:10",
+            "tag": "MERCADO",
+            "text": "Barclays Cuts Its Target on ICE (ICE) But Keeps Betting on the Stock"
+        },
+        {
+            "time": "09:59",
             "tag": "AI",
-            "text": "Fortinet (FTNT) Expands FortiEndpoint To Tackle AI Security And Governance"
+            "text": "AI Helps Inspectors Assess Pratt & Whitney Engines Faster"
         },
         {
-            "time": "07:12",
+            "time": "09:42",
             "tag": "MERCADO",
-            "text": "PSK Holdings Wins Orders for More Than 300 Reflow Systems"
+            "text": "B. Riley Lifts PT on Angel Studios (ANGX) \u2013 Here\u2019s Why"
         },
         {
-            "time": "06:48",
+            "time": "09:38",
             "tag": "MERCADO",
-            "text": "The Eversource ConnectedSolutions battery program. How the utility pays households for flexibility"
+            "text": "Principal Financial Group Inc. Raises Stock Holdings in Analog Devices, Inc. $ADI"
         },
         {
-            "time": "06:45",
+            "time": "09:37",
             "tag": "MERCADO",
-            "text": "Stripe, Advent offer to buy PayPal for more than US$53 billion, sources say"
-        },
-        {
-            "time": "06:44",
-            "tag": "AI",
-            "text": "Is nCino (NCNO) Undervalued On Rising Bank Demand For Its AI Tools?"
+            "text": "Principal Financial Group Inc. Acquires 10,765 Shares of Intuit Inc. $INTU"
         }
     ]
 }
