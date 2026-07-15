@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-15 10:52 UTC",
+        "last_updated": "2026-07-15 12:17 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 211.8,
-            "change": "+1.42%"
+            "change": "-3.44%"
         },
         {
             "symbol": "AMD",
             "price": 548.13,
-            "change": "-1.5%"
+            "change": "+0.68%"
         },
         {
             "symbol": "MSFT",
             "price": 384.93,
-            "change": "-2.07%"
+            "change": "+2.99%"
         },
         {
             "symbol": "CEG",
-            "price": NaN,
-            "change": "+1.96%"
+            "price": 256.43,
+            "change": "+1.59%"
         },
         {
             "symbol": "VST",
             "price": 158.43,
-            "change": "-0.65%"
+            "change": "-0.26%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.65,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.56,
-            0.55,
-            0.54,
-            0.54,
-            0.53,
-            0.52,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.49,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
             0.51,
             0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            25.93,
-            25.48,
-            25.29,
-            25.43,
-            25.14,
-            24.94,
-            25.12,
-            25.51,
+            24.95,
             25.11,
+            25.33,
+            25.11,
+            25.01,
+            25.45,
+            25.01,
             24.71,
-            24.77,
-            24.97
+            24.98,
+            25.04,
+            25.2,
+            24.75
         ],
         "hsd_history_software": [
-            9.85,
-            9.76,
-            9.74,
-            9.6,
-            9.67,
-            9.77,
-            9.72,
-            9.82,
-            9.79,
-            9.74,
-            9.85,
-            10.03
+            9.99,
+            10.12,
+            10.06,
+            9.98,
+            10.01,
+            10.08,
+            10.02,
+            9.9,
+            9.94,
+            10.07,
+            10.07,
+            10.01
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:10",
+            "time": "11:56",
             "tag": "MERCADO",
-            "text": "Barclays Cuts Its Target on ICE (ICE) But Keeps Betting on the Stock"
+            "text": "Spotify Duo by Spotify - bundled listening for two households"
         },
         {
-            "time": "09:59",
+            "time": "11:35",
+            "tag": "RESULTADOS",
+            "text": "KLA (KLAC) Stock Looks Pricey On Earnings After A 7x Run"
+        },
+        {
+            "time": "11:29",
+            "tag": "MERCADO",
+            "text": "TappAlpha's New ETF Applies Options Income to 10 Companies"
+        },
+        {
+            "time": "11:26",
             "tag": "AI",
-            "text": "AI Helps Inspectors Assess Pratt & Whitney Engines Faster"
+            "text": "Oppenheimer raises ServiceNow stock price target to $140 on AI strength"
         },
         {
-            "time": "09:42",
+            "time": "11:24",
             "tag": "MERCADO",
-            "text": "B. Riley Lifts PT on Angel Studios (ANGX) \u2013 Here\u2019s Why"
-        },
-        {
-            "time": "09:38",
-            "tag": "MERCADO",
-            "text": "Principal Financial Group Inc. Raises Stock Holdings in Analog Devices, Inc. $ADI"
-        },
-        {
-            "time": "09:37",
-            "tag": "MERCADO",
-            "text": "Principal Financial Group Inc. Acquires 10,765 Shares of Intuit Inc. $INTU"
+            "text": "Stripe, Advent offer to buy PayPal for more than $53 billion, sources say"
         }
     ]
 }
