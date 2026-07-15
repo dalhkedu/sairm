@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-14 23:05 UTC",
+        "last_updated": "2026-07-15 02:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 211.8,
-            "change": "+2.78%"
+            "change": "-0.65%"
         },
         {
             "symbol": "AMD",
             "price": 548.13,
-            "change": "+0.91%"
+            "change": "-2.27%"
         },
         {
             "symbol": "MSFT",
             "price": 384.93,
-            "change": "+0.84%"
+            "change": "-0.16%"
         },
         {
             "symbol": "CEG",
             "price": 256.43,
-            "change": "-1.66%"
+            "change": "-1.61%"
         },
         {
             "symbol": "VST",
             "price": 158.43,
-            "change": "-1.13%"
+            "change": "-0.99%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.61,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.47,
-            0.47,
-            0.47,
-            0.46,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.49
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.71,
-            24.88,
-            24.52,
-            24.59,
-            24.37,
-            24.4,
-            24.66,
-            24.47,
-            24.52,
-            24.74,
-            25.15,
-            25.15
+            24.87,
+            24.63,
+            24.73,
+            24.68,
+            24.81,
+            25.08,
+            25.0,
+            25.35,
+            25.59,
+            25.45,
+            25.95,
+            25.44
         ],
         "hsd_history_software": [
-            11.18,
-            11.1,
-            10.92,
-            10.83,
-            10.78,
-            10.8,
-            10.71,
-            10.53,
-            10.36,
-            10.41,
-            10.25,
-            10.09
+            9.5,
+            9.67,
+            9.72,
+            9.84,
+            9.82,
+            9.82,
+            9.8,
+            9.72,
+            9.83,
+            9.91,
+            9.99,
+            10.02
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:36",
+            "time": "02:08",
             "tag": "MERCADO",
-            "text": "Gen Digital to announce fiscal 2027 Q1 results on August 6"
+            "text": "EXCLUSIVE: ZTE among Chinese firms licensed to purchase Nvidia's H200 chips, documents show"
         },
         {
-            "time": "22:35",
+            "time": "01:53",
+            "tag": "MERCADO",
+            "text": "Fortive stock holds steady as diversified industrial portfolio supports long-term growth"
+        },
+        {
+            "time": "01:42",
             "tag": "AI",
-            "text": "Is FactSet\u2019s AI Pact With Google Cloud and Buybacks Altering The Investment Case For FDS?"
+            "text": "BigBear.ai (NYSE: BBAI) Stock Price Drops 24% In A Month As Revenue Growth Stalls And Losses Mount"
         },
         {
-            "time": "22:33",
+            "time": "01:30",
             "tag": "MERCADO",
-            "text": "Insider Sell: Karen Golz Sells 1,000 Shares of Analog Devices In"
+            "text": "InterSystems Recognised as a Leader in the Gartner Magic Quadrant for Enterprise Electronic Health Records"
         },
         {
-            "time": "22:09",
+            "time": "01:16",
             "tag": "MERCADO",
-            "text": "GraniteShares ETF Trust - GraniteShares Nasdaq Select Disruptors ETF (DRUP) stock price, news, quote and history"
-        },
-        {
-            "time": "22:08",
-            "tag": "MERCADO",
-            "text": "Microsoft Corporation (MSFT) to Cut 4,800 Jobs"
+            "text": "Leidos Holdings stock reflects a steady defense technology story"
         }
     ]
 }
