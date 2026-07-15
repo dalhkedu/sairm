@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-15 02:41 UTC",
+        "last_updated": "2026-07-15 05:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 211.8,
-            "change": "-0.65%"
+            "change": "-2.1%"
         },
         {
             "symbol": "AMD",
             "price": 548.13,
-            "change": "-2.27%"
+            "change": "+1.22%"
         },
         {
             "symbol": "MSFT",
             "price": 384.93,
-            "change": "-0.16%"
+            "change": "+0.7%"
         },
         {
             "symbol": "CEG",
             "price": 256.43,
-            "change": "-1.61%"
+            "change": "+0.24%"
         },
         {
             "symbol": "VST",
             "price": 158.43,
-            "change": "-0.99%"
+            "change": "-1.6%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.62,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.53,
+            0.52,
+            0.51,
             0.51,
             0.5,
             0.5,
-            0.5,
-            0.5,
-            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.87,
-            24.63,
-            24.73,
-            24.68,
+            24.08,
+            24.29,
+            24.67,
+            24.78,
+            24.38,
+            24.77,
+            24.99,
             24.81,
-            25.08,
-            25.0,
-            25.35,
-            25.59,
-            25.45,
-            25.95,
-            25.44
+            24.78,
+            25.11,
+            25.38,
+            25.12
         ],
         "hsd_history_software": [
-            9.5,
-            9.67,
-            9.72,
-            9.84,
+            10.35,
+            10.23,
+            10.07,
+            9.93,
+            9.93,
+            10.0,
+            9.87,
             9.82,
-            9.82,
-            9.8,
-            9.72,
-            9.83,
-            9.91,
-            9.99,
-            10.02
+            9.86,
+            10.03,
+            10.13,
+            9.97
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:08",
+            "time": "05:01",
             "tag": "MERCADO",
-            "text": "EXCLUSIVE: ZTE among Chinese firms licensed to purchase Nvidia's H200 chips, documents show"
+            "text": "Ulta Beauty Appoints Kelly Garcia as Chief Technology Officer"
         },
         {
-            "time": "01:53",
+            "time": "04:41",
             "tag": "MERCADO",
-            "text": "Fortive stock holds steady as diversified industrial portfolio supports long-term growth"
+            "text": "How Wide Is The Field Of Play For Netflix Stock?"
         },
         {
-            "time": "01:42",
-            "tag": "AI",
-            "text": "BigBear.ai (NYSE: BBAI) Stock Price Drops 24% In A Month As Revenue Growth Stalls And Losses Mount"
+            "time": "04:21",
+            "tag": "MERCADO",
+            "text": "Autodesk stock holds firm as investors await the next catalyst"
         },
         {
-            "time": "01:30",
+            "time": "04:19",
             "tag": "MERCADO",
-            "text": "InterSystems Recognised as a Leader in the Gartner Magic Quadrant for Enterprise Electronic Health Records"
+            "text": "Pomerantz LLP investigates Elastic N.V. over workforce cuts and executive resignation amid stock drop."
         },
         {
-            "time": "01:16",
+            "time": "04:14",
             "tag": "MERCADO",
-            "text": "Leidos Holdings stock reflects a steady defense technology story"
+            "text": "Entegris, Kulicke and Soffa, and Power Integrations Stocks Trade Up, What You Need To Know"
         }
     ]
 }
