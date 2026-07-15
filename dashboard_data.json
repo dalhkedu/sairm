@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-07-15 14:53 UTC",
+        "last_updated": "2026-07-15 16:24 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 210.28,
-            "change": "-1.5%"
+            "price": 206.6,
+            "change": "+0.34%"
         },
         {
             "symbol": "AMD",
-            "price": 521.33,
-            "change": "+2.6%"
+            "price": 512.65,
+            "change": "-0.7%"
         },
         {
             "symbol": "MSFT",
-            "price": 395.03,
-            "change": "+2.28%"
+            "price": 397.39,
+            "change": "+2.52%"
         },
         {
             "symbol": "CEG",
-            "price": 262.04,
-            "change": "-3.5%"
+            "price": 257.04,
+            "change": "+0.47%"
         },
         {
             "symbol": "VST",
-            "price": 166.11,
-            "change": "+2.73%"
+            "price": 159.6,
+            "change": "-2.84%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.68,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
             0.52,
             0.51,
             0.51,
+            0.5,
+            0.5,
+            0.5,
             0.51,
-            0.51
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.19,
-            23.94,
-            24.29,
-            24.33,
-            24.73,
-            24.29,
-            24.44,
-            24.54,
+            24.82,
+            24.49,
+            24.65,
+            24.72,
+            24.51,
+            24.53,
             24.92,
-            24.54,
-            24.83,
-            25.04
+            24.44,
+            24.68,
+            24.21,
+            24.57,
+            24.83
         ],
         "hsd_history_software": [
-            10.43,
-            10.61,
-            10.43,
-            10.42,
-            10.23,
-            10.36,
-            10.34,
-            10.29,
-            10.09,
-            10.09,
+            9.51,
+            9.55,
+            9.63,
+            9.81,
+            9.87,
+            9.92,
             10.03,
-            10.12
+            9.94,
+            9.91,
+            9.82,
+            9.88,
+            10.01
         ],
         "rci_data": [
             85.0,
-            21.028
+            20.66
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,9 @@
     ],
     "news_feed": [
         {
-            "time": "14:07",
-            "tag": "MERCADO",
-            "text": "SK Hynix Drops 5%, SanDisk Slides 6%, Western Digital Slips 4% as Traders Take Profits in Memory Stocks"
-        },
-        {
-            "time": "14:04",
-            "tag": "MERCADO",
-            "text": "Ulta Beauty Appoints Kelly Garcia Chief Technology Officer"
-        },
-        {
-            "time": "13:59",
-            "tag": "MERCADO",
-            "text": "Action1 Named a Strong Performer in the 2026 Gartner\u00ae Peer Insights\u2122 Voice of the Customer for Endpoint Management Tools"
-        },
-        {
-            "time": "13:59",
-            "tag": "MERCADO",
-            "text": "INTU Class Action Notice: Robbins LLP Reminds Investors of"
-        },
-        {
-            "time": "13:44",
-            "tag": "AI",
-            "text": "Palo Alto Vs Fortinet: Enter AI Cybersecurity (NASDAQ:PANW)"
+            "time": "INFO",
+            "tag": "LIMIT",
+            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
         }
     ]
 }
