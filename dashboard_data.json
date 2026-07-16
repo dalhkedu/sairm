@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-16 07:23 UTC",
+        "last_updated": "2026-07-16 10:10 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 212.5,
-            "change": "-2.81%"
+            "change": "-1.26%"
         },
         {
             "symbol": "AMD",
             "price": 529.14,
-            "change": "-0.63%"
+            "change": "-0.62%"
         },
         {
             "symbol": "MSFT",
             "price": 395.63,
-            "change": "-1.74%"
+            "change": "+0.01%"
         },
         {
             "symbol": "CEG",
             "price": 258.11,
-            "change": "-0.11%"
+            "change": "-2.4%"
         },
         {
             "symbol": "VST",
             "price": 160.23,
-            "change": "-0.55%"
+            "change": "+2.86%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.57,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.5,
-            0.49,
-            0.49,
             0.49,
             0.49,
             0.5,
             0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
             0.5,
             0.49,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            25.36,
-            25.38,
-            25.87,
-            25.37,
-            25.32,
-            25.09,
-            25.19,
-            25.09,
-            24.66,
-            24.29,
-            24.37,
-            24.64
+            24.2,
+            24.09,
+            24.47,
+            24.22,
+            24.23,
+            24.15,
+            23.77,
+            23.73,
+            23.82,
+            24.24,
+            24.18,
+            24.58
         ],
         "hsd_history_software": [
-            9.43,
-            9.5,
-            9.59,
-            9.49,
-            9.62,
-            9.58,
-            9.77,
+            10.13,
             9.96,
-            9.88,
-            10.06,
+            10.04,
+            9.98,
+            10.15,
             10.03,
-            9.93
+            10.13,
+            10.01,
+            9.92,
+            9.85,
+            9.87,
+            10.01
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:33",
-            "tag": "AI",
-            "text": "Capgemini named by Gartner\u00ae as a Market Shaper in the Gartner\u00ae Emerging Market Quadrant for \u2018Physical AI Services \u2013 Established Vendors\u2019"
-        },
-        {
-            "time": "06:16",
+            "time": "09:16",
             "tag": "MERCADO",
-            "text": "Standard Chartered Selects Broadcom to Deliver Secure, Always-On Banking Services at Global Scale"
+            "text": "Hillsdale Investment Management Inc. Has $1.41 Million Stake in Intuit Inc. $INTU"
         },
         {
-            "time": "06:15",
+            "time": "09:06",
             "tag": "MERCADO",
-            "text": "Identiv expands ID-Tiny HF tag portfolio"
+            "text": "Lee Danner & Bass Inc. Increases Position in Amazon.com, Inc. $AMZN"
         },
         {
-            "time": "06:04",
-            "tag": "RESULTADOS",
-            "text": "Bank of New York Mellon Q2 2026 Earnings Call Transcript"
-        },
-        {
-            "time": "06:04",
+            "time": "09:06",
             "tag": "MERCADO",
-            "text": "Spectrum Controls Wins Rockwell Automation Innovation Award"
+            "text": "K.J. Harrison & Partners Inc Cuts Stock Holdings in Amazon.com, Inc. $AMZN"
+        },
+        {
+            "time": "09:06",
+            "tag": "MERCADO",
+            "text": "Penguin Solutions, Inc. (NASDAQ:PENG) Receives Consensus Recommendation of \"Moderate Buy\" from Analysts"
+        },
+        {
+            "time": "09:04",
+            "tag": "MERCADO",
+            "text": "Principal Financial Group Inc. Boosts Holdings in Stride, Inc. $LRN"
         }
     ]
 }
