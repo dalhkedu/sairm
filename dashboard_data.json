@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-07-16 12:21 UTC",
+        "last_updated": "2026-07-16 15:04 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 212.5,
-            "change": "-3.01%"
+            "price": 206.37,
+            "change": "+3.46%"
         },
         {
             "symbol": "AMD",
-            "price": 529.14,
-            "change": "-1.27%"
+            "price": 511.02,
+            "change": "-0.9%"
         },
         {
             "symbol": "MSFT",
-            "price": 395.63,
-            "change": "-0.78%"
+            "price": 397.22,
+            "change": "-0.28%"
         },
         {
             "symbol": "CEG",
-            "price": 258.11,
-            "change": "+1.9%"
+            "price": 254.04,
+            "change": "+3.23%"
         },
         {
             "symbol": "VST",
-            "price": 160.23,
-            "change": "+1.5%"
+            "price": NaN,
+            "change": "-0.62%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.55,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
+            0.5,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
             0.51,
             0.5,
+            0.51,
+            0.51,
             0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.51
+            0.49
         ],
         "hsd_history_hardware": [
-            25.43,
-            25.56,
-            25.36,
+            25.89,
+            26.19,
+            26.12,
             25.79,
-            25.95,
-            25.67,
-            25.45,
-            25.6,
-            25.42,
-            25.69,
-            25.7,
-            25.39
+            25.46,
+            25.79,
+            25.64,
+            25.23,
+            24.75,
+            25.07,
+            24.83,
+            24.67
         ],
         "hsd_history_software": [
-            10.44,
-            10.27,
-            10.32,
+            10.34,
             10.24,
-            10.41,
-            10.2,
-            10.22,
-            10.13,
-            10.26,
-            10.15,
+            10.07,
+            10.19,
             10.05,
-            9.97
+            10.04,
+            9.96,
+            10.1,
+            9.99,
+            10.1,
+            9.97,
+            10.1
         ],
         "rci_data": [
             85.0,
-            21.25
+            20.637
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:31",
+            "time": "14:22",
             "tag": "MERCADO",
-            "text": "RBC Raises Price Target on F5 to $490 From $450, Keeps Outperform Rating"
+            "text": "Minuteman Press Franchise Owner David Rindfleisch Shares Journey From Print Industry Veteran & Shop Employee to President's Club Member in Gilbert, AZ"
         },
         {
-            "time": "11:31",
-            "tag": "MERCADO",
-            "text": "Is Liberty Energy (LBRT) Undervalued On Its New SLB Data Center Power Deal?"
-        },
-        {
-            "time": "11:26",
+            "time": "13:30",
             "tag": "AI",
-            "text": "Leica Biosystems acquires StatLab to strengthen anatomic pathology and AI-enabled cancer diagnostics"
+            "text": "On-device models steal the spotlight as China's edge AI sector heats up"
         },
         {
-            "time": "11:22",
+            "time": "13:23",
             "tag": "MERCADO",
-            "text": "Fortinet (NASDAQ:FTNT) Upgraded at Zacks Research"
+            "text": "These 3 Social Media Stocks Are Among the Best Bargains in the Market"
         },
         {
-            "time": "11:12",
-            "tag": "AI",
-            "text": "Japan Government, Industrial Leaders and NVIDIA Launch the World\u2019s First National AI Infrastructure"
+            "time": "13:17",
+            "tag": "MERCADO",
+            "text": "Flywire vs. Mastercard: Which Financial Payments Stock Is a Better Buy in 2026?"
+        },
+        {
+            "time": "13:04",
+            "tag": "MERCADO",
+            "text": "NETSOL's Transcend Retail platform goes live across three new US dealer partners"
         }
     ]
 }
