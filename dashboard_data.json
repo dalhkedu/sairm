@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-15 22:03 UTC",
+        "last_updated": "2026-07-16 00:00 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 212.5,
-            "change": "+3.07%"
+            "change": "-1.47%"
         },
         {
             "symbol": "AMD",
             "price": 529.14,
-            "change": "-1.09%"
+            "change": "-2.67%"
         },
         {
             "symbol": "MSFT",
             "price": 395.63,
-            "change": "+0.84%"
+            "change": "-1.7%"
         },
         {
             "symbol": "CEG",
             "price": 258.11,
-            "change": "+1.78%"
+            "change": "+0.91%"
         },
         {
             "symbol": "VST",
             "price": 160.23,
-            "change": "+1.0%"
+            "change": "+2.89%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.5,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
+            0.49,
             0.5,
+            0.49,
             0.5,
+            0.49,
             0.5,
-            0.5,
-            0.5,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            26.95,
-            26.61,
-            26.21,
-            26.74,
-            26.22,
-            26.12,
-            25.93,
-            25.88,
-            25.54,
-            25.13,
-            25.27,
-            25.23
+            24.15,
+            24.01,
+            24.0,
+            24.34,
+            24.21,
+            24.64,
+            24.43,
+            23.99,
+            24.39,
+            24.76,
+            25.1,
+            24.71
         ],
         "hsd_history_software": [
+            10.27,
+            10.11,
+            9.93,
             9.88,
-            9.79,
-            9.65,
-            9.51,
-            9.5,
-            9.58,
-            9.57,
-            9.73,
-            9.73,
-            9.6,
-            9.79,
-            9.82
+            10.06,
+            9.87,
+            10.01,
+            9.89,
+            9.74,
+            9.7,
+            9.85,
+            9.91
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:25",
-            "tag": "MERCADO",
-            "text": "Why QQQM\u2019s 0.15% Fee Crushes QQQ for Long-Term Growth Investors"
+            "time": "23:05",
+            "tag": "AI",
+            "text": "Japan\u2019s Enterprises and Startups Build Industry-Specialized AI With NVIDIA Nemotron Open Models"
         },
         {
-            "time": "21:12",
+            "time": "22:57",
             "tag": "MERCADO",
-            "text": "Arista Networks (NYSE:ANET) Stock Price Down 5.9% on Insider Selling"
+            "text": "Teladoc Health to announce Q2 2026 results on July 29"
         },
         {
-            "time": "20:48",
-            "tag": "MERCADO",
-            "text": "Jabil authorizes $1.5 billion share buyback program"
+            "time": "22:30",
+            "tag": "AI",
+            "text": "Cadence Introduces AuraStack AI Super Agent, the World's First Agentic AI Platform for PCB and Advanced Packaging"
         },
         {
-            "time": "20:44",
+            "time": "22:28",
             "tag": "MERCADO",
-            "text": "Alexander D. Moore plans sale of 48,000 Palantir shares (NYSE: PLTR)"
+            "text": "Insider Sell: D Bidzos Sells Shares of VeriSign Inc (VRSN)"
         },
         {
-            "time": "20:43",
+            "time": "22:25",
             "tag": "MERCADO",
-            "text": "Axon Stock Is Down 46% From Its High. Here\u2019s Why the Business Doesn\u2019t Reflect That"
+            "text": "Omnicom Group stock reflects steady agency demand as investors focus on marketing scale"
         }
     ]
 }
