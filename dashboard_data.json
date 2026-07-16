@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-07-16 19:15 UTC",
+        "last_updated": "2026-07-16 21:02 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 206.7,
-            "change": "+0.01%"
+            "price": 207.4,
+            "change": "-3.18%"
         },
         {
             "symbol": "AMD",
-            "price": 495.98,
-            "change": "+1.41%"
+            "price": 500.94,
+            "change": "+3.01%"
         },
         {
             "symbol": "MSFT",
-            "price": 402.46,
-            "change": "+1.7%"
+            "price": 401.1,
+            "change": "-1.9%"
         },
         {
             "symbol": "CEG",
-            "price": 251.6,
-            "change": "-3.28%"
+            "price": 251.77,
+            "change": "-3.38%"
         },
         {
             "symbol": "VST",
-            "price": 152.42,
-            "change": "+2.83%"
+            "price": 152.56,
+            "change": "+1.37%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.65,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.47,
+            0.48,
+            0.48,
             0.49,
+            0.49,
+            0.49,
+            0.48,
             0.49,
             0.5,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.5
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.99,
-            25.19,
-            24.72,
-            24.35,
-            24.5,
-            24.34,
-            24.21,
-            24.15,
-            24.05,
-            24.49,
-            24.47,
-            24.89
+            24.32,
+            24.8,
+            24.59,
+            24.84,
+            24.65,
+            24.56,
+            24.58,
+            24.78,
+            25.01,
+            25.11,
+            24.98,
+            24.81
         ],
         "hsd_history_software": [
-            10.42,
-            10.26,
-            10.42,
-            10.46,
-            10.46,
-            10.36,
-            10.49,
-            10.46,
-            10.45,
-            10.43,
-            10.33,
-            10.16
+            10.09,
+            10.29,
+            10.32,
+            10.34,
+            10.17,
+            10.01,
+            10.1,
+            9.93,
+            10.07,
+            9.92,
+            10.03,
+            10.12
         ],
         "rci_data": [
             85.0,
-            20.669999999999998
+            20.74
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:34",
+            "time": "20:30",
             "tag": "MERCADO",
-            "text": "SEC Proposes E-Delivery as Default for Investor Communications"
+            "text": "Seagate Technology Holdings PLC stock underperforms Thursday when compared to competitors"
         },
         {
-            "time": "18:18",
+            "time": "20:16",
             "tag": "MERCADO",
-            "text": "NetApp acquires DataPelago"
+            "text": "The Coca-Cola Company Announces Technology Disruption Involving fairlife Operations"
         },
         {
-            "time": "18:16",
+            "time": "20:15",
             "tag": "MERCADO",
-            "text": "NetApp Acquires DataPelago To Embed GPU-Accelerated Data Processing At The Storage Layer"
+            "text": "McDonald's Corp Stock (MCD) Closed Up by 3.18% on Jul 16: Key Drivers Unveiled"
         },
         {
-            "time": "18:06",
+            "time": "20:15",
             "tag": "MERCADO",
-            "text": "Intel, Micron among market cap stock movers on Thursday"
+            "text": "onsemi Plans 5 p.m. ET Call After Aug. 3 Results Release"
         },
         {
-            "time": "17:59",
+            "time": "20:12",
             "tag": "AI",
-            "text": "Intel expands Google Cloud partnership to deploy AI tools across workforce"
+            "text": "Apple Made 1 Small Mistake in Its Massive Lawsuit Against OpenAI. Here's Why Legal Experts Say It Matters"
         }
     ]
 }
