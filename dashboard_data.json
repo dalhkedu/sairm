@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-07-17 19:14 UTC",
+        "last_updated": "2026-07-17 20:58 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 202.22,
-            "change": "+1.76%"
+            "price": 202.81,
+            "change": "-3.44%"
         },
         {
             "symbol": "AMD",
-            "price": 492.7,
-            "change": "-1.27%"
+            "price": 495.76,
+            "change": "-1.36%"
         },
         {
             "symbol": "MSFT",
-            "price": 394.88,
-            "change": "+0.74%"
+            "price": 393.82,
+            "change": "+1.92%"
         },
         {
             "symbol": "CEG",
-            "price": 252.08,
-            "change": "+1.55%"
+            "price": 252.39,
+            "change": "-3.18%"
         },
         {
             "symbol": "VST",
-            "price": 154.75,
-            "change": "+2.05%"
+            "price": 155.44,
+            "change": "+3.36%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.59,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.49,
+            0.5,
             0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            24.68,
-            24.95,
-            25.04,
-            24.99,
-            25.16,
-            25.32,
-            25.36,
-            25.62,
-            25.16,
-            25.46,
-            25.21,
-            25.01
+            24.24,
+            24.2,
+            24.23,
+            23.99,
+            23.7,
+            23.66,
+            24.13,
+            24.32,
+            24.12,
+            24.28,
+            24.33,
+            24.83
         ],
         "hsd_history_software": [
-            10.24,
+            9.38,
+            9.31,
+            9.48,
+            9.64,
+            9.71,
+            9.78,
+            9.82,
+            9.92,
+            9.92,
             10.1,
-            10.16,
-            10.16,
-            10.23,
-            10.14,
-            10.27,
-            10.12,
-            10.13,
-            10.03,
-            9.91,
-            9.99
+            10.06,
+            9.92
         ],
         "rci_data": [
             85.0,
-            20.222
+            20.281
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:15",
+            "time": "19:51",
             "tag": "MERCADO",
-            "text": "Western Digital Corp Stock (WDC) Moved Up by 3.91% on Jul 17: Key Drivers Unveiled"
+            "text": "Motorola Solutions stock holds near record territory as public safety demand supports growth"
         },
         {
-            "time": "18:14",
-            "tag": "MERCADO",
-            "text": "Synopsys Inc Stock (SNPS) Moved Down by 9.49% on Jul 17: What Investors Need To Know"
+            "time": "19:30",
+            "tag": "RESULTADOS",
+            "text": "Q1 Earnings Highs And Lows: Broadridge (NYSE:BR) Vs The Rest Of The Data & Business Process Services Stocks"
         },
         {
-            "time": "18:05",
-            "tag": "MERCADO",
-            "text": "Apple hit with lawsuit claiming iCloud+ privacy tool could expose users\u2019 real emails to websites"
+            "time": "19:13",
+            "tag": "CRYPTO",
+            "text": "BofA Promotes Leaders to Drive Adoption of Crypto, AI Technology"
         },
         {
-            "time": "17:52",
-            "tag": "MERCADO",
-            "text": "News Corp stock trades steadily as advertising and digital revenue shape outlook"
+            "time": "19:09",
+            "tag": "AI",
+            "text": "Qualcomm (QCOM) Secures Long Term Auto Supply Deals To Back AI Vehicles"
         },
         {
-            "time": "17:41",
+            "time": "19:03",
             "tag": "MERCADO",
-            "text": "Synopsys (NASDAQ:SNPS) Stock Sinks as Kimi Chip Demo Tests the EDA Moat"
+            "text": "Apple briefly surpasses Nvidia as world's most valuable company"
         }
     ]
 }
