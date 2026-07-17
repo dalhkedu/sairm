@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-17 20:58 UTC",
+        "last_updated": "2026-07-17 22:01 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 202.81,
-            "change": "-3.44%"
+            "change": "+2.39%"
         },
         {
             "symbol": "AMD",
             "price": 495.76,
-            "change": "-1.36%"
+            "change": "+0.04%"
         },
         {
             "symbol": "MSFT",
             "price": 393.82,
-            "change": "+1.92%"
+            "change": "+1.48%"
         },
         {
             "symbol": "CEG",
             "price": 252.39,
-            "change": "-3.18%"
+            "change": "-2.54%"
         },
         {
             "symbol": "VST",
             "price": 155.44,
-            "change": "+3.36%"
+            "change": "-1.43%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.43,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
             0.49,
-            0.5,
+            0.48,
+            0.48,
             0.49,
-            0.5,
-            0.51,
-            0.51
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.24,
-            24.2,
-            24.23,
-            23.99,
-            23.7,
-            23.66,
-            24.13,
-            24.32,
-            24.12,
-            24.28,
-            24.33,
-            24.83
+            24.81,
+            24.64,
+            24.52,
+            24.75,
+            24.57,
+            24.78,
+            24.63,
+            24.68,
+            24.38,
+            24.45,
+            24.9,
+            24.74
         ],
         "hsd_history_software": [
-            9.38,
-            9.31,
-            9.48,
-            9.64,
-            9.71,
-            9.78,
-            9.82,
-            9.92,
-            9.92,
-            10.1,
-            10.06,
-            9.92
+            10.13,
+            10.02,
+            10.14,
+            10.05,
+            10.04,
+            9.9,
+            10.05,
+            10.17,
+            10.35,
+            10.17,
+            10.23,
+            10.06
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:51",
-            "tag": "MERCADO",
-            "text": "Motorola Solutions stock holds near record territory as public safety demand supports growth"
-        },
-        {
-            "time": "19:30",
+            "time": "21:32",
             "tag": "RESULTADOS",
-            "text": "Q1 Earnings Highs And Lows: Broadridge (NYSE:BR) Vs The Rest Of The Data & Business Process Services Stocks"
+            "text": "Netflix, Inc. (NFLX) Is Sinking After Earnings \u2014 Should You Buy the Dip?"
         },
         {
-            "time": "19:13",
-            "tag": "CRYPTO",
-            "text": "BofA Promotes Leaders to Drive Adoption of Crypto, AI Technology"
-        },
-        {
-            "time": "19:09",
-            "tag": "AI",
-            "text": "Qualcomm (QCOM) Secures Long Term Auto Supply Deals To Back AI Vehicles"
-        },
-        {
-            "time": "19:03",
+            "time": "21:30",
             "tag": "MERCADO",
-            "text": "Apple briefly surpasses Nvidia as world's most valuable company"
+            "text": "Alphabet stock holds near highs as ad and cloud growth support Alphabet C results"
+        },
+        {
+            "time": "21:17",
+            "tag": "MERCADO",
+            "text": "GameStop (EBAY) outlines proposal to acquire remaining eBay shares at $125 each"
+        },
+        {
+            "time": "21:04",
+            "tag": "MERCADO",
+            "text": "KLA Corporation (KLAC) Price Forecast: Bearish Breakdown Signals More Downside"
+        },
+        {
+            "time": "21:01",
+            "tag": "AI",
+            "text": "Netflix Paid $587 Million for Ben Affleck\u2019s AI Company"
         }
     ]
 }
