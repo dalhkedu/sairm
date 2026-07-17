@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-07-17 13:44 UTC",
+        "last_updated": "2026-07-17 15:16 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 198.51,
-            "change": "-2.45%"
+            "price": 203.6,
+            "change": "+2.31%"
         },
         {
             "symbol": "AMD",
-            "price": 462.41,
-            "change": "-0.38%"
+            "price": 485.67,
+            "change": "-1.35%"
         },
         {
             "symbol": "MSFT",
-            "price": 395.65,
-            "change": "-1.97%"
+            "price": 390.02,
+            "change": "+0.26%"
         },
         {
             "symbol": "CEG",
-            "price": 247.14,
-            "change": "+0.82%"
+            "price": 251.54,
+            "change": "-0.03%"
         },
         {
             "symbol": "VST",
-            "price": 148.82,
-            "change": "+2.42%"
+            "price": 153.97,
+            "change": "-3.1%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.47,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.53,
-            0.53,
+            0.51,
             0.52,
             0.51,
             0.52,
-            0.52,
-            0.52,
             0.51,
-            0.51,
-            0.51,
-            0.51
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.85,
-            24.18,
-            24.26,
-            24.32,
-            24.09,
-            24.23,
-            24.11,
-            24.55,
-            25.03,
-            24.64,
-            24.44,
-            24.86
+            24.92,
+            25.41,
+            24.97,
+            24.68,
+            24.41,
+            24.73,
+            24.89,
+            25.24,
+            24.9,
+            25.06,
+            24.72,
+            24.65
         ],
         "hsd_history_software": [
-            9.87,
-            9.96,
-            9.82,
-            9.65,
-            9.61,
-            9.54,
-            9.59,
-            9.47,
-            9.6,
-            9.8,
+            10.58,
+            10.39,
+            10.22,
+            10.04,
+            9.89,
+            9.75,
+            9.73,
+            9.89,
             9.97,
-            10.12
+            9.97,
+            10.03,
+            9.99
         ],
         "rci_data": [
             85.0,
-            19.851
+            20.36
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:05",
+            "time": "14:30",
             "tag": "MERCADO",
-            "text": "Apple closes in on Nvidia in race for world's most valuable company"
+            "text": "Dow member 3M reports earnings next week. JPMorgan is bullish ahead of the report"
         },
         {
-            "time": "13:02",
-            "tag": "MERCADO",
-            "text": "Qualcomm\u2019s $0.92 Dividend Is Payable Sept. 24 to Shareholders"
+            "time": "14:16",
+            "tag": "AI",
+            "text": "ASML to Pay One-Time \u20ac20,000 Bonus to Staff as AI Propels Demand"
         },
         {
-            "time": "12:51",
-            "tag": "MERCADO",
-            "text": "BMO Capital Adjusts Gartner Price Target to $154 From $177, Maintains Market Perform Rating"
+            "time": "14:16",
+            "tag": "AI",
+            "text": "NetApp buys DataPelago to become full-stack AI data infrastructure provider"
         },
         {
-            "time": "12:37",
+            "time": "14:15",
             "tag": "MERCADO",
-            "text": "Why Tela matters for energy professionals"
+            "text": "Meta Platforms Inc Stock (META) Moved Down by 3.46% on Jul 17: What Investors Need To Know"
         },
         {
-            "time": "12:33",
+            "time": "14:10",
             "tag": "MERCADO",
-            "text": "Jim Cramer Says Microchip Is Near A Bottom \u2014 'I Don't See It Yet' \u2014 While Nebius Is 'Not Done Going Down'"
+            "text": "Electronic Arts (EA) Stock Could Be 28% Overvalued As College Football Backlash Forces Changes"
         }
     ]
 }
