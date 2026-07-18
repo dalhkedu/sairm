@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-18 19:12 UTC",
+        "last_updated": "2026-07-18 20:52 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 202.81,
-            "change": "+3.06%"
+            "change": "-3.43%"
         },
         {
             "symbol": "AMD",
             "price": 495.76,
-            "change": "-0.11%"
+            "change": "+1.42%"
         },
         {
             "symbol": "MSFT",
             "price": 393.82,
-            "change": "+0.41%"
+            "change": "-2.87%"
         },
         {
             "symbol": "CEG",
             "price": 252.39,
-            "change": "-1.09%"
+            "change": "+0.87%"
         },
         {
             "symbol": "VST",
             "price": 155.44,
-            "change": "+0.17%"
+            "change": "-1.4%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.42,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.51,
-            0.51,
+            0.49,
+            0.49,
             0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.27,
-            25.36,
-            25.34,
-            25.63,
-            25.31,
-            25.12,
-            24.74,
-            25.09,
-            24.75,
-            25.14,
-            24.87,
-            25.03
+            24.33,
+            24.18,
+            24.49,
+            24.45,
+            23.98,
+            24.19,
+            24.62,
+            24.6,
+            25.05,
+            24.82,
+            24.77,
+            24.72
         ],
         "hsd_history_software": [
-            10.17,
-            10.25,
-            10.12,
-            10.19,
-            10.04,
-            10.06,
-            10.07,
-            10.0,
-            9.9,
+            9.78,
             9.92,
-            9.86,
-            9.97
+            10.12,
+            10.08,
+            10.27,
+            10.1,
+            10.2,
+            10.12,
+            10.13,
+            9.97,
+            9.81,
+            9.95
         ],
         "rci_data": [
             85.0,
@@ -126,9 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "INFO",
-            "tag": "LIMIT",
-            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
+            "time": "19:55",
+            "tag": "MERCADO",
+            "text": "Alphabet stock trades steady as Alphabet C reports resilient ad and cloud growth"
+        },
+        {
+            "time": "19:39",
+            "tag": "AI",
+            "text": "Innodata (INOD) Stock Looks Expensive As AI Data Growth Drives Optimism"
+        },
+        {
+            "time": "19:29",
+            "tag": "MERCADO",
+            "text": "Texas Instruments (TXN) Declares Its Quarterly Dividend, Is The Stock Still Undervalued?"
+        },
+        {
+            "time": "18:30",
+            "tag": "MERCADO",
+            "text": "Is Trimble\u2019s (TRMB) Subscription Pivot Quietly Redefining Its Core Investment Story?"
+        },
+        {
+            "time": "18:17",
+            "tag": "AI",
+            "text": "Cisco stock trades steadily as investors weigh recent earnings and AI networking demand"
         }
     ]
 }
