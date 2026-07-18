@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-18 02:42 UTC",
+        "last_updated": "2026-07-18 05:29 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 202.81,
-            "change": "-3.14%"
+            "change": "-2.93%"
         },
         {
             "symbol": "AMD",
             "price": 495.76,
-            "change": "-2.83%"
+            "change": "-1.25%"
         },
         {
             "symbol": "MSFT",
             "price": 393.82,
-            "change": "-2.23%"
+            "change": "+1.02%"
         },
         {
             "symbol": "CEG",
             "price": 252.39,
-            "change": "+2.38%"
+            "change": "+0.11%"
         },
         {
             "symbol": "VST",
             "price": 155.44,
-            "change": "+1.96%"
+            "change": "-2.04%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.58,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
             0.49,
-            0.49,
             0.5,
             0.49,
             0.5,
             0.49,
-            0.49,
             0.5,
-            0.49,
             0.5,
-            0.49
+            0.51,
+            0.51,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.96,
-            24.66,
+            24.49,
+            24.94,
+            24.91,
+            25.13,
+            24.78,
+            24.79,
+            24.64,
+            24.87,
             25.05,
-            24.85,
-            25.18,
-            25.24,
-            25.46,
-            25.45,
-            25.27,
-            25.51,
-            25.02,
-            24.66
+            24.8,
+            24.73,
+            25.21
         ],
         "hsd_history_software": [
-            10.24,
-            10.07,
-            9.88,
+            9.37,
+            9.29,
+            9.48,
+            9.59,
+            9.67,
+            9.71,
+            9.87,
+            10.01,
             9.92,
-            9.85,
-            9.9,
-            9.88,
             9.73,
-            9.74,
-            9.9,
-            9.82,
-            9.95
+            9.81,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:39",
+            "time": "04:41",
             "tag": "MERCADO",
-            "text": "Wix.com (WIX) Dips More Than Broader Market: What You Should Know"
+            "text": "DDD stock trades near yearly low as 3D Systems works through restructuring and revenue decline"
         },
         {
-            "time": "01:00",
+            "time": "04:27",
             "tag": "MERCADO",
-            "text": "VivoPower (VIVO) ends Adam Traidman advisory role as focus shifts"
+            "text": "Global Payments stock trades steady as margins support valuation"
         },
         {
-            "time": "00:39",
-            "tag": "AI",
-            "text": "GoodVision AI Japan expansion tied to Calisa Acquisition (ALIS) merger plans"
+            "time": "04:26",
+            "tag": "MERCADO",
+            "text": "Teledyne Technologies stock trades steady as investors weigh recent earnings and aerospace exposure"
         },
         {
-            "time": "00:37",
+            "time": "04:21",
             "tag": "MERCADO",
-            "text": "Daily Digest: Once-public hearing aid maker Eargo folds, Coursera, Udemy merger leads to layoffs"
+            "text": "Colombia's Ecopetrol says cyberattack stole data tied to 3,300 accounts"
         },
         {
-            "time": "00:08",
+            "time": "04:03",
             "tag": "MERCADO",
-            "text": "Palantir director Alexander Moore sells over $2.1m in stock By Investing.com"
+            "text": "Tyler Technologies stock trades steadily as recurring revenue grows and public sector demand support"
         }
     ]
 }
