@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-18 14:56 UTC",
+        "last_updated": "2026-07-18 16:00 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 202.81,
-            "change": "+0.79%"
+            "change": "-2.44%"
         },
         {
             "symbol": "AMD",
             "price": 495.76,
-            "change": "+2.25%"
+            "change": "-1.73%"
         },
         {
             "symbol": "MSFT",
             "price": 393.82,
-            "change": "-1.3%"
+            "change": "-3.29%"
         },
         {
             "symbol": "CEG",
             "price": 252.39,
-            "change": "-0.15%"
+            "change": "+3.1%"
         },
         {
             "symbol": "VST",
             "price": 155.44,
-            "change": "+0.1%"
+            "change": "-1.69%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.68,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.53,
-            0.53,
-            0.54,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.54,
-            24.9,
-            25.1,
-            24.67,
-            25.11,
-            24.78,
-            25.14,
-            25.24,
-            25.48,
-            25.05,
-            24.75,
-            25.01
+            23.25,
+            22.97,
+            22.82,
+            22.83,
+            23.18,
+            23.42,
+            23.35,
+            23.76,
+            24.23,
+            24.44,
+            24.6,
+            24.66
         ],
         "hsd_history_software": [
+            10.26,
+            10.3,
+            10.22,
+            10.07,
+            10.18,
+            9.99,
+            10.02,
+            9.95,
             9.81,
-            9.71,
-            9.87,
+            9.99,
             10.01,
-            9.86,
-            9.82,
-            10.0,
-            9.96,
-            10.08,
-            10.09,
-            9.9,
-            9.9
+            10.12
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "14:33",
+            "tag": "MERCADO",
+            "text": "Crown Castle stock trades steady as small-cell demand and tower cash flows support long-term outlook"
+        },
+        {
+            "time": "14:10",
+            "tag": "MERCADO",
+            "text": "Waters stock trades steadily as recurring revenue and margins support valuation"
+        },
+        {
+            "time": "14:09",
+            "tag": "AI",
+            "text": "BigBear.ai (NYSE: BBAI) Stock Price Drops 7% In Single Session, Badly Underperforming Broader Market"
+        },
+        {
             "time": "13:55",
             "tag": "MERCADO",
             "text": "Have Insiders Sold Arista Networks Shares Recently?"
@@ -134,21 +149,6 @@
             "time": "13:45",
             "tag": "AI",
             "text": "REX AI Equity Premium Income ETF offers 36.5% yield but caps upside and may return capital."
-        },
-        {
-            "time": "13:34",
-            "tag": "MERCADO",
-            "text": "Western Digital (WDC) Revisits Kioxia Deal Talks, Is The Premium Already Priced In?"
-        },
-        {
-            "time": "13:05",
-            "tag": "AI",
-            "text": "AMD Stock Down 17% From Peak \u2014 Can July 22 Advancing AI Save It?"
-        },
-        {
-            "time": "12:56",
-            "tag": "MERCADO",
-            "text": "Agilent Technologies stock holds support as results stay in focus"
         }
     ]
 }
