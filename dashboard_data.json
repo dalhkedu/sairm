@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-18 22:53 UTC",
+        "last_updated": "2026-07-18 23:56 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 202.81,
-            "change": "+1.55%"
+            "change": "+2.64%"
         },
         {
             "symbol": "AMD",
             "price": 495.76,
-            "change": "-0.84%"
+            "change": "-0.2%"
         },
         {
             "symbol": "MSFT",
-            "price": NaN,
-            "change": "+2.87%"
+            "price": 393.82,
+            "change": "-3.03%"
         },
         {
             "symbol": "CEG",
             "price": 252.39,
-            "change": "-1.61%"
+            "change": "-2.27%"
         },
         {
             "symbol": "VST",
             "price": 155.44,
-            "change": "-3.3%"
+            "change": "-0.08%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.62,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.48,
             0.49,
-            0.5,
-            0.5,
+            0.48,
+            0.48,
             0.49,
             0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            26.03,
-            26.13,
-            25.82,
-            25.67,
-            25.18,
-            25.3,
-            25.18,
-            25.31,
-            25.34,
-            25.34,
-            25.26,
-            25.03
+            24.14,
+            24.36,
+            24.52,
+            24.43,
+            24.37,
+            24.33,
+            24.73,
+            25.11,
+            24.69,
+            24.32,
+            24.43,
+            24.55
         ],
         "hsd_history_software": [
+            9.67,
+            9.55,
+            9.41,
+            9.59,
+            9.49,
+            9.6,
             9.62,
-            9.44,
-            9.34,
-            9.48,
-            9.45,
-            9.34,
-            9.47,
+            9.46,
             9.57,
-            9.72,
-            9.85,
-            9.98,
-            10.18
+            9.57,
+            9.76,
+            9.91
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "22:25",
+            "tag": "MERCADO",
+            "text": "Gilead Stock Tops 3 GARP Picks Trading On More Measured Valuations"
+        },
+        {
+            "time": "21:56",
+            "tag": "MERCADO",
+            "text": "DRAM ETF Inflows Jump Despite Micron, Sandisk, Seagate Slump"
+        },
+        {
+            "time": "21:37",
+            "tag": "MERCADO",
+            "text": "Equinix (EQIX) Q2 2024 earnings summary"
+        },
+        {
             "time": "20:27",
             "tag": "MERCADO",
             "text": "General Dynamics Stock Leads Aerospace Defense Picks With Backlog Strength"
@@ -134,21 +149,6 @@
             "time": "19:55",
             "tag": "MERCADO",
             "text": "Alphabet stock trades steady as Alphabet C reports resilient ad and cloud growth"
-        },
-        {
-            "time": "19:39",
-            "tag": "AI",
-            "text": "Innodata (INOD) Stock Looks Expensive As AI Data Growth Drives Optimism"
-        },
-        {
-            "time": "19:37",
-            "tag": "MERCADO",
-            "text": "Equinix (EQIX) Investor Day 2025 Summary"
-        },
-        {
-            "time": "19:29",
-            "tag": "MERCADO",
-            "text": "Texas Instruments (TXN) Declares Its Quarterly Dividend, Is The Stock Still Undervalued?"
         }
     ]
 }
