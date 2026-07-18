@@ -1,37 +1,37 @@
 {
     "metadata": {
-        "last_updated": "2026-07-18 05:29 UTC",
+        "last_updated": "2026-07-18 07:55 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 202.81,
-            "change": "-2.93%"
+            "change": "-1.37%"
         },
         {
             "symbol": "AMD",
             "price": 495.76,
-            "change": "-1.25%"
+            "change": "+2.66%"
         },
         {
             "symbol": "MSFT",
             "price": 393.82,
-            "change": "+1.02%"
+            "change": "+0.67%"
         },
         {
             "symbol": "CEG",
             "price": 252.39,
-            "change": "+0.11%"
+            "change": "+1.18%"
         },
         {
             "symbol": "VST",
             "price": 155.44,
-            "change": "-2.04%"
+            "change": "+1.08%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.6,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
@@ -41,41 +41,41 @@
             0.5,
             0.49,
             0.5,
-            0.49,
             0.5,
             0.5,
             0.51,
+            0.5,
             0.51,
-            0.51,
-            0.5
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.49,
-            24.94,
-            24.91,
-            25.13,
-            24.78,
-            24.79,
-            24.64,
-            24.87,
-            25.05,
-            24.8,
-            24.73,
-            25.21
+            23.13,
+            23.25,
+            23.62,
+            23.78,
+            23.33,
+            23.14,
+            23.5,
+            23.92,
+            24.17,
+            24.16,
+            24.42,
+            24.51
         ],
         "hsd_history_software": [
-            9.37,
-            9.29,
-            9.48,
-            9.59,
-            9.67,
-            9.71,
-            9.87,
-            10.01,
-            9.92,
-            9.73,
-            9.81,
-            9.89
+            10.51,
+            10.61,
+            10.57,
+            10.45,
+            10.55,
+            10.38,
+            10.19,
+            10.36,
+            10.32,
+            10.31,
+            10.13,
+            10.14
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:41",
+            "time": "06:39",
             "tag": "MERCADO",
-            "text": "DDD stock trades near yearly low as 3D Systems works through restructuring and revenue decline"
+            "text": "T-Mobile US stock trades steadily as 5G growth supports earnings and free cash flow"
         },
         {
-            "time": "04:27",
+            "time": "06:18",
             "tag": "MERCADO",
-            "text": "Global Payments stock trades steady as margins support valuation"
+            "text": "Intuit Inc. (NASDAQ:INTU) Given Average Rating of \"Moderate Buy\" by Brokerages"
         },
         {
-            "time": "04:26",
+            "time": "06:13",
             "tag": "MERCADO",
-            "text": "Teledyne Technologies stock trades steady as investors weigh recent earnings and aerospace exposure"
+            "text": "Rep. Cleo Fields Acquires NVIDIA Corporation (NASDAQ:NVDA) Shares"
         },
         {
-            "time": "04:21",
+            "time": "06:12",
             "tag": "MERCADO",
-            "text": "Colombia's Ecopetrol says cyberattack stole data tied to 3,300 accounts"
+            "text": "Infleqtion (NYSE:INFQ) Downgraded to Strong Sell Rating by Wall Street Zen"
         },
         {
-            "time": "04:03",
+            "time": "05:46",
             "tag": "MERCADO",
-            "text": "Tyler Technologies stock trades steadily as recurring revenue grows and public sector demand support"
+            "text": "Gen Digital stock trades steadily as recent earnings and cyber demand set the tone"
         }
     ]
 }
