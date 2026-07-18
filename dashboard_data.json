@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-18 16:00 UTC",
+        "last_updated": "2026-07-18 17:56 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 202.81,
-            "change": "-2.44%"
+            "change": "+0.5%"
         },
         {
             "symbol": "AMD",
             "price": 495.76,
-            "change": "-1.73%"
+            "change": "-2.87%"
         },
         {
             "symbol": "MSFT",
             "price": 393.82,
-            "change": "-3.29%"
+            "change": "-2.88%"
         },
         {
             "symbol": "CEG",
             "price": 252.39,
-            "change": "+3.1%"
+            "change": "-1.31%"
         },
         {
             "symbol": "VST",
             "price": 155.44,
-            "change": "-1.69%"
+            "change": "+3.34%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.56,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
             0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.47,
             0.48,
             0.48,
             0.48,
             0.48,
             0.49,
-            0.49
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            23.25,
-            22.97,
-            22.82,
-            22.83,
-            23.18,
-            23.42,
-            23.35,
+            23.64,
+            23.37,
             23.76,
-            24.23,
-            24.44,
-            24.6,
-            24.66
+            24.12,
+            24.53,
+            24.97,
+            24.72,
+            24.97,
+            24.85,
+            24.8,
+            24.51,
+            24.63
         ],
         "hsd_history_software": [
-            10.26,
-            10.3,
-            10.22,
-            10.07,
-            10.18,
-            9.99,
-            10.02,
-            9.95,
-            9.81,
-            9.99,
-            10.01,
-            10.12
+            9.26,
+            9.43,
+            9.51,
+            9.63,
+            9.53,
+            9.7,
+            9.65,
+            9.74,
+            9.72,
+            9.66,
+            9.84,
+            9.97
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:33",
+            "time": "16:51",
             "tag": "MERCADO",
-            "text": "Crown Castle stock trades steady as small-cell demand and tower cash flows support long-term outlook"
+            "text": "This Emerging Markets ETF Beat the S&P 500 for 16 Years. Could It Happen Again?"
         },
         {
-            "time": "14:10",
+            "time": "16:39",
             "tag": "MERCADO",
-            "text": "Waters stock trades steadily as recurring revenue and margins support valuation"
+            "text": "CleanSpark (CLSK) Stock Looks Stretched On Sales But Reasonable On Growth"
         },
         {
-            "time": "14:09",
-            "tag": "AI",
-            "text": "BigBear.ai (NYSE: BBAI) Stock Price Drops 7% In Single Session, Badly Underperforming Broader Market"
+            "time": "16:39",
+            "tag": "RESULTADOS",
+            "text": "3M Company (NYSE:MMM) Ahead of Earnings After Securing Azure Data-Center Deal"
         },
         {
-            "time": "13:55",
+            "time": "16:34",
             "tag": "MERCADO",
-            "text": "Have Insiders Sold Arista Networks Shares Recently?"
+            "text": "The Bull Case For CleanSpark (CLSK) Could Change Following Landmark 20-Year Compute Infrastructure Lease - Learn Why"
         },
         {
-            "time": "13:45",
-            "tag": "AI",
-            "text": "REX AI Equity Premium Income ETF offers 36.5% yield but caps upside and may return capital."
+            "time": "16:26",
+            "tag": "MERCADO",
+            "text": "Fortive stock trades steadily as diversified portfolio supports earnings momentum"
         }
     ]
 }
