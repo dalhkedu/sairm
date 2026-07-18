@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-18 09:36 UTC",
+        "last_updated": "2026-07-18 11:06 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 202.81,
-            "change": "-2.13%"
+            "change": "-2.07%"
         },
         {
             "symbol": "AMD",
             "price": 495.76,
-            "change": "+3.04%"
+            "change": "+0.44%"
         },
         {
             "symbol": "MSFT",
             "price": 393.82,
-            "change": "-1.75%"
+            "change": "-3.47%"
         },
         {
             "symbol": "CEG",
             "price": 252.39,
-            "change": "+2.59%"
+            "change": "-3.4%"
         },
         {
             "symbol": "VST",
             "price": 155.44,
-            "change": "-2.28%"
+            "change": "-0.44%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.46,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.5,
+            0.5,
             0.51,
             0.51,
             0.52,
-            0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.51,
+            0.52,
             0.52,
             0.51,
-            0.51
+            0.51,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.83,
-            25.05,
-            25.26,
-            25.45,
-            25.42,
+            25.76,
+            25.41,
+            25.63,
+            25.25,
             25.38,
-            25.56,
-            25.49,
-            25.49,
-            25.71,
-            25.84,
-            25.43
+            25.62,
+            25.23,
+            25.25,
+            25.48,
+            25.09,
+            25.41,
+            25.5
         ],
         "hsd_history_software": [
-            10.51,
-            10.32,
-            10.14,
-            10.11,
+            9.85,
+            9.93,
+            9.88,
+            10.0,
+            10.08,
             10.04,
-            10.17,
-            9.98,
+            10.04,
+            10.13,
+            10.03,
             10.01,
-            9.96,
-            9.86,
-            10.01,
-            9.9
+            10.2,
+            10.06
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:53",
+            "time": "10:57",
             "tag": "MERCADO",
-            "text": "Kestra Advisory Services LLC Sells 4,403 Shares of Intuit Inc. $INTU"
+            "text": "Verisign stock trades steadily as domain growth supports earnings"
         },
         {
-            "time": "08:53",
-            "tag": "MERCADO",
-            "text": "Integrated Advisors Network LLC Sells 33,274 Shares of Amazon.com, Inc. $AMZN"
+            "time": "10:30",
+            "tag": "RESULTADOS",
+            "text": "The Bull Case For Wells Fargo (WFC) Could Change Following Earnings Beat, Dividend Hike And New Debt Issuance"
         },
         {
-            "time": "08:53",
+            "time": "10:18",
             "tag": "MERCADO",
-            "text": "Meitav Investment House Ltd. Acquires 527,246 Shares of Amazon.com, Inc. $AMZN"
+            "text": "Google Cloud Revenue Grew 63% Last Quarter. Here's Why That Number Matters More Than Alphabet's Ad Business Right Now."
         },
         {
-            "time": "08:52",
+            "time": "10:08",
             "tag": "MERCADO",
-            "text": "Principal Financial Group Inc. Increases Stock Position in Cloudflare, Inc. $NET"
+            "text": "Heartland Bank & Trust Co Increases Position in Lockheed Martin Corporation $LMT"
         },
         {
-            "time": "08:52",
+            "time": "10:07",
             "tag": "MERCADO",
-            "text": "California Public Employees Retirement System Buys 470,254 Shares of NXP Semiconductors N.V. $NXPI"
+            "text": "Norton 360 Deluxe by Gen Digital Inc. - subscription security for families"
         }
     ]
 }
