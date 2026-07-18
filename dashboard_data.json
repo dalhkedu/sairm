@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-18 07:55 UTC",
+        "last_updated": "2026-07-18 09:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 202.81,
-            "change": "-1.37%"
+            "change": "-2.13%"
         },
         {
             "symbol": "AMD",
             "price": 495.76,
-            "change": "+2.66%"
+            "change": "+3.04%"
         },
         {
             "symbol": "MSFT",
             "price": 393.82,
-            "change": "+0.67%"
+            "change": "-1.75%"
         },
         {
             "symbol": "CEG",
             "price": 252.39,
-            "change": "+1.18%"
+            "change": "+2.59%"
         },
         {
             "symbol": "VST",
             "price": 155.44,
-            "change": "+1.08%"
+            "change": "-2.28%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.49,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.5,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
             0.5,
             0.5,
             0.51,
             0.5,
             0.51,
-            0.5,
+            0.52,
+            0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            23.13,
-            23.25,
-            23.62,
-            23.78,
-            23.33,
-            23.14,
-            23.5,
-            23.92,
-            24.17,
-            24.16,
-            24.42,
-            24.51
+            24.83,
+            25.05,
+            25.26,
+            25.45,
+            25.42,
+            25.38,
+            25.56,
+            25.49,
+            25.49,
+            25.71,
+            25.84,
+            25.43
         ],
         "hsd_history_software": [
             10.51,
-            10.61,
-            10.57,
-            10.45,
-            10.55,
-            10.38,
-            10.19,
-            10.36,
             10.32,
-            10.31,
-            10.13,
-            10.14
+            10.14,
+            10.11,
+            10.04,
+            10.17,
+            9.98,
+            10.01,
+            9.96,
+            9.86,
+            10.01,
+            9.9
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:39",
+            "time": "08:53",
             "tag": "MERCADO",
-            "text": "T-Mobile US stock trades steadily as 5G growth supports earnings and free cash flow"
+            "text": "Kestra Advisory Services LLC Sells 4,403 Shares of Intuit Inc. $INTU"
         },
         {
-            "time": "06:18",
+            "time": "08:53",
             "tag": "MERCADO",
-            "text": "Intuit Inc. (NASDAQ:INTU) Given Average Rating of \"Moderate Buy\" by Brokerages"
+            "text": "Integrated Advisors Network LLC Sells 33,274 Shares of Amazon.com, Inc. $AMZN"
         },
         {
-            "time": "06:13",
+            "time": "08:53",
             "tag": "MERCADO",
-            "text": "Rep. Cleo Fields Acquires NVIDIA Corporation (NASDAQ:NVDA) Shares"
+            "text": "Meitav Investment House Ltd. Acquires 527,246 Shares of Amazon.com, Inc. $AMZN"
         },
         {
-            "time": "06:12",
+            "time": "08:52",
             "tag": "MERCADO",
-            "text": "Infleqtion (NYSE:INFQ) Downgraded to Strong Sell Rating by Wall Street Zen"
+            "text": "Principal Financial Group Inc. Increases Stock Position in Cloudflare, Inc. $NET"
         },
         {
-            "time": "05:46",
+            "time": "08:52",
             "tag": "MERCADO",
-            "text": "Gen Digital stock trades steadily as recent earnings and cyber demand set the tone"
+            "text": "California Public Employees Retirement System Buys 470,254 Shares of NXP Semiconductors N.V. $NXPI"
         }
     ]
 }
