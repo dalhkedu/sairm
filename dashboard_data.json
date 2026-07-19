@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-19 17:58 UTC",
+        "last_updated": "2026-07-19 19:18 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 202.81,
-            "change": "-2.82%"
+            "change": "-2.17%"
         },
         {
             "symbol": "AMD",
             "price": 495.76,
-            "change": "+1.19%"
+            "change": "-1.81%"
         },
         {
             "symbol": "MSFT",
             "price": 393.82,
-            "change": "-2.93%"
+            "change": "+0.73%"
         },
         {
             "symbol": "CEG",
             "price": 252.39,
-            "change": "-2.39%"
+            "change": "+0.34%"
         },
         {
             "symbol": "VST",
             "price": 155.44,
-            "change": "+2.34%"
+            "change": "-1.83%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.69,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
+            0.49,
             0.5,
             0.5,
             0.51,
             0.51,
             0.51,
-            0.51
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.99,
-            25.58,
-            25.15,
-            25.19,
-            24.88,
+            24.01,
+            23.85,
+            23.8,
+            23.59,
+            23.79,
+            24.13,
+            24.28,
+            23.96,
+            24.41,
             24.65,
-            24.82,
-            24.9,
-            24.43,
-            24.25,
-            24.21,
-            24.69
+            25.14,
+            24.9
         ],
         "hsd_history_software": [
-            10.2,
-            10.14,
-            10.32,
+            10.07,
+            9.88,
+            9.84,
+            9.99,
+            10.1,
+            9.99,
+            10.17,
+            10.0,
+            10.18,
             10.3,
-            10.31,
-            10.41,
-            10.4,
-            10.52,
-            10.5,
-            10.49,
-            10.29,
-            10.19
+            10.32,
+            10.16
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:24",
-            "tag": "MERCADO",
-            "text": "F5 stock trades steadily as revenue growth and margin focus shape the outlook"
+            "time": "18:28",
+            "tag": "AI",
+            "text": "Cisco stock holds near recent highs as AI and networking demand support valuation"
         },
         {
-            "time": "16:08",
-            "tag": "MERCADO",
-            "text": "Bronstein, Gewirtz & Grossman LLC Urges Microsoft Corporation Investors to Act: Class Action Filed Alleging Investor Harm"
+            "time": "18:20",
+            "tag": "AI",
+            "text": "BMO\u2019s New AI Life Insurance Platform Might Change The Case For Investing In Bank of Montreal (TSX:BMO)"
         },
         {
-            "time": "16:08",
+            "time": "17:42",
             "tag": "MERCADO",
-            "text": "Amazon (AMZN) Is Cutting Prices On 13,000 Grocery Items To Win More Shoppers"
+            "text": "Is Enphase Energy\u2019s (ENPH) Expanding Home Ecosystem Quietly Redefining Its Residential Electrification Role?"
         },
         {
-            "time": "16:00",
+            "time": "17:38",
             "tag": "MERCADO",
-            "text": "Bronstein, Gewirtz & Grossman LLC Urges Microsoft Corporation Investors to Act: Class Action Filed Alleging Investor Harm"
+            "text": "Why Netflix Stock Fell This Past Week"
         },
         {
-            "time": "16:00",
-            "tag": "MERCADO",
-            "text": "The Enphase IQ Battery 5P - Enphase bets on modular home storage"
+            "time": "17:10",
+            "tag": "AI",
+            "text": "About one-third of Coloradans use AI, Microsoft report finds"
         }
     ]
 }
