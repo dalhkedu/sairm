@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-18 23:56 UTC",
+        "last_updated": "2026-07-19 03:24 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 202.81,
-            "change": "+2.64%"
+            "change": "-0.4%"
         },
         {
             "symbol": "AMD",
             "price": 495.76,
-            "change": "-0.2%"
+            "change": "-1.58%"
         },
         {
             "symbol": "MSFT",
-            "price": 393.82,
-            "change": "-3.03%"
+            "price": NaN,
+            "change": "+0.06%"
         },
         {
             "symbol": "CEG",
             "price": 252.39,
-            "change": "-2.27%"
+            "change": "+0.18%"
         },
         {
             "symbol": "VST",
             "price": 155.44,
-            "change": "-0.08%"
+            "change": "+0.78%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.53,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
+            0.51,
+            0.5,
+            0.5,
             0.49,
-            0.48,
-            0.48,
             0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.14,
-            24.36,
-            24.52,
-            24.43,
-            24.37,
-            24.33,
-            24.73,
-            25.11,
-            24.69,
-            24.32,
-            24.43,
-            24.55
+            24.76,
+            24.8,
+            25.22,
+            25.27,
+            25.08,
+            25.1,
+            25.52,
+            25.21,
+            25.37,
+            24.9,
+            24.54,
+            24.76
         ],
         "hsd_history_software": [
-            9.67,
-            9.55,
-            9.41,
-            9.59,
-            9.49,
-            9.6,
-            9.62,
-            9.46,
-            9.57,
-            9.57,
-            9.76,
-            9.91
+            9.65,
+            9.75,
+            9.81,
+            9.88,
+            9.82,
+            9.72,
+            9.81,
+            9.92,
+            9.99,
+            10.18,
+            10.0,
+            9.85
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:25",
+            "time": "01:56",
             "tag": "MERCADO",
-            "text": "Gilead Stock Tops 3 GARP Picks Trading On More Measured Valuations"
+            "text": "Mettler-Toledo stock trades steadily as margin focus follows recent earnings"
         },
         {
-            "time": "21:56",
+            "time": "01:30",
             "tag": "MERCADO",
-            "text": "DRAM ETF Inflows Jump Despite Micron, Sandisk, Seagate Slump"
+            "text": "Did Eaton\u2019s (ETN) FranklinWH Smart Breaker Deal Just Rewire Its Home-as-a-Grid Narrative?"
         },
         {
-            "time": "21:37",
+            "time": "01:28",
             "tag": "MERCADO",
-            "text": "Equinix (EQIX) Q2 2024 earnings summary"
+            "text": "F5 stock trades steadily as recurring software revenue supports margins"
         },
         {
-            "time": "20:27",
+            "time": "01:08",
             "tag": "MERCADO",
-            "text": "General Dynamics Stock Leads Aerospace Defense Picks With Backlog Strength"
+            "text": "Is Paycom (PAYC) Turning Asset Management Automation Into a New Edge in HCM Software?"
         },
         {
-            "time": "19:55",
+            "time": "01:07",
             "tag": "MERCADO",
-            "text": "Alphabet stock trades steady as Alphabet C reports resilient ad and cloud growth"
+            "text": "ADP stock trades steadily as recurring payroll revenue supports earnings"
         }
     ]
 }
