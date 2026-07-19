@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-19 19:18 UTC",
+        "last_updated": "2026-07-19 20:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 202.81,
-            "change": "-2.17%"
+            "change": "+2.38%"
         },
         {
             "symbol": "AMD",
-            "price": 495.76,
-            "change": "-1.81%"
+            "price": NaN,
+            "change": "+3.19%"
         },
         {
             "symbol": "MSFT",
             "price": 393.82,
-            "change": "+0.73%"
+            "change": "-3.42%"
         },
         {
             "symbol": "CEG",
             "price": 252.39,
-            "change": "+0.34%"
+            "change": "+0.57%"
         },
         {
             "symbol": "VST",
             "price": 155.44,
-            "change": "-1.83%"
+            "change": "+0.78%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.46,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
             0.49,
             0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.01,
-            23.85,
-            23.8,
-            23.59,
-            23.79,
-            24.13,
-            24.28,
-            23.96,
-            24.41,
-            24.65,
-            25.14,
-            24.9
+            25.48,
+            25.0,
+            24.91,
+            24.99,
+            25.44,
+            25.02,
+            25.32,
+            25.57,
+            25.91,
+            25.49,
+            25.01,
+            25.45
         ],
         "hsd_history_software": [
-            10.07,
-            9.88,
-            9.84,
+            10.12,
+            10.26,
+            10.15,
             9.99,
-            10.1,
+            9.98,
+            9.94,
+            9.97,
             9.99,
-            10.17,
-            10.0,
-            10.18,
-            10.3,
-            10.32,
-            10.16
+            10.09,
+            9.97,
+            9.91,
+            10.08
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:28",
-            "tag": "AI",
-            "text": "Cisco stock holds near recent highs as AI and networking demand support valuation"
+            "time": "19:37",
+            "tag": "RESULTADOS",
+            "text": "Innodata (INOD) Could Be 51% Undervalued Following August Earnings Focus"
         },
         {
-            "time": "18:20",
-            "tag": "AI",
-            "text": "BMO\u2019s New AI Life Insurance Platform Might Change The Case For Investing In Bank of Montreal (TSX:BMO)"
-        },
-        {
-            "time": "17:42",
+            "time": "19:11",
             "tag": "MERCADO",
-            "text": "Is Enphase Energy\u2019s (ENPH) Expanding Home Ecosystem Quietly Redefining Its Residential Electrification Role?"
+            "text": "Quantum Computing Stocks To Follow Today - July 19th"
         },
         {
-            "time": "17:38",
-            "tag": "MERCADO",
-            "text": "Why Netflix Stock Fell This Past Week"
-        },
-        {
-            "time": "17:10",
+            "time": "19:10",
             "tag": "AI",
-            "text": "About one-third of Coloradans use AI, Microsoft report finds"
+            "text": "Alphabet C stock trades near record levels as strong AI and cloud growth underpin valuation"
+        },
+        {
+            "time": "18:56",
+            "tag": "CRYPTO",
+            "text": "T. Rowe Price Launches Actively Managed Multi-Token Crypto ETP"
+        },
+        {
+            "time": "18:48",
+            "tag": "MERCADO",
+            "text": "Analog Devices maps the semiconductor case for physical intelligence in industrial automation"
         }
     ]
 }
