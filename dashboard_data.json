@@ -1,43 +1,45 @@
 {
     "metadata": {
-        "last_updated": "2026-07-19 16:02 UTC",
+        "last_updated": "2026-07-19 17:58 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 202.81,
-            "change": "-2.07%"
+            "change": "-2.82%"
         },
         {
             "symbol": "AMD",
             "price": 495.76,
-            "change": "-2.0%"
+            "change": "+1.19%"
         },
         {
             "symbol": "MSFT",
             "price": 393.82,
-            "change": "-1.54%"
+            "change": "-2.93%"
         },
         {
             "symbol": "CEG",
             "price": 252.39,
-            "change": "-2.62%"
+            "change": "-2.39%"
         },
         {
             "symbol": "VST",
             "price": 155.44,
-            "change": "-1.07%"
+            "change": "+2.34%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.58,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
+            0.52,
+            0.52,
+            0.51,
+            0.52,
             0.51,
             0.51,
             0.5,
@@ -45,37 +47,35 @@
             0.51,
             0.51,
             0.51,
-            0.5,
-            0.49,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            24.62,
-            24.46,
-            24.27,
-            24.71,
-            24.95,
-            24.87,
-            24.41,
-            24.87,
-            25.12,
-            25.04,
-            24.73,
-            24.54
+            25.99,
+            25.58,
+            25.15,
+            25.19,
+            24.88,
+            24.65,
+            24.82,
+            24.9,
+            24.43,
+            24.25,
+            24.21,
+            24.69
         ],
         "hsd_history_software": [
-            10.04,
-            9.88,
-            10.04,
-            10.18,
-            10.28,
+            10.2,
             10.14,
-            10.23,
-            10.12,
-            9.93,
-            9.87,
-            9.93,
-            9.81
+            10.32,
+            10.3,
+            10.31,
+            10.41,
+            10.4,
+            10.52,
+            10.5,
+            10.49,
+            10.29,
+            10.19
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:28",
+            "time": "16:24",
             "tag": "MERCADO",
-            "text": "Leidos stock trades steady as defense and civil revenues support margins"
+            "text": "F5 stock trades steadily as revenue growth and margin focus shape the outlook"
         },
         {
-            "time": "15:22",
+            "time": "16:08",
             "tag": "MERCADO",
-            "text": "Paycom Software stock trades steady as cloud payroll provider builds on 2024 margin gains"
+            "text": "Bronstein, Gewirtz & Grossman LLC Urges Microsoft Corporation Investors to Act: Class Action Filed Alleging Investor Harm"
         },
         {
-            "time": "15:00",
+            "time": "16:08",
             "tag": "MERCADO",
-            "text": "Super Micro Computer (NASDAQ:SMCI) trades 12% beneath June's offer as funding concerns mount"
+            "text": "Amazon (AMZN) Is Cutting Prices On 13,000 Grocery Items To Win More Shoppers"
         },
         {
-            "time": "14:51",
+            "time": "16:00",
             "tag": "MERCADO",
-            "text": "Akamai Technologies stock holds recent gains as security and cloud revenue support valuation"
+            "text": "Bronstein, Gewirtz & Grossman LLC Urges Microsoft Corporation Investors to Act: Class Action Filed Alleging Investor Harm"
         },
         {
-            "time": "14:40",
+            "time": "16:00",
             "tag": "MERCADO",
-            "text": "Blackbaud (BLKB) Q3 2025 earnings summary"
+            "text": "The Enphase IQ Battery 5P - Enphase bets on modular home storage"
         }
     ]
 }
