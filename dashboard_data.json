@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-19 22:55 UTC",
+        "last_updated": "2026-07-20 00:01 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 202.81,
-            "change": "+1.22%"
+            "change": "+1.78%"
         },
         {
             "symbol": "AMD",
             "price": 495.76,
-            "change": "+2.84%"
+            "change": "-0.09%"
         },
         {
             "symbol": "MSFT",
             "price": 393.82,
-            "change": "-3.1%"
+            "change": "-1.34%"
         },
         {
             "symbol": "CEG",
             "price": 252.39,
-            "change": "-0.45%"
+            "change": "+3.47%"
         },
         {
             "symbol": "VST",
             "price": 155.44,
-            "change": "-0.69%"
+            "change": "-0.34%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.56,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
+            0.5,
             0.5,
             0.5,
             0.51,
-            0.51,
-            0.51,
-            0.51
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
+            24.62,
+            24.51,
+            24.12,
+            24.6,
+            24.35,
+            23.94,
+            24.37,
+            24.63,
+            24.88,
+            25.09,
             24.78,
-            24.56,
-            24.29,
-            24.29,
-            23.99,
-            24.13,
-            24.53,
-            24.65,
-            24.43,
-            24.5,
-            24.76,
-            25.25
+            24.51
         ],
         "hsd_history_software": [
-            9.68,
-            9.75,
+            10.59,
+            10.61,
+            10.52,
+            10.35,
+            10.46,
+            10.49,
+            10.32,
+            10.13,
+            10.0,
             9.93,
-            10.06,
-            10.24,
-            10.31,
-            10.14,
-            10.01,
-            10.21,
-            10.22,
-            10.22,
-            10.13
+            10.0,
+            10.16
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:46",
+            "time": "22:00",
             "tag": "MERCADO",
-            "text": "West Side Tractor Demonstrates John Deere P-Tier Machines : CEG"
+            "text": "Trump Media Settles Legal Disputes"
         },
         {
-            "time": "20:42",
+            "time": "21:31",
             "tag": "MERCADO",
-            "text": "LandBridge Company LLC (LB) Leadership & Management Team Analysis"
+            "text": "SpaceX's IPO Lockup Starts Expiring in August. Here's Why the Next Wave of Sellers Could Be the Real Test."
         },
         {
-            "time": "20:37",
-            "tag": "MERCADO",
-            "text": "Lobbying Update: $110,000 of CISCO SYSTEMS INC. lobbying was just disclosed"
-        },
-        {
-            "time": "20:15",
+            "time": "20:23",
             "tag": "AI",
-            "text": "Netflix Reveals the Staggering Price of Its AI Deal With Ben Affleck"
+            "text": "Alphabet's Gemini 3.5 Pro Is Late and the Stock Is Slipping. Is the AI Leader Falling Behind?"
         },
         {
-            "time": "20:10",
+            "time": "18:53",
             "tag": "MERCADO",
-            "text": "Apple\u2019s scrapped Mac Pro plans reportedly included a new Intel model"
+            "text": "If You'd Put $10,000 in Palantir at Its IPO, Here's What You'd Have Now -- Even After a 37% Drop"
+        },
+        {
+            "time": "18:24",
+            "tag": "MERCADO",
+            "text": "Is Apple Still a Buy at Its All-Time High?"
         }
     ]
 }
