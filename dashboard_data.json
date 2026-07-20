@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-20 08:07 UTC",
+        "last_updated": "2026-07-20 11:46 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 202.81,
-            "change": "+0.44%"
+            "change": "+2.14%"
         },
         {
             "symbol": "AMD",
             "price": 495.76,
-            "change": "+1.01%"
+            "change": "+0.09%"
         },
         {
             "symbol": "MSFT",
             "price": 393.82,
-            "change": "-1.28%"
+            "change": "-2.02%"
         },
         {
             "symbol": "CEG",
             "price": 252.39,
-            "change": "+1.83%"
+            "change": "+0.78%"
         },
         {
             "symbol": "VST",
             "price": 155.44,
-            "change": "-2.74%"
+            "change": "+3.02%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.69,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
+            0.48,
+            0.48,
             0.49,
             0.49,
             0.5,
-            0.5,
-            0.5,
-            0.5
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.28,
-            24.65,
-            25.15,
-            25.52,
-            25.78,
-            25.36,
-            25.12,
-            25.61,
-            25.34,
-            25.49,
-            25.49,
-            25.01
+            23.82,
+            24.26,
+            24.58,
+            24.4,
+            24.41,
+            24.73,
+            25.19,
+            25.02,
+            25.35,
+            25.19,
+            25.07,
+            25.25
         ],
         "hsd_history_software": [
-            10.45,
-            10.47,
-            10.6,
-            10.58,
-            10.51,
-            10.33,
             10.28,
-            10.19,
-            10.11,
-            10.07,
-            10.12,
-            9.96
+            10.34,
+            10.38,
+            10.49,
+            10.4,
+            10.21,
+            10.1,
+            9.99,
+            9.96,
+            10.15,
+            10.0,
+            10.04
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:39",
+            "time": "11:10",
             "tag": "MERCADO",
-            "text": "Verisign stock rises on steady domain growth"
+            "text": "PLDT REIT IPO could get boost as PH keeps sensitive data local"
         },
         {
-            "time": "07:35",
+            "time": "11:02",
+            "tag": "AI",
+            "text": "Bristol Myers Squibb Building Life Science Industry\u2019s Most Advanced AI Factory on NVIDIA Vera Rubin"
+        },
+        {
+            "time": "11:02",
+            "tag": "AI",
+            "text": "Bristol Myers buys Nvidia's latest AI computing system for drug research"
+        },
+        {
+            "time": "11:00",
             "tag": "MERCADO",
-            "text": "CLSA initiates ServiceNow stock with underperform on valuation concerns By Investing.com"
+            "text": "DA Davidson cuts ServiceNow stock price target on valuation By Investing.com"
         },
         {
-            "time": "07:22",
-            "tag": "AI",
-            "text": "AIA Group Ltd Boosts Holdings in Fidelity National Information Services, Inc. $FIS"
-        },
-        {
-            "time": "07:22",
-            "tag": "AI",
-            "text": "AIA Group Ltd Has $4.65 Million Position in EPAM Systems, Inc. $EPAM"
-        },
-        {
-            "time": "07:17",
-            "tag": "AI",
-            "text": "Cisco stock trades steady as investors weigh AI-driven networking demand and recent earnings"
+            "time": "10:54",
+            "tag": "MERCADO",
+            "text": "Parsons wins $33M New York traffic management contract"
         }
     ]
 }
