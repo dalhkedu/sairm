@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-21 03:32 UTC",
+        "last_updated": "2026-07-21 06:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 203.28,
-            "change": "-1.02%"
+            "change": "-0.21%"
         },
         {
             "symbol": "AMD",
             "price": 503.57,
-            "change": "-0.46%"
+            "change": "+2.13%"
         },
         {
             "symbol": "MSFT",
             "price": 402.29,
-            "change": "+1.9%"
+            "change": "+3.38%"
         },
         {
             "symbol": "CEG",
             "price": 253.5,
-            "change": "-1.26%"
+            "change": "+0.86%"
         },
         {
             "symbol": "VST",
             "price": 157.99,
-            "change": "-1.71%"
+            "change": "+1.34%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.42,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.53,
-            0.53,
-            0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.44,
-            24.69,
-            24.62,
-            24.55,
-            24.19,
-            24.47,
-            24.64,
-            24.44,
-            24.34,
-            24.48,
-            24.34,
-            24.77
+            25.81,
+            26.26,
+            26.32,
+            26.04,
+            25.7,
+            26.06,
+            25.9,
+            26.23,
+            26.02,
+            25.6,
+            25.26,
+            25.19
         ],
         "hsd_history_software": [
-            10.1,
-            9.93,
-            10.11,
-            10.09,
-            10.03,
-            10.09,
-            10.18,
-            10.1,
-            10.09,
-            10.27,
-            10.22,
-            10.06
+            9.47,
+            9.52,
+            9.65,
+            9.76,
+            9.67,
+            9.53,
+            9.61,
+            9.66,
+            9.84,
+            9.79,
+            9.91,
+            10.02
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:38",
+            "time": "05:31",
             "tag": "MERCADO",
-            "text": "NVDA, AVGO Offer Best Value Among Chip Stocks Amid Recent Sell-Off, Says Morgan Stanley \u2014 Sees 'Compelling Entry Point' In Memory Stocks"
+            "text": "KOSPI rebounds as chipmakers recover; Morgan Stanley says correction nears bottom"
         },
         {
-            "time": "02:35",
+            "time": "05:13",
             "tag": "MERCADO",
-            "text": "Former Airbnb executive Tara Bunch joins Royal Caribbean board"
+            "text": "NetApp (NASDAQ:NTAP) Upgraded at Wall Street Zen"
         },
         {
-            "time": "02:34",
-            "tag": "AI",
-            "text": "Palo Alto Networks (PANW) Is Up 5.6% After Highlighting Rising AI-Driven Security Demand Has The Bull Case Changed?"
-        },
-        {
-            "time": "02:30",
-            "tag": "AI",
-            "text": "ServiceNow (NOW) Expands AI Partnerships As Fair Value Debate Heats Up"
-        },
-        {
-            "time": "02:20",
+            "time": "05:12",
             "tag": "MERCADO",
-            "text": "Fortive stock trades steadily as recurring revenue and margin expansion underpin valuation"
+            "text": "Asian Steel Pressured in Q3; Future of ATJ Sustainable Aviation Fuel; and the NCTC's Role in Pay TV"
+        },
+        {
+            "time": "05:11",
+            "tag": "MERCADO",
+            "text": "CSEX ETF Profile: Dividends, Returns (BOATS:CSEX)"
+        },
+        {
+            "time": "05:11",
+            "tag": "MERCADO",
+            "text": "Comcast Appoints Steven Keller as Senior Vice President of Greater Chicago Region"
         }
     ]
 }
