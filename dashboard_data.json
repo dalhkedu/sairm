@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-21 06:30 UTC",
+        "last_updated": "2026-07-21 09:28 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 203.28,
-            "change": "-0.21%"
+            "change": "+2.87%"
         },
         {
             "symbol": "AMD",
             "price": 503.57,
-            "change": "+2.13%"
+            "change": "+0.83%"
         },
         {
             "symbol": "MSFT",
             "price": 402.29,
-            "change": "+3.38%"
+            "change": "+0.73%"
         },
         {
             "symbol": "CEG",
             "price": 253.5,
-            "change": "+0.86%"
+            "change": "+1.47%"
         },
         {
             "symbol": "VST",
             "price": 157.99,
-            "change": "+1.34%"
+            "change": "-0.9%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.46,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
+            0.5,
             0.49,
             0.49,
             0.5,
             0.5,
+            0.51,
+            0.51,
+            0.51,
             0.5,
-            0.49,
-            0.5
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.81,
-            26.26,
-            26.32,
-            26.04,
-            25.7,
-            26.06,
-            25.9,
-            26.23,
+            26.37,
             26.02,
-            25.6,
-            25.26,
-            25.19
+            26.0,
+            25.54,
+            25.65,
+            25.91,
+            26.06,
+            25.55,
+            25.1,
+            25.35,
+            25.51,
+            25.34
         ],
         "hsd_history_software": [
-            9.47,
-            9.52,
-            9.65,
-            9.76,
-            9.67,
-            9.53,
-            9.61,
-            9.66,
-            9.84,
-            9.79,
+            9.41,
+            9.54,
+            9.39,
+            9.57,
+            9.68,
+            9.71,
+            9.82,
+            9.89,
             9.91,
-            10.02
+            9.9,
+            10.03,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:31",
+            "time": "08:38",
             "tag": "MERCADO",
-            "text": "KOSPI rebounds as chipmakers recover; Morgan Stanley says correction nears bottom"
+            "text": "Guarantor: JPMorgan Chase & Co."
         },
         {
-            "time": "05:13",
+            "time": "08:37",
             "tag": "MERCADO",
-            "text": "NetApp (NASDAQ:NTAP) Upgraded at Wall Street Zen"
+            "text": "This T-Mobile fiber deal delivers a free month plus a $100 bonus \u2014 how to claim this limited-time offer"
         },
         {
-            "time": "05:12",
+            "time": "08:29",
             "tag": "MERCADO",
-            "text": "Asian Steel Pressured in Q3; Future of ATJ Sustainable Aviation Fuel; and the NCTC's Role in Pay TV"
+            "text": "Analog Devices, Inc. $ADI Holdings Lowered by Glenview Trust Co"
         },
         {
-            "time": "05:11",
+            "time": "08:29",
             "tag": "MERCADO",
-            "text": "CSEX ETF Profile: Dividends, Returns (BOATS:CSEX)"
+            "text": "Glenview Trust Co Purchases 12,512 Shares of NXP Semiconductors N.V. $NXPI"
         },
         {
-            "time": "05:11",
+            "time": "08:29",
             "tag": "MERCADO",
-            "text": "Comcast Appoints Steven Keller as Senior Vice President of Greater Chicago Region"
+            "text": "Intuit Inc. $INTU Shares Acquired by Glenview Trust Co"
         }
     ]
 }
