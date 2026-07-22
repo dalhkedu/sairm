@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-22 10:27 UTC",
+        "last_updated": "2026-07-22 12:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 207.29,
-            "change": "+3.26%"
+            "change": "+3.19%"
         },
         {
             "symbol": "AMD",
             "price": 544.43,
-            "change": "-2.51%"
+            "change": "-0.7%"
         },
         {
             "symbol": "MSFT",
             "price": 397.75,
-            "change": "+0.53%"
+            "change": "+1.24%"
         },
         {
             "symbol": "CEG",
             "price": 262.22,
-            "change": "-0.43%"
+            "change": "+2.39%"
         },
         {
             "symbol": "VST",
             "price": 162.33,
-            "change": "+0.42%"
+            "change": "-2.83%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.58,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.51,
             0.52,
             0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.52,
             0.51,
             0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
             0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            24.65,
-            25.12,
-            24.75,
-            24.54,
-            24.1,
-            24.26,
-            24.63,
-            24.92,
-            24.78,
-            24.4,
-            24.88,
-            25.08
+            24.53,
+            24.52,
+            24.94,
+            24.57,
+            24.99,
+            24.9,
+            25.07,
+            24.87,
+            24.86,
+            24.57,
+            24.98,
+            25.32
         ],
         "hsd_history_software": [
-            9.87,
-            9.7,
-            9.56,
-            9.63,
-            9.69,
-            9.85,
-            9.91,
-            9.86,
-            9.79,
-            9.97,
+            10.0,
             10.11,
-            10.01
+            10.18,
+            10.04,
+            9.88,
+            9.77,
+            9.92,
+            10.05,
+            10.01,
+            10.16,
+            10.3,
+            10.17
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:38",
-            "tag": "MERCADO",
-            "text": "Truist Financial Maintains NVIDIA(NVDA.US) With Buy Rating"
+            "time": "12:01",
+            "tag": "AI",
+            "text": "Agentic AI and Machine Identity Lead Agenda as Gartner Tokyo Security Summit Opens"
         },
         {
-            "time": "09:27",
+            "time": "11:35",
             "tag": "MERCADO",
-            "text": "KBC Group NV Boosts Holdings in NXP Semiconductors N.V. $NXPI"
+            "text": "Garmin Acquires TrainingPeaks and TrainHeroic"
         },
         {
-            "time": "09:20",
-            "tag": "MERCADO",
-            "text": "American Express expands B2B payments tools"
+            "time": "11:33",
+            "tag": "AI",
+            "text": "Bank of Montreal (TSX:BMO) Could Be 10% Above Fair Value As Bond Issues And AI Rollout Land"
         },
         {
-            "time": "09:15",
+            "time": "11:28",
             "tag": "MERCADO",
-            "text": "KBC Group NV Grows Position in Microchip Technology Incorporated $MCHP"
+            "text": "Johnson & Johnson wins FDA nod for Ottava surgical robot"
         },
         {
-            "time": "09:10",
+            "time": "11:27",
             "tag": "MERCADO",
-            "text": "Swiss National Bank Buys 22,400 Shares of Leidos Holdings, Inc. $LDOS"
+            "text": "T-Mobile US stock trades near record territory as 2025 guidance highlights continued 5G momentum"
         }
     ]
 }
