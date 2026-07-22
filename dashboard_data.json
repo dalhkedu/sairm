@@ -1,48 +1,48 @@
 {
     "metadata": {
-        "last_updated": "2026-07-22 00:00 UTC",
+        "last_updated": "2026-07-22 04:18 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 207.29,
-            "change": "+1.67%"
+            "change": "+3.47%"
         },
         {
             "symbol": "AMD",
             "price": 544.43,
-            "change": "-3.22%"
+            "change": "-2.6%"
         },
         {
             "symbol": "MSFT",
             "price": 397.75,
-            "change": "+2.14%"
+            "change": "+3.45%"
         },
         {
             "symbol": "CEG",
             "price": 262.22,
-            "change": "+0.85%"
+            "change": "-0.48%"
         },
         {
             "symbol": "VST",
             "price": 162.33,
-            "change": "+1.62%"
+            "change": "-0.07%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.5,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.55,
-            0.55,
-            0.53,
-            0.53,
-            0.53,
+            0.52,
             0.52,
             0.51,
+            0.51,
+            0.5,
+            0.51,
+            0.5,
             0.51,
             0.51,
             0.5,
@@ -50,32 +50,32 @@
             0.5
         ],
         "hsd_history_hardware": [
-            25.44,
-            25.91,
-            25.51,
-            25.08,
-            24.6,
-            24.69,
-            24.97,
-            25.08,
-            24.85,
-            25.17,
+            24.47,
+            24.07,
+            23.84,
+            24.04,
+            24.25,
+            24.72,
             24.95,
-            24.82
+            24.67,
+            24.31,
+            24.54,
+            24.9,
+            24.88
         ],
         "hsd_history_software": [
-            10.15,
-            10.04,
-            10.24,
-            10.1,
-            10.25,
-            10.42,
-            10.24,
-            10.31,
-            10.25,
-            10.16,
-            10.1,
-            10.01
+            9.3,
+            9.48,
+            9.67,
+            9.84,
+            9.87,
+            9.95,
+            9.87,
+            9.89,
+            9.82,
+            9.99,
+            9.94,
+            10.04
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "23:04",
-            "tag": "MERCADO",
-            "text": "A developer wants to turn three Lorain County industrial buildings into a data center campus"
-        },
-        {
-            "time": "23:03",
-            "tag": "MERCADO",
-            "text": "Intuit Inc. (INTU) Investors: September 9, 2026, Deadline in Securities Fraud Class Action Lawsuit \u2013 Contact Kessler Topaz Meltzer & Check, LLP"
-        },
-        {
-            "time": "22:39",
-            "tag": "MERCADO",
-            "text": "MKS Instruments stock trades steady as recent earnings and demand trends frame the outlook"
-        },
-        {
-            "time": "22:35",
+            "time": "03:40",
             "tag": "RESULTADOS",
-            "text": "Roper Technologies (ROP) Stock Looks Reasonable On Earnings While Cash Flow Suggests More"
+            "text": "Applied Optoelectronics (AAOI) Soars 15.8% Ahead of Earnings; Hedge Fund Holdings More Than Triple"
         },
         {
-            "time": "22:34",
+            "time": "03:40",
             "tag": "AI",
-            "text": "How Investors Are Reacting To Texas Instruments (TXN) Dividend Affirmation Amid AI Chip Demand Optimism"
+            "text": "Change Agents Corp. (CHGA) Unveils Strategic Shift to Agentic AI SaaS Platforms and Rebrands from Avalon GloboCare \u2013 Minichart"
+        },
+        {
+            "time": "03:31",
+            "tag": "MERCADO",
+            "text": "Elon Musk Says Traffic Will Get Worse With Robot Cars, Reaffirms Tesla FSD Will Remember Individual Preferences"
+        },
+        {
+            "time": "03:11",
+            "tag": "AI",
+            "text": "Powerfleet (NASDAQ: AIOT) adds Michael Casey to board, names him audit chair"
+        },
+        {
+            "time": "03:10",
+            "tag": "MERCADO",
+            "text": "Vision Marine Technologies Announces Next Phase of Its Marine Technology Strategy"
         }
     ]
 }
