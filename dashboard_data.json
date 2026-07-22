@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-07-22 15:05 UTC",
+        "last_updated": "2026-07-22 17:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 210.15,
-            "change": "-0.71%"
+            "price": 213.23,
+            "change": "-3.42%"
         },
         {
             "symbol": "AMD",
-            "price": 555.77,
-            "change": "+0.25%"
+            "price": 556.1,
+            "change": "-2.69%"
         },
         {
             "symbol": "MSFT",
-            "price": 389.35,
-            "change": "-2.79%"
+            "price": 387.41,
+            "change": "-1.17%"
         },
         {
             "symbol": "CEG",
-            "price": 271.45,
-            "change": "-2.08%"
+            "price": 272.1,
+            "change": "-0.64%"
         },
         {
             "symbol": "VST",
-            "price": 166.03,
-            "change": "-0.45%"
+            "price": 166.94,
+            "change": "+3.21%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.62,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
-            0.52,
+            0.5,
             0.51,
             0.51,
             0.5,
-            0.51,
-            0.52,
-            0.52,
+            0.5,
+            0.5,
             0.51,
             0.5,
+            0.49,
+            0.49,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            25.24,
-            25.54,
-            25.08,
-            24.62,
-            25.0,
-            25.32,
-            25.03,
-            24.8,
-            24.99,
-            25.5,
-            25.5,
-            25.37
+            26.52,
+            26.86,
+            26.8,
+            26.41,
+            26.21,
+            25.84,
+            25.46,
+            25.51,
+            25.61,
+            25.41,
+            25.11,
+            25.3
         ],
         "hsd_history_software": [
-            9.98,
-            9.82,
-            9.88,
-            9.96,
-            9.87,
-            9.94,
-            9.77,
-            9.88,
-            10.05,
-            10.14,
-            10.19,
-            10.01
+            9.31,
+            9.48,
+            9.43,
+            9.56,
+            9.74,
+            9.93,
+            10.04,
+            10.15,
+            10.03,
+            10.03,
+            9.99,
+            10.02
         ],
         "rci_data": [
             85.0,
-            21.015
+            21.323
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:39",
-            "tag": "AI",
-            "text": "Upwork faces earnings test as revenue slides amid AI push By Investing.com"
-        },
-        {
-            "time": "14:34",
+            "time": "16:38",
             "tag": "MERCADO",
-            "text": "Johnson & Johnson Stock (JNJ) Rises as Robotic Surgery Device Is Approved"
+            "text": "Micron jumps 12% on BofA note, chip rally (MU:NASDAQ)"
         },
         {
-            "time": "14:27",
+            "time": "16:30",
             "tag": "MERCADO",
-            "text": "NBA\u00ae 2K27 Cover Athletes Revealed: Victor Wembanyama, Caitlin Clark, and Derrick Rose"
+            "text": "Teradyne Stock Jumped 12% in a Day as Targets Hit $500. Here\u2019s Where the Stock Could Go in 2026"
         },
         {
-            "time": "14:26",
-            "tag": "RESULTADOS",
-            "text": "Earnings call transcript: Moody\u2019s tops Q2 2026 estimates on strong demand"
-        },
-        {
-            "time": "14:23",
+            "time": "16:18",
             "tag": "MERCADO",
-            "text": "Qualcomm shares may move 8.2% on earnings release next week By Investing.com"
+            "text": "Revvity to Launch Signals for Startups for Emerging Biotech Companies"
+        },
+        {
+            "time": "16:15",
+            "tag": "MERCADO",
+            "text": "Salesforce Inc Stock (CRM) Moved Down by 3.33% on Jul 22: Facts Behind the Movement"
+        },
+        {
+            "time": "16:13",
+            "tag": "MERCADO",
+            "text": "Tesla beat on deliveries. Can it convince investors on spending?"
         }
     ]
 }
