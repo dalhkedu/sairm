@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-22 21:11 UTC",
+        "last_updated": "2026-07-22 23:06 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 212.06,
-            "change": "+0.4%"
+            "change": "+0.72%"
         },
         {
             "symbol": "AMD",
             "price": 552.33,
-            "change": "+3.35%"
+            "change": "-1.38%"
         },
         {
             "symbol": "MSFT",
             "price": 390.34,
-            "change": "+0.29%"
+            "change": "+2.28%"
         },
         {
             "symbol": "CEG",
             "price": 274.9,
-            "change": "+3.48%"
+            "change": "+2.4%"
         },
         {
             "symbol": "VST",
             "price": 166.74,
-            "change": "-2.79%"
+            "change": "+3.2%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.65,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
+            0.46,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
             0.48,
-            0.49,
+            0.48,
+            0.48,
             0.49
         ],
         "hsd_history_hardware": [
-            24.83,
-            24.98,
-            25.22,
-            25.03,
-            25.17,
-            25.28,
-            25.69,
-            25.7,
-            25.44,
-            24.98,
-            24.59,
-            25.0
+            24.33,
+            24.65,
+            24.8,
+            24.86,
+            24.42,
+            24.5,
+            24.09,
+            23.78,
+            23.95,
+            23.73,
+            24.18,
+            24.56
         ],
         "hsd_history_software": [
-            10.1,
-            9.99,
+            9.88,
             9.97,
+            10.14,
+            9.96,
+            9.98,
+            9.93,
+            9.86,
+            9.9,
+            9.77,
             9.8,
-            9.67,
-            9.64,
-            9.62,
-            9.75,
-            9.94,
-            9.82,
-            9.76,
-            9.95
+            9.65,
+            9.84
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:37",
-            "tag": "MERCADO",
-            "text": "Texas Instruments Posts Higher Second-Quarter Profit, Revenue as Sales Increase"
-        },
-        {
-            "time": "20:33",
+            "time": "22:32",
             "tag": "AI",
-            "text": "Generac rated overweight by Cantor Fitzgerald on AI data centers"
+            "text": "Is Microchip Technology (MCHP) A Bargain Following New Industrial And AI Product Launches?"
         },
         {
-            "time": "20:33",
+            "time": "22:31",
             "tag": "MERCADO",
-            "text": "Datadog, Inc. (DDOG) CTO trades 43,224 shares in 10b5-1 plan"
+            "text": "Elon Musk Says This Will Be Tesla's 'Biggest Product Ever'\u2014If It Can Solve the Supply Chain Issue"
         },
         {
-            "time": "20:15",
+            "time": "22:02",
             "tag": "RESULTADOS",
-            "text": "IBM: Q2 Earnings Snapshot"
+            "text": "Earnings call transcript: Alphabet beats Q2 2026 estimates, shares fall on capex surge"
         },
         {
-            "time": "20:15",
-            "tag": "RESULTADOS",
-            "text": "Synopsys Announces Earnings Release Date for Third Quarter Fiscal Year 2026"
+            "time": "21:56",
+            "tag": "MERCADO",
+            "text": "First Look: J&J unveils its Ottava surgical robotics system"
+        },
+        {
+            "time": "21:51",
+            "tag": "MERCADO",
+            "text": "Sources: AT&T considers Seattle-area office move and future of Bothell campus"
         }
     ]
 }
