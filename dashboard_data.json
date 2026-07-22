@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-22 07:35 UTC",
+        "last_updated": "2026-07-22 10:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 207.29,
-            "change": "+2.32%"
+            "change": "+3.26%"
         },
         {
             "symbol": "AMD",
             "price": 544.43,
-            "change": "+2.95%"
+            "change": "-2.51%"
         },
         {
             "symbol": "MSFT",
             "price": 397.75,
-            "change": "-0.66%"
+            "change": "+0.53%"
         },
         {
             "symbol": "CEG",
             "price": 262.22,
-            "change": "-1.96%"
+            "change": "-0.43%"
         },
         {
             "symbol": "VST",
             "price": 162.33,
-            "change": "-0.7%"
+            "change": "+0.42%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.63,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.51,
             0.5,
             0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            23.83,
-            23.98,
-            24.42,
-            24.85,
-            25.33,
-            24.98,
-            25.28,
-            24.99,
-            25.26,
-            25.73,
-            25.75,
-            25.49
+            24.65,
+            25.12,
+            24.75,
+            24.54,
+            24.1,
+            24.26,
+            24.63,
+            24.92,
+            24.78,
+            24.4,
+            24.88,
+            25.08
         ],
         "hsd_history_software": [
-            10.19,
-            10.19,
-            10.05,
-            10.19,
-            10.04,
-            9.86,
-            10.04,
-            10.04,
-            9.9,
-            10.05,
             9.87,
-            10.04
+            9.7,
+            9.56,
+            9.63,
+            9.69,
+            9.85,
+            9.91,
+            9.86,
+            9.79,
+            9.97,
+            10.11,
+            10.01
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:02",
-            "tag": "RESULTADOS",
-            "text": "Top Wall Street Forecasters Revamp AT&T Expectations Ahead Of Q2 Earnings"
+            "time": "09:38",
+            "tag": "MERCADO",
+            "text": "Truist Financial Maintains NVIDIA(NVDA.US) With Buy Rating"
         },
         {
-            "time": "07:00",
+            "time": "09:27",
             "tag": "MERCADO",
-            "text": "Jabil deepening roots in Malaysia as it climbs the manufacturing value chain"
+            "text": "KBC Group NV Boosts Holdings in NXP Semiconductors N.V. $NXPI"
         },
         {
-            "time": "06:44",
+            "time": "09:20",
             "tag": "MERCADO",
-            "text": "Garmin Descent Mk3i by Garmin Ltd. - new dive computer segment lifts wearables"
+            "text": "American Express expands B2B payments tools"
         },
         {
-            "time": "06:20",
+            "time": "09:15",
             "tag": "MERCADO",
-            "text": "Applied Materials stock trades near record territory as chip equipment demand supports earnings momentum"
+            "text": "KBC Group NV Grows Position in Microchip Technology Incorporated $MCHP"
         },
         {
-            "time": "06:20",
+            "time": "09:10",
             "tag": "MERCADO",
-            "text": "Anthony Scaramucci Calls Out Trump Media's Truth API for Selling Wall Street a Speed Advantage to 'Front-Run' Trades"
+            "text": "Swiss National Bank Buys 22,400 Shares of Leidos Holdings, Inc. $LDOS"
         }
     ]
 }
