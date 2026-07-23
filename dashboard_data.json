@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-23 20:14 UTC",
+        "last_updated": "2026-07-23 22:06 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 208.76,
-            "change": "+0.41%"
+            "change": "+1.45%"
         },
         {
             "symbol": "AMD",
             "price": 539.69,
-            "change": "+2.18%"
+            "change": "-2.22%"
         },
         {
             "symbol": "MSFT",
             "price": 381.58,
-            "change": "-2.17%"
+            "change": "-1.48%"
         },
         {
             "symbol": "CEG",
             "price": 275.6,
-            "change": "-0.65%"
+            "change": "-0.45%"
         },
         {
             "symbol": "VST",
-            "price": 168.97,
-            "change": "+0.94%"
+            "price": 168.98,
+            "change": "+3.5%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.66,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
             0.49,
             0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
             0.49,
             0.5,
-            0.5
+            0.49,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.88,
-            25.01,
-            24.8,
-            24.59,
-            24.14,
-            24.33,
-            24.73,
-            24.27,
-            24.58,
-            24.51,
+            23.39,
+            23.83,
+            23.79,
+            23.87,
+            24.17,
+            24.37,
+            24.61,
             24.57,
-            25.05
+            24.29,
+            24.48,
+            24.63,
+            25.11
         ],
         "hsd_history_software": [
-            10.15,
-            10.19,
-            10.06,
-            9.92,
+            10.38,
+            10.32,
+            10.49,
+            10.46,
+            10.33,
+            10.46,
+            10.47,
+            10.33,
+            10.2,
+            10.03,
             10.08,
-            10.19,
-            10.18,
-            10.25,
-            10.1,
-            10.0,
-            10.01,
-            9.99
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:22",
+            "time": "21:32",
             "tag": "MERCADO",
-            "text": "Arista Networks Stock Runs On A Different Fuel"
+            "text": "Palo Alto Networks (NASDAQ:PANW) Trading Down 2.9% - Here's What Happened"
         },
         {
-            "time": "19:15",
+            "time": "21:28",
             "tag": "MERCADO",
-            "text": "Applovin Corp Stock (APP) Moved Down by 3.58% on Jul 23: A Full Analysis"
+            "text": "IonQ (NYSE:IONQ) Trading Down 1.6% - Here's Why"
         },
         {
-            "time": "19:15",
+            "time": "21:21",
             "tag": "MERCADO",
-            "text": "Booking Holdings Inc Stock (BKNG) Moved Down by 3.16% on Jul 23: What Investors Need To Know"
+            "text": "Eversource, National Grid, EnergyHub, Sunrun, and the Mobility House Launch V2G Pilot in Massachusetts"
         },
         {
-            "time": "19:06",
-            "tag": "MERCADO",
-            "text": "Ford plans to use Apple Maps in its next-gen EVs (F:NYSE)"
+            "time": "21:14",
+            "tag": "RESULTADOS",
+            "text": "Full Transcript: VeriSign Q2 2026 Earnings Call"
         },
         {
-            "time": "18:53",
+            "time": "21:14",
             "tag": "MERCADO",
-            "text": "Why Is Walt Disney Stock Falling Thursday?"
+            "text": "Digital Realty raises annual FFO forecast on robust data center demand"
         }
     ]
 }
