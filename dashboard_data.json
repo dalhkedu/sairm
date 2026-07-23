@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-23 02:57 UTC",
+        "last_updated": "2026-07-23 06:07 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 212.06,
-            "change": "+3.14%"
+            "change": "+0.01%"
         },
         {
             "symbol": "AMD",
             "price": 552.33,
-            "change": "+1.71%"
+            "change": "-0.98%"
         },
         {
             "symbol": "MSFT",
             "price": 390.34,
-            "change": "-2.07%"
+            "change": "-1.49%"
         },
         {
             "symbol": "CEG",
             "price": 274.9,
-            "change": "-3.2%"
+            "change": "-1.42%"
         },
         {
             "symbol": "VST",
             "price": 166.74,
-            "change": "-2.11%"
+            "change": "+3.35%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.54,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
+            0.52,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.5,
             0.49,
             0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            25.17,
-            25.2,
-            25.71,
-            25.23,
-            25.19,
-            25.21,
-            25.05,
-            25.18,
-            24.83,
-            24.83,
-            24.83,
-            24.96
+            23.97,
+            24.1,
+            24.23,
+            23.97,
+            23.83,
+            24.2,
+            24.58,
+            24.26,
+            24.65,
+            25.12,
+            25.3,
+            25.09
         ],
         "hsd_history_software": [
-            9.9,
-            9.96,
-            10.15,
-            10.09,
-            10.07,
-            9.94,
             10.13,
-            10.13,
-            10.15,
-            10.05,
-            10.16,
-            10.03
+            9.99,
+            9.81,
+            9.65,
+            9.67,
+            9.77,
+            9.76,
+            9.87,
+            9.72,
+            9.6,
+            9.7,
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:46",
-            "tag": "MERCADO",
-            "text": "GOOG, TSLA, NOW, IBM, TXN: 5 Trending Stocks Today - Tesla (NASDAQ:TSLA)"
+            "time": "05:10",
+            "tag": "AI",
+            "text": "Does Xcel\u2019s AI Infrastructure Spotlight and Clean Grid Push Reframe the Bull Case for XEL?"
         },
         {
-            "time": "01:40",
+            "time": "04:59",
             "tag": "MERCADO",
-            "text": "Time to Buy SanDisk, Micron? BlackRock Says Chip Rout Is Overdone - Micron Technology (NASDAQ:MU), SanDis"
+            "text": "Will Analyst Hopes for Segment Profit Gains Change Roper Technologies' (ROP) Efficiency-Led Narrative"
         },
         {
-            "time": "01:40",
+            "time": "04:40",
             "tag": "MERCADO",
-            "text": "12 Industrials Stocks Moving In Wednesday's After-Market Session"
+            "text": "BILL Holdings (BILL) AGM 2024 Summary"
         },
         {
-            "time": "01:36",
-            "tag": "MERCADO",
-            "text": "Teledyne Technologies (TDY) Stock Highlights 15.3% Margin Strength Ahead Of Slower Growth Narratives"
+            "time": "04:40",
+            "tag": "RESULTADOS",
+            "text": "America Movil Q2 Earnings Call Highlights"
         },
         {
-            "time": "01:20",
-            "tag": "MERCADO",
-            "text": "Adobe Chief People Officer Gloria Chen Sells 1,607 Shares for Tax Withholding"
+            "time": "04:22",
+            "tag": "RESULTADOS",
+            "text": "International Business Machines Corp (IBM) Q2 2026 Earnings Call"
         }
     ]
 }
