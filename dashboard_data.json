@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-23 06:07 UTC",
+        "last_updated": "2026-07-23 09:25 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 212.06,
-            "change": "+0.01%"
+            "change": "-0.15%"
         },
         {
             "symbol": "AMD",
             "price": 552.33,
-            "change": "-0.98%"
+            "change": "-1.12%"
         },
         {
             "symbol": "MSFT",
             "price": 390.34,
-            "change": "-1.49%"
+            "change": "-1.53%"
         },
         {
             "symbol": "CEG",
             "price": 274.9,
-            "change": "-1.42%"
+            "change": "+1.33%"
         },
         {
             "symbol": "VST",
             "price": 166.74,
-            "change": "+3.35%"
+            "change": "-3.25%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.52,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.47,
+            0.48,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
             0.5,
             0.49,
+            0.5,
+            0.5,
             0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            23.97,
-            24.1,
-            24.23,
-            23.97,
-            23.83,
-            24.2,
-            24.58,
-            24.26,
-            24.65,
-            25.12,
-            25.3,
-            25.09
+            26.06,
+            26.14,
+            25.65,
+            25.79,
+            25.96,
+            26.11,
+            25.91,
+            26.42,
+            25.94,
+            25.8,
+            25.87,
+            25.38
         ],
         "hsd_history_software": [
-            10.13,
-            9.99,
-            9.81,
-            9.65,
-            9.67,
-            9.77,
-            9.76,
-            9.87,
-            9.72,
-            9.6,
-            9.7,
-            9.87
+            10.11,
+            9.96,
+            9.78,
+            9.69,
+            9.86,
+            9.96,
+            10.15,
+            10.27,
+            10.1,
+            9.97,
+            9.94,
+            10.11
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:10",
-            "tag": "AI",
-            "text": "Does Xcel\u2019s AI Infrastructure Spotlight and Clean Grid Push Reframe the Bull Case for XEL?"
-        },
-        {
-            "time": "04:59",
+            "time": "08:34",
             "tag": "MERCADO",
-            "text": "Will Analyst Hopes for Segment Profit Gains Change Roper Technologies' (ROP) Efficiency-Led Narrative"
+            "text": "F5, Inc. (NASDAQ:FFIV) Receives Average Recommendation of \"Moderate Buy\" from Brokerages"
         },
         {
-            "time": "04:40",
+            "time": "08:34",
             "tag": "MERCADO",
-            "text": "BILL Holdings (BILL) AGM 2024 Summary"
+            "text": "Take-Two Interactive Software, Inc. $TTWO Shares Acquired by Davis R M Inc."
         },
         {
-            "time": "04:40",
-            "tag": "RESULTADOS",
-            "text": "America Movil Q2 Earnings Call Highlights"
+            "time": "08:34",
+            "tag": "MERCADO",
+            "text": "What is Apple? The company behind iPhone, Mac, and the App Store"
         },
         {
-            "time": "04:22",
-            "tag": "RESULTADOS",
-            "text": "International Business Machines Corp (IBM) Q2 2026 Earnings Call"
+            "time": "08:28",
+            "tag": "MERCADO",
+            "text": "Palo Alto Networks targets observability and application performance gains with latest acquisition"
+        },
+        {
+            "time": "08:27",
+            "tag": "MERCADO",
+            "text": "International Business Machines Corporation $IBM Stock Position Raised by CI Investments Inc."
         }
     ]
 }
