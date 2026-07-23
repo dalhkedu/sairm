@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-07-23 16:37 UTC",
+        "last_updated": "2026-07-23 18:14 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 209.84,
-            "change": "-2.19%"
+            "price": 208.63,
+            "change": "-3.34%"
         },
         {
             "symbol": "AMD",
-            "price": 546.38,
-            "change": "+1.78%"
+            "price": 535.87,
+            "change": "-0.64%"
         },
         {
             "symbol": "MSFT",
-            "price": 380.19,
-            "change": "-1.16%"
+            "price": 381.28,
+            "change": "-3.46%"
         },
         {
             "symbol": "CEG",
-            "price": 273.23,
-            "change": "+0.4%"
+            "price": 274.45,
+            "change": "+3.09%"
         },
         {
             "symbol": "VST",
-            "price": 166.24,
-            "change": "-2.08%"
+            "price": 167.54,
+            "change": "+3.19%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.42,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
-            0.5,
-            0.49,
-            0.49,
+            0.47,
             0.48,
             0.49,
             0.48,
+            0.48,
+            0.48,
             0.49,
             0.5,
-            0.49,
-            0.49
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.89,
-            24.35,
-            24.63,
-            24.7,
-            24.98,
+            26.96,
+            26.57,
+            26.46,
+            26.09,
+            25.76,
+            25.56,
             25.44,
-            25.71,
-            25.22,
-            24.94,
-            24.73,
-            25.11,
-            25.19
+            25.3,
+            24.99,
+            25.01,
+            24.64,
+            25.09
         ],
         "hsd_history_software": [
-            10.08,
-            9.94,
             9.98,
-            9.79,
+            9.86,
+            9.69,
             9.78,
-            9.62,
-            9.68,
-            9.78,
-            9.8,
-            9.7,
-            9.76,
-            9.95
+            9.87,
+            9.9,
+            10.01,
+            9.81,
+            9.94,
+            9.93,
+            10.02,
+            10.04
         ],
         "rci_data": [
             85.0,
-            20.983999999999998
+            20.863
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:59",
+            "time": "17:39",
             "tag": "MERCADO",
-            "text": "Mbapp\u00e9 and Bellingham Share EA SPORTS FC 27's Ultimate Plus Cover"
+            "text": "BOS Secures $990,000 Order from a U.S. Customer"
         },
         {
-            "time": "15:59",
-            "tag": "MERCADO",
-            "text": "Communicators spotlight: Adobe's Stacy Martinet"
-        },
-        {
-            "time": "15:54",
-            "tag": "MERCADO",
-            "text": "Crown Castle CEO: Edge opportunity is gaining momentum"
-        },
-        {
-            "time": "15:36",
+            "time": "17:17",
             "tag": "AI",
-            "text": "Apple Fails to Get All AI Voice Training Suits Under Same Judge"
+            "text": "Palo Alto Networks Stock Just Posted Its Biggest Beat Ever. The AI Threat Story Behind It."
         },
         {
-            "time": "15:28",
+            "time": "17:15",
             "tag": "MERCADO",
-            "text": "Salesforce Stock Hit a 44% Drawdown. Agentforce ARR Just Crossed $1 Billion."
+            "text": "Walt Disney Co Stock (DIS) Moved Down by 3.14% on Jul 23: Key Drivers Unveiled"
+        },
+        {
+            "time": "17:14",
+            "tag": "AI",
+            "text": "Uber cuts 10% of customer service staff to \u2018embrace\u2019 AI"
+        },
+        {
+            "time": "16:31",
+            "tag": "MERCADO",
+            "text": "As Wall Street Cuts Tesla, Morgan Stanley Raises Its Apple Target"
         }
     ]
 }
