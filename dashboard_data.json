@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-24 20:21 UTC",
+        "last_updated": "2026-07-24 22:06 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 206.84,
-            "change": "-2.38%"
+            "change": "-2.06%"
         },
         {
             "symbol": "AMD",
             "price": 521.95,
-            "change": "-0.43%"
+            "change": "+0.51%"
         },
         {
             "symbol": "MSFT",
             "price": 381.7,
-            "change": "+1.51%"
+            "change": "+1.83%"
         },
         {
             "symbol": "CEG",
             "price": 274.35,
-            "change": "-1.51%"
+            "change": "-1.89%"
         },
         {
             "symbol": "VST",
             "price": 163.38,
-            "change": "+1.6%"
+            "change": "+2.52%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.69,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
             0.5,
             0.51,
             0.5,
+            0.51,
             0.5,
-            0.51
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.78,
-            24.49,
-            24.49,
-            24.33,
-            24.28,
-            24.27,
-            24.2,
-            24.62,
-            24.78,
+            24.75,
+            25.16,
             24.85,
-            25.33,
-            25.08
+            25.03,
+            24.69,
+            24.49,
+            24.65,
+            24.5,
+            24.98,
+            25.0,
+            25.44,
+            25.13
         ],
         "hsd_history_software": [
-            10.32,
-            10.51,
-            10.67,
-            10.51,
-            10.37,
-            10.29,
-            10.39,
-            10.28,
+            9.98,
+            10.01,
+            10.14,
+            9.97,
+            9.95,
+            10.04,
+            10.08,
+            10.11,
+            10.11,
             10.16,
-            10.0,
-            10.0,
-            9.9
+            10.01,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:24",
+            "time": "21:31",
             "tag": "MERCADO",
-            "text": "Uber stock hits 52-week low at 67.15 USD"
+            "text": "Seagate Technology Holdings PLC (STX) Shares Fall 6.8% -- GF Value Says Still Overvalued"
         },
         {
-            "time": "18:39",
-            "tag": "RESULTADOS",
-            "text": "Should You Buy, Sell, or Hold TER Stock Before Q2 Earnings Release?"
+            "time": "21:30",
+            "tag": "MERCADO",
+            "text": "The Real Reason Why Boeing Is Building The F-47 Stealth Fighter And Not Lockheed"
         },
         {
-            "time": "18:38",
+            "time": "21:28",
+            "tag": "MERCADO",
+            "text": "Cummins Introduces Phased Model Year 2027 Launch Strategy"
+        },
+        {
+            "time": "21:23",
+            "tag": "MERCADO",
+            "text": "Arista Networks (NYSE:ANET) Trading Down 1.6% - Time to Sell?"
+        },
+        {
+            "time": "21:15",
             "tag": "AI",
-            "text": "NextEra Energy sees Florida as next frontier for AI data center boom"
-        },
-        {
-            "time": "18:38",
-            "tag": "MERCADO",
-            "text": "Corning Inc Stock (GLW) Moved Down by 3.75% on Jul 24: A Full Analysis"
-        },
-        {
-            "time": "18:37",
-            "tag": "MERCADO",
-            "text": "Digital Realty Trust DLR Soars After Big Q2 Beat"
+            "text": "Edge AI infrastructure earns Cisco Unified Edge a CUBEd award"
         }
     ]
 }
