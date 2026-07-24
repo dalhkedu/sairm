@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-07-24 12:20 UTC",
+        "last_updated": "2026-07-24 14:57 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 208.76,
-            "change": "-0.34%"
+            "price": 208.02,
+            "change": "-0.07%"
         },
         {
             "symbol": "AMD",
-            "price": 539.69,
-            "change": "-2.51%"
+            "price": 526.38,
+            "change": "-0.7%"
         },
         {
             "symbol": "MSFT",
-            "price": 381.58,
-            "change": "+2.58%"
+            "price": 383.04,
+            "change": "-0.35%"
         },
         {
             "symbol": "CEG",
-            "price": 275.6,
-            "change": "+0.01%"
+            "price": 277.86,
+            "change": "+1.5%"
         },
         {
             "symbol": "VST",
-            "price": 168.98,
-            "change": "-2.86%"
+            "price": 167.92,
+            "change": "+2.62%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.4,
+        "cer_current": 0.64,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
             0.5,
+            0.51,
+            0.5,
             0.5,
             0.51,
             0.5,
             0.5,
-            0.49,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51
+            0.51,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.51,
-            24.25,
-            24.11,
-            24.51,
-            24.21,
-            24.27,
-            24.03,
-            24.43,
-            24.56,
-            24.91,
-            24.62,
-            25.04
+            23.6,
+            23.98,
+            24.01,
+            24.28,
+            24.49,
+            24.79,
+            24.41,
+            24.66,
+            24.87,
+            25.15,
+            25.27,
+            24.78
         ],
         "hsd_history_software": [
-            10.42,
-            10.49,
-            10.4,
-            10.22,
-            10.27,
-            10.08,
-            10.09,
-            10.07,
-            9.92,
-            9.79,
-            9.94,
-            10.09
+            9.47,
+            9.36,
+            9.34,
+            9.45,
+            9.41,
+            9.55,
+            9.68,
+            9.68,
+            9.75,
+            9.72,
+            9.74,
+            9.89
         ],
         "rci_data": [
             85.0,
-            20.876
+            20.802
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:34",
-            "tag": "RESULTADOS",
-            "text": "Equinix (EQIX) Could Be 14% Below Fair Value Following Q2 Earnings Focus"
-        },
-        {
-            "time": "11:09",
-            "tag": "RESULTADOS",
-            "text": "Why T-Mobile Stock Dropped 11% Despite a Q2 Earnings Beat"
-        },
-        {
-            "time": "11:03",
+            "time": "14:11",
             "tag": "MERCADO",
-            "text": "Home Depot parking lot surveillance class action lawsuit: What posts get right, wrong"
+            "text": "Needham sees AMD-Anthropic deal raising odds of more Riot Platforms leases"
         },
         {
-            "time": "11:00",
+            "time": "13:49",
             "tag": "MERCADO",
-            "text": "Verizon Delivers Record 2Q26 Results as Strategic Transformation Ignites Accelerated Growth"
+            "text": "Tesla Short Sellers Gain $9 Billion as Shares Tumble"
         },
         {
-            "time": "10:59",
-            "tag": "MERCADO",
-            "text": "Verizon Delivers Record 2Q26 Results as Strategic Transformation Ignites Accelerated Growth"
+            "time": "13:46",
+            "tag": "AI",
+            "text": "Above the Noise: Look beyond AI pullback"
+        },
+        {
+            "time": "13:39",
+            "tag": "AI",
+            "text": "Palo Alto Networks CEO warns OpenAI Hugging Face breach brings browser SASE to the fore"
+        },
+        {
+            "time": "13:16",
+            "tag": "AI",
+            "text": "AI token routing cuts enterprise cloud costs with AMD"
         }
     ]
 }
