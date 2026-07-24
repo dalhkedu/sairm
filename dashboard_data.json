@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-23 22:06 UTC",
+        "last_updated": "2026-07-24 00:03 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 208.76,
-            "change": "+1.45%"
+            "change": "+3.4%"
         },
         {
             "symbol": "AMD",
             "price": 539.69,
-            "change": "-2.22%"
+            "change": "+2.23%"
         },
         {
             "symbol": "MSFT",
             "price": 381.58,
-            "change": "-1.48%"
+            "change": "+2.72%"
         },
         {
             "symbol": "CEG",
             "price": 275.6,
-            "change": "-0.45%"
+            "change": "-2.95%"
         },
         {
             "symbol": "VST",
             "price": 168.98,
-            "change": "+3.5%"
+            "change": "+0.72%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.49,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.5,
-            0.51
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.54,
+            0.53,
+            0.53,
+            0.52,
+            0.51,
+            0.52,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.39,
-            23.83,
-            23.79,
-            23.87,
-            24.17,
-            24.37,
-            24.61,
-            24.57,
-            24.29,
-            24.48,
-            24.63,
-            25.11
+            23.75,
+            23.66,
+            23.93,
+            23.54,
+            23.58,
+            24.0,
+            24.22,
+            24.3,
+            24.79,
+            25.11,
+            25.4,
+            25.47
         ],
         "hsd_history_software": [
-            10.38,
-            10.32,
-            10.49,
-            10.46,
-            10.33,
-            10.46,
-            10.47,
-            10.33,
-            10.2,
-            10.03,
-            10.08,
-            10.05
+            9.38,
+            9.44,
+            9.57,
+            9.42,
+            9.51,
+            9.66,
+            9.64,
+            9.81,
+            9.68,
+            9.69,
+            9.83,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,9 @@
     ],
     "news_feed": [
         {
-            "time": "21:32",
-            "tag": "MERCADO",
-            "text": "Palo Alto Networks (NASDAQ:PANW) Trading Down 2.9% - Here's What Happened"
-        },
-        {
-            "time": "21:28",
-            "tag": "MERCADO",
-            "text": "IonQ (NYSE:IONQ) Trading Down 1.6% - Here's Why"
-        },
-        {
-            "time": "21:21",
-            "tag": "MERCADO",
-            "text": "Eversource, National Grid, EnergyHub, Sunrun, and the Mobility House Launch V2G Pilot in Massachusetts"
-        },
-        {
-            "time": "21:14",
-            "tag": "RESULTADOS",
-            "text": "Full Transcript: VeriSign Q2 2026 Earnings Call"
-        },
-        {
-            "time": "21:14",
-            "tag": "MERCADO",
-            "text": "Digital Realty raises annual FFO forecast on robust data center demand"
+            "time": "INFO",
+            "tag": "LIMIT",
+            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
         }
     ]
 }
