@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-25 04:12 UTC",
+        "last_updated": "2026-07-25 07:19 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 206.84,
-            "change": "-0.31%"
+            "change": "-2.7%"
         },
         {
             "symbol": "AMD",
             "price": 521.95,
-            "change": "-3.44%"
+            "change": "+1.34%"
         },
         {
             "symbol": "MSFT",
             "price": 381.7,
-            "change": "+0.63%"
+            "change": "+0.71%"
         },
         {
             "symbol": "CEG",
             "price": 274.35,
-            "change": "+2.64%"
+            "change": "+3.46%"
         },
         {
             "symbol": "VST",
             "price": 163.38,
-            "change": "+0.51%"
+            "change": "-3.21%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.42,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
+            0.5,
+            0.49,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.77,
-            24.77,
-            24.55,
-            24.93,
-            25.19,
-            25.02,
-            25.44,
-            24.95,
-            24.51,
-            24.82,
-            24.87,
-            24.58
+            23.6,
+            23.6,
+            23.2,
+            23.03,
+            23.32,
+            23.66,
+            23.99,
+            24.11,
+            24.45,
+            24.6,
+            24.38,
+            24.53
         ],
         "hsd_history_software": [
-            9.57,
-            9.49,
-            9.63,
-            9.63,
-            9.82,
-            9.82,
-            9.78,
-            9.93,
-            9.95,
-            9.86,
-            9.85,
-            9.8
+            10.71,
+            10.75,
+            10.6,
+            10.45,
+            10.38,
+            10.33,
+            10.12,
+            10.28,
+            10.29,
+            10.25,
+            10.14,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:30",
+            "time": "06:16",
             "tag": "MERCADO",
-            "text": "Is NetApp (NTAP) Still Cheap After The DataPelago Deal?"
+            "text": "Iron Mountain stock trades near record levels as storage demand supports revenue growth"
         },
         {
-            "time": "02:30",
-            "tag": "RESULTADOS",
-            "text": "Spotify Technology SA (SPOT) Q3 2022 Earnings Report - Results, Call & Slides"
-        },
-        {
-            "time": "02:11",
+            "time": "05:53",
             "tag": "MERCADO",
-            "text": "Serve Robotics Inc (SERV) Dividends & Stock Splits: Historical Payouts and Event Timeline"
+            "text": "BlackRock explained: the world's largest asset manager"
         },
         {
-            "time": "01:43",
-            "tag": "RESULTADOS",
-            "text": "Do Trimmed EPS Forecasts Before Earnings Subtly Challenge Sea\u2019s (SE) Digital Expansion Narrative?"
-        },
-        {
-            "time": "01:11",
+            "time": "05:49",
             "tag": "MERCADO",
-            "text": "Amtech, Semtech, Nova, Power Integrations, and FormFactor Shares Are Falling, What You Need To Know"
+            "text": "UnitedHealth Group stock steadies as Q2 2026 results highlight growth and Medicare changes"
+        },
+        {
+            "time": "05:42",
+            "tag": "MERCADO",
+            "text": "ETFs Investing in Bandwidth Inc. Class A Stocks"
+        },
+        {
+            "time": "05:34",
+            "tag": "MERCADO",
+            "text": "Terra Quantum (AXIN) targets 2026 Nasdaq debut and warns of \u2018Q-Day\u2019 cyber risk"
         }
     ]
 }
