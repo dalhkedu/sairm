@@ -1,37 +1,37 @@
 {
     "metadata": {
-        "last_updated": "2026-07-25 15:05 UTC",
+        "last_updated": "2026-07-25 17:01 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 206.84,
-            "change": "-1.0%"
+            "change": "+2.29%"
         },
         {
             "symbol": "AMD",
             "price": 521.95,
-            "change": "-1.09%"
+            "change": "-3.26%"
         },
         {
             "symbol": "MSFT",
             "price": 381.7,
-            "change": "+0.39%"
+            "change": "-1.17%"
         },
         {
             "symbol": "CEG",
             "price": 274.35,
-            "change": "-3.45%"
+            "change": "+0.18%"
         },
         {
             "symbol": "VST",
             "price": 163.38,
-            "change": "+1.38%"
+            "change": "-0.8%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.46,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
@@ -39,43 +39,43 @@
             0.5,
             0.5,
             0.49,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.77,
-            24.41,
-            24.77,
-            25.17,
-            25.6,
-            25.91,
-            25.69,
-            25.63,
-            25.25,
-            25.31,
-            25.05,
-            25.17
+            25.5,
+            25.61,
+            25.21,
+            24.88,
+            24.78,
+            25.19,
+            24.73,
+            24.89,
+            25.03,
+            24.75,
+            25.21,
+            25.35
         ],
         "hsd_history_software": [
-            10.4,
-            10.35,
-            10.22,
-            10.08,
-            10.25,
-            10.2,
-            10.22,
-            10.23,
-            10.22,
-            10.1,
-            10.24,
-            10.09
+            9.28,
+            9.43,
+            9.41,
+            9.28,
+            9.38,
+            9.57,
+            9.65,
+            9.84,
+            9.98,
+            9.81,
+            9.94,
+            9.81
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:55",
+            "time": "16:40",
             "tag": "MERCADO",
-            "text": "EPAM Systems stock trades lower after margin pressure and cautious outlook"
+            "text": "Direxion Daily Dow Jones Internet Bull 3X Shares (WEBL) stock price, news, quote and history"
         },
         {
-            "time": "13:26",
+            "time": "16:40",
             "tag": "MERCADO",
-            "text": "Cisco stock trades steady as investors weigh networking demand and cash generation"
+            "text": "Vanguard Total World Stock Index Fund ETF Shares (VT) stock price, news, quote and history"
         },
         {
-            "time": "13:20",
-            "tag": "RESULTADOS",
-            "text": "The Single Biggest Opportunity to Buy Enphase Energy Before July 28 Earnings"
-        },
-        {
-            "time": "12:41",
-            "tag": "MERCADO",
-            "text": "Micron, onsemi, Seagate, Western Digital, and Vishay Intertechnology Shares Are Falling, What You Need To Know"
-        },
-        {
-            "time": "12:39",
+            "time": "16:08",
             "tag": "AI",
-            "text": "Morgan Stanley Says AI Memory Demand Keeps the Investment Case Intact"
+            "text": "Southern (SO) Secures 25 Year OpenAI Power Deal In Georgia"
+        },
+        {
+            "time": "15:59",
+            "tag": "MERCADO",
+            "text": "Blue-Chip 12% Yields: Why I Give Hercules Capital The Edge Over Trinity Capital"
+        },
+        {
+            "time": "15:35",
+            "tag": "MERCADO",
+            "text": "MiniMax Group, Inc (0100) Gets a Buy from Goldman Sachs"
         }
     ]
 }
