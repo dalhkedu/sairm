@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-24 22:06 UTC",
+        "last_updated": "2026-07-25 00:05 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 206.84,
-            "change": "-2.06%"
+            "change": "-0.45%"
         },
         {
             "symbol": "AMD",
             "price": 521.95,
-            "change": "+0.51%"
+            "change": "+3.01%"
         },
         {
             "symbol": "MSFT",
             "price": 381.7,
-            "change": "+1.83%"
+            "change": "+0.69%"
         },
         {
             "symbol": "CEG",
             "price": 274.35,
-            "change": "-1.89%"
+            "change": "-0.86%"
         },
         {
             "symbol": "VST",
             "price": 163.38,
-            "change": "+2.52%"
+            "change": "-0.49%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.68,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
             0.5,
-            0.51,
             0.5,
-            0.51,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.75,
-            25.16,
-            24.85,
-            25.03,
-            24.69,
-            24.49,
-            24.65,
-            24.5,
-            24.98,
-            25.0,
-            25.44,
-            25.13
+            24.31,
+            24.51,
+            24.82,
+            24.38,
+            24.61,
+            24.87,
+            25.05,
+            24.87,
+            25.33,
+            24.95,
+            25.09,
+            25.36
         ],
         "hsd_history_software": [
-            9.98,
-            10.01,
-            10.14,
-            9.97,
-            9.95,
-            10.04,
-            10.08,
-            10.11,
-            10.11,
-            10.16,
-            10.01,
-            10.1
+            9.49,
+            9.59,
+            9.42,
+            9.37,
+            9.55,
+            9.41,
+            9.46,
+            9.64,
+            9.72,
+            9.82,
+            9.9,
+            10.04
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:31",
+            "time": "23:42",
             "tag": "MERCADO",
-            "text": "Seagate Technology Holdings PLC (STX) Shares Fall 6.8% -- GF Value Says Still Overvalued"
+            "text": "Direxion Daily MSFT Bull 2X Shares (MSFU) stock price, news, quote and history"
         },
         {
-            "time": "21:30",
+            "time": "23:30",
             "tag": "MERCADO",
-            "text": "The Real Reason Why Boeing Is Building The F-47 Stealth Fighter And Not Lockheed"
+            "text": "Moderna: A Stock to Watch or a Risky Bet?"
         },
         {
-            "time": "21:28",
-            "tag": "MERCADO",
-            "text": "Cummins Introduces Phased Model Year 2027 Launch Strategy"
-        },
-        {
-            "time": "21:23",
-            "tag": "MERCADO",
-            "text": "Arista Networks (NYSE:ANET) Trading Down 1.6% - Time to Sell?"
-        },
-        {
-            "time": "21:15",
+            "time": "23:15",
             "tag": "AI",
-            "text": "Edge AI infrastructure earns Cisco Unified Edge a CUBEd award"
+            "text": "Morgan Stanley stated that SpaceX's (SPCX.US) current share price barely reflects the value of its AI business and remains bullish on its long-term upside potential."
+        },
+        {
+            "time": "23:00",
+            "tag": "MERCADO",
+            "text": "A Look at PTC Inc (PTC) After 5.0% Gain -- GF Value $215.29 vs P"
+        },
+        {
+            "time": "23:00",
+            "tag": "MERCADO",
+            "text": "Gen Digital Inc (GEN) Shares Surge 3.1% -- What GF Score of 83 T"
         }
     ]
 }
