@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-25 20:55 UTC",
+        "last_updated": "2026-07-25 21:58 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 206.84,
-            "change": "-1.05%"
+            "change": "-3.41%"
         },
         {
             "symbol": "AMD",
             "price": 521.95,
-            "change": "+3.2%"
+            "change": "+2.52%"
         },
         {
             "symbol": "MSFT",
             "price": 381.7,
-            "change": "-0.62%"
+            "change": "-2.15%"
         },
         {
             "symbol": "CEG",
             "price": 274.35,
-            "change": "+2.49%"
+            "change": "+3.26%"
         },
         {
             "symbol": "VST",
             "price": 163.38,
-            "change": "+1.48%"
+            "change": "-2.91%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.64,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
             0.51,
-            0.51,
-            0.51,
             0.52,
-            0.53,
             0.52,
             0.51,
             0.52,
+            0.52,
             0.51,
+            0.5,
             0.51,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            26.48,
-            26.66,
-            26.72,
-            26.28,
-            26.03,
+            25.23,
+            25.09,
+            25.18,
+            25.33,
+            25.65,
+            25.66,
             25.54,
-            25.86,
-            25.51,
-            25.54,
-            25.57,
-            25.07,
-            24.65
+            25.67,
+            25.34,
+            25.65,
+            25.66,
+            25.2
         ],
         "hsd_history_software": [
-            10.19,
-            10.08,
-            10.21,
-            10.18,
-            10.32,
-            10.29,
-            10.19,
-            10.15,
-            10.05,
-            9.99,
-            10.09,
-            10.1
+            10.87,
+            10.78,
+            10.74,
+            10.78,
+            10.86,
+            10.72,
+            10.54,
+            10.41,
+            10.25,
+            10.24,
+            10.12,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "20:41",
+            "tag": "MERCADO",
+            "text": "Riot Platforms (RIOT) Stock Looks Rich Following Its 69% Run"
+        },
+        {
+            "time": "20:28",
+            "tag": "MERCADO",
+            "text": "Samsung wins $200 billion order to supply chips to Broadcom"
+        },
+        {
             "time": "20:11",
             "tag": "MERCADO",
             "text": "NA|Nano Labs Ltd|Price:1.860|Chg%:-0.060"
@@ -139,16 +149,6 @@
             "time": "19:09",
             "tag": "MERCADO",
             "text": "Amdocs Ltd (DOX) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution"
-        },
-        {
-            "time": "19:04",
-            "tag": "MERCADO",
-            "text": "Is NVIDIA Corporation (NVDA) A Good Stock To Buy Now?"
-        },
-        {
-            "time": "18:40",
-            "tag": "MERCADO",
-            "text": "BitVentures Limited (BVC) stock price, news, quote and history"
         }
     ]
 }
