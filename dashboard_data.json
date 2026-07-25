@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-25 21:58 UTC",
+        "last_updated": "2026-07-25 23:02 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 206.84,
-            "change": "-3.41%"
+            "change": "-2.97%"
         },
         {
             "symbol": "AMD",
             "price": 521.95,
-            "change": "+2.52%"
+            "change": "-1.72%"
         },
         {
             "symbol": "MSFT",
             "price": 381.7,
-            "change": "-2.15%"
+            "change": "-1.06%"
         },
         {
             "symbol": "CEG",
             "price": 274.35,
-            "change": "+3.26%"
+            "change": "+3.4%"
         },
         {
             "symbol": "VST",
             "price": 163.38,
-            "change": "-2.91%"
+            "change": "-0.07%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.43,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
+            0.48,
+            0.48,
+            0.48,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.51,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            25.23,
-            25.09,
-            25.18,
-            25.33,
-            25.65,
-            25.66,
-            25.54,
-            25.67,
-            25.34,
-            25.65,
-            25.66,
-            25.2
+            24.72,
+            25.11,
+            25.26,
+            24.92,
+            24.82,
+            25.17,
+            25.43,
+            25.21,
+            25.59,
+            25.47,
+            25.68,
+            25.5
         ],
         "hsd_history_software": [
-            10.87,
-            10.78,
-            10.74,
-            10.78,
-            10.86,
-            10.72,
-            10.54,
+            10.29,
+            10.44,
+            10.64,
+            10.45,
+            10.51,
+            10.56,
             10.41,
+            10.23,
+            10.29,
+            10.21,
             10.25,
-            10.24,
-            10.12,
-            10.05
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "22:30",
+            "tag": "MERCADO",
+            "text": "Why Western Digital (WDC) Is Up 8.9% After Reviving Kioxia Flash Merger Talks - And What's Next"
+        },
+        {
+            "time": "21:34",
+            "tag": "RESULTADOS",
+            "text": "Tesla, Intel, Google All Dropped After Earnings - Will Microsoft, Amazon, Meta Follow?"
+        },
+        {
+            "time": "21:25",
+            "tag": "MERCADO",
+            "text": "Synopsys (NASDAQ:SNPS) Approaches 52-Week Low; Debt Projection Brightens"
+        },
+        {
             "time": "20:41",
             "tag": "MERCADO",
             "text": "Riot Platforms (RIOT) Stock Looks Rich Following Its 69% Run"
@@ -134,21 +149,6 @@
             "time": "20:28",
             "tag": "MERCADO",
             "text": "Samsung wins $200 billion order to supply chips to Broadcom"
-        },
-        {
-            "time": "20:11",
-            "tag": "MERCADO",
-            "text": "NA|Nano Labs Ltd|Price:1.860|Chg%:-0.060"
-        },
-        {
-            "time": "19:34",
-            "tag": "AI",
-            "text": "Surging AI Chip Equipment Demand and Upbeat Q3 Outlook Could Be A Game Changer For Applied Materials (AMAT)"
-        },
-        {
-            "time": "19:09",
-            "tag": "MERCADO",
-            "text": "Amdocs Ltd (DOX) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution"
         }
     ]
 }
