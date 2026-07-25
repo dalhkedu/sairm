@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-07-25 19:10 UTC",
+        "last_updated": "2026-07-25 20:55 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 206.84,
-            "change": "+1.88%"
+            "change": "-1.05%"
         },
         {
             "symbol": "AMD",
             "price": 521.95,
-            "change": "+1.88%"
+            "change": "+3.2%"
         },
         {
             "symbol": "MSFT",
             "price": 381.7,
-            "change": "-1.41%"
+            "change": "-0.62%"
         },
         {
             "symbol": "CEG",
             "price": 274.35,
-            "change": "-2.04%"
+            "change": "+2.49%"
         },
         {
             "symbol": "VST",
             "price": 163.38,
-            "change": "-1.41%"
+            "change": "+1.48%"
         }
     ],
     "dashboard_metrics": {
@@ -36,46 +36,46 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.53,
+            0.52,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.39,
-            25.13,
-            25.16,
-            25.62,
-            25.48,
-            25.07,
-            25.47,
-            25.92,
+            26.48,
+            26.66,
+            26.72,
+            26.28,
+            26.03,
             25.54,
-            25.87,
-            25.39,
-            24.96
+            25.86,
+            25.51,
+            25.54,
+            25.57,
+            25.07,
+            24.65
         ],
         "hsd_history_software": [
-            9.9,
-            9.71,
-            9.66,
-            9.7,
-            9.85,
-            9.82,
-            9.82,
-            10.0,
-            10.04,
-            9.96,
-            10.14,
-            10.13
+            10.19,
+            10.08,
+            10.21,
+            10.18,
+            10.32,
+            10.29,
+            10.19,
+            10.15,
+            10.05,
+            9.99,
+            10.09,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "20:11",
+            "tag": "MERCADO",
+            "text": "NA|Nano Labs Ltd|Price:1.860|Chg%:-0.060"
+        },
+        {
+            "time": "19:34",
+            "tag": "AI",
+            "text": "Surging AI Chip Equipment Demand and Upbeat Q3 Outlook Could Be A Game Changer For Applied Materials (AMAT)"
+        },
+        {
+            "time": "19:09",
+            "tag": "MERCADO",
+            "text": "Amdocs Ltd (DOX) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution"
+        },
+        {
+            "time": "19:04",
+            "tag": "MERCADO",
+            "text": "Is NVIDIA Corporation (NVDA) A Good Stock To Buy Now?"
+        },
+        {
             "time": "18:40",
             "tag": "MERCADO",
             "text": "BitVentures Limited (BVC) stock price, news, quote and history"
-        },
-        {
-            "time": "18:33",
-            "tag": "AI",
-            "text": "Cisco Systems stock trades steady as investors weigh AI-driven networking demand and recent earnings"
-        },
-        {
-            "time": "18:08",
-            "tag": "MERCADO",
-            "text": "Microchip Technology Signs Definitive Agreement to Acquire Hailo"
-        },
-        {
-            "time": "17:33",
-            "tag": "AI",
-            "text": "Western Digital Stock (WDC) Opinions on AI-Driven Storage Demand"
-        },
-        {
-            "time": "17:26",
-            "tag": "AI",
-            "text": "How AI-Driven Efficiencies And Cost Discipline At Verisk Analytics (VRSK) Have Changed Its Investment Story"
         }
     ]
 }
