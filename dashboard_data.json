@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-25 17:01 UTC",
+        "last_updated": "2026-07-25 19:10 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 206.84,
-            "change": "+2.29%"
+            "change": "+1.88%"
         },
         {
             "symbol": "AMD",
             "price": 521.95,
-            "change": "-3.26%"
+            "change": "+1.88%"
         },
         {
             "symbol": "MSFT",
             "price": 381.7,
-            "change": "-1.17%"
+            "change": "-1.41%"
         },
         {
             "symbol": "CEG",
             "price": 274.35,
-            "change": "+0.18%"
+            "change": "-2.04%"
         },
         {
             "symbol": "VST",
             "price": 163.38,
-            "change": "-0.8%"
+            "change": "-1.41%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.42,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.5
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.5,
-            25.61,
-            25.21,
-            24.88,
-            24.78,
-            25.19,
-            24.73,
-            24.89,
-            25.03,
-            24.75,
-            25.21,
-            25.35
+            25.39,
+            25.13,
+            25.16,
+            25.62,
+            25.48,
+            25.07,
+            25.47,
+            25.92,
+            25.54,
+            25.87,
+            25.39,
+            24.96
         ],
         "hsd_history_software": [
-            9.28,
-            9.43,
-            9.41,
-            9.28,
-            9.38,
-            9.57,
-            9.65,
-            9.84,
-            9.98,
-            9.81,
-            9.94,
-            9.81
+            9.9,
+            9.71,
+            9.66,
+            9.7,
+            9.85,
+            9.82,
+            9.82,
+            10.0,
+            10.04,
+            9.96,
+            10.14,
+            10.13
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:40",
+            "time": "18:40",
             "tag": "MERCADO",
-            "text": "Direxion Daily Dow Jones Internet Bull 3X Shares (WEBL) stock price, news, quote and history"
+            "text": "BitVentures Limited (BVC) stock price, news, quote and history"
         },
         {
-            "time": "16:40",
-            "tag": "MERCADO",
-            "text": "Vanguard Total World Stock Index Fund ETF Shares (VT) stock price, news, quote and history"
-        },
-        {
-            "time": "16:08",
+            "time": "18:33",
             "tag": "AI",
-            "text": "Southern (SO) Secures 25 Year OpenAI Power Deal In Georgia"
+            "text": "Cisco Systems stock trades steady as investors weigh AI-driven networking demand and recent earnings"
         },
         {
-            "time": "15:59",
+            "time": "18:08",
             "tag": "MERCADO",
-            "text": "Blue-Chip 12% Yields: Why I Give Hercules Capital The Edge Over Trinity Capital"
+            "text": "Microchip Technology Signs Definitive Agreement to Acquire Hailo"
         },
         {
-            "time": "15:35",
-            "tag": "MERCADO",
-            "text": "MiniMax Group, Inc (0100) Gets a Buy from Goldman Sachs"
+            "time": "17:33",
+            "tag": "AI",
+            "text": "Western Digital Stock (WDC) Opinions on AI-Driven Storage Demand"
+        },
+        {
+            "time": "17:26",
+            "tag": "AI",
+            "text": "How AI-Driven Efficiencies And Cost Discipline At Verisk Analytics (VRSK) Have Changed Its Investment Story"
         }
     ]
 }
