@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-25 00:05 UTC",
+        "last_updated": "2026-07-25 04:12 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 206.84,
-            "change": "-0.45%"
+            "change": "-0.31%"
         },
         {
             "symbol": "AMD",
             "price": 521.95,
-            "change": "+3.01%"
+            "change": "-3.44%"
         },
         {
             "symbol": "MSFT",
             "price": 381.7,
-            "change": "+0.69%"
+            "change": "+0.63%"
         },
         {
             "symbol": "CEG",
             "price": 274.35,
-            "change": "-0.86%"
+            "change": "+2.64%"
         },
         {
             "symbol": "VST",
             "price": 163.38,
-            "change": "-0.49%"
+            "change": "+0.51%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.48,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.49
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.31,
+            24.77,
+            24.77,
+            24.55,
+            24.93,
+            25.19,
+            25.02,
+            25.44,
+            24.95,
             24.51,
             24.82,
-            24.38,
-            24.61,
             24.87,
-            25.05,
-            24.87,
-            25.33,
-            24.95,
-            25.09,
-            25.36
+            24.58
         ],
         "hsd_history_software": [
+            9.57,
             9.49,
-            9.59,
-            9.42,
-            9.37,
-            9.55,
-            9.41,
-            9.46,
-            9.64,
-            9.72,
+            9.63,
+            9.63,
             9.82,
-            9.9,
-            10.04
+            9.82,
+            9.78,
+            9.93,
+            9.95,
+            9.86,
+            9.85,
+            9.8
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "23:42",
+            "time": "02:30",
             "tag": "MERCADO",
-            "text": "Direxion Daily MSFT Bull 2X Shares (MSFU) stock price, news, quote and history"
+            "text": "Is NetApp (NTAP) Still Cheap After The DataPelago Deal?"
         },
         {
-            "time": "23:30",
-            "tag": "MERCADO",
-            "text": "Moderna: A Stock to Watch or a Risky Bet?"
+            "time": "02:30",
+            "tag": "RESULTADOS",
+            "text": "Spotify Technology SA (SPOT) Q3 2022 Earnings Report - Results, Call & Slides"
         },
         {
-            "time": "23:15",
-            "tag": "AI",
-            "text": "Morgan Stanley stated that SpaceX's (SPCX.US) current share price barely reflects the value of its AI business and remains bullish on its long-term upside potential."
+            "time": "02:11",
+            "tag": "MERCADO",
+            "text": "Serve Robotics Inc (SERV) Dividends & Stock Splits: Historical Payouts and Event Timeline"
         },
         {
-            "time": "23:00",
-            "tag": "MERCADO",
-            "text": "A Look at PTC Inc (PTC) After 5.0% Gain -- GF Value $215.29 vs P"
+            "time": "01:43",
+            "tag": "RESULTADOS",
+            "text": "Do Trimmed EPS Forecasts Before Earnings Subtly Challenge Sea\u2019s (SE) Digital Expansion Narrative?"
         },
         {
-            "time": "23:00",
+            "time": "01:11",
             "tag": "MERCADO",
-            "text": "Gen Digital Inc (GEN) Shares Surge 3.1% -- What GF Score of 83 T"
+            "text": "Amtech, Semtech, Nova, Power Integrations, and FormFactor Shares Are Falling, What You Need To Know"
         }
     ]
 }
