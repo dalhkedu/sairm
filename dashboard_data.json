@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-25 09:51 UTC",
+        "last_updated": "2026-07-25 11:12 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 206.84,
-            "change": "-2.87%"
+            "change": "-2.12%"
         },
         {
             "symbol": "AMD",
             "price": 521.95,
-            "change": "+3.17%"
+            "change": "+1.73%"
         },
         {
             "symbol": "MSFT",
             "price": 381.7,
-            "change": "+1.84%"
+            "change": "+3.0%"
         },
         {
             "symbol": "CEG",
             "price": 274.35,
-            "change": "+1.29%"
+            "change": "-2.58%"
         },
         {
             "symbol": "VST",
             "price": 163.38,
-            "change": "+0.38%"
+            "change": "-1.61%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.43,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
+            0.55,
+            0.54,
+            0.53,
+            0.53,
+            0.52,
             0.52,
             0.51,
-            0.51,
             0.5,
             0.5,
             0.49,
-            0.49,
             0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            26.35,
-            25.96,
+            26.29,
             25.78,
-            25.7,
-            26.17,
-            26.31,
-            26.02,
+            25.66,
             26.0,
-            25.67,
-            25.73,
-            25.76,
-            25.35
+            25.88,
+            25.46,
+            25.44,
+            25.21,
+            25.64,
+            25.61,
+            25.68,
+            25.46
         ],
         "hsd_history_software": [
-            9.67,
-            9.57,
-            9.55,
-            9.72,
-            9.77,
-            9.8,
-            9.67,
-            9.83,
             9.91,
-            10.09,
+            9.99,
             9.97,
-            9.93
+            10.01,
+            9.88,
+            9.71,
+            9.76,
+            9.86,
+            9.99,
+            9.8,
+            9.7,
+            9.9
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:51",
+            "time": "10:32",
             "tag": "MERCADO",
-            "text": "Nvidia chief says will announce $500 bil. partnership with SK Group in meeting with Lee"
+            "text": "China hits Trip.com with US$765 million antitrust penalty after six-month investigation"
         },
         {
-            "time": "08:47",
-            "tag": "AI",
-            "text": "Rescue deal for Hailo: Microchip acquires the Israeli AI chip company"
+            "time": "10:31",
+            "tag": "MERCADO",
+            "text": "Granahan Investment Management LLC Increases Position in Axon Enterprise, Inc $AXON"
         },
         {
-            "time": "08:39",
+            "time": "10:31",
             "tag": "MERCADO",
-            "text": "Simplicity Wealth LLC Acquires 5,018 Shares of Apple Inc. $AAPL"
+            "text": "548,860 Shares in Fidelity National Information Services, Inc. $FIS Purchased by Sunriver Management LLC"
         },
         {
-            "time": "08:33",
+            "time": "10:31",
             "tag": "MERCADO",
-            "text": "Epoch Investment Partners Inc. Raises Stock Position in VeriSign, Inc. $VRSN"
+            "text": "Sustainable Insight Capital Management LLC Trims Stock Position in MSCI Inc $MSCI"
         },
         {
-            "time": "08:33",
+            "time": "10:31",
             "tag": "MERCADO",
-            "text": "Cumberland Partners Ltd Sells 4,375 Shares of Expedia Group, Inc. $EXPE"
+            "text": "Unisphere Establishment Purchases Shares of 191,500 Microchip Technology Incorporated $MCHP"
         }
     ]
 }
