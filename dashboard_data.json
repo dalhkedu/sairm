@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-25 23:02 UTC",
+        "last_updated": "2026-07-26 03:15 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 206.84,
-            "change": "-2.97%"
+            "change": "+0.75%"
         },
         {
             "symbol": "AMD",
             "price": 521.95,
-            "change": "-1.72%"
+            "change": "+2.88%"
         },
         {
             "symbol": "MSFT",
             "price": 381.7,
-            "change": "-1.06%"
+            "change": "-2.76%"
         },
         {
             "symbol": "CEG",
             "price": 274.35,
-            "change": "+3.4%"
+            "change": "+0.87%"
         },
         {
             "symbol": "VST",
             "price": 163.38,
-            "change": "-0.07%"
+            "change": "-3.46%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.63,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
             0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            24.72,
-            25.11,
-            25.26,
-            24.92,
-            24.82,
-            25.17,
-            25.43,
-            25.21,
-            25.59,
-            25.47,
-            25.68,
-            25.5
+            27.1,
+            26.7,
+            26.33,
+            26.19,
+            26.26,
+            26.08,
+            25.65,
+            26.13,
+            25.76,
+            25.94,
+            25.54,
+            25.23
         ],
         "hsd_history_software": [
-            10.29,
-            10.44,
-            10.64,
-            10.45,
-            10.51,
-            10.56,
-            10.41,
-            10.23,
-            10.29,
-            10.21,
-            10.25,
-            10.07
+            9.67,
+            9.49,
+            9.64,
+            9.84,
+            9.77,
+            9.73,
+            9.77,
+            9.8,
+            9.83,
+            10.01,
+            10.09,
+            9.98
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:30",
+            "time": "02:34",
             "tag": "MERCADO",
-            "text": "Why Western Digital (WDC) Is Up 8.9% After Reviving Kioxia Flash Merger Talks - And What's Next"
+            "text": "Texas Instruments (TXN) Stock Faces Rich Valuation As 20.2% EPS Growth Reshapes Narratives"
         },
         {
-            "time": "21:34",
+            "time": "00:36",
+            "tag": "AI",
+            "text": "OpenAI Power Deal and Dividend Move Could Be A Game Changer For Southern (SO)"
+        },
+        {
+            "time": "00:19",
             "tag": "RESULTADOS",
-            "text": "Tesla, Intel, Google All Dropped After Earnings - Will Microsoft, Amazon, Meta Follow?"
+            "text": "Digital Realty Trust Earnings Call Signals Robust Growth"
         },
         {
-            "time": "21:25",
+            "time": "00:10",
             "tag": "MERCADO",
-            "text": "Synopsys (NASDAQ:SNPS) Approaches 52-Week Low; Debt Projection Brightens"
+            "text": "PD|PagerDuty Inc|Price:9.080|Chg%:+0.450"
         },
         {
-            "time": "20:41",
+            "time": "00:10",
             "tag": "MERCADO",
-            "text": "Riot Platforms (RIOT) Stock Looks Rich Following Its 69% Run"
-        },
-        {
-            "time": "20:28",
-            "tag": "MERCADO",
-            "text": "Samsung wins $200 billion order to supply chips to Broadcom"
+            "text": "QCLN ETF Profile: Dividends, Returns (FWB:QCLN)"
         }
     ]
 }
