@@ -1,28 +1,28 @@
 {
     "metadata": {
-        "last_updated": "2026-07-26 03:15 UTC",
+        "last_updated": "2026-07-26 06:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 206.84,
-            "change": "+0.75%"
+            "change": "-1.84%"
         },
         {
             "symbol": "AMD",
             "price": 521.95,
-            "change": "+2.88%"
+            "change": "-3.38%"
         },
         {
             "symbol": "MSFT",
             "price": 381.7,
-            "change": "-2.76%"
+            "change": "+0.02%"
         },
         {
             "symbol": "CEG",
             "price": 274.35,
-            "change": "+0.87%"
+            "change": "-1.76%"
         },
         {
             "symbol": "VST",
@@ -31,51 +31,51 @@
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.55,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.51,
+            0.52,
             0.51,
             0.51,
             0.51,
             0.52,
-            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
             0.51
         ],
         "hsd_history_hardware": [
-            27.1,
-            26.7,
-            26.33,
-            26.19,
-            26.26,
-            26.08,
-            25.65,
-            26.13,
-            25.76,
-            25.94,
-            25.54,
-            25.23
+            23.87,
+            23.91,
+            23.71,
+            24.1,
+            24.33,
+            24.66,
+            24.74,
+            24.79,
+            24.81,
+            25.21,
+            24.89,
+            24.72
         ],
         "hsd_history_software": [
-            9.67,
-            9.49,
-            9.64,
-            9.84,
-            9.77,
+            9.18,
+            9.29,
+            9.32,
+            9.43,
+            9.58,
+            9.57,
             9.73,
+            9.65,
+            9.72,
+            9.79,
             9.77,
-            9.8,
-            9.83,
-            10.01,
-            10.09,
-            9.98
+            9.86
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:34",
+            "time": "05:57",
             "tag": "MERCADO",
-            "text": "Texas Instruments (TXN) Stock Faces Rich Valuation As 20.2% EPS Growth Reshapes Narratives"
+            "text": "Verisk Analytics stock trades near record territory as data-driven insurance growth supports valuation"
         },
         {
-            "time": "00:36",
+            "time": "05:30",
             "tag": "AI",
-            "text": "OpenAI Power Deal and Dividend Move Could Be A Game Changer For Southern (SO)"
+            "text": "AI Infrastructure Stocks With Real Data Center Cash Flow Potential"
         },
         {
-            "time": "00:19",
-            "tag": "RESULTADOS",
-            "text": "Digital Realty Trust Earnings Call Signals Robust Growth"
-        },
-        {
-            "time": "00:10",
+            "time": "05:06",
             "tag": "MERCADO",
-            "text": "PD|PagerDuty Inc|Price:9.080|Chg%:+0.450"
+            "text": "Palo Alto Networks stock trades steadily as security demand supports growth"
         },
         {
-            "time": "00:10",
+            "time": "04:41",
             "tag": "MERCADO",
-            "text": "QCLN ETF Profile: Dividends, Returns (FWB:QCLN)"
+            "text": "XPND ETF Profile: Dividends, Returns (AMEX:XPND)"
+        },
+        {
+            "time": "04:10",
+            "tag": "MERCADO",
+            "text": "VECO|Veeco Instruments Inc|Price:51.660|Chg%:-2.920"
         }
     ]
 }
