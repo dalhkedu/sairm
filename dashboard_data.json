@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-26 13:34 UTC",
+        "last_updated": "2026-07-26 15:07 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 206.84,
-            "change": "-1.23%"
+            "change": "+3.3%"
         },
         {
             "symbol": "AMD",
             "price": 521.95,
-            "change": "+2.83%"
+            "change": "+3.3%"
         },
         {
             "symbol": "MSFT",
             "price": 381.7,
-            "change": "+2.2%"
+            "change": "+1.47%"
         },
         {
             "symbol": "CEG",
             "price": 274.35,
-            "change": "-1.6%"
+            "change": "-1.06%"
         },
         {
             "symbol": "VST",
             "price": 163.38,
-            "change": "-2.59%"
+            "change": "+1.51%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.51,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.48,
-            0.48,
-            0.49,
+            0.5,
+            0.5,
             0.5,
             0.49,
-            0.48,
-            0.48,
             0.49,
             0.49,
             0.49,
-            0.5
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            22.73,
-            22.89,
-            23.2,
-            23.42,
-            23.6,
-            23.83,
-            24.25,
-            24.33,
-            24.09,
-            24.21,
-            24.31,
-            24.55
+            25.48,
+            25.91,
+            26.36,
+            26.17,
+            25.93,
+            25.87,
+            26.2,
+            25.73,
+            25.56,
+            25.25,
+            24.88,
+            24.77
         ],
         "hsd_history_software": [
-            10.16,
-            10.32,
-            10.32,
-            10.25,
-            10.13,
-            10.18,
-            10.23,
-            10.28,
-            10.44,
-            10.45,
-            10.29,
-            10.17
+            9.68,
+            9.76,
+            9.8,
+            9.64,
+            9.79,
+            9.79,
+            9.96,
+            10.14,
+            10.11,
+            9.96,
+            10.02,
+            10.15
         ],
         "rci_data": [
             85.0,
@@ -126,9 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "INFO",
-            "tag": "LIMIT",
-            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
+            "time": "14:35",
+            "tag": "MERCADO",
+            "text": "Is Emerson Electric (EMR) Fully Priced On Its New Refinery Software Launch?"
+        },
+        {
+            "time": "13:17",
+            "tag": "MERCADO",
+            "text": "Volatility Is Back and These 3 Market Tollbooths Are Best Positioned to Profit"
+        },
+        {
+            "time": "13:11",
+            "tag": "AI",
+            "text": "Riot Platforms rated Buy as AI data center demand outpaces its expansion capacity."
+        },
+        {
+            "time": "12:57",
+            "tag": "MERCADO",
+            "text": "Teradyne stock trades steadily as recent earnings and robotics investments frame the outlook"
+        },
+        {
+            "time": "12:56",
+            "tag": "MERCADO",
+            "text": "Aptiv stock steadies as investors weigh recent earnings and EV demand trends"
         }
     ]
 }
