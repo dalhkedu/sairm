@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-26 15:07 UTC",
+        "last_updated": "2026-07-26 17:04 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 206.84,
-            "change": "+3.3%"
+            "change": "-1.34%"
         },
         {
             "symbol": "AMD",
             "price": 521.95,
-            "change": "+3.3%"
+            "change": "-0.23%"
         },
         {
             "symbol": "MSFT",
             "price": 381.7,
-            "change": "+1.47%"
+            "change": "+0.99%"
         },
         {
             "symbol": "CEG",
             "price": 274.35,
-            "change": "-1.06%"
+            "change": "+1.12%"
         },
         {
             "symbol": "VST",
             "price": 163.38,
-            "change": "+1.51%"
+            "change": "+2.86%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.59,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.54,
+            0.54,
+            0.54,
+            0.54,
+            0.53,
+            0.52,
+            0.52,
+            0.51,
             0.5,
             0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.48,
-            25.91,
-            26.36,
-            26.17,
-            25.93,
-            25.87,
-            26.2,
-            25.73,
-            25.56,
-            25.25,
-            24.88,
-            24.77
+            24.95,
+            24.47,
+            24.24,
+            23.98,
+            24.35,
+            24.63,
+            24.75,
+            24.64,
+            24.97,
+            25.15,
+            25.19,
+            25.18
         ],
         "hsd_history_software": [
-            9.68,
-            9.76,
+            9.84,
+            9.67,
+            9.74,
+            9.82,
+            9.91,
             9.8,
-            9.64,
-            9.79,
-            9.79,
-            9.96,
-            10.14,
-            10.11,
-            9.96,
-            10.02,
-            10.15
+            9.81,
+            9.86,
+            9.95,
+            9.89,
+            9.78,
+            9.88
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:35",
+            "time": "16:41",
             "tag": "MERCADO",
-            "text": "Is Emerson Electric (EMR) Fully Priced On Its New Refinery Software Launch?"
+            "text": "Marvell Technology, Inc. Revenue Breakdown \u2013 FWB:9MW"
         },
         {
-            "time": "13:17",
+            "time": "16:37",
             "tag": "MERCADO",
-            "text": "Volatility Is Back and These 3 Market Tollbooths Are Best Positioned to Profit"
+            "text": "Align Technology stock trades down amid ongoing selling pressure and oversold signals"
         },
         {
-            "time": "13:11",
+            "time": "16:08",
             "tag": "AI",
-            "text": "Riot Platforms rated Buy as AI data center demand outpaces its expansion capacity."
+            "text": "Better AI Software Stock: Palantir vs. ServiceNow"
         },
         {
-            "time": "12:57",
+            "time": "15:22",
             "tag": "MERCADO",
-            "text": "Teradyne stock trades steadily as recent earnings and robotics investments frame the outlook"
+            "text": "Netflix Q2 Report: Record Buybacks and Rising Margins"
         },
         {
-            "time": "12:56",
+            "time": "15:11",
             "tag": "MERCADO",
-            "text": "Aptiv stock steadies as investors weigh recent earnings and EV demand trends"
+            "text": "SP FUNDS S&P GLOBAL TECHNOLOGY ETF To Go Ex-Dividend On July 27th, 2026 With 0.0065 USD Dividend Per Share"
         }
     ]
 }
