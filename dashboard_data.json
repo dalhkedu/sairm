@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-07-27 15:43 UTC",
+        "last_updated": "2026-07-27 17:44 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 196.66,
-            "change": "+0.15%"
+            "price": 195.87,
+            "change": "+3.46%"
         },
         {
             "symbol": "AMD",
-            "price": 480.0,
-            "change": "+0.03%"
+            "price": 480.22,
+            "change": "+0.38%"
         },
         {
             "symbol": "MSFT",
-            "price": 391.43,
-            "change": "-1.01%"
+            "price": 392.21,
+            "change": "-2.92%"
         },
         {
             "symbol": "CEG",
-            "price": 270.91,
-            "change": "-1.26%"
+            "price": 271.9,
+            "change": "+0.33%"
         },
         {
             "symbol": "VST",
-            "price": 157.97,
-            "change": "+2.12%"
+            "price": 156.59,
+            "change": "-1.75%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.43,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.52,
+            0.51,
             0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
             0.5,
-            0.49,
             0.5,
-            0.51
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.51,
-            25.4,
-            25.89,
-            25.62,
-            25.23,
-            25.72,
-            25.23,
-            24.91,
+            24.78,
+            25.16,
+            24.78,
+            25.06,
+            25.09,
             25.25,
-            25.28,
-            24.81,
-            25.09
+            25.26,
+            24.95,
+            24.66,
+            24.42,
+            24.39,
+            24.84
         ],
         "hsd_history_software": [
-            9.45,
-            9.53,
-            9.49,
-            9.39,
-            9.51,
-            9.36,
-            9.52,
-            9.55,
-            9.64,
-            9.77,
-            9.8,
-            9.98
+            10.03,
+            9.93,
+            9.79,
+            9.96,
+            10.02,
+            10.17,
+            10.19,
+            10.0,
+            10.16,
+            9.97,
+            10.02,
+            9.86
         ],
         "rci_data": [
             85.0,
-            19.666
+            19.587000000000003
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:03",
+            "time": "17:07",
             "tag": "MERCADO",
-            "text": "Apple stock he record to outperform 'Mag 7' as iPhone maker avoids 'capex pitfalls'"
+            "text": "TD Cowen Issues Pessimistic Forecast for Tyler Technologies (NYSE:TYL) Stock Price"
         },
         {
-            "time": "15:03",
+            "time": "16:45",
             "tag": "MERCADO",
-            "text": "Keysight software helps flag chip problems before manufacturing"
+            "text": "Keysight's RFPro Software Certified for Intel's 14A and 18A-P Process Technologies"
         },
         {
-            "time": "14:42",
-            "tag": "MERCADO",
-            "text": "Rezolve Ai Delivers Breakout First-Half Performance:"
+            "time": "16:36",
+            "tag": "RESULTADOS",
+            "text": "VeriSign (VRSN) On Earnings And Buyback News Its Fair Value Debate Returns"
         },
         {
-            "time": "14:39",
+            "time": "16:29",
             "tag": "MERCADO",
-            "text": "Coca-Cola resumes Fairlife milk production after hackers shut down plants"
+            "text": "Applied Materials Stock Keeps Winning Upgrades: Is Michael Burry Dead Wrong to Short This Semiconductor Gem?"
         },
         {
-            "time": "14:39",
+            "time": "16:24",
             "tag": "MERCADO",
-            "text": "American Tower earnings on deck after recent analyst upgrades By Investing.com"
+            "text": "New Jersey-based CoreWeave plans to occupy Bastrop County data center"
         }
     ]
 }
