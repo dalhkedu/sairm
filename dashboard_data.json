@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-07-27 19:37 UTC",
+        "last_updated": "2026-07-27 21:13 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 197.3,
-            "change": "-2.32%"
+            "price": 196.51,
+            "change": "+1.24%"
         },
         {
             "symbol": "AMD",
-            "price": 493.38,
-            "change": "+0.71%"
+            "price": 494.95,
+            "change": "+0.93%"
         },
         {
             "symbol": "MSFT",
-            "price": 390.68,
-            "change": "-0.35%"
+            "price": 389.1,
+            "change": "+2.0%"
         },
         {
             "symbol": "CEG",
-            "price": 268.96,
-            "change": "-1.48%"
+            "price": 270.0,
+            "change": "+2.48%"
         },
         {
             "symbol": "VST",
-            "price": 156.17,
-            "change": "+2.42%"
+            "price": 157.08,
+            "change": "-2.53%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.49,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.49,
-            0.5,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
             0.51,
             0.51,
             0.51,
             0.51,
-            0.51,
-            0.51,
-            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.05,
-            25.43,
-            25.7,
-            25.92,
-            25.96,
-            25.61,
-            25.18,
-            24.99,
-            25.08,
-            25.04,
-            25.02,
-            25.21
+            26.96,
+            26.73,
+            26.52,
+            26.21,
+            26.24,
+            26.42,
+            26.04,
+            25.64,
+            25.23,
+            25.2,
+            24.9,
+            25.02
         ],
         "hsd_history_software": [
-            9.62,
-            9.57,
-            9.7,
+            9.85,
+            9.79,
+            9.72,
+            9.87,
+            9.85,
             9.86,
-            9.81,
-            9.89,
-            10.05,
-            10.24,
+            10.06,
+            10.18,
+            10.01,
             10.15,
-            10.02,
-            10.16,
+            10.17,
             10.13
         ],
         "rci_data": [
             85.0,
-            19.73
+            19.651
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:56",
-            "tag": "MERCADO",
-            "text": "RTX, SIRI Hit Fresh 52-Week Highs Today \u2013 What\u2019s Got Investors Buzzing?"
+            "time": "20:38",
+            "tag": "AI",
+            "text": "NVIDIA\u2019s Huang heads to Capitol Hill for AI talks"
         },
         {
-            "time": "18:30",
+            "time": "20:29",
             "tag": "MERCADO",
-            "text": "Uber: Autonomous Vehicle Relationship With Waymo Shows Signs of Fracture"
+            "text": "Tyler Technologies Inc. stock outperforms competitors on strong trading day"
         },
         {
-            "time": "18:29",
-            "tag": "RESULTADOS",
-            "text": "Q1 Earnings Highs And Lows: Angi (NASDAQ:ANGI) Vs The Rest Of The Gig Economy Stocks"
+            "time": "20:26",
+            "tag": "MERCADO",
+            "text": "Apple Regains Spot Over Nvidia as Most Valuable Public Company"
         },
         {
-            "time": "18:29",
+            "time": "20:23",
             "tag": "MERCADO",
-            "text": "Honeywell Technologies completes sale of warehouse and workflow unit (HON:NASDAQ)"
+            "text": "F5 (NASDAQ:FFIV) Beats Expectations in Strong Q2 CY2026, Next Quarter\u2019s Sales Guidance is Optimistic"
         },
         {
-            "time": "18:15",
+            "time": "20:16",
             "tag": "MERCADO",
-            "text": "Microsoft Corp Stock (MSFT) Moved Up by 3.09% on Jul 27: What Investors Need To Know"
+            "text": "ServiceNow Inc Stock (NOW) Closed Up by 7.11% on Jul 27: What Signal Does It Send?"
         }
     ]
 }
