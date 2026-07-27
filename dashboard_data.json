@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-07-27 21:13 UTC",
+        "last_updated": "2026-07-27 23:04 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 196.51,
-            "change": "+1.24%"
+            "price": NaN,
+            "change": "-2.0%"
         },
         {
             "symbol": "AMD",
             "price": 494.95,
-            "change": "+0.93%"
+            "change": "-1.46%"
         },
         {
             "symbol": "MSFT",
             "price": 389.1,
-            "change": "+2.0%"
+            "change": "-2.12%"
         },
         {
             "symbol": "CEG",
             "price": 270.0,
-            "change": "+2.48%"
+            "change": "+0.72%"
         },
         {
             "symbol": "VST",
             "price": 157.08,
-            "change": "-2.53%"
+            "change": "+3.07%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
-        "rci_current": 0.2,
+        "cer_current": 0.46,
+        "rci_current": NaN,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.52,
-            0.51,
+            0.5,
             0.51,
             0.51,
             0.52,
+            0.52,
+            0.52,
             0.51,
             0.51,
             0.51,
+            0.52,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            26.96,
-            26.73,
-            26.52,
-            26.21,
-            26.24,
-            26.42,
-            26.04,
-            25.64,
-            25.23,
-            25.2,
-            24.9,
-            25.02
+            24.88,
+            25.36,
+            25.59,
+            25.44,
+            25.78,
+            25.4,
+            25.74,
+            25.49,
+            25.31,
+            25.28,
+            24.81,
+            24.52
         ],
         "hsd_history_software": [
-            9.85,
-            9.79,
-            9.72,
-            9.87,
-            9.85,
-            9.86,
+            10.0,
             10.06,
+            10.09,
+            10.25,
+            10.16,
+            10.07,
+            10.21,
+            10.28,
             10.18,
-            10.01,
-            10.15,
-            10.17,
-            10.13
+            10.12,
+            9.95,
+            10.01
         ],
         "rci_data": [
             85.0,
-            19.651
+            NaN
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:38",
+            "time": "22:14",
+            "tag": "RESULTADOS",
+            "text": "Cadence Design Systems, Inc (CDNS) Q2 2026 Earnings Call Transcript"
+        },
+        {
+            "time": "21:35",
+            "tag": "MERCADO",
+            "text": "Arista Networks (NYSE:ANET) Trading Down 2% - Time to Sell?"
+        },
+        {
+            "time": "21:32",
+            "tag": "MERCADO",
+            "text": "Western Digital Corp (WDC) Stock Down 4.2% but Still Overvalued -- GF Score: 60/100"
+        },
+        {
+            "time": "21:30",
             "tag": "AI",
-            "text": "NVIDIA\u2019s Huang heads to Capitol Hill for AI talks"
+            "text": "AI-Centric Leadership Hires and Solid Q2 Results Could Be A Game Changer For First Horizon (FHN)"
         },
         {
-            "time": "20:29",
+            "time": "21:30",
             "tag": "MERCADO",
-            "text": "Tyler Technologies Inc. stock outperforms competitors on strong trading day"
-        },
-        {
-            "time": "20:26",
-            "tag": "MERCADO",
-            "text": "Apple Regains Spot Over Nvidia as Most Valuable Public Company"
-        },
-        {
-            "time": "20:23",
-            "tag": "MERCADO",
-            "text": "F5 (NASDAQ:FFIV) Beats Expectations in Strong Q2 CY2026, Next Quarter\u2019s Sales Guidance is Optimistic"
-        },
-        {
-            "time": "20:16",
-            "tag": "MERCADO",
-            "text": "ServiceNow Inc Stock (NOW) Closed Up by 7.11% on Jul 27: What Signal Does It Send?"
+            "text": "Fidelity National Information Services (FIS) Could Be 29% Undervalued After Project Glasswing News"
         }
     ]
 }
