@@ -1,80 +1,80 @@
 {
     "metadata": {
-        "last_updated": "2026-07-28 02:43 UTC",
+        "last_updated": "2026-07-28 05:48 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 196.51,
-            "change": "+0.85%"
+            "change": "-0.58%"
         },
         {
             "symbol": "AMD",
             "price": 494.95,
-            "change": "+2.16%"
+            "change": "+3.05%"
         },
         {
             "symbol": "MSFT",
             "price": 389.1,
-            "change": "+1.18%"
+            "change": "+2.98%"
         },
         {
             "symbol": "CEG",
             "price": 270.0,
-            "change": "+3.3%"
+            "change": "-2.41%"
         },
         {
             "symbol": "VST",
             "price": 157.08,
-            "change": "-0.12%"
+            "change": "+2.07%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.41,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
+            0.48,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.5,
             0.51,
             0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51
+            0.51,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.18,
-            25.34,
-            25.36,
-            25.6,
-            25.76,
-            25.62,
-            25.54,
-            25.86,
-            25.78,
-            25.29,
-            25.25,
-            25.22
+            26.29,
+            25.87,
+            25.53,
+            25.28,
+            24.88,
+            24.95,
+            24.77,
+            24.8,
+            24.45,
+            24.6,
+            25.08,
+            25.02
         ],
         "hsd_history_software": [
-            9.48,
-            9.67,
-            9.84,
-            10.0,
-            10.14,
-            9.96,
-            9.87,
-            9.98,
-            9.96,
-            9.92,
-            9.83,
+            10.67,
+            10.7,
+            10.51,
+            10.37,
+            10.28,
+            10.38,
+            10.23,
+            10.17,
+            10.18,
+            10.18,
+            10.16,
             9.97
         ],
         "rci_data": [
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:45",
+            "time": "05:07",
+            "tag": "MERCADO",
+            "text": "Cisco Systems (NASDAQ:CSCO) Lowered to \"Hold\" Rating by Wall Street Zen"
+        },
+        {
+            "time": "04:37",
             "tag": "RESULTADOS",
-            "text": "Did Citi\u2019s (C) Earnings Beat and Dividend Hike Just Recast Its AI Investment Trade\u2011Off?"
+            "text": "NetApp Inc (0K6F) Q3 2024 Earnings Report - Results, Call & Slides"
         },
         {
-            "time": "01:36",
+            "time": "04:30",
+            "tag": "RESULTADOS",
+            "text": "F5 Inc (FFIV) Q3 2026 Earnings Call Highlights: Strong Product Revenue Growth and Raised Fiscal Outlook"
+        },
+        {
+            "time": "03:49",
             "tag": "MERCADO",
-            "text": "Polar Power Secures Up to $25 Million Committed Equity Facility to Support Growth"
+            "text": "eBay, Former Executives Settle Cyberstalking Case for $55.7 Million"
         },
         {
-            "time": "01:30",
-            "tag": "AI",
-            "text": "Franklin Templeton says mega IPO wave could reshape AI investment cycle"
-        },
-        {
-            "time": "01:27",
-            "tag": "AI",
-            "text": "Gartner MQ: How Cortex XDR Redefines AI Security"
-        },
-        {
-            "time": "01:19",
-            "tag": "MERCADO",
-            "text": "Picard Medical / SynCardia to Present Next-Generation Emperor Total Artificial Heart Technology at IEEE EMBC 2026"
+            "time": "03:39",
+            "tag": "RESULTADOS",
+            "text": "Electronic Arts Earnings: What To Look For From EA"
         }
     ]
 }
