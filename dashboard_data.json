@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-07-28 16:41 UTC",
+        "last_updated": "2026-07-28 18:16 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 197.63,
-            "change": "-2.81%"
+            "price": 197.06,
+            "change": "-2.69%"
         },
         {
             "symbol": "AMD",
-            "price": 461.32,
-            "change": "+0.82%"
+            "price": 456.28,
+            "change": "-2.89%"
         },
         {
             "symbol": "MSFT",
-            "price": 398.35,
-            "change": "-2.05%"
+            "price": 397.52,
+            "change": "-0.87%"
         },
         {
             "symbol": "CEG",
-            "price": 263.93,
-            "change": "-2.21%"
+            "price": 261.06,
+            "change": "+2.5%"
         },
         {
             "symbol": "VST",
-            "price": 151.04,
-            "change": "-2.33%"
+            "price": 149.0,
+            "change": "+0.95%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.63,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.5,
+            0.48,
             0.49,
             0.49,
             0.5,
             0.49,
             0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.5,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.81,
-            24.99,
-            25.06,
-            24.78,
-            24.92,
-            25.28,
+            24.6,
+            24.39,
+            24.76,
+            24.98,
+            25.0,
+            25.39,
             25.35,
-            25.2,
-            25.17,
-            25.13,
-            24.87,
-            25.3
+            25.8,
+            25.62,
+            25.49,
+            25.42,
+            25.35
         ],
         "hsd_history_software": [
-            10.02,
-            10.09,
-            10.26,
-            10.08,
-            9.9,
-            9.94,
-            9.82,
-            9.96,
-            9.95,
-            10.11,
-            10.07,
-            9.9
+            10.67,
+            10.85,
+            10.85,
+            10.7,
+            10.56,
+            10.47,
+            10.36,
+            10.18,
+            10.1,
+            10.24,
+            10.05,
+            10.03
         ],
         "rci_data": [
             85.0,
-            19.763
+            19.706000000000003
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:10",
-            "tag": "MERCADO",
-            "text": "VanEck Semiconductor ETF Options Spot-On: On July 27th, 590.85K Contracts Were Traded, With 2.74 Million Open Interest"
-        },
-        {
-            "time": "16:00",
-            "tag": "MERCADO",
-            "text": "Bronstein, Gewirtz & Grossman LLC Urges Intuit Inc. Investors to Act: Class Action Filed Alleging Investor Harm"
-        },
-        {
-            "time": "15:59",
-            "tag": "MERCADO",
-            "text": "It\u2019s bigger than gaming: Why the FTC shouldn\u2019t rubber-stamp the EA buyout"
-        },
-        {
-            "time": "15:50",
-            "tag": "MERCADO",
-            "text": "Why Cadence Design Systems (CDNS) Stock Is Up Today"
-        },
-        {
-            "time": "15:43",
+            "time": "17:32",
             "tag": "AI",
-            "text": "Apple Became a $5 Trillion Company Thanks to Its Approach to AI"
+            "text": "Backflipt Achieves Fortinet Fabric-Ready Validation, Extending the Fortinet AI-Native Security Fabric for Agentic AI"
+        },
+        {
+            "time": "17:31",
+            "tag": "MERCADO",
+            "text": "Yelp Host adds OpenTable as call volume gains 38% a month since launch"
+        },
+        {
+            "time": "17:26",
+            "tag": "AI",
+            "text": "Amazon Is Rethinking Its Biggest AI Bet"
+        },
+        {
+            "time": "17:23",
+            "tag": "RESULTADOS",
+            "text": "Corning Earnings: Buy Into the Fundamentals, Sell the Market Pessimism"
+        },
+        {
+            "time": "17:16",
+            "tag": "MERCADO",
+            "text": "KLA Corp Stock (KLAC) Moved Down by 5.17% on Jul 28: A Full Analysis"
         }
     ]
 }
