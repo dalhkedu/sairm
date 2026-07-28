@@ -1,13 +1,13 @@
 {
     "metadata": {
-        "last_updated": "2026-07-28 05:48 UTC",
+        "last_updated": "2026-07-28 08:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 196.51,
-            "change": "-0.58%"
+            "change": "+0.96%"
         },
         {
             "symbol": "AMD",
@@ -17,65 +17,65 @@
         {
             "symbol": "MSFT",
             "price": 389.1,
-            "change": "+2.98%"
+            "change": "-0.76%"
         },
         {
             "symbol": "CEG",
             "price": 270.0,
-            "change": "-2.41%"
+            "change": "-0.35%"
         },
         {
             "symbol": "VST",
             "price": 157.08,
-            "change": "+2.07%"
+            "change": "+2.08%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.57,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.47,
-            0.47,
-            0.48,
-            0.49,
-            0.49,
+            0.51,
             0.5,
             0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.51,
-            0.51,
-            0.51,
-            0.5
+            0.5,
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.29,
-            25.87,
-            25.53,
-            25.28,
-            24.88,
-            24.95,
-            24.77,
+            24.2,
+            24.59,
             24.8,
-            24.45,
-            24.6,
-            25.08,
-            25.02
+            24.38,
+            24.46,
+            24.66,
+            24.97,
+            24.72,
+            24.58,
+            25.06,
+            24.89,
+            24.67
         ],
         "hsd_history_software": [
-            10.67,
-            10.7,
-            10.51,
-            10.37,
-            10.28,
-            10.38,
-            10.23,
-            10.17,
-            10.18,
-            10.18,
+            10.34,
             10.16,
-            9.97
+            10.2,
+            10.2,
+            10.35,
+            10.26,
+            10.17,
+            10.09,
+            9.93,
+            9.82,
+            9.94,
+            9.94
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:07",
+            "time": "08:03",
             "tag": "MERCADO",
-            "text": "Cisco Systems (NASDAQ:CSCO) Lowered to \"Hold\" Rating by Wall Street Zen"
+            "text": "Empowered Funds LLC Acquires 44,961 Shares of Intuit Inc. $INTU"
         },
         {
-            "time": "04:37",
-            "tag": "RESULTADOS",
-            "text": "NetApp Inc (0K6F) Q3 2024 Earnings Report - Results, Call & Slides"
-        },
-        {
-            "time": "04:30",
-            "tag": "RESULTADOS",
-            "text": "F5 Inc (FFIV) Q3 2026 Earnings Call Highlights: Strong Product Revenue Growth and Raised Fiscal Outlook"
-        },
-        {
-            "time": "03:49",
+            "time": "08:01",
             "tag": "MERCADO",
-            "text": "eBay, Former Executives Settle Cyberstalking Case for $55.7 Million"
+            "text": "TE Connectivity adds 3D printing for catheter shafts"
         },
         {
-            "time": "03:39",
-            "tag": "RESULTADOS",
-            "text": "Electronic Arts Earnings: What To Look For From EA"
+            "time": "07:57",
+            "tag": "MERCADO",
+            "text": "American Capital Management Inc. Purchases Shares of 624,084 Palo Alto Networks, Inc. $PANW"
+        },
+        {
+            "time": "07:57",
+            "tag": "MERCADO",
+            "text": "Encompass Capital Advisors LLC Invests $27.23 Million in Enphase Energy, Inc. $ENPH"
+        },
+        {
+            "time": "07:57",
+            "tag": "MERCADO",
+            "text": "American Capital Management Inc. Buys 76,903 Shares of Tyler Technologies, Inc. $TYL"
         }
     ]
 }
