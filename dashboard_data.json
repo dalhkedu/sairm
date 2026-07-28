@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-07-28 11:20 UTC",
+        "last_updated": "2026-07-28 14:12 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 196.51,
-            "change": "-0.83%"
+            "price": 194.38,
+            "change": "-2.12%"
         },
         {
             "symbol": "AMD",
-            "price": 494.95,
-            "change": "+0.52%"
+            "price": NaN,
+            "change": "+0.8%"
         },
         {
             "symbol": "MSFT",
-            "price": 389.1,
-            "change": "-2.94%"
+            "price": 393.79,
+            "change": "-3.45%"
         },
         {
             "symbol": "CEG",
-            "price": 270.0,
-            "change": "+2.57%"
+            "price": 265.2,
+            "change": "+2.23%"
         },
         {
             "symbol": "VST",
-            "price": 157.08,
-            "change": "+1.94%"
+            "price": 150.65,
+            "change": "+2.49%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.7,
-        "rci_current": 0.2,
+        "cer_current": 0.51,
+        "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.52,
+            0.5,
+            0.5,
             0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
             0.51,
             0.5,
-            0.52,
+            0.5,
+            0.5,
+            0.5,
             0.51,
+            0.51,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.78,
-            25.95,
-            25.87,
-            25.92,
-            25.51,
-            25.14,
-            25.48,
-            25.23,
-            25.33,
-            25.56,
-            25.26,
-            25.32
+            23.34,
+            23.33,
+            23.66,
+            23.88,
+            23.76,
+            24.05,
+            24.32,
+            24.09,
+            24.39,
+            24.58,
+            24.62,
+            25.07
         ],
         "hsd_history_software": [
-            9.57,
-            9.68,
-            9.87,
-            9.92,
-            10.0,
-            9.97,
-            10.13,
-            10.24,
-            10.25,
-            10.06,
             9.9,
-            10.03
+            9.86,
+            9.76,
+            9.94,
+            9.89,
+            10.05,
+            10.09,
+            9.97,
+            10.09,
+            10.1,
+            10.01,
+            10.16
         ],
         "rci_data": [
             85.0,
-            19.651
+            19.438
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:33",
-            "tag": "MERCADO",
-            "text": "Southpoint Capital Advisors LP Acquires Shares of 250,000 Equinix, Inc. $EQIX"
+            "time": "13:26",
+            "tag": "AI",
+            "text": "KLA (KLAC) Stock Looks Pricey Following Fresh AI Hardware Demand News"
         },
         {
-            "time": "10:26",
-            "tag": "MERCADO",
-            "text": "Mass. couple agrees to $56M settlement in a case tied to eBay's bizarre harassment campaign"
+            "time": "13:17",
+            "tag": "AI",
+            "text": "Medtronic Stock Builds Momentum On AI, SPR Deal And Bullish Street"
         },
         {
-            "time": "10:24",
+            "time": "13:16",
             "tag": "MERCADO",
-            "text": "Zacks Industry Outlook Highlights CME Group, Intercontinental Exchange, Nasdaq and Cboe Global Markets"
+            "text": "Aerospace and defense giant RTX Corp. discloses data breach exposing social security numbers"
         },
         {
-            "time": "10:15",
+            "time": "13:15",
+            "tag": "MERCADO",
+            "text": "Navitas Semiconductor falls on large loss despite Q2 revenue beat"
+        },
+        {
+            "time": "13:13",
             "tag": "RESULTADOS",
-            "text": "Top Wall Street Forecasters Revamp Seagate Expectations Ahead Of Q4 Earnings"
-        },
-        {
-            "time": "10:08",
-            "tag": "MERCADO",
-            "text": "Weiss Asset Management LP Grows Position in Microchip Technology Incorporated $MCHP"
+            "text": "Buy Texas Instruments as a Momentum Play After Solid Q2 2026 Earnings"
         }
     ]
 }
