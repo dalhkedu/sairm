@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-07-28 14:12 UTC",
+        "last_updated": "2026-07-28 16:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 194.38,
-            "change": "-2.12%"
+            "price": 197.63,
+            "change": "-2.81%"
         },
         {
             "symbol": "AMD",
-            "price": NaN,
-            "change": "+0.8%"
+            "price": 461.32,
+            "change": "+0.82%"
         },
         {
             "symbol": "MSFT",
-            "price": 393.79,
-            "change": "-3.45%"
+            "price": 398.35,
+            "change": "-2.05%"
         },
         {
             "symbol": "CEG",
-            "price": 265.2,
-            "change": "+2.23%"
+            "price": 263.93,
+            "change": "-2.21%"
         },
         {
             "symbol": "VST",
-            "price": 150.65,
-            "change": "+2.49%"
+            "price": 151.04,
+            "change": "-2.33%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
-        "rci_current": 0.19,
+        "cer_current": 0.61,
+        "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
+            0.51,
+            0.52,
+            0.52,
             0.51,
             0.51,
             0.5,
+            0.49,
+            0.49,
             0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
+            0.49,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            23.34,
-            23.33,
-            23.66,
-            23.88,
-            23.76,
-            24.05,
-            24.32,
-            24.09,
-            24.39,
-            24.58,
-            24.62,
-            25.07
+            24.81,
+            24.99,
+            25.06,
+            24.78,
+            24.92,
+            25.28,
+            25.35,
+            25.2,
+            25.17,
+            25.13,
+            24.87,
+            25.3
         ],
         "hsd_history_software": [
+            10.02,
+            10.09,
+            10.26,
+            10.08,
             9.9,
-            9.86,
-            9.76,
             9.94,
-            9.89,
-            10.05,
-            10.09,
-            9.97,
-            10.09,
-            10.1,
-            10.01,
-            10.16
+            9.82,
+            9.96,
+            9.95,
+            10.11,
+            10.07,
+            9.9
         ],
         "rci_data": [
             85.0,
-            19.438
+            19.763
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:26",
-            "tag": "AI",
-            "text": "KLA (KLAC) Stock Looks Pricey Following Fresh AI Hardware Demand News"
-        },
-        {
-            "time": "13:17",
-            "tag": "AI",
-            "text": "Medtronic Stock Builds Momentum On AI, SPR Deal And Bullish Street"
-        },
-        {
-            "time": "13:16",
+            "time": "16:10",
             "tag": "MERCADO",
-            "text": "Aerospace and defense giant RTX Corp. discloses data breach exposing social security numbers"
+            "text": "VanEck Semiconductor ETF Options Spot-On: On July 27th, 590.85K Contracts Were Traded, With 2.74 Million Open Interest"
         },
         {
-            "time": "13:15",
+            "time": "16:00",
             "tag": "MERCADO",
-            "text": "Navitas Semiconductor falls on large loss despite Q2 revenue beat"
+            "text": "Bronstein, Gewirtz & Grossman LLC Urges Intuit Inc. Investors to Act: Class Action Filed Alleging Investor Harm"
         },
         {
-            "time": "13:13",
-            "tag": "RESULTADOS",
-            "text": "Buy Texas Instruments as a Momentum Play After Solid Q2 2026 Earnings"
+            "time": "15:59",
+            "tag": "MERCADO",
+            "text": "It\u2019s bigger than gaming: Why the FTC shouldn\u2019t rubber-stamp the EA buyout"
+        },
+        {
+            "time": "15:50",
+            "tag": "MERCADO",
+            "text": "Why Cadence Design Systems (CDNS) Stock Is Up Today"
+        },
+        {
+            "time": "15:43",
+            "tag": "AI",
+            "text": "Apple Became a $5 Trillion Company Thanks to Its Approach to AI"
         }
     ]
 }
