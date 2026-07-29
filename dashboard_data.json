@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-07-29 15:09 UTC",
+        "last_updated": "2026-07-29 17:17 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 192.79,
-            "change": "+1.02%"
+            "price": 192.96,
+            "change": "-2.21%"
         },
         {
             "symbol": "AMD",
-            "price": 432.71,
-            "change": "+1.17%"
+            "price": 438.24,
+            "change": "-2.55%"
         },
         {
             "symbol": "MSFT",
-            "price": 395.62,
-            "change": "-2.87%"
+            "price": 395.8,
+            "change": "+2.01%"
         },
         {
             "symbol": "CEG",
-            "price": 257.96,
-            "change": "+3.47%"
+            "price": 258.89,
+            "change": "+1.35%"
         },
         {
             "symbol": "VST",
-            "price": 144.06,
-            "change": "-1.31%"
+            "price": 143.74,
+            "change": "-2.83%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.67,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.46,
+            0.46,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
             0.5,
             0.49,
+            0.48,
             0.49,
-            0.5,
-            0.51,
-            0.51,
-            0.51
+            0.49
         ],
         "hsd_history_hardware": [
-            24.68,
-            24.59,
-            24.52,
-            24.82,
-            25.27,
-            25.66,
-            25.85,
-            25.98,
+            26.5,
+            26.42,
+            26.05,
+            25.64,
+            25.56,
             25.73,
-            25.42,
-            25.66,
-            25.41
+            26.16,
+            25.9,
+            25.7,
+            25.44,
+            25.49,
+            25.11
         ],
         "hsd_history_software": [
-            10.06,
-            10.1,
-            10.2,
-            10.28,
-            10.14,
-            10.03,
-            10.21,
-            10.33,
+            10.11,
+            10.11,
+            10.26,
+            10.43,
+            10.54,
+            10.36,
+            10.41,
             10.24,
-            10.28,
-            10.09,
-            10.14
+            10.13,
+            10.08,
+            9.9,
+            10.06
         ],
         "rci_data": [
             85.0,
-            19.279
+            19.296000000000003
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:39",
-            "tag": "RESULTADOS",
-            "text": "Bio-Techne's Q4 Earnings on Deck: What's in Store for the Stock?"
-        },
-        {
-            "time": "14:26",
-            "tag": "AI",
-            "text": "FFIV Looks 49.5% Overvalued on GF Value\u2122 as AI Security Integrat"
-        },
-        {
-            "time": "14:22",
+            "time": "16:41",
             "tag": "MERCADO",
-            "text": "Brookfield, NextEra to Develop $100 Billion Data Center Campus in Kentucky"
+            "text": "Karnataka discusses Takeda GCC expansion, innovation partnerships"
         },
         {
-            "time": "14:20",
-            "tag": "RESULTADOS",
-            "text": "Earnings call transcript: Teradyne tops Q2 2026 estimates on AI demand"
-        },
-        {
-            "time": "14:19",
+            "time": "16:38",
             "tag": "MERCADO",
-            "text": "Battery storage is an important growth driver, NextEra CEO says, amid merger to create largest regulated utility in US"
+            "text": "Telephone and Data Systems faces earnings test after fiber push"
+        },
+        {
+            "time": "16:37",
+            "tag": "MERCADO",
+            "text": "TeamDynamix Positioned as Challenger in 2026 Gartner\u00ae Magic Quadrant\u2122 for IT Service Management (ITSM) Platforms"
+        },
+        {
+            "time": "16:34",
+            "tag": "MERCADO",
+            "text": "PTC in the spotlight as earnings loom after portfolio pivot By Investing.com"
+        },
+        {
+            "time": "16:33",
+            "tag": "MERCADO",
+            "text": "Tyler Technologies faces earnings test as estimates decline By Investing.com"
         }
     ]
 }
