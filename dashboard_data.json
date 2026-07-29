@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-07-29 19:20 UTC",
+        "last_updated": "2026-07-29 20:58 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 194.07,
-            "change": "+0.28%"
+            "price": 190.01,
+            "change": "+2.57%"
         },
         {
             "symbol": "AMD",
-            "price": 442.63,
-            "change": "+0.4%"
+            "price": 429.56,
+            "change": "-2.08%"
         },
         {
             "symbol": "MSFT",
-            "price": 397.62,
-            "change": "-2.96%"
+            "price": 390.54,
+            "change": "-0.55%"
         },
         {
             "symbol": "CEG",
-            "price": 262.24,
-            "change": "+2.94%"
+            "price": 257.95,
+            "change": "-3.18%"
         },
         {
             "symbol": "VST",
-            "price": 144.16,
-            "change": "+2.88%"
+            "price": 142.81,
+            "change": "-0.69%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.7,
+        "cer_current": 0.64,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.55,
-            0.55,
-            0.55,
-            0.54,
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.51,
+            0.5,
             0.51,
-            0.51
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.83,
-            25.94,
-            25.93,
-            25.64,
-            25.86,
-            25.89,
-            25.41,
-            25.72,
-            25.45,
+            26.55,
+            26.37,
+            25.97,
+            25.5,
+            25.18,
+            24.88,
+            25.16,
             25.05,
-            25.19,
-            25.24
+            25.44,
+            25.3,
+            25.03,
+            25.4
         ],
         "hsd_history_software": [
-            10.4,
-            10.32,
-            10.51,
-            10.35,
-            10.45,
-            10.36,
-            10.41,
-            10.49,
-            10.57,
-            10.4,
+            10.29,
+            10.28,
+            10.42,
             10.33,
-            10.2
+            10.14,
+            10.06,
+            9.92,
+            9.8,
+            9.9,
+            9.74,
+            9.76,
+            9.92
         ],
         "rci_data": [
             85.0,
-            19.407
+            19.000999999999998
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:30",
+            "time": "20:06",
             "tag": "MERCADO",
-            "text": "HP once updated millions of printers to reject ink they already owned, and it worked"
+            "text": "Maplebear Chief Legal Officer Morgan Fong Sells 18,390 Shares for $815,400"
         },
         {
-            "time": "18:15",
+            "time": "20:01",
             "tag": "MERCADO",
-            "text": "Salesforce Inc Stock (CRM) Moved Up by 4.02% on Jul 29: A Full Analysis"
+            "text": "Qualcomm Profit Forecast Misses Estimates in Sign of Phone Woes"
         },
         {
-            "time": "18:13",
+            "time": "19:35",
             "tag": "MERCADO",
-            "text": "Apple, Amazon, Stryker, and more set to report earnings Thursday By Investing.com"
+            "text": "Enphase Energy (ENPH) Released Q2 2026 Results, Is The Stock Still Cheap?"
         },
         {
-            "time": "17:47",
-            "tag": "AI",
-            "text": "Tyler Technologies Q2 2026 earnings expected to rise, but stock drops amid AI hardware shift"
+            "time": "19:30",
+            "tag": "MERCADO",
+            "text": "Morgan Stanley offering new ethereum, solana ETFs"
         },
         {
-            "time": "17:41",
+            "time": "19:17",
             "tag": "MERCADO",
-            "text": "Q-A-How does moving to the cloud advance well control"
+            "text": "Morgan Stanley Lowers Skyworks Solutions (NASDAQ:SWKS) Price Target to $72.00"
         }
     ]
 }
