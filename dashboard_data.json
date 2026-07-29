@@ -1,38 +1,38 @@
 {
     "metadata": {
-        "last_updated": "2026-07-29 12:02 UTC",
+        "last_updated": "2026-07-29 15:09 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 197.01,
-            "change": "-1.8%"
+            "price": 192.79,
+            "change": "+1.02%"
         },
         {
             "symbol": "AMD",
-            "price": 454.62,
-            "change": "-0.58%"
+            "price": 432.71,
+            "change": "+1.17%"
         },
         {
             "symbol": "MSFT",
-            "price": 393.35,
-            "change": "-2.67%"
+            "price": 395.62,
+            "change": "-2.87%"
         },
         {
             "symbol": "CEG",
-            "price": 259.82,
-            "change": "-1.76%"
+            "price": 257.96,
+            "change": "+3.47%"
         },
         {
             "symbol": "VST",
-            "price": 148.64,
-            "change": "-2.15%"
+            "price": 144.06,
+            "change": "-1.31%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
-        "rci_current": 0.2,
+        "cer_current": 0.66,
+        "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
@@ -44,42 +44,42 @@
             0.5,
             0.49,
             0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.49
+            0.5,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.94,
+            24.68,
+            24.59,
+            24.52,
+            24.82,
+            25.27,
+            25.66,
             25.85,
-            25.92,
-            26.43,
-            26.3,
-            26.02,
-            25.76,
+            25.98,
+            25.73,
             25.42,
-            25.53,
-            25.42,
-            25.15,
-            25.38
+            25.66,
+            25.41
         ],
         "hsd_history_software": [
-            10.12,
+            10.06,
+            10.1,
             10.2,
-            10.2,
-            10.35,
-            10.23,
-            10.18,
-            10.25,
-            10.08,
+            10.28,
+            10.14,
+            10.03,
             10.21,
-            10.22,
-            10.11,
-            9.96
+            10.33,
+            10.24,
+            10.28,
+            10.09,
+            10.14
         ],
         "rci_data": [
             85.0,
-            19.701
+            19.279
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:15",
-            "tag": "CRYPTO",
-            "text": "CoinCash Gets MiCA License as Hungary Repeals Crypto Rules"
+            "time": "14:39",
+            "tag": "RESULTADOS",
+            "text": "Bio-Techne's Q4 Earnings on Deck: What's in Store for the Stock?"
         },
         {
-            "time": "09:05",
-            "tag": "MERCADO",
-            "text": "The Zacks Analyst Blog Highlights Apple, HP, Alphabet and Dell"
+            "time": "14:26",
+            "tag": "AI",
+            "text": "FFIV Looks 49.5% Overvalued on GF Value\u2122 as AI Security Integrat"
         },
         {
-            "time": "08:52",
+            "time": "14:22",
             "tag": "MERCADO",
-            "text": "Zacks Industry Outlook Highlights Cisco Systems, Extreme Networks and Digi International"
+            "text": "Brookfield, NextEra to Develop $100 Billion Data Center Campus in Kentucky"
         },
         {
-            "time": "07:45",
-            "tag": "MERCADO",
-            "text": "3 Reasons Alphabet Stock Could Double by 2030"
+            "time": "14:20",
+            "tag": "RESULTADOS",
+            "text": "Earnings call transcript: Teradyne tops Q2 2026 estimates on AI demand"
         },
         {
-            "time": "07:00",
+            "time": "14:19",
             "tag": "MERCADO",
-            "text": "China's ATRenew has big plans for Hong Kong's little-known phone trading hub"
+            "text": "Battery storage is an important growth driver, NextEra CEO says, amid merger to create largest regulated utility in US"
         }
     ]
 }
