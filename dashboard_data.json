@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-29 03:28 UTC",
+        "last_updated": "2026-07-29 06:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 197.01,
-            "change": "+1.68%"
+            "change": "-2.54%"
         },
         {
             "symbol": "AMD",
-            "price": NaN,
-            "change": "-0.31%"
+            "price": 454.62,
+            "change": "+3.2%"
         },
         {
             "symbol": "MSFT",
             "price": 393.35,
-            "change": "+0.51%"
+            "change": "-0.96%"
         },
         {
             "symbol": "CEG",
             "price": 259.82,
-            "change": "+1.07%"
+            "change": "-3.33%"
         },
         {
             "symbol": "VST",
             "price": 148.64,
-            "change": "+1.19%"
+            "change": "+2.44%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.65,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
+            0.48,
+            0.48,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
             0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            26.68,
-            26.47,
-            26.45,
-            26.33,
-            26.22,
-            26.07,
-            26.14,
-            26.23,
-            25.93,
-            25.63,
-            25.74,
-            25.33
+            25.61,
+            25.72,
+            25.58,
+            25.33,
+            25.73,
+            25.72,
+            25.61,
+            25.21,
+            24.99,
+            25.14,
+            25.21,
+            24.92
         ],
         "hsd_history_software": [
-            10.25,
-            10.3,
-            10.14,
-            10.26,
-            10.46,
-            10.49,
-            10.61,
-            10.74,
-            10.58,
-            10.38,
-            10.32,
-            10.16
+            9.84,
+            9.71,
+            9.66,
+            9.51,
+            9.61,
+            9.6,
+            9.45,
+            9.51,
+            9.57,
+            9.7,
+            9.76,
+            9.86
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:08",
-            "tag": "MERCADO",
-            "text": "Motorola Solutions (MSI) Faces A Fresh Valuation Test On Q2 Expectations"
-        },
-        {
-            "time": "02:08",
-            "tag": "MERCADO",
-            "text": "KLA Corp. to trade lower after Q4 results, says Goldman Sachs"
-        },
-        {
-            "time": "02:00",
+            "time": "05:49",
             "tag": "AI",
-            "text": "AI costs heat forcing vendors to rethink pricing: Pegasystems executive"
+            "text": "Synopsys, AMD, and Microsoft Push Agentic AI Further with Autonomous EDA"
         },
         {
-            "time": "01:55",
-            "tag": "MERCADO",
-            "text": "Could Uber Be a Long-Term Winner in the Robotaxi Revolution?"
+            "time": "05:32",
+            "tag": "AI",
+            "text": "Are AI Lawsuits Quietly Rewriting Wix\u2019s (WIX) Cost Structure And Long-Term Investment Narrative?"
         },
         {
-            "time": "01:40",
+            "time": "05:32",
             "tag": "MERCADO",
-            "text": "Omnicell (OMCL) Could Be 30% Undervalued If Its OmniSphere Shift Pays Off"
+            "text": "Zscaler (ZS) And Schwarz Digits Put Fair Value Back In Focus"
+        },
+        {
+            "time": "05:05",
+            "tag": "MERCADO",
+            "text": "TOYO (NASDAQ:TOYO) Trading Down 3.9% - What's Next?"
+        },
+        {
+            "time": "05:01",
+            "tag": "RESULTADOS",
+            "text": "CoStar Group Inc (CSGP) Q2 2026 Earnings Call Highlights: Record Revenue Growth and Strategic ..."
         }
     ]
 }
