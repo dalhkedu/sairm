@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-29 06:33 UTC",
+        "last_updated": "2026-07-29 09:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 197.01,
-            "change": "-2.54%"
+            "change": "+2.78%"
         },
         {
             "symbol": "AMD",
             "price": 454.62,
-            "change": "+3.2%"
+            "change": "+1.9%"
         },
         {
             "symbol": "MSFT",
             "price": 393.35,
-            "change": "-0.96%"
+            "change": "-2.11%"
         },
         {
             "symbol": "CEG",
             "price": 259.82,
-            "change": "-3.33%"
+            "change": "+2.52%"
         },
         {
             "symbol": "VST",
             "price": 148.64,
-            "change": "+2.44%"
+            "change": "+2.65%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.53,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
+            0.51,
             0.5,
-            0.51
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.61,
-            25.72,
-            25.58,
-            25.33,
-            25.73,
-            25.72,
-            25.61,
-            25.21,
-            24.99,
-            25.14,
-            25.21,
-            24.92
+            24.86,
+            24.56,
+            24.9,
+            25.06,
+            25.31,
+            24.92,
+            25.29,
+            24.92,
+            25.18,
+            25.49,
+            25.26,
+            24.86
         ],
         "hsd_history_software": [
-            9.84,
-            9.71,
-            9.66,
-            9.51,
-            9.61,
-            9.6,
-            9.45,
-            9.51,
-            9.57,
-            9.7,
-            9.76,
-            9.86
+            10.12,
+            10.08,
+            9.96,
+            9.83,
+            9.93,
+            9.77,
+            9.93,
+            9.91,
+            9.85,
+            9.88,
+            9.88,
+            9.93
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:49",
-            "tag": "AI",
-            "text": "Synopsys, AMD, and Microsoft Push Agentic AI Further with Autonomous EDA"
-        },
-        {
-            "time": "05:32",
-            "tag": "AI",
-            "text": "Are AI Lawsuits Quietly Rewriting Wix\u2019s (WIX) Cost Structure And Long-Term Investment Narrative?"
-        },
-        {
-            "time": "05:32",
+            "time": "09:08",
             "tag": "MERCADO",
-            "text": "Zscaler (ZS) And Schwarz Digits Put Fair Value Back In Focus"
+            "text": "Tyler Technologies, Inc. $TYL Shares Sold by Sei Investments Co."
         },
         {
-            "time": "05:05",
+            "time": "09:08",
             "tag": "MERCADO",
-            "text": "TOYO (NASDAQ:TOYO) Trading Down 3.9% - What's Next?"
+            "text": "Sei Investments Co. Reduces Holdings in Roper Technologies, Inc. $ROP"
         },
         {
-            "time": "05:01",
-            "tag": "RESULTADOS",
-            "text": "CoStar Group Inc (CSGP) Q2 2026 Earnings Call Highlights: Record Revenue Growth and Strategic ..."
+            "time": "09:08",
+            "tag": "MERCADO",
+            "text": "PNC Financial Services Group Inc. Sells 5,922 Shares of NetApp, Inc. $NTAP"
+        },
+        {
+            "time": "08:55",
+            "tag": "MERCADO",
+            "text": "Are Wall Street Analysts Bullish on Fortinet Stock?"
+        },
+        {
+            "time": "08:50",
+            "tag": "AI",
+            "text": "XMPro Named a Sample Vendor for Agentic AI in Gartner\u00ae Hype Cycle\u2122 for Data, Analytics, and AI Leaders & Programs, 2026"
         }
     ]
 }
