@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-07-30 19:36 UTC",
+        "last_updated": "2026-07-30 21:12 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 194.06,
-            "change": "-0.1%"
+            "price": 195.04,
+            "change": "+3.0%"
         },
         {
             "symbol": "AMD",
-            "price": 487.72,
-            "change": "-3.5%"
+            "price": 485.39,
+            "change": "+3.23%"
         },
         {
             "symbol": "MSFT",
-            "price": 456.8,
-            "change": "+0.04%"
+            "price": 451.1,
+            "change": "+2.39%"
         },
         {
             "symbol": "CEG",
-            "price": 265.26,
-            "change": "-1.3%"
+            "price": 263.56,
+            "change": "+0.65%"
         },
         {
             "symbol": "VST",
-            "price": 149.74,
-            "change": "-1.75%"
+            "price": 148.62,
+            "change": "+0.98%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
-        "rci_current": 0.19,
+        "cer_current": 0.43,
+        "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
+            0.51,
+            0.51,
             0.5,
             0.49
         ],
         "hsd_history_hardware": [
+            25.29,
+            24.87,
+            24.51,
+            24.57,
+            24.31,
             24.29,
-            23.98,
-            24.34,
+            24.68,
             24.76,
-            25.15,
-            25.14,
-            25.11,
-            25.0,
-            24.62,
-            24.37,
-            24.64,
-            24.89
+            24.86,
+            25.1,
+            25.03,
+            25.16
         ],
         "hsd_history_software": [
-            9.15,
-            9.26,
-            9.44,
-            9.35,
+            9.18,
+            9.3,
+            9.2,
+            9.28,
+            9.38,
             9.53,
-            9.72,
-            9.71,
-            9.65,
-            9.77,
-            9.75,
-            9.77,
-            9.91
+            9.7,
+            9.66,
+            9.8,
+            9.82,
+            9.83,
+            9.94
         ],
         "rci_data": [
             85.0,
-            19.406000000000002
+            19.503999999999998
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:40",
+            "time": "20:38",
             "tag": "MERCADO",
-            "text": "ZipRecruiter CEO Ian H. Siegel sells shares, totaling $164,481 By Investing.com"
+            "text": "Microsoft beats Wall Street expectations with $90B in revenue"
         },
         {
-            "time": "18:34",
+            "time": "20:26",
             "tag": "MERCADO",
-            "text": "Micron stock rebounds off key support, but technical overhead persists (MU:NASDAQ)"
+            "text": "Anne Sweeney Resigns From Netflix Board"
         },
         {
-            "time": "18:33",
-            "tag": "AI",
-            "text": "Cigna reports more AI, more health customers and more profit in strong Q2"
-        },
-        {
-            "time": "18:19",
-            "tag": "RESULTADOS",
-            "text": "Should You Buy Automatic Data Processing (ADP) On Post-Earnings Dip?"
-        },
-        {
-            "time": "18:18",
+            "time": "20:22",
             "tag": "MERCADO",
-            "text": "Foundation Software Details Why Contractors Are Turning to Vendor Payment Services"
+            "text": "Fund Update: 21,828 PALO ALTO NETWORKS (PANW) shares added to WELCH & FORBES LLC portfolio"
+        },
+        {
+            "time": "20:16",
+            "tag": "MERCADO",
+            "text": "Raymond James lands $5.4B advisor team from Comerica"
+        },
+        {
+            "time": "20:16",
+            "tag": "MERCADO",
+            "text": "Palo Alto Networks Inc Stock (PANW) Closed Up by 3.79% on Jul 30: Key Drivers Unveiled"
         }
     ]
 }
