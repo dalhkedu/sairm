@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-07-30 17:37 UTC",
+        "last_updated": "2026-07-30 19:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 193.4,
-            "change": "-3.41%"
+            "price": 194.06,
+            "change": "-0.1%"
         },
         {
             "symbol": "AMD",
-            "price": 488.05,
-            "change": "-2.68%"
+            "price": 487.72,
+            "change": "-3.5%"
         },
         {
             "symbol": "MSFT",
-            "price": 457.67,
-            "change": "+0.58%"
+            "price": 456.8,
+            "change": "+0.04%"
         },
         {
             "symbol": "CEG",
-            "price": 265.8,
-            "change": "+3.44%"
+            "price": 265.26,
+            "change": "-1.3%"
         },
         {
             "symbol": "VST",
-            "price": 148.18,
-            "change": "+0.36%"
+            "price": 149.74,
+            "change": "-1.75%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.52,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
-            0.47,
-            0.48,
-            0.47,
-            0.48,
-            0.48,
+            0.5,
             0.49,
-            0.48,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.49,
             0.49,
+            0.49,
+            0.49,
+            0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            23.84,
-            23.58,
-            23.35,
-            23.77,
-            23.41,
-            23.49,
-            23.85,
-            23.86,
             24.29,
-            24.39,
-            24.73,
-            24.68
+            23.98,
+            24.34,
+            24.76,
+            25.15,
+            25.14,
+            25.11,
+            25.0,
+            24.62,
+            24.37,
+            24.64,
+            24.89
         ],
         "hsd_history_software": [
-            9.98,
-            10.18,
-            10.19,
-            10.12,
-            10.27,
-            10.24,
-            10.22,
-            10.14,
-            10.08,
-            9.9,
-            9.88,
-            9.84
+            9.15,
+            9.26,
+            9.44,
+            9.35,
+            9.53,
+            9.72,
+            9.71,
+            9.65,
+            9.77,
+            9.75,
+            9.77,
+            9.91
         ],
         "rci_data": [
             85.0,
-            19.340000000000003
+            19.406000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:13",
+            "time": "18:40",
             "tag": "MERCADO",
-            "text": "VanEck Semiconductor ETF: Record Inflows Collide With a 26% Peak-to-Trough Slide"
+            "text": "ZipRecruiter CEO Ian H. Siegel sells shares, totaling $164,481 By Investing.com"
         },
         {
-            "time": "17:06",
+            "time": "18:34",
             "tag": "MERCADO",
-            "text": "Massachusetts-based Analog Devices discloses data breach"
+            "text": "Micron stock rebounds off key support, but technical overhead persists (MU:NASDAQ)"
         },
         {
-            "time": "17:02",
-            "tag": "MERCADO",
-            "text": "IBM Goes to Trial on Former Contractor\u2019s Unpaid Overtime Claims"
-        },
-        {
-            "time": "16:40",
-            "tag": "MERCADO",
-            "text": "Kulicke and Soffa Industries Drops 5.9% Amid Sector-Wide Selling"
-        },
-        {
-            "time": "16:20",
+            "time": "18:33",
             "tag": "AI",
-            "text": "GOOGL Expands Gemini Into Robotics As Big Tech Races To Build Physical AI \u2014 New Robot AI Can Tap Google Search For Real-World Tasks"
+            "text": "Cigna reports more AI, more health customers and more profit in strong Q2"
+        },
+        {
+            "time": "18:19",
+            "tag": "RESULTADOS",
+            "text": "Should You Buy Automatic Data Processing (ADP) On Post-Earnings Dip?"
+        },
+        {
+            "time": "18:18",
+            "tag": "MERCADO",
+            "text": "Foundation Software Details Why Contractors Are Turning to Vendor Payment Services"
         }
     ]
 }
