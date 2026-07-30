@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-30 00:01 UTC",
+        "last_updated": "2026-07-30 04:07 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 190.01,
-            "change": "+0.33%"
+            "change": "+3.24%"
         },
         {
             "symbol": "AMD",
             "price": 429.56,
-            "change": "-2.73%"
+            "change": "-3.05%"
         },
         {
             "symbol": "MSFT",
             "price": 390.54,
-            "change": "-2.55%"
+            "change": "-2.8%"
         },
         {
             "symbol": "CEG",
             "price": 257.95,
-            "change": "+0.69%"
+            "change": "+1.5%"
         },
         {
             "symbol": "VST",
             "price": 142.81,
-            "change": "-0.98%"
+            "change": "-1.17%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.46,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.52,
+            0.53,
+            0.52,
             0.51,
             0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.52,
             0.51,
             0.5,
-            0.51,
-            0.5,
-            0.5,
+            0.49,
             0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            24.33,
-            23.98,
-            24.43,
-            24.17,
-            24.06,
-            24.49,
-            24.95,
+            24.98,
+            25.14,
+            24.92,
+            24.84,
+            25.07,
             25.1,
-            25.57,
-            25.66,
+            25.24,
+            25.52,
             25.4,
-            25.26
+            25.1,
+            24.62,
+            24.74
         ],
         "hsd_history_software": [
-            10.02,
-            9.84,
-            9.86,
-            9.85,
-            10.0,
-            9.86,
-            9.98,
-            9.9,
-            9.85,
-            9.9,
-            9.83,
-            9.83
+            10.83,
+            10.66,
+            10.74,
+            10.57,
+            10.44,
+            10.42,
+            10.49,
+            10.53,
+            10.54,
+            10.41,
+            10.24,
+            10.19
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:47",
-            "tag": "MERCADO",
-            "text": "Fortis Inc. Announces Third Quarter Dividends - 2026"
+            "time": "03:24",
+            "tag": "RESULTADOS",
+            "text": "Procore Technologies: Q2 Earnings Snapshot"
         },
         {
-            "time": "22:31",
+            "time": "03:16",
             "tag": "MERCADO",
-            "text": "Microsoft Quietly Adds New Windows App That Wants to Scan Your Face"
+            "text": "WEC Energy Group CEO hints at plans for more data centers as public opposition grows"
         },
         {
-            "time": "22:18",
-            "tag": "MERCADO",
-            "text": "Wetour Robotics Announces Share Consolidation"
+            "time": "03:01",
+            "tag": "RESULTADOS",
+            "text": "Moderna (MRNA) Q2 Earnings: What To Expect"
         },
         {
-            "time": "22:00",
+            "time": "02:46",
             "tag": "MERCADO",
-            "text": "Li Bang International Announces 1-for-200 Share Consolidation"
+            "text": "Tyler Technologies Sets July 30 Call on Government Tech Results"
         },
         {
-            "time": "21:45",
+            "time": "01:47",
             "tag": "MERCADO",
-            "text": "StoneCo Ltd.  ( STNE )  Falls More Steeply Than Broader Market: What Investors Need to Know"
+            "text": "Emerging Growth Research Reiterates Buy-Emerging Rating on Faraday Future Intelligent Electric and Updates 12-Month Price Target to $30 Following Reverse Stock Split"
         }
     ]
 }
