@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-07-30 15:12 UTC",
+        "last_updated": "2026-07-30 17:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 194.31,
-            "change": "-3.11%"
+            "price": 193.4,
+            "change": "-3.41%"
         },
         {
             "symbol": "AMD",
-            "price": 483.83,
-            "change": "+0.09%"
+            "price": 488.05,
+            "change": "-2.68%"
         },
         {
             "symbol": "MSFT",
-            "price": 445.45,
-            "change": "+3.19%"
+            "price": 457.67,
+            "change": "+0.58%"
         },
         {
             "symbol": "CEG",
-            "price": 266.45,
-            "change": "-0.29%"
+            "price": 265.8,
+            "change": "+3.44%"
         },
         {
             "symbol": "VST",
-            "price": 148.78,
-            "change": "-0.92%"
+            "price": 148.18,
+            "change": "+0.36%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.44,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
+            0.47,
+            0.48,
+            0.47,
+            0.48,
+            0.47,
+            0.48,
             0.48,
             0.49,
-            0.49,
+            0.48,
             0.49,
             0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            26.13,
-            26.13,
-            25.68,
-            25.8,
-            25.53,
-            25.05,
-            24.69,
-            24.68,
-            25.0,
+            23.84,
+            23.58,
+            23.35,
+            23.77,
+            23.41,
+            23.49,
+            23.85,
+            23.86,
+            24.29,
+            24.39,
             24.73,
-            25.15,
-            24.92
+            24.68
         ],
         "hsd_history_software": [
-            9.77,
+            9.98,
+            10.18,
+            10.19,
+            10.12,
+            10.27,
+            10.24,
+            10.22,
+            10.14,
+            10.08,
             9.9,
-            9.92,
-            10.06,
-            10.09,
-            10.27,
-            10.38,
-            10.27,
-            10.25,
-            10.37,
-            10.17,
-            10.15
+            9.88,
+            9.84
         ],
         "rci_data": [
             85.0,
-            19.431
+            19.340000000000003
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:05",
+            "time": "17:13",
             "tag": "MERCADO",
-            "text": "New Vertex Research Signals a Turning Point for Indirect Tax and Compliance: The Rise of Decision-to-Defense"
+            "text": "VanEck Semiconductor ETF: Record Inflows Collide With a 26% Peak-to-Trough Slide"
         },
         {
-            "time": "13:57",
+            "time": "17:06",
             "tag": "MERCADO",
-            "text": "Why Micron Stock Finally Popped Today"
+            "text": "Massachusetts-based Analog Devices discloses data breach"
         },
         {
-            "time": "13:30",
+            "time": "17:02",
+            "tag": "MERCADO",
+            "text": "IBM Goes to Trial on Former Contractor\u2019s Unpaid Overtime Claims"
+        },
+        {
+            "time": "16:40",
+            "tag": "MERCADO",
+            "text": "Kulicke and Soffa Industries Drops 5.9% Amid Sector-Wide Selling"
+        },
+        {
+            "time": "16:20",
             "tag": "AI",
-            "text": "Decent Holding Advances AI-Powered Health Data Infrastructure Alongside Community Healthcare Network Expansion"
-        },
-        {
-            "time": "13:25",
-            "tag": "MERCADO",
-            "text": "'Completely Legal': GrapheneOS Pushes Back as Duress Password Case Proceeds"
-        },
-        {
-            "time": "13:14",
-            "tag": "MERCADO",
-            "text": "Palantir's Profit Nearly Quadrupled Over the Past Year. Its Stock Fell 40% From Its High. Both Numbers Get Tested on Aug. 3."
+            "text": "GOOGL Expands Gemini Into Robotics As Big Tech Races To Build Physical AI \u2014 New Robot AI Can Tap Google Search For Real-World Tasks"
         }
     ]
 }
