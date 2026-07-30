@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-30 07:34 UTC",
+        "last_updated": "2026-07-30 10:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 190.01,
-            "change": "+1.59%"
+            "change": "+0.9%"
         },
         {
             "symbol": "AMD",
             "price": 429.56,
-            "change": "-0.89%"
+            "change": "-1.65%"
         },
         {
             "symbol": "MSFT",
             "price": 390.54,
-            "change": "+0.33%"
+            "change": "+1.75%"
         },
         {
             "symbol": "CEG",
             "price": 257.95,
-            "change": "+3.47%"
+            "change": "+1.28%"
         },
         {
             "symbol": "VST",
             "price": 142.81,
-            "change": "+1.15%"
+            "change": "-2.03%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.5,
         "rci_current": 0.19,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.48,
-            0.48,
+            0.49,
             0.49,
             0.5,
+            0.49,
+            0.5,
+            0.51,
             0.5,
             0.5,
             0.5,
+            0.49,
             0.5,
-            0.5,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            25.12,
-            24.69,
-            25.15,
-            24.84,
-            24.82,
-            24.99,
+            25.09,
+            24.94,
+            24.58,
             25.06,
-            25.04,
-            24.95,
-            24.73,
-            24.91,
-            25.16
+            24.72,
+            24.47,
+            24.93,
+            24.94,
+            24.63,
+            25.07,
+            25.51,
+            25.39
         ],
         "hsd_history_software": [
-            9.42,
-            9.48,
-            9.59,
-            9.44,
-            9.57,
-            9.71,
-            9.79,
+            10.06,
+            10.17,
+            10.32,
+            10.15,
+            10.14,
+            10.01,
+            10.0,
             9.94,
-            9.8,
-            9.85,
-            9.94,
-            9.89
+            9.76,
+            9.82,
+            9.92,
+            9.91
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:57",
-            "tag": "RESULTADOS",
-            "text": "Arlo Technologies (ARLO) Projected to Post Earnings on Thursday"
-        },
-        {
-            "time": "06:49",
+            "time": "09:53",
             "tag": "MERCADO",
-            "text": "Johnson Controls International plc (NYSE:JCI) Given Consensus Rating of \"Moderate Buy\" by Analysts"
+            "text": "Precision Trading with Establishment Labs Holdings Inc. (ESTA) Risk Zones"
         },
         {
-            "time": "06:49",
-            "tag": "RESULTADOS",
-            "text": "Axcelis Technologies (ACLS) Expected to Post Earnings on Thursday"
-        },
-        {
-            "time": "06:49",
-            "tag": "RESULTADOS",
-            "text": "Ziff Davis (ZD) Expected to Announce Earnings on Thursday"
-        },
-        {
-            "time": "06:44",
+            "time": "09:45",
             "tag": "MERCADO",
-            "text": "Is Zscaler (ZS) Using Sovereign Zero Trust To Deepen Its European Moat Or Just Testing Waters?"
+            "text": "Royal Bank of Canada Sells 33,967 Shares of Synopsys, Inc. $SNPS"
+        },
+        {
+            "time": "09:45",
+            "tag": "MERCADO",
+            "text": "Quantinno Capital Management LP Decreases Stock Holdings in Element Solutions Inc. $ESI"
+        },
+        {
+            "time": "09:38",
+            "tag": "MERCADO",
+            "text": "Talon Private Wealth LLC Makes New Investment in Salesforce Inc. $CRM"
+        },
+        {
+            "time": "09:37",
+            "tag": "MERCADO",
+            "text": "The Manufacturers Life Insurance Company Sells 78,882 Shares of ServiceNow, Inc. $NOW"
         }
     ]
 }
