@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-31 09:46 UTC",
+        "last_updated": "2026-07-31 12:01 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 195.04,
-            "change": "-2.36%"
+            "change": "-1.56%"
         },
         {
             "symbol": "AMD",
             "price": 485.39,
-            "change": "-3.27%"
+            "change": "-3.16%"
         },
         {
             "symbol": "MSFT",
             "price": 451.1,
-            "change": "+2.39%"
+            "change": "+3.37%"
         },
         {
             "symbol": "CEG",
             "price": 263.56,
-            "change": "-2.14%"
+            "change": "-1.24%"
         },
         {
             "symbol": "VST",
             "price": 148.62,
-            "change": "-1.46%"
+            "change": "-1.77%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.49,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
             0.5,
             0.51,
+            0.51,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
             0.51,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.2,
-            24.38,
-            24.58,
-            24.92,
-            24.77,
-            25.17,
-            25.44,
-            25.26,
-            25.38,
-            25.58,
-            25.12,
-            25.24
+            24.66,
+            24.66,
+            24.69,
+            24.75,
+            24.32,
+            23.88,
+            24.08,
+            24.04,
+            24.45,
+            24.68,
+            24.86,
+            25.03
         ],
         "hsd_history_software": [
-            10.54,
-            10.58,
-            10.69,
-            10.68,
-            10.55,
-            10.43,
-            10.53,
-            10.36,
-            10.23,
-            10.23,
-            10.07,
-            9.97
+            9.78,
+            9.64,
+            9.82,
+            9.66,
+            9.53,
+            9.51,
+            9.62,
+            9.78,
+            9.75,
+            9.87,
+            9.84,
+            9.94
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:01",
+            "time": "10:15",
             "tag": "MERCADO",
-            "text": "JSF Financial LLC Sells 2,235 Shares of Alphabet Inc. $GOOGL"
+            "text": "nVent Expands Data Center Liquid Cooling Capacity"
         },
         {
-            "time": "08:45",
+            "time": "10:15",
+            "tag": "RESULTADOS",
+            "text": "1 Green Flag for Dutch Bros Heading Into Earnings on Aug. 5"
+        },
+        {
+            "time": "10:05",
             "tag": "AI",
-            "text": "Kroger launches AI shopping tool for back-to-school meals"
+            "text": "Prediction: This AI Stock Will Double by 2031 -- Here's the Math"
         },
         {
-            "time": "08:42",
+            "time": "10:00",
             "tag": "MERCADO",
-            "text": "Groupe la Francaise Acquires Shares of 133,546 AMETEK, Inc. $AME"
+            "text": "BrightSpring Health Services, Inc. Reports Second Quarter 2026 Financial Results and Increases Full Year 2026 Guidance"
         },
         {
-            "time": "08:42",
+            "time": "10:00",
             "tag": "MERCADO",
-            "text": "BlackRock $BLK Shares Sold by Groupe la Francaise"
-        },
-        {
-            "time": "08:42",
-            "tag": "MERCADO",
-            "text": "Texas Instruments Incorporated $TXN Shares Sold by Groupe la Francaise"
+            "text": "Fortis Inc. Releases Second Quarter 2026 Results"
         }
     ]
 }
