@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-31 03:16 UTC",
+        "last_updated": "2026-07-31 06:46 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 195.04,
-            "change": "-2.5%"
+            "change": "+1.43%"
         },
         {
             "symbol": "AMD",
             "price": 485.39,
-            "change": "+1.18%"
+            "change": "+0.57%"
         },
         {
             "symbol": "MSFT",
             "price": 451.1,
-            "change": "-1.34%"
+            "change": "-2.47%"
         },
         {
             "symbol": "CEG",
             "price": 263.56,
-            "change": "-1.32%"
+            "change": "-0.57%"
         },
         {
             "symbol": "VST",
             "price": 148.62,
-            "change": "+2.83%"
+            "change": "+1.19%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.49,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
             0.5,
             0.5,
             0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.5,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.0,
-            24.53,
-            24.27,
-            23.99,
-            23.53,
-            23.54,
-            23.72,
-            23.51,
-            23.44,
-            23.84,
-            24.22,
-            24.65
+            24.62,
+            25.1,
+            24.71,
+            24.57,
+            24.75,
+            24.82,
+            24.38,
+            24.02,
+            23.96,
+            24.35,
+            24.17,
+            24.56
         ],
         "hsd_history_software": [
-            9.98,
-            10.03,
+            10.4,
+            10.26,
+            10.14,
             10.1,
-            10.24,
-            10.45,
-            10.36,
-            10.29,
-            10.18,
-            10.05,
-            9.93,
-            10.07,
-            9.9
+            10.13,
+            10.2,
+            10.04,
+            10.03,
+            10.19,
+            10.17,
+            10.03,
+            10.0
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:22",
+            "time": "06:11",
             "tag": "MERCADO",
-            "text": "Ooma Inc (OOMA) SVP & Chief Legal Officer Jenny Yeh Sells 1,757 Shares"
+            "text": "TeraWulf (NASDAQ:WULF) surges 18% after Maryland power agreement receives federal go-ahead"
         },
         {
-            "time": "02:07",
+            "time": "06:09",
             "tag": "MERCADO",
-            "text": "The EA Buyout Is Complete On August 4th \u2013 Next Week"
+            "text": "WBX Stock Price and Chart \u2014 NYSE:WBX"
         },
         {
-            "time": "02:04",
+            "time": "06:08",
             "tag": "MERCADO",
-            "text": "Apple\u2019s stock slides as it blames supply chain constraints for its weak guidance"
+            "text": "Update: US Equity Indexes Surge as Microsoft Triggers Rebound in Chipmakers While Inflation Rate Falls in June"
         },
         {
-            "time": "01:38",
+            "time": "05:40",
             "tag": "MERCADO",
-            "text": "Paycom Software Inc. stock underperforms Thursday when compared to competitors"
+            "text": "TTEQ ETF Profile: Dividends, Returns (BOATS:TTEQ)"
         },
         {
-            "time": "01:38",
-            "tag": "RESULTADOS",
-            "text": "Monolithic Power Systems (MPWR) Q2 2026 Earnings Call Transcript"
+            "time": "05:39",
+            "tag": "MERCADO",
+            "text": "Apple shares fall despite record revenue as outlook disappoints"
         }
     ]
 }
