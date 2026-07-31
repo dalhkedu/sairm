@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-07-31 21:07 UTC",
+        "last_updated": "2026-07-31 23:03 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 200.75,
-            "change": "-3.03%"
+            "change": "-2.36%"
         },
         {
             "symbol": "AMD",
             "price": 476.15,
-            "change": "+2.5%"
+            "change": "+0.53%"
         },
         {
             "symbol": "MSFT",
             "price": 464.72,
-            "change": "-2.1%"
+            "change": "+0.72%"
         },
         {
             "symbol": "CEG",
             "price": 262.75,
-            "change": "+1.39%"
+            "change": "+2.91%"
         },
         {
             "symbol": "VST",
             "price": 148.19,
-            "change": "+0.45%"
+            "change": "-1.35%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.68,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
-            0.51,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.98,
-            25.3,
-            25.75,
-            25.78,
-            25.66,
-            25.65,
-            25.46,
-            25.75,
-            25.46,
-            25.22,
-            25.5,
-            25.32
+            27.2,
+            27.13,
+            26.94,
+            26.47,
+            25.98,
+            25.49,
+            25.17,
+            24.82,
+            25.1,
+            25.03,
+            24.73,
+            25.22
         ],
         "hsd_history_software": [
-            10.67,
-            10.65,
-            10.59,
-            10.44,
-            10.32,
-            10.17,
-            10.13,
-            9.99,
-            10.18,
-            10.02,
-            9.91,
-            9.97
+            9.27,
+            9.36,
+            9.39,
+            9.35,
+            9.52,
+            9.57,
+            9.61,
+            9.8,
+            9.61,
+            9.74,
+            9.74,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:48",
+            "time": "22:07",
             "tag": "MERCADO",
-            "text": "MongoDB, Snowflake, Dynatrace, Domo, and AppLovin Shares Skyrocket, What You Need To Know"
+            "text": "Archer Aviation vs. Boeing: Is an Electric Plane Upstart a Better Buy Over an Aerospace Giant in 2026?"
         },
         {
-            "time": "20:39",
+            "time": "21:45",
             "tag": "MERCADO",
-            "text": "Bakkt Holdings Inc (NYSE: BKKT) Stock Price, News & Analysis"
+            "text": "Here's How Much $100 Invested In Applied Materials 20 Years Ago Would Be Worth Today"
         },
         {
-            "time": "20:30",
+            "time": "21:39",
             "tag": "MERCADO",
-            "text": "NXP Semiconductors N.V. stock underperforms Friday when compared to competitors"
+            "text": "First Horizon Recognized With Two Newsweek Awards for Second Consecutive Year"
         },
         {
-            "time": "20:29",
+            "time": "21:37",
             "tag": "MERCADO",
-            "text": "Amgen discloses data breach, says patient information was stolen"
+            "text": "Form 4 Cirrus Logic Inc For: 31 July By Investing.com"
         },
         {
-            "time": "20:26",
+            "time": "21:20",
             "tag": "MERCADO",
-            "text": "Texas Instruments (TXN) grants 7,154 restricted stock units to its CAO"
+            "text": "Roper Technologies 2Q 2026: Revenue $2.11B, Net income $1.17B, EPS $11.62\u2014 10-Q Summary"
         }
     ]
 }
