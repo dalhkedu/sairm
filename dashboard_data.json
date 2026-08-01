@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-01 20:55 UTC",
+        "last_updated": "2026-08-01 21:59 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 200.75,
-            "change": "+1.63%"
+            "change": "-2.16%"
         },
         {
             "symbol": "AMD",
             "price": 476.15,
-            "change": "+1.45%"
+            "change": "-2.57%"
         },
         {
             "symbol": "MSFT",
             "price": 464.72,
-            "change": "-1.61%"
+            "change": "-1.0%"
         },
         {
             "symbol": "CEG",
             "price": 262.75,
-            "change": "+2.63%"
+            "change": "+3.01%"
         },
         {
             "symbol": "VST",
             "price": 148.19,
-            "change": "+1.28%"
+            "change": "-1.41%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.66,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
+            0.51,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.6,
-            25.0,
-            24.52,
-            24.67,
-            25.02,
-            25.18,
-            24.95,
-            24.75,
-            24.7,
-            24.46,
-            24.89,
-            24.71
+            25.67,
+            25.59,
+            25.35,
+            25.47,
+            25.3,
+            25.79,
+            25.68,
+            25.32,
+            25.79,
+            25.33,
+            24.99,
+            25.04
         ],
         "hsd_history_software": [
-            10.19,
-            10.08,
-            9.9,
-            9.93,
-            9.95,
-            9.98,
-            9.84,
-            10.01,
+            10.75,
+            10.77,
+            10.58,
+            10.5,
+            10.34,
+            10.34,
+            10.15,
             10.0,
-            10.04,
-            10.05,
-            10.2
+            9.87,
+            9.75,
+            9.88,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -136,17 +136,17 @@
             "text": "Beamr Frozen on VISTA Launch"
         },
         {
+            "time": "18:40",
+            "tag": "MERCADO",
+            "text": "Price to book forward of BWX Technologies, Inc. \u2013 BX:BWXT"
+        },
+        {
             "time": "18:38",
             "tag": "MERCADO",
             "text": "Skyworks Solutions Investigation Initiated: Kahn Swick & Foti, LLC Investigates the Officers and Directors of Skyworks Solutions, Inc. - SKW"
         },
         {
-            "time": "18:34",
-            "tag": "AI",
-            "text": "Can Texas Instruments\u2019 Q2 Beat and Softer Outlook Reframe Its AI-Fab Investment Story for TXN?"
-        },
-        {
-            "time": "18:29",
+            "time": "18:37",
             "tag": "MERCADO",
             "text": "EBay, former executives to pay $56M to settle harassment case"
         }
