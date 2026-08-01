@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-01 17:02 UTC",
+        "last_updated": "2026-08-01 19:11 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 200.75,
-            "change": "+2.56%"
+            "price": NaN,
+            "change": "-1.88%"
         },
         {
             "symbol": "AMD",
             "price": 476.15,
-            "change": "+0.04%"
+            "change": "+3.43%"
         },
         {
             "symbol": "MSFT",
             "price": 464.72,
-            "change": "-1.05%"
+            "change": "+3.38%"
         },
         {
             "symbol": "CEG",
             "price": 262.75,
-            "change": "-1.32%"
+            "change": "-1.77%"
         },
         {
             "symbol": "VST",
             "price": 148.19,
-            "change": "+1.11%"
+            "change": "-2.9%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
-        "rci_current": 0.2,
+        "cer_current": 0.48,
+        "rci_current": NaN,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.53,
+            0.52,
+            0.52,
+            0.51,
+            0.5,
             0.49,
-            0.48,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            25.7,
-            26.11,
-            26.11,
-            25.76,
-            26.18,
-            25.98,
-            25.48,
-            25.03,
-            25.33,
-            25.25,
-            25.01,
-            25.28
+            24.24,
+            24.17,
+            24.24,
+            23.92,
+            23.94,
+            24.37,
+            24.29,
+            24.63,
+            24.64,
+            24.35,
+            24.74,
+            24.55
         ],
         "hsd_history_software": [
-            10.31,
+            11.08,
+            10.97,
+            10.86,
+            10.76,
+            10.85,
+            10.82,
+            10.62,
+            10.46,
+            10.36,
             10.25,
-            10.15,
-            10.08,
-            9.94,
-            9.99,
-            10.12,
-            10.15,
-            10.02,
-            9.87,
-            9.94,
-            9.91
+            10.13,
+            10.09
         ],
         "rci_data": [
             85.0,
-            20.075000000000003
+            NaN
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:31",
-            "tag": "MERCADO",
-            "text": "The Calm Surface Of Arista Networks Stock Hides A Turbulent Forecast"
+            "time": "18:34",
+            "tag": "AI",
+            "text": "Can Texas Instruments\u2019 Q2 Beat and Softer Outlook Reframe Its AI-Fab Investment Story for TXN?"
         },
         {
-            "time": "15:11",
+            "time": "18:29",
             "tag": "MERCADO",
-            "text": "PROFUSA, INC. Revenue Breakdown \u2013 OTC:NVACW"
+            "text": "EBay, former executives to pay $56M to settle harassment case"
         },
         {
-            "time": "15:10",
+            "time": "17:40",
             "tag": "MERCADO",
-            "text": "Pegasystems Inc at Investor Session Transcript"
+            "text": "Twist Bioscience Reports Monday With Breakeven Timeline Now Three Quarters Away"
         },
         {
-            "time": "15:10",
-            "tag": "MERCADO",
-            "text": "Vanguard Capital Management (MXL) discloses 4.48M-share, 5% holding in MaxLinear"
+            "time": "17:37",
+            "tag": "RESULTADOS",
+            "text": "Alphabet Stock (GOOGL) Opinions on Q2 Earnings and Capex Concerns"
         },
         {
-            "time": "15:01",
+            "time": "17:03",
             "tag": "MERCADO",
-            "text": "$5,000 in GE Vernova at Its 2024 Low Would Be Worth This Much Now"
+            "text": "VOO ETF Crosses $1 Trillion: Buffett Legacy Validated, With One Caveat"
         }
     ]
 }
