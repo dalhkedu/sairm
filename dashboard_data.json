@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-01 11:18 UTC",
+        "last_updated": "2026-08-01 13:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 200.75,
-            "change": "+2.69%"
+            "change": "-2.17%"
         },
         {
             "symbol": "AMD",
             "price": 476.15,
-            "change": "+0.86%"
+            "change": "+0.97%"
         },
         {
             "symbol": "MSFT",
             "price": 464.72,
-            "change": "+0.76%"
+            "change": "+0.45%"
         },
         {
             "symbol": "CEG",
             "price": 262.75,
-            "change": "+2.34%"
+            "change": "+2.98%"
         },
         {
             "symbol": "VST",
             "price": 148.19,
-            "change": "-2.58%"
+            "change": "-0.91%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.61,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.55,
-            0.55,
-            0.54,
-            0.53,
-            0.53,
-            0.52,
-            0.51,
-            0.51,
             0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.49,
+            0.49,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            26.14,
-            26.19,
-            25.77,
-            25.7,
-            26.05,
-            25.96,
-            25.92,
-            26.11,
-            25.9,
-            25.65,
-            25.36,
-            25.45
+            24.48,
+            24.16,
+            24.18,
+            24.64,
+            24.63,
+            24.15,
+            24.47,
+            24.16,
+            24.25,
+            24.6,
+            24.65,
+            24.85
         ],
         "hsd_history_software": [
-            10.77,
-            10.61,
-            10.45,
-            10.28,
-            10.14,
+            10.0,
+            10.09,
+            9.9,
+            9.77,
+            9.86,
+            9.96,
+            10.15,
+            10.12,
             10.3,
-            10.19,
-            10.29,
-            10.19,
-            10.06,
-            9.91,
-            9.84
+            10.42,
+            10.33,
+            10.19
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:34",
-            "tag": "MERCADO",
-            "text": "Honeywell Stock Leads This Wildfire Resilience Investing Watchlist"
-        },
-        {
-            "time": "10:34",
-            "tag": "MERCADO",
-            "text": "Should IDEX\u2019s Stronger Q2 2026 Results and Aggressive Buybacks Prompt Action From IEX Investors?"
-        },
-        {
-            "time": "10:09",
-            "tag": "MERCADO",
-            "text": "T-Mobile will automatically upgrade some legacy phone plans to higher-price plans"
-        },
-        {
-            "time": "09:59",
-            "tag": "MERCADO",
-            "text": "ServiceNow cuts nearly 300 jobs in Silicon Valley"
-        },
-        {
-            "time": "09:43",
+            "time": "12:27",
             "tag": "AI",
-            "text": "Western Digital Stock Leads 3 AI Infrastructure Picks For US Consumer Investors"
+            "text": "Equinix (EQIX) Raises Fresh Debt As Investors Ask If The AI Data Center Story Is Priced In"
+        },
+        {
+            "time": "12:26",
+            "tag": "RESULTADOS",
+            "text": "Should Upbeat Earnings Revisions Around AI and Electrification Require Action From Analog Devices (ADI) Investors?"
+        },
+        {
+            "time": "12:15",
+            "tag": "MERCADO",
+            "text": "InterDigital (NASDAQ:IDCC) Upgraded to \"Strong-Buy\" at Zacks Research"
+        },
+        {
+            "time": "12:15",
+            "tag": "MERCADO",
+            "text": "Intapp (NASDAQ:INTA) Downgraded by Zacks Research to Strong Sell"
+        },
+        {
+            "time": "12:14",
+            "tag": "MERCADO",
+            "text": "KLA (NASDAQ:KLAC) Raised to Strong-Buy at Zacks Research"
         }
     ]
 }
