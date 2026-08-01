@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-01 03:14 UTC",
+        "last_updated": "2026-08-01 06:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 200.75,
-            "change": "+3.29%"
+            "change": "+0.63%"
         },
         {
             "symbol": "AMD",
             "price": 476.15,
-            "change": "-3.21%"
+            "change": "+0.15%"
         },
         {
             "symbol": "MSFT",
             "price": 464.72,
-            "change": "+2.17%"
+            "change": "+1.96%"
         },
         {
             "symbol": "CEG",
             "price": 262.75,
-            "change": "-3.39%"
+            "change": "-1.17%"
         },
         {
             "symbol": "VST",
             "price": 148.19,
-            "change": "-0.55%"
+            "change": "+3.17%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.48,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.53,
+            0.53,
             0.53,
             0.52,
             0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            24.82,
-            24.71,
-            24.79,
-            24.87,
-            24.49,
-            24.56,
+            24.15,
+            24.55,
+            24.21,
+            24.09,
+            24.35,
+            24.18,
+            24.03,
+            24.47,
+            24.0,
+            24.05,
             24.45,
-            24.86,
-            25.09,
-            24.8,
-            24.64,
-            25.1
+            24.5
         ],
         "hsd_history_software": [
-            10.15,
-            10.03,
+            9.93,
             10.12,
-            9.95,
+            9.92,
+            9.89,
+            9.96,
+            10.09,
             10.01,
-            9.98,
-            10.19,
-            10.23,
-            10.04,
-            10.1,
-            9.94,
-            9.87
+            9.97,
+            9.96,
+            9.99,
+            9.95,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:41",
+            "time": "06:11",
             "tag": "MERCADO",
-            "text": "Deal Dispatch: Pitney Bowes Considers Strategic Alternatives, Grant Thornton Buys CBIZ, Storj Labs Bankruptcy"
+            "text": "Wearable Devices Ltd (WLDS) Technical Analysis: Support, Resistance, Indicators & Moving Averages"
         },
         {
-            "time": "02:39",
-            "tag": "AI",
-            "text": "Nixxy (NASDAQ: NIXX) ends Tachyon9 LOI, pursues larger stake in Nakota AI campus"
-        },
-        {
-            "time": "02:39",
-            "tag": "MERCADO",
-            "text": "Vanguard Portfolio Management (NTNX) discloses 13.44M-share Nutanix stake at 4.97%"
-        },
-        {
-            "time": "02:37",
+            "time": "06:10",
             "tag": "RESULTADOS",
-            "text": "Advanced Micro Devices Inc expected to post earnings of $1.61 a share - Earnings Preview"
+            "text": "Tigo Energy Inc expected to post breakeven results a share - Earnings Preview"
         },
         {
-            "time": "02:11",
+            "time": "05:40",
             "tag": "MERCADO",
-            "text": "Omnicell (OMCL) Stock Falls As Tariff Boost Clouds Profit Strength"
+            "text": "TSLL ETF aims for 2x Tesla's daily returns but risks long-term losses due to volatility decay."
+        },
+        {
+            "time": "05:39",
+            "tag": "MERCADO",
+            "text": "Palantir, Marriott, Williams Cos and more set to report Monday"
+        },
+        {
+            "time": "05:10",
+            "tag": "MERCADO",
+            "text": "Sensata Technologies Holding plc Revenue Breakdown \u2013 NYSE:ST"
         }
     ]
 }
