@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-01 19:11 UTC",
+        "last_updated": "2026-08-01 20:55 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": NaN,
-            "change": "-1.88%"
+            "price": 200.75,
+            "change": "+1.63%"
         },
         {
             "symbol": "AMD",
             "price": 476.15,
-            "change": "+3.43%"
+            "change": "+1.45%"
         },
         {
             "symbol": "MSFT",
             "price": 464.72,
-            "change": "+3.38%"
+            "change": "-1.61%"
         },
         {
             "symbol": "CEG",
             "price": 262.75,
-            "change": "-1.77%"
+            "change": "+2.63%"
         },
         {
             "symbol": "VST",
             "price": 148.19,
-            "change": "-2.9%"
+            "change": "+1.28%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
-        "rci_current": NaN,
+        "cer_current": 0.67,
+        "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.5,
+            0.46,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
             0.49,
-            0.49
+            0.48,
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.24,
-            24.17,
-            24.24,
-            23.92,
-            23.94,
-            24.37,
-            24.29,
-            24.63,
-            24.64,
-            24.35,
-            24.74,
-            24.55
+            24.6,
+            25.0,
+            24.52,
+            24.67,
+            25.02,
+            25.18,
+            24.95,
+            24.75,
+            24.7,
+            24.46,
+            24.89,
+            24.71
         ],
         "hsd_history_software": [
-            11.08,
-            10.97,
-            10.86,
-            10.76,
-            10.85,
-            10.82,
-            10.62,
-            10.46,
-            10.36,
-            10.25,
-            10.13,
-            10.09
+            10.19,
+            10.08,
+            9.9,
+            9.93,
+            9.95,
+            9.98,
+            9.84,
+            10.01,
+            10.0,
+            10.04,
+            10.05,
+            10.2
         ],
         "rci_data": [
             85.0,
-            NaN
+            20.075000000000003
         ],
         "energy_data": [
             1.2,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "19:17",
+            "tag": "MERCADO",
+            "text": "Amkor Technology CEO Kevin Engel sells $151,387 in company stock"
+        },
+        {
+            "time": "19:10",
+            "tag": "MERCADO",
+            "text": "Beamr Frozen on VISTA Launch"
+        },
+        {
+            "time": "18:38",
+            "tag": "MERCADO",
+            "text": "Skyworks Solutions Investigation Initiated: Kahn Swick & Foti, LLC Investigates the Officers and Directors of Skyworks Solutions, Inc. - SKW"
+        },
+        {
             "time": "18:34",
             "tag": "AI",
             "text": "Can Texas Instruments\u2019 Q2 Beat and Softer Outlook Reframe Its AI-Fab Investment Story for TXN?"
@@ -134,21 +149,6 @@
             "time": "18:29",
             "tag": "MERCADO",
             "text": "EBay, former executives to pay $56M to settle harassment case"
-        },
-        {
-            "time": "17:40",
-            "tag": "MERCADO",
-            "text": "Twist Bioscience Reports Monday With Breakeven Timeline Now Three Quarters Away"
-        },
-        {
-            "time": "17:37",
-            "tag": "RESULTADOS",
-            "text": "Alphabet Stock (GOOGL) Opinions on Q2 Earnings and Capex Concerns"
-        },
-        {
-            "time": "17:03",
-            "tag": "MERCADO",
-            "text": "VOO ETF Crosses $1 Trillion: Buffett Legacy Validated, With One Caveat"
         }
     ]
 }
