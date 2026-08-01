@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-01 09:07 UTC",
+        "last_updated": "2026-08-01 11:18 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 200.75,
-            "change": "+2.97%"
+            "change": "+2.69%"
         },
         {
             "symbol": "AMD",
             "price": 476.15,
-            "change": "-0.06%"
+            "change": "+0.86%"
         },
         {
             "symbol": "MSFT",
             "price": 464.72,
-            "change": "-1.35%"
+            "change": "+0.76%"
         },
         {
             "symbol": "CEG",
             "price": 262.75,
-            "change": "-1.88%"
+            "change": "+2.34%"
         },
         {
             "symbol": "VST",
             "price": 148.19,
-            "change": "+1.56%"
+            "change": "-2.58%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.63,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.54,
-            0.53,
-            0.53,
+            0.55,
+            0.55,
+            0.54,
             0.53,
             0.53,
             0.52,
             0.51,
+            0.51,
             0.5,
-            0.51,
-            0.51,
-            0.51,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            23.88,
-            24.2,
-            24.31,
-            24.71,
-            24.64,
-            24.75,
-            24.76,
-            25.19,
-            25.26,
-            24.97,
-            25.27,
-            25.28
+            26.14,
+            26.19,
+            25.77,
+            25.7,
+            26.05,
+            25.96,
+            25.92,
+            26.11,
+            25.9,
+            25.65,
+            25.36,
+            25.45
         ],
         "hsd_history_software": [
-            10.33,
-            10.15,
-            10.13,
-            10.1,
-            10.09,
-            9.96,
-            10.09,
-            9.93,
-            10.01,
-            9.9,
-            9.99,
-            9.92
+            10.77,
+            10.61,
+            10.45,
+            10.28,
+            10.14,
+            10.3,
+            10.19,
+            10.29,
+            10.19,
+            10.06,
+            9.91,
+            9.84
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:40",
+            "time": "10:34",
+            "tag": "MERCADO",
+            "text": "Honeywell Stock Leads This Wildfire Resilience Investing Watchlist"
+        },
+        {
+            "time": "10:34",
+            "tag": "MERCADO",
+            "text": "Should IDEX\u2019s Stronger Q2 2026 Results and Aggressive Buybacks Prompt Action From IEX Investors?"
+        },
+        {
+            "time": "10:09",
+            "tag": "MERCADO",
+            "text": "T-Mobile will automatically upgrade some legacy phone plans to higher-price plans"
+        },
+        {
+            "time": "09:59",
+            "tag": "MERCADO",
+            "text": "ServiceNow cuts nearly 300 jobs in Silicon Valley"
+        },
+        {
+            "time": "09:43",
             "tag": "AI",
-            "text": "Bit Origin (NASDAQ: BTOG) maps SANGRIX rebrand and NVIDIA AI rollout"
-        },
-        {
-            "time": "08:39",
-            "tag": "MERCADO",
-            "text": "You might get credit on T-Mobile bill after the big outage"
-        },
-        {
-            "time": "08:37",
-            "tag": "MERCADO",
-            "text": "Akamai Technologies Inc. stock underperforms Friday when compared to competitors despite daily gains"
-        },
-        {
-            "time": "08:29",
-            "tag": "MERCADO",
-            "text": "Entropy Technologies LP Sells 287,922 Shares of Webull Corporation $BULL"
-        },
-        {
-            "time": "08:29",
-            "tag": "MERCADO",
-            "text": "Empowered Funds LLC Purchases 3,771 Shares of Fair Isaac Corporation $FICO"
+            "text": "Western Digital Stock Leads 3 AI Infrastructure Picks For US Consumer Investors"
         }
     ]
 }
