@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-01 06:31 UTC",
+        "last_updated": "2026-08-01 09:07 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 200.75,
-            "change": "+0.63%"
+            "change": "+2.97%"
         },
         {
             "symbol": "AMD",
             "price": 476.15,
-            "change": "+0.15%"
+            "change": "-0.06%"
         },
         {
             "symbol": "MSFT",
             "price": 464.72,
-            "change": "+1.96%"
+            "change": "-1.35%"
         },
         {
             "symbol": "CEG",
             "price": 262.75,
-            "change": "-1.17%"
+            "change": "-1.88%"
         },
         {
             "symbol": "VST",
             "price": 148.19,
-            "change": "+3.17%"
+            "change": "+1.56%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.69,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.54,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
             0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
+            0.5,
+            0.51,
+            0.51,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.15,
-            24.55,
-            24.21,
-            24.09,
-            24.35,
-            24.18,
-            24.03,
-            24.47,
-            24.0,
-            24.05,
-            24.45,
-            24.5
+            23.88,
+            24.2,
+            24.31,
+            24.71,
+            24.64,
+            24.75,
+            24.76,
+            25.19,
+            25.26,
+            24.97,
+            25.27,
+            25.28
         ],
         "hsd_history_software": [
-            9.93,
-            10.12,
-            9.92,
-            9.89,
+            10.33,
+            10.15,
+            10.13,
+            10.1,
+            10.09,
             9.96,
             10.09,
+            9.93,
             10.01,
-            9.97,
-            9.96,
+            9.9,
             9.99,
-            9.95,
-            9.82
+            9.92
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:11",
-            "tag": "MERCADO",
-            "text": "Wearable Devices Ltd (WLDS) Technical Analysis: Support, Resistance, Indicators & Moving Averages"
+            "time": "08:40",
+            "tag": "AI",
+            "text": "Bit Origin (NASDAQ: BTOG) maps SANGRIX rebrand and NVIDIA AI rollout"
         },
         {
-            "time": "06:10",
-            "tag": "RESULTADOS",
-            "text": "Tigo Energy Inc expected to post breakeven results a share - Earnings Preview"
+            "time": "08:39",
+            "tag": "MERCADO",
+            "text": "You might get credit on T-Mobile bill after the big outage"
         },
         {
-            "time": "05:40",
+            "time": "08:37",
             "tag": "MERCADO",
-            "text": "TSLL ETF aims for 2x Tesla's daily returns but risks long-term losses due to volatility decay."
+            "text": "Akamai Technologies Inc. stock underperforms Friday when compared to competitors despite daily gains"
         },
         {
-            "time": "05:39",
+            "time": "08:29",
             "tag": "MERCADO",
-            "text": "Palantir, Marriott, Williams Cos and more set to report Monday"
+            "text": "Entropy Technologies LP Sells 287,922 Shares of Webull Corporation $BULL"
         },
         {
-            "time": "05:10",
+            "time": "08:29",
             "tag": "MERCADO",
-            "text": "Sensata Technologies Holding plc Revenue Breakdown \u2013 NYSE:ST"
+            "text": "Empowered Funds LLC Purchases 3,771 Shares of Fair Isaac Corporation $FICO"
         }
     ]
 }
