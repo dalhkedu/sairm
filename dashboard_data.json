@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-01 21:59 UTC",
+        "last_updated": "2026-08-01 23:02 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 200.75,
-            "change": "-2.16%"
+            "change": "+0.72%"
         },
         {
             "symbol": "AMD",
             "price": 476.15,
-            "change": "-2.57%"
+            "change": "+3.42%"
         },
         {
             "symbol": "MSFT",
             "price": 464.72,
-            "change": "-1.0%"
+            "change": "+1.46%"
         },
         {
             "symbol": "CEG",
             "price": 262.75,
-            "change": "+3.01%"
+            "change": "+2.47%"
         },
         {
             "symbol": "VST",
             "price": 148.19,
-            "change": "-1.41%"
+            "change": "+2.77%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.67,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
             0.5,
             0.5,
             0.5,
             0.51,
-            0.5
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.67,
-            25.59,
-            25.35,
-            25.47,
-            25.3,
-            25.79,
-            25.68,
+            25.26,
+            25.22,
+            25.42,
             25.32,
-            25.79,
-            25.33,
-            24.99,
-            25.04
+            25.32,
+            25.11,
+            24.76,
+            24.73,
+            24.74,
+            24.92,
+            25.05,
+            24.92
         ],
         "hsd_history_software": [
-            10.75,
-            10.77,
-            10.58,
-            10.5,
-            10.34,
-            10.34,
-            10.15,
-            10.0,
-            9.87,
-            9.75,
-            9.88,
-            9.82
+            10.32,
+            10.12,
+            10.26,
+            10.13,
+            10.18,
+            10.06,
+            10.2,
+            10.01,
+            10.05,
+            9.89,
+            9.91,
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,9 +126,19 @@
     ],
     "news_feed": [
         {
+            "time": "21:33",
+            "tag": "MERCADO",
+            "text": "AT&T Inc. (NYSE:T) Shares Fall 3.6% This Week with Treasury Yield Close to Dividend Rate"
+        },
+        {
             "time": "19:17",
             "tag": "MERCADO",
             "text": "Amkor Technology CEO Kevin Engel sells $151,387 in company stock"
+        },
+        {
+            "time": "19:11",
+            "tag": "MERCADO",
+            "text": "DV: DoubleVerify - Price & Consenus Chart"
         },
         {
             "time": "19:10",
@@ -139,16 +149,6 @@
             "time": "18:40",
             "tag": "MERCADO",
             "text": "Price to book forward of BWX Technologies, Inc. \u2013 BX:BWXT"
-        },
-        {
-            "time": "18:38",
-            "tag": "MERCADO",
-            "text": "Skyworks Solutions Investigation Initiated: Kahn Swick & Foti, LLC Investigates the Officers and Directors of Skyworks Solutions, Inc. - SKW"
-        },
-        {
-            "time": "18:37",
-            "tag": "MERCADO",
-            "text": "EBay, former executives to pay $56M to settle harassment case"
         }
     ]
 }
