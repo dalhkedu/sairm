@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-02 03:14 UTC",
+        "last_updated": "2026-08-02 06:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 200.75,
-            "change": "-2.03%"
+            "change": "+1.67%"
         },
         {
             "symbol": "AMD",
             "price": 476.15,
-            "change": "+1.81%"
+            "change": "+0.83%"
         },
         {
             "symbol": "MSFT",
             "price": 464.72,
-            "change": "+1.52%"
+            "change": "+2.91%"
         },
         {
             "symbol": "CEG",
             "price": 262.75,
-            "change": "+3.12%"
+            "change": "+1.48%"
         },
         {
             "symbol": "VST",
             "price": 148.19,
-            "change": "+2.13%"
+            "change": "-2.53%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.68,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.46,
-            0.46,
-            0.46,
-            0.47,
-            0.48,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5
+            0.54,
+            0.53,
+            0.52,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.78,
-            24.36,
-            23.99,
-            23.93,
-            23.71,
-            24.02,
-            24.29,
-            24.73,
-            24.87,
-            24.91,
-            24.84,
-            25.08
+            22.52,
+            22.96,
+            23.15,
+            23.55,
+            23.81,
+            23.75,
+            24.13,
+            24.25,
+            24.68,
+            25.16,
+            24.82,
+            24.59
         ],
         "hsd_history_software": [
-            9.94,
-            9.89,
-            9.74,
-            9.74,
-            9.9,
-            9.77,
-            9.89,
-            9.81,
-            10.0,
+            10.06,
             10.16,
-            9.96,
-            10.07
+            10.1,
+            10.17,
+            10.31,
+            10.37,
+            10.5,
+            10.31,
+            10.3,
+            10.27,
+            10.25,
+            10.11
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:10",
+            "time": "05:13",
             "tag": "MERCADO",
-            "text": "Why DroneShield (ASX:DRO), Sigma Healthcare (ASX:SIG) And Mesoblast (ASX:MSB) Are Drawing Attention"
+            "text": "We Energies says Oracle dispute won\u2019t derail Port Washington data center"
         },
         {
-            "time": "01:07",
+            "time": "04:07",
             "tag": "RESULTADOS",
-            "text": "Amazon.Com, Inc. Earnings Call Signals Big AI Bet"
+            "text": "Digital Realty (DLR) Stock Faces Earnings Split As AI Backlog Hits Record"
         },
         {
-            "time": "00:37",
+            "time": "04:04",
             "tag": "MERCADO",
-            "text": "Certain Class C Capital Stock of Alphabet Inc. are subject to a Lock-Up Agreement Ending on 2-AUG-2026."
+            "text": "QDF ETF Profile: Dividends, Returns (AMEX:QDF)"
         },
         {
-            "time": "23:10",
+            "time": "03:38",
             "tag": "MERCADO",
-            "text": "Sony Group Corporation Stock 12\u2011Month Price Target Raised to $30.41, Implies 34% Upside"
+            "text": "The Bull Case For Labcorp (LH) Could Change Following Guidance Hike And New Genetic Panel Launch"
         },
         {
-            "time": "21:38",
-            "tag": "MERCADO",
-            "text": "What Johnson Controls International (JCI)'s Data Center-Driven Q3 Beat and Raised Outlook Means For Shareholders"
+            "time": "03:09",
+            "tag": "RESULTADOS",
+            "text": "Vertex Pharmaceuticals (VRTX) Q2 Earnings Report Preview: What To Look For"
         }
     ]
 }
