@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-02 13:26 UTC",
+        "last_updated": "2026-08-02 15:04 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 200.75,
-            "change": "-0.3%"
+            "change": "-1.47%"
         },
         {
             "symbol": "AMD",
             "price": 476.15,
-            "change": "-1.55%"
+            "change": "+0.39%"
         },
         {
             "symbol": "MSFT",
             "price": 464.72,
-            "change": "-0.22%"
+            "change": "+0.76%"
         },
         {
             "symbol": "CEG",
             "price": 262.75,
-            "change": "+3.38%"
+            "change": "-1.63%"
         },
         {
             "symbol": "VST",
             "price": 148.19,
-            "change": "+1.71%"
+            "change": "-2.01%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.42,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
             0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
             0.49,
             0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            25.07,
-            24.64,
-            24.23,
-            24.63,
-            24.88,
+            24.03,
+            24.48,
+            24.82,
+            24.56,
+            24.67,
+            24.48,
             24.91,
-            24.49,
-            24.57,
-            25.04,
-            25.01,
-            25.0,
-            25.12
+            24.62,
+            24.15,
+            24.45,
+            24.88,
+            24.59
         ],
         "hsd_history_software": [
-            10.1,
-            10.22,
-            10.36,
-            10.38,
-            10.27,
-            10.12,
-            9.95,
-            9.92,
+            10.45,
+            10.26,
+            10.13,
+            9.96,
             9.89,
-            9.89,
-            9.84,
-            9.85
+            10.0,
+            10.05,
+            9.91,
+            10.08,
+            9.97,
+            10.01,
+            9.9
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:00",
-            "tag": "RESULTADOS",
-            "text": "Consumer Tech (July 27-31): AI Boom Drives Tech Earnings As Apple, Amazon Lead Markets & More"
-        },
-        {
-            "time": "11:56",
-            "tag": "MERCADO",
-            "text": "AMD and Sandisk are two of the big chip stocks with earnings momentum in the new week"
-        },
-        {
-            "time": "10:55",
-            "tag": "MERCADO",
-            "text": "Lavelle Capital LP Purchases Shares of 22,290 JFrog Ltd. $FROG"
-        },
-        {
-            "time": "10:47",
-            "tag": "MERCADO",
-            "text": "WNY Asset Management LLC Invests $351,000 in Advanced Micro Devices, Inc. $AMD"
-        },
-        {
-            "time": "10:39",
+            "time": "14:25",
             "tag": "AI",
-            "text": "How Investors Are Reacting To Flex (FLEX) Boosting 2027 Sales Outlook On AI Infrastructure Momentum"
+            "text": "Amazon.com, Inc. (NASDAQ:AMZN) rises 15% with AWS margins buoying $220 billion AI investment plan"
+        },
+        {
+            "time": "14:22",
+            "tag": "AI",
+            "text": "Is ServiceNow\u2019s (NOW) AI Cybersecurity Push Deepening Its Moat Or Stretching Its Strategy Too Thin?"
+        },
+        {
+            "time": "14:21",
+            "tag": "AI",
+            "text": "Is AI\u2011Driven Hyperscale Storage Demand Reshaping the Investment Case for Western Digital (WDC)?"
+        },
+        {
+            "time": "13:15",
+            "tag": "MERCADO",
+            "text": "Key deals this week: Ambarella, MarketAxess, argenx SE, TransDigm, and more (MKTX:NASDAQ)"
+        },
+        {
+            "time": "12:59",
+            "tag": "AI",
+            "text": "Apple tightens bug reporting as AI floods security teams (AAPL:NASDAQ)"
         }
     ]
 }
