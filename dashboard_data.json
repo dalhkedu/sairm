@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-02 20:57 UTC",
+        "last_updated": "2026-08-02 22:02 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 200.75,
-            "change": "-3.13%"
+            "change": "+2.58%"
         },
         {
             "symbol": "AMD",
             "price": 476.15,
-            "change": "+2.86%"
+            "change": "+1.68%"
         },
         {
             "symbol": "MSFT",
             "price": 464.72,
-            "change": "-2.55%"
+            "change": "+2.68%"
         },
         {
             "symbol": "CEG",
             "price": 262.75,
-            "change": "+2.05%"
+            "change": "-0.25%"
         },
         {
             "symbol": "VST",
             "price": 148.19,
-            "change": "+1.16%"
+            "change": "+0.28%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.69,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.51,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.35,
-            25.61,
-            26.0,
-            26.15,
-            26.57,
-            26.58,
-            26.63,
-            26.19,
-            25.8,
-            25.63,
-            25.58,
-            25.38
+            25.99,
+            25.78,
+            25.68,
+            25.69,
+            25.25,
+            25.43,
+            25.04,
+            25.13,
+            25.52,
+            25.39,
+            25.09,
+            24.84
         ],
         "hsd_history_software": [
-            10.04,
+            10.02,
             10.14,
+            10.06,
+            9.9,
+            10.06,
+            10.09,
+            10.08,
             9.98,
-            9.95,
-            10.04,
-            10.1,
-            10.05,
-            10.17,
-            10.14,
-            10.14,
-            9.97,
-            10.13
+            10.08,
+            10.27,
+            10.07,
+            9.96
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "20:45",
+            "tag": "MERCADO",
+            "text": "CareCloud Breach Exposes Medical and Financial Data of 345,000"
+        },
+        {
             "time": "19:50",
             "tag": "MERCADO",
             "text": "ARK Innovation ETF Sell-Off Deepens as Outflows Accelerate"
         },
         {
+            "time": "19:40",
+            "tag": "MERCADO",
+            "text": "COHR News & Events"
+        },
+        {
+            "time": "19:40",
+            "tag": "AI",
+            "text": "How Q2 Results, Buybacks and AI Rural Push May Impact Calix (CALX) Investors"
+        },
+        {
             "time": "18:52",
             "tag": "MERCADO",
             "text": "AT&T (NYSE:T) Under Pressure With $14.5 Billion Debt Due as Buybacks Consume Cash"
-        },
-        {
-            "time": "18:28",
-            "tag": "AI",
-            "text": "EPAM Systems (EPAM) Is Up 17.5% After Massive OpenAI Upskilling Push Is AI Now Central?"
-        },
-        {
-            "time": "17:52",
-            "tag": "MERCADO",
-            "text": "Salesforce Shares Surge 12%, with Attention Turning to Organic Growth Challenge"
-        },
-        {
-            "time": "17:38",
-            "tag": "AI",
-            "text": "F5 (FFIV) Looks Fully Valued On AI Guardrails And 2026 Revenue Guidance"
         }
     ]
 }
