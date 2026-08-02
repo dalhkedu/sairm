@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-02 11:17 UTC",
+        "last_updated": "2026-08-02 13:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 200.75,
-            "change": "-2.48%"
+            "change": "-0.3%"
         },
         {
             "symbol": "AMD",
             "price": 476.15,
-            "change": "-2.97%"
+            "change": "-1.55%"
         },
         {
             "symbol": "MSFT",
             "price": 464.72,
-            "change": "+1.24%"
+            "change": "-0.22%"
         },
         {
             "symbol": "CEG",
             "price": 262.75,
-            "change": "+1.35%"
+            "change": "+3.38%"
         },
         {
             "symbol": "VST",
             "price": 148.19,
-            "change": "-1.38%"
+            "change": "+1.71%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.43,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
+            0.5,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
             0.49,
             0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
+            0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            26.06,
-            26.19,
-            25.84,
-            26.09,
-            25.79,
-            26.05,
-            25.77,
-            25.47,
-            25.56,
-            25.44,
-            24.95,
-            25.24
+            25.07,
+            24.64,
+            24.23,
+            24.63,
+            24.88,
+            24.91,
+            24.49,
+            24.57,
+            25.04,
+            25.01,
+            25.0,
+            25.12
         ],
         "hsd_history_software": [
-            9.52,
-            9.53,
-            9.54,
-            9.52,
-            9.71,
-            9.83,
-            10.03,
+            10.1,
+            10.22,
+            10.36,
+            10.38,
+            10.27,
+            10.12,
+            9.95,
+            9.92,
+            9.89,
+            9.89,
             9.84,
-            9.82,
-            9.8,
-            9.67,
-            9.8
+            9.85
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:24",
+            "time": "12:00",
+            "tag": "RESULTADOS",
+            "text": "Consumer Tech (July 27-31): AI Boom Drives Tech Earnings As Apple, Amazon Lead Markets & More"
+        },
+        {
+            "time": "11:56",
+            "tag": "MERCADO",
+            "text": "AMD and Sandisk are two of the big chip stocks with earnings momentum in the new week"
+        },
+        {
+            "time": "10:55",
+            "tag": "MERCADO",
+            "text": "Lavelle Capital LP Purchases Shares of 22,290 JFrog Ltd. $FROG"
+        },
+        {
+            "time": "10:47",
+            "tag": "MERCADO",
+            "text": "WNY Asset Management LLC Invests $351,000 in Advanced Micro Devices, Inc. $AMD"
+        },
+        {
+            "time": "10:39",
             "tag": "AI",
-            "text": "How Investors Are Reacting To S&P Global (SPGI) Doubling Down On AI And Capital Returns"
-        },
-        {
-            "time": "09:38",
-            "tag": "MERCADO",
-            "text": "Fischer Investment Strategies LLC Has $3.32 Million Stake in Invesco QQQ $QQQ"
-        },
-        {
-            "time": "09:33",
-            "tag": "AI",
-            "text": "Amdocs (DOX) Backlog And AI Push Put Valuation Back In Focus"
-        },
-        {
-            "time": "09:33",
-            "tag": "MERCADO",
-            "text": "Commvault (CVLT) Boosts Subscription Outlook and Buybacks: Is Its Recurring Revenue Story Evolving?"
-        },
-        {
-            "time": "09:33",
-            "tag": "MERCADO",
-            "text": "NetApp (NTAP) Could Be 2% Overvalued Following Governance Change"
+            "text": "How Investors Are Reacting To Flex (FLEX) Boosting 2027 Sales Outlook On AI Infrastructure Momentum"
         }
     ]
 }
