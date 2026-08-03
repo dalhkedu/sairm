@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-02 22:02 UTC",
+        "last_updated": "2026-08-03 00:00 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 200.75,
-            "change": "+2.58%"
+            "change": "-0.41%"
         },
         {
             "symbol": "AMD",
             "price": 476.15,
-            "change": "+1.68%"
+            "change": "+0.09%"
         },
         {
             "symbol": "MSFT",
             "price": 464.72,
-            "change": "+2.68%"
+            "change": "+0.46%"
         },
         {
             "symbol": "CEG",
             "price": 262.75,
-            "change": "-0.25%"
+            "change": "-0.49%"
         },
         {
             "symbol": "VST",
             "price": 148.19,
-            "change": "+0.28%"
+            "change": "+1.55%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.52,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.52,
             0.51,
             0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            25.99,
-            25.78,
-            25.68,
-            25.69,
-            25.25,
-            25.43,
-            25.04,
-            25.13,
-            25.52,
-            25.39,
-            25.09,
-            24.84
+            24.64,
+            25.11,
+            25.05,
+            25.17,
+            25.62,
+            25.26,
+            25.59,
+            25.76,
+            25.56,
+            25.48,
+            25.64,
+            25.48
         ],
         "hsd_history_software": [
-            10.02,
-            10.14,
-            10.06,
-            9.9,
-            10.06,
-            10.09,
-            10.08,
-            9.98,
-            10.08,
-            10.27,
-            10.07,
-            9.96
+            9.27,
+            9.38,
+            9.56,
+            9.63,
+            9.79,
+            9.76,
+            9.75,
+            9.75,
+            9.87,
+            9.89,
+            9.89,
+            10.06
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:45",
+            "time": "22:54",
             "tag": "MERCADO",
-            "text": "CareCloud Breach Exposes Medical and Financial Data of 345,000"
+            "text": "Super Micro Computer, Inc. (NASDAQ:SMCI) Stock Comes Under Pressure as Cash-Flow Concerns Emerge Despite Margin Recovery"
         },
         {
-            "time": "19:50",
-            "tag": "MERCADO",
-            "text": "ARK Innovation ETF Sell-Off Deepens as Outflows Accelerate"
-        },
-        {
-            "time": "19:40",
-            "tag": "MERCADO",
-            "text": "COHR News & Events"
-        },
-        {
-            "time": "19:40",
+            "time": "22:38",
             "tag": "AI",
-            "text": "How Q2 Results, Buybacks and AI Rural Push May Impact Calix (CALX) Investors"
+            "text": "Is Lam Research's AI Surge Quietly Redefining Applied Materials' Competitive Moat (AMAT)?"
         },
         {
-            "time": "18:52",
+            "time": "22:35",
+            "tag": "RESULTADOS",
+            "text": "AMD Stock Rally Stalls Ahead of Earnings as Options Predict a 12% Move"
+        },
+        {
+            "time": "22:19",
             "tag": "MERCADO",
-            "text": "AT&T (NYSE:T) Under Pressure With $14.5 Billion Debt Due as Buybacks Consume Cash"
+            "text": "FedEx expands deployment of autonomous trailer loading systems"
+        },
+        {
+            "time": "21:41",
+            "tag": "RESULTADOS",
+            "text": "Is Brinker (EAT) Using Its 2026 Earnings Call To Redefine Its Tech-Led Turnaround Story?"
         }
     ]
 }
