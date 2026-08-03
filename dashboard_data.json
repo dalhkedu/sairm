@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-03 11:27 UTC",
+        "last_updated": "2026-08-03 14:44 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 200.75,
-            "change": "+0.48%"
+            "price": 205.8,
+            "change": "-2.78%"
         },
         {
             "symbol": "AMD",
-            "price": 476.15,
-            "change": "+1.08%"
+            "price": 478.23,
+            "change": "+2.21%"
         },
         {
             "symbol": "MSFT",
-            "price": 464.72,
-            "change": "+0.34%"
+            "price": 486.99,
+            "change": "+1.09%"
         },
         {
             "symbol": "CEG",
-            "price": 262.75,
-            "change": "+0.9%"
+            "price": 269.49,
+            "change": "-0.66%"
         },
         {
             "symbol": "VST",
-            "price": 148.19,
-            "change": "-2.93%"
+            "price": 151.51,
+            "change": "+3.17%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
-        "rci_current": 0.2,
+        "cer_current": 0.5,
+        "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
+            0.5,
+            0.5,
+            0.5,
             0.51,
+            0.51,
+            0.5,
             0.51,
             0.51,
             0.51,
             0.5,
-            0.5
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.79,
-            25.73,
-            26.17,
-            25.96,
-            25.93,
-            25.78,
-            25.6,
-            25.24,
-            24.75,
-            25.15,
-            24.74,
-            25.15
+            23.21,
+            23.35,
+            23.24,
+            22.84,
+            23.21,
+            23.45,
+            23.64,
+            23.52,
+            23.93,
+            24.25,
+            24.67,
+            24.74
         ],
         "hsd_history_software": [
-            10.59,
-            10.61,
-            10.53,
-            10.65,
-            10.63,
-            10.49,
-            10.46,
-            10.35,
-            10.36,
-            10.31,
-            10.23,
-            10.03
+            10.17,
+            10.02,
+            9.88,
+            9.89,
+            10.01,
+            10.21,
+            10.04,
+            10.1,
+            9.93,
+            10.12,
+            9.99,
+            10.05
         ],
         "rci_data": [
             85.0,
-            20.075000000000003
+            20.580000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,9 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "INFO",
-            "tag": "LIMIT",
-            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
+            "time": "14:06",
+            "tag": "MERCADO",
+            "text": "Robbins LLP Reminds Intuit Inc. Investors With Significant Losses of the Opportunity to Lead the the Securities Fraud Class Action Against INTU"
+        },
+        {
+            "time": "13:56",
+            "tag": "AI",
+            "text": "Walmart Canada forecasts weather disruptions with proprietary AI tool"
+        },
+        {
+            "time": "13:30",
+            "tag": "AI",
+            "text": "Why Core Scientific (CORZ) Is Down 8.9% After Massive AMD AI Data Center Deal And $1.16 Billion Loss"
+        },
+        {
+            "time": "13:30",
+            "tag": "MERCADO",
+            "text": "Paychex Brings Workforce Answers and Actions Into Teams"
+        },
+        {
+            "time": "13:21",
+            "tag": "MERCADO",
+            "text": "Apollo Global Management Announces Austin, Texas, Strategic Growth Hub"
         }
     ]
 }
