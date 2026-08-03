@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-03 07:30 UTC",
+        "last_updated": "2026-08-03 11:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": NaN,
-            "change": "+2.48%"
+            "price": 200.75,
+            "change": "+0.48%"
         },
         {
             "symbol": "AMD",
             "price": 476.15,
-            "change": "+1.33%"
+            "change": "+1.08%"
         },
         {
             "symbol": "MSFT",
             "price": 464.72,
-            "change": "+3.23%"
+            "change": "+0.34%"
         },
         {
             "symbol": "CEG",
             "price": 262.75,
-            "change": "-2.18%"
+            "change": "+0.9%"
         },
         {
             "symbol": "VST",
             "price": 148.19,
-            "change": "-1.71%"
+            "change": "-2.93%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
-        "rci_current": NaN,
+        "cer_current": 0.51,
+        "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.54,
-            0.53,
-            0.53,
-            0.54,
-            0.53,
+            0.52,
+            0.52,
             0.53,
             0.53,
             0.52,
+            0.52,
             0.51,
             0.51,
+            0.51,
+            0.51,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.32,
-            24.59,
-            24.96,
-            24.78,
-            24.44,
-            24.5,
-            24.56,
+            25.79,
+            25.73,
+            26.17,
+            25.96,
+            25.93,
+            25.78,
+            25.6,
+            25.24,
             24.75,
-            24.48,
-            24.15,
-            24.47,
-            24.82
+            25.15,
+            24.74,
+            25.15
         ],
         "hsd_history_software": [
-            9.7,
-            9.77,
-            9.87,
-            9.73,
-            9.78,
-            9.89,
-            9.91,
-            9.93,
-            9.83,
-            10.0,
-            9.94,
-            9.9
+            10.59,
+            10.61,
+            10.53,
+            10.65,
+            10.63,
+            10.49,
+            10.46,
+            10.35,
+            10.36,
+            10.31,
+            10.23,
+            10.03
         ],
         "rci_data": [
             85.0,
-            NaN
+            20.075000000000003
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,9 @@
     ],
     "news_feed": [
         {
-            "time": "06:22",
-            "tag": "MERCADO",
-            "text": "Nasdaq Jumps 1% as Amazon Shares Surge: Investor Sentiment Improves, But Greed Index Remains in 'Fear' Zo"
-        },
-        {
-            "time": "06:21",
-            "tag": "AI",
-            "text": "Boomi and ServiceNow Partnership: Connected Data and AI-Powered Processes"
-        },
-        {
-            "time": "05:57",
-            "tag": "RESULTADOS",
-            "text": "AI Boom Delivers Historic Earnings Beats - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ)"
-        },
-        {
-            "time": "05:37",
-            "tag": "RESULTADOS",
-            "text": "5 Revealing Analyst Questions From F5\u2019s Q2 Earnings Call"
-        },
-        {
-            "time": "05:11",
-            "tag": "MERCADO",
-            "text": "Fortinet (NASDAQ:FTNT) Upgraded by Wall Street Zen to \"Buy\" Rating"
+            "time": "INFO",
+            "tag": "LIMIT",
+            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
         }
     ]
 }
