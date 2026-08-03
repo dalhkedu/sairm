@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-03 17:10 UTC",
+        "last_updated": "2026-08-03 19:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 207.24,
-            "change": "-2.42%"
+            "price": 207.29,
+            "change": "-1.03%"
         },
         {
             "symbol": "AMD",
-            "price": 481.8,
-            "change": "-1.02%"
+            "price": 484.27,
+            "change": "-2.97%"
         },
         {
             "symbol": "MSFT",
-            "price": 487.99,
-            "change": "-0.02%"
+            "price": 489.15,
+            "change": "+0.52%"
         },
         {
             "symbol": "CEG",
-            "price": 273.05,
-            "change": "+1.53%"
+            "price": NaN,
+            "change": "+1.2%"
         },
         {
             "symbol": "VST",
-            "price": 154.38,
-            "change": "-1.86%"
+            "price": 156.12,
+            "change": "+3.33%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.52,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
             0.51,
-            0.5,
-            0.5,
             0.51,
-            0.52,
+            0.51,
+            0.51,
             0.51,
             0.52,
             0.51,
-            0.5,
+            0.51,
+            0.52,
+            0.51,
             0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            24.27,
-            24.55,
-            24.99,
-            25.17,
-            24.96,
-            24.93,
-            25.07,
-            24.66,
-            24.8,
-            24.47,
-            24.72,
-            24.68
+            24.67,
+            24.31,
+            24.4,
+            24.25,
+            24.29,
+            24.17,
+            23.7,
+            24.12,
+            24.09,
+            24.46,
+            24.64,
+            24.65
         ],
         "hsd_history_software": [
-            9.32,
-            9.47,
-            9.61,
-            9.47,
-            9.4,
-            9.29,
-            9.43,
-            9.26,
-            9.45,
-            9.57,
-            9.71,
-            9.81
+            10.37,
+            10.17,
+            10.1,
+            10.15,
+            10.23,
+            10.2,
+            10.06,
+            10.1,
+            9.99,
+            9.93,
+            9.92,
+            10.02
         ],
         "rci_data": [
             85.0,
-            20.724
+            20.729
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:34",
+            "time": "19:10",
             "tag": "MERCADO",
-            "text": "D-Wave Spikes 11% on Nasdaq Verafin Deal, IonQ Gains 9% After SkyWater Buyout, Rigetti Rises 7%"
+            "text": "MKDW Stock Quote Price and Forecast"
         },
         {
-            "time": "16:15",
+            "time": "18:44",
             "tag": "MERCADO",
-            "text": "CrowdStrike Holdings Inc Stock (CRWD) Moved Up by 3.55% on Aug 3: What Investors Need To Know"
+            "text": "Suppliers Competing on Price Are Losing the Real Game. Apple\u2019s Ford Deal Shows What Wins"
         },
         {
-            "time": "16:13",
-            "tag": "RESULTADOS",
-            "text": "5 Revealing Analyst Questions From F5\u2019s Q2 Earnings Call"
+            "time": "18:40",
+            "tag": "MERCADO",
+            "text": "Applied Materials: We Expect Upside Heading Into July-Quarter Results"
         },
         {
-            "time": "16:10",
+            "time": "18:30",
             "tag": "MERCADO",
-            "text": "MSCI Completes First Street Acquisition to Expand Climate Risk Analytics Platform"
+            "text": "CPI | Broadcom Loses Bid to Halt EU Antitrust Document Request"
         },
         {
-            "time": "16:08",
+            "time": "18:23",
             "tag": "MERCADO",
-            "text": "eBay Completes Acquisition of Depop"
+            "text": "Blackstone Data Center Arm Takes HQ Lease At Reston Station"
         }
     ]
 }
