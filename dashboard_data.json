@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-03 00:00 UTC",
+        "last_updated": "2026-08-03 03:47 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 200.75,
-            "change": "-0.41%"
+            "change": "-0.45%"
         },
         {
             "symbol": "AMD",
             "price": 476.15,
-            "change": "+0.09%"
+            "change": "-2.41%"
         },
         {
             "symbol": "MSFT",
             "price": 464.72,
-            "change": "+0.46%"
+            "change": "+0.2%"
         },
         {
             "symbol": "CEG",
             "price": 262.75,
-            "change": "-0.49%"
+            "change": "+2.23%"
         },
         {
             "symbol": "VST",
             "price": 148.19,
-            "change": "+1.55%"
+            "change": "+3.06%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.45,
         "rci_current": 0.2,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.49,
+            0.48,
             0.49,
             0.49,
+            0.48,
+            0.48,
+            0.48,
             0.49,
+            0.49,
+            0.48,
             0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.64,
-            25.11,
-            25.05,
-            25.17,
-            25.62,
-            25.26,
-            25.59,
-            25.76,
-            25.56,
-            25.48,
-            25.64,
-            25.48
+            27.9,
+            27.92,
+            27.79,
+            27.62,
+            27.83,
+            27.41,
+            27.11,
+            26.77,
+            26.26,
+            25.79,
+            25.82,
+            25.41
         ],
         "hsd_history_software": [
-            9.27,
-            9.38,
-            9.56,
-            9.63,
-            9.79,
-            9.76,
-            9.75,
-            9.75,
-            9.87,
-            9.89,
-            9.89,
-            10.06
+            10.0,
+            10.18,
+            10.29,
+            10.24,
+            10.3,
+            10.14,
+            10.18,
+            10.12,
+            10.08,
+            9.96,
+            9.9,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:54",
-            "tag": "MERCADO",
-            "text": "Super Micro Computer, Inc. (NASDAQ:SMCI) Stock Comes Under Pressure as Cash-Flow Concerns Emerge Despite Margin Recovery"
-        },
-        {
-            "time": "22:38",
-            "tag": "AI",
-            "text": "Is Lam Research's AI Surge Quietly Redefining Applied Materials' Competitive Moat (AMAT)?"
-        },
-        {
-            "time": "22:35",
+            "time": "03:01",
             "tag": "RESULTADOS",
-            "text": "AMD Stock Rally Stalls Ahead of Earnings as Options Predict a 12% Move"
+            "text": "Gartner (IT) Q2 Earnings: What To Expect"
         },
         {
-            "time": "22:19",
+            "time": "02:11",
             "tag": "MERCADO",
-            "text": "FedEx expands deployment of autonomous trailer loading systems"
+            "text": "Sangfor Technologies Included in the 2026 Gartner\u00ae Magic Quadrant\u2122 for SASE Platforms"
         },
         {
-            "time": "21:41",
-            "tag": "RESULTADOS",
-            "text": "Is Brinker (EAT) Using Its 2026 Earnings Call To Redefine Its Tech-Led Turnaround Story?"
+            "time": "01:14",
+            "tag": "MERCADO",
+            "text": "Philippine Consulate Attends Biotech and Beyond Speaker Series Featuring Thermo Fisher Scientific"
+        },
+        {
+            "time": "01:10",
+            "tag": "MERCADO",
+            "text": "ETFs Investing in Omnicell, Inc. Stocks"
+        },
+        {
+            "time": "23:40",
+            "tag": "MERCADO",
+            "text": "Eric Trump-backed Space-Eyes to go public via $638M SPAC merger"
         }
     ]
 }
