@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-03 21:05 UTC",
+        "last_updated": "2026-08-03 23:03 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 206.64,
-            "change": "-2.14%"
+            "change": "-2.61%"
         },
         {
             "symbol": "AMD",
             "price": 484.64,
-            "change": "+2.69%"
+            "change": "+0.43%"
         },
         {
             "symbol": "MSFT",
             "price": 487.65,
-            "change": "+2.79%"
+            "change": "+0.23%"
         },
         {
             "symbol": "CEG",
             "price": 273.71,
-            "change": "+1.51%"
+            "change": "-1.15%"
         },
         {
             "symbol": "VST",
-            "price": 155.94,
-            "change": "-0.58%"
+            "price": NaN,
+            "change": "+2.68%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.7,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.5,
-            0.5,
+            0.52,
+            0.52,
             0.51,
             0.5,
+            0.5,
             0.49,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.5
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.26,
-            25.71,
-            26.01,
-            25.87,
-            26.22,
-            26.02,
-            25.64,
-            25.45,
-            24.99,
-            24.89,
-            24.71,
-            24.5
+            25.94,
+            25.62,
+            25.44,
+            25.48,
+            24.98,
+            24.53,
+            24.05,
+            23.65,
+            23.87,
+            23.82,
+            24.07,
+            24.53
         ],
         "hsd_history_software": [
-            9.92,
+            10.15,
+            10.24,
+            10.16,
+            10.03,
+            9.89,
+            9.84,
+            9.85,
             9.74,
-            9.88,
-            9.72,
-            9.92,
-            10.01,
-            9.96,
-            10.1,
-            10.07,
-            10.26,
-            10.21,
-            10.01
+            9.71,
+            9.79,
+            9.74,
+            9.94
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:20",
+            "time": "22:01",
             "tag": "MERCADO",
-            "text": "ROSEN, A LONGSTANDING LAW FIRM, Encourages Hertz Global Holdings, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - HTZ"
+            "text": "Synopsys Korea Appoints Former Siemens Executive Moon Sung-soo to Lead S&A Business"
         },
         {
-            "time": "20:19",
+            "time": "21:34",
             "tag": "MERCADO",
-            "text": "RXT CLASS ACTION: Investors with Losses in Rackspace Technology Should Contact Block & Leviton Before Sept. 28"
+            "text": "Western Digital Corp (WDC) Stock Down 3.2% but Still Overvalued -- GF Score: 60/100"
         },
         {
-            "time": "19:30",
+            "time": "21:30",
             "tag": "MERCADO",
-            "text": "Michael Saylor's Strategy Just Boosted Its Cash Reserve to $3.75 Billion. Here's Why I'm Bearish on the Stock."
+            "text": "Apollo to Open \u2018Innovation\u2019 Hub in Austin, Texas"
         },
         {
-            "time": "19:06",
-            "tag": "RESULTADOS",
-            "text": "Toast to Report Q2 Earnings: What Should Investors Do?"
+            "time": "21:20",
+            "tag": "MERCADO",
+            "text": "Tracking algorithmic rent-pricing lawsuits"
         },
         {
-            "time": "18:45",
-            "tag": "MERCADO",
-            "text": "1 Thing Every Micron Stock Investor Needs To Understand Right Now"
+            "time": "21:16",
+            "tag": "AI",
+            "text": "Artificial Intelligence at Caterpillar"
         }
     ]
 }
