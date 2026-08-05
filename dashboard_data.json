@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-05 15:15 UTC",
+        "last_updated": "2026-08-05 17:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 219.32,
-            "change": "-0.57%"
+            "price": 221.3,
+            "change": "+1.0%"
         },
         {
             "symbol": "AMD",
-            "price": 482.26,
-            "change": "-3.44%"
+            "price": 486.2,
+            "change": "-2.52%"
         },
         {
             "symbol": "MSFT",
-            "price": 490.58,
-            "change": "+3.27%"
+            "price": 488.15,
+            "change": "+0.36%"
         },
         {
             "symbol": "CEG",
-            "price": 265.87,
-            "change": "+0.39%"
+            "price": 265.1,
+            "change": "+1.89%"
         },
         {
             "symbol": "VST",
-            "price": 141.54,
-            "change": "-3.02%"
+            "price": 141.02,
+            "change": "+0.68%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.58,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
+            0.5,
+            0.51,
+            0.51,
             0.51,
             0.51,
             0.5,
+            0.5,
+            0.5,
             0.49,
-            0.49,
-            0.48,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
+            0.5,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            23.55,
-            23.16,
-            23.03,
-            23.27,
-            23.63,
-            23.59,
-            24.05,
-            24.15,
-            24.51,
-            24.76,
-            25.21,
-            25.16
+            25.53,
+            25.62,
+            25.31,
+            24.97,
+            24.9,
+            25.28,
+            25.45,
+            25.65,
+            25.15,
+            24.92,
+            24.98,
+            25.19
         ],
         "hsd_history_software": [
-            9.45,
-            9.52,
-            9.52,
-            9.53,
-            9.35,
-            9.36,
-            9.37,
-            9.48,
-            9.48,
-            9.67,
-            9.79,
-            9.85
+            10.12,
+            10.17,
+            9.99,
+            10.17,
+            10.14,
+            10.26,
+            10.45,
+            10.33,
+            10.18,
+            10.15,
+            10.04,
+            10.06
         ],
         "rci_data": [
             85.0,
-            21.932
+            22.130000000000003
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,9 @@
     ],
     "news_feed": [
         {
-            "time": "13:30",
-            "tag": "AI",
-            "text": "Fiserv and Stuut Partner to Bring Agentic AI to Enterprise Receivables"
-        },
-        {
-            "time": "13:00",
-            "tag": "MERCADO",
-            "text": "HubSpot Chief Legal Officer Sells 728 Shares for Tax Withholding"
-        },
-        {
-            "time": "12:15",
-            "tag": "RESULTADOS",
-            "text": "Palmer Square Capital BDC Inc.  ( PSBD )  Q2 Earnings and Revenues Beat Estimates"
-        },
-        {
-            "time": "12:14",
-            "tag": "AI",
-            "text": "Arista Networks Just Delivered Its First $3 Billion Quarter. Here's What It Means for the AI Networking Trade."
-        },
-        {
-            "time": "12:10",
-            "tag": "MERCADO",
-            "text": "SpaceX Just Guided for A $100 Billion Run Rate by December and $1 Trillion of Revenue by 2030. Here's Why the Stock Is Getting Crushed Anyway"
+            "time": "INFO",
+            "tag": "LIMIT",
+            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
         }
     ]
 }
