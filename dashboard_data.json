@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-06 05:51 UTC",
+        "last_updated": "2026-08-06 08:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 219.22,
-            "change": "+0.17%"
+            "change": "-1.68%"
         },
         {
             "symbol": "AMD",
             "price": 482.05,
-            "change": "-0.18%"
+            "change": "+1.53%"
         },
         {
             "symbol": "MSFT",
             "price": 487.46,
-            "change": "+0.89%"
+            "change": "+0.88%"
         },
         {
             "symbol": "CEG",
             "price": 265.12,
-            "change": "-2.08%"
+            "change": "-0.45%"
         },
         {
             "symbol": "VST",
             "price": 140.58,
-            "change": "+0.15%"
+            "change": "+2.37%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.69,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.48,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
             0.48,
             0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
             0.49,
             0.5,
             0.5,
-            0.49,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            25.95,
-            25.62,
-            25.43,
-            25.94,
-            26.09,
-            25.72,
+            26.28,
+            26.54,
             26.1,
-            25.72,
-            25.48,
-            25.69,
-            25.21,
-            25.28
+            25.73,
+            25.24,
+            24.99,
+            25.09,
+            25.35,
+            25.37,
+            24.9,
+            24.88,
+            25.06
         ],
         "hsd_history_software": [
-            10.28,
-            10.16,
-            10.15,
-            10.24,
-            10.29,
-            10.22,
-            10.19,
-            9.99,
             10.09,
+            10.23,
+            10.04,
             9.91,
-            10.02,
-            10.17
+            9.86,
+            9.8,
+            9.89,
+            9.97,
+            9.79,
+            9.71,
+            9.77,
+            9.85
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:54",
-            "tag": "AI",
-            "text": "Nokia Acquires NXP's Arizona Fab to Secure AI Data Center Optical Chip Supply"
+            "time": "07:52",
+            "tag": "MERCADO",
+            "text": "First Solar: Structural Growth, Financial Strength, And An Attractive Valuation"
         },
         {
-            "time": "04:43",
+            "time": "07:42",
             "tag": "MERCADO",
-            "text": "Wells Fargo to Launch Tokenized Deposits for Corporate Clients"
+            "text": "I asked ChatGPT if the Tesla share price could crash like SpaceX. Here\u2019s what it said."
         },
         {
-            "time": "04:15",
+            "time": "07:32",
             "tag": "MERCADO",
-            "text": "Coca-Cola's Record High: Decoding the Hidden Metaphor of Our Times"
+            "text": "Fair Isaac Corporation $FICO Shares Acquired by Bank of America Corp DE"
         },
         {
-            "time": "04:11",
+            "time": "07:24",
             "tag": "MERCADO",
-            "text": "Joby Aviation Beats Q2 Revenue Estimates, Raises FY Guidance"
+            "text": "Amundi Sells 53,179 Shares of EPAM Systems, Inc. $EPAM"
         },
         {
-            "time": "04:04",
+            "time": "06:14",
             "tag": "MERCADO",
-            "text": "iShares Expanded Tech Sector ETF offers broader..."
+            "text": "SolarEdge Announces Second Quarter 2026 Financial Results"
         }
     ]
 }
