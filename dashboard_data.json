@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-07 09:01 UTC",
+        "last_updated": "2026-08-07 10:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 218.99,
-            "change": "-2.54%"
+            "change": "-2.93%"
         },
         {
             "symbol": "AMD",
             "price": 489.28,
-            "change": "+2.28%"
+            "change": "+0.8%"
         },
         {
             "symbol": "MSFT",
             "price": 499.86,
-            "change": "+3.04%"
+            "change": "+2.18%"
         },
         {
             "symbol": "CEG",
             "price": 261.1,
-            "change": "-1.24%"
+            "change": "-0.22%"
         },
         {
             "symbol": "VST",
             "price": 141.38,
-            "change": "+0.24%"
+            "change": "+0.79%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.52,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.52,
+            0.52,
             0.51,
-            0.5,
             0.51,
-            0.51,
-            0.5,
             0.5,
             0.49,
-            0.48,
-            0.49,
-            0.48,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            25.64,
-            25.31,
-            25.36,
-            25.03,
-            25.17,
-            24.91,
-            25.27,
-            25.2,
-            24.95,
-            25.29,
-            25.14,
-            25.49
+            25.41,
+            24.92,
+            24.64,
+            25.02,
+            25.47,
+            25.06,
+            24.69,
+            24.65,
+            24.58,
+            24.89,
+            24.71,
+            24.98
         ],
         "hsd_history_software": [
-            10.48,
-            10.51,
-            10.42,
+            10.32,
+            10.19,
+            10.01,
+            10.1,
+            10.26,
             10.3,
-            10.28,
-            10.36,
-            10.56,
-            10.37,
-            10.47,
-            10.41,
-            10.36,
-            10.19
+            10.23,
+            10.2,
+            10.13,
+            10.08,
+            10.08,
+            10.15
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:40",
-            "tag": "RESULTADOS",
-            "text": "Sabre Corp (SABR) (Q2 2026) Earnings Call Highlights: Beats Guidance, Raises EBITDA Outlook, ..."
+            "time": "09:58",
+            "tag": "MERCADO",
+            "text": "Morgan Stanley Adjusts Price Target on Gen Digital to $32 From $28, Maintains Equalweight Rating"
         },
         {
-            "time": "08:40",
+            "time": "09:33",
             "tag": "MERCADO",
-            "text": "ETFs Investing in RingCentral, Inc. Class A Stocks"
+            "text": "Pacer Advisors Inc. Reduces Stake in Take-Two Interactive Software, Inc. $TTWO"
         },
         {
-            "time": "08:39",
+            "time": "09:30",
             "tag": "MERCADO",
-            "text": "Red Cat Holdings, Inc. (RCAT) Reports Q2 Loss, Lags Revenue Estimates"
+            "text": "Pacer Advisors Inc. Cuts Holdings in eBay Inc. $EBAY"
         },
         {
-            "time": "08:32",
+            "time": "09:23",
             "tag": "MERCADO",
-            "text": "Sei Investments Co. Purchases 10,569 Shares of Qualys, Inc. $QLYS"
+            "text": "Pacer Advisors Inc. Sells 178,124 Shares of Axon Enterprise, Inc $AXON"
         },
         {
-            "time": "08:32",
+            "time": "09:11",
             "tag": "MERCADO",
-            "text": "Keebeck Wealth Management Raises Stake in Amazon.com, Inc. $AMZN"
+            "text": "Tencent Music Entertainment Group Sponsored ADR $TME Shares Sold by Lazard Asset Management LLC"
         }
     ]
 }
