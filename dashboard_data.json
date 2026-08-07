@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-07 21:41 UTC",
+        "last_updated": "2026-08-07 22:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 223.96,
-            "change": "+0.65%"
+            "change": "+0.07%"
         },
         {
             "symbol": "AMD",
             "price": 483.36,
-            "change": "-2.31%"
+            "change": "+1.52%"
         },
         {
             "symbol": "MSFT",
             "price": 499.99,
-            "change": "+2.25%"
+            "change": "-1.73%"
         },
         {
             "symbol": "CEG",
             "price": 269.89,
-            "change": "+2.0%"
+            "change": "-0.42%"
         },
         {
             "symbol": "VST",
             "price": 140.59,
-            "change": "-0.62%"
+            "change": "+2.28%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.69,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.47,
-            0.48,
-            0.48,
-            0.49
+            0.5,
+            0.51,
+            0.52,
+            0.53,
+            0.54,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.32,
-            26.24,
-            26.43,
-            26.77,
-            26.4,
-            25.98,
-            25.71,
-            25.56,
-            25.8,
-            25.55,
-            25.57,
-            25.12
+            26.21,
+            26.11,
+            26.03,
+            25.9,
+            25.69,
+            25.25,
+            24.92,
+            24.8,
+            24.72,
+            24.37,
+            24.33,
+            24.65
         ],
         "hsd_history_software": [
+            9.95,
+            10.02,
+            10.05,
             10.15,
-            10.07,
-            10.25,
-            10.13,
-            9.98,
-            10.0,
-            10.0,
-            9.97,
-            9.87,
-            9.97,
+            10.11,
+            10.11,
+            10.03,
+            10.15,
             10.06,
-            10.07
+            10.13,
+            10.26,
+            10.14
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,14 @@
     ],
     "news_feed": [
         {
-            "time": "19:29",
-            "tag": "MERCADO",
-            "text": "Tesla Stock Jumps Nearly 4% as $16.8 Billion Terafab Breaks Ground"
+            "time": "14:00",
+            "tag": "ALERTA",
+            "text": "Monitoramento de Risco AI ativo. Aguardando feed..."
         },
         {
-            "time": "19:15",
-            "tag": "MERCADO",
-            "text": "Microchip Technology Inc Stock (MCHP) Moved Up by 13.93% on Aug 7: What Investors Need To Know"
-        },
-        {
-            "time": "19:10",
-            "tag": "MERCADO",
-            "text": "Why Opendoor Technologies (OPEN) Is Down 9.8% After Wider Q2 Loss And Slower Revenue"
-        },
-        {
-            "time": "19:00",
-            "tag": "MERCADO",
-            "text": "General Dynamics Unit Wins $1.3 Billion Army National Guard IT, Cybersecurity Contract"
-        },
-        {
-            "time": "18:48",
-            "tag": "MERCADO",
-            "text": "Take-Two Interactive (TTWO) Stock Jumps 5% Today"
+            "time": "13:30",
+            "tag": "MACRO",
+            "text": "Volatilidade no setor de semicondutores esperada."
         }
     ]
 }
