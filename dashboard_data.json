@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-07 11:48 UTC",
+        "last_updated": "2026-08-07 13:09 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 218.99,
-            "change": "+2.91%"
+            "change": "+3.38%"
         },
         {
             "symbol": "AMD",
             "price": 489.28,
-            "change": "-3.28%"
+            "change": "-2.15%"
         },
         {
             "symbol": "MSFT",
             "price": 499.86,
-            "change": "-0.82%"
+            "change": "+1.48%"
         },
         {
             "symbol": "CEG",
             "price": 261.1,
-            "change": "+0.62%"
+            "change": "+2.0%"
         },
         {
             "symbol": "VST",
             "price": 141.38,
-            "change": "+3.09%"
+            "change": "-1.23%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.43,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
             0.51,
             0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.5,
-            0.5,
-            0.5,
-            0.49
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.71,
-            24.71,
-            24.55,
-            24.66,
-            25.16,
-            25.12,
-            25.54,
-            25.12,
-            25.18,
-            25.14,
-            25.59,
-            25.16
+            22.87,
+            23.2,
+            23.67,
+            23.92,
+            23.56,
+            23.41,
+            23.66,
+            24.03,
+            23.95,
+            24.06,
+            24.39,
+            24.66
         ],
         "hsd_history_software": [
-            10.22,
-            10.09,
             9.92,
-            9.99,
+            9.91,
+            9.84,
+            9.85,
+            10.03,
+            10.15,
+            10.21,
+            10.16,
+            10.16,
             9.97,
-            9.94,
-            10.01,
-            9.98,
-            9.88,
-            9.87,
-            10.04,
-            9.91
+            9.93,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:12",
-            "tag": "AI",
-            "text": "Yelp reports record $33M in \u201cOther revenue\u201d amid AI push"
-        },
-        {
-            "time": "11:01",
+            "time": "12:29",
             "tag": "MERCADO",
-            "text": "Palouse Capital Management Inc. Trims Position in Cisco Systems, Inc. $CSCO"
+            "text": "Rosenblatt Securities Reiterates Buy Rating for Microchip Technology (NASDAQ:MCHP)"
         },
         {
-            "time": "11:01",
+            "time": "12:28",
             "tag": "MERCADO",
-            "text": "Palouse Capital Management Inc. Lowers Stock Holdings in Texas Instruments Incorporated $TXN"
+            "text": "Why KLA (KLAC) Is Up 7.1% After Dividend Hike And Strong 2026 Outlook Update"
         },
         {
-            "time": "10:53",
+            "time": "12:25",
             "tag": "MERCADO",
-            "text": "Trust is commerce media\u2019s most valuable currency, says Amex SVP Jake King"
+            "text": "RBC Adjusts PT on Akamai Technologies to $135 From $150, Maintains Sector Perform Rating"
         },
         {
-            "time": "10:21",
-            "tag": "AI",
-            "text": "As Apple Kicks the AI Can Down the Road, the Company Is Being Picked Apart"
+            "time": "12:24",
+            "tag": "RESULTADOS",
+            "text": "Super Micro Q4 Earnings Preview: What To Expect From Upcoming Report"
+        },
+        {
+            "time": "12:01",
+            "tag": "MERCADO",
+            "text": "Trade Desk Posts Downbeat Q2 Results, Joins Sezzle, Resmed, Ouster And Other Big Stocks Moving Lower In Friday\u2019s Pre-Market Session"
         }
     ]
 }
