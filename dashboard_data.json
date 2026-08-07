@@ -1,37 +1,37 @@
 {
     "metadata": {
-        "last_updated": "2026-08-07 05:41 UTC",
+        "last_updated": "2026-08-07 07:19 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 218.99,
-            "change": "-2.56%"
+            "change": "-2.0%"
         },
         {
             "symbol": "AMD",
             "price": 489.28,
-            "change": "-2.67%"
+            "change": "-0.09%"
         },
         {
             "symbol": "MSFT",
             "price": 499.86,
-            "change": "-1.61%"
+            "change": "+1.13%"
         },
         {
             "symbol": "CEG",
             "price": 261.1,
-            "change": "0.0%"
+            "change": "-3.42%"
         },
         {
             "symbol": "VST",
             "price": 141.38,
-            "change": "-1.63%"
+            "change": "-0.44%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.67,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
@@ -39,43 +39,43 @@
             0.5,
             0.49,
             0.49,
+            0.48,
             0.49,
+            0.48,
             0.48,
             0.49,
             0.49,
-            0.5,
-            0.51,
-            0.51,
+            0.49,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            26.36,
-            25.87,
-            26.04,
-            25.81,
-            25.31,
-            24.87,
-            25.05,
-            24.99,
-            24.72,
-            25.19,
-            25.54,
-            25.17
+            26.0,
+            25.52,
+            25.46,
+            25.02,
+            24.8,
+            24.53,
+            25.01,
+            24.98,
+            25.02,
+            24.91,
+            24.74,
+            25.11
         ],
         "hsd_history_software": [
-            9.58,
-            9.68,
-            9.79,
-            9.63,
-            9.8,
-            9.7,
+            9.22,
+            9.33,
+            9.41,
+            9.23,
+            9.18,
+            9.36,
+            9.49,
+            9.52,
+            9.59,
             9.76,
-            9.68,
-            9.81,
-            9.86,
-            10.04,
-            9.91
+            9.93,
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:11",
+            "time": "06:28",
             "tag": "MERCADO",
-            "text": "Kopin CEO Michael Murray to host Aug. 11 fireside chat"
+            "text": "Will Linde\u2019s (LIN) Billion-Dollar Chip Gas Bet and Payouts Recast Its Margin Narrative?"
         },
         {
-            "time": "05:06",
+            "time": "06:01",
+            "tag": "MERCADO",
+            "text": "Wells Fargo launching tokenised deposits solution this Autumn"
+        },
+        {
+            "time": "05:37",
             "tag": "RESULTADOS",
-            "text": "Microchip Technology Inc (MCHP) (Q1 2027) Earnings Call Highlights: Record Data Center Growth ..."
+            "text": "Microchip Technology Incorporated 2027 Q1 - Results - Earnings Call Presentation (NASDAQ:MCHP)"
         },
         {
-            "time": "05:06",
+            "time": "05:14",
+            "tag": "MERCADO",
+            "text": "Zimmer Biomet Holdings (ZBH) Following Its Beat And Guidance Lift, Is The Valuation Catching Up?"
+        },
+        {
+            "time": "05:12",
             "tag": "RESULTADOS",
-            "text": "Gen Digital Inc (GEN) (Q1 2027) Earnings Call Highlights: Record Bookings and Raised Guidance ..."
-        },
-        {
-            "time": "04:37",
-            "tag": "MERCADO",
-            "text": "SpaceX's Starlink threat to mobile carriers is exaggerated, T-Mobile CEO says (TMUS:NASDAQ)"
-        },
-        {
-            "time": "04:12",
-            "tag": "MERCADO",
-            "text": "Health Catalyst (NASDAQ: HCAT) books $151.6M loss and $147M Vitalware sale"
+            "text": "Mitek Systems Inc (MITK) (Q3 2026) Earnings Call Highlights: Record SaaS Revenue and Check ..."
         }
     ]
 }
