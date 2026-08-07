@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-07 22:38 UTC",
+        "last_updated": "2026-08-07 23:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 223.96,
-            "change": "+0.07%"
+            "change": "+1.09%"
         },
         {
             "symbol": "AMD",
             "price": 483.36,
-            "change": "+1.52%"
+            "change": "-2.56%"
         },
         {
             "symbol": "MSFT",
             "price": 499.99,
-            "change": "-1.73%"
+            "change": "-1.37%"
         },
         {
             "symbol": "CEG",
             "price": 269.89,
-            "change": "-0.42%"
+            "change": "-2.52%"
         },
         {
             "symbol": "VST",
             "price": 140.59,
-            "change": "+2.28%"
+            "change": "-0.73%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.42,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.51,
             0.5,
             0.51,
             0.52,
             0.53,
-            0.54,
+            0.53,
+            0.53,
+            0.53,
             0.53,
             0.52,
             0.52,
-            0.52,
-            0.51,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            26.21,
-            26.11,
-            26.03,
-            25.9,
-            25.69,
-            25.25,
-            24.92,
-            24.8,
-            24.72,
-            24.37,
-            24.33,
-            24.65
+            23.69,
+            23.58,
+            23.81,
+            23.73,
+            24.07,
+            24.12,
+            24.03,
+            23.62,
+            23.85,
+            24.18,
+            24.67,
+            24.55
         ],
         "hsd_history_software": [
-            9.95,
-            10.02,
-            10.05,
-            10.15,
-            10.11,
-            10.11,
-            10.03,
-            10.15,
-            10.06,
-            10.13,
-            10.26,
-            10.14
+            9.47,
+            9.35,
+            9.27,
+            9.45,
+            9.51,
+            9.68,
+            9.77,
+            9.9,
+            9.89,
+            9.82,
+            9.86,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,14 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:00",
-            "tag": "ALERTA",
-            "text": "Monitoramento de Risco AI ativo. Aguardando feed..."
+            "time": "21:14",
+            "tag": "MERCADO",
+            "text": "Keysight Technologies Inc. stock outperforms competitors on strong trading day"
         },
         {
-            "time": "13:30",
-            "tag": "MACRO",
-            "text": "Volatilidade no setor de semicondutores esperada."
+            "time": "21:14",
+            "tag": "MERCADO",
+            "text": "International Business Machines (NYSE:IBM) Shares Up 1.6% - Here's Why"
+        },
+        {
+            "time": "21:12",
+            "tag": "MERCADO",
+            "text": "F5 slips 3.1% as investors appear to digest recent earnings-driven gains"
+        },
+        {
+            "time": "20:15",
+            "tag": "MERCADO",
+            "text": "How NiSource\u2019s Q2 Profit Dip And Data Center Deals At NiSource (NI) Have Changed Its Investment Story"
+        },
+        {
+            "time": "20:15",
+            "tag": "MERCADO",
+            "text": "Microchip Technology (NASDAQ:MCHP) Price Target Lowered to $95.00 at Citigroup"
         }
     ]
 }
