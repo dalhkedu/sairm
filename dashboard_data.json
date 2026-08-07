@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-07 15:58 UTC",
+        "last_updated": "2026-08-07 17:00 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 223.6,
-            "change": "+1.31%"
+            "price": 221.88,
+            "change": "-2.72%"
         },
         {
             "symbol": "AMD",
-            "price": 482.58,
-            "change": "+1.61%"
+            "price": 480.63,
+            "change": "-0.91%"
         },
         {
             "symbol": "MSFT",
-            "price": 503.35,
-            "change": "-1.31%"
+            "price": 500.86,
+            "change": "+1.85%"
         },
         {
             "symbol": "CEG",
-            "price": 268.39,
-            "change": "+1.9%"
+            "price": 268.04,
+            "change": "+1.58%"
         },
         {
             "symbol": "VST",
-            "price": 141.34,
-            "change": "+0.76%"
+            "price": 140.93,
+            "change": "-1.11%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.62,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
             0.5,
-            0.5,
-            0.5,
+            0.51,
+            0.51,
             0.51,
             0.5,
             0.5,
+            0.51,
+            0.51,
+            0.51,
             0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49
+            0.51
         ],
         "hsd_history_hardware": [
-            25.36,
-            25.75,
-            25.28,
-            25.25,
-            25.42,
-            24.93,
-            24.74,
-            24.7,
+            26.62,
+            26.11,
+            26.04,
+            25.99,
+            25.67,
+            25.26,
+            25.0,
+            24.92,
+            25.2,
+            25.06,
             24.77,
-            25.05,
-            25.41,
-            25.38
+            24.53
         ],
         "hsd_history_software": [
-            9.47,
-            9.59,
-            9.64,
-            9.81,
-            9.89,
-            9.85,
-            10.01,
-            9.86,
-            9.79,
-            9.94,
-            9.79,
-            9.82
+            10.47,
+            10.3,
+            10.25,
+            10.19,
+            10.22,
+            10.12,
+            9.95,
+            10.07,
+            10.25,
+            10.29,
+            10.1,
+            10.12
         ],
         "rci_data": [
             85.0,
-            22.36
+            22.188
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:57",
+            "time": "16:02",
             "tag": "MERCADO",
-            "text": "GlobalFoundries drives Q2 revenue to $1.79B, completes Synopsys deal"
+            "text": "Will Equinix\u2019s (EQIX) Hampton Grid Deal and New Financing Shape Its Long-Term Infrastructure Narrative"
         },
         {
-            "time": "14:23",
+            "time": "16:00",
             "tag": "MERCADO",
-            "text": "Cogent Communications (NASDAQ:CCOI) Given New $15.00 Price Target at KeyCorp"
+            "text": "JPMorgan Chase & Co. Increases Doximity (NYSE:DOCS) Price Target to $31.00"
         },
         {
-            "time": "14:16",
+            "time": "15:51",
             "tag": "MERCADO",
-            "text": "Seagate Technology Holdings PLC Stock (STX) Moved Down by 8.62% on Aug 7: What Signal Does It Send?"
+            "text": "Lam Research Stock Is Gaining Friday: What's Going On?"
         },
         {
-            "time": "14:14",
+            "time": "15:44",
             "tag": "MERCADO",
-            "text": "Intuit Inc. Stockholders Have Rights - Robbins LLP Urges"
+            "text": "Republic Services boosts guidance amid improving commodities"
         },
         {
-            "time": "14:06",
-            "tag": "MERCADO",
-            "text": "How Autodesk Went From Cheaper Than AppLovin To The Pricier Stock"
+            "time": "15:41",
+            "tag": "AI",
+            "text": "Applied Materials is about to report earnings. How to trade the AI picks-and-shovels play ahead of results"
         }
     ]
 }
