@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-07 17:00 UTC",
+        "last_updated": "2026-08-07 17:55 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 221.88,
-            "change": "-2.72%"
+            "price": 222.13,
+            "change": "+0.76%"
         },
         {
             "symbol": "AMD",
-            "price": 480.63,
-            "change": "-0.91%"
+            "price": 480.77,
+            "change": "-0.26%"
         },
         {
             "symbol": "MSFT",
-            "price": 500.86,
-            "change": "+1.85%"
+            "price": 500.72,
+            "change": "+0.07%"
         },
         {
             "symbol": "CEG",
-            "price": 268.04,
-            "change": "+1.58%"
+            "price": 270.39,
+            "change": "-2.59%"
         },
         {
             "symbol": "VST",
-            "price": 140.93,
-            "change": "-1.11%"
+            "price": 141.92,
+            "change": "+0.24%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.42,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.51
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.62,
-            26.11,
-            26.04,
-            25.99,
-            25.67,
-            25.26,
-            25.0,
-            24.92,
-            25.2,
-            25.06,
-            24.77,
-            24.53
+            24.09,
+            24.41,
+            24.56,
+            24.57,
+            24.86,
+            24.51,
+            24.68,
+            25.18,
+            24.72,
+            25.21,
+            25.29,
+            25.27
         ],
         "hsd_history_software": [
-            10.47,
-            10.3,
-            10.25,
-            10.19,
-            10.22,
-            10.12,
+            9.7,
+            9.8,
+            9.89,
+            9.92,
+            9.82,
             9.95,
-            10.07,
-            10.25,
-            10.29,
-            10.1,
-            10.12
+            9.93,
+            10.09,
+            10.17,
+            10.03,
+            9.94,
+            9.99
         ],
         "rci_data": [
             85.0,
-            22.188
+            22.213
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:02",
-            "tag": "MERCADO",
-            "text": "Will Equinix\u2019s (EQIX) Hampton Grid Deal and New Financing Shape Its Long-Term Infrastructure Narrative"
-        },
-        {
-            "time": "16:00",
-            "tag": "MERCADO",
-            "text": "JPMorgan Chase & Co. Increases Doximity (NYSE:DOCS) Price Target to $31.00"
-        },
-        {
-            "time": "15:51",
-            "tag": "MERCADO",
-            "text": "Lam Research Stock Is Gaining Friday: What's Going On?"
-        },
-        {
-            "time": "15:44",
-            "tag": "MERCADO",
-            "text": "Republic Services boosts guidance amid improving commodities"
-        },
-        {
-            "time": "15:41",
+            "time": "16:41",
             "tag": "AI",
-            "text": "Applied Materials is about to report earnings. How to trade the AI picks-and-shovels play ahead of results"
+            "text": "Network security platform and AI governance at Fortinet"
+        },
+        {
+            "time": "16:39",
+            "tag": "MERCADO",
+            "text": "Elon Musk Wants Starlink To Take On T-Mobile, Verizon, AT&T\u2014Here's Why That's Easier Said Than Done"
+        },
+        {
+            "time": "16:38",
+            "tag": "AI",
+            "text": "Microsoft Is Winning the AI Cash Flow Test"
+        },
+        {
+            "time": "16:35",
+            "tag": "MERCADO",
+            "text": "Chicago\u2019s quantum explosion: Infleqtion opens new West Loop quantum innovation center"
+        },
+        {
+            "time": "16:32",
+            "tag": "MERCADO",
+            "text": "Bad Timing or Bad Luck? Shelley Moore Capito Sold Apple and Coca\u2011Cola Before Big Moves"
         }
     ]
 }
