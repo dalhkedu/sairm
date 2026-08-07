@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-07 17:55 UTC",
+        "last_updated": "2026-08-07 19:00 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 222.13,
-            "change": "+0.76%"
+            "price": 222.56,
+            "change": "+1.67%"
         },
         {
             "symbol": "AMD",
-            "price": 480.77,
-            "change": "-0.26%"
+            "price": 480.24,
+            "change": "-2.16%"
         },
         {
             "symbol": "MSFT",
-            "price": 500.72,
-            "change": "+0.07%"
+            "price": 500.0,
+            "change": "+3.41%"
         },
         {
             "symbol": "CEG",
-            "price": 270.39,
-            "change": "-2.59%"
+            "price": 268.67,
+            "change": "-2.61%"
         },
         {
             "symbol": "VST",
-            "price": 141.92,
-            "change": "+0.24%"
+            "price": 141.23,
+            "change": "-2.89%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.5,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
             0.48,
-            0.48,
-            0.48,
             0.49,
-            0.48,
-            0.48,
             0.49,
-            0.48,
+            0.5,
             0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.5,
             0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.09,
-            24.41,
-            24.56,
-            24.57,
-            24.86,
-            24.51,
-            24.68,
-            25.18,
-            24.72,
-            25.21,
-            25.29,
-            25.27
+            24.88,
+            24.6,
+            24.28,
+            24.33,
+            24.2,
+            24.46,
+            24.85,
+            24.81,
+            24.75,
+            24.49,
+            24.83,
+            24.69
         ],
         "hsd_history_software": [
-            9.7,
-            9.8,
-            9.89,
+            10.2,
+            10.06,
+            10.11,
+            9.99,
+            9.99,
+            9.88,
+            9.86,
             9.92,
-            9.82,
-            9.95,
-            9.93,
-            10.09,
-            10.17,
-            10.03,
             9.94,
-            9.99
+            9.96,
+            10.0,
+            10.07
         ],
         "rci_data": [
             85.0,
-            22.213
+            22.256
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:41",
-            "tag": "AI",
-            "text": "Network security platform and AI governance at Fortinet"
-        },
-        {
-            "time": "16:39",
+            "time": "17:45",
             "tag": "MERCADO",
-            "text": "Elon Musk Wants Starlink To Take On T-Mobile, Verizon, AT&T\u2014Here's Why That's Easier Said Than Done"
+            "text": "Does Hewlett Packard Enterprise\u2019s (HPE) Quantum Bet Reframe Its Role In Next-Gen Data Center Infrastructure?"
         },
         {
-            "time": "16:38",
-            "tag": "AI",
-            "text": "Microsoft Is Winning the AI Cash Flow Test"
-        },
-        {
-            "time": "16:35",
+            "time": "17:39",
             "tag": "MERCADO",
-            "text": "Chicago\u2019s quantum explosion: Infleqtion opens new West Loop quantum innovation center"
+            "text": "Jianzhi Education Technology Group Company Limited (JZ) Stock Price, News, Quote & History"
         },
         {
-            "time": "16:32",
+            "time": "17:37",
+            "tag": "RESULTADOS",
+            "text": "SoundHound AI Stock (SOUN) Opinions on Q2 Earnings and LivePerson Merger"
+        },
+        {
+            "time": "17:36",
             "tag": "MERCADO",
-            "text": "Bad Timing or Bad Luck? Shelley Moore Capito Sold Apple and Coca\u2011Cola Before Big Moves"
+            "text": "PrintMail Solutions Integrates With Jack Henry & Associates, Inc. Core Platforms Through Fintech Integration Network"
+        },
+        {
+            "time": "17:31",
+            "tag": "MERCADO",
+            "text": "ROSEN, SKILLED INVESTOR COUNSEL, Encourages Intuit Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - INTU"
         }
     ]
 }
