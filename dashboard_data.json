@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-08-08 12:53 UTC",
+        "last_updated": "2026-08-08 13:47 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 223.96,
-            "change": "-1.28%"
+            "change": "-2.3%"
         },
         {
             "symbol": "AMD",
             "price": 483.36,
-            "change": "+3.38%"
+            "change": "+2.17%"
         },
         {
             "symbol": "MSFT",
             "price": 499.99,
-            "change": "-2.78%"
+            "change": "+2.25%"
         },
         {
             "symbol": "CEG",
             "price": 269.89,
-            "change": "-3.43%"
+            "change": "+0.88%"
         },
         {
             "symbol": "VST",
             "price": 140.59,
-            "change": "+1.78%"
+            "change": "+1.88%"
         }
     ],
     "dashboard_metrics": {
@@ -36,46 +36,46 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
             0.51,
             0.5,
             0.5,
             0.5,
-            0.5,
-            0.51
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.12,
-            23.23,
-            23.58,
-            23.86,
-            23.71,
-            23.68,
-            24.09,
-            24.44,
-            24.26,
-            24.36,
-            24.72,
-            25.02
+            24.75,
+            25.22,
+            25.37,
+            24.97,
+            25.29,
+            25.36,
+            25.11,
+            24.99,
+            24.73,
+            25.01,
+            24.7,
+            24.75
         ],
         "hsd_history_software": [
-            10.21,
-            10.2,
-            10.25,
-            10.11,
-            9.95,
-            9.96,
-            9.96,
-            9.97,
-            10.07,
-            9.92,
+            10.06,
+            10.16,
             10.09,
-            10.14
+            10.11,
+            10.1,
+            10.14,
+            10.06,
+            10.19,
+            10.31,
+            10.18,
+            10.12,
+            9.94
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:02",
+            "time": "12:36",
             "tag": "MERCADO",
-            "text": "KLA Corporation Has Had a Rough Month: A Wall Street Pro Sees 70% Upside Because of It"
+            "text": "Analog Devices Returns as Strategic Sponsor of MassRobotics"
         },
         {
-            "time": "11:11",
+            "time": "12:36",
             "tag": "MERCADO",
-            "text": "Cisco Systems, Inc. $CSCO Holdings Raised by MRA Advisory Group"
+            "text": "Congress Moves To Boost Quantum Funding By 68% As China's $10 Billion Push Intensifies (NASDAQ: IONQ) (NYSE: IBM) (NASDAQ: GOOG) (NASDAQ: MSFT)"
         },
         {
-            "time": "11:10",
-            "tag": "MERCADO",
-            "text": "Worth Asset Management LLC Takes Position in Cisco Systems, Inc. $CSCO"
+            "time": "12:14",
+            "tag": "RESULTADOS",
+            "text": "Commvault Systems' (NASDAQ:CVLT) Soft Earnings Are Actually Better Than They Appear"
         },
         {
-            "time": "11:04",
-            "tag": "MERCADO",
-            "text": "Delta Passed on Starlink's Fast In-Flight Wi-Fi. United and Virgin Atlantic Are Already Seeing the Payoff"
-        },
-        {
-            "time": "10:47",
+            "time": "12:09",
             "tag": "AI",
-            "text": "Roper Technologies (ROP) Taps New Product Leader To Sharpen Illumia's AI Focus"
+            "text": "Is Cellebrite (CLBT) Using Drone Forensics To Deepen Its AI Cloud Investigation Moat?"
+        },
+        {
+            "time": "12:08",
+            "tag": "MERCADO",
+            "text": "Zacks Research Upgrades Gartner (NYSE:IT) to \"Strong-Buy\""
         }
     ]
 }
