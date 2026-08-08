@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-08 22:31 UTC",
+        "last_updated": "2026-08-08 23:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 223.96,
-            "change": "-2.32%"
+            "change": "-3.01%"
         },
         {
             "symbol": "AMD",
             "price": 483.36,
-            "change": "+3.32%"
+            "change": "+1.95%"
         },
         {
             "symbol": "MSFT",
             "price": 499.99,
-            "change": "+2.73%"
+            "change": "-2.73%"
         },
         {
             "symbol": "CEG",
-            "price": 269.89,
-            "change": "-0.56%"
+            "price": NaN,
+            "change": "+0.11%"
         },
         {
             "symbol": "VST",
             "price": 140.59,
-            "change": "-2.5%"
+            "change": "-2.06%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.54,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
             0.51,
             0.51,
             0.5,
             0.51,
-            0.51,
             0.5,
+            0.51,
             0.5,
             0.49,
+            0.49,
+            0.49,
             0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            24.38,
-            24.17,
-            24.13,
-            24.32,
-            24.25,
-            24.52,
-            24.45,
-            24.48,
-            24.63,
-            24.95,
-            24.5,
-            24.66
+            24.67,
+            25.07,
+            24.68,
+            24.37,
+            24.29,
+            24.69,
+            25.06,
+            25.46,
+            25.65,
+            25.22,
+            25.28,
+            24.79
         ],
         "hsd_history_software": [
-            9.97,
-            10.15,
-            10.08,
-            10.08,
-            9.92,
-            10.07,
-            10.21,
-            10.14,
-            10.02,
-            9.83,
-            10.02,
-            10.11
+            9.93,
+            10.12,
+            10.29,
+            10.47,
+            10.49,
+            10.38,
+            10.39,
+            10.32,
+            10.22,
+            10.16,
+            10.27,
+            10.13
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "22:10",
+            "tag": "MERCADO",
+            "text": "Verizon phones hit by outage, company says on social media"
+        },
+        {
+            "time": "21:39",
+            "tag": "MERCADO",
+            "text": "Zohran Mamdani Targets Walmart, Amazon, Target and Others Over 'Illegal' E-Bikes and E-Scooters: 'Too Many Lives Have Been Cut Short'"
+        },
+        {
             "time": "21:20",
             "tag": "MERCADO",
             "text": "Reports: Verizon, other major networks experiencing service disruptions"
         },
         {
-            "time": "19:49",
-            "tag": "RESULTADOS",
-            "text": "Microchip Technology (NASDAQ:MCHP) Posts Quarterly Earnings Results, Beats Estimates By $0.06 EPS"
+            "time": "21:10",
+            "tag": "MERCADO",
+            "text": "Why Amkor Technology (AMKR) Is Up 12.2% After NVIDIA\u2019s $1.5 Billion Capacity Deal And Strong Q2 Results"
         },
         {
-            "time": "19:45",
+            "time": "20:41",
             "tag": "MERCADO",
-            "text": "Why Revolution Medicines (RVMD) Is Up 9.4% After Mounting Losses And Surging Daraxonrasib Demand \u2013 And What's Next"
-        },
-        {
-            "time": "19:37",
-            "tag": "MERCADO",
-            "text": "GOOG Investors Have Opportunity to Join Alphabet Inc. Fraud Investigation with SBS Law"
-        },
-        {
-            "time": "19:11",
-            "tag": "MERCADO",
-            "text": "Does WisdomTree (WT) Pair Rising EPS With Buybacks To Redefine Its Capital Allocation Playbook?"
+            "text": "YXT.com closes $1.05M registered direct offering"
         }
     ]
 }
