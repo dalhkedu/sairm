@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-08 14:34 UTC",
+        "last_updated": "2026-08-08 15:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": NaN,
-            "change": "+2.56%"
+            "price": 223.96,
+            "change": "+1.08%"
         },
         {
             "symbol": "AMD",
             "price": 483.36,
-            "change": "-2.42%"
+            "change": "+0.35%"
         },
         {
             "symbol": "MSFT",
             "price": 499.99,
-            "change": "-3.15%"
+            "change": "+3.03%"
         },
         {
             "symbol": "CEG",
             "price": 269.89,
-            "change": "-0.5%"
+            "change": "-1.72%"
         },
         {
             "symbol": "VST",
             "price": 140.59,
-            "change": "+0.36%"
+            "change": "+0.01%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
-        "rci_current": NaN,
+        "cer_current": 0.52,
+        "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51
+            0.46,
+            0.45,
+            0.46,
+            0.46,
+            0.46,
+            0.47,
+            0.48,
+            0.48,
+            0.49,
+            0.5,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            23.78,
-            23.4,
-            23.87,
-            24.02,
-            24.05,
-            24.52,
-            24.85,
-            24.51,
-            24.95,
-            24.46,
-            24.21,
-            24.61
+            23.7,
+            23.49,
+            23.51,
+            23.72,
+            23.47,
+            23.65,
+            23.94,
+            24.12,
+            24.27,
+            24.6,
+            24.44,
+            24.65
         ],
         "hsd_history_software": [
-            10.52,
-            10.4,
-            10.35,
-            10.47,
-            10.48,
-            10.37,
-            10.34,
-            10.27,
-            10.2,
-            10.16,
-            9.97,
-            10.15
+            9.99,
+            10.09,
+            9.93,
+            9.78,
+            9.66,
+            9.76,
+            9.8,
+            9.95,
+            9.95,
+            9.82,
+            9.92,
+            9.8
         ],
         "rci_data": [
             85.0,
-            NaN
+            22.396
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "15:02",
+            "tag": "MERCADO",
+            "text": "Insider trades: Microsoft, Meta, Pfizer among notable names (PFE:NYSE)"
+        },
+        {
+            "time": "14:45",
+            "tag": "MERCADO",
+            "text": "Dear Analog Devices Stock Fans, Mark Your Calendars for August 19"
+        },
+        {
+            "time": "14:41",
+            "tag": "MERCADO",
+            "text": "Is Waste Management (WM) Trading At A Discount As Remote Controlled Equipment Rolls Out?"
+        },
+        {
+            "time": "14:38",
+            "tag": "MERCADO",
+            "text": "PTC Inc. (PTC) Stock Forecasts"
+        },
+        {
             "time": "12:40",
             "tag": "MERCADO",
             "text": "US$85.40 - That's What Analysts Think Digi International Inc. (NASDAQ:DGII) Is Worth After These Results"
-        },
-        {
-            "time": "12:36",
-            "tag": "MERCADO",
-            "text": "Analog Devices Returns as Strategic Sponsor of MassRobotics"
-        },
-        {
-            "time": "12:36",
-            "tag": "MERCADO",
-            "text": "Congress Moves To Boost Quantum Funding By 68% As China's $10 Billion Push Intensifies (NASDAQ: IONQ) (NYSE: IBM) (NASDAQ: GOOG) (NASDAQ: MSFT)"
-        },
-        {
-            "time": "12:14",
-            "tag": "RESULTADOS",
-            "text": "Commvault Systems' (NASDAQ:CVLT) Soft Earnings Are Actually Better Than They Appear"
-        },
-        {
-            "time": "12:10",
-            "tag": "MERCADO",
-            "text": "Telefonaktiebolaget LM Ericsson (OM:ERIC B) Wins New Network Deals On A Slightly Undervalued View"
         }
     ]
 }
