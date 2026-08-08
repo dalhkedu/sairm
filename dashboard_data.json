@@ -1,80 +1,80 @@
 {
     "metadata": {
-        "last_updated": "2026-08-08 05:49 UTC",
+        "last_updated": "2026-08-08 06:57 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 223.96,
-            "change": "+0.32%"
+            "change": "-0.72%"
         },
         {
             "symbol": "AMD",
             "price": 483.36,
-            "change": "-1.04%"
+            "change": "+3.17%"
         },
         {
             "symbol": "MSFT",
             "price": 499.99,
-            "change": "-2.48%"
+            "change": "+1.04%"
         },
         {
             "symbol": "CEG",
             "price": 269.89,
-            "change": "+2.98%"
+            "change": "-0.12%"
         },
         {
             "symbol": "VST",
             "price": 140.59,
-            "change": "-2.97%"
+            "change": "-2.45%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.59,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
             0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            26.7,
-            26.34,
-            26.04,
-            25.68,
-            25.78,
-            25.34,
-            24.86,
-            25.11,
-            25.21,
-            25.26,
-            25.47,
-            25.38
+            25.61,
+            25.25,
+            25.74,
+            25.24,
+            24.99,
+            24.73,
+            25.03,
+            24.61,
+            24.3,
+            24.27,
+            24.2,
+            24.62
         ],
         "hsd_history_software": [
-            9.8,
-            9.9,
-            10.02,
-            9.9,
-            9.98,
-            9.85,
-            9.82,
-            9.82,
-            9.98,
-            10.02,
-            9.84,
+            10.38,
+            10.21,
+            10.2,
+            10.01,
+            9.92,
+            9.77,
+            9.83,
+            9.67,
+            9.57,
+            9.69,
+            9.75,
             9.83
         ],
         "rci_data": [
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "03:59",
+            "tag": "MERCADO",
+            "text": "Gen Digital Inc. (GEN) Stock Forecasts"
+        },
+        {
+            "time": "22:10",
+            "tag": "AI",
+            "text": "AI Chip Spending in Focus: Can Applied Materials Deliver?"
+        },
+        {
             "time": "21:29",
             "tag": "MERCADO",
             "text": "Jack Henry & Associates Inc (JKHY) Stock News Today"
@@ -139,16 +149,6 @@
             "time": "21:24",
             "tag": "MERCADO",
             "text": "MKS (NASDAQ:MKSI) Price Target Raised to $430.00 at Citigroup"
-        },
-        {
-            "time": "21:14",
-            "tag": "MERCADO",
-            "text": "Keysight Technologies Inc. stock outperforms competitors on strong trading day"
-        },
-        {
-            "time": "21:14",
-            "tag": "MERCADO",
-            "text": "International Business Machines (NYSE:IBM) Shares Up 1.6% - Here's Why"
         }
     ]
 }
