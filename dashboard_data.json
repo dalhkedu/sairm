@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-08 19:31 UTC",
+        "last_updated": "2026-08-08 20:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 223.96,
-            "change": "+0.87%"
+            "change": "+0.69%"
         },
         {
             "symbol": "AMD",
             "price": 483.36,
-            "change": "+2.61%"
+            "change": "-1.79%"
         },
         {
             "symbol": "MSFT",
             "price": 499.99,
-            "change": "+0.97%"
+            "change": "+1.4%"
         },
         {
             "symbol": "CEG",
             "price": 269.89,
-            "change": "-0.7%"
+            "change": "-1.69%"
         },
         {
             "symbol": "VST",
             "price": 140.59,
-            "change": "-2.36%"
+            "change": "-0.85%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.41,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.53,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.93,
-            24.92,
-            24.44,
-            24.35,
-            24.64,
-            24.66,
-            25.14,
-            24.94,
-            24.5,
-            24.52,
-            25.01,
-            24.61
+            25.03,
+            24.81,
+            24.98,
+            24.8,
+            25.06,
+            25.04,
+            24.95,
+            24.88,
+            24.63,
+            24.22,
+            24.25,
+            24.72
         ],
         "hsd_history_software": [
+            9.49,
+            9.65,
+            9.6,
+            9.78,
             9.62,
-            9.74,
-            9.86,
-            9.7,
-            9.79,
-            9.95,
-            10.09,
-            10.18,
-            10.07,
-            9.89,
-            10.02,
-            9.91
+            9.72,
+            9.63,
+            9.66,
+            9.83,
+            9.88,
+            9.94,
+            9.94
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "19:49",
+            "tag": "RESULTADOS",
+            "text": "Microchip Technology (NASDAQ:MCHP) Posts Quarterly Earnings Results, Beats Estimates By $0.06 EPS"
+        },
+        {
+            "time": "19:45",
+            "tag": "MERCADO",
+            "text": "Why Revolution Medicines (RVMD) Is Up 9.4% After Mounting Losses And Surging Daraxonrasib Demand \u2013 And What's Next"
+        },
+        {
             "time": "18:51",
             "tag": "AI",
             "text": "Cisco Systems (NASDAQ:CSCO) Reaches 58% Rally; Company Now Confronts AI Conversion Challenge"
@@ -136,19 +146,9 @@
             "text": "Apple lets Mac link to Alibaba's AI model in China (AAPL:NASDAQ)"
         },
         {
-            "time": "18:39",
+            "time": "18:41",
             "tag": "MERCADO",
-            "text": "Procore Technologies (PCOR) Launches Asset Register, Is It Still A Bargain?"
-        },
-        {
-            "time": "18:29",
-            "tag": "MERCADO",
-            "text": "LegalZoom (LZ) Integrates Microsoft Copilot Amid Growth Shifts"
-        },
-        {
-            "time": "18:07",
-            "tag": "MERCADO",
-            "text": "BFS splits with tech leader"
+            "text": "ATRenew (RERE) Could Be 40% Undervalued On Hong Kong Global Recommerce Launch"
         }
     ]
 }
