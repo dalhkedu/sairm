@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-07 23:35 UTC",
+        "last_updated": "2026-08-08 01:48 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 223.96,
-            "change": "+1.09%"
+            "change": "-2.69%"
         },
         {
             "symbol": "AMD",
             "price": 483.36,
-            "change": "-2.56%"
+            "change": "+0.82%"
         },
         {
             "symbol": "MSFT",
             "price": 499.99,
-            "change": "-1.37%"
+            "change": "+3.29%"
         },
         {
             "symbol": "CEG",
-            "price": 269.89,
-            "change": "-2.52%"
+            "price": NaN,
+            "change": "-0.11%"
         },
         {
             "symbol": "VST",
             "price": 140.59,
-            "change": "-0.73%"
+            "change": "+2.8%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.64,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.5,
-            0.51,
-            0.52,
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.51
+            0.48,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.69,
-            23.58,
-            23.81,
-            23.73,
-            24.07,
-            24.12,
-            24.03,
-            23.62,
-            23.85,
-            24.18,
-            24.67,
-            24.55
+            23.89,
+            23.98,
+            24.29,
+            24.54,
+            24.62,
+            24.74,
+            24.32,
+            24.44,
+            24.64,
+            25.08,
+            24.95,
+            25.43
         ],
         "hsd_history_software": [
-            9.47,
-            9.35,
-            9.27,
-            9.45,
-            9.51,
-            9.68,
-            9.77,
-            9.9,
-            9.89,
-            9.82,
-            9.86,
-            9.99
+            10.38,
+            10.36,
+            10.28,
+            10.22,
+            10.19,
+            10.24,
+            10.4,
+            10.22,
+            10.03,
+            10.02,
+            10.01,
+            9.88
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "21:29",
+            "tag": "MERCADO",
+            "text": "Jack Henry & Associates Inc (JKHY) Stock News Today"
+        },
+        {
+            "time": "21:26",
+            "tag": "MERCADO",
+            "text": "Nessel wants to hold PSC 'accountable' in fight against data center"
+        },
+        {
+            "time": "21:24",
+            "tag": "MERCADO",
+            "text": "MKS (NASDAQ:MKSI) Price Target Raised to $430.00 at Citigroup"
+        },
+        {
             "time": "21:14",
             "tag": "MERCADO",
             "text": "Keysight Technologies Inc. stock outperforms competitors on strong trading day"
@@ -134,21 +149,6 @@
             "time": "21:14",
             "tag": "MERCADO",
             "text": "International Business Machines (NYSE:IBM) Shares Up 1.6% - Here's Why"
-        },
-        {
-            "time": "21:12",
-            "tag": "MERCADO",
-            "text": "F5 slips 3.1% as investors appear to digest recent earnings-driven gains"
-        },
-        {
-            "time": "20:15",
-            "tag": "MERCADO",
-            "text": "How NiSource\u2019s Q2 Profit Dip And Data Center Deals At NiSource (NI) Have Changed Its Investment Story"
-        },
-        {
-            "time": "20:15",
-            "tag": "MERCADO",
-            "text": "Microchip Technology (NASDAQ:MCHP) Price Target Lowered to $95.00 at Citigroup"
         }
     ]
 }
