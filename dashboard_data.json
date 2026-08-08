@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-08 11:31 UTC",
+        "last_updated": "2026-08-08 12:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 223.96,
-            "change": "+2.52%"
+            "change": "-1.28%"
         },
         {
             "symbol": "AMD",
             "price": 483.36,
-            "change": "-0.92%"
+            "change": "+3.38%"
         },
         {
             "symbol": "MSFT",
             "price": 499.99,
-            "change": "-0.44%"
+            "change": "-2.78%"
         },
         {
             "symbol": "CEG",
             "price": 269.89,
-            "change": "-1.67%"
+            "change": "-3.43%"
         },
         {
             "symbol": "VST",
             "price": 140.59,
-            "change": "-3.43%"
+            "change": "+1.78%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.55,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
             0.5,
             0.51,
-            0.51,
             0.5,
             0.5,
             0.5,
-            0.51,
-            0.52,
-            0.51,
             0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            25.03,
-            24.64,
-            25.06,
-            25.48,
-            25.07,
-            24.88,
+            23.12,
+            23.23,
+            23.58,
+            23.86,
+            23.71,
+            23.68,
+            24.09,
+            24.44,
+            24.26,
+            24.36,
             24.72,
-            25.06,
-            25.12,
-            25.17,
-            25.44,
-            24.99
+            25.02
         ],
         "hsd_history_software": [
-            10.14,
-            10.27,
-            10.19,
-            10.18,
-            9.99,
-            10.02,
-            9.98,
-            9.87,
+            10.21,
+            10.2,
+            10.25,
+            10.11,
+            9.95,
+            9.96,
+            9.96,
+            9.97,
+            10.07,
             9.92,
-            9.93,
-            9.87,
-            9.95
+            10.09,
+            10.14
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:42",
+            "time": "12:02",
             "tag": "MERCADO",
-            "text": "PensionDanmark Pensionsforsikringsaktieselskab Has $17.10 Million Stock Holdings in Intuit Inc. $INTU"
+            "text": "KLA Corporation Has Had a Rough Month: A Wall Street Pro Sees 70% Upside Because of It"
         },
         {
-            "time": "08:38",
+            "time": "11:11",
             "tag": "MERCADO",
-            "text": "Texas Instruments Incorporated $TXN Stock Holdings Lifted by Eldred Rock Partners LLC"
+            "text": "Cisco Systems, Inc. $CSCO Holdings Raised by MRA Advisory Group"
         },
         {
-            "time": "08:38",
+            "time": "11:10",
             "tag": "MERCADO",
-            "text": "Bright Rock Capital Management LLC Sells 20,000 Shares of Texas Instruments Incorporated $TXN"
+            "text": "Worth Asset Management LLC Takes Position in Cisco Systems, Inc. $CSCO"
         },
         {
-            "time": "08:07",
+            "time": "11:04",
             "tag": "MERCADO",
-            "text": "International Business Machines Corporation $IBM Shares Acquired by Beacon Investment Advisory Services Inc."
+            "text": "Delta Passed on Starlink's Fast In-Flight Wi-Fi. United and Virgin Atlantic Are Already Seeing the Payoff"
         },
         {
-            "time": "08:07",
-            "tag": "MERCADO",
-            "text": "Intuit Inc. $INTU Shares Bought by Bright Rock Capital Management LLC"
+            "time": "10:47",
+            "tag": "AI",
+            "text": "Roper Technologies (ROP) Taps New Product Leader To Sharpen Illumia's AI Focus"
         }
     ]
 }
