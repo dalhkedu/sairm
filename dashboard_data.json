@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-08 17:32 UTC",
+        "last_updated": "2026-08-08 18:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 223.96,
-            "change": "-2.36%"
+            "change": "+0.42%"
         },
         {
             "symbol": "AMD",
             "price": 483.36,
-            "change": "-0.97%"
+            "change": "-1.92%"
         },
         {
             "symbol": "MSFT",
             "price": 499.99,
-            "change": "+2.39%"
+            "change": "+0.4%"
         },
         {
             "symbol": "CEG",
             "price": 269.89,
-            "change": "+2.93%"
+            "change": "+0.82%"
         },
         {
             "symbol": "VST",
             "price": 140.59,
-            "change": "+1.8%"
+            "change": "-2.09%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.5,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.57,
-            0.57,
-            0.56,
-            0.55,
-            0.55,
-            0.55,
-            0.54,
-            0.54,
-            0.53,
-            0.52,
             0.51,
-            0.51
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.57,
+            24.06,
+            24.04,
+            24.03,
+            24.25,
+            24.72,
             24.6,
-            24.91,
-            24.53,
-            24.61,
-            24.48,
-            24.45,
-            24.55,
-            24.58,
-            24.71,
-            24.74,
-            25.16
+            24.72,
+            25.14,
+            25.55,
+            25.45,
+            25.05,
+            25.02
         ],
         "hsd_history_software": [
-            9.65,
-            9.78,
-            9.92,
-            9.92,
-            10.06,
-            10.23,
             10.2,
-            10.02,
-            9.97,
-            10.07,
-            9.99,
-            10.05
+            10.14,
+            10.28,
+            10.12,
+            10.08,
+            10.11,
+            9.93,
+            9.83,
+            9.7,
+            9.85,
+            9.93,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,9 +126,19 @@
     ],
     "news_feed": [
         {
+            "time": "17:42",
+            "tag": "AI",
+            "text": "Palantir vs. ServiceNow: Which Is the Better Long-Term AI Stock?"
+        },
+        {
             "time": "16:39",
             "tag": "MERCADO",
             "text": "490470 Stock Price and Chart \u2014 KRX:490470"
+        },
+        {
+            "time": "16:07",
+            "tag": "MERCADO",
+            "text": "Cadence Design Systems Stock Sits in an 19% Drawdown. The Numbers Say the Market Is Wrong."
         },
         {
             "time": "15:55",
@@ -139,16 +149,6 @@
             "time": "15:55",
             "tag": "MERCADO",
             "text": "Retail's digital channel outpaces stores in 2026"
-        },
-        {
-            "time": "15:21",
-            "tag": "MERCADO",
-            "text": "Here\u2019s Why Coherent Stock Jumped 13% on August 7."
-        },
-        {
-            "time": "15:02",
-            "tag": "MERCADO",
-            "text": "Insider trades: Microsoft, Meta, Pfizer among notable names (PFE:NYSE)"
         }
     ]
 }
