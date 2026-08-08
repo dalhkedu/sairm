@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-08 16:36 UTC",
+        "last_updated": "2026-08-08 17:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 223.96,
-            "change": "+2.04%"
+            "change": "-2.36%"
         },
         {
             "symbol": "AMD",
             "price": 483.36,
-            "change": "+1.86%"
+            "change": "-0.97%"
         },
         {
             "symbol": "MSFT",
             "price": 499.99,
-            "change": "-1.8%"
+            "change": "+2.39%"
         },
         {
             "symbol": "CEG",
             "price": 269.89,
-            "change": "-3.03%"
+            "change": "+2.93%"
         },
         {
             "symbol": "VST",
             "price": 140.59,
-            "change": "-0.12%"
+            "change": "+1.8%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.48,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.57,
+            0.57,
+            0.56,
+            0.55,
+            0.55,
+            0.55,
+            0.54,
+            0.54,
+            0.53,
+            0.52,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.01,
-            25.47,
-            25.28,
-            25.54,
-            25.4,
-            25.27,
-            25.36,
-            24.89,
-            24.8,
-            24.98,
-            24.92,
-            24.55
+            24.57,
+            24.6,
+            24.91,
+            24.53,
+            24.61,
+            24.48,
+            24.45,
+            24.55,
+            24.58,
+            24.71,
+            24.74,
+            25.16
         ],
         "hsd_history_software": [
-            9.44,
-            9.61,
-            9.74,
-            9.89,
-            10.04,
-            10.03,
-            10.05,
+            9.65,
+            9.78,
+            9.92,
+            9.92,
             10.06,
-            10.26,
-            10.21,
-            10.1,
-            10.0
+            10.23,
+            10.2,
+            10.02,
+            9.97,
+            10.07,
+            9.99,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "16:39",
+            "tag": "MERCADO",
+            "text": "490470 Stock Price and Chart \u2014 KRX:490470"
+        },
+        {
             "time": "15:55",
             "tag": "MERCADO",
             "text": "Fair Isaac Corporation (FICO) Stock Forecasts"
@@ -144,11 +149,6 @@
             "time": "15:02",
             "tag": "MERCADO",
             "text": "Insider trades: Microsoft, Meta, Pfizer among notable names (PFE:NYSE)"
-        },
-        {
-            "time": "14:45",
-            "tag": "MERCADO",
-            "text": "Dear Analog Devices Stock Fans, Mark Your Calendars for August 19"
         }
     ]
 }
