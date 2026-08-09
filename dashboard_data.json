@@ -1,80 +1,80 @@
 {
     "metadata": {
-        "last_updated": "2026-08-09 21:34 UTC",
+        "last_updated": "2026-08-09 22:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 223.96,
-            "change": "+2.52%"
+            "change": "-0.75%"
         },
         {
             "symbol": "AMD",
             "price": 483.36,
-            "change": "-1.27%"
+            "change": "+2.42%"
         },
         {
             "symbol": "MSFT",
             "price": 499.99,
-            "change": "-0.73%"
+            "change": "+1.56%"
         },
         {
             "symbol": "CEG",
             "price": 269.89,
-            "change": "-1.78%"
+            "change": "-1.57%"
         },
         {
             "symbol": "VST",
             "price": 140.59,
-            "change": "+2.38%"
+            "change": "-0.55%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.43,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
+            0.54,
+            0.53,
+            0.53,
+            0.52,
+            0.51,
+            0.51,
             0.5,
             0.5,
-            0.5
+            0.5,
+            0.5,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.99,
-            24.67,
-            25.09,
-            25.34,
-            25.51,
-            25.27,
-            25.45,
-            25.5,
-            25.54,
-            25.39,
-            25.03,
-            25.02
+            24.44,
+            24.0,
+            24.34,
+            24.46,
+            24.78,
+            24.8,
+            24.43,
+            24.31,
+            23.92,
+            24.38,
+            24.63,
+            24.55
         ],
         "hsd_history_software": [
+            9.65,
+            9.67,
+            9.78,
+            9.89,
             9.98,
-            10.09,
-            10.0,
-            10.14,
+            10.18,
+            10.16,
             10.03,
-            10.05,
-            10.1,
-            10.0,
-            10.12,
-            10.2,
-            10.29,
+            10.13,
+            10.23,
+            10.11,
             10.19
         ],
         "rci_data": [
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:09",
+            "time": "22:10",
             "tag": "MERCADO",
-            "text": "RadNet Reports Record Second Quarter 2026 Revenue and Adjusted EBITDA, Raises Full-Year Imaging Center Guidance"
+            "text": "UPST INVESTOR ALERT: Bronstein, Gewirtz and Grossman, LLC Reminds"
         },
         {
-            "time": "19:51",
+            "time": "21:46",
             "tag": "MERCADO",
-            "text": "Microchip Technology (MCHP) Could Be 25% Undervalued As Q1 Results Beat Guidance"
+            "text": "What S&P Global (SPGI)'s Private Markets Expansion and Profit Uplift Means For Shareholders"
         },
         {
-            "time": "19:50",
+            "time": "21:46",
             "tag": "RESULTADOS",
-            "text": "SMCI Trades at Bargain Price Ahead of Earnings"
+            "text": "Applied Materials (NASDAQ:AMAT) Weekly Gain Highlights Cash Conversion After Earnings"
         },
         {
-            "time": "19:43",
-            "tag": "RESULTADOS",
-            "text": "Electronic Arts Stock Exits Nasdaq at $209.70 as Deal Mechanics Eclipse Earnings Miss"
+            "time": "21:32",
+            "tag": "MERCADO",
+            "text": "Is Motorola Solutions (MSI) Still Undervalued On Raised 2026 Outlook And Record Backlog?"
         },
         {
-            "time": "19:32",
-            "tag": "AI",
-            "text": "ServiceNow Stock Jumped 9% This Week as AI Contract Value Tops $1 Billion"
+            "time": "21:30",
+            "tag": "MERCADO",
+            "text": "The New Baggage Policy Changes That Delta Air Lines Passengers Should Know About In 2026"
         }
     ]
 }
