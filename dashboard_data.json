@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-09 12:55 UTC",
+        "last_updated": "2026-08-09 13:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 223.96,
-            "change": "+3.22%"
+            "change": "+0.55%"
         },
         {
             "symbol": "AMD",
             "price": 483.36,
-            "change": "-1.18%"
+            "change": "-0.64%"
         },
         {
             "symbol": "MSFT",
             "price": 499.99,
-            "change": "+2.58%"
+            "change": "-0.76%"
         },
         {
             "symbol": "CEG",
             "price": 269.89,
-            "change": "+2.38%"
+            "change": "+2.18%"
         },
         {
             "symbol": "VST",
             "price": 140.59,
-            "change": "-1.49%"
+            "change": "+1.58%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.62,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.45,
-            0.46,
-            0.46,
-            0.47,
-            0.47,
-            0.48,
-            0.47,
-            0.48,
-            0.47,
-            0.48,
-            0.49,
-            0.49
+            0.51,
+            0.5,
+            0.51,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.49,
-            24.54,
-            24.24,
-            24.67,
-            25.06,
-            24.78,
+            25.32,
+            25.1,
+            25.29,
+            25.2,
+            24.88,
+            25.1,
+            25.32,
+            25.61,
+            25.52,
             25.18,
-            25.51,
-            25.95,
-            25.81,
-            25.7,
-            25.42
+            24.78,
+            25.0
         ],
         "hsd_history_software": [
-            10.44,
-            10.54,
-            10.37,
-            10.27,
-            10.27,
-            10.12,
+            10.24,
+            10.45,
+            10.6,
+            10.4,
             10.26,
+            10.35,
+            10.36,
             10.18,
             10.06,
+            10.02,
             10.05,
-            9.99,
-            9.85
+            10.02
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "12:35",
+            "tag": "MERCADO",
+            "text": "Analog Devices returns as strategic sponsor to aid MassRobotics startups"
+        },
+        {
             "time": "12:11",
             "tag": "MERCADO",
             "text": "WaveDancer, Inc. Releases 2023 10-K Report Highlighting Strategic Shifts and Financial Performance"
@@ -144,11 +149,6 @@
             "time": "11:53",
             "tag": "AI",
             "text": "QUALCOMM (QCOM) Is Up 13.7% After Q3 2026 Results And AI-Focused Diversification Moves - What's Changed"
-        },
-        {
-            "time": "11:41",
-            "tag": "MERCADO",
-            "text": "iShares ESG Select Screened S&P Mid-Cap ETF Review and Aggregate Rating (XJH)"
         }
     ]
 }
