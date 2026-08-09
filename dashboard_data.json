@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-09 08:53 UTC",
+        "last_updated": "2026-08-09 09:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 223.96,
-            "change": "-0.47%"
+            "change": "+3.29%"
         },
         {
             "symbol": "AMD",
             "price": 483.36,
-            "change": "+2.75%"
+            "change": "-1.47%"
         },
         {
             "symbol": "MSFT",
             "price": 499.99,
-            "change": "-2.61%"
+            "change": "+0.74%"
         },
         {
             "symbol": "CEG",
             "price": 269.89,
-            "change": "+2.68%"
+            "change": "-0.55%"
         },
         {
             "symbol": "VST",
             "price": 140.59,
-            "change": "-3.07%"
+            "change": "+0.16%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.45,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
+            0.49,
             0.49,
             0.5,
             0.5,
+            0.5,
+            0.5,
             0.51,
             0.51,
             0.5,
-            0.51
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.59,
-            24.32,
-            24.2,
-            24.43,
-            24.8,
-            25.14,
-            24.72,
-            25.22,
-            25.28,
-            25.64,
-            25.47,
-            24.99
+            25.62,
+            25.81,
+            25.37,
+            25.61,
+            25.33,
+            25.36,
+            25.41,
+            25.12,
+            24.95,
+            24.91,
+            24.76,
+            24.65
         ],
         "hsd_history_software": [
-            9.78,
-            9.81,
-            9.65,
-            9.8,
-            9.65,
-            9.74,
-            9.86,
-            9.93,
-            10.04,
-            9.88,
-            10.04,
-            10.1
+            9.62,
+            9.73,
+            9.89,
+            9.75,
+            9.58,
+            9.63,
+            9.79,
+            9.82,
+            9.82,
+            9.76,
+            9.71,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:03",
+            "time": "09:18",
             "tag": "MERCADO",
-            "text": "Dickmeyer Boyce Financial Management Inc. Invests $7.96 Million in Apple Inc. $AAPL"
+            "text": "NODE Monthly Commentary: May 2026"
         },
         {
-            "time": "08:03",
+            "time": "09:12",
             "tag": "MERCADO",
-            "text": "Caxton Associates LLP Has $131.36 Million Holdings in Apple Inc. $AAPL"
+            "text": "NewEdge Advisors LLC Sells 14,991 Shares of Corning Incorporated $GLW"
         },
         {
-            "time": "08:03",
+            "time": "09:12",
             "tag": "MERCADO",
-            "text": "B&D White Capital Company LLC Has $2.52 Million Stake in Apple Inc. $AAPL"
+            "text": "Summitry LLC Raises Stock Position in Alphabet Inc. $GOOGL"
         },
         {
-            "time": "08:03",
+            "time": "09:12",
             "tag": "MERCADO",
-            "text": "Apple Inc. $AAPL Shares Sold by Decatur Capital Management Inc."
+            "text": "Birchbrook Inc. Trims Stock Position in Fortinet, Inc. $FTNT"
         },
         {
-            "time": "08:03",
+            "time": "09:12",
             "tag": "MERCADO",
-            "text": "Apple Inc. $AAPL Shares Bought by Davis R M Inc."
+            "text": "Birchbrook Inc. Has $1.23 Million Stake in Palo Alto Networks, Inc. $PANW"
         }
     ]
 }
