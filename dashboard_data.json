@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-09 11:31 UTC",
+        "last_updated": "2026-08-09 12:55 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 223.96,
-            "change": "-1.14%"
+            "change": "+3.22%"
         },
         {
             "symbol": "AMD",
             "price": 483.36,
-            "change": "+0.74%"
+            "change": "-1.18%"
         },
         {
             "symbol": "MSFT",
             "price": 499.99,
-            "change": "+2.77%"
+            "change": "+2.58%"
         },
         {
             "symbol": "CEG",
             "price": 269.89,
-            "change": "-1.3%"
+            "change": "+2.38%"
         },
         {
             "symbol": "VST",
             "price": 140.59,
-            "change": "-3.41%"
+            "change": "-1.49%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.56,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51
+            0.45,
+            0.46,
+            0.46,
+            0.47,
+            0.47,
+            0.48,
+            0.47,
+            0.48,
+            0.47,
+            0.48,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.08,
-            24.97,
-            24.94,
-            24.74,
-            24.65,
-            24.76,
-            24.41,
             24.49,
-            24.9,
-            25.07,
-            25.19,
-            24.83
+            24.54,
+            24.24,
+            24.67,
+            25.06,
+            24.78,
+            25.18,
+            25.51,
+            25.95,
+            25.81,
+            25.7,
+            25.42
         ],
         "hsd_history_software": [
-            9.5,
-            9.67,
-            9.64,
-            9.61,
-            9.74,
-            9.71,
-            9.88,
-            9.84,
-            9.95,
-            9.92,
-            9.94,
-            10.01
+            10.44,
+            10.54,
+            10.37,
+            10.27,
+            10.27,
+            10.12,
+            10.26,
+            10.18,
+            10.06,
+            10.05,
+            9.99,
+            9.85
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:59",
+            "time": "12:11",
             "tag": "MERCADO",
-            "text": "TSMC Revives Longtan for 1.4nm Fabs and CoWoS Hub as Both Sell Out Globally"
+            "text": "WaveDancer, Inc. Releases 2023 10-K Report Highlighting Strategic Shifts and Financial Performance"
         },
         {
-            "time": "10:46",
-            "tag": "MERCADO",
-            "text": "Whitaker Myers Wealth Managers LTD. Boosts Holdings in Arista Networks, Inc. $ANET"
+            "time": "12:06",
+            "tag": "RESULTADOS",
+            "text": "Earnings Week Ahead: SMCI, CSCO, JD, PLUG, and more (NASDAQ:SMCI)"
         },
         {
-            "time": "10:44",
+            "time": "12:01",
             "tag": "MERCADO",
-            "text": "Wealth Science Advisors LLC Has $1.61 Million Holdings in Uber Technologies, Inc. $UBER"
+            "text": "Applied Materials And 10 Stocks Set To Swing Over 10% This Week - Advanced Micro Devices (NASDAQ:AMD), Br"
         },
         {
-            "time": "10:42",
-            "tag": "MERCADO",
-            "text": "Hennion & Walsh Asset Management Inc. Sells 11,682 Shares of Cisco Systems, Inc. $CSCO"
+            "time": "11:53",
+            "tag": "AI",
+            "text": "QUALCOMM (QCOM) Is Up 13.7% After Q3 2026 Results And AI-Focused Diversification Moves - What's Changed"
         },
         {
-            "time": "10:34",
+            "time": "11:41",
             "tag": "MERCADO",
-            "text": "Wealth Science Advisors LLC Has $5.62 Million Stake in Broadcom Inc. $AVGO"
+            "text": "iShares ESG Select Screened S&P Mid-Cap ETF Review and Aggregate Rating (XJH)"
         }
     ]
 }
