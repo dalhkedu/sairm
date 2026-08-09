@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-09 20:35 UTC",
+        "last_updated": "2026-08-09 21:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 223.96,
-            "change": "0.0%"
+            "change": "+2.52%"
         },
         {
             "symbol": "AMD",
             "price": 483.36,
-            "change": "+2.54%"
+            "change": "-1.27%"
         },
         {
             "symbol": "MSFT",
             "price": 499.99,
-            "change": "-2.74%"
+            "change": "-0.73%"
         },
         {
             "symbol": "CEG",
             "price": 269.89,
-            "change": "+1.63%"
+            "change": "-1.78%"
         },
         {
             "symbol": "VST",
             "price": 140.59,
-            "change": "+0.31%"
+            "change": "+2.38%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.69,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.54,
-            0.54,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.17,
-            24.53,
-            24.69,
-            24.25,
-            24.57,
-            25.07,
-            24.58,
+            24.99,
             24.67,
-            25.17,
-            24.96,
-            24.89,
-            25.19
+            25.09,
+            25.34,
+            25.51,
+            25.27,
+            25.45,
+            25.5,
+            25.54,
+            25.39,
+            25.03,
+            25.02
         ],
         "hsd_history_software": [
-            10.23,
-            10.4,
-            10.42,
-            10.23,
-            10.43,
-            10.4,
-            10.34,
-            10.18,
+            9.98,
+            10.09,
+            10.0,
+            10.14,
             10.03,
-            9.88,
-            10.01,
-            9.93
+            10.05,
+            10.1,
+            10.0,
+            10.12,
+            10.2,
+            10.29,
+            10.19
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "20:09",
+            "tag": "MERCADO",
+            "text": "RadNet Reports Record Second Quarter 2026 Revenue and Adjusted EBITDA, Raises Full-Year Imaging Center Guidance"
+        },
+        {
             "time": "19:51",
             "tag": "MERCADO",
             "text": "Microchip Technology (MCHP) Could Be 25% Undervalued As Q1 Results Beat Guidance"
@@ -144,11 +149,6 @@
             "time": "19:32",
             "tag": "AI",
             "text": "ServiceNow Stock Jumped 9% This Week as AI Contract Value Tops $1 Billion"
-        },
-        {
-            "time": "19:31",
-            "tag": "MERCADO",
-            "text": "How IQVIA\u2019s Medera Cardiac Gene Therapy Alliance and Raised 2026 Outlook Will Impact IQV (IQV) Investors"
         }
     ]
 }
