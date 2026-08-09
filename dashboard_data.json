@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-09 13:51 UTC",
+        "last_updated": "2026-08-09 14:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 223.96,
-            "change": "+0.55%"
+            "change": "-0.94%"
         },
         {
             "symbol": "AMD",
             "price": 483.36,
-            "change": "-0.64%"
+            "change": "-1.52%"
         },
         {
             "symbol": "MSFT",
             "price": 499.99,
-            "change": "-0.76%"
+            "change": "+1.99%"
         },
         {
             "symbol": "CEG",
             "price": 269.89,
-            "change": "+2.18%"
+            "change": "+3.47%"
         },
         {
             "symbol": "VST",
             "price": 140.59,
-            "change": "+1.58%"
+            "change": "+2.83%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.46,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
+            0.49,
             0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
             0.5,
             0.51,
             0.51,
             0.5,
             0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            25.32,
-            25.1,
-            25.29,
-            25.2,
-            24.88,
-            25.1,
-            25.32,
-            25.61,
-            25.52,
-            25.18,
-            24.78,
-            25.0
+            24.82,
+            24.89,
+            24.44,
+            24.25,
+            24.21,
+            24.05,
+            24.03,
+            23.9,
+            24.25,
+            24.32,
+            24.47,
+            24.83
         ],
         "hsd_history_software": [
-            10.24,
-            10.45,
-            10.6,
-            10.4,
-            10.26,
-            10.35,
-            10.36,
-            10.18,
-            10.06,
-            10.02,
-            10.05,
-            10.02
+            9.64,
+            9.75,
+            9.92,
+            9.78,
+            9.72,
+            9.83,
+            9.69,
+            9.68,
+            9.75,
+            9.93,
+            9.95,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:35",
+            "time": "14:07",
             "tag": "MERCADO",
-            "text": "Analog Devices returns as strategic sponsor to aid MassRobotics startups"
+            "text": "Trimble earnings on deck amid portfolio simplification push"
         },
         {
-            "time": "12:11",
+            "time": "13:52",
             "tag": "MERCADO",
-            "text": "WaveDancer, Inc. Releases 2023 10-K Report Highlighting Strategic Shifts and Financial Performance"
+            "text": "EPAM Systems, Inc. Just Recorded A 5.9% EPS Beat: Here's What Analysts Are Forecasting Next"
         },
         {
-            "time": "12:06",
+            "time": "13:41",
+            "tag": "MERCADO",
+            "text": "iShares Trust - iShares MSCI China A ETF (IASH.L) holdings"
+        },
+        {
+            "time": "13:40",
             "tag": "RESULTADOS",
-            "text": "Earnings Week Ahead: SMCI, CSCO, JD, PLUG, and more (NASDAQ:SMCI)"
+            "text": "Camtek (NasdaqGM:CAMT) Stock Looks Rich On Earnings But Strong On Returns"
         },
         {
-            "time": "12:01",
+            "time": "13:00",
             "tag": "MERCADO",
-            "text": "Applied Materials And 10 Stocks Set To Swing Over 10% This Week - Advanced Micro Devices (NASDAQ:AMD), Br"
-        },
-        {
-            "time": "11:53",
-            "tag": "AI",
-            "text": "QUALCOMM (QCOM) Is Up 13.7% After Q3 2026 Results And AI-Focused Diversification Moves - What's Changed"
+            "text": "BlackRock takes majority ownership of Meta\u2019s massive El Paso data center. Here\u2019s what to know."
         }
     ]
 }
