@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-10 01:59 UTC",
+        "last_updated": "2026-08-10 04:03 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 223.96,
-            "change": "-1.67%"
+            "change": "+0.44%"
         },
         {
             "symbol": "AMD",
             "price": 483.36,
-            "change": "-0.75%"
+            "change": "-1.52%"
         },
         {
             "symbol": "MSFT",
             "price": 499.99,
-            "change": "+0.22%"
+            "change": "+1.99%"
         },
         {
             "symbol": "CEG",
             "price": 269.89,
-            "change": "-1.27%"
+            "change": "-1.72%"
         },
         {
             "symbol": "VST",
             "price": 140.59,
-            "change": "+1.16%"
+            "change": "-2.57%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.68,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            23.12,
-            23.4,
-            23.38,
-            23.57,
+            23.5,
             23.81,
-            23.66,
-            23.61,
-            23.61,
-            23.66,
-            24.09,
-            24.45,
-            24.84
+            23.49,
+            23.3,
+            23.73,
+            23.73,
+            24.15,
+            24.03,
+            24.43,
+            24.59,
+            24.85,
+            25.1
         ],
         "hsd_history_software": [
-            10.33,
-            10.2,
-            10.28,
-            10.22,
-            10.37,
-            10.38,
-            10.42,
-            10.27,
-            10.07,
-            9.99,
-            9.8,
-            9.82
+            9.48,
+            9.63,
+            9.54,
+            9.7,
+            9.83,
+            10.02,
+            9.93,
+            9.87,
+            9.88,
+            10.01,
+            10.15,
+            10.16
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,9 @@
     ],
     "news_feed": [
         {
-            "time": "23:48",
-            "tag": "MERCADO",
-            "text": "Adobe vs. Arista Networks: Which Technology Stock Is a Better Buy in 2026?"
-        },
-        {
-            "time": "23:00",
-            "tag": "MERCADO",
-            "text": "Intuit Class Action Follows 20% Stock Plunge"
-        },
-        {
-            "time": "22:10",
-            "tag": "MERCADO",
-            "text": "UPST INVESTOR ALERT: Bronstein, Gewirtz and Grossman, LLC Reminds"
-        },
-        {
-            "time": "21:46",
-            "tag": "MERCADO",
-            "text": "What S&P Global (SPGI)'s Private Markets Expansion and Profit Uplift Means For Shareholders"
-        },
-        {
-            "time": "21:46",
-            "tag": "RESULTADOS",
-            "text": "Applied Materials (NASDAQ:AMAT) Weekly Gain Highlights Cash Conversion After Earnings"
+            "time": "INFO",
+            "tag": "LIMIT",
+            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
         }
     ]
 }
