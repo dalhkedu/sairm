@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-10 19:00 UTC",
+        "last_updated": "2026-08-10 19:57 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 219.02,
-            "change": "+3.11%"
+            "price": 217.62,
+            "change": "-1.34%"
         },
         {
             "symbol": "AMD",
-            "price": 475.94,
-            "change": "+0.76%"
+            "price": 470.45,
+            "change": "+1.38%"
         },
         {
             "symbol": "MSFT",
-            "price": 506.11,
-            "change": "+1.91%"
+            "price": 505.86,
+            "change": "-3.32%"
         },
         {
             "symbol": "CEG",
-            "price": 271.8,
-            "change": "-0.42%"
+            "price": 270.4,
+            "change": "+1.03%"
         },
         {
             "symbol": "VST",
-            "price": 143.38,
-            "change": "-1.59%"
+            "price": 142.87,
+            "change": "-1.87%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.7,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
             0.51,
             0.51,
             0.51,
             0.5,
-            0.51,
-            0.5
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.25,
-            24.58,
-            24.95,
-            24.59,
-            24.51,
-            24.83,
-            24.79,
-            24.4,
-            24.77,
-            24.39,
-            24.17,
-            24.66
+            25.71,
+            25.31,
+            25.37,
+            24.89,
+            24.76,
+            24.74,
+            24.46,
+            24.67,
+            24.22,
+            24.7,
+            25.07,
+            24.59
         ],
         "hsd_history_software": [
+            10.22,
+            10.24,
+            10.31,
+            10.43,
+            10.27,
+            10.26,
+            10.26,
             10.15,
-            10.33,
-            10.44,
-            10.37,
-            10.33,
-            10.28,
-            10.09,
-            10.15,
-            10.3,
+            10.02,
             10.12,
             10.01,
-            9.92
+            10.17
         ],
         "rci_data": [
             85.0,
-            21.902
+            21.762
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:59",
-            "tag": "MERCADO",
-            "text": "EA to Hire 100 Full Sail Graduates for Madden NFL 27 Season"
-        },
-        {
-            "time": "17:51",
-            "tag": "MERCADO",
-            "text": "Revvity Launches SuperFlex Prenatal Screening System for Preeclampsia"
-        },
-        {
-            "time": "17:50",
-            "tag": "MERCADO",
-            "text": "BofA: Nvidia's next earnings report could kick off a \"multi-quarter upgrade cycle\""
-        },
-        {
-            "time": "17:50",
-            "tag": "MERCADO",
-            "text": "Boeing offloads flying-taxi subsidiary to Archer Aviation for 20% stake"
-        },
-        {
-            "time": "17:39",
+            "time": "19:11",
             "tag": "AI",
-            "text": "Will Record AI Backlog, Higher EPS and Dividend Shift PC Connection's (CNXN) Investment Narrative?"
+            "text": "Chevron (CVX) Lands 20 Year AI Data Center Power Deal"
+        },
+        {
+            "time": "19:08",
+            "tag": "AI",
+            "text": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push"
+        },
+        {
+            "time": "18:58",
+            "tag": "MERCADO",
+            "text": "BMC Named a Leader for the Third Consecutive Year in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Service Orchestration and Automation Platforms"
+        },
+        {
+            "time": "18:30",
+            "tag": "MERCADO",
+            "text": "Forty Under 40: Justin Seliger"
+        },
+        {
+            "time": "18:29",
+            "tag": "MERCADO",
+            "text": "Frontdoor, Inc. to Attend and Present at the KeyBanc Technology Leadership Forum"
         }
     ]
 }
