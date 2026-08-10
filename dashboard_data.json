@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-10 13:13 UTC",
+        "last_updated": "2026-08-10 15:00 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 223.96,
-            "change": "+0.48%"
+            "price": 219.42,
+            "change": "-2.68%"
         },
         {
             "symbol": "AMD",
-            "price": 483.36,
-            "change": "-0.63%"
+            "price": 475.89,
+            "change": "+2.55%"
         },
         {
             "symbol": "MSFT",
-            "price": 499.99,
-            "change": "-2.01%"
+            "price": 509.34,
+            "change": "+1.61%"
         },
         {
             "symbol": "CEG",
-            "price": 269.89,
-            "change": "-2.59%"
+            "price": 272.9,
+            "change": "+2.99%"
         },
         {
             "symbol": "VST",
-            "price": 140.59,
-            "change": "-0.43%"
+            "price": 143.62,
+            "change": "-0.2%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.66,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
+            0.53,
+            0.53,
+            0.54,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
             0.52,
             0.51,
-            0.52,
-            0.51,
-            0.51,
             0.5,
-            0.49,
-            0.49,
-            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.48,
-            24.66,
+            24.14,
+            24.26,
+            24.05,
+            23.9,
+            24.31,
+            24.59,
+            24.7,
             24.57,
-            24.1,
-            23.82,
-            24.3,
-            24.79,
-            24.65,
-            24.22,
-            24.62,
-            24.98,
-            24.56
+            25.04,
+            25.54,
+            25.05,
+            24.73
         ],
         "hsd_history_software": [
-            9.98,
-            10.13,
-            10.01,
-            9.88,
-            9.91,
-            9.72,
-            9.85,
-            9.88,
-            10.02,
-            9.98,
-            9.99,
-            9.82
+            10.79,
+            10.62,
+            10.7,
+            10.55,
+            10.57,
+            10.58,
+            10.49,
+            10.31,
+            10.24,
+            10.08,
+            9.9,
+            10.1
         ],
         "rci_data": [
             85.0,
-            22.396
+            21.941999999999997
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:38",
+            "time": "14:14",
             "tag": "MERCADO",
-            "text": "Intel Drops on $15 Billion Stock Offering. Why It\u2019s Raising Funds Now."
+            "text": "Kakao Entertainment to Introduce Melon K-pop Categories at Tencent Music Awards"
         },
         {
-            "time": "12:34",
-            "tag": "AI",
-            "text": "DataMeds AI Renames Pharmacy Subsidiaries Corexa Pharmacy and Corexa Tech & Hub Under New Corexa Health Division"
+            "time": "14:09",
+            "tag": "MERCADO",
+            "text": "Tencent Music faces earnings test as competition intensifies By Investing.com"
         },
         {
-            "time": "12:29",
+            "time": "13:59",
             "tag": "MERCADO",
-            "text": "Raytheon demonstrates unmanned undersea vehicle with launch capability By Investing.com"
+            "text": "21 New 4-Star Stocks This Week"
         },
         {
-            "time": "12:28",
+            "time": "13:48",
             "tag": "MERCADO",
-            "text": "These Analysts Boost Their Forecasts On Take-Two Interactive After Q1 Results"
+            "text": "What TSMC\u2019s Surging Sales Growth Means for Apple and Nvidia Stocks"
         },
         {
-            "time": "12:21",
+            "time": "13:48",
             "tag": "MERCADO",
-            "text": "Hewlett Packard Enterprise (NYSE:HPE) Raised to Overweight at Morgan Stanley"
+            "text": "Microsoft Stock Facing Margin Pressures"
         }
     ]
 }
