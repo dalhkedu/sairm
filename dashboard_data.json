@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-10 15:00 UTC",
+        "last_updated": "2026-08-10 16:55 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 219.42,
-            "change": "-2.68%"
+            "price": 217.11,
+            "change": "+2.04%"
         },
         {
             "symbol": "AMD",
-            "price": 475.89,
-            "change": "+2.55%"
+            "price": 475.27,
+            "change": "+1.63%"
         },
         {
             "symbol": "MSFT",
-            "price": 509.34,
-            "change": "+1.61%"
+            "price": 506.83,
+            "change": "-0.3%"
         },
         {
             "symbol": "CEG",
-            "price": 272.9,
-            "change": "+2.99%"
+            "price": 273.7,
+            "change": "+1.25%"
         },
         {
             "symbol": "VST",
-            "price": 143.62,
-            "change": "-0.2%"
+            "price": 143.73,
+            "change": "-1.64%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.6,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.53,
-            0.53,
             0.54,
             0.53,
-            0.52,
-            0.52,
-            0.52,
+            0.53,
+            0.53,
             0.52,
             0.52,
             0.51,
-            0.5,
-            0.5
+            0.52,
+            0.52,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.14,
-            24.26,
-            24.05,
-            23.9,
-            24.31,
-            24.59,
-            24.7,
-            24.57,
-            25.04,
-            25.54,
+            25.02,
+            25.44,
+            25.57,
+            25.55,
+            25.64,
+            25.63,
+            25.82,
+            25.41,
             25.05,
-            24.73
+            24.75,
+            24.56,
+            25.05
         ],
         "hsd_history_software": [
-            10.79,
-            10.62,
-            10.7,
-            10.55,
-            10.57,
-            10.58,
-            10.49,
-            10.31,
-            10.24,
-            10.08,
+            9.71,
+            9.83,
+            9.97,
+            9.93,
+            9.87,
+            9.94,
+            9.88,
+            10.06,
+            9.92,
+            9.91,
             9.9,
-            10.1
+            10.06
         ],
         "rci_data": [
             85.0,
-            21.941999999999997
+            21.711000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:14",
+            "time": "16:04",
             "tag": "MERCADO",
-            "text": "Kakao Entertainment to Introduce Melon K-pop Categories at Tencent Music Awards"
+            "text": "Tesla in the spotlight as NFL's 49ers head coach says Autopilot may have been engaged during accident"
         },
         {
-            "time": "14:09",
-            "tag": "MERCADO",
-            "text": "Tencent Music faces earnings test as competition intensifies By Investing.com"
+            "time": "15:59",
+            "tag": "AI",
+            "text": "Aether Holdings Falls as Market Weighs Noviant Deal, AI Push"
         },
         {
-            "time": "13:59",
+            "time": "15:46",
             "tag": "MERCADO",
-            "text": "21 New 4-Star Stocks This Week"
+            "text": "ISRG Trades at a Premium P/E: Buy, Sell or Hold the Stock Now?"
         },
         {
-            "time": "13:48",
+            "time": "15:41",
             "tag": "MERCADO",
-            "text": "What TSMC\u2019s Surging Sales Growth Means for Apple and Nvidia Stocks"
+            "text": "Does WM\u2019s Landfill Automation Pilot with Caterpillar Reshape the Bull Case for Waste Management (WM)?"
         },
         {
-            "time": "13:48",
-            "tag": "MERCADO",
-            "text": "Microsoft Stock Facing Margin Pressures"
+            "time": "15:38",
+            "tag": "AI",
+            "text": "Tech stocks today: Meta lays out new AI path, Intel to sell $15 billion in stock"
         }
     ]
 }
