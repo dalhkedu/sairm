@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-10 04:03 UTC",
+        "last_updated": "2026-08-10 06:10 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 223.96,
-            "change": "+0.44%"
+            "price": NaN,
+            "change": "+1.97%"
         },
         {
             "symbol": "AMD",
             "price": 483.36,
-            "change": "-1.52%"
+            "change": "-1.47%"
         },
         {
             "symbol": "MSFT",
             "price": 499.99,
-            "change": "+1.99%"
+            "change": "-3.26%"
         },
         {
             "symbol": "CEG",
             "price": 269.89,
-            "change": "-1.72%"
+            "change": "+2.99%"
         },
         {
             "symbol": "VST",
             "price": 140.59,
-            "change": "-2.57%"
+            "change": "-1.33%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
-        "rci_current": 0.22,
+        "cer_current": 0.54,
+        "rci_current": NaN,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.49,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
             0.49,
             0.5,
             0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            23.5,
-            23.81,
-            23.49,
-            23.3,
-            23.73,
-            23.73,
-            24.15,
-            24.03,
-            24.43,
-            24.59,
-            24.85,
-            25.1
+            25.37,
+            25.41,
+            25.07,
+            25.18,
+            24.76,
+            24.8,
+            25.12,
+            24.66,
+            24.3,
+            24.46,
+            24.76,
+            24.67
         ],
         "hsd_history_software": [
-            9.48,
+            9.58,
+            9.66,
+            9.49,
             9.63,
-            9.54,
-            9.7,
-            9.83,
-            10.02,
-            9.93,
-            9.87,
-            9.88,
-            10.01,
-            10.15,
-            10.16
+            9.6,
+            9.78,
+            9.71,
+            9.86,
+            9.91,
+            10.04,
+            10.04,
+            10.01
         ],
         "rci_data": [
             85.0,
-            22.396
+            NaN
         ],
         "energy_data": [
             1.2,
@@ -126,9 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "INFO",
-            "tag": "LIMIT",
-            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
+            "time": "05:24",
+            "tag": "MERCADO",
+            "text": "Q3 EPS Forecast for Forrester Research Cut by Analyst"
+        },
+        {
+            "time": "05:16",
+            "tag": "AI",
+            "text": "Forget Chips: AI Is Now a Power Trade. These 2 Dividend-Paying Industrials Prove It."
+        },
+        {
+            "time": "05:08",
+            "tag": "MERCADO",
+            "text": "Quantum security powers HPE-EigenQ partnership"
+        },
+        {
+            "time": "04:46",
+            "tag": "MERCADO",
+            "text": "Vistra (VST) Could Be 53% Undervalued On EBITDA Growth And Data Center Deal"
+        },
+        {
+            "time": "04:41",
+            "tag": "MERCADO",
+            "text": "EDTK Stock Price and Chart \u2014 NASDAQ:EDTK"
         }
     ]
 }
