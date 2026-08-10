@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-10 20:53 UTC",
+        "last_updated": "2026-08-10 21:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 217.55,
-            "change": "+0.17%"
+            "change": "+3.03%"
         },
         {
             "symbol": "AMD",
             "price": 469.56,
-            "change": "+2.14%"
+            "change": "+2.36%"
         },
         {
             "symbol": "MSFT",
             "price": 506.06,
-            "change": "+3.44%"
+            "change": "+3.37%"
         },
         {
             "symbol": "CEG",
             "price": 270.43,
-            "change": "+0.07%"
+            "change": "-1.04%"
         },
         {
             "symbol": "VST",
             "price": 142.87,
-            "change": "+0.69%"
+            "change": "-2.96%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.54,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.52,
-            0.51,
+            0.49,
+            0.5,
+            0.49,
+            0.49,
             0.5,
             0.51,
             0.5,
             0.5,
+            0.51,
             0.5,
-            0.5,
-            0.5,
-            0.5
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.97,
-            25.75,
-            25.25,
-            25.07,
-            25.3,
-            25.15,
-            24.69,
-            24.82,
-            24.73,
-            24.89,
-            25.24,
-            25.48
+            25.49,
+            25.08,
+            24.96,
+            24.66,
+            24.4,
+            24.29,
+            24.58,
+            24.76,
+            24.9,
+            24.63,
+            24.79,
+            25.17
         ],
         "hsd_history_software": [
-            10.0,
-            10.09,
-            10.23,
-            10.03,
+            10.54,
+            10.6,
+            10.43,
+            10.31,
             10.18,
-            10.08,
-            10.02,
-            10.01,
-            10.12,
-            9.94,
-            10.14,
-            9.98
+            10.31,
+            10.48,
+            10.33,
+            10.15,
+            10.23,
+            10.17,
+            10.02
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:06",
+            "time": "20:52",
             "tag": "AI",
-            "text": "NVIDIA Partners With Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to Establish AI Compute Infrastructure Financing Platforms to Mobilize Over $500 Billion of Third-Party Capital"
+            "text": "Nvidia partners with Wall Street giants to raise $500 billion for AI buildout"
         },
         {
-            "time": "20:01",
-            "tag": "AI",
-            "text": "Six Firms Sign MOUs With NVIDIA to Fund AI Infrastructure"
-        },
-        {
-            "time": "19:52",
+            "time": "20:51",
             "tag": "MERCADO",
-            "text": "BMC Named a Leader for the Third Consecutive Year in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Service Orchestration and Automation Platforms"
+            "text": "What is T-Mobile? The U.S. wireless carrier explained"
         },
         {
-            "time": "19:44",
+            "time": "20:45",
             "tag": "MERCADO",
-            "text": "Amazon Shares Up Nearly 2% After Key Trading Signal"
+            "text": "Lockheed Martin's Interceptor Motor Fires in Orbit-Like Chamber"
         },
         {
-            "time": "19:44",
-            "tag": "AI",
-            "text": "How Investors May Respond To Applied Materials (AMAT) AI Tool Demand And Record FY25 Results"
+            "time": "20:37",
+            "tag": "MERCADO",
+            "text": "Uber Technologies Inc. stock outperforms competitors on strong trading day"
+        },
+        {
+            "time": "20:28",
+            "tag": "MERCADO",
+            "text": "New-to-market investment bank and tech firm ink leases at Steve Ross building in West Palm"
         }
     ]
 }
