@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-11 15:00 UTC",
+        "last_updated": "2026-08-11 16:07 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 219.83,
-            "change": "+2.15%"
+            "price": 218.48,
+            "change": "-0.37%"
         },
         {
             "symbol": "AMD",
-            "price": 469.05,
-            "change": "-0.71%"
+            "price": 467.24,
+            "change": "+1.72%"
         },
         {
             "symbol": "MSFT",
-            "price": 503.88,
-            "change": "-3.1%"
+            "price": 502.08,
+            "change": "+1.3%"
         },
         {
             "symbol": "CEG",
-            "price": 277.64,
-            "change": "+1.03%"
+            "price": 279.41,
+            "change": "-1.97%"
         },
         {
             "symbol": "VST",
-            "price": 145.16,
-            "change": "+0.35%"
+            "price": 145.21,
+            "change": "+0.87%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.61,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
             0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
             0.5,
             0.49,
             0.5,
-            0.49
+            0.51
         ],
         "hsd_history_hardware": [
-            24.6,
-            24.41,
-            24.74,
-            24.99,
-            25.01,
-            24.55,
-            24.1,
-            24.33,
-            24.79,
-            24.79,
-            24.87,
-            24.9
+            25.66,
+            25.32,
+            25.09,
+            25.53,
+            25.33,
+            25.27,
+            25.25,
+            25.05,
+            24.86,
+            24.78,
+            25.26,
+            24.82
         ],
         "hsd_history_software": [
-            9.98,
-            9.82,
-            9.64,
+            9.77,
+            9.7,
+            9.58,
+            9.51,
+            9.57,
+            9.59,
+            9.62,
             9.8,
-            9.65,
-            9.5,
-            9.4,
-            9.38,
-            9.56,
-            9.49,
-            9.66,
-            9.84
+            9.83,
+            9.81,
+            9.93,
+            9.96
         ],
         "rci_data": [
             85.0,
-            21.983000000000004
+            21.848
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:07",
-            "tag": "MERCADO",
-            "text": "Ulta Salon accused of tracking customers unlawfully with \u2018Meta Pixel\u2019"
+            "time": "16:00",
+            "tag": "AI",
+            "text": "Skan AI Named to 2026 Inc. 5000 List, the Most Prestigious Ranking of America's Fastest-Growing Private Companies"
         },
         {
-            "time": "14:00",
+            "time": "15:31",
             "tag": "MERCADO",
-            "text": "Project Jupiter developer commits to water efficiency partnership as air quality hearing looms"
+            "text": "What's Going On With Oracle Stock Tuesday?"
         },
         {
-            "time": "13:56",
+            "time": "15:29",
             "tag": "MERCADO",
-            "text": "Intuitive Surgical stock drops 30% YTD but shows strong growth and recurring revenue in surgical robotics."
+            "text": "Disney+ to Become the New Streaming Home of Formula E"
         },
         {
-            "time": "13:50",
+            "time": "15:17",
             "tag": "MERCADO",
-            "text": "Fidelity National Information Services' (FIS) \"Equal Weight\" Rating Reaffirmed at Stephens"
+            "text": "Agilent\u2019s OpenLab Sync Supports Guided, Digital Laboratory Execution"
         },
         {
-            "time": "13:45",
+            "time": "15:16",
             "tag": "MERCADO",
-            "text": "Hackers Jam Wi-Fi Signal On Delta Air Flight From Las Vegas And Then Broadcast Scam Internet Login"
+            "text": "Defiance Drone and Modern Warfare ETF (JEDI) targets defense tech firms amid rising global military spending."
         }
     ]
 }
