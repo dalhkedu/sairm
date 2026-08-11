@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-08-11 07:11 UTC",
+        "last_updated": "2026-08-11 08:59 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 217.55,
-            "change": "-2.8%"
+            "change": "+1.81%"
         },
         {
             "symbol": "AMD",
             "price": 469.56,
-            "change": "-3.37%"
+            "change": "-3.27%"
         },
         {
             "symbol": "MSFT",
             "price": 506.06,
-            "change": "+0.25%"
+            "change": "+3.23%"
         },
         {
             "symbol": "CEG",
             "price": 270.43,
-            "change": "-0.32%"
+            "change": "-3.42%"
         },
         {
             "symbol": "VST",
             "price": 142.87,
-            "change": "+0.04%"
+            "change": "-0.37%"
         }
     ],
     "dashboard_metrics": {
@@ -37,45 +37,45 @@
         "energy_price": 128.4,
         "cer_history": [
             0.53,
-            0.53,
-            0.54,
-            0.53,
-            0.53,
-            0.52,
             0.52,
             0.52,
             0.52,
             0.51,
+            0.5,
             0.51,
+            0.51,
+            0.5,
+            0.51,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.54,
-            24.41,
-            24.57,
-            24.6,
-            24.45,
-            24.71,
-            24.71,
-            24.37,
-            23.97,
-            24.09,
-            24.35,
-            24.56
+            25.11,
+            25.2,
+            24.87,
+            25.09,
+            25.49,
+            25.61,
+            25.58,
+            25.68,
+            26.0,
+            25.57,
+            25.2,
+            25.36
         ],
         "hsd_history_software": [
-            10.75,
-            10.89,
-            10.69,
-            10.56,
-            10.42,
-            10.28,
-            10.43,
-            10.25,
-            10.1,
+            9.74,
+            9.65,
+            9.83,
+            9.75,
+            9.63,
+            9.73,
+            9.8,
+            9.88,
+            9.69,
+            9.87,
             9.98,
-            9.97,
-            9.92
+            9.8
         ],
         "rci_data": [
             85.0,
@@ -126,9 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "INFO",
-            "tag": "LIMIT",
-            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
+            "time": "07:53",
+            "tag": "MERCADO",
+            "text": "EdgePoint Investment Group Inc. Acquires New Stake in Amazon.com, Inc. $AMZN"
+        },
+        {
+            "time": "07:45",
+            "tag": "MERCADO",
+            "text": "Amazon.com, Inc. $AMZN Shares Sold by Constant Guidance Financial LLC"
+        },
+        {
+            "time": "07:44",
+            "tag": "MERCADO",
+            "text": "GraniteShares Nasdaq Select Disruptors ETF ETF Price, Holdings, & News (NYSEARCA:DRUP)"
+        },
+        {
+            "time": "07:39",
+            "tag": "MERCADO",
+            "text": "Northrop awarded $46 million for Navy JCREW EW systems"
+        },
+        {
+            "time": "07:37",
+            "tag": "MERCADO",
+            "text": "Bridgewater Advisors Inc. Cuts Stake in Microsoft Corporation $MSFT"
         }
     ]
 }
