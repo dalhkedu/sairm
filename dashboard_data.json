@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-11 10:06 UTC",
+        "last_updated": "2026-08-11 11:45 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 217.55,
-            "change": "+1.72%"
+            "change": "+2.52%"
         },
         {
             "symbol": "AMD",
             "price": 469.56,
-            "change": "+0.06%"
+            "change": "+1.01%"
         },
         {
             "symbol": "MSFT",
             "price": 506.06,
-            "change": "-0.05%"
+            "change": "-2.72%"
         },
         {
             "symbol": "CEG",
             "price": 270.43,
-            "change": "-2.03%"
+            "change": "-1.65%"
         },
         {
             "symbol": "VST",
             "price": 142.87,
-            "change": "-2.56%"
+            "change": "-0.65%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.41,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.5,
+            0.5,
             0.51,
             0.51,
             0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
             0.49,
             0.5,
-            0.51,
-            0.51
+            0.5,
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.09,
-            24.48,
-            24.49,
-            24.44,
-            24.48,
-            24.91,
-            24.62,
-            25.08,
-            25.42,
-            25.12,
-            24.67,
-            24.69
+            25.46,
+            25.92,
+            26.29,
+            26.06,
+            25.62,
+            25.82,
+            25.82,
+            26.14,
+            25.79,
+            26.03,
+            25.63,
+            25.24
         ],
         "hsd_history_software": [
-            10.04,
-            10.03,
-            10.17,
-            10.28,
-            10.18,
-            10.2,
-            10.22,
-            10.03,
-            10.06,
-            10.07,
-            10.08,
-            10.06
+            10.37,
+            10.36,
+            10.54,
+            10.43,
+            10.47,
+            10.44,
+            10.42,
+            10.6,
+            10.42,
+            10.38,
+            10.27,
+            10.12
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:47",
-            "tag": "MERCADO",
-            "text": "Guidewire Software (NYSE:GWRE) CEO Sells 1,200 Shares"
-        },
-        {
-            "time": "09:33",
+            "time": "11:11",
             "tag": "AI",
-            "text": "iShares Future AI & Tech ETF ETF Price, Holdings, & News (NYSEARCA:ARTY) $ARTY"
+            "text": "Microchip\u2019s New Board Connects Up to Four Cameras for Edge AI"
         },
         {
-            "time": "09:32",
+            "time": "11:06",
             "tag": "MERCADO",
-            "text": "Sapient Capital LLC Invests $987,000 in Hewlett Packard Enterprise Company $HPE"
+            "text": "Generali Investments Management Co LLC Sells 7,968 Shares of Qualcomm Incorporated $QCOM"
         },
         {
-            "time": "09:31",
+            "time": "11:03",
             "tag": "MERCADO",
-            "text": "Sapient Capital LLC Trims Position in Cisco Systems, Inc. $CSCO"
+            "text": "Eli Lilly Commits to Veeva CRM to Bring More Medicines to Patients"
         },
         {
-            "time": "09:31",
+            "time": "11:02",
             "tag": "MERCADO",
-            "text": "Revolve Wealth Partners LLC Has $2.16 Million Stake in Cisco Systems, Inc. $CSCO"
+            "text": "GRND Stock Has Soared 250% Since Its 2022 IPO Crash, Leaving Starbucks, Target and Ethereum Behind"
+        },
+        {
+            "time": "10:59",
+            "tag": "MERCADO",
+            "text": "908 Devices Secures $6M ProtectIR Order From Asia-Pacific Corrections Agency"
         }
     ]
 }
