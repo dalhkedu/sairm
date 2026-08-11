@@ -1,45 +1,43 @@
 {
     "metadata": {
-        "last_updated": "2026-08-11 17:58 UTC",
+        "last_updated": "2026-08-11 19:13 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 217.71,
-            "change": "+2.63%"
+            "price": 217.38,
+            "change": "-2.78%"
         },
         {
             "symbol": "AMD",
-            "price": 469.27,
-            "change": "-1.47%"
+            "price": 473.65,
+            "change": "+1.82%"
         },
         {
             "symbol": "MSFT",
-            "price": 503.08,
-            "change": "-1.24%"
+            "price": 502.8,
+            "change": "+0.01%"
         },
         {
             "symbol": "CEG",
-            "price": 277.39,
-            "change": "-1.93%"
+            "price": 279.98,
+            "change": "-0.71%"
         },
         {
             "symbol": "VST",
-            "price": 144.46,
-            "change": "-0.83%"
+            "price": 145.61,
+            "change": "-0.4%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.57,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
             0.51,
+            0.52,
             0.52,
             0.51,
             0.51,
@@ -47,39 +45,41 @@
             0.51,
             0.51,
             0.5,
+            0.5,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.37,
-            24.07,
-            24.36,
-            23.96,
-            23.63,
-            23.76,
-            23.9,
-            24.35,
-            24.65,
-            24.7,
-            24.92,
-            24.91
+            24.55,
+            24.22,
+            24.14,
+            23.88,
+            24.32,
+            24.68,
+            25.06,
+            25.44,
+            25.47,
+            25.87,
+            25.87,
+            25.44
         ],
         "hsd_history_software": [
-            9.61,
             9.78,
-            9.69,
-            9.69,
-            9.82,
-            9.66,
-            9.82,
-            9.74,
-            9.86,
-            9.93,
+            9.88,
+            9.99,
+            10.01,
+            10.09,
             10.05,
-            10.05
+            10.17,
+            10.08,
+            10.2,
+            10.09,
+            9.95,
+            10.01
         ],
         "rci_data": [
             85.0,
-            21.771
+            21.738
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:57",
+            "time": "18:34",
             "tag": "MERCADO",
-            "text": "Boeing selling 3 subsidiaries to Archer Aviation, taking minority stake"
+            "text": "Sundar Pichai Raised Alphabet's 2026 Capex Forecast to as Much as $205 Billion, Sending the Stock Down 7%. Is This an Overreaction Investors Should Buy Into?"
         },
         {
-            "time": "16:48",
+            "time": "18:32",
             "tag": "MERCADO",
-            "text": "Apple class action alleges Hide My Email feature does not work as advertised"
+            "text": "Robotics Stocks Rally as Unitree's 8000X Oversubscribed IPO Draws Frenzied Demand: Ouster, Symbotic, and Teradyne in Focus"
         },
         {
-            "time": "16:47",
+            "time": "18:24",
             "tag": "MERCADO",
-            "text": "Kolon Global Completes Deployment of Trimble\u2019s BIM Platform for Steel Construction Management"
+            "text": "Virginia data center boom pushes Dominion deeper into costly power market"
         },
         {
-            "time": "16:39",
+            "time": "18:20",
             "tag": "MERCADO",
-            "text": "Equinix Partners with CGEMC to Protect Ratepayers in Georgia"
+            "text": "Ambiq Micro, Inc. Q2 2026: Revenue $33.9M, EPS $(0.32) \u2014 10-Q Summary"
         },
         {
-            "time": "16:38",
-            "tag": "AI",
-            "text": "Sonos Plans \u2018Ace Ultra\u2019 Headphones and Broad Push Into AI"
+            "time": "18:20",
+            "tag": "MERCADO",
+            "text": "Flyte Partners with The Nucleus Network for Inaugural Flagship Founder & Investor Event"
         }
     ]
 }
