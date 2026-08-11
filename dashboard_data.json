@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-11 20:48 UTC",
+        "last_updated": "2026-08-11 21:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 217.5,
-            "change": "-2.72%"
+            "change": "+1.36%"
         },
         {
             "symbol": "AMD",
             "price": 474.32,
-            "change": "+1.05%"
+            "change": "+1.5%"
         },
         {
             "symbol": "MSFT",
             "price": 503.81,
-            "change": "-0.61%"
+            "change": "-0.83%"
         },
         {
             "symbol": "CEG",
-            "price": 278.36,
-            "change": "+1.24%"
+            "price": NaN,
+            "change": "+2.55%"
         },
         {
             "symbol": "VST",
             "price": 144.92,
-            "change": "-3.38%"
+            "change": "+3.07%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.7,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
             0.49,
-            0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.28,
-            23.95,
-            23.49,
-            23.84,
-            24.12,
-            24.45,
-            24.09,
-            24.48,
-            24.45,
-            24.53,
-            24.38,
-            24.77
+            24.64,
+            24.4,
+            24.77,
+            25.06,
+            24.78,
+            24.46,
+            24.92,
+            24.96,
+            25.11,
+            24.85,
+            24.5,
+            24.92
         ],
         "hsd_history_software": [
-            9.97,
-            9.8,
-            9.75,
-            9.76,
             9.81,
-            9.83,
+            9.73,
+            9.69,
             9.81,
-            9.79,
+            9.88,
             9.86,
-            9.75,
-            9.89,
-            10.02
+            9.83,
+            9.92,
+            9.95,
+            10.0,
+            10.05,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:03",
+            "time": "21:02",
             "tag": "MERCADO",
-            "text": "NetApp will stream its first-quarter results live on Sept. 2"
+            "text": "Firefly Aerospace Announces Extension of Multi-Launch Agreement with Lockheed Martin Through 2031"
         },
         {
-            "time": "19:56",
+            "time": "20:49",
             "tag": "MERCADO",
-            "text": "Clorox says ERP transition will provide supply chain gains this year"
+            "text": "Unauthorized in-flight Wi-Fi prompts Delta investigation"
         },
         {
-            "time": "19:52",
+            "time": "20:45",
             "tag": "MERCADO",
-            "text": "P Upgraded by Citigroup -- Price Target Raised to $118"
+            "text": "Is Texas Instruments (TXN) Overvalued, Or Is Fair Value Higher?"
         },
         {
-            "time": "19:32",
-            "tag": "AI",
-            "text": "Jabil upgraded by UBS as AI demand, healthcare growth support outlook"
+            "time": "20:45",
+            "tag": "MERCADO",
+            "text": "Why is International Business Machines stock gaining today?"
         },
         {
-            "time": "19:30",
+            "time": "20:38",
             "tag": "MERCADO",
-            "text": "Delta Probing Unauthorized Wi-Fi on Flight After Hacker Event"
+            "text": "Why Apple customers will have to wait over a year for $250M settlement"
         }
     ]
 }
