@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-12 04:48 UTC",
+        "last_updated": "2026-08-12 06:16 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 217.5,
-            "change": "+1.03%"
+            "change": "+2.68%"
         },
         {
             "symbol": "AMD",
             "price": 474.32,
-            "change": "-0.04%"
+            "change": "-3.05%"
         },
         {
             "symbol": "MSFT",
             "price": 503.81,
-            "change": "+0.46%"
+            "change": "+0.71%"
         },
         {
             "symbol": "CEG",
             "price": 278.36,
-            "change": "+2.85%"
+            "change": "+3.46%"
         },
         {
             "symbol": "VST",
             "price": 144.92,
-            "change": "-2.24%"
+            "change": "+2.52%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.59,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.53,
-            0.52,
-            0.51,
-            0.51
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            27.63,
-            27.62,
-            27.2,
-            27.65,
-            27.93,
-            27.61,
-            27.11,
-            26.84,
-            26.34,
-            25.84,
-            25.83,
-            25.48
+            24.29,
+            24.02,
+            23.75,
+            23.55,
+            23.55,
+            23.62,
+            24.04,
+            24.34,
+            24.61,
+            24.31,
+            24.53,
+            24.57
         ],
         "hsd_history_software": [
-            10.02,
-            10.14,
             10.0,
-            10.13,
-            10.08,
-            10.05,
+            10.14,
+            9.95,
+            9.83,
             9.9,
-            9.79,
-            9.64,
-            9.79,
-            9.82,
-            9.91
+            9.85,
+            10.04,
+            10.24,
+            10.3,
+            10.24,
+            10.18,
+            10.06
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "05:11",
+            "tag": "MERCADO",
+            "text": "Delta Probing Unauthorized Wi-Fi on Flight After Hacker Event"
+        },
+        {
+            "time": "05:05",
+            "tag": "MERCADO",
+            "text": "The Bull Case For Digital Realty Trust (DLR) Could Change Following Expanded Hyperscale Data Center Buildout Plans"
+        },
+        {
+            "time": "04:40",
+            "tag": "MERCADO",
+            "text": "Oracle layoffs: After cutting 21,000 jobs, company plans another layoff wave"
+        },
+        {
             "time": "04:11",
             "tag": "MERCADO",
             "text": "Alpha Compute Corp (Nasdaq: ALP) targets 200 MW gas-powered data hub in Pennsylvania"
@@ -134,21 +149,6 @@
             "time": "03:44",
             "tag": "MERCADO",
             "text": "Is United Health Stock Still Undervalued?"
-        },
-        {
-            "time": "03:43",
-            "tag": "MERCADO",
-            "text": "Indonesian E-Commerce Giant Faces MSCI Index Exclusion in Review"
-        },
-        {
-            "time": "03:24",
-            "tag": "MERCADO",
-            "text": "Massive Update for Fortinet Stock Investors"
-        },
-        {
-            "time": "03:09",
-            "tag": "MERCADO",
-            "text": "Bowie Capital boosts Broadcom stake with 112,599 shares"
         }
     ]
 }
