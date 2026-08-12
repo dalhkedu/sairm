@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-12 21:49 UTC",
+        "last_updated": "2026-08-12 22:42 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 224.09,
-            "change": "+1.54%"
+            "change": "-0.15%"
         },
         {
             "symbol": "AMD",
             "price": 482.93,
-            "change": "+1.88%"
+            "change": "+2.77%"
         },
         {
             "symbol": "MSFT",
             "price": 492.43,
-            "change": "-0.8%"
+            "change": "-0.85%"
         },
         {
             "symbol": "CEG",
             "price": 278.68,
-            "change": "-2.83%"
+            "change": "+0.31%"
         },
         {
             "symbol": "VST",
             "price": 146.68,
-            "change": "+1.76%"
+            "change": "-0.13%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.63,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
-            0.5,
-            0.5,
-            0.5,
             0.51,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5
+            0.52,
+            0.51,
+            0.52,
+            0.53,
+            0.53,
+            0.54,
+            0.53,
+            0.52,
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.68,
-            26.14,
-            26.56,
-            26.09,
-            25.68,
-            25.45,
-            25.76,
-            25.85,
-            26.02,
-            25.59,
-            25.22,
-            24.92
+            24.66,
+            24.67,
+            24.78,
+            24.73,
+            25.06,
+            25.4,
+            25.05,
+            25.43,
+            25.71,
+            25.34,
+            24.93,
+            24.54
         ],
         "hsd_history_software": [
-            10.39,
-            10.43,
-            10.46,
-            10.39,
-            10.27,
-            10.34,
-            10.28,
-            10.12,
-            9.98,
+            9.88,
+            10.08,
+            10.08,
+            9.93,
             10.07,
-            9.96,
-            9.89
+            10.22,
+            10.08,
+            9.98,
+            9.86,
+            10.01,
+            9.83,
+            9.94
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:48",
+            "time": "21:47",
             "tag": "MERCADO",
-            "text": "NXP Semiconductors N.V. stock underperforms Wednesday when compared to competitors"
+            "text": "Is Western Digital Corp (WDC) Overvalued After 3.7% Rally? GF Va"
         },
         {
-            "time": "20:39",
+            "time": "21:39",
             "tag": "MERCADO",
-            "text": "CPI | Apple Hires American Airlines Veteran to Lead Government Affairs"
+            "text": "AT&T Inc. stock underperforms Wednesday when compared to competitors"
         },
         {
-            "time": "20:36",
-            "tag": "MERCADO",
-            "text": "ServiceNow (NOW) Expands Federal Reach With FedRAMP Authorized Partner Tool"
-        },
-        {
-            "time": "20:33",
+            "time": "21:38",
             "tag": "AI",
-            "text": "Cisco Reports Higher Fourth-Quarter Profit as AI Orders Roll In"
+            "text": "Cisco Reports Sharp Jump in Profit as AI Orders Roll In"
         },
         {
-            "time": "20:30",
+            "time": "21:37",
             "tag": "MERCADO",
-            "text": "Akamai Technologies Inc. stock outperforms competitors on strong trading day"
+            "text": "Emerson Electric (EMR) Could Be 2% Undervalued After Higher Guidance And Q3 Results"
+        },
+        {
+            "time": "21:36",
+            "tag": "MERCADO",
+            "text": "Indonesian Tech Firm GoTo Cut From MSCI Indexes in Review"
         }
     ]
 }
