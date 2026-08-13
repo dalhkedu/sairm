@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-13 08:22 UTC",
+        "last_updated": "2026-08-13 10:09 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 224.09,
-            "change": "-1.06%"
+            "change": "-0.03%"
         },
         {
             "symbol": "AMD",
-            "price": 482.93,
-            "change": "+2.9%"
+            "price": NaN,
+            "change": "+3.01%"
         },
         {
             "symbol": "MSFT",
             "price": 492.43,
-            "change": "-2.88%"
+            "change": "-1.72%"
         },
         {
             "symbol": "CEG",
             "price": 278.68,
-            "change": "+1.36%"
+            "change": "+1.91%"
         },
         {
             "symbol": "VST",
             "price": 146.68,
-            "change": "-0.18%"
+            "change": "+0.53%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.66,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.5,
             0.5,
             0.5,
             0.49,
             0.49,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            24.48,
-            24.9,
-            24.46,
-            24.19,
-            24.1,
-            24.27,
-            24.44,
-            24.66,
-            25.08,
-            24.95,
-            24.8,
-            24.57
+            24.71,
+            25.18,
+            25.54,
+            26.01,
+            25.62,
+            25.23,
+            25.12,
+            25.58,
+            25.1,
+            24.78,
+            25.15,
+            24.92
         ],
         "hsd_history_software": [
-            10.18,
-            10.25,
-            10.25,
-            10.27,
-            10.3,
-            10.51,
-            10.49,
-            10.4,
-            10.24,
-            10.06,
-            9.92,
-            9.98
+            10.2,
+            10.28,
+            10.43,
+            10.41,
+            10.28,
+            10.34,
+            10.36,
+            10.44,
+            10.28,
+            10.1,
+            10.08,
+            10.13
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:35",
+            "time": "09:28",
             "tag": "MERCADO",
-            "text": "BankChampaign National Association Makes New Investment in Amazon.com, Inc. $AMZN"
+            "text": "Morgan Stanley Adjusts PT on Teledyne Technologies to $715 From $680, Maintains Equalweight Rating"
         },
         {
-            "time": "07:30",
+            "time": "09:28",
             "tag": "MERCADO",
-            "text": "79,032 Shares in BETA Technologies Inc $BETA Acquired by Bank of New York Mellon Corp"
+            "text": "Wasatch Advisors LP Trims Stake in SiTime Corporation $SITM"
         },
         {
-            "time": "07:30",
+            "time": "09:22",
             "tag": "MERCADO",
-            "text": "Ballast Inc. Boosts Holdings in Salesforce Inc. $CRM"
+            "text": "KT Corp to provide ICT infrastructure for 2027 Chungcheong Universiade"
         },
         {
-            "time": "07:21",
+            "time": "09:20",
             "tag": "MERCADO",
-            "text": "Arete Wealth Advisors LLC Acquires 4,928 Shares of Amazon.com, Inc. $AMZN"
+            "text": "Hennion & Walsh Asset Management Inc. Makes New Investment in Expedia Group, Inc. $EXPE"
         },
         {
-            "time": "07:21",
+            "time": "09:19",
             "tag": "MERCADO",
-            "text": "Argent Capital Management LLC Trims Position in Amazon.com, Inc. $AMZN"
+            "text": "Handelsbanken Fonder AB Purchases 39,412 Shares of Microchip Technology Incorporated $MCHP"
         }
     ]
 }
