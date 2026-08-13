@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-13 10:09 UTC",
+        "last_updated": "2026-08-13 11:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 224.09,
-            "change": "-0.03%"
+            "change": "-1.91%"
         },
         {
             "symbol": "AMD",
-            "price": NaN,
-            "change": "+3.01%"
+            "price": 482.93,
+            "change": "+0.23%"
         },
         {
             "symbol": "MSFT",
             "price": 492.43,
-            "change": "-1.72%"
+            "change": "+0.79%"
         },
         {
             "symbol": "CEG",
             "price": 278.68,
-            "change": "+1.91%"
+            "change": "-0.71%"
         },
         {
             "symbol": "VST",
             "price": 146.68,
-            "change": "+0.53%"
+            "change": "+1.6%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.45,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.5,
             0.5,
             0.5,
             0.5,
             0.49,
             0.49,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.71,
-            25.18,
-            25.54,
-            26.01,
-            25.62,
+            24.83,
+            24.82,
+            24.84,
+            24.93,
+            24.52,
+            24.88,
+            25.36,
             25.23,
-            25.12,
-            25.58,
-            25.1,
-            24.78,
-            25.15,
-            24.92
+            25.01,
+            24.91,
+            24.64,
+            24.77
         ],
         "hsd_history_software": [
-            10.2,
-            10.28,
-            10.43,
-            10.41,
-            10.28,
-            10.34,
-            10.36,
-            10.44,
-            10.28,
-            10.1,
-            10.08,
-            10.13
+            9.83,
+            9.83,
+            9.95,
+            9.92,
+            10.04,
+            9.87,
+            9.95,
+            9.78,
+            9.96,
+            9.98,
+            9.81,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:28",
+            "time": "10:56",
             "tag": "MERCADO",
-            "text": "Morgan Stanley Adjusts PT on Teledyne Technologies to $715 From $680, Maintains Equalweight Rating"
+            "text": "Citigroup Adjusts Price Target on Leidos Holdings to $161 From $138, Keeps Buy Rating"
         },
         {
-            "time": "09:28",
+            "time": "10:56",
             "tag": "MERCADO",
-            "text": "Wasatch Advisors LP Trims Stake in SiTime Corporation $SITM"
+            "text": "Merit Financial Group LLC Grows Position in Take-Two Interactive Software, Inc. $TTWO"
         },
         {
-            "time": "09:22",
+            "time": "10:45",
             "tag": "MERCADO",
-            "text": "KT Corp to provide ICT infrastructure for 2027 Chungcheong Universiade"
+            "text": "Truist Adjusts Price Target on Waystar Holding to $33 From $38, Maintains Buy Rating"
         },
         {
-            "time": "09:20",
+            "time": "10:37",
             "tag": "MERCADO",
-            "text": "Hennion & Walsh Asset Management Inc. Makes New Investment in Expedia Group, Inc. $EXPE"
+            "text": "Have Take-Two Interactive Software Insiders Been Selling Stock?"
         },
         {
-            "time": "09:19",
+            "time": "10:36",
             "tag": "MERCADO",
-            "text": "Handelsbanken Fonder AB Purchases 39,412 Shares of Microchip Technology Incorporated $MCHP"
+            "text": "Mission Wealth Management LP Buys 57,027 Shares of HP Inc. $HPQ"
         }
     ]
 }
