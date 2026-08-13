@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-13 19:13 UTC",
+        "last_updated": "2026-08-13 20:46 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 225.73,
-            "change": "+1.1%"
+            "price": 225.3,
+            "change": "-2.46%"
         },
         {
             "symbol": "AMD",
-            "price": 488.4,
-            "change": "+0.5%"
+            "price": 483.01,
+            "change": "+1.53%"
         },
         {
             "symbol": "MSFT",
-            "price": 497.14,
-            "change": "+2.27%"
+            "price": 496.88,
+            "change": "+0.72%"
         },
         {
             "symbol": "CEG",
-            "price": 278.57,
-            "change": "+0.71%"
+            "price": 278.64,
+            "change": "+0.63%"
         },
         {
             "symbol": "VST",
-            "price": NaN,
-            "change": "-1.75%"
+            "price": 146.4,
+            "change": "+1.33%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.52,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.52,
             0.51,
+            0.5,
             0.51,
-            0.51,
+            0.5,
+            0.5,
+            0.5,
             0.5,
             0.49,
             0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            24.63,
-            24.78,
-            24.63,
-            24.85,
-            24.71,
-            24.28,
-            24.33,
-            24.81,
-            25.12,
-            24.77,
-            25.04,
-            25.27
+            26.03,
+            26.45,
+            26.77,
+            26.47,
+            26.21,
+            26.01,
+            25.58,
+            25.73,
+            25.38,
+            25.58,
+            25.32,
+            24.97
         ],
         "hsd_history_software": [
-            10.45,
-            10.3,
-            10.5,
-            10.51,
-            10.37,
-            10.27,
-            10.14,
+            10.17,
+            10.2,
+            10.2,
+            10.4,
+            10.22,
             10.25,
-            10.08,
-            9.89,
-            10.02,
-            9.93
+            10.35,
+            10.2,
+            10.2,
+            10.14,
+            10.17,
+            10.15
         ],
         "rci_data": [
             85.0,
-            22.573
+            22.53
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:40",
-            "tag": "MERCADO",
-            "text": "Align Climbs to No. 1,572 on the 2026 Inc. 5000"
-        },
-        {
-            "time": "18:35",
-            "tag": "MERCADO",
-            "text": "Apple's New Houston Center Offers Free Manufacturing Training"
-        },
-        {
-            "time": "18:34",
-            "tag": "MERCADO",
-            "text": "Fitch upgrades Teledyne Technologies rating on strong cash flow"
-        },
-        {
-            "time": "18:31",
+            "time": "19:59",
             "tag": "AI",
-            "text": "S&P Global Stock Jumps 1.7% as Ackman Targets AI Fears"
+            "text": "The Beat: Target names AI chief, Niron gets White House backing, Envoy chases cochlear market"
         },
         {
-            "time": "18:30",
+            "time": "19:40",
+            "tag": "AI",
+            "text": "PLDT to double data center capacity for AI"
+        },
+        {
+            "time": "19:34",
+            "tag": "AI",
+            "text": "The Bull Case For DTE Energy (DTE) Could Change Following AI Data Center Contract Legal Challenge"
+        },
+        {
+            "time": "19:22",
             "tag": "MERCADO",
-            "text": "Deadline Alert: Intuit Inc. (INTU) Shareholders Who Lost"
+            "text": "American Express and Conferma Expand Virtual Payments with Digital Wallet-Enabled Spend Solution"
+        },
+        {
+            "time": "19:15",
+            "tag": "MERCADO",
+            "text": "Salesforce Inc Stock (CRM) Moved Up by 3.27% on Aug 13: What Investors Need To Know"
         }
     ]
 }
