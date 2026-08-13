@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-08-13 21:49 UTC",
+        "last_updated": "2026-08-13 22:44 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.3,
-            "change": "+0.58%"
+            "change": "-1.55%"
         },
         {
             "symbol": "AMD",
             "price": 483.01,
-            "change": "+1.78%"
+            "change": "-3.22%"
         },
         {
             "symbol": "MSFT",
             "price": 496.88,
-            "change": "+3.02%"
+            "change": "+1.6%"
         },
         {
             "symbol": "CEG",
             "price": 278.64,
-            "change": "-2.36%"
+            "change": "+2.9%"
         },
         {
             "symbol": "VST",
             "price": 146.4,
-            "change": "+0.18%"
+            "change": "+1.83%"
         }
     ],
     "dashboard_metrics": {
@@ -36,46 +36,46 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.48,
             0.48,
             0.49,
-            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.49,
             0.5,
-            0.5,
             0.49,
             0.49,
-            0.5
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.64,
-            26.35,
-            26.12,
-            26.25,
-            25.86,
-            25.83,
-            25.35,
-            25.52,
-            25.13,
-            24.99,
+            23.89,
+            24.31,
+            24.36,
+            24.68,
+            24.43,
+            24.77,
+            24.53,
+            24.88,
+            24.76,
             25.2,
-            25.06
+            25.64,
+            25.5
         ],
         "hsd_history_software": [
-            10.78,
-            10.74,
-            10.77,
-            10.61,
-            10.56,
-            10.44,
-            10.3,
-            10.31,
-            10.28,
+            10.17,
+            10.32,
+            10.18,
+            10.04,
+            9.95,
+            9.84,
+            10.02,
+            9.88,
+            9.79,
+            9.91,
             10.08,
-            10.2,
-            10.1
+            9.9
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:06",
+            "time": "21:59",
             "tag": "MERCADO",
-            "text": "Super Micro Computer Stock Forecast: Trending Analyst Divide"
+            "text": "Verizon Communications (NYSE:VZ) Shares Up 2.6% - Here's Why"
         },
         {
-            "time": "20:57",
-            "tag": "AI",
-            "text": "Expedia acquires AI trip-planning startup"
-        },
-        {
-            "time": "20:56",
-            "tag": "AI",
-            "text": "Micron Ventures Launches $250 Million Fund to Invest in the Next Generation of AI"
-        },
-        {
-            "time": "20:47",
+            "time": "21:58",
             "tag": "MERCADO",
-            "text": "Teradyne Inc. stock outperforms competitors on strong trading day"
+            "text": "ServiceNow (NYSE:NOW) Trading 1.7% Higher - Should You Buy?"
         },
         {
-            "time": "20:45",
+            "time": "21:46",
             "tag": "AI",
-            "text": "Lululemon Athletica Chief AI, Technology Officer Ceases to Serve in Role"
+            "text": "Synchrony Elevates AI Strategy Hiring Nimrod Barak as Chief AI Officer to Accelerate Innovation"
+        },
+        {
+            "time": "21:42",
+            "tag": "MERCADO",
+            "text": "Verizon readies for Tropical Storm Lala; Offers tips for Hawai\u2019i residents and businesses"
+        },
+        {
+            "time": "21:42",
+            "tag": "MERCADO",
+            "text": "Verizon urges Hawai'i residents to charge devices before Lala"
         }
     ]
 }
