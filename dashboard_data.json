@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-13 11:49 UTC",
+        "last_updated": "2026-08-13 13:16 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 224.09,
-            "change": "-1.91%"
+            "change": "+0.99%"
         },
         {
             "symbol": "AMD",
             "price": 482.93,
-            "change": "+0.23%"
+            "change": "-0.88%"
         },
         {
             "symbol": "MSFT",
             "price": 492.43,
-            "change": "+0.79%"
+            "change": "-0.9%"
         },
         {
             "symbol": "CEG",
             "price": 278.68,
-            "change": "-0.71%"
+            "change": "-2.57%"
         },
         {
             "symbol": "VST",
             "price": 146.68,
-            "change": "+1.6%"
+            "change": "-2.47%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.63,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.5,
             0.51,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
             0.49,
             0.5,
             0.5,
-            0.49,
             0.5,
-            0.5
+            0.5,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.83,
-            24.82,
-            24.84,
-            24.93,
-            24.52,
-            24.88,
-            25.36,
-            25.23,
-            25.01,
-            24.91,
-            24.64,
-            24.77
+            25.56,
+            25.44,
+            25.47,
+            25.79,
+            25.98,
+            25.85,
+            25.67,
+            25.54,
+            25.06,
+            25.52,
+            25.7,
+            25.43
         ],
         "hsd_history_software": [
-            9.83,
-            9.83,
-            9.95,
-            9.92,
-            10.04,
-            9.87,
-            9.95,
-            9.78,
-            9.96,
-            9.98,
-            9.81,
-            9.89
+            9.6,
+            9.76,
+            9.8,
+            9.62,
+            9.5,
+            9.65,
+            9.52,
+            9.64,
+            9.76,
+            9.85,
+            9.93,
+            9.98
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:56",
+            "time": "12:31",
             "tag": "MERCADO",
-            "text": "Citigroup Adjusts Price Target on Leidos Holdings to $161 From $138, Keeps Buy Rating"
+            "text": "American Express Expands Virtual Card Capabilities to Help Businesses Utilize Fast-Growing Commercial Payment Method"
         },
         {
-            "time": "10:56",
+            "time": "12:29",
             "tag": "MERCADO",
-            "text": "Merit Financial Group LLC Grows Position in Take-Two Interactive Software, Inc. $TTWO"
+            "text": "Digital Realty Trust (DLR) Shares Just Moved, So What Is Driving Attention Now?"
         },
         {
-            "time": "10:45",
-            "tag": "MERCADO",
-            "text": "Truist Adjusts Price Target on Waystar Holding to $33 From $38, Maintains Buy Rating"
+            "time": "12:29",
+            "tag": "AI",
+            "text": "Engineers can build reusable CAD tools with natural-language AI"
         },
         {
-            "time": "10:37",
-            "tag": "MERCADO",
-            "text": "Have Take-Two Interactive Software Insiders Been Selling Stock?"
+            "time": "12:29",
+            "tag": "AI",
+            "text": "PTC Advances Leadership in AI-Driven Design with Launch of Onshape FeatureScript MCP Server"
         },
         {
-            "time": "10:36",
+            "time": "12:23",
             "tag": "MERCADO",
-            "text": "Mission Wealth Management LP Buys 57,027 Shares of HP Inc. $HPQ"
+            "text": "Trimble (NASDAQ:TRMB) Given Overweight Rating at Piper Sandler"
         }
     ]
 }
