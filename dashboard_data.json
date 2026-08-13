@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-13 22:44 UTC",
+        "last_updated": "2026-08-13 23:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.3,
-            "change": "-1.55%"
+            "change": "+2.76%"
         },
         {
             "symbol": "AMD",
             "price": 483.01,
-            "change": "-3.22%"
+            "change": "+1.97%"
         },
         {
             "symbol": "MSFT",
             "price": 496.88,
-            "change": "+1.6%"
+            "change": "+0.54%"
         },
         {
             "symbol": "CEG",
             "price": 278.64,
-            "change": "+2.9%"
+            "change": "-1.36%"
         },
         {
             "symbol": "VST",
             "price": 146.4,
-            "change": "+1.83%"
+            "change": "+0.2%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.55,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
+            0.51,
             0.5,
-            0.49,
-            0.49,
-            0.49,
+            0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            23.89,
-            24.31,
-            24.36,
-            24.68,
-            24.43,
-            24.77,
-            24.53,
-            24.88,
-            24.76,
-            25.2,
-            25.64,
-            25.5
+            24.67,
+            24.46,
+            24.93,
+            24.99,
+            25.03,
+            25.33,
+            25.0,
+            25.04,
+            24.66,
+            24.87,
+            24.97,
+            25.44
         ],
         "hsd_history_software": [
-            10.17,
+            10.76,
+            10.68,
+            10.64,
+            10.45,
+            10.37,
+            10.22,
+            10.11,
+            10.22,
             10.32,
-            10.18,
-            10.04,
-            9.95,
-            9.84,
-            10.02,
-            9.88,
-            9.79,
-            9.91,
-            10.08,
-            9.9
+            10.2,
+            10.03,
+            9.92
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:59",
+            "time": "22:33",
             "tag": "MERCADO",
-            "text": "Verizon Communications (NYSE:VZ) Shares Up 2.6% - Here's Why"
+            "text": "How Games Are Helping Shape Disney\u2019s Next Chapter"
         },
         {
-            "time": "21:58",
+            "time": "22:13",
             "tag": "MERCADO",
-            "text": "ServiceNow (NYSE:NOW) Trading 1.7% Higher - Should You Buy?"
+            "text": "Seagate Technology (NASDAQ:STX) Stock Price Up 4.9% - Here's Why"
         },
         {
-            "time": "21:46",
-            "tag": "AI",
-            "text": "Synchrony Elevates AI Strategy Hiring Nimrod Barak as Chief AI Officer to Accelerate Innovation"
+            "time": "22:11",
+            "tag": "MERCADO",
+            "text": "Databricks' Electric acquisition adds embeddable PostgreSQL"
         },
         {
-            "time": "21:42",
+            "time": "22:10",
             "tag": "MERCADO",
-            "text": "Verizon readies for Tropical Storm Lala; Offers tips for Hawai\u2019i residents and businesses"
+            "text": "Tecogen Reports Weak Q2 Results, Highlights Data Center Focus"
         },
         {
-            "time": "21:42",
+            "time": "22:02",
             "tag": "MERCADO",
-            "text": "Verizon urges Hawai'i residents to charge devices before Lala"
+            "text": "Apple CEO Tim Cook unveils 250,000-square-foot Houston factory (VIDEO)"
         }
     ]
 }
