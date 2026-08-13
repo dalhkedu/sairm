@@ -1,43 +1,44 @@
 {
     "metadata": {
-        "last_updated": "2026-08-13 02:09 UTC",
+        "last_updated": "2026-08-13 04:52 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 224.09,
-            "change": "+0.19%"
+            "change": "-2.47%"
         },
         {
             "symbol": "AMD",
             "price": 482.93,
-            "change": "+2.05%"
+            "change": "+0.24%"
         },
         {
             "symbol": "MSFT",
             "price": 492.43,
-            "change": "-3.35%"
+            "change": "+0.63%"
         },
         {
             "symbol": "CEG",
             "price": 278.68,
-            "change": "+2.6%"
+            "change": "-2.7%"
         },
         {
             "symbol": "VST",
             "price": 146.68,
-            "change": "-1.22%"
+            "change": "+1.49%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.45,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.54,
+            0.53,
+            0.52,
+            0.53,
             0.53,
             0.53,
             0.53,
@@ -46,36 +47,35 @@
             0.52,
             0.51,
             0.51,
-            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.37,
-            24.57,
-            24.41,
-            23.94,
-            24.08,
-            24.21,
-            24.47,
-            24.55,
-            24.77,
-            25.17,
+            24.11,
+            23.83,
+            24.07,
+            23.87,
+            24.34,
+            24.65,
             24.9,
+            25.04,
+            25.27,
+            24.96,
+            24.66,
             24.77
         ],
         "hsd_history_software": [
-            9.95,
-            9.89,
-            9.77,
-            9.89,
-            9.71,
-            9.81,
-            10.0,
+            9.98,
+            10.17,
+            10.2,
+            10.08,
             9.91,
+            9.87,
             9.75,
-            9.79,
-            9.84,
-            9.86
+            9.81,
+            9.99,
+            10.09,
+            10.09,
+            10.04
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:29",
+            "time": "04:11",
             "tag": "MERCADO",
-            "text": "Western Digital (WDC) CEO Irving Tan sells 20,000 shares under 10b5-1 plan"
+            "text": "Lightwave Logic (LWLG) Adds Stage 3 Customers, Is The Upside Already Priced In?"
         },
         {
-            "time": "00:56",
-            "tag": "AI",
-            "text": "Alphabet Stock Forecast: GOOGL Faces AI Spending, Debt and Regulatory Pressure"
+            "time": "04:10",
+            "tag": "MERCADO",
+            "text": "How Investors May Respond To KBR (KBR) Securing New US Army TAGM Task Order"
         },
         {
-            "time": "00:40",
+            "time": "04:08",
             "tag": "MERCADO",
-            "text": "Is Diodes Inc (DIOD) Overvalued After 3.8% Rally? GF Value Says"
+            "text": "Is International Business Machines (IBM) A Bargain As Quantum Progress Fuels Its Long Term Story?"
         },
         {
-            "time": "00:32",
+            "time": "03:42",
             "tag": "MERCADO",
-            "text": "Datacentrex Q2 Results: Net Cash Burn Falls 88% To $61,000"
+            "text": "What Could Teledyne Technologies (TDY) Defense Showcase Mean For Its Growth Case?"
         },
         {
-            "time": "00:28",
+            "time": "03:39",
             "tag": "MERCADO",
-            "text": "Get Paid 18% A Year To Cap Your ANET Stock At 21% Higher"
+            "text": "Super Micro Guided Fiscal 2027 Revenue $16 Billion Above Wall Street and Missed the Quarter Anyway"
         }
     ]
 }
