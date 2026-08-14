@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-14 13:11 UTC",
+        "last_updated": "2026-08-14 14:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 225.3,
-            "change": "+2.61%"
+            "price": 226.69,
+            "change": "-0.99%"
         },
         {
             "symbol": "AMD",
-            "price": 483.01,
-            "change": "-3.47%"
+            "price": 505.67,
+            "change": "+1.15%"
         },
         {
             "symbol": "MSFT",
-            "price": 496.88,
-            "change": "+2.16%"
+            "price": 499.04,
+            "change": "+0.77%"
         },
         {
             "symbol": "CEG",
-            "price": NaN,
-            "change": "+1.93%"
+            "price": 284.0,
+            "change": "+2.89%"
         },
         {
             "symbol": "VST",
-            "price": 146.4,
-            "change": "-3.25%"
+            "price": 147.89,
+            "change": "-2.09%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.44,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
+            0.49,
             0.48,
-            0.48,
+            0.49,
+            0.49,
             0.49,
             0.5,
-            0.5,
-            0.5,
+            0.49,
             0.49,
             0.5,
-            0.5,
-            0.49,
+            0.51,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            26.44,
-            26.16,
-            26.46,
-            26.3,
-            26.08,
-            25.61,
-            25.23,
-            24.77,
-            24.6,
-            24.69,
-            24.81,
-            24.65
+            25.56,
+            25.14,
+            25.27,
+            25.19,
+            25.58,
+            25.22,
+            24.76,
+            25.06,
+            25.55,
+            25.82,
+            25.39,
+            25.12
         ],
         "hsd_history_software": [
-            9.98,
-            10.0,
-            10.02,
-            9.92,
-            9.96,
+            10.41,
+            10.43,
+            10.48,
+            10.29,
+            10.44,
+            10.45,
+            10.35,
+            10.21,
             10.15,
-            10.1,
-            10.05,
-            10.1,
-            10.24,
-            10.1,
-            10.16
+            10.08,
+            9.97,
+            10.14
         ],
         "rci_data": [
             85.0,
-            22.53
+            22.669
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:31",
+            "time": "14:15",
             "tag": "MERCADO",
-            "text": "In the Midwest, more coal power for data centers"
+            "text": "Chinese driverless technology firm to deploy over 2,000 Robotaxis in Europe"
         },
         {
-            "time": "12:22",
+            "time": "13:47",
             "tag": "MERCADO",
-            "text": "Honeywell Sees Strong Orders, Targets 15% EPS Growth in 2027"
+            "text": "Western Digital Corp Stock (WDC) Opened Up by 3.53% on Aug 14: What Signal Does It Send?"
         },
         {
-            "time": "12:14",
-            "tag": "AI",
-            "text": "Synchrony Names Nimrod Barak Chief AI Officer to Accelerate Enterprise AI Strategy"
+            "time": "13:44",
+            "tag": "MERCADO",
+            "text": "Trimble Arc Agent to Automate Manual Workflows for Global Supply Chains"
         },
         {
-            "time": "12:11",
+            "time": "13:38",
             "tag": "MERCADO",
-            "text": "Alphabet stock holds below its 52-week high as Q2 2026 cloud and capex reshape the outlook"
+            "text": "Trinity Biotech secures $7m from Perceptive Advisors By Investing.com"
         },
         {
-            "time": "12:11",
+            "time": "13:32",
             "tag": "MERCADO",
-            "text": "HCLTech, NetApp Expand Partnership to Offer Hybrid Cloud Storage-as-a-Service"
+            "text": "From Suno\u2019s BMG breakthrough to Live Nation\u2019s counterfeit crackdown\u2026 it\u2019s MBW\u2019s Weekly Round-up"
         }
     ]
 }
