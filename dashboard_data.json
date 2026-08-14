@@ -1,48 +1,48 @@
 {
     "metadata": {
-        "last_updated": "2026-08-14 08:17 UTC",
+        "last_updated": "2026-08-14 10:05 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.3,
-            "change": "-2.59%"
+            "change": "-1.58%"
         },
         {
             "symbol": "AMD",
             "price": 483.01,
-            "change": "+0.2%"
+            "change": "-3.43%"
         },
         {
             "symbol": "MSFT",
             "price": 496.88,
-            "change": "+0.69%"
+            "change": "+1.61%"
         },
         {
             "symbol": "CEG",
             "price": 278.64,
-            "change": "+2.53%"
+            "change": "+0.05%"
         },
         {
             "symbol": "VST",
             "price": 146.4,
-            "change": "-1.36%"
+            "change": "-0.42%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.56,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.53,
+            0.52,
+            0.51,
+            0.51,
             0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
+            0.51,
             0.5,
             0.5,
             0.5,
@@ -50,32 +50,32 @@
             0.51
         ],
         "hsd_history_hardware": [
-            23.98,
-            23.53,
-            23.95,
-            24.2,
-            24.62,
-            24.92,
-            24.84,
-            25.34,
+            24.45,
+            24.57,
+            24.54,
+            24.88,
+            24.73,
+            25.18,
             25.12,
-            25.08,
-            25.04,
-            24.89
+            24.92,
+            25.41,
+            25.21,
+            25.39,
+            25.22
         ],
         "hsd_history_software": [
+            9.75,
             9.67,
-            9.7,
-            9.76,
-            9.83,
             9.82,
-            9.78,
+            9.85,
+            9.73,
             9.9,
-            10.06,
-            9.93,
-            10.05,
-            10.07,
-            10.09
+            9.84,
+            9.81,
+            9.73,
+            9.78,
+            9.75,
+            9.92
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:34",
-            "tag": "MERCADO",
-            "text": "Is Iron Mountain (IRM) Fully Valued After Record Q2 Results And A Raised Outlook?"
+            "time": "09:35",
+            "tag": "AI",
+            "text": "AIG & Parametrix launch cyber parametric solution for cloud service outage losses"
         },
         {
-            "time": "07:32",
+            "time": "09:33",
             "tag": "MERCADO",
-            "text": "Atlatl Advisers LLC Takes Position in Hewlett Packard Enterprise Company $HPE"
+            "text": "Handelsbanken Fonder AB Grows Stake in Roper Technologies, Inc. $ROP"
         },
         {
-            "time": "07:32",
+            "time": "09:29",
             "tag": "MERCADO",
-            "text": "Asset Dedication LLC Sells 8,784 Shares of Amazon.com, Inc. $AMZN"
+            "text": "Amazon.com, Inc. $AMZN is Summitry LLC's 2nd Largest Position"
         },
         {
-            "time": "07:32",
+            "time": "09:29",
             "tag": "MERCADO",
-            "text": "Axiom Investment Management LLC Makes New Investment in Amazon.com, Inc. $AMZN"
+            "text": "Amazon.com, Inc. $AMZN Shares Purchased by Henshaw Capital LLC"
         },
         {
-            "time": "07:32",
+            "time": "09:21",
             "tag": "MERCADO",
-            "text": "Allen Capital Group LLC Purchases 4,261 Shares of Amazon.com, Inc. $AMZN"
+            "text": "Ethic Inc. Acquires Shares of 62,938 Microchip Technology Incorporated $MCHP"
         }
     ]
 }
