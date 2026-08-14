@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-14 18:57 UTC",
+        "last_updated": "2026-08-14 19:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": NaN,
-            "change": "-0.13%"
+            "price": 225.47,
+            "change": "-1.47%"
         },
         {
             "symbol": "AMD",
-            "price": 507.59,
-            "change": "+0.08%"
+            "price": 510.39,
+            "change": "-2.99%"
         },
         {
             "symbol": "MSFT",
-            "price": 495.42,
-            "change": "-0.57%"
+            "price": 494.89,
+            "change": "-0.5%"
         },
         {
             "symbol": "CEG",
-            "price": 283.73,
-            "change": "+0.04%"
+            "price": 283.25,
+            "change": "+2.84%"
         },
         {
             "symbol": "VST",
-            "price": 149.32,
-            "change": "+2.86%"
+            "price": 148.73,
+            "change": "-3.38%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
-        "rci_current": NaN,
+        "cer_current": 0.43,
+        "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.54,
-            0.53,
-            0.53,
-            0.53,
+            0.51,
             0.52,
             0.51,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.5
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.46,
-            24.21,
-            24.36,
-            24.41,
-            24.24,
-            24.39,
-            24.37,
+            26.01,
+            25.93,
+            25.7,
+            25.47,
+            25.9,
+            25.59,
+            25.27,
+            24.86,
             24.76,
-            24.87,
-            24.54,
-            24.66,
-            24.53
+            24.99,
+            25.31,
+            25.03
         ],
         "hsd_history_software": [
-            9.85,
-            9.74,
-            9.85,
-            9.79,
-            9.98,
+            9.37,
+            9.5,
+            9.68,
+            9.8,
             9.93,
             9.88,
-            9.76,
             9.71,
-            9.83,
-            9.99,
-            9.88
+            9.86,
+            9.88,
+            9.92,
+            10.09,
+            10.02
         ],
         "rci_data": [
             85.0,
-            NaN
+            22.547
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:01",
-            "tag": "MERCADO",
-            "text": "Dynatrace (NYSE:DT) Given New $60.00 Price Target at Truist Financial"
-        },
-        {
-            "time": "17:15",
-            "tag": "MERCADO",
-            "text": "CrowdStrike Holdings Inc Stock (CRWD) Moved Down by 3.06% on Aug 14: Facts Behind the Movement"
-        },
-        {
-            "time": "17:08",
+            "time": "18:45",
             "tag": "AI",
-            "text": "Broadcom Plunges 5% as Its AI Boom Faces a $370 Billion Financing Question"
+            "text": "Gilead Sciences (GILD) Could Be 8% Overvalued As AI Deal And Q2 Results Lift Shares"
         },
         {
-            "time": "17:05",
-            "tag": "MERCADO",
-            "text": "Docusign (NASDAQ:DOCU) Shares Down 4.6% - Here's Why"
+            "time": "18:44",
+            "tag": "AI",
+            "text": "Lululemon chief AI & technology officer departs"
         },
         {
-            "time": "17:02",
+            "time": "18:43",
             "tag": "MERCADO",
-            "text": "Hewlett Packard Enterprise's settlement regarding $14B Juniper acquisition approved"
+            "text": "Broadcom options surge on selloff day, with $400 August 2026 call leading volume"
+        },
+        {
+            "time": "18:32",
+            "tag": "MERCADO",
+            "text": "Are CoStar Group\u2019s Upgraded Rent Forecasts Quietly Reframing Its Data Moat Story (CSGP)?"
+        },
+        {
+            "time": "18:17",
+            "tag": "MERCADO",
+            "text": "Even the CEO of Booking.com Is Fed Up With Travel These Days"
         }
     ]
 }
