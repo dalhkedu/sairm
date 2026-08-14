@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-14 04:49 UTC",
+        "last_updated": "2026-08-14 06:15 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.3,
-            "change": "+2.4%"
+            "change": "-2.44%"
         },
         {
             "symbol": "AMD",
             "price": 483.01,
-            "change": "+0.93%"
+            "change": "-0.53%"
         },
         {
             "symbol": "MSFT",
             "price": 496.88,
-            "change": "+1.41%"
+            "change": "+3.42%"
         },
         {
             "symbol": "CEG",
-            "price": 278.64,
-            "change": "+1.13%"
+            "price": NaN,
+            "change": "-0.3%"
         },
         {
             "symbol": "VST",
             "price": 146.4,
-            "change": "-2.32%"
+            "change": "+3.45%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.53,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
+            0.52,
+            0.52,
+            0.52,
+            0.53,
+            0.52,
+            0.53,
+            0.54,
+            0.53,
+            0.52,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.75,
-            24.64,
-            24.96,
-            24.6,
-            24.59,
-            24.95,
-            25.26,
-            25.64,
-            25.37,
-            25.12,
-            25.08,
-            24.68
+            26.63,
+            26.14,
+            25.95,
+            25.7,
+            25.92,
+            25.76,
+            26.14,
+            26.06,
+            25.96,
+            25.92,
+            25.48,
+            25.34
         ],
         "hsd_history_software": [
-            10.25,
-            10.12,
-            10.02,
-            10.06,
-            10.22,
-            10.08,
-            10.05,
-            10.12,
-            10.12,
-            10.13,
-            10.04,
-            9.94
+            10.46,
+            10.4,
+            10.38,
+            10.56,
+            10.62,
+            10.55,
+            10.47,
+            10.33,
+            10.32,
+            10.14,
+            10.23,
+            10.18
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "05:01",
+            "tag": "MERCADO",
+            "text": "Enphase Energy (ENPH) Could Be 44% Undervalued On New Italy And Battery Expansion Moves"
+        },
+        {
+            "time": "04:47",
+            "tag": "AI",
+            "text": "Markets/Coverages: AIG Starts Parametric Cloud Outage Solution"
+        },
+        {
+            "time": "04:37",
+            "tag": "MERCADO",
+            "text": "The Walt Disney Company, TikTok launch global deal to bring creator-made short-form content to Disney+"
+        },
+        {
             "time": "04:11",
             "tag": "MERCADO",
             "text": "Deswell Industries, Inc. (NASDAQ:DSWL) Sees Significant Decrease in Short Interest"
@@ -134,21 +149,6 @@
             "time": "03:41",
             "tag": "MERCADO",
             "text": "Corsair Gaming, Inc. SEC Filing (Aug 13, 2026)"
-        },
-        {
-            "time": "03:22",
-            "tag": "MERCADO",
-            "text": "Weitz Investment Trims Amazon.com Stake, Sells 5,000 Shares"
-        },
-        {
-            "time": "02:38",
-            "tag": "MERCADO",
-            "text": "Micron Faces a New Burry Bet as China Memory Pressure Builds"
-        },
-        {
-            "time": "02:19",
-            "tag": "MERCADO",
-            "text": "Fitch Downgrades Baidu to 'A-' From 'A', Outlook Stable"
         }
     ]
 }
