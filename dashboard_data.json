@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-14 19:50 UTC",
+        "last_updated": "2026-08-14 20:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 225.47,
-            "change": "-1.47%"
+            "price": 225.16,
+            "change": "-1.55%"
         },
         {
             "symbol": "AMD",
-            "price": 510.39,
-            "change": "-2.99%"
+            "price": 514.39,
+            "change": "+0.36%"
         },
         {
             "symbol": "MSFT",
-            "price": 494.89,
-            "change": "-0.5%"
+            "price": 495.4,
+            "change": "-2.22%"
         },
         {
             "symbol": "CEG",
-            "price": 283.25,
-            "change": "+2.84%"
+            "price": 282.5,
+            "change": "+2.92%"
         },
         {
             "symbol": "VST",
-            "price": 148.73,
-            "change": "-3.38%"
+            "price": 148.13,
+            "change": "-3.43%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.62,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.52,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49
+            0.48,
+            0.47,
+            0.46,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
             26.01,
-            25.93,
-            25.7,
-            25.47,
-            25.9,
-            25.59,
-            25.27,
-            24.86,
-            24.76,
-            24.99,
-            25.31,
-            25.03
+            26.05,
+            25.83,
+            25.63,
+            26.1,
+            25.81,
+            25.61,
+            26.09,
+            25.58,
+            26.08,
+            25.58,
+            25.09
         ],
         "hsd_history_software": [
-            9.37,
-            9.5,
-            9.68,
-            9.8,
-            9.93,
-            9.88,
-            9.71,
-            9.86,
-            9.88,
-            9.92,
-            10.09,
-            10.02
+            10.19,
+            10.15,
+            10.06,
+            9.95,
+            10.05,
+            9.87,
+            9.96,
+            10.1,
+            9.96,
+            9.94,
+            9.94,
+            9.91
         ],
         "rci_data": [
             85.0,
-            22.547
+            22.516
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:45",
+            "time": "20:08",
+            "tag": "RESULTADOS",
+            "text": "Seagate Stock Surges As Earnings Beat Triggers Big Target Hikes"
+        },
+        {
+            "time": "19:34",
             "tag": "AI",
-            "text": "Gilead Sciences (GILD) Could Be 8% Overvalued As AI Deal And Q2 Results Lift Shares"
+            "text": "What Does Salesforce (CRM) Gain From Governed AI In Private Markets?"
         },
         {
-            "time": "18:44",
+            "time": "19:25",
+            "tag": "MERCADO",
+            "text": "Iron Mountain Relaunches Clutter Valet Self-Storage Service"
+        },
+        {
+            "time": "19:14",
+            "tag": "MERCADO",
+            "text": "Applied Materials Stock Drops 4.5% Despite Record $9.12 Billion Revenue"
+        },
+        {
+            "time": "19:08",
             "tag": "AI",
-            "text": "Lululemon chief AI & technology officer departs"
-        },
-        {
-            "time": "18:43",
-            "tag": "MERCADO",
-            "text": "Broadcom options surge on selloff day, with $400 August 2026 call leading volume"
-        },
-        {
-            "time": "18:32",
-            "tag": "MERCADO",
-            "text": "Are CoStar Group\u2019s Upgraded Rent Forecasts Quietly Reframing Its Data Moat Story (CSGP)?"
-        },
-        {
-            "time": "18:17",
-            "tag": "MERCADO",
-            "text": "Even the CEO of Booking.com Is Fed Up With Travel These Days"
+            "text": "Is Microchip Technology (MCHP) Fully Valued After Strong AI Led Growth?"
         }
     ]
 }
