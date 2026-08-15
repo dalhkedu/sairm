@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-15 13:31 UTC",
+        "last_updated": "2026-08-15 14:25 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.16,
-            "change": "+1.04%"
+            "change": "+3.38%"
         },
         {
             "symbol": "AMD",
             "price": 514.39,
-            "change": "+1.37%"
+            "change": "+3.11%"
         },
         {
             "symbol": "MSFT",
             "price": 495.4,
-            "change": "+3.2%"
+            "change": "+0.01%"
         },
         {
             "symbol": "CEG",
             "price": 282.5,
-            "change": "-3.43%"
+            "change": "+2.83%"
         },
         {
             "symbol": "VST",
             "price": 148.13,
-            "change": "+0.22%"
+            "change": "-2.85%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.44,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.52,
+            0.52,
             0.51,
             0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.42,
-            23.96,
-            23.5,
-            23.61,
-            23.94,
-            24.23,
-            24.23,
-            24.04,
-            24.47,
-            24.72,
-            24.84,
-            25.09
+            27.29,
+            26.93,
+            26.68,
+            27.11,
+            27.22,
+            26.81,
+            26.8,
+            26.51,
+            26.36,
+            25.91,
+            25.73,
+            25.24
         ],
         "hsd_history_software": [
-            10.18,
-            10.0,
-            9.83,
+            9.57,
+            9.41,
+            9.56,
+            9.74,
+            9.9,
+            9.74,
             9.86,
-            9.84,
-            10.02,
-            10.04,
-            10.12,
-            10.32,
-            10.15,
-            10.07,
-            10.18
+            10.05,
+            9.99,
+            10.06,
+            10.09,
+            9.98
         ],
         "rci_data": [
             85.0,
@@ -142,13 +142,13 @@
         },
         {
             "time": "11:40",
-            "tag": "AI",
-            "text": "Eightco Holdings (NASDAQ: ORBS) Reports $336M Treasury: OpenAI, WLD, ETH and Cash Holdings"
+            "tag": "MERCADO",
+            "text": "21,494 Shares in Rogers Corporation $ROG Acquired by Walleye Capital LLC"
         },
         {
-            "time": "11:35",
-            "tag": "MERCADO",
-            "text": "How Investors May Respond To F5 (FFIV) Slowing Billings And Stagnant Operating Margins"
+            "time": "11:40",
+            "tag": "AI",
+            "text": "Eightco Holdings (NASDAQ: ORBS) Reports $336M Treasury: OpenAI, WLD, ETH and Cash Holdings"
         }
     ]
 }
