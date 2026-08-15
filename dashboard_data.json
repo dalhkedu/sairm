@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-15 19:22 UTC",
+        "last_updated": "2026-08-15 20:24 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.16,
-            "change": "+2.0%"
+            "change": "-2.18%"
         },
         {
             "symbol": "AMD",
             "price": 514.39,
-            "change": "+3.16%"
+            "change": "+2.82%"
         },
         {
             "symbol": "MSFT",
             "price": 495.4,
-            "change": "-0.44%"
+            "change": "+3.12%"
         },
         {
             "symbol": "CEG",
             "price": 282.5,
-            "change": "-0.59%"
+            "change": "-1.78%"
         },
         {
             "symbol": "VST",
             "price": 148.13,
-            "change": "+3.26%"
+            "change": "-0.7%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.42,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.89,
-            24.55,
-            24.51,
-            24.89,
-            24.84,
-            24.84,
-            24.49,
-            24.78,
-            24.35,
-            24.35,
-            24.73,
-            24.99
+            26.7,
+            26.39,
+            26.09,
+            25.81,
+            25.91,
+            25.69,
+            25.56,
+            25.11,
+            25.4,
+            25.18,
+            25.26,
+            25.37
         ],
         "hsd_history_software": [
-            10.17,
-            10.0,
-            9.98,
-            9.87,
-            9.92,
-            9.74,
-            9.88,
-            9.93,
-            9.88,
+            9.61,
+            9.81,
             9.95,
-            9.78,
-            9.9
+            9.94,
+            9.77,
+            9.85,
+            9.9,
+            9.88,
+            9.83,
+            9.99,
+            9.96,
+            10.15
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "18:50",
+            "tag": "MERCADO",
+            "text": "New 50,000-sq-foot L3Harris facility to deliver advanced undersea training systems for US Navy"
+        },
+        {
             "time": "17:41",
             "tag": "MERCADO",
             "text": "Which Is the Better ETF, State Street's Broad Market Exposure Through SPY or Invesco's Tech-Focused QQQ?"
@@ -144,11 +149,6 @@
             "time": "16:21",
             "tag": "MERCADO",
             "text": "Seagate Has Soared More Than 500% in a Year. Is It Too Late to Buy?"
-        },
-        {
-            "time": "16:21",
-            "tag": "MERCADO",
-            "text": "Arista Networks Just Hit a Record High After Its First $3 Billion Quarter. Is It Too Late to Buy?"
         }
     ]
 }
