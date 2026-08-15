@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-15 12:41 UTC",
+        "last_updated": "2026-08-15 13:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.16,
-            "change": "-2.14%"
+            "change": "+1.04%"
         },
         {
             "symbol": "AMD",
             "price": 514.39,
-            "change": "+0.15%"
+            "change": "+1.37%"
         },
         {
             "symbol": "MSFT",
             "price": 495.4,
-            "change": "-1.39%"
+            "change": "+3.2%"
         },
         {
             "symbol": "CEG",
             "price": 282.5,
-            "change": "+0.74%"
+            "change": "-3.43%"
         },
         {
             "symbol": "VST",
             "price": 148.13,
-            "change": "-0.05%"
+            "change": "+0.22%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.64,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.51,
+            0.5,
             0.5,
             0.5,
             0.51,
+            0.52,
+            0.52,
             0.51,
-            0.5,
+            0.52,
+            0.52,
             0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.49,
-            0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            26.6,
-            26.6,
-            26.33,
-            26.13,
-            25.67,
-            25.4,
-            25.01,
-            25.08,
-            24.87,
-            24.93,
-            25.07,
-            24.87
+            24.42,
+            23.96,
+            23.5,
+            23.61,
+            23.94,
+            24.23,
+            24.23,
+            24.04,
+            24.47,
+            24.72,
+            24.84,
+            25.09
         ],
         "hsd_history_software": [
-            9.7,
-            9.52,
-            9.68,
-            9.57,
-            9.46,
-            9.58,
-            9.72,
+            10.18,
+            10.0,
             9.83,
+            9.86,
+            9.84,
             10.02,
-            10.2,
-            10.36,
-            10.2
+            10.04,
+            10.12,
+            10.32,
+            10.15,
+            10.07,
+            10.18
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "12:35",
+            "tag": "MERCADO",
+            "text": "Pegasystems Inc. (NASDAQ:PEGA) to Issue $0.08 Special Dividend"
+        },
+        {
+            "time": "12:12",
+            "tag": "MERCADO",
+            "text": "Benzinga Bulls and Bears: Riot Platforms, Firefly, Virgin Galactic"
+        },
+        {
             "time": "12:00",
             "tag": "MERCADO",
             "text": "Nvidia's neocloud funding structure might unlock significant revenue stream: Morgan Stanley"
         },
         {
+            "time": "11:40",
+            "tag": "AI",
+            "text": "Eightco Holdings (NASDAQ: ORBS) Reports $336M Treasury: OpenAI, WLD, ETH and Cash Holdings"
+        },
+        {
             "time": "11:35",
             "tag": "MERCADO",
             "text": "How Investors May Respond To F5 (FFIV) Slowing Billings And Stagnant Operating Margins"
-        },
-        {
-            "time": "11:16",
-            "tag": "MERCADO",
-            "text": "Laraway Financial Advisors Inc Buys New Position in Western Digital Corporation $WDC"
-        },
-        {
-            "time": "11:14",
-            "tag": "MERCADO",
-            "text": "Oppenheimer Asset Management Inc. Makes New Investment in Keysight Technologies Inc. $KEYS"
-        },
-        {
-            "time": "11:12",
-            "tag": "MERCADO",
-            "text": "TCW Group Inc. Grows Stock Holdings in Microchip Technology Incorporated $MCHP"
         }
     ]
 }
