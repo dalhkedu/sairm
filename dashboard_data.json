@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-15 04:33 UTC",
+        "last_updated": "2026-08-15 05:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.16,
-            "change": "+3.45%"
+            "change": "+1.29%"
         },
         {
             "symbol": "AMD",
             "price": 514.39,
-            "change": "+0.37%"
+            "change": "-3.24%"
         },
         {
             "symbol": "MSFT",
             "price": 495.4,
-            "change": "-1.59%"
+            "change": "-2.14%"
         },
         {
             "symbol": "CEG",
             "price": 282.5,
-            "change": "+1.98%"
+            "change": "-3.2%"
         },
         {
             "symbol": "VST",
             "price": 148.13,
-            "change": "-2.75%"
+            "change": "+3.03%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.49,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.46,
-            0.46,
-            0.47,
-            0.47,
-            0.48,
-            0.49,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
             0.49,
             0.5,
             0.5,
             0.49,
-            0.5
+            0.5,
+            0.51,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.91,
-            25.14,
-            25.52,
-            25.59,
-            25.5,
-            25.19,
-            25.57,
-            25.3,
-            24.99,
-            24.55,
-            24.97,
-            25.29
+            24.94,
+            25.44,
+            25.08,
+            24.64,
+            24.79,
+            24.83,
+            24.76,
+            24.38,
+            24.57,
+            24.92,
+            24.83,
+            24.6
         ],
         "hsd_history_software": [
             10.11,
-            10.19,
-            10.38,
-            10.25,
-            10.32,
+            10.22,
+            10.27,
+            10.36,
             10.39,
-            10.3,
+            10.23,
             10.18,
-            10.11,
-            9.98,
-            10.12,
-            10.13
+            10.14,
+            10.16,
+            10.32,
+            10.24,
+            10.2
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "04:43",
+            "tag": "AI",
+            "text": "reAlpha Tech Corp. (AIRE) grows transaction volume but burns cash in Q2 2026"
+        },
+        {
+            "time": "04:41",
+            "tag": "AI",
+            "text": "Nicholas Hawkins Sells 10,431 Shares of Arteris (NASDAQ:AIP) Stock"
+        },
+        {
+            "time": "04:40",
+            "tag": "MERCADO",
+            "text": "Is Wix.com Ltd (WIX) a Bargain After 7.6% Drop? GF Value Says Un"
+        },
+        {
+            "time": "04:20",
+            "tag": "MERCADO",
+            "text": "QUALCOMM Incorporated Stock 12\u2011Month Price Target Cut to $201, Implies 21% Upside"
+        },
+        {
             "time": "04:11",
             "tag": "MERCADO",
             "text": "UAVS: Q2 2026 revenue nearly doubled sequentially, led by drone and sensor growth and strategic repositioning"
-        },
-        {
-            "time": "04:01",
-            "tag": "MERCADO",
-            "text": "Texas Instruments Incorporated Common Stock (Derivatives) Analytics"
-        },
-        {
-            "time": "03:57",
-            "tag": "MERCADO",
-            "text": "Blackstone Inc. Boosts Microsoft Stake with 47,606 Shares"
-        },
-        {
-            "time": "03:53",
-            "tag": "MERCADO",
-            "text": "Crosslink Capital trims Micron Technology stake by 31,325 shares"
-        },
-        {
-            "time": "03:53",
-            "tag": "MERCADO",
-            "text": "H&H International trims Apple stake, sells 1.85M shares"
         }
     ]
 }
