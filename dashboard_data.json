@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-15 11:22 UTC",
+        "last_updated": "2026-08-15 12:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": NaN,
-            "change": "-1.58%"
+            "price": 225.16,
+            "change": "-2.14%"
         },
         {
             "symbol": "AMD",
-            "price": NaN,
-            "change": "-2.62%"
+            "price": 514.39,
+            "change": "+0.15%"
         },
         {
             "symbol": "MSFT",
             "price": 495.4,
-            "change": "-0.19%"
+            "change": "-1.39%"
         },
         {
             "symbol": "CEG",
             "price": 282.5,
-            "change": "-1.72%"
+            "change": "+0.74%"
         },
         {
             "symbol": "VST",
             "price": 148.13,
-            "change": "-3.28%"
+            "change": "-0.05%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
-        "rci_current": NaN,
+        "cer_current": 0.68,
+        "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.54,
-            0.53,
-            0.53,
-            0.53,
-            0.54,
-            0.53,
-            0.52,
+            0.5,
+            0.5,
+            0.51,
             0.51,
             0.5,
             0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.49,
+            0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            25.21,
-            25.1,
-            24.92,
-            25.28,
-            25.41,
-            25.46,
-            25.58,
-            25.13,
-            25.48,
-            25.95,
-            25.86,
-            25.42
+            26.6,
+            26.6,
+            26.33,
+            26.13,
+            25.67,
+            25.4,
+            25.01,
+            25.08,
+            24.87,
+            24.93,
+            25.07,
+            24.87
         ],
         "hsd_history_software": [
-            10.35,
-            10.25,
+            9.7,
+            9.52,
+            9.68,
+            9.57,
+            9.46,
+            9.58,
+            9.72,
+            9.83,
+            10.02,
+            10.2,
             10.36,
-            10.17,
-            10.16,
-            10.01,
-            10.05,
-            10.21,
-            10.05,
-            9.93,
-            9.97,
-            9.88
+            10.2
         ],
         "rci_data": [
             85.0,
-            NaN
+            22.516
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:42",
+            "time": "12:00",
             "tag": "MERCADO",
-            "text": "Laser Photonics Reports Second Quarter 2026 Financial Results"
+            "text": "Nvidia's neocloud funding structure might unlock significant revenue stream: Morgan Stanley"
         },
         {
-            "time": "10:34",
+            "time": "11:35",
             "tag": "MERCADO",
-            "text": "Sciencast Management LP Has $1.97 Million Stake in Verizon Communications Inc. $VZ"
+            "text": "How Investors May Respond To F5 (FFIV) Slowing Billings And Stagnant Operating Margins"
         },
         {
-            "time": "10:28",
+            "time": "11:16",
             "tag": "MERCADO",
-            "text": "Jennison Associates LLC Has $47.44 Million Stock Position in Axon Enterprise, Inc $AXON"
+            "text": "Laraway Financial Advisors Inc Buys New Position in Western Digital Corporation $WDC"
         },
         {
-            "time": "10:28",
+            "time": "11:14",
             "tag": "MERCADO",
-            "text": "Analog Devices (ADI) Sees Growth Projections Climb, Is The Valuation Too Pricey?"
+            "text": "Oppenheimer Asset Management Inc. Makes New Investment in Keysight Technologies Inc. $KEYS"
         },
         {
-            "time": "10:08",
+            "time": "11:12",
             "tag": "MERCADO",
-            "text": "Trust Point Inc. Purchases 3,001 Shares of Alphabet Inc. $GOOGL"
+            "text": "TCW Group Inc. Grows Stock Holdings in Microchip Technology Incorporated $MCHP"
         }
     ]
 }
