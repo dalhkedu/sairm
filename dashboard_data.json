@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-14 23:23 UTC",
+        "last_updated": "2026-08-15 01:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.16,
-            "change": "-2.93%"
+            "change": "-1.58%"
         },
         {
             "symbol": "AMD",
             "price": 514.39,
-            "change": "+0.32%"
+            "change": "+0.4%"
         },
         {
             "symbol": "MSFT",
             "price": 495.4,
-            "change": "-1.22%"
+            "change": "+0.5%"
         },
         {
             "symbol": "CEG",
             "price": 282.5,
-            "change": "+1.49%"
+            "change": "-1.29%"
         },
         {
             "symbol": "VST",
             "price": 148.13,
-            "change": "+1.18%"
+            "change": "-0.44%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.43,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.54,
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51
+            0.5,
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.24,
-            23.8,
-            23.62,
-            23.49,
-            23.94,
-            23.88,
-            23.95,
-            24.16,
-            24.5,
-            24.49,
-            24.43,
-            24.88
+            25.04,
+            25.4,
+            25.09,
+            24.72,
+            24.84,
+            24.57,
+            24.68,
+            24.8,
+            24.79,
+            24.93,
+            25.05,
+            25.07
         ],
         "hsd_history_software": [
-            10.23,
-            10.36,
-            10.47,
-            10.29,
-            10.19,
-            10.33,
-            10.49,
-            10.43,
-            10.3,
-            10.42,
-            10.34,
-            10.17
+            9.59,
+            9.73,
+            9.81,
+            9.83,
+            9.91,
+            9.79,
+            9.66,
+            9.69,
+            9.79,
+            9.86,
+            9.72,
+            9.91
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:06",
-            "tag": "MERCADO",
-            "text": "Steve Mandel's Top Q2 2026 Move: Exiting Vistra Corp at a -7.42% Portfolio Impact"
-        },
-        {
-            "time": "21:46",
-            "tag": "MERCADO",
-            "text": "Seagate Technology (NASDAQ:STX) Trading 5.7% Higher - Still a Buy?"
-        },
-        {
-            "time": "21:46",
-            "tag": "MERCADO",
-            "text": "Arista Networks (NYSE:ANET) Trading Down 2.3% - Should You Sell?"
-        },
-        {
-            "time": "21:45",
-            "tag": "MERCADO",
-            "text": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter"
-        },
-        {
-            "time": "21:43",
+            "time": "00:26",
             "tag": "AI",
-            "text": "Trimble\u2019s New AI Agent Takes Aim at Fleet Back-Office Busywork"
+            "text": "Vistra (VST) Is Not Just a Power Producer, But an AI Infrastructure Bet"
+        },
+        {
+            "time": "00:09",
+            "tag": "MERCADO",
+            "text": "Jim Cramer Reviews NVIDIA (NVDA) and Data Center Demand"
+        },
+        {
+            "time": "00:06",
+            "tag": "MERCADO",
+            "text": "T-Mobile Activates T-Satellite Ahead of Tropical Storm Lala | TMUS Stock News"
+        },
+        {
+            "time": "23:10",
+            "tag": "MERCADO",
+            "text": "Agora Q3 Results: Revenue guided at $41 million to $42 million"
+        },
+        {
+            "time": "23:09",
+            "tag": "MERCADO",
+            "text": "Insider Selling: Arista Networks (NYSE:ANET) CEO Sells 573,509 Shares"
         }
     ]
 }
