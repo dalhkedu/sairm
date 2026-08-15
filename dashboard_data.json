@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-15 10:24 UTC",
+        "last_updated": "2026-08-15 11:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 225.16,
-            "change": "-2.14%"
+            "price": NaN,
+            "change": "-1.58%"
         },
         {
             "symbol": "AMD",
-            "price": 514.39,
-            "change": "-0.59%"
+            "price": NaN,
+            "change": "-2.62%"
         },
         {
             "symbol": "MSFT",
             "price": 495.4,
-            "change": "-3.24%"
+            "change": "-0.19%"
         },
         {
             "symbol": "CEG",
             "price": 282.5,
-            "change": "+0.42%"
+            "change": "-1.72%"
         },
         {
             "symbol": "VST",
             "price": 148.13,
-            "change": "-0.07%"
+            "change": "-3.28%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
-        "rci_current": 0.23,
+        "cer_current": 0.63,
+        "rci_current": NaN,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.53,
+            0.54,
+            0.53,
+            0.53,
+            0.53,
+            0.54,
+            0.53,
             0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
             0.51,
             0.5,
-            0.5
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            26.43,
-            26.51,
-            27.03,
-            26.79,
-            26.95,
-            26.45,
-            26.04,
-            26.47,
-            26.37,
-            25.97,
+            25.21,
+            25.1,
+            24.92,
+            25.28,
+            25.41,
+            25.46,
             25.58,
-            25.49
+            25.13,
+            25.48,
+            25.95,
+            25.86,
+            25.42
         ],
         "hsd_history_software": [
-            10.67,
-            10.61,
-            10.48,
-            10.34,
-            10.36,
-            10.16,
-            10.21,
-            10.4,
             10.35,
-            10.34,
-            10.31,
-            10.11
+            10.25,
+            10.36,
+            10.17,
+            10.16,
+            10.01,
+            10.05,
+            10.21,
+            10.05,
+            9.93,
+            9.97,
+            9.88
         ],
         "rci_data": [
             85.0,
-            22.516
+            NaN
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:35",
+            "time": "10:42",
             "tag": "MERCADO",
-            "text": "Why Veralto (VLTO) Is Back In The Spotlight"
+            "text": "Laser Photonics Reports Second Quarter 2026 Financial Results"
         },
         {
-            "time": "09:34",
+            "time": "10:34",
             "tag": "MERCADO",
-            "text": "Independent Financial Group LLC Raises Holdings in Lam Research Corporation $LRCX"
+            "text": "Sciencast Management LP Has $1.97 Million Stake in Verizon Communications Inc. $VZ"
         },
         {
-            "time": "09:34",
+            "time": "10:28",
             "tag": "MERCADO",
-            "text": "QRG Capital Management Inc. Buys 23,009 Shares of Qualcomm Incorporated $QCOM"
+            "text": "Jennison Associates LLC Has $47.44 Million Stock Position in Axon Enterprise, Inc $AXON"
         },
         {
-            "time": "09:34",
+            "time": "10:28",
             "tag": "MERCADO",
-            "text": "QRG Capital Management Inc. Buys 10,627 Shares of International Business Machines Corporation $IBM"
+            "text": "Analog Devices (ADI) Sees Growth Projections Climb, Is The Valuation Too Pricey?"
         },
         {
-            "time": "09:34",
+            "time": "10:08",
             "tag": "MERCADO",
-            "text": "Tectonic Advisors LLC Increases Holdings in International Business Machines Corporation $IBM"
+            "text": "Trust Point Inc. Purchases 3,001 Shares of Alphabet Inc. $GOOGL"
         }
     ]
 }
