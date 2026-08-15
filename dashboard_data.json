@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-15 07:32 UTC",
+        "last_updated": "2026-08-15 08:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.16,
-            "change": "-3.12%"
+            "change": "+0.15%"
         },
         {
             "symbol": "AMD",
             "price": 514.39,
-            "change": "+1.76%"
+            "change": "-2.2%"
         },
         {
             "symbol": "MSFT",
             "price": 495.4,
-            "change": "-0.31%"
+            "change": "-1.19%"
         },
         {
             "symbol": "CEG",
             "price": 282.5,
-            "change": "-0.08%"
+            "change": "-2.64%"
         },
         {
             "symbol": "VST",
             "price": 148.13,
-            "change": "-0.13%"
+            "change": "+2.35%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.7,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
-            0.5,
-            0.5,
+            0.49,
+            0.49,
             0.49,
             0.48,
+            0.48,
+            0.49,
             0.49,
             0.5,
             0.5,
             0.5,
-            0.51,
-            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.22,
-            24.88,
-            25.03,
-            24.79,
-            25.1,
-            24.7,
-            24.52,
+            25.08,
+            25.04,
+            24.77,
+            24.56,
+            24.33,
+            23.91,
+            24.35,
+            24.8,
+            24.56,
             24.21,
-            24.43,
-            24.88,
-            24.85,
-            24.83
+            24.54,
+            24.9
         ],
         "hsd_history_software": [
-            10.07,
-            9.95,
-            10.07,
-            9.93,
-            9.93,
-            10.07,
-            9.95,
+            10.0,
+            10.1,
+            9.92,
+            9.79,
             9.86,
-            9.82,
-            9.83,
-            9.82,
-            9.96
+            9.67,
+            9.78,
+            9.87,
+            9.99,
+            10.18,
+            10.08,
+            9.92
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:57",
+            "time": "08:06",
             "tag": "MERCADO",
-            "text": "Cisco Systems, Inc. (NASDAQ:CSCO) Receives Average Recommendation of \"Moderate Buy\" from Analysts"
+            "text": "Citizens National Bank Trust Department Purchases 5,644 Shares of Booking Holdings Inc. $BKNG"
         },
         {
-            "time": "06:46",
+            "time": "08:06",
             "tag": "MERCADO",
-            "text": "Motorola Solutions, Inc. (NYSE:MSI) Receives Average Rating of \"Buy\" from Analysts"
+            "text": "Aberdeen Group plc Reduces Stock Position in Autodesk, Inc. $ADSK"
         },
         {
-            "time": "06:30",
+            "time": "08:06",
             "tag": "MERCADO",
-            "text": "Microchip Technology (MCHP) Is Down 6.5% After Raising Guidance And Unveiling New Data\u2011Center Chips"
+            "text": "Empowered Funds LLC Boosts Stake in Autodesk, Inc. $ADSK"
         },
         {
-            "time": "06:20",
+            "time": "08:03",
             "tag": "MERCADO",
-            "text": "Cisco Systems (NASDAQ:CSCO) Upgraded at Wall Street Zen"
+            "text": "Empery Asset Management acquires $4.07m in Empery Digital stock"
         },
         {
-            "time": "06:13",
+            "time": "08:01",
             "tag": "MERCADO",
-            "text": "How Donnelley Financial\u2019s Shift Toward Subscription Software Could Impact Donnelley Financial Solutions (DFIN) Investors"
+            "text": "4,363 Shares in Salesforce Inc. $CRM Purchased by BIP Wealth LLC"
         }
     ]
 }
