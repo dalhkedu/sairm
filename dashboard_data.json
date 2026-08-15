@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-15 16:27 UTC",
+        "last_updated": "2026-08-15 17:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.16,
-            "change": "-2.44%"
+            "change": "-0.7%"
         },
         {
             "symbol": "AMD",
-            "price": 514.39,
-            "change": "+1.52%"
+            "price": NaN,
+            "change": "+1.08%"
         },
         {
             "symbol": "MSFT",
             "price": 495.4,
-            "change": "-2.93%"
+            "change": "-0.38%"
         },
         {
             "symbol": "CEG",
             "price": 282.5,
-            "change": "+1.46%"
+            "change": "-1.86%"
         },
         {
             "symbol": "VST",
             "price": 148.13,
-            "change": "-0.24%"
+            "change": "+1.64%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.66,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.53,
-            0.52,
-            0.53,
-            0.52,
+            0.5,
             0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.5
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            27.27,
-            27.21,
-            27.15,
-            27.01,
-            27.12,
-            26.69,
-            26.22,
-            26.11,
-            25.71,
-            25.76,
-            25.55,
-            25.22
+            24.18,
+            23.81,
+            23.8,
+            24.02,
+            23.88,
+            24.04,
+            24.46,
+            24.64,
+            24.46,
+            24.85,
+            24.55,
+            24.78
         ],
         "hsd_history_software": [
-            10.64,
-            10.55,
-            10.45,
-            10.55,
+            10.08,
+            10.2,
+            10.23,
             10.35,
-            10.18,
-            10.22,
+            10.33,
+            10.16,
+            10.21,
+            10.07,
+            10.01,
+            10.16,
             10.02,
-            10.12,
-            9.94,
-            9.8,
-            9.99
+            10.2
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:49",
+            "time": "16:31",
             "tag": "MERCADO",
-            "text": "Intuit Stock Is Up 7,369% Since Its 1993 IPO and It\u2019s Down 45% This Year. Here\u2019s the Fuller Picture."
+            "text": "Does Quantum\u2011Enabled Cancer Drug Discovery Shift the Bull Case For Xanadu Quantum Technologies (TSX:XNDU)?"
         },
         {
-            "time": "14:07",
+            "time": "16:27",
+            "tag": "MERCADO",
+            "text": "Apple gets U.S. warning not to buy Chinese memory chips (AAPL)"
+        },
+        {
+            "time": "16:21",
+            "tag": "MERCADO",
+            "text": "Seagate Has Soared More Than 500% in a Year. Is It Too Late to Buy?"
+        },
+        {
+            "time": "16:20",
+            "tag": "MERCADO",
+            "text": "KLA Corp (KLAC) EVP Brian Lorig Sells 59,586 Shares"
+        },
+        {
+            "time": "16:20",
             "tag": "RESULTADOS",
-            "text": "STX Soars As Seagate Earnings Beat Fuels Aggressive Targets"
-        },
-        {
-            "time": "13:40",
-            "tag": "MERCADO",
-            "text": "Cardano Prepares Major Node Changes as Dijkstra Era Takes Shape"
-        },
-        {
-            "time": "13:38",
-            "tag": "MERCADO",
-            "text": "Meta ordered to pay $567M to address harm to New Mexico children"
-        },
-        {
-            "time": "12:38",
-            "tag": "MERCADO",
-            "text": "Morgan Stanley flags four catalysts for SpaceX stock through year-end"
+            "text": "Full Transcript: X-Energy Q2 2026 Earnings Call"
         }
     ]
 }
