@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-15 05:26 UTC",
+        "last_updated": "2026-08-15 06:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.16,
-            "change": "+1.29%"
+            "change": "-3.47%"
         },
         {
             "symbol": "AMD",
             "price": 514.39,
-            "change": "-3.24%"
+            "change": "-1.37%"
         },
         {
             "symbol": "MSFT",
             "price": 495.4,
-            "change": "-2.14%"
+            "change": "-1.3%"
         },
         {
             "symbol": "CEG",
             "price": 282.5,
-            "change": "-3.2%"
+            "change": "+0.41%"
         },
         {
             "symbol": "VST",
             "price": 148.13,
-            "change": "+3.03%"
+            "change": "+0.87%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.51,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.51,
             0.51,
             0.5,
-            0.49,
             0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.51,
-            0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            24.94,
-            25.44,
-            25.08,
-            24.64,
-            24.79,
-            24.83,
-            24.76,
-            24.38,
-            24.57,
-            24.92,
-            24.83,
-            24.6
+            23.9,
+            23.92,
+            24.15,
+            23.91,
+            23.75,
+            24.14,
+            24.39,
+            24.31,
+            24.1,
+            24.21,
+            24.7,
+            24.72
         ],
         "hsd_history_software": [
-            10.11,
-            10.22,
-            10.27,
-            10.36,
-            10.39,
-            10.23,
-            10.18,
-            10.14,
-            10.16,
-            10.32,
-            10.24,
-            10.2
+            9.9,
+            10.01,
+            9.87,
+            9.89,
+            9.7,
+            9.52,
+            9.62,
+            9.53,
+            9.7,
+            9.67,
+            9.85,
+            9.95
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:43",
+            "time": "05:44",
+            "tag": "MERCADO",
+            "text": "Wall Street Zen Downgrades Intuitive Surgical (NASDAQ:ISRG) to Hold"
+        },
+        {
+            "time": "05:29",
             "tag": "AI",
-            "text": "reAlpha Tech Corp. (AIRE) grows transaction volume but burns cash in Q2 2026"
+            "text": "Does KLA's Dividend And AI Optimism Hint At A Shifting Risk Profile For KLAC Investors?"
         },
         {
-            "time": "04:41",
-            "tag": "AI",
-            "text": "Nicholas Hawkins Sells 10,431 Shares of Arteris (NASDAQ:AIP) Stock"
-        },
-        {
-            "time": "04:40",
+            "time": "05:13",
             "tag": "MERCADO",
-            "text": "Is Wix.com Ltd (WIX) a Bargain After 7.6% Drop? GF Value Says Un"
+            "text": "(APRJ) Movement as an Input in Quant Signal Sets"
         },
         {
-            "time": "04:20",
+            "time": "05:10",
             "tag": "MERCADO",
-            "text": "QUALCOMM Incorporated Stock 12\u2011Month Price Target Cut to $201, Implies 21% Upside"
+            "text": "ASML (NASDAQ:ASML) Lowered to \"Hold\" Rating by Wall Street Zen"
         },
         {
-            "time": "04:11",
+            "time": "05:10",
             "tag": "MERCADO",
-            "text": "UAVS: Q2 2026 revenue nearly doubled sequentially, led by drone and sensor growth and strategic repositioning"
+            "text": "Anterix (NASDAQ:ATEX) Cut to \"Sell\" at Wall Street Zen"
         }
     ]
 }
