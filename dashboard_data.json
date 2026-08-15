@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-08-15 09:27 UTC",
+        "last_updated": "2026-08-15 10:24 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.16,
-            "change": "+2.26%"
+            "change": "-2.14%"
         },
         {
             "symbol": "AMD",
             "price": 514.39,
-            "change": "-1.07%"
+            "change": "-0.59%"
         },
         {
             "symbol": "MSFT",
             "price": 495.4,
-            "change": "+3.2%"
+            "change": "-3.24%"
         },
         {
             "symbol": "CEG",
             "price": 282.5,
-            "change": "+0.69%"
+            "change": "+0.42%"
         },
         {
             "symbol": "VST",
             "price": 148.13,
-            "change": "+1.88%"
+            "change": "-0.07%"
         }
     ],
     "dashboard_metrics": {
@@ -36,46 +36,46 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
             0.51,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            25.59,
-            25.47,
-            25.16,
-            25.56,
-            25.16,
-            25.52,
-            25.37,
-            25.02,
-            24.81,
-            25.28,
-            25.19,
-            25.02
+            26.43,
+            26.51,
+            27.03,
+            26.79,
+            26.95,
+            26.45,
+            26.04,
+            26.47,
+            26.37,
+            25.97,
+            25.58,
+            25.49
         ],
         "hsd_history_software": [
-            10.06,
-            10.04,
-            10.05,
-            9.9,
-            9.92,
-            10.12,
-            9.95,
-            10.05,
+            10.67,
+            10.61,
+            10.48,
+            10.34,
+            10.36,
             10.16,
-            10.01,
-            9.97,
-            9.93
+            10.21,
+            10.4,
+            10.35,
+            10.34,
+            10.31,
+            10.11
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:36",
+            "time": "09:35",
             "tag": "MERCADO",
-            "text": "Hardy Reed LLC Invests $2.29 Million in BlackRock $BLK"
+            "text": "Why Veralto (VLTO) Is Back In The Spotlight"
         },
         {
-            "time": "08:26",
+            "time": "09:34",
             "tag": "MERCADO",
-            "text": "Dockside LLC Makes New $3.77 Million Investment in Take-Two Interactive Software, Inc. $TTWO"
+            "text": "Independent Financial Group LLC Raises Holdings in Lam Research Corporation $LRCX"
         },
         {
-            "time": "08:22",
+            "time": "09:34",
             "tag": "MERCADO",
-            "text": "Can Enphase Energy (ENPH) Hold Its Premium After Manufacturing Push?"
+            "text": "QRG Capital Management Inc. Buys 23,009 Shares of Qualcomm Incorporated $QCOM"
         },
         {
-            "time": "08:15",
+            "time": "09:34",
             "tag": "MERCADO",
-            "text": "Erste Asset Management GmbH Reduces Holdings in Verizon Communications Inc. $VZ"
+            "text": "QRG Capital Management Inc. Buys 10,627 Shares of International Business Machines Corporation $IBM"
         },
         {
-            "time": "08:10",
+            "time": "09:34",
             "tag": "MERCADO",
-            "text": "Amazon.com, Inc. $AMZN Holdings Boosted by Hamilton Wealth LLC"
+            "text": "Tectonic Advisors LLC Increases Holdings in International Business Machines Corporation $IBM"
         }
     ]
 }
