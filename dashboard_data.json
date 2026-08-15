@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-15 06:41 UTC",
+        "last_updated": "2026-08-15 07:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.16,
-            "change": "-3.47%"
+            "change": "-3.12%"
         },
         {
             "symbol": "AMD",
             "price": 514.39,
-            "change": "-1.37%"
+            "change": "+1.76%"
         },
         {
             "symbol": "MSFT",
             "price": 495.4,
-            "change": "-1.3%"
+            "change": "-0.31%"
         },
         {
             "symbol": "CEG",
             "price": 282.5,
-            "change": "+0.41%"
+            "change": "-0.08%"
         },
         {
             "symbol": "VST",
             "price": 148.13,
-            "change": "+0.87%"
+            "change": "-0.13%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.62,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.5,
+            0.49,
+            0.48,
+            0.49,
             0.5,
             0.5,
+            0.5,
+            0.51,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            23.9,
-            23.92,
-            24.15,
-            23.91,
-            23.75,
-            24.14,
-            24.39,
-            24.31,
-            24.1,
-            24.21,
+            25.22,
+            24.88,
+            25.03,
+            24.79,
+            25.1,
             24.7,
-            24.72
+            24.52,
+            24.21,
+            24.43,
+            24.88,
+            24.85,
+            24.83
         ],
         "hsd_history_software": [
-            9.9,
-            10.01,
-            9.87,
-            9.89,
-            9.7,
-            9.52,
-            9.62,
-            9.53,
-            9.7,
-            9.67,
-            9.85,
-            9.95
+            10.07,
+            9.95,
+            10.07,
+            9.93,
+            9.93,
+            10.07,
+            9.95,
+            9.86,
+            9.82,
+            9.83,
+            9.82,
+            9.96
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:44",
+            "time": "06:57",
             "tag": "MERCADO",
-            "text": "Wall Street Zen Downgrades Intuitive Surgical (NASDAQ:ISRG) to Hold"
+            "text": "Cisco Systems, Inc. (NASDAQ:CSCO) Receives Average Recommendation of \"Moderate Buy\" from Analysts"
         },
         {
-            "time": "05:29",
-            "tag": "AI",
-            "text": "Does KLA's Dividend And AI Optimism Hint At A Shifting Risk Profile For KLAC Investors?"
+            "time": "06:46",
+            "tag": "MERCADO",
+            "text": "Motorola Solutions, Inc. (NYSE:MSI) Receives Average Rating of \"Buy\" from Analysts"
         },
         {
-            "time": "05:13",
+            "time": "06:30",
             "tag": "MERCADO",
-            "text": "(APRJ) Movement as an Input in Quant Signal Sets"
+            "text": "Microchip Technology (MCHP) Is Down 6.5% After Raising Guidance And Unveiling New Data\u2011Center Chips"
         },
         {
-            "time": "05:10",
+            "time": "06:20",
             "tag": "MERCADO",
-            "text": "ASML (NASDAQ:ASML) Lowered to \"Hold\" Rating by Wall Street Zen"
+            "text": "Cisco Systems (NASDAQ:CSCO) Upgraded at Wall Street Zen"
         },
         {
-            "time": "05:10",
+            "time": "06:13",
             "tag": "MERCADO",
-            "text": "Anterix (NASDAQ:ATEX) Cut to \"Sell\" at Wall Street Zen"
+            "text": "How Donnelley Financial\u2019s Shift Toward Subscription Software Could Impact Donnelley Financial Solutions (DFIN) Investors"
         }
     ]
 }
