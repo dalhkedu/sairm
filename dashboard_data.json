@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-15 14:25 UTC",
+        "last_updated": "2026-08-15 15:23 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.16,
-            "change": "+3.38%"
+            "change": "-0.71%"
         },
         {
             "symbol": "AMD",
             "price": 514.39,
-            "change": "+3.11%"
+            "change": "-0.16%"
         },
         {
             "symbol": "MSFT",
             "price": 495.4,
-            "change": "+0.01%"
+            "change": "-2.82%"
         },
         {
             "symbol": "CEG",
             "price": 282.5,
-            "change": "+2.83%"
+            "change": "+2.32%"
         },
         {
             "symbol": "VST",
             "price": 148.13,
-            "change": "-2.85%"
+            "change": "-0.29%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.67,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.5,
-            0.5
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            27.29,
-            26.93,
-            26.68,
-            27.11,
-            27.22,
-            26.81,
-            26.8,
-            26.51,
-            26.36,
-            25.91,
-            25.73,
-            25.24
+            24.97,
+            24.7,
+            24.96,
+            24.99,
+            24.78,
+            25.25,
+            25.37,
+            25.06,
+            24.72,
+            25.13,
+            25.02,
+            25.35
         ],
         "hsd_history_software": [
-            9.57,
-            9.41,
-            9.56,
-            9.74,
-            9.9,
-            9.74,
-            9.86,
+            10.1,
             10.05,
-            9.99,
-            10.06,
-            10.09,
-            9.98
+            10.21,
+            10.17,
+            10.12,
+            9.98,
+            10.14,
+            10.29,
+            10.42,
+            10.27,
+            10.2,
+            10.02
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "14:07",
+            "tag": "RESULTADOS",
+            "text": "STX Soars As Seagate Earnings Beat Fuels Aggressive Targets"
+        },
+        {
+            "time": "13:40",
+            "tag": "MERCADO",
+            "text": "Cardano Prepares Major Node Changes as Dijkstra Era Takes Shape"
+        },
+        {
+            "time": "12:38",
+            "tag": "RESULTADOS",
+            "text": "Earnings Volatility Watch: Wolfspeed and 9 Other Stocks Could Swing Up to 17% this Week"
+        },
+        {
             "time": "12:35",
             "tag": "MERCADO",
             "text": "Pegasystems Inc. (NASDAQ:PEGA) to Issue $0.08 Special Dividend"
@@ -134,21 +149,6 @@
             "time": "12:12",
             "tag": "MERCADO",
             "text": "Benzinga Bulls and Bears: Riot Platforms, Firefly, Virgin Galactic"
-        },
-        {
-            "time": "12:00",
-            "tag": "MERCADO",
-            "text": "Nvidia's neocloud funding structure might unlock significant revenue stream: Morgan Stanley"
-        },
-        {
-            "time": "11:40",
-            "tag": "MERCADO",
-            "text": "21,494 Shares in Rogers Corporation $ROG Acquired by Walleye Capital LLC"
-        },
-        {
-            "time": "11:40",
-            "tag": "AI",
-            "text": "Eightco Holdings (NASDAQ: ORBS) Reports $336M Treasury: OpenAI, WLD, ETH and Cash Holdings"
         }
     ]
 }
