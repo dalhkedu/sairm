@@ -1,23 +1,23 @@
 {
     "metadata": {
-        "last_updated": "2026-08-16 05:30 UTC",
+        "last_updated": "2026-08-16 06:42 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.16,
-            "change": "+1.16%"
+            "change": "+3.24%"
         },
         {
             "symbol": "AMD",
             "price": 514.39,
-            "change": "+2.55%"
+            "change": "-2.04%"
         },
         {
             "symbol": "MSFT",
             "price": 495.4,
-            "change": "+1.17%"
+            "change": "-1.1%"
         },
         {
             "symbol": "CEG",
@@ -27,55 +27,55 @@
         {
             "symbol": "VST",
             "price": 148.13,
-            "change": "-2.85%"
+            "change": "+2.92%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.48,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.52,
-            0.52,
-            0.52,
+            0.49,
+            0.49,
+            0.5,
             0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            23.25,
-            23.13,
-            23.41,
-            23.29,
-            23.4,
-            23.63,
-            23.99,
-            23.97,
-            24.15,
-            23.74,
-            24.22,
-            24.6
+            25.78,
+            25.39,
+            25.78,
+            26.04,
+            25.64,
+            25.7,
+            25.4,
+            25.25,
+            25.02,
+            25.1,
+            25.51,
+            25.08
         ],
         "hsd_history_software": [
-            10.35,
-            10.27,
-            10.37,
-            10.2,
-            10.24,
-            10.26,
-            10.11,
-            10.02,
-            9.89,
+            9.85,
+            9.91,
+            9.87,
+            9.77,
+            9.9,
+            9.98,
+            9.85,
+            9.77,
+            9.74,
+            9.9,
             10.08,
-            10.19,
-            10.08
+            10.14
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "03:09",
+            "time": "06:01",
             "tag": "MERCADO",
-            "text": "Tyler Technologies Inc Investor Day Transcript"
+            "text": "Michele Fink Appointed VP, Talent Management at Corning Incorporated"
         },
         {
-            "time": "02:41",
+            "time": "05:34",
             "tag": "MERCADO",
-            "text": "Q2 holdings chief people officer Rutledge sells $630,700 in shares"
+            "text": "Strategy (NASDAQ:MSTR) Upgraded at Wall Street Zen"
         },
         {
-            "time": "02:11",
+            "time": "05:16",
             "tag": "MERCADO",
-            "text": "Is Pegasystems (PEGA) Fairly Valued After Its FedRAMP Expansion?"
+            "text": "Western Digital (NASDAQ:WDC) Cut to Buy at Wall Street Zen"
         },
         {
-            "time": "02:00",
+            "time": "05:16",
             "tag": "MERCADO",
-            "text": "(PSDM) Movement as an Input in Quant Signal Sets"
+            "text": "Corning (NYSE:GLW) Rating Lowered to Buy at Wall Street Zen"
         },
         {
-            "time": "01:00",
+            "time": "05:11",
             "tag": "MERCADO",
-            "text": "Marvell Technology (MRVL) On Nvidia\u2019s $2b Backing And Why Fair Value Still Looks Debatable"
+            "text": "SpaceX IPO ends NASA ETF's unique edge; fund now offers broad space sector exposure with mixed returns."
         }
     ]
 }
