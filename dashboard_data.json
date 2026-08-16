@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-16 07:32 UTC",
+        "last_updated": "2026-08-16 08:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.16,
-            "change": "-2.47%"
+            "change": "+1.32%"
         },
         {
             "symbol": "AMD",
             "price": 514.39,
-            "change": "-1.59%"
+            "change": "+0.14%"
         },
         {
             "symbol": "MSFT",
             "price": 495.4,
-            "change": "+1.78%"
+            "change": "+3.23%"
         },
         {
             "symbol": "CEG",
             "price": 282.5,
-            "change": "-3.18%"
+            "change": "+2.44%"
         },
         {
             "symbol": "VST",
             "price": 148.13,
-            "change": "+0.89%"
+            "change": "-3.44%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.54,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.5,
+            0.51,
+            0.51,
             0.5,
             0.5,
             0.49,
-            0.5,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.5,
-            0.51,
-            0.51
+            0.49
         ],
         "hsd_history_hardware": [
+            23.98,
+            24.32,
+            23.89,
+            23.95,
+            24.3,
+            24.53,
+            24.35,
+            24.33,
+            24.46,
             24.38,
-            24.78,
-            24.44,
-            23.99,
-            23.55,
-            23.39,
-            23.46,
-            23.91,
-            24.09,
-            24.51,
-            24.98,
-            25.17
+            24.76,
+            24.69
         ],
         "hsd_history_software": [
-            9.37,
-            9.43,
-            9.37,
-            9.39,
-            9.46,
-            9.54,
-            9.68,
-            9.82,
-            9.87,
-            10.0,
-            9.88,
-            9.81
+            9.99,
+            9.95,
+            10.04,
+            9.99,
+            10.09,
+            10.19,
+            10.17,
+            10.27,
+            10.16,
+            10.06,
+            10.13,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:10",
-            "tag": "RESULTADOS",
-            "text": "The Bull Case For Analog Devices (ADI) Could Change Following Lofty Earnings Projections In Key End Markets"
+            "time": "08:03",
+            "tag": "MERCADO",
+            "text": "Qualcomm Incorporated $QCOM Shares Sold by Cannon Advisors Inc."
         },
         {
-            "time": "06:38",
+            "time": "08:00",
             "tag": "MERCADO",
-            "text": "Jabil, Inc. (NYSE:JBL) Receives Consensus Rating of \"Buy\" from Brokerages"
+            "text": "Week in review: Salesforce and ServiceNow portals exposed for 17 months, exploited Metabase 0-day"
         },
         {
-            "time": "06:31",
+            "time": "07:59",
             "tag": "MERCADO",
-            "text": "Taboola.com\u2019s Return To Profitability And 2026 Outlook Could Be A Game Changer For TBLA"
+            "text": "Empowered Funds LLC Grows Holdings in Fair Isaac Corporation $FICO"
         },
         {
-            "time": "06:23",
+            "time": "07:47",
             "tag": "MERCADO",
-            "text": "Netflix director Richard Barton sells $162,216 in stock"
+            "text": "Handelsbanken Fonder AB Has $4.16 Million Position in Gen Digital Inc. $GEN"
         },
         {
-            "time": "06:01",
+            "time": "07:47",
             "tag": "MERCADO",
-            "text": "Michele Fink Appointed VP, Talent Management at Corning Incorporated"
+            "text": "ABN AMRO Bank N.V. Makes New $3.70 Million Investment in Adobe Inc. $ADBE"
         }
     ]
 }
