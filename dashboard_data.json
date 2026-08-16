@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-16 13:32 UTC",
+        "last_updated": "2026-08-16 14:24 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.16,
-            "change": "-1.55%"
+            "change": "-0.88%"
         },
         {
             "symbol": "AMD",
             "price": 514.39,
-            "change": "-0.51%"
+            "change": "+3.2%"
         },
         {
             "symbol": "MSFT",
             "price": 495.4,
-            "change": "-0.43%"
+            "change": "-3.29%"
         },
         {
             "symbol": "CEG",
             "price": 282.5,
-            "change": "+1.58%"
+            "change": "-0.76%"
         },
         {
             "symbol": "VST",
             "price": 148.13,
-            "change": "-3.16%"
+            "change": "+2.41%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.69,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.46,
-            0.47,
-            0.47,
-            0.48,
-            0.47,
-            0.48,
-            0.48,
             0.49,
-            0.48,
             0.49,
-            0.49
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.46,
-            25.76,
-            25.44,
-            25.07,
-            25.29,
-            25.32,
-            25.42,
-            25.17,
-            24.91,
-            24.97,
-            25.42,
-            25.4
+            26.9,
+            26.44,
+            26.1,
+            25.68,
+            25.51,
+            25.77,
+            25.7,
+            25.22,
+            25.04,
+            24.71,
+            24.79,
+            25.04
         ],
         "hsd_history_software": [
-            10.0,
-            10.13,
-            10.15,
+            10.23,
             10.09,
-            10.09,
-            9.92,
-            9.78,
-            9.79,
-            9.98,
-            9.86,
-            9.89,
-            10.08
+            10.24,
+            10.29,
+            10.18,
+            10.21,
+            10.36,
+            10.26,
+            10.19,
+            10.01,
+            10.1,
+            10.09
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "13:26",
+            "tag": "MERCADO",
+            "text": "Is Equinix\u2019s (EQIX) Latest Debt Raise Reshaping Its Long\u2011Term Digital Infrastructure Play?"
+        },
+        {
+            "time": "12:38",
+            "tag": "AI",
+            "text": "IBM - Why I See IBM as a Long-Term Enterprise AI and Hybrid Cloud Play"
+        },
+        {
             "time": "12:32",
             "tag": "AI",
             "text": "Is Salesforce (CRM) Cheap On JPMorgan's AI Optimism?"
@@ -139,16 +149,6 @@
             "time": "11:47",
             "tag": "MERCADO",
             "text": "Private Advisory Group LLC Takes $2.05 Million Position in Keysight Technologies Inc. $KEYS"
-        },
-        {
-            "time": "11:44",
-            "tag": "MERCADO",
-            "text": "S&CO Inc. Acquires New Holdings in Intuitive Surgical, Inc. $ISRG"
-        },
-        {
-            "time": "11:39",
-            "tag": "MERCADO",
-            "text": "Fiverr, Procter & Gamble, Martin Marietta: 52-Week Low Stocks Analysis - News and Statistics"
         }
     ]
 }
