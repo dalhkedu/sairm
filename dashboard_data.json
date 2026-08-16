@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-15 23:22 UTC",
+        "last_updated": "2026-08-16 01:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.16,
-            "change": "+2.47%"
+            "change": "-2.91%"
         },
         {
             "symbol": "AMD",
             "price": 514.39,
-            "change": "+3.01%"
+            "change": "-1.71%"
         },
         {
             "symbol": "MSFT",
-            "price": 495.4,
-            "change": "-1.12%"
+            "price": NaN,
+            "change": "+0.69%"
         },
         {
             "symbol": "CEG",
             "price": 282.5,
-            "change": "+2.03%"
+            "change": "-2.54%"
         },
         {
             "symbol": "VST",
             "price": 148.13,
-            "change": "-1.1%"
+            "change": "+1.64%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.48,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
             0.5,
+            0.51,
             0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            25.04,
-            25.13,
-            25.48,
-            25.13,
-            24.95,
-            24.52,
-            25.0,
-            25.47,
-            25.33,
-            25.07,
-            25.56,
-            25.39
+            23.3,
+            22.93,
+            23.14,
+            23.58,
+            23.92,
+            24.27,
+            24.28,
+            24.53,
+            24.22,
+            24.6,
+            25.08,
+            25.43
         ],
         "hsd_history_software": [
-            10.17,
-            10.35,
-            10.25,
-            10.08,
-            10.02,
-            9.92,
-            9.78,
-            9.68,
-            9.71,
-            9.88,
-            9.84,
-            9.81
+            9.37,
+            9.49,
+            9.42,
+            9.54,
+            9.62,
+            9.56,
+            9.62,
+            9.79,
+            9.6,
+            9.6,
+            9.76,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:40",
-            "tag": "RESULTADOS",
-            "text": "PLDT Q2 2026 Earnings Call Transcript"
-        },
-        {
-            "time": "21:07",
-            "tag": "AI",
-            "text": "AMD, Intel and NVIDIA All Rally as Super Micro\u2019s Blowout Numbers Reignite the AI Trade"
-        },
-        {
-            "time": "20:41",
-            "tag": "AI",
-            "text": "ServiceNow (NOW) AI Push Is Reviving The Infrastructure Narrative Around Valuation"
-        },
-        {
-            "time": "20:41",
+            "time": "00:41",
             "tag": "MERCADO",
-            "text": "Vulcan Infrastructure and Power (VIP) widens Q2 loss but targets sharp net debt cut"
+            "text": "(LPA) Volatility Zones as Tactical Triggers"
         },
         {
-            "time": "20:08",
+            "time": "00:02",
+            "tag": "AI",
+            "text": "NXP Semiconductors Sees Demand Rebound as Auto, AI and Data Center Growth Accelerate"
+        },
+        {
+            "time": "23:42",
+            "tag": "AI",
+            "text": "The Bull Case For Alibaba Group Holding (BABA) Could Change Following Deepening Apple Qwen AI Integration - Learn Why"
+        },
+        {
+            "time": "23:37",
             "tag": "MERCADO",
-            "text": "Lip-Bu Tan Investing $12 Million of His Own Money into Intel Raise: Daniel Newman Calls It a \u2018Strong Sign of Confidence\u2019 in Chipmaker\u2019s Future"
+            "text": "Arista Networks CEO Jayshree Ullal sells $119.3m in shares"
+        },
+        {
+            "time": "23:17",
+            "tag": "MERCADO",
+            "text": "Zebra Technologies CSO Michael Cho sells $1.31m in stock By Investing.com"
         }
     ]
 }
