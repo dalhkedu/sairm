@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-16 14:24 UTC",
+        "last_updated": "2026-08-16 15:23 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.16,
-            "change": "-0.88%"
+            "change": "+3.38%"
         },
         {
             "symbol": "AMD",
             "price": 514.39,
-            "change": "+3.2%"
+            "change": "+2.64%"
         },
         {
             "symbol": "MSFT",
             "price": 495.4,
-            "change": "-3.29%"
+            "change": "-2.93%"
         },
         {
             "symbol": "CEG",
             "price": 282.5,
-            "change": "-0.76%"
+            "change": "+0.83%"
         },
         {
             "symbol": "VST",
             "price": 148.13,
-            "change": "+2.41%"
+            "change": "+2.6%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.63,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.46,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.47,
+            0.48,
             0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.5
+            0.48,
+            0.48,
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.9,
-            26.44,
-            26.1,
-            25.68,
-            25.51,
-            25.77,
+            25.26,
+            25.1,
+            25.21,
             25.7,
-            25.22,
-            25.04,
-            24.71,
-            24.79,
-            25.04
+            25.52,
+            25.5,
+            25.33,
+            25.6,
+            25.44,
+            25.47,
+            25.06,
+            25.19
         ],
         "hsd_history_software": [
-            10.23,
-            10.09,
-            10.24,
+            10.11,
+            10.15,
+            10.16,
             10.29,
-            10.18,
-            10.21,
-            10.36,
-            10.26,
             10.19,
-            10.01,
-            10.1,
-            10.09
+            10.21,
+            10.04,
+            10.09,
+            10.06,
+            10.16,
+            9.99,
+            10.14
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "14:06",
+            "tag": "MERCADO",
+            "text": "This Week in Tesla: Elon Musk's Financial Windfall, EV Sales Fall and More"
+        },
+        {
+            "time": "14:05",
+            "tag": "MERCADO",
+            "text": "MicroVision Stock Slides As Reverse Split And Dilution Rattle Traders"
+        },
+        {
+            "time": "13:51",
+            "tag": "MERCADO",
+            "text": "Jim Cramer Tells Caller to Average Down on Netflix (NFLX)"
+        },
+        {
+            "time": "13:50",
+            "tag": "MERCADO",
+            "text": "MVIS Looks 73.3% Undervalued on GF Value\u2122"
+        },
+        {
             "time": "13:26",
             "tag": "MERCADO",
             "text": "Is Equinix\u2019s (EQIX) Latest Debt Raise Reshaping Its Long\u2011Term Digital Infrastructure Play?"
-        },
-        {
-            "time": "12:38",
-            "tag": "AI",
-            "text": "IBM - Why I See IBM as a Long-Term Enterprise AI and Hybrid Cloud Play"
-        },
-        {
-            "time": "12:32",
-            "tag": "AI",
-            "text": "Is Salesforce (CRM) Cheap On JPMorgan's AI Optimism?"
-        },
-        {
-            "time": "12:17",
-            "tag": "MERCADO",
-            "text": "SCS Capital opens an $18M stake in Hewlett Packard Enterprise as stock nears a 52-week high"
-        },
-        {
-            "time": "11:47",
-            "tag": "MERCADO",
-            "text": "Private Advisory Group LLC Takes $2.05 Million Position in Keysight Technologies Inc. $KEYS"
         }
     ]
 }
