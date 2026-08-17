@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-17 21:27 UTC",
+        "last_updated": "2026-08-17 22:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.01,
-            "change": "-1.11%"
+            "change": "-1.4%"
         },
         {
             "symbol": "AMD",
             "price": 506.0,
-            "change": "-2.05%"
+            "change": "-0.62%"
         },
         {
             "symbol": "MSFT",
             "price": 480.35,
-            "change": "-0.31%"
+            "change": "-2.66%"
         },
         {
             "symbol": "CEG",
-            "price": NaN,
-            "change": "+0.06%"
+            "price": 278.2,
+            "change": "-1.89%"
         },
         {
             "symbol": "VST",
             "price": 146.11,
-            "change": "-1.1%"
+            "change": "+2.33%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.55,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
-            0.51,
             0.5,
             0.51,
+            0.5,
+            0.5,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.49
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.25,
-            24.47,
-            24.84,
-            25.3,
+            24.94,
+            24.63,
+            24.71,
+            25.02,
+            25.35,
+            25.6,
+            25.76,
             25.75,
-            25.4,
-            25.75,
-            25.39,
-            25.85,
-            25.5,
-            25.2,
-            24.82
+            25.47,
+            25.23,
+            25.61,
+            25.11
         ],
         "hsd_history_software": [
-            9.96,
-            9.98,
-            9.89,
-            9.76,
-            9.94,
-            9.87,
-            10.04,
-            10.18,
-            10.17,
+            9.8,
+            9.67,
+            9.81,
+            9.91,
+            10.03,
+            10.19,
             10.08,
-            9.94,
-            9.84
+            10.28,
+            10.22,
+            10.15,
+            10.05,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:34",
+            "time": "21:35",
             "tag": "MERCADO",
-            "text": "Do Surging Industrial And Communications Forecasts Redefine The Bull Case For Analog Devices (ADI)?"
+            "text": "Is ServiceNow Inc (NOW) a Bargain After 5.1% Drop? GF Value Says Undervalued"
         },
         {
-            "time": "20:30",
+            "time": "21:27",
             "tag": "MERCADO",
-            "text": "Cesar Cernuda Rego plans $533K NetApp (NASDAQ: NTAP) stock sale"
+            "text": "Cisco (NASDAQ: CSCO) sales EVP sells in 10b5-1 plan, keeps 165K shares"
         },
         {
-            "time": "20:30",
+            "time": "21:25",
             "tag": "MERCADO",
-            "text": "Datadog (NASDAQ: DDOG) director offloads 59K shares over two days"
+            "text": "Cisco (NASDAQ: CSCO) legal chief sells 6,487 shares under 10b5-1 plan"
         },
         {
-            "time": "20:15",
-            "tag": "AI",
-            "text": "Seagate Stock Gains as AI Storage Demand Fuels Record Cash Flow"
+            "time": "21:25",
+            "tag": "MERCADO",
+            "text": "Cisco (NASDAQ: CSCO) CFO sells 5,192 shares in planned trades"
         },
         {
-            "time": "20:14",
-            "tag": "MERCADO",
-            "text": "What set IQVIA apart after it scored 96.8 out of 100 among 50 providers?"
+            "time": "21:24",
+            "tag": "RESULTADOS",
+            "text": "Citigroup (C) Beats Earnings, But Is The Valuation Case Already Priced In?"
         }
     ]
 }
