@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-17 13:40 UTC",
+        "last_updated": "2026-08-17 14:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 225.64,
-            "change": "-0.87%"
+            "price": 226.69,
+            "change": "-0.16%"
         },
         {
             "symbol": "AMD",
-            "price": 510.39,
-            "change": "+1.61%"
+            "price": 511.89,
+            "change": "+2.37%"
         },
         {
             "symbol": "MSFT",
-            "price": 488.95,
-            "change": "-1.35%"
+            "price": 482.72,
+            "change": "+1.67%"
         },
         {
             "symbol": "CEG",
-            "price": 282.16,
-            "change": "-0.68%"
+            "price": 275.21,
+            "change": "-0.38%"
         },
         {
             "symbol": "VST",
-            "price": 148.05,
-            "change": "-3.0%"
+            "price": 146.12,
+            "change": "-0.66%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.43,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.52,
-            0.51,
             0.51,
             0.52,
             0.52,
+            0.51,
             0.52,
             0.52,
-            0.53,
+            0.51,
             0.52,
             0.52,
-            0.51
+            0.51,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.35,
-            24.76,
-            24.85,
-            24.99,
-            25.39,
+            25.91,
+            25.73,
+            25.51,
             25.05,
-            24.82,
-            24.9,
-            24.5,
-            24.89,
-            25.02,
-            24.62
+            25.17,
+            24.92,
+            24.53,
+            24.18,
+            24.63,
+            24.93,
+            24.51,
+            24.85
         ],
         "hsd_history_software": [
-            10.04,
+            9.86,
+            9.82,
             9.91,
-            9.79,
-            9.64,
-            9.67,
-            9.83,
+            9.72,
+            9.63,
+            9.75,
+            9.82,
+            9.66,
             9.73,
-            9.76,
-            9.92,
-            9.77,
-            9.83,
-            9.99
+            9.73,
+            9.82,
+            9.93
         ],
         "rci_data": [
             85.0,
-            22.563999999999997
+            22.669
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:07",
+            "time": "13:22",
             "tag": "AI",
-            "text": "More Than 50 Sandboxed Environments Test AI Agents\u2014Who Acquired the Company?"
+            "text": "UBS Reiterates Buy Rating on Tapestry Inc. (TPR), Says Market Is Missing Bigger Picture Around AI"
         },
         {
-            "time": "13:03",
+            "time": "13:17",
             "tag": "MERCADO",
-            "text": "Tyler Technologies stock steadies after Q2 2026 revenue miss"
+            "text": "Kroger Health President Colleen Lindholz to Keynote GLP-1 Shopper Summit"
         },
         {
-            "time": "13:01",
-            "tag": "MERCADO",
-            "text": "Texas Instruments debuts high-bandwidth CAN XL transceiver for next-gen robots"
-        },
-        {
-            "time": "13:00",
+            "time": "13:16",
             "tag": "AI",
-            "text": "Fortinet Advances Continuous AI Protection with the Acquisition of Virtue AI"
+            "text": "CRGO Stock Attracts Traders As Freightos Seals FreightSuite AI TMS Integration"
         },
         {
-            "time": "12:57",
+            "time": "13:15",
             "tag": "MERCADO",
-            "text": "Uber partners with Zipline for drone delivery expansion"
+            "text": "Uber, Zipline partner on US drone delivery for Uber Eats"
+        },
+        {
+            "time": "13:11",
+            "tag": "AI",
+            "text": "SentinelOne likely to have 'AI-driven EDR renaissance' in Q2, TD Cowen says (S:NYSE)"
         }
     ]
 }
