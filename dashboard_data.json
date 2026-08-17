@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-17 11:28 UTC",
+        "last_updated": "2026-08-17 12:48 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": NaN,
-            "change": "-2.69%"
+            "price": 225.16,
+            "change": "+2.49%"
         },
         {
             "symbol": "AMD",
             "price": 514.39,
-            "change": "-3.44%"
+            "change": "-3.03%"
         },
         {
             "symbol": "MSFT",
             "price": 495.4,
-            "change": "+0.98%"
+            "change": "-2.02%"
         },
         {
             "symbol": "CEG",
             "price": 282.5,
-            "change": "-2.76%"
+            "change": "-0.0%"
         },
         {
             "symbol": "VST",
             "price": 148.13,
-            "change": "-0.72%"
+            "change": "+3.39%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
-        "rci_current": NaN,
+        "cer_current": 0.55,
+        "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.46,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
             0.48,
-            0.49,
-            0.5,
-            0.51,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            25.43,
-            24.96,
-            25.28,
-            25.55,
-            25.39,
-            25.53,
-            25.03,
-            24.97,
-            24.56,
-            24.73,
-            25.16,
-            25.2
+            27.07,
+            27.28,
+            26.94,
+            27.37,
+            27.48,
+            26.95,
+            27.3,
+            26.87,
+            26.49,
+            25.99,
+            25.61,
+            25.17
         ],
         "hsd_history_software": [
-            10.19,
-            10.08,
-            10.16,
-            10.33,
+            10.51,
+            10.41,
+            10.24,
             10.44,
-            10.32,
-            10.13,
-            10.19,
-            10.27,
-            10.18,
+            10.36,
+            10.37,
             10.26,
-            10.15
+            10.09,
+            9.98,
+            9.95,
+            10.04,
+            10.11
         ],
         "rci_data": [
             85.0,
-            NaN
+            22.516
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:53",
+            "time": "12:02",
             "tag": "MERCADO",
-            "text": "Skyworks Solutions stock holds below $70 as analysts see modest upside"
+            "text": "Serve Robotics plots new strategy after breakup with Uber Eats"
         },
         {
-            "time": "10:35",
+            "time": "11:59",
             "tag": "MERCADO",
-            "text": "Plato Investment Management Ltd Buys New Position in Palo Alto Networks, Inc. $PANW"
+            "text": "Meta social media addiction trial, earnings from Walmart & Target: What to watch on Monday"
         },
         {
-            "time": "10:34",
+            "time": "11:43",
             "tag": "MERCADO",
-            "text": "Simplicity Wealth LLC Takes $2 Million Position in Western Digital Corporation $WDC"
+            "text": "Teledyne Technologies stock holds at $680 as defense radar milestone highlights growth"
         },
         {
-            "time": "10:33",
+            "time": "11:29",
             "tag": "MERCADO",
-            "text": "6,811 Shares in Oracle Corporation $ORCL Bought by Uniting Wealth Partners LLC"
+            "text": "ZenaTech Anticipates Competitive Advantage for ZenaDrone as U.S. Imposes Tariffs of Up to 100% on Imported Drones and Components"
         },
         {
-            "time": "10:33",
+            "time": "11:29",
             "tag": "MERCADO",
-            "text": "Wealth Effects LLC Acquires Shares of 6,005 Oracle Corporation $ORCL"
+            "text": "The U.S. Imposed Drone Tariffs Up to 100%. ZenaTech May Benefit"
         }
     ]
 }
