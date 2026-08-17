@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-17 15:27 UTC",
+        "last_updated": "2026-08-17 16:29 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 227.52,
-            "change": "+0.36%"
+            "price": 227.04,
+            "change": "+1.84%"
         },
         {
             "symbol": "AMD",
-            "price": 515.37,
-            "change": "+2.56%"
+            "price": 511.48,
+            "change": "+1.98%"
         },
         {
             "symbol": "MSFT",
-            "price": 484.46,
-            "change": "+1.76%"
+            "price": 482.79,
+            "change": "+2.37%"
         },
         {
             "symbol": "CEG",
-            "price": 274.6,
-            "change": "+1.26%"
+            "price": 276.23,
+            "change": "-1.49%"
         },
         {
             "symbol": "VST",
-            "price": 145.78,
-            "change": "+0.08%"
+            "price": 146.96,
+            "change": "+0.85%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.62,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
+            0.54,
+            0.53,
+            0.54,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
             0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            25.59,
-            25.6,
-            25.49,
-            25.17,
-            25.02,
-            25.49,
-            25.14,
-            24.91,
-            25.29,
-            25.0,
-            25.11,
-            25.14
+            23.37,
+            23.13,
+            22.87,
+            23.1,
+            23.49,
+            23.77,
+            23.94,
+            24.12,
+            24.45,
+            24.92,
+            24.69,
+            25.01
         ],
         "hsd_history_software": [
-            10.35,
-            10.27,
-            10.38,
-            10.18,
+            9.7,
+            9.68,
+            9.78,
+            9.86,
+            9.93,
             10.12,
-            10.3,
-            10.48,
-            10.41,
-            10.21,
-            10.1,
-            9.97,
-            10.13
+            10.25,
+            10.29,
+            10.22,
+            10.08,
+            10.01,
+            9.92
         ],
         "rci_data": [
             85.0,
-            22.752
+            22.704
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:27",
+            "time": "15:33",
             "tag": "MERCADO",
-            "text": "Lululemon Loses Two More Senior Executives Amid Leadership Transition"
+            "text": "GDS Holdings (GDS) Could Be 33% Undervalued On Profit And Higher 2026 Guidance"
         },
         {
-            "time": "14:21",
+            "time": "15:28",
             "tag": "MERCADO",
-            "text": "William Blair downgrades Enovix stock rating after CEO resignation By Investing.com"
+            "text": "Investor suit says UnitedHealth ignored governance, cybersecurity gaps for years"
         },
         {
-            "time": "14:15",
+            "time": "15:28",
             "tag": "MERCADO",
-            "text": "ServiceNow Inc Stock (NOW) Moved Down by 3.05% on Aug 17: Key Drivers Unveiled"
+            "text": "Kaplan Fox Encourages ZoomInfo Technologies Inc. (NASDAQ: GTM) Investors with Significant Losses to Contact the Firm Before August 24, 2026"
         },
         {
-            "time": "14:15",
-            "tag": "MERCADO",
-            "text": "Adobe Inc Stock (ADBE) Moved Down by 3.12% on Aug 17: Drivers Behind the Movement"
+            "time": "15:26",
+            "tag": "AI",
+            "text": "Synchrony partners with OpenAI to integrate AI in shopping, financing, and loyalty experiences."
         },
         {
-            "time": "14:14",
+            "time": "15:20",
             "tag": "MERCADO",
-            "text": "Salesforce Inc Stock (CRM) Moved Down by 3.04% on Aug 17: What Investors Need To Know"
+            "text": "ZoomInfo Technologies Sees Unusually Large Options Volume (NASDAQ:GTM)"
         }
     ]
 }
