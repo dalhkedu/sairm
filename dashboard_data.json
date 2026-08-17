@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-17 17:28 UTC",
+        "last_updated": "2026-08-17 18:42 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 225.93,
-            "change": "+0.76%"
+            "price": 225.66,
+            "change": "+1.77%"
         },
         {
             "symbol": "AMD",
-            "price": 509.17,
-            "change": "-1.8%"
+            "price": 509.74,
+            "change": "+2.77%"
         },
         {
             "symbol": "MSFT",
-            "price": 479.64,
-            "change": "+2.35%"
+            "price": 479.56,
+            "change": "+2.63%"
         },
         {
             "symbol": "CEG",
-            "price": 277.25,
-            "change": "+0.7%"
+            "price": 278.0,
+            "change": "-3.19%"
         },
         {
             "symbol": "VST",
-            "price": 146.77,
-            "change": "+1.73%"
+            "price": 147.13,
+            "change": "-3.0%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.63,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.46,
+            0.46,
+            0.47,
+            0.48,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            24.16,
-            24.06,
-            23.94,
-            23.95,
-            23.78,
             23.73,
-            24.15,
-            24.53,
-            25.01,
-            25.28,
-            25.08,
-            25.31
+            23.78,
+            24.07,
+            24.44,
+            24.34,
+            24.6,
+            24.38,
+            24.54,
+            25.02,
+            25.14,
+            25.39,
+            25.0
         ],
         "hsd_history_software": [
-            9.67,
-            9.62,
-            9.69,
-            9.78,
-            9.87,
-            9.88,
-            10.02,
-            10.0,
-            10.0,
-            9.87,
-            9.85,
-            10.03
+            10.03,
+            10.13,
+            10.32,
+            10.31,
+            10.24,
+            10.24,
+            10.1,
+            10.13,
+            10.15,
+            10.06,
+            10.08,
+            10.19
         ],
         "rci_data": [
             85.0,
-            22.593000000000004
+            22.566
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,9 @@
     ],
     "news_feed": [
         {
-            "time": "16:32",
-            "tag": "RESULTADOS",
-            "text": "Will Stronger Earnings and a New Dividend Shape Ituran Location and Control's (ITRN) Capital Return Narrative?"
-        },
-        {
-            "time": "16:16",
-            "tag": "MERCADO",
-            "text": "American Express Expands Virtual Card Tools to Simplify Payments for US Commercial Clients"
-        },
-        {
-            "time": "16:15",
-            "tag": "MERCADO",
-            "text": "CDW stock holds near $139 after Q2 revenue rose 10%"
-        },
-        {
-            "time": "16:15",
-            "tag": "AI",
-            "text": "HCLTech Pairs NetApp Keystone With U4X to Sell Enterprise AI Storage by Consumption"
-        },
-        {
-            "time": "16:15",
-            "tag": "MERCADO",
-            "text": "Coherent Corp Stock (COHR) Moved Up by 9.78% on Aug 17: What Signal Does It Send?"
+            "time": "INFO",
+            "tag": "LIMIT",
+            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
         }
     ]
 }
