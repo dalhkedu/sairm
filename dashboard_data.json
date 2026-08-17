@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-17 08:52 UTC",
+        "last_updated": "2026-08-17 09:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.16,
-            "change": "+3.31%"
+            "change": "-0.76%"
         },
         {
             "symbol": "AMD",
             "price": 514.39,
-            "change": "+3.32%"
+            "change": "+2.41%"
         },
         {
             "symbol": "MSFT",
             "price": 495.4,
-            "change": "-0.2%"
+            "change": "-0.05%"
         },
         {
             "symbol": "CEG",
             "price": 282.5,
-            "change": "+3.26%"
+            "change": "+2.86%"
         },
         {
             "symbol": "VST",
             "price": 148.13,
-            "change": "-1.45%"
+            "change": "-2.63%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
+        "cer_current": 0.43,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
             0.53,
             0.52,
             0.52,
+            0.52,
             0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            24.79,
-            24.92,
-            24.51,
-            24.98,
-            25.04,
-            24.59,
-            24.17,
-            24.3,
-            24.39,
-            24.53,
-            24.39,
-            24.83
+            25.73,
+            26.15,
+            26.35,
+            26.16,
+            26.27,
+            26.17,
+            25.67,
+            26.1,
+            25.66,
+            25.51,
+            25.19,
+            25.02
         ],
         "hsd_history_software": [
-            9.73,
-            9.54,
-            9.67,
-            9.6,
-            9.69,
-            9.54,
-            9.73,
-            9.86,
-            9.89,
-            9.86,
-            9.84,
-            9.99
+            10.42,
+            10.54,
+            10.49,
+            10.6,
+            10.46,
+            10.36,
+            10.19,
+            10.11,
+            9.98,
+            10.06,
+            9.9,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:08",
+            "time": "09:07",
             "tag": "MERCADO",
-            "text": "Alphabet's Reported $112 Billion Profit Included a $94 Billion Paper Gain From SpaceX. Here's What the Company Actually Earned."
+            "text": "Patriot Financial Group Insurance Agency LLC Sells 6,930 Shares of Qualcomm Incorporated $QCOM"
         },
         {
-            "time": "08:08",
+            "time": "09:02",
             "tag": "MERCADO",
-            "text": "Crossmark Global Holdings Inc. Has $69.43 Million Position in Qualcomm Incorporated $QCOM"
+            "text": "Firetrail Investments PTY Ltd. Makes New Investment in ServiceNow, Inc. $NOW"
         },
         {
-            "time": "08:04",
+            "time": "08:59",
             "tag": "MERCADO",
-            "text": "Focus Partners Advisor Solutions LLC Buys New Position in Jabil, Inc. $JBL"
+            "text": "Pacer Advisors Inc. Sells 536,598 Shares of Apple Inc. $AAPL"
         },
         {
-            "time": "08:04",
+            "time": "08:59",
             "tag": "MERCADO",
-            "text": "Focus Partners Advisor Solutions LLC Takes Position in Salesforce Inc. $CRM"
+            "text": "Apple Inc. $AAPL Shares Acquired by PVG Asset Management Corp"
         },
         {
-            "time": "08:04",
+            "time": "08:57",
             "tag": "MERCADO",
-            "text": "Arista Networks, Inc. $ANET Shares Sold by BLB&B Advisors LLC"
+            "text": "Flputnam Investment Management Co. Invests $159.92 Million in Analog Devices, Inc. $ADI"
         }
     ]
 }
