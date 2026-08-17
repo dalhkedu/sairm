@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-17 14:30 UTC",
+        "last_updated": "2026-08-17 15:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 226.69,
-            "change": "-0.16%"
+            "price": 227.52,
+            "change": "+0.36%"
         },
         {
             "symbol": "AMD",
-            "price": 511.89,
-            "change": "+2.37%"
+            "price": 515.37,
+            "change": "+2.56%"
         },
         {
             "symbol": "MSFT",
-            "price": 482.72,
-            "change": "+1.67%"
+            "price": 484.46,
+            "change": "+1.76%"
         },
         {
             "symbol": "CEG",
-            "price": 275.21,
-            "change": "-0.38%"
+            "price": 274.6,
+            "change": "+1.26%"
         },
         {
             "symbol": "VST",
-            "price": 146.12,
-            "change": "-0.66%"
+            "price": 145.78,
+            "change": "+0.08%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.6,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.5,
             0.51,
-            0.52,
-            0.52,
             0.51,
-            0.52,
-            0.52,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.51,
-            0.52,
-            0.52,
-            0.51,
+            0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.91,
-            25.73,
-            25.51,
-            25.05,
+            25.59,
+            25.6,
+            25.49,
             25.17,
-            24.92,
-            24.53,
-            24.18,
-            24.63,
-            24.93,
-            24.51,
-            24.85
+            25.02,
+            25.49,
+            25.14,
+            24.91,
+            25.29,
+            25.0,
+            25.11,
+            25.14
         ],
         "hsd_history_software": [
-            9.86,
-            9.82,
-            9.91,
-            9.72,
-            9.63,
-            9.75,
-            9.82,
-            9.66,
-            9.73,
-            9.73,
-            9.82,
-            9.93
+            10.35,
+            10.27,
+            10.38,
+            10.18,
+            10.12,
+            10.3,
+            10.48,
+            10.41,
+            10.21,
+            10.1,
+            9.97,
+            10.13
         ],
         "rci_data": [
             85.0,
-            22.669
+            22.752
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:22",
-            "tag": "AI",
-            "text": "UBS Reiterates Buy Rating on Tapestry Inc. (TPR), Says Market Is Missing Bigger Picture Around AI"
-        },
-        {
-            "time": "13:17",
+            "time": "14:27",
             "tag": "MERCADO",
-            "text": "Kroger Health President Colleen Lindholz to Keynote GLP-1 Shopper Summit"
+            "text": "Lululemon Loses Two More Senior Executives Amid Leadership Transition"
         },
         {
-            "time": "13:16",
-            "tag": "AI",
-            "text": "CRGO Stock Attracts Traders As Freightos Seals FreightSuite AI TMS Integration"
-        },
-        {
-            "time": "13:15",
+            "time": "14:21",
             "tag": "MERCADO",
-            "text": "Uber, Zipline partner on US drone delivery for Uber Eats"
+            "text": "William Blair downgrades Enovix stock rating after CEO resignation By Investing.com"
         },
         {
-            "time": "13:11",
-            "tag": "AI",
-            "text": "SentinelOne likely to have 'AI-driven EDR renaissance' in Q2, TD Cowen says (S:NYSE)"
+            "time": "14:15",
+            "tag": "MERCADO",
+            "text": "ServiceNow Inc Stock (NOW) Moved Down by 3.05% on Aug 17: Key Drivers Unveiled"
+        },
+        {
+            "time": "14:15",
+            "tag": "MERCADO",
+            "text": "Adobe Inc Stock (ADBE) Moved Down by 3.12% on Aug 17: Drivers Behind the Movement"
+        },
+        {
+            "time": "14:14",
+            "tag": "MERCADO",
+            "text": "Salesforce Inc Stock (CRM) Moved Down by 3.04% on Aug 17: What Investors Need To Know"
         }
     ]
 }
