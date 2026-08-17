@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-17 18:42 UTC",
+        "last_updated": "2026-08-17 19:29 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 225.66,
-            "change": "+1.77%"
+            "price": 225.6,
+            "change": "+0.07%"
         },
         {
             "symbol": "AMD",
-            "price": 509.74,
-            "change": "+2.77%"
+            "price": 506.03,
+            "change": "+3.33%"
         },
         {
             "symbol": "MSFT",
-            "price": 479.56,
-            "change": "+2.63%"
+            "price": 480.83,
+            "change": "-2.12%"
         },
         {
             "symbol": "CEG",
-            "price": 278.0,
-            "change": "-3.19%"
+            "price": 277.91,
+            "change": "+2.93%"
         },
         {
             "symbol": "VST",
-            "price": 147.13,
-            "change": "-3.0%"
+            "price": 146.44,
+            "change": "+0.37%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.67,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.46,
-            0.47,
-            0.48,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.5
+            0.53,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            23.73,
-            23.78,
-            24.07,
-            24.44,
-            24.34,
-            24.6,
-            24.38,
-            24.54,
-            25.02,
-            25.14,
-            25.39,
-            25.0
+            25.37,
+            25.48,
+            25.12,
+            25.6,
+            25.41,
+            25.36,
+            25.63,
+            25.4,
+            25.28,
+            25.68,
+            25.92,
+            25.41
         ],
         "hsd_history_software": [
-            10.03,
-            10.13,
-            10.32,
-            10.31,
-            10.24,
-            10.24,
-            10.1,
-            10.13,
-            10.15,
-            10.06,
-            10.08,
-            10.19
+            9.58,
+            9.4,
+            9.4,
+            9.51,
+            9.63,
+            9.71,
+            9.9,
+            10.09,
+            9.97,
+            10.01,
+            9.85,
+            9.86
         ],
         "rci_data": [
             85.0,
-            22.566
+            22.56
         ],
         "energy_data": [
             1.2,
@@ -126,9 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "INFO",
-            "tag": "LIMIT",
-            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
+            "time": "18:23",
+            "tag": "MERCADO",
+            "text": "Linde stock holds firm after Q2 2026 earnings beat"
+        },
+        {
+            "time": "18:15",
+            "tag": "MERCADO",
+            "text": "Teradyne Inc Stock (TER) Moved Up by 5.67% on Aug 17: Facts Behind the Movement"
+        },
+        {
+            "time": "18:06",
+            "tag": "AI",
+            "text": "Best Buy connects AI, governance, and content with Adobe AI"
+        },
+        {
+            "time": "18:04",
+            "tag": "MERCADO",
+            "text": "Cisco: This 8% Selloff Looks Like An Overreaction (NASDAQ:CSCO)"
+        },
+        {
+            "time": "17:57",
+            "tag": "MERCADO",
+            "text": "Here\u2019s how Amazon\u2019s stock could nearly double by the end of next year, according to Morgan Stanley"
         }
     ]
 }
