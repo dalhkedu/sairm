@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-17 07:57 UTC",
+        "last_updated": "2026-08-17 08:52 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.16,
-            "change": "-2.3%"
+            "change": "+3.31%"
         },
         {
             "symbol": "AMD",
             "price": 514.39,
-            "change": "-3.39%"
+            "change": "+3.32%"
         },
         {
             "symbol": "MSFT",
             "price": 495.4,
-            "change": "-0.11%"
+            "change": "-0.2%"
         },
         {
             "symbol": "CEG",
             "price": 282.5,
-            "change": "+1.68%"
+            "change": "+3.26%"
         },
         {
             "symbol": "VST",
             "price": 148.13,
-            "change": "-0.25%"
+            "change": "-1.45%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.53,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.53,
-            0.53,
+            0.51,
+            0.51,
+            0.51,
             0.52,
             0.52,
             0.51,
             0.52,
+            0.53,
+            0.52,
+            0.52,
+            0.51,
             0.51
         ],
         "hsd_history_hardware": [
+            24.79,
+            24.92,
+            24.51,
+            24.98,
+            25.04,
+            24.59,
             24.17,
-            23.77,
-            23.93,
-            23.62,
-            23.51,
-            23.41,
-            23.74,
-            24.09,
-            24.5,
-            24.66,
-            24.85,
-            25.32
+            24.3,
+            24.39,
+            24.53,
+            24.39,
+            24.83
         ],
         "hsd_history_software": [
-            10.28,
-            10.46,
-            10.3,
-            10.22,
-            10.14,
-            10.1,
-            9.94,
-            9.82,
-            9.8,
-            9.93,
-            9.91,
-            9.94
+            9.73,
+            9.54,
+            9.67,
+            9.6,
+            9.69,
+            9.54,
+            9.73,
+            9.86,
+            9.89,
+            9.86,
+            9.84,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:06",
+            "time": "08:08",
             "tag": "MERCADO",
-            "text": "1ST Source Bank Takes Position in Fortive Corporation $FTV"
+            "text": "Alphabet's Reported $112 Billion Profit Included a $94 Billion Paper Gain From SpaceX. Here's What the Company Actually Earned."
         },
         {
-            "time": "07:06",
+            "time": "08:08",
             "tag": "MERCADO",
-            "text": "1ST Source Bank Purchases New Position in ServiceNow, Inc. $NOW"
+            "text": "Crossmark Global Holdings Inc. Has $69.43 Million Position in Qualcomm Incorporated $QCOM"
         },
         {
-            "time": "06:34",
+            "time": "08:04",
             "tag": "MERCADO",
-            "text": "People Moves: Anthropic, JPMorganChase, IRIS & Pillsbury"
+            "text": "Focus Partners Advisor Solutions LLC Buys New Position in Jabil, Inc. $JBL"
         },
         {
-            "time": "06:18",
+            "time": "08:04",
             "tag": "MERCADO",
-            "text": "Intuitive Expands Manufacturing Footprint in Asia Pacific with New Facility in Penang, Malaysia"
+            "text": "Focus Partners Advisor Solutions LLC Takes Position in Salesforce Inc. $CRM"
         },
         {
-            "time": "06:17",
+            "time": "08:04",
             "tag": "MERCADO",
-            "text": "Microchip Technology Incorporated (NASDAQ:MCHP) Receives Consensus Rating of \"Moderate Buy\" from Analysts"
+            "text": "Arista Networks, Inc. $ANET Shares Sold by BLB&B Advisors LLC"
         }
     ]
 }
