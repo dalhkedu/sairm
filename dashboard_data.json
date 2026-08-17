@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-17 16:29 UTC",
+        "last_updated": "2026-08-17 17:28 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 227.04,
-            "change": "+1.84%"
+            "price": 225.93,
+            "change": "+0.76%"
         },
         {
             "symbol": "AMD",
-            "price": 511.48,
-            "change": "+1.98%"
+            "price": 509.17,
+            "change": "-1.8%"
         },
         {
             "symbol": "MSFT",
-            "price": 482.79,
-            "change": "+2.37%"
+            "price": 479.64,
+            "change": "+2.35%"
         },
         {
             "symbol": "CEG",
-            "price": 276.23,
-            "change": "-1.49%"
+            "price": 277.25,
+            "change": "+0.7%"
         },
         {
             "symbol": "VST",
-            "price": 146.96,
-            "change": "+0.85%"
+            "price": 146.77,
+            "change": "+1.73%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.57,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.53,
-            0.54,
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.51,
             0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            23.37,
-            23.13,
-            22.87,
-            23.1,
-            23.49,
-            23.77,
+            24.16,
+            24.06,
             23.94,
-            24.12,
-            24.45,
-            24.92,
-            24.69,
-            25.01
+            23.95,
+            23.78,
+            23.73,
+            24.15,
+            24.53,
+            25.01,
+            25.28,
+            25.08,
+            25.31
         ],
         "hsd_history_software": [
-            9.7,
-            9.68,
+            9.67,
+            9.62,
+            9.69,
             9.78,
-            9.86,
-            9.93,
-            10.12,
-            10.25,
-            10.29,
-            10.22,
-            10.08,
-            10.01,
-            9.92
+            9.87,
+            9.88,
+            10.02,
+            10.0,
+            10.0,
+            9.87,
+            9.85,
+            10.03
         ],
         "rci_data": [
             85.0,
-            22.704
+            22.593000000000004
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:33",
-            "tag": "MERCADO",
-            "text": "GDS Holdings (GDS) Could Be 33% Undervalued On Profit And Higher 2026 Guidance"
+            "time": "16:32",
+            "tag": "RESULTADOS",
+            "text": "Will Stronger Earnings and a New Dividend Shape Ituran Location and Control's (ITRN) Capital Return Narrative?"
         },
         {
-            "time": "15:28",
+            "time": "16:16",
             "tag": "MERCADO",
-            "text": "Investor suit says UnitedHealth ignored governance, cybersecurity gaps for years"
+            "text": "American Express Expands Virtual Card Tools to Simplify Payments for US Commercial Clients"
         },
         {
-            "time": "15:28",
+            "time": "16:15",
             "tag": "MERCADO",
-            "text": "Kaplan Fox Encourages ZoomInfo Technologies Inc. (NASDAQ: GTM) Investors with Significant Losses to Contact the Firm Before August 24, 2026"
+            "text": "CDW stock holds near $139 after Q2 revenue rose 10%"
         },
         {
-            "time": "15:26",
+            "time": "16:15",
             "tag": "AI",
-            "text": "Synchrony partners with OpenAI to integrate AI in shopping, financing, and loyalty experiences."
+            "text": "HCLTech Pairs NetApp Keystone With U4X to Sell Enterprise AI Storage by Consumption"
         },
         {
-            "time": "15:20",
+            "time": "16:15",
             "tag": "MERCADO",
-            "text": "ZoomInfo Technologies Sees Unusually Large Options Volume (NASDAQ:GTM)"
+            "text": "Coherent Corp Stock (COHR) Moved Up by 9.78% on Aug 17: What Signal Does It Send?"
         }
     ]
 }
