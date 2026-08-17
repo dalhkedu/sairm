@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-17 22:26 UTC",
+        "last_updated": "2026-08-17 23:24 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.01,
-            "change": "-1.4%"
+            "change": "-1.38%"
         },
         {
             "symbol": "AMD",
             "price": 506.0,
-            "change": "-0.62%"
+            "change": "-1.6%"
         },
         {
             "symbol": "MSFT",
             "price": 480.35,
-            "change": "-2.66%"
+            "change": "-3.39%"
         },
         {
             "symbol": "CEG",
             "price": 278.2,
-            "change": "-1.89%"
+            "change": "-0.04%"
         },
         {
             "symbol": "VST",
             "price": 146.11,
-            "change": "+2.33%"
+            "change": "-3.13%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.6,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
+            0.49,
             0.5,
-            0.51,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.94,
-            24.63,
-            24.71,
-            25.02,
-            25.35,
-            25.6,
-            25.76,
-            25.75,
-            25.47,
-            25.23,
-            25.61,
-            25.11
+            26.23,
+            25.9,
+            25.59,
+            25.29,
+            25.36,
+            25.01,
+            24.9,
+            25.31,
+            25.5,
+            25.29,
+            25.55,
+            25.35
         ],
         "hsd_history_software": [
-            9.8,
-            9.67,
-            9.81,
-            9.91,
-            10.03,
-            10.19,
+            10.24,
             10.08,
-            10.28,
-            10.22,
-            10.15,
-            10.05,
-            10.05
+            10.13,
+            9.96,
+            10.01,
+            10.11,
+            10.24,
+            10.36,
+            10.21,
+            10.34,
+            10.21,
+            10.2
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "22:36",
+            "tag": "MERCADO",
+            "text": "Gen Digital Inc (GEN) Stock Down 3.8% -- Now Undervalued? GF Sco"
+        },
+        {
+            "time": "22:05",
+            "tag": "MERCADO",
+            "text": "Microsoft (NASDAQ: MSFT) HR chief disposes 89 shares for exercise price or tax liability"
+        },
+        {
+            "time": "21:44",
+            "tag": "MERCADO",
+            "text": "3M Paid Expert Witness $475/Hour to Use ChatGPT to Defend Company in Major Explosion Lawsuit"
+        },
+        {
             "time": "21:35",
             "tag": "MERCADO",
             "text": "Is ServiceNow Inc (NOW) a Bargain After 5.1% Drop? GF Value Says Undervalued"
         },
         {
-            "time": "21:27",
-            "tag": "MERCADO",
-            "text": "Cisco (NASDAQ: CSCO) sales EVP sells in 10b5-1 plan, keeps 165K shares"
-        },
-        {
-            "time": "21:25",
-            "tag": "MERCADO",
-            "text": "Cisco (NASDAQ: CSCO) legal chief sells 6,487 shares under 10b5-1 plan"
-        },
-        {
-            "time": "21:25",
-            "tag": "MERCADO",
-            "text": "Cisco (NASDAQ: CSCO) CFO sells 5,192 shares in planned trades"
-        },
-        {
-            "time": "21:24",
-            "tag": "RESULTADOS",
-            "text": "Citigroup (C) Beats Earnings, But Is The Valuation Case Already Priced In?"
+            "time": "21:31",
+            "tag": "AI",
+            "text": "BlackRock (BLK) & NVIDIA Corporation (NVDA): BlackRock\u2019s Larry Fink Says the US Alone Needs 70 Gigawatts of Power for AI"
         }
     ]
 }
