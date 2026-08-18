@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-18 06:47 UTC",
+        "last_updated": "2026-08-18 07:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.01,
-            "change": "+1.29%"
+            "change": "-0.35%"
         },
         {
             "symbol": "AMD",
             "price": 506.0,
-            "change": "+3.1%"
+            "change": "+2.14%"
         },
         {
             "symbol": "MSFT",
-            "price": 480.35,
-            "change": "+1.58%"
+            "price": NaN,
+            "change": "+3.46%"
         },
         {
             "symbol": "CEG",
-            "price": NaN,
-            "change": "-3.37%"
+            "price": 278.2,
+            "change": "+2.56%"
         },
         {
             "symbol": "VST",
             "price": 146.11,
-            "change": "+2.17%"
+            "change": "+1.75%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.67,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
             0.51,
             0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.03,
-            25.17,
-            24.91,
-            25.07,
-            25.47,
-            25.37,
-            25.56,
-            25.61,
-            25.18,
-            25.13,
-            25.63,
-            25.35
+            23.84,
+            24.05,
+            23.66,
+            24.07,
+            23.97,
+            24.14,
+            24.28,
+            24.07,
+            24.49,
+            24.72,
+            25.0,
+            25.32
         ],
         "hsd_history_software": [
-            9.98,
-            10.15,
-            10.16,
-            10.14,
+            10.43,
+            10.64,
+            10.55,
+            10.41,
+            10.35,
+            10.22,
+            10.07,
+            10.01,
             9.95,
-            10.0,
-            9.93,
-            9.82,
-            9.92,
-            9.92,
-            10.02,
-            10.15
+            9.89,
+            10.07,
+            10.09
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:04",
-            "tag": "MERCADO",
-            "text": "Rep. Richard McCormick Unloads Shares of Cisco Systems, Inc. (NASDAQ:CSCO)"
+            "time": "07:07",
+            "tag": "AI",
+            "text": "AIA Group Ltd Sells 191,683 Shares of AT&T Inc. $T"
         },
         {
-            "time": "05:51",
+            "time": "06:54",
             "tag": "MERCADO",
-            "text": "NetApp stock trades close to its 52-week high as investors eye upcoming Q1 FY2027 results"
+            "text": "Alphabet C stock steadies after Berkshire\u2019s big Q2 buying spree"
         },
         {
-            "time": "05:43",
-            "tag": "MERCADO",
-            "text": "First MDA Space Globalstar satellites reach orbit, nine to go"
+            "time": "06:51",
+            "tag": "AI",
+            "text": "KT Corp teams up with NH Agri Business Holdings, Microsoft Korea to drive AI transformation in retail"
         },
         {
-            "time": "05:43",
+            "time": "06:36",
             "tag": "MERCADO",
-            "text": "Amazon's stock price could double next year; Morgan Stanley projects AWS revenue will surpass $1 trillion within a decade"
+            "text": "T-Mobile US, Inc. (NASDAQ:TMUS) Given Consensus Recommendation of \"Moderate Buy\" by Analysts"
         },
         {
-            "time": "05:09",
+            "time": "06:36",
             "tag": "MERCADO",
-            "text": "360 Equipment Finance Welcomes Kim as Salesforce Administrator"
+            "text": "Akamai Technologies, Inc. (NASDAQ:AKAM) Given Consensus Recommendation of \"Hold\" by Analysts"
         }
     ]
 }
