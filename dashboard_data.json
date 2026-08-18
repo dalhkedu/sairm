@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-18 05:31 UTC",
+        "last_updated": "2026-08-18 06:47 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.01,
-            "change": "+3.3%"
+            "change": "+1.29%"
         },
         {
             "symbol": "AMD",
             "price": 506.0,
-            "change": "+1.32%"
+            "change": "+3.1%"
         },
         {
             "symbol": "MSFT",
             "price": 480.35,
-            "change": "-2.96%"
+            "change": "+1.58%"
         },
         {
             "symbol": "CEG",
-            "price": 278.2,
-            "change": "+0.39%"
+            "price": NaN,
+            "change": "-3.37%"
         },
         {
             "symbol": "VST",
             "price": 146.11,
-            "change": "+1.28%"
+            "change": "+2.17%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.49,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.47,
-            0.47,
-            0.48,
             0.49,
-            0.49,
-            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            26.44,
-            26.53,
-            27.02,
-            26.57,
-            26.67,
-            26.25,
-            26.29,
-            25.93,
-            26.02,
-            25.74,
+            25.03,
+            25.17,
+            24.91,
+            25.07,
+            25.47,
+            25.37,
+            25.56,
             25.61,
-            25.31
+            25.18,
+            25.13,
+            25.63,
+            25.35
         ],
         "hsd_history_software": [
-            9.29,
-            9.36,
-            9.53,
-            9.67,
-            9.65,
-            9.69,
-            9.85,
-            9.8,
-            9.89,
-            10.09,
-            10.18,
-            10.17
+            9.98,
+            10.15,
+            10.16,
+            10.14,
+            9.95,
+            10.0,
+            9.93,
+            9.82,
+            9.92,
+            9.92,
+            10.02,
+            10.15
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:35",
+            "time": "06:04",
             "tag": "MERCADO",
-            "text": "Gartner\u00ae Recognizes Shufti for Demonstrable Capability to Process a Highly Diverse Set of Identity Documents Worldwide"
+            "text": "Rep. Richard McCormick Unloads Shares of Cisco Systems, Inc. (NASDAQ:CSCO)"
         },
         {
-            "time": "04:21",
+            "time": "05:51",
             "tag": "MERCADO",
-            "text": "Etsy stock holds around $80 as new rating highlights valuation debate"
+            "text": "NetApp stock trades close to its 52-week high as investors eye upcoming Q1 FY2027 results"
         },
         {
-            "time": "04:14",
+            "time": "05:43",
             "tag": "MERCADO",
-            "text": "Gilat Lands $14 Million Peru Broadband Deal"
+            "text": "First MDA Space Globalstar satellites reach orbit, nine to go"
         },
         {
-            "time": "04:11",
-            "tag": "RESULTADOS",
-            "text": "Earnings call transcript: Duos Technologies Q2 2026 profit jump lifts stock"
+            "time": "05:43",
+            "tag": "MERCADO",
+            "text": "Amazon's stock price could double next year; Morgan Stanley projects AWS revenue will surpass $1 trillion within a decade"
         },
         {
-            "time": "04:00",
+            "time": "05:09",
             "tag": "MERCADO",
-            "text": "Chargebee Named a Leader in 2026 Gartner\u00ae Magic Quadrant\u2122 for Recurring Billing Applications for the Third Consecutive Year"
+            "text": "360 Equipment Finance Welcomes Kim as Salesforce Administrator"
         }
     ]
 }
