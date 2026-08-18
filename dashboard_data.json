@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-18 04:37 UTC",
+        "last_updated": "2026-08-18 05:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.01,
-            "change": "+1.39%"
+            "change": "+3.3%"
         },
         {
             "symbol": "AMD",
             "price": 506.0,
-            "change": "-2.94%"
+            "change": "+1.32%"
         },
         {
             "symbol": "MSFT",
             "price": 480.35,
-            "change": "-0.78%"
+            "change": "-2.96%"
         },
         {
             "symbol": "CEG",
             "price": 278.2,
-            "change": "-2.68%"
+            "change": "+0.39%"
         },
         {
             "symbol": "VST",
             "price": 146.11,
-            "change": "-2.51%"
+            "change": "+1.28%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.52,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.5,
-            0.49
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.87,
-            25.18,
-            24.77,
-            24.47,
-            24.09,
-            24.11,
-            24.23,
-            24.33,
-            24.49,
-            24.86,
-            25.1,
-            24.81
+            26.44,
+            26.53,
+            27.02,
+            26.57,
+            26.67,
+            26.25,
+            26.29,
+            25.93,
+            26.02,
+            25.74,
+            25.61,
+            25.31
         ],
         "hsd_history_software": [
-            10.41,
-            10.21,
-            10.12,
-            9.93,
-            10.07,
-            10.25,
-            10.14,
-            10.32,
-            10.17,
-            10.02,
+            9.29,
+            9.36,
+            9.53,
+            9.67,
+            9.65,
+            9.69,
+            9.85,
+            9.8,
+            9.89,
+            10.09,
             10.18,
-            10.02
+            10.17
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "04:35",
+            "tag": "MERCADO",
+            "text": "Gartner\u00ae Recognizes Shufti for Demonstrable Capability to Process a Highly Diverse Set of Identity Documents Worldwide"
+        },
+        {
+            "time": "04:21",
+            "tag": "MERCADO",
+            "text": "Etsy stock holds around $80 as new rating highlights valuation debate"
+        },
+        {
+            "time": "04:14",
+            "tag": "MERCADO",
+            "text": "Gilat Lands $14 Million Peru Broadband Deal"
+        },
+        {
             "time": "04:11",
             "tag": "RESULTADOS",
             "text": "Earnings call transcript: Duos Technologies Q2 2026 profit jump lifts stock"
@@ -134,21 +149,6 @@
             "time": "04:00",
             "tag": "MERCADO",
             "text": "Chargebee Named a Leader in 2026 Gartner\u00ae Magic Quadrant\u2122 for Recurring Billing Applications for the Third Consecutive Year"
-        },
-        {
-            "time": "03:14",
-            "tag": "MERCADO",
-            "text": "Credo Technology Group Holding Ltd Stock (CRDO) Closed Up by 8.66% on Aug 17: Facts Behind the Movement"
-        },
-        {
-            "time": "03:10",
-            "tag": "MERCADO",
-            "text": "Tesla Cybercab Launch Could Begin In This City Soon as Elon Musk-Led Company Prepares Driverless Vehicles"
-        },
-        {
-            "time": "03:02",
-            "tag": "MERCADO",
-            "text": "L3Harris Technologies appoints Sam Mehta as new CEO"
         }
     ]
 }
