@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-18 15:33 UTC",
+        "last_updated": "2026-08-18 16:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 219.66,
-            "change": "+2.34%"
+            "price": NaN,
+            "change": "-2.92%"
         },
         {
             "symbol": "AMD",
-            "price": 480.28,
-            "change": "-0.96%"
+            "price": 478.46,
+            "change": "+1.52%"
         },
         {
             "symbol": "MSFT",
-            "price": 482.24,
-            "change": "+1.78%"
+            "price": 481.41,
+            "change": "-3.22%"
         },
         {
             "symbol": "CEG",
-            "price": 276.95,
-            "change": "-2.07%"
+            "price": 277.61,
+            "change": "-2.71%"
         },
         {
             "symbol": "VST",
-            "price": 144.19,
-            "change": "+0.54%"
+            "price": 144.4,
+            "change": "-3.08%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
-        "rci_current": 0.22,
+        "cer_current": 0.55,
+        "rci_current": NaN,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.52,
             0.51,
+            0.52,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
             0.52,
             0.51
         ],
         "hsd_history_hardware": [
-            24.82,
-            24.5,
-            24.41,
-            24.67,
-            24.77,
-            24.79,
-            24.41,
-            24.55,
-            24.33,
-            24.73,
-            24.64,
-            24.87
+            25.38,
+            24.95,
+            25.09,
+            24.92,
+            24.9,
+            25.38,
+            25.71,
+            25.57,
+            25.19,
+            25.16,
+            25.34,
+            24.85
         ],
         "hsd_history_software": [
-            9.59,
-            9.75,
-            9.88,
-            9.76,
-            9.6,
-            9.79,
-            9.82,
-            9.93,
-            9.89,
-            9.91,
+            10.26,
+            10.35,
+            10.37,
+            10.24,
             10.1,
-            10.12
+            9.93,
+            9.85,
+            9.97,
+            9.81,
+            9.89,
+            9.97,
+            9.91
         ],
         "rci_data": [
             85.0,
-            21.966
+            NaN
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:01",
+            "time": "16:01",
             "tag": "MERCADO",
-            "text": "Here's How Much $1000 Invested In Hewlett Packard 5 Years Ago Would Be Worth Today"
+            "text": "Enphase announces first U.S. commercial battery shipments for early 2027"
         },
         {
-            "time": "14:59",
+            "time": "15:59",
             "tag": "MERCADO",
-            "text": "Broadcom Inc Stock (AVGO) Moved Down by 3.33% on Aug 18: What Signal Does It Send?"
+            "text": "AvalonBay, Equity Residential Complete Historic Merger"
         },
         {
-            "time": "14:46",
+            "time": "15:48",
             "tag": "MERCADO",
-            "text": "Dexcom stock edges higher as Q1 2026 growth and CGM demand support valuation"
+            "text": "Garmin makes virtual riding more seamless with Tacx NEO 2T with Zwift Cog and Click"
         },
         {
-            "time": "14:46",
+            "time": "15:43",
             "tag": "MERCADO",
-            "text": "Fortive (NYSE:FTV) Cash Flow Strength Meets Premium Valuation Debate"
+            "text": "Nvidia, AMD, Broadcom, Meta Slide as Bond Yields Surge: Why Tech Stocks Are Getting Hit"
         },
         {
-            "time": "14:27",
-            "tag": "AI",
-            "text": "AIRG Looks 31.3% Overvalued on GF Value\u2122"
+            "time": "15:42",
+            "tag": "MERCADO",
+            "text": "Unusual Options Activity: INTC, CSX and Others Attract Market Bets, INTC V/OI Ratio Reaches 880.3"
         }
     ]
 }
