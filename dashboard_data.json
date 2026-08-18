@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-18 02:57 UTC",
+        "last_updated": "2026-08-18 03:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.01,
-            "change": "-3.16%"
+            "change": "-2.22%"
         },
         {
             "symbol": "AMD",
             "price": 506.0,
-            "change": "+3.28%"
+            "change": "+3.44%"
         },
         {
             "symbol": "MSFT",
             "price": 480.35,
-            "change": "-3.33%"
+            "change": "+0.6%"
         },
         {
             "symbol": "CEG",
             "price": 278.2,
-            "change": "+1.08%"
+            "change": "-3.09%"
         },
         {
             "symbol": "VST",
             "price": 146.11,
-            "change": "+2.13%"
+            "change": "+2.57%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.51,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.5,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.49
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
+            24.33,
+            24.74,
+            24.62,
+            24.68,
+            24.54,
             24.7,
-            24.76,
-            24.57,
-            24.18,
-            24.34,
-            23.86,
-            24.27,
-            24.15,
-            24.59,
-            24.76,
-            25.08,
-            24.9
+            25.19,
+            25.22,
+            25.29,
+            25.62,
+            25.2,
+            24.79
         ],
         "hsd_history_software": [
-            9.69,
-            9.72,
-            9.89,
-            9.93,
+            10.21,
+            10.41,
+            10.24,
+            10.18,
+            10.13,
+            10.15,
+            10.16,
+            10.36,
+            10.3,
+            10.15,
             10.09,
-            10.0,
-            10.14,
-            10.06,
-            10.19,
-            10.07,
-            10.23,
-            10.08
+            10.01
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "03:14",
+            "tag": "MERCADO",
+            "text": "Credo Technology Group Holding Ltd Stock (CRDO) Closed Up by 8.66% on Aug 17: Facts Behind the Movement"
+        },
+        {
+            "time": "02:59",
+            "tag": "MERCADO",
+            "text": "Gartner\u00ae Recognizes Shufti for Demonstrable Capability to Process a Highly Diverse Set of Identity Documents Worldwide"
+        },
+        {
+            "time": "02:45",
+            "tag": "MERCADO",
+            "text": "Better disputes Garg\u2019s claims, says former CEO lacks the votes for a \u2018boardroom coup\u2019"
+        },
+        {
             "time": "02:14",
             "tag": "MERCADO",
             "text": "BNGE ETF Price and Chart \u2014 AMEX:BNGE"
@@ -134,21 +149,6 @@
             "time": "02:13",
             "tag": "MERCADO",
             "text": "BITQ Archives"
-        },
-        {
-            "time": "02:12",
-            "tag": "MERCADO",
-            "text": "Arrow Electronics adds seven countries to distribution coverage with IBM"
-        },
-        {
-            "time": "02:11",
-            "tag": "MERCADO",
-            "text": "AudioCodes Gains Microsoft Teams Voice Agent Certification"
-        },
-        {
-            "time": "01:45",
-            "tag": "MERCADO",
-            "text": "Apple Bricked Smartwatches In Software Update, Suit Says"
         }
     ]
 }
