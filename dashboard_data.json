@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-18 09:35 UTC",
+        "last_updated": "2026-08-18 10:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.01,
-            "change": "-2.27%"
+            "change": "+3.25%"
         },
         {
             "symbol": "AMD",
             "price": 506.0,
-            "change": "-1.07%"
+            "change": "0.0%"
         },
         {
             "symbol": "MSFT",
             "price": 480.35,
-            "change": "+2.74%"
+            "change": "+1.38%"
         },
         {
             "symbol": "CEG",
             "price": 278.2,
-            "change": "-0.74%"
+            "change": "+2.78%"
         },
         {
             "symbol": "VST",
             "price": 146.11,
-            "change": "-0.93%"
+            "change": "+0.9%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.7,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
             0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
             0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            26.72,
-            26.47,
-            26.55,
-            26.7,
-            26.28,
-            25.83,
-            25.81,
-            25.35,
-            25.46,
-            25.21,
-            25.1,
-            24.91
+            23.13,
+            23.52,
+            23.94,
+            23.54,
+            23.64,
+            23.84,
+            23.67,
+            24.04,
+            24.4,
+            24.26,
+            24.47,
+            24.59
         ],
         "hsd_history_software": [
-            9.76,
-            9.87,
-            9.9,
-            9.73,
-            9.77,
-            9.79,
-            9.61,
-            9.77,
-            9.91,
-            9.75,
+            9.8,
+            9.89,
+            9.96,
+            10.12,
+            9.98,
             9.93,
-            10.13
+            10.08,
+            9.94,
+            10.0,
+            10.16,
+            10.01,
+            10.0
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:04",
+            "time": "10:07",
             "tag": "MERCADO",
-            "text": "Invesco QQQ $QQQ Shares Sold by SBI Securities Co. Ltd."
+            "text": "Perigon Wealth Management LLC Acquires New Holdings in Palo Alto Networks, Inc. $PANW"
         },
         {
-            "time": "09:04",
+            "time": "10:05",
             "tag": "MERCADO",
-            "text": "Commerzbank Aktiengesellschaft FI Invests $3.66 Million in Hewlett Packard Enterprise Company $HPE"
+            "text": "Jobs aren\u2019t being lost so much as they\u2019re changing: Top HR company CEO Prising"
         },
         {
-            "time": "09:04",
+            "time": "10:03",
             "tag": "MERCADO",
-            "text": "Citizens Financial Group Inc. RI Invests $5.74 Million in Western Digital Corporation $WDC"
+            "text": "Principle Wealth Partners LLC Makes New $8.59 Million Investment in Oracle Corporation $ORCL"
         },
         {
-            "time": "09:02",
+            "time": "10:03",
             "tag": "MERCADO",
-            "text": "Citizens Financial Group Inc. RI Takes Position in Oracle Corporation $ORCL"
+            "text": "Principle Wealth Partners LLC Invests $1.80 Million in ServiceNow, Inc. $NOW"
         },
         {
-            "time": "09:00",
-            "tag": "AI",
-            "text": "Robotaxi revenue jumps 691% as Pony AI's fleet reaches 1,975 vehicles"
+            "time": "10:03",
+            "tag": "MERCADO",
+            "text": "Mitsubishi UFJ Asset Management Co. Ltd. Makes New Investment in Equinix, Inc. $EQIX"
         }
     ]
 }
