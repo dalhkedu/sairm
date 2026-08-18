@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-18 22:26 UTC",
+        "last_updated": "2026-08-18 23:24 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 219.74,
-            "change": "-0.22%"
+            "change": "-1.1%"
         },
         {
             "symbol": "AMD",
             "price": 484.39,
-            "change": "-2.76%"
+            "change": "+3.23%"
         },
         {
             "symbol": "MSFT",
             "price": 481.63,
-            "change": "+2.05%"
+            "change": "-3.26%"
         },
         {
             "symbol": "CEG",
             "price": 266.83,
-            "change": "-2.43%"
+            "change": "+1.12%"
         },
         {
             "symbol": "VST",
             "price": 140.52,
-            "change": "+0.38%"
+            "change": "-3.42%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.56,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.5
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.79,
-            24.64,
-            24.43,
-            24.21,
-            24.51,
-            24.77,
-            25.02,
-            25.07,
-            24.89,
-            25.01,
-            24.54,
-            24.53
+            26.2,
+            26.08,
+            26.05,
+            26.0,
+            26.43,
+            26.12,
+            25.64,
+            25.32,
+            24.91,
+            24.71,
+            24.62,
+            24.77
         ],
         "hsd_history_software": [
-            10.61,
-            10.79,
-            10.87,
-            10.78,
-            10.61,
-            10.53,
-            10.47,
-            10.5,
-            10.62,
-            10.42,
-            10.35,
-            10.2
+            8.87,
+            8.9,
+            9.04,
+            9.19,
+            9.37,
+            9.5,
+            9.69,
+            9.57,
+            9.67,
+            9.82,
+            9.97,
+            10.12
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:37",
-            "tag": "RESULTADOS",
-            "text": "Fidelity National Information Services (FIS) Could Be 20% Undervalued Following Strong Earnings"
+            "time": "22:30",
+            "tag": "MERCADO",
+            "text": "How Trimble\u2019s Impairment-Driven Loss, Raised Guidance, and Buybacks Will Impact Trimble (TRMB) Investors"
         },
         {
-            "time": "21:25",
+            "time": "22:08",
             "tag": "MERCADO",
-            "text": "International Business Machines (NYSE:IBM) Shares Up 1.7% - Should You Buy?"
+            "text": "SLB Launches QI-FWI Quantitative Interpretation Full-Waveform Inversion Solution"
         },
         {
-            "time": "21:25",
+            "time": "21:48",
             "tag": "MERCADO",
-            "text": "Arista Networks (NYSE:ANET) Stock Price Down 4.6% - What's Next?"
+            "text": "Beijing Fast-Tracks Windows Removal From Government Systems, Adding Fresh Pressure On Microsoft (NASDAQ: MSFT)"
         },
         {
-            "time": "21:24",
+            "time": "21:42",
             "tag": "MERCADO",
-            "text": "Verizon Communications (NYSE:VZ) Shares Up 1.2% - Here's Why"
+            "text": "Salesforce Inc. (NYSE:CRM) Sees Large Drop in Short Interest"
         },
         {
-            "time": "21:24",
+            "time": "21:42",
             "tag": "MERCADO",
-            "text": "Lam Research (NASDAQ:LRCX) Stock Price Down 4.6% - Here's Why"
+            "text": "Qorvo (NASDAQ:QRVO) CFO Sells $504,952.50 in Stock"
         }
     ]
 }
