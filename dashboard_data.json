@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-17 23:24 UTC",
+        "last_updated": "2026-08-18 01:20 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.01,
-            "change": "-1.38%"
+            "change": "+0.52%"
         },
         {
             "symbol": "AMD",
             "price": 506.0,
-            "change": "-1.6%"
+            "change": "+0.7%"
         },
         {
             "symbol": "MSFT",
             "price": 480.35,
-            "change": "-3.39%"
+            "change": "+2.7%"
         },
         {
             "symbol": "CEG",
             "price": 278.2,
-            "change": "-0.04%"
+            "change": "-1.3%"
         },
         {
             "symbol": "VST",
             "price": 146.11,
-            "change": "-3.13%"
+            "change": "-1.26%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.43,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
+            0.53,
+            0.52,
+            0.52,
+            0.53,
+            0.52,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
             0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.49
+            0.51
         ],
         "hsd_history_hardware": [
-            26.23,
-            25.9,
-            25.59,
-            25.29,
-            25.36,
-            25.01,
-            24.9,
-            25.31,
-            25.5,
-            25.29,
-            25.55,
-            25.35
+            26.32,
+            26.02,
+            25.86,
+            25.46,
+            24.97,
+            24.62,
+            25.07,
+            25.2,
+            25.28,
+            25.16,
+            25.37,
+            25.32
         ],
         "hsd_history_software": [
-            10.24,
-            10.08,
-            10.13,
-            9.96,
-            10.01,
-            10.11,
-            10.24,
-            10.36,
-            10.21,
-            10.34,
-            10.21,
-            10.2
+            9.07,
+            9.21,
+            9.22,
+            9.26,
+            9.35,
+            9.53,
+            9.62,
+            9.68,
+            9.73,
+            9.82,
+            9.82,
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:36",
+            "time": "00:01",
             "tag": "MERCADO",
-            "text": "Gen Digital Inc (GEN) Stock Down 3.8% -- Now Undervalued? GF Sco"
+            "text": "Veeva Systems (NYSE: VEEV) exec sells 36K shares in preset plan"
         },
         {
-            "time": "22:05",
+            "time": "23:45",
             "tag": "MERCADO",
-            "text": "Microsoft (NASDAQ: MSFT) HR chief disposes 89 shares for exercise price or tax liability"
+            "text": "Short Interest in United Microelectronics Corporation (NYSE:UMC) Expands By 66.7%"
         },
         {
-            "time": "21:44",
+            "time": "23:02",
             "tag": "MERCADO",
-            "text": "3M Paid Expert Witness $475/Hour to Use ChatGPT to Defend Company in Major Explosion Lawsuit"
+            "text": "Synchrony unveils ChatGPT plugin"
         },
         {
-            "time": "21:35",
-            "tag": "MERCADO",
-            "text": "Is ServiceNow Inc (NOW) a Bargain After 5.1% Drop? GF Value Says Undervalued"
-        },
-        {
-            "time": "21:31",
+            "time": "22:48",
             "tag": "AI",
-            "text": "BlackRock (BLK) & NVIDIA Corporation (NVDA): BlackRock\u2019s Larry Fink Says the US Alone Needs 70 Gigawatts of Power for AI"
+            "text": "Best AI Chip Stocks to Watch: Applied Materials, Teradyne, Micron Rally August 17, 2026"
+        },
+        {
+            "time": "22:44",
+            "tag": "MERCADO",
+            "text": "Zhibao Technology closes $154.7m private placement By Investing.com"
         }
     ]
 }
