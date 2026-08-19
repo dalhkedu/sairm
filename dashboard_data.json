@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-19 21:27 UTC",
+        "last_updated": "2026-08-19 22:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 217.56,
-            "change": "-2.45%"
+            "change": "+3.25%"
         },
         {
             "symbol": "AMD",
             "price": 466.42,
-            "change": "-0.63%"
+            "change": "-1.82%"
         },
         {
             "symbol": "MSFT",
             "price": 484.31,
-            "change": "-2.6%"
+            "change": "-3.28%"
         },
         {
             "symbol": "CEG",
             "price": 274.17,
-            "change": "+1.6%"
+            "change": "+2.04%"
         },
         {
             "symbol": "VST",
             "price": 142.7,
-            "change": "-2.47%"
+            "change": "+3.01%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.4,
+        "cer_current": 0.57,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
+            0.5,
+            0.5,
             0.49,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.51
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.17,
-            23.89,
-            24.18,
-            24.06,
-            24.43,
-            24.49,
-            24.21,
-            24.69,
-            24.39,
-            24.6,
-            25.04,
-            25.23
+            24.7,
+            24.57,
+            25.01,
+            25.37,
+            25.49,
+            25.6,
+            25.37,
+            25.83,
+            25.72,
+            25.57,
+            25.62,
+            25.32
         ],
         "hsd_history_software": [
-            9.94,
-            9.87,
-            10.05,
-            9.91,
-            9.91,
-            10.0,
-            9.84,
-            9.95,
-            9.89,
-            9.83,
-            9.87,
-            9.91
+            10.46,
+            10.54,
+            10.44,
+            10.48,
+            10.37,
+            10.3,
+            10.16,
+            9.98,
+            9.98,
+            10.11,
+            10.28,
+            10.09
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:42",
+            "time": "21:39",
             "tag": "MERCADO",
-            "text": "Rocket One adapts technology used to coordinate thousands of aircraft for drone-defense tests"
+            "text": "Starfighters Space Q2 EPS widens to $(0.24) loss from $(0.09) YoY"
         },
         {
-            "time": "20:30",
+            "time": "21:28",
             "tag": "AI",
-            "text": "Layered data architecture powers Salesforce AI"
+            "text": "PG&E looks to offload 'extremely rare' San Francisco power station, and AI is a selling point"
         },
         {
-            "time": "20:30",
-            "tag": "MERCADO",
-            "text": "Seagate Technology Holdings PLC stock underperforms Wednesday when compared to competitors"
-        },
-        {
-            "time": "20:29",
-            "tag": "MERCADO",
-            "text": "Palo Alto Networks, SentinelOne, DigitalOcean, and Commvault Stocks Trade Down, What You Need To Know"
-        },
-        {
-            "time": "20:26",
+            "time": "21:24",
             "tag": "RESULTADOS",
-            "text": "Jack Henry & Associates Inc (JKHY) (Q4 2026) Earnings Call Highlights: Record Core Wins and Cloud Momentum Drive 7% Revenue Growth"
+            "text": "Analog Devices Earnings: Raising Fair Value Estimate with AI Strength"
+        },
+        {
+            "time": "21:16",
+            "tag": "MERCADO",
+            "text": "James Eric Bjornholt Sells 837 Shares of Microchip Technology (NASDAQ:MCHP) Stock"
+        },
+        {
+            "time": "21:16",
+            "tag": "MERCADO",
+            "text": "Gen Digital stock holds steady as investors digest latest filings"
         }
     ]
 }
