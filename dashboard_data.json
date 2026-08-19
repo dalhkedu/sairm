@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-19 10:30 UTC",
+        "last_updated": "2026-08-19 11:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 219.74,
-            "change": "+3.12%"
+            "change": "+2.68%"
         },
         {
             "symbol": "AMD",
-            "price": 484.39,
-            "change": "+1.59%"
+            "price": NaN,
+            "change": "-2.26%"
         },
         {
             "symbol": "MSFT",
             "price": 481.63,
-            "change": "-3.42%"
+            "change": "-1.27%"
         },
         {
             "symbol": "CEG",
             "price": 266.83,
-            "change": "+0.87%"
+            "change": "-2.02%"
         },
         {
             "symbol": "VST",
             "price": 140.52,
-            "change": "+1.57%"
+            "change": "+1.17%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.61,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
             0.52,
             0.53,
             0.53,
             0.53,
+            0.54,
+            0.53,
             0.52,
             0.51,
-            0.5,
-            0.5,
-            0.5,
             0.51,
-            0.51
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.36,
+            27.28,
+            26.8,
+            26.39,
+            25.97,
+            25.55,
+            25.34,
+            25.79,
+            25.64,
+            25.94,
+            25.69,
             25.19,
-            25.35,
-            25.45,
-            25.49,
-            25.51,
-            25.22,
-            24.81,
-            25.28,
-            25.49,
-            25.4,
-            24.96
+            25.21
         ],
         "hsd_history_software": [
-            10.09,
-            10.25,
-            10.08,
-            10.01,
-            10.03,
-            10.2,
-            10.35,
-            10.19,
-            10.0,
-            9.9,
-            10.0,
-            9.9
+            9.86,
+            9.7,
+            9.73,
+            9.8,
+            9.67,
+            9.72,
+            9.89,
+            9.97,
+            9.83,
+            9.95,
+            9.85,
+            10.04
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:28",
-            "tag": "MERCADO",
-            "text": "HighTower Advisors LLC Reduces Stake in Advanced Micro Devices, Inc. $AMD"
+            "time": "10:42",
+            "tag": "AI",
+            "text": "monday.com (MNDY) Is Down 6.0% After AI Pivot, Job Cuts And Buybacks - Has The Bull Case Changed?"
         },
         {
-            "time": "09:27",
+            "time": "10:30",
             "tag": "MERCADO",
-            "text": "Stoneridge Investment Partners LLC Purchases New Position in Qualcomm Incorporated $QCOM"
+            "text": "Akamai stock edges lower after Q2 beat and fresh guidance"
         },
         {
-            "time": "09:27",
+            "time": "10:29",
             "tag": "MERCADO",
-            "text": "Summit Global Investments Purchases New Shares in Qualcomm Incorporated $QCOM"
+            "text": "JLB & Associates Inc. Buys New Shares in eBay Inc. $EBAY"
         },
         {
-            "time": "09:20",
+            "time": "10:29",
             "tag": "MERCADO",
-            "text": "Spinnaker Investment Group LLC Grows Stock Position in Alphabet Inc. $GOOGL"
+            "text": "Meeder Asset Management Inc. Takes $894,000 Position in Manhattan Associates, Inc. $MANH"
         },
         {
-            "time": "09:20",
-            "tag": "MERCADO",
-            "text": "Hardy Reed LLC Takes Position in Bank of America Corporation $BAC"
+            "time": "10:29",
+            "tag": "AI",
+            "text": "Why Is Intuit (INTU) Being Sued Over AI Risks And Investor Disclosures?"
         }
     ]
 }
