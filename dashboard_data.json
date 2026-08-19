@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-19 06:48 UTC",
+        "last_updated": "2026-08-19 07:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 219.74,
-            "change": "+3.1%"
+            "change": "-0.67%"
         },
         {
             "symbol": "AMD",
             "price": 484.39,
-            "change": "-3.03%"
+            "change": "+2.34%"
         },
         {
             "symbol": "MSFT",
             "price": 481.63,
-            "change": "+2.59%"
+            "change": "-0.72%"
         },
         {
             "symbol": "CEG",
             "price": 266.83,
-            "change": "-2.99%"
+            "change": "+1.49%"
         },
         {
             "symbol": "VST",
             "price": 140.52,
-            "change": "+2.04%"
+            "change": "+2.47%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.51,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
+            0.48,
             0.48,
             0.49,
             0.49,
             0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.16,
-            24.61,
-            24.16,
-            24.37,
-            24.66,
-            24.28,
-            24.25,
-            24.55,
+            24.5,
+            24.7,
+            24.3,
+            24.05,
+            24.08,
+            24.36,
             24.27,
-            24.58,
-            24.16,
-            24.58
+            24.22,
+            24.33,
+            24.25,
+            24.28,
+            24.61
         ],
         "hsd_history_software": [
-            9.3,
-            9.18,
-            9.2,
-            9.36,
-            9.19,
-            9.28,
-            9.39,
+            9.27,
+            9.22,
+            9.37,
             9.51,
-            9.65,
-            9.57,
-            9.75,
-            9.84
+            9.43,
+            9.58,
+            9.7,
+            9.64,
+            9.84,
+            9.9,
+            9.72,
+            9.83
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:02",
-            "tag": "AI",
-            "text": "Synchrony appoints Nimrod Barak as chief AI officer"
-        },
-        {
-            "time": "05:30",
-            "tag": "RESULTADOS",
-            "text": "Keysight Technologies, Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:KEYS) 2026-08-19"
-        },
-        {
-            "time": "05:24",
+            "time": "07:09",
             "tag": "MERCADO",
-            "text": "How Is Visa (NYSE:V) Linking Stablecoins With Global Payments?"
+            "text": "Aberdeen Group plc Boosts Stock Holdings in Verizon Communications Inc. $VZ"
         },
         {
-            "time": "05:20",
-            "tag": "RESULTADOS",
-            "text": "Synopsys (SNPS) Expected to Announce Quarterly Earnings on Wednesday"
-        },
-        {
-            "time": "05:12",
+            "time": "07:09",
             "tag": "MERCADO",
-            "text": "ARM Stock Price Prediction 2025-2026 | Arm Holdings plc American Depositary Shares Forecast"
+            "text": "Avaii Wealth Management LLC Makes New $6.17 Million Investment in T-Mobile US, Inc. $TMUS"
+        },
+        {
+            "time": "07:09",
+            "tag": "MERCADO",
+            "text": "Alamar Capital Management LLC Purchases Shares of 7,543 Palo Alto Networks, Inc. $PANW"
+        },
+        {
+            "time": "07:09",
+            "tag": "MERCADO",
+            "text": "Bank Hapoalim BM Invests $3.58 Million in Qualcomm Incorporated $QCOM"
+        },
+        {
+            "time": "07:02",
+            "tag": "MERCADO",
+            "text": "Garmin stock holds strong after double-digit quarterly growth"
         }
     ]
 }
