@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-19 08:39 UTC",
+        "last_updated": "2026-08-19 09:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 219.74,
-            "change": "+2.76%"
+            "change": "+0.39%"
         },
         {
             "symbol": "AMD",
             "price": 484.39,
-            "change": "-2.92%"
+            "change": "+0.04%"
         },
         {
             "symbol": "MSFT",
             "price": 481.63,
-            "change": "+3.09%"
+            "change": "+0.78%"
         },
         {
             "symbol": "CEG",
             "price": 266.83,
-            "change": "+1.34%"
+            "change": "+1.29%"
         },
         {
             "symbol": "VST",
             "price": 140.52,
-            "change": "+2.57%"
+            "change": "+0.66%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.51,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.47,
+            0.48,
             0.48,
             0.48,
             0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
+            0.48,
+            0.49,
             0.5,
             0.49,
-            0.48,
-            0.49
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.81,
-            25.94,
-            26.15,
-            26.02,
-            25.55,
-            25.46,
-            25.09,
-            25.46,
-            25.23,
-            24.97,
-            24.75,
-            25.25
+            24.11,
+            24.2,
+            24.6,
+            24.26,
+            24.0,
+            24.26,
+            24.15,
+            24.19,
+            24.26,
+            24.37,
+            24.77,
+            24.56
         ],
         "hsd_history_software": [
+            9.04,
+            9.19,
+            9.22,
+            9.4,
+            9.42,
+            9.51,
+            9.61,
             9.63,
+            9.79,
+            9.77,
             9.82,
-            9.89,
-            9.8,
-            9.9,
-            9.98,
-            10.04,
-            9.85,
-            9.78,
-            9.9,
-            9.94,
-            10.03
+            9.96
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:05",
+            "time": "09:12",
             "tag": "MERCADO",
-            "text": "First National Bank of Omaha Buys Shares of 76,617 Salesforce Inc. $CRM"
+            "text": "iQiyi\u2019s revenue falls 5% in the second quarter"
         },
         {
-            "time": "08:05",
-            "tag": "MERCADO",
-            "text": "First National Bank of Omaha Makes New $30.30 Million Investment in Cisco Systems, Inc. $CSCO"
+            "time": "08:57",
+            "tag": "RESULTADOS",
+            "text": "Netflix Trades at 21 Times Forward Earnings After Falling 43% From Its High. Here's How That Multiple Compares to Where the Stock Traded the Last 2 Times It Fell This Far."
         },
         {
-            "time": "08:05",
+            "time": "08:57",
             "tag": "MERCADO",
-            "text": "Deepwater Asset Management LLC Acquires New Stake in Synopsys, Inc. $SNPS"
+            "text": "Meadowbrook Wealth Management LLC Acquires 8,890 Shares of Apple Inc. $AAPL"
         },
         {
-            "time": "08:05",
+            "time": "08:57",
             "tag": "MERCADO",
-            "text": "Fidelity National Financial Inc. Purchases New Position in Oracle Corporation $ORCL"
+            "text": "Private Client Services LLC Sells 1,763 Shares of Apple Inc. $AAPL"
         },
         {
-            "time": "08:04",
-            "tag": "MERCADO",
-            "text": "Deepwater Asset Management LLC Invests $7.98 Million in Take-Two Interactive Software, Inc. $TTWO"
+            "time": "08:56",
+            "tag": "AI",
+            "text": "TE Connectivity stock slips after AI rotation as Q3 2026 results and guidance stay strong"
         }
     ]
 }
