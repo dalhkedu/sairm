@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-19 17:28 UTC",
+        "last_updated": "2026-08-19 18:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 219.01,
-            "change": "-3.18%"
+            "price": 219.48,
+            "change": "+2.12%"
         },
         {
             "symbol": "AMD",
-            "price": 466.5,
-            "change": "-1.75%"
+            "price": 465.73,
+            "change": "-1.09%"
         },
         {
             "symbol": "MSFT",
-            "price": 483.76,
-            "change": "+1.59%"
+            "price": 484.45,
+            "change": "+1.77%"
         },
         {
             "symbol": "CEG",
-            "price": 271.71,
-            "change": "+2.02%"
+            "price": 270.63,
+            "change": "+1.76%"
         },
         {
             "symbol": "VST",
-            "price": 141.45,
-            "change": "+1.48%"
+            "price": 140.78,
+            "change": "+2.98%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.44,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.52,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
+            0.47,
+            0.48,
+            0.48,
+            0.47,
+            0.48,
             0.49,
+            0.48,
+            0.48,
+            0.47,
+            0.48,
             0.49,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            26.47,
-            26.27,
-            26.4,
-            25.91,
-            25.69,
-            25.81,
-            25.81,
-            25.4,
-            25.09,
-            24.87,
-            25.13,
-            25.03
+            26.5,
+            26.67,
+            26.83,
+            26.36,
+            26.02,
+            26.19,
+            25.99,
+            25.6,
+            25.54,
+            25.66,
+            25.24,
+            25.36
         ],
         "hsd_history_software": [
-            10.35,
-            10.39,
-            10.34,
-            10.49,
-            10.37,
-            10.37,
-            10.2,
-            10.14,
-            10.16,
-            9.98,
-            9.98,
-            9.99
+            10.07,
+            9.9,
+            10.1,
+            10.04,
+            10.02,
+            9.84,
+            9.99,
+            10.08,
+            9.99,
+            10.05,
+            10.11,
+            10.06
         ],
         "rci_data": [
             85.0,
-            21.901
+            21.947999999999997
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:15",
-            "tag": "MERCADO",
-            "text": "Palo Alto Networks Inc Stock (PANW) Moved Down by 3.79% on Aug 19: Facts Behind the Movement"
-        },
-        {
-            "time": "16:10",
+            "time": "17:55",
             "tag": "AI",
-            "text": "Safe Pro Awarded Subcontract for Artificial Intelligence Powered Demining Software Under US Department of State Program"
+            "text": "Apple stock stands out among Magnificent Seven on low AI spending"
         },
         {
-            "time": "16:06",
+            "time": "17:52",
             "tag": "MERCADO",
-            "text": "TWST Looks 163.5% Overvalued on GF Value\u2122"
+            "text": "NASA awards $100M spacecraft contract to 4 companies, including 2 based in Brevard"
         },
         {
-            "time": "16:05",
+            "time": "17:49",
             "tag": "MERCADO",
-            "text": "Trimble Arc Agent Automates Logistics Office Work"
+            "text": "Take Two Interactive Software (TTWO) Could Be 13% Undervalued After Q1 Results And Guidance"
         },
         {
-            "time": "16:01",
+            "time": "17:35",
             "tag": "MERCADO",
-            "text": "Apple ended support early for five Apple Watch models, new class action alleges"
+            "text": "Amazon drone delivery is expanding. See in which cities, when"
+        },
+        {
+            "time": "17:32",
+            "tag": "MERCADO",
+            "text": "RBC Capital Adjusts Jack Henry & Associates Price Target to $178 From $173"
         }
     ]
 }
