@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-19 04:38 UTC",
+        "last_updated": "2026-08-19 05:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 219.74,
-            "change": "+2.56%"
+            "change": "+1.55%"
         },
         {
             "symbol": "AMD",
             "price": 484.39,
-            "change": "+2.94%"
+            "change": "-2.58%"
         },
         {
             "symbol": "MSFT",
             "price": 481.63,
-            "change": "-0.62%"
+            "change": "-0.53%"
         },
         {
             "symbol": "CEG",
             "price": 266.83,
-            "change": "-0.34%"
+            "change": "+2.67%"
         },
         {
             "symbol": "VST",
             "price": 140.52,
-            "change": "+2.52%"
+            "change": "-1.62%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.55,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.52,
             0.51,
             0.5,
-            0.49
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.32,
-            23.05,
-            23.07,
-            23.47,
-            23.35,
-            23.71,
-            23.65,
-            24.09,
-            23.88,
-            23.78,
-            24.14,
-            24.52
+            24.71,
+            24.78,
+            24.39,
+            24.57,
+            24.8,
+            24.99,
+            24.83,
+            25.23,
+            24.95,
+            24.65,
+            24.27,
+            24.59
         ],
         "hsd_history_software": [
-            9.85,
-            9.98,
-            9.86,
-            9.68,
-            9.8,
-            9.75,
-            9.77,
+            10.51,
+            10.41,
+            10.55,
+            10.59,
+            10.45,
+            10.32,
+            10.29,
+            10.09,
+            10.07,
             9.88,
-            9.85,
-            9.86,
-            9.94,
-            9.98
+            9.87,
+            10.03
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:11",
+            "time": "05:12",
             "tag": "MERCADO",
-            "text": "WULF Stock Slides As Massive Q2 Loss Rattles Traders"
+            "text": "ARM Stock Price Prediction 2025-2026 | Arm Holdings plc American Depositary Shares Forecast"
         },
         {
-            "time": "03:13",
-            "tag": "RESULTADOS",
-            "text": "uCloudlink Group Q2 2026 Earnings Call Transcript"
+            "time": "05:10",
+            "tag": "AI",
+            "text": "Applied Digital beats Q4 expectations, driven by AI data center growth and strong backlog."
         },
         {
-            "time": "03:12",
-            "tag": "RESULTADOS",
-            "text": "How Rising Revenue And Lower Earnings At Alarm.com (ALRM) Have Changed Its Investment Story"
-        },
-        {
-            "time": "03:07",
-            "tag": "RESULTADOS",
-            "text": "Earnings To Watch: Deere (DE) Reports Q2 Results Tomorrow"
-        },
-        {
-            "time": "03:06",
+            "time": "05:00",
             "tag": "MERCADO",
-            "text": "BofA Sends Bullish Message For Taiwan Semiconductor Stock Fans"
+            "text": "Tradr Debuts First-to-Market ETFs on Meta, AXT, Coherent & Lightwave Logic"
+        },
+        {
+            "time": "04:47",
+            "tag": "AI",
+            "text": "F5 expands AI Gateway to curb costs & secure agents"
+        },
+        {
+            "time": "04:41",
+            "tag": "MERCADO",
+            "text": "Momentum Media Fund and Lunar Records Fund to Provide Investor Relations Coverage and Support for The Hampton Global Passion Projects \"Legacy Series\""
         }
     ]
 }
