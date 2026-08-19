@@ -1,37 +1,37 @@
 {
     "metadata": {
-        "last_updated": "2026-08-19 07:40 UTC",
+        "last_updated": "2026-08-19 08:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 219.74,
-            "change": "-0.67%"
+            "change": "+2.76%"
         },
         {
             "symbol": "AMD",
             "price": 484.39,
-            "change": "+2.34%"
+            "change": "-2.92%"
         },
         {
             "symbol": "MSFT",
             "price": 481.63,
-            "change": "-0.72%"
+            "change": "+3.09%"
         },
         {
             "symbol": "CEG",
             "price": 266.83,
-            "change": "+1.49%"
+            "change": "+1.34%"
         },
         {
             "symbol": "VST",
             "price": 140.52,
-            "change": "+2.47%"
+            "change": "+2.57%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.63,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
@@ -39,43 +39,43 @@
             0.48,
             0.48,
             0.49,
-            0.49,
-            0.49,
-            0.49,
+            0.5,
+            0.5,
             0.5,
             0.5,
             0.51,
-            0.51,
             0.5,
-            0.5
+            0.49,
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.5,
-            24.7,
-            24.3,
-            24.05,
-            24.08,
-            24.36,
-            24.27,
-            24.22,
-            24.33,
-            24.25,
-            24.28,
-            24.61
+            25.81,
+            25.94,
+            26.15,
+            26.02,
+            25.55,
+            25.46,
+            25.09,
+            25.46,
+            25.23,
+            24.97,
+            24.75,
+            25.25
         ],
         "hsd_history_software": [
-            9.27,
-            9.22,
-            9.37,
-            9.51,
-            9.43,
-            9.58,
-            9.7,
-            9.64,
-            9.84,
+            9.63,
+            9.82,
+            9.89,
+            9.8,
             9.9,
-            9.72,
-            9.83
+            9.98,
+            10.04,
+            9.85,
+            9.78,
+            9.9,
+            9.94,
+            10.03
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:09",
+            "time": "08:05",
             "tag": "MERCADO",
-            "text": "Aberdeen Group plc Boosts Stock Holdings in Verizon Communications Inc. $VZ"
+            "text": "First National Bank of Omaha Buys Shares of 76,617 Salesforce Inc. $CRM"
         },
         {
-            "time": "07:09",
+            "time": "08:05",
             "tag": "MERCADO",
-            "text": "Avaii Wealth Management LLC Makes New $6.17 Million Investment in T-Mobile US, Inc. $TMUS"
+            "text": "First National Bank of Omaha Makes New $30.30 Million Investment in Cisco Systems, Inc. $CSCO"
         },
         {
-            "time": "07:09",
+            "time": "08:05",
             "tag": "MERCADO",
-            "text": "Alamar Capital Management LLC Purchases Shares of 7,543 Palo Alto Networks, Inc. $PANW"
+            "text": "Deepwater Asset Management LLC Acquires New Stake in Synopsys, Inc. $SNPS"
         },
         {
-            "time": "07:09",
+            "time": "08:05",
             "tag": "MERCADO",
-            "text": "Bank Hapoalim BM Invests $3.58 Million in Qualcomm Incorporated $QCOM"
+            "text": "Fidelity National Financial Inc. Purchases New Position in Oracle Corporation $ORCL"
         },
         {
-            "time": "07:02",
+            "time": "08:04",
             "tag": "MERCADO",
-            "text": "Garmin stock holds strong after double-digit quarterly growth"
+            "text": "Deepwater Asset Management LLC Invests $7.98 Million in Take-Two Interactive Software, Inc. $TTWO"
         }
     ]
 }
