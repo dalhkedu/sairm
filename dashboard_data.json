@@ -1,80 +1,80 @@
 {
     "metadata": {
-        "last_updated": "2026-08-19 11:27 UTC",
+        "last_updated": "2026-08-19 12:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 219.74,
-            "change": "+2.68%"
+            "change": "+2.38%"
         },
         {
             "symbol": "AMD",
-            "price": NaN,
-            "change": "-2.26%"
+            "price": 484.39,
+            "change": "-1.38%"
         },
         {
             "symbol": "MSFT",
             "price": 481.63,
-            "change": "-1.27%"
+            "change": "+2.08%"
         },
         {
             "symbol": "CEG",
             "price": 266.83,
-            "change": "-2.02%"
+            "change": "+0.85%"
         },
         {
             "symbol": "VST",
             "price": 140.52,
-            "change": "+1.17%"
+            "change": "-1.39%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.69,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.53,
-            0.53,
-            0.53,
-            0.54,
-            0.53,
-            0.52,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            27.28,
-            26.8,
-            26.39,
-            25.97,
-            25.55,
-            25.34,
-            25.79,
-            25.64,
-            25.94,
-            25.69,
-            25.19,
-            25.21
+            24.9,
+            24.96,
+            24.66,
+            24.66,
+            24.73,
+            25.06,
+            24.63,
+            24.47,
+            24.6,
+            24.77,
+            24.45,
+            24.52
         ],
         "hsd_history_software": [
-            9.86,
-            9.7,
-            9.73,
-            9.8,
+            9.56,
             9.67,
-            9.72,
-            9.89,
-            9.97,
-            9.83,
-            9.95,
+            9.62,
+            9.68,
+            9.84,
+            9.78,
             9.85,
+            10.04,
+            9.96,
+            9.93,
+            10.0,
             10.04
         ],
         "rci_data": [
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:42",
+            "time": "12:11",
+            "tag": "MERCADO",
+            "text": "PGY Stock Price and Chart \u2014 NASDAQ:PGY"
+        },
+        {
+            "time": "12:09",
+            "tag": "MERCADO",
+            "text": "Opendoor Is Down 42% in 2026: How Does It Compare to Housing Competitors Like Offerpad and Compass?"
+        },
+        {
+            "time": "12:02",
+            "tag": "RESULTADOS",
+            "text": "Opera (NASDAQ:OPRA) Announces Earnings Results, Beats Expectations By $0.06 EPS"
+        },
+        {
+            "time": "12:01",
             "tag": "AI",
-            "text": "monday.com (MNDY) Is Down 6.0% After AI Pivot, Job Cuts And Buybacks - Has The Bull Case Changed?"
+            "text": "Oracle Health's AI note generation saved physicians more than 400,000 hours in the U.S."
         },
         {
-            "time": "10:30",
+            "time": "11:59",
             "tag": "MERCADO",
-            "text": "Akamai stock edges lower after Q2 beat and fresh guidance"
-        },
-        {
-            "time": "10:29",
-            "tag": "MERCADO",
-            "text": "JLB & Associates Inc. Buys New Shares in eBay Inc. $EBAY"
-        },
-        {
-            "time": "10:29",
-            "tag": "MERCADO",
-            "text": "Meeder Asset Management Inc. Takes $894,000 Position in Manhattan Associates, Inc. $MANH"
-        },
-        {
-            "time": "10:29",
-            "tag": "AI",
-            "text": "Why Is Intuit (INTU) Being Sued Over AI Risks And Investor Disclosures?"
+            "text": "Salesforce expands Headless Data 360 for MCP so developers can bring insights to agents"
         }
     ]
 }
