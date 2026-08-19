@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-19 22:26 UTC",
+        "last_updated": "2026-08-19 23:24 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 217.56,
-            "change": "+3.25%"
+            "change": "+3.09%"
         },
         {
             "symbol": "AMD",
             "price": 466.42,
-            "change": "-1.82%"
+            "change": "+1.07%"
         },
         {
             "symbol": "MSFT",
             "price": 484.31,
-            "change": "-3.28%"
+            "change": "-3.45%"
         },
         {
             "symbol": "CEG",
             "price": 274.17,
-            "change": "+2.04%"
+            "change": "+1.6%"
         },
         {
             "symbol": "VST",
             "price": 142.7,
-            "change": "+3.01%"
+            "change": "+3.29%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.68,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
             0.5,
             0.5,
             0.5,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5
+            0.5,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.7,
-            24.57,
-            25.01,
-            25.37,
-            25.49,
-            25.6,
-            25.37,
-            25.83,
-            25.72,
-            25.57,
-            25.62,
-            25.32
+            22.92,
+            23.19,
+            23.6,
+            24.02,
+            24.3,
+            24.53,
+            24.58,
+            24.58,
+            25.05,
+            25.17,
+            24.86,
+            25.13
         ],
         "hsd_history_software": [
             10.46,
-            10.54,
-            10.44,
-            10.48,
-            10.37,
-            10.3,
-            10.16,
-            9.98,
-            9.98,
-            10.11,
-            10.28,
-            10.09
+            10.55,
+            10.51,
+            10.35,
+            10.24,
+            10.31,
+            10.24,
+            10.04,
+            10.18,
+            10.21,
+            10.03,
+            10.17
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:39",
+            "time": "22:30",
             "tag": "MERCADO",
-            "text": "Starfighters Space Q2 EPS widens to $(0.24) loss from $(0.09) YoY"
+            "text": "Digital Realty Trust registers resale of shares issued in Columbia Capital acquisition"
         },
         {
-            "time": "21:28",
-            "tag": "AI",
-            "text": "PG&E looks to offload 'extremely rare' San Francisco power station, and AI is a selling point"
-        },
-        {
-            "time": "21:24",
-            "tag": "RESULTADOS",
-            "text": "Analog Devices Earnings: Raising Fair Value Estimate with AI Strength"
-        },
-        {
-            "time": "21:16",
+            "time": "22:12",
             "tag": "MERCADO",
-            "text": "James Eric Bjornholt Sells 837 Shares of Microchip Technology (NASDAQ:MCHP) Stock"
+            "text": "Generac (GNRC) Stock Sees Modest Fair Value Cut As Analysts Weigh Data Center Execution"
         },
         {
-            "time": "21:16",
+            "time": "21:53",
             "tag": "MERCADO",
-            "text": "Gen Digital stock holds steady as investors digest latest filings"
+            "text": "HSBC, Standard Chartered Test Interbank Tokenized Deposits On SWIFT"
+        },
+        {
+            "time": "21:50",
+            "tag": "MERCADO",
+            "text": "Broadcom (AVGO) Is Down More Than 20%\u2014Why TD Cowen Still Sees 27% Upside"
+        },
+        {
+            "time": "21:45",
+            "tag": "MERCADO",
+            "text": "Broadcom: Multisourcing Doesn\u2019t Erode Massive Growth and a Buying Opportunity"
         }
     ]
 }
