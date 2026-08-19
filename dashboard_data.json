@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-19 20:30 UTC",
+        "last_updated": "2026-08-19 21:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": NaN,
-            "change": "-3.28%"
+            "price": 217.56,
+            "change": "-2.45%"
         },
         {
             "symbol": "AMD",
             "price": 466.42,
-            "change": "+0.51%"
+            "change": "-0.63%"
         },
         {
             "symbol": "MSFT",
             "price": 484.31,
-            "change": "-1.73%"
+            "change": "-2.6%"
         },
         {
             "symbol": "CEG",
             "price": 274.17,
-            "change": "-1.64%"
+            "change": "+1.6%"
         },
         {
             "symbol": "VST",
             "price": 142.7,
-            "change": "+1.01%"
+            "change": "-2.47%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
-        "rci_current": NaN,
+        "cer_current": 0.4,
+        "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
             0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.49
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.59,
-            25.22,
-            25.39,
-            24.93,
-            24.44,
-            24.33,
-            24.77,
-            24.48,
-            24.89,
-            25.18,
-            25.58,
-            25.38
+            24.17,
+            23.89,
+            24.18,
+            24.06,
+            24.43,
+            24.49,
+            24.21,
+            24.69,
+            24.39,
+            24.6,
+            25.04,
+            25.23
         ],
         "hsd_history_software": [
-            9.17,
-            9.29,
-            9.23,
-            9.35,
-            9.51,
-            9.69,
-            9.81,
+            9.94,
+            9.87,
+            10.05,
             9.91,
-            9.88,
-            9.71,
-            9.79,
-            9.83
+            9.91,
+            10.0,
+            9.84,
+            9.95,
+            9.89,
+            9.83,
+            9.87,
+            9.91
         ],
         "rci_data": [
             85.0,
-            NaN
+            21.756
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:41",
+            "time": "20:42",
             "tag": "MERCADO",
-            "text": "CACI Opens Manufacturing Center of Excellence for Defense Electronics in Rochester, NY"
+            "text": "Rocket One adapts technology used to coordinate thousands of aircraft for drone-defense tests"
         },
         {
-            "time": "19:29",
-            "tag": "MERCADO",
-            "text": "Coherent Trades Below Its Own Street Target After a 13% Drop With No Bad News"
-        },
-        {
-            "time": "19:10",
+            "time": "20:30",
             "tag": "AI",
-            "text": "Need to find a Goldilocks balance in AI: Check Point Software CEO"
+            "text": "Layered data architecture powers Salesforce AI"
         },
         {
-            "time": "19:09",
+            "time": "20:30",
             "tag": "MERCADO",
-            "text": "Insider Selling: Verizon Communications (NYSE:VZ) CEO Sells $53,548.00 in Stock"
+            "text": "Seagate Technology Holdings PLC stock underperforms Wednesday when compared to competitors"
         },
         {
-            "time": "19:07",
+            "time": "20:29",
             "tag": "MERCADO",
-            "text": "Microchip Technology shareholders approve equity plan amendment and board elections"
+            "text": "Palo Alto Networks, SentinelOne, DigitalOcean, and Commvault Stocks Trade Down, What You Need To Know"
+        },
+        {
+            "time": "20:26",
+            "tag": "RESULTADOS",
+            "text": "Jack Henry & Associates Inc (JKHY) (Q4 2026) Earnings Call Highlights: Record Core Wins and Cloud Momentum Drive 7% Revenue Growth"
         }
     ]
 }
