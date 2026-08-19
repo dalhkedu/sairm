@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-08-19 02:59 UTC",
+        "last_updated": "2026-08-19 03:52 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 219.74,
-            "change": "-1.6%"
+            "change": "-2.5%"
         },
         {
             "symbol": "AMD",
             "price": 484.39,
-            "change": "-3.4%"
+            "change": "-1.93%"
         },
         {
             "symbol": "MSFT",
             "price": 481.63,
-            "change": "+1.86%"
+            "change": "-0.21%"
         },
         {
             "symbol": "CEG",
             "price": 266.83,
-            "change": "+3.19%"
+            "change": "+1.31%"
         },
         {
             "symbol": "VST",
             "price": 140.52,
-            "change": "+3.02%"
+            "change": "+1.28%"
         }
     ],
     "dashboard_metrics": {
@@ -37,45 +37,45 @@
         "energy_price": 128.4,
         "cer_history": [
             0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
+            0.51,
             0.51,
             0.52,
             0.51,
-            0.51,
-            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.38,
-            24.93,
-            25.21,
-            24.99,
-            24.99,
-            24.79,
-            24.97,
-            24.94,
-            24.51,
+            24.23,
             24.52,
-            24.7,
-            24.77
+            24.21,
+            24.61,
+            24.55,
+            24.78,
+            25.23,
+            25.18,
+            25.29,
+            25.11,
+            24.95,
+            24.53
         ],
         "hsd_history_software": [
-            10.37,
+            10.89,
+            10.76,
+            10.62,
             10.46,
-            10.35,
-            10.2,
-            10.06,
-            10.23,
-            10.11,
-            10.21,
+            10.27,
             10.28,
-            10.09,
-            10.07,
-            9.99
+            10.14,
+            10.01,
+            9.84,
+            9.98,
+            10.14,
+            9.96
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "03:13",
+            "tag": "RESULTADOS",
+            "text": "uCloudlink Group Q2 2026 Earnings Call Transcript"
+        },
+        {
+            "time": "03:06",
+            "tag": "MERCADO",
+            "text": "BofA Sends Bullish Message For Taiwan Semiconductor Stock Fans"
+        },
+        {
+            "time": "02:53",
+            "tag": "AI",
+            "text": "TVA, Kairos Power, Google partner to sustain nuclear demand in East TN during AI boom"
+        },
+        {
             "time": "01:42",
             "tag": "MERCADO",
             "text": "Roundtable Rings Nasdaq Closing Bell as Platform Launches and Q4 Revenue Expected"
@@ -134,21 +149,6 @@
             "time": "01:42",
             "tag": "AI",
             "text": "Roundtable CEO James Heckman Rings Nasdaq Closing Bell, Unveiling World\u2019s Only AI/DeFi Platform for Premium Media"
-        },
-        {
-            "time": "01:27",
-            "tag": "MERCADO",
-            "text": "Cummins unveils largest-ever battery system for data center project"
-        },
-        {
-            "time": "01:10",
-            "tag": "MERCADO",
-            "text": "NRO Taps HawkEye 360 for Operational Commercial RF Capabilities Contract"
-        },
-        {
-            "time": "01:10",
-            "tag": "MERCADO",
-            "text": "Meta (NASDAQ: META) officer Powell settles RSUs, withholds shares for tax"
         }
     ]
 }
