@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-19 13:46 UTC",
+        "last_updated": "2026-08-19 14:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 220.08,
-            "change": "+2.93%"
+            "price": 218.72,
+            "change": "+2.85%"
         },
         {
             "symbol": "AMD",
-            "price": 476.32,
-            "change": "-1.15%"
+            "price": 466.02,
+            "change": "+2.58%"
         },
         {
             "symbol": "MSFT",
-            "price": 480.58,
-            "change": "+3.48%"
+            "price": 481.86,
+            "change": "-3.47%"
         },
         {
             "symbol": "CEG",
-            "price": 270.45,
-            "change": "-2.29%"
+            "price": 270.74,
+            "change": "+3.3%"
         },
         {
             "symbol": "VST",
-            "price": 140.04,
-            "change": "-0.29%"
+            "price": 138.88,
+            "change": "+0.13%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
+        "cer_current": 0.59,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.5,
             0.5,
             0.49,
             0.5,
-            0.49,
-            0.49,
-            0.49,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
             0.5,
             0.5,
             0.5,
-            0.5
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            23.86,
-            24.02,
-            23.89,
-            24.17,
-            24.3,
-            24.15,
-            24.51,
-            24.24,
-            24.66,
-            25.13,
-            24.68,
-            25.15
+            23.97,
+            24.14,
+            24.08,
+            24.18,
+            24.42,
+            24.46,
+            24.45,
+            24.58,
+            24.62,
+            24.89,
+            24.65,
+            24.59
         ],
         "hsd_history_software": [
-            10.4,
-            10.38,
-            10.32,
+            10.61,
+            10.46,
+            10.35,
+            10.25,
+            10.35,
+            10.35,
+            10.31,
             10.34,
-            10.19,
-            10.0,
-            9.86,
-            9.89,
-            10.06,
-            9.88,
-            9.98,
-            9.86
+            10.28,
+            10.15,
+            10.33,
+            10.14
         ],
         "rci_data": [
             85.0,
-            22.008000000000003
+            21.872
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:03",
+            "time": "14:00",
             "tag": "AI",
-            "text": "Palo Alto Networks Introduces Frontier AI Critical Defense Program"
+            "text": "Kore.ai Named a Leader by Gartner, Forrester, and Everest Group Across Five Major Enterprise AI Evaluations"
         },
         {
-            "time": "13:00",
+            "time": "13:59",
             "tag": "MERCADO",
-            "text": "Rigetti Computing (NASDAQ:RGTI) stock in focus on qubit fidelity milestone"
+            "text": "Oppenheimer Raises Price Target on Jack Henry & Associates to $209 From $208, Maintains Outperform Rating"
         },
         {
-            "time": "12:51",
+            "time": "13:46",
             "tag": "MERCADO",
-            "text": "Analog Devices (NASDAQ:ADI) Q2 Sales Beat Estimates, Inventory Levels Improve"
+            "text": "Arista Networks calls time on server line due to supply chain pressures"
         },
         {
-            "time": "12:33",
+            "time": "13:46",
             "tag": "AI",
-            "text": "S&P Global upgrades SK Hynix rating to A- on AI strength"
+            "text": "F5 wants to keep your AI safe and compute costs cheap"
         },
         {
-            "time": "12:29",
-            "tag": "AI",
-            "text": "Analog Devices Q3 2026 earnings beat on AI data center demand"
+            "time": "13:42",
+            "tag": "MERCADO",
+            "text": "Deflated Microchip Technology Stock Could Target a Contrarian Move to $85"
         }
     ]
 }
