@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-19 09:36 UTC",
+        "last_updated": "2026-08-19 10:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 219.74,
-            "change": "+0.39%"
+            "change": "+3.12%"
         },
         {
             "symbol": "AMD",
             "price": 484.39,
-            "change": "+0.04%"
+            "change": "+1.59%"
         },
         {
             "symbol": "MSFT",
             "price": 481.63,
-            "change": "+0.78%"
+            "change": "-3.42%"
         },
         {
             "symbol": "CEG",
             "price": 266.83,
-            "change": "+1.29%"
+            "change": "+0.87%"
         },
         {
             "symbol": "VST",
             "price": 140.52,
-            "change": "+0.66%"
+            "change": "+1.57%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.6,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.5,
-            0.49,
+            0.51,
+            0.52,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
+            0.51,
             0.5,
             0.5,
+            0.5,
+            0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            24.11,
-            24.2,
-            24.6,
-            24.26,
-            24.0,
-            24.26,
-            24.15,
-            24.19,
-            24.26,
-            24.37,
-            24.77,
-            24.56
+            25.36,
+            25.19,
+            25.35,
+            25.45,
+            25.49,
+            25.51,
+            25.22,
+            24.81,
+            25.28,
+            25.49,
+            25.4,
+            24.96
         ],
         "hsd_history_software": [
-            9.04,
-            9.19,
-            9.22,
-            9.4,
-            9.42,
-            9.51,
-            9.61,
-            9.63,
-            9.79,
-            9.77,
-            9.82,
-            9.96
+            10.09,
+            10.25,
+            10.08,
+            10.01,
+            10.03,
+            10.2,
+            10.35,
+            10.19,
+            10.0,
+            9.9,
+            10.0,
+            9.9
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:12",
+            "time": "09:28",
             "tag": "MERCADO",
-            "text": "iQiyi\u2019s revenue falls 5% in the second quarter"
+            "text": "HighTower Advisors LLC Reduces Stake in Advanced Micro Devices, Inc. $AMD"
         },
         {
-            "time": "08:57",
-            "tag": "RESULTADOS",
-            "text": "Netflix Trades at 21 Times Forward Earnings After Falling 43% From Its High. Here's How That Multiple Compares to Where the Stock Traded the Last 2 Times It Fell This Far."
-        },
-        {
-            "time": "08:57",
+            "time": "09:27",
             "tag": "MERCADO",
-            "text": "Meadowbrook Wealth Management LLC Acquires 8,890 Shares of Apple Inc. $AAPL"
+            "text": "Stoneridge Investment Partners LLC Purchases New Position in Qualcomm Incorporated $QCOM"
         },
         {
-            "time": "08:57",
+            "time": "09:27",
             "tag": "MERCADO",
-            "text": "Private Client Services LLC Sells 1,763 Shares of Apple Inc. $AAPL"
+            "text": "Summit Global Investments Purchases New Shares in Qualcomm Incorporated $QCOM"
         },
         {
-            "time": "08:56",
-            "tag": "AI",
-            "text": "TE Connectivity stock slips after AI rotation as Q3 2026 results and guidance stay strong"
+            "time": "09:20",
+            "tag": "MERCADO",
+            "text": "Spinnaker Investment Group LLC Grows Stock Position in Alphabet Inc. $GOOGL"
+        },
+        {
+            "time": "09:20",
+            "tag": "MERCADO",
+            "text": "Hardy Reed LLC Takes Position in Bank of America Corporation $BAC"
         }
     ]
 }
