@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-20 22:29 UTC",
+        "last_updated": "2026-08-20 23:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 216.85,
-            "change": "+1.74%"
+            "change": "+0.54%"
         },
         {
             "symbol": "AMD",
             "price": 469.45,
-            "change": "+0.89%"
+            "change": "+3.35%"
         },
         {
             "symbol": "MSFT",
             "price": 481.15,
-            "change": "+1.76%"
+            "change": "+0.25%"
         },
         {
             "symbol": "CEG",
             "price": 272.92,
-            "change": "+0.18%"
+            "change": "-2.64%"
         },
         {
             "symbol": "VST",
             "price": 138.94,
-            "change": "-1.97%"
+            "change": "+0.36%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.52,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.55,
-            0.54,
-            0.54,
-            0.54,
-            0.54,
-            0.54,
-            0.54,
-            0.54,
             0.53,
             0.52,
+            0.52,
+            0.52,
+            0.52,
             0.51,
-            0.5
+            0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.46,
-            25.36,
-            25.08,
-            24.82,
-            24.38,
-            24.72,
-            24.83,
-            24.95,
-            24.56,
-            24.31,
-            24.42,
-            24.77
+            24.81,
+            24.68,
+            24.24,
+            24.06,
+            24.43,
+            24.39,
+            24.73,
+            24.33,
+            24.73,
+            24.4,
+            24.79,
+            24.56
         ],
         "hsd_history_software": [
-            10.75,
-            10.54,
-            10.62,
-            10.44,
-            10.37,
-            10.26,
-            10.39,
+            10.11,
+            9.96,
+            10.03,
+            9.86,
+            10.05,
+            10.18,
+            10.27,
             10.31,
+            10.16,
+            10.09,
             10.23,
-            10.1,
-            10.28,
-            10.14
+            10.03
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:29",
+            "time": "22:54",
+            "tag": "MERCADO",
+            "text": "Anthropic adds Citigroup to lead IPO banks ahead of listing - Bloomberg"
+        },
+        {
+            "time": "22:42",
+            "tag": "MERCADO",
+            "text": "Astera Labs (ALAB) COO\u2019s 90,630-share tax sale detailed"
+        },
+        {
+            "time": "22:25",
+            "tag": "AI",
+            "text": "AVGO Stock Inches Higher \u2014 Broadcom Reportedly Eyes Nearly $100B Debt Package To Fund AI Infrastructure Expansion"
+        },
+        {
+            "time": "22:17",
             "tag": "MERCADO",
             "text": "Anthropic Set to Add Citigroup to Top IPO Banks on Mega-Listing"
         },
         {
-            "time": "21:27",
-            "tag": "MERCADO",
-            "text": "Deere CEO lauds \u2018disciplined execution\u2019 as key to company\u2019s resilience"
-        },
-        {
-            "time": "21:24",
-            "tag": "MERCADO",
-            "text": "VirTra stock rises on $1.5M U.S. Army training contract By Investing.com"
-        },
-        {
-            "time": "21:12",
-            "tag": "MERCADO",
-            "text": "Astera Labs president & COO sells $30.8m in shares"
-        },
-        {
-            "time": "21:11",
+            "time": "22:06",
             "tag": "AI",
-            "text": "T-Mobile US network chief touts AI transformation and where telecom is best positioned to lead"
+            "text": "Can Merck & Company (MRK)\u2019s Stake in Evaxion A/S (EVAX) Validate the Potential of AI-Driven Vaccine Discovery?"
         }
     ]
 }
