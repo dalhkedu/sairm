@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-20 15:35 UTC",
+        "last_updated": "2026-08-20 16:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 216.45,
-            "change": "-0.47%"
+            "price": 216.94,
+            "change": "+2.95%"
         },
         {
             "symbol": "AMD",
-            "price": 462.89,
-            "change": "+2.81%"
+            "price": 463.48,
+            "change": "+1.11%"
         },
         {
             "symbol": "MSFT",
-            "price": 480.41,
-            "change": "+1.17%"
+            "price": 483.1,
+            "change": "+1.56%"
         },
         {
             "symbol": "CEG",
-            "price": 275.32,
-            "change": "-1.54%"
+            "price": 273.34,
+            "change": "-0.02%"
         },
         {
             "symbol": "VST",
-            "price": 139.95,
-            "change": "-3.35%"
+            "price": 139.21,
+            "change": "+1.42%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.46,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.53,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
             0.52,
             0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
             0.51,
             0.5,
             0.5,
-            0.49,
             0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            23.87,
+            23.91,
+            23.58,
+            23.99,
+            24.03,
             24.33,
-            24.68,
-            24.76,
-            25.06,
-            24.61,
+            24.41,
             24.3,
-            24.49,
-            24.88,
-            24.72,
-            24.9,
-            25.37
+            24.74,
+            24.77,
+            25.01,
+            24.82,
+            25.27
         ],
         "hsd_history_software": [
-            10.26,
-            10.06,
-            10.26,
-            10.21,
-            10.25,
-            10.35,
-            10.22,
-            10.12,
-            10.23,
-            10.11,
-            10.05,
-            9.86
+            9.72,
+            9.56,
+            9.38,
+            9.52,
+            9.41,
+            9.58,
+            9.68,
+            9.65,
+            9.72,
+            9.85,
+            9.86,
+            9.92
         ],
         "rci_data": [
             85.0,
-            21.644999999999996
+            21.694
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:56",
-            "tag": "AI",
-            "text": "Chai tees up Bristol Myers Squibb AI antibody discovery collab"
-        },
-        {
-            "time": "14:48",
-            "tag": "AI",
-            "text": "Meta Falls Far Behind Amazon, Alphabet, and Microsoft In AI"
-        },
-        {
-            "time": "14:46",
+            "time": "16:02",
             "tag": "MERCADO",
-            "text": "Paycom Software stock extends post-earnings rally as guidance and analyst estimates point to 2026 growth"
+            "text": "Revit as a Forma Connected Client: What customers can do today"
         },
         {
-            "time": "14:44",
-            "tag": "RESULTADOS",
-            "text": "Deere Stock (DE) Jumps 8% as Earnings Get a Boost from AI"
-        },
-        {
-            "time": "14:44",
+            "time": "15:43",
             "tag": "MERCADO",
-            "text": "Arista Stock Is Up 40% This Year. The Guidance Raises Explain Why."
+            "text": "Prevail Bank Selects Jack Henry & Associates, Inc. to Differentiate Through Open Ecosystem and Ai Innovation"
+        },
+        {
+            "time": "15:20",
+            "tag": "AI",
+            "text": "Palo Alto Networks and NTT DATA team up on a $1 billion AI security push"
+        },
+        {
+            "time": "15:15",
+            "tag": "MERCADO",
+            "text": "CrowdStrike Holdings Inc Stock (CRWD) Moved Down by 3.97% on Aug 20: A Full Analysis"
+        },
+        {
+            "time": "15:11",
+            "tag": "MERCADO",
+            "text": "Rocket Lab has nine more launches booked to build a satellite network by 2030"
         }
     ]
 }
