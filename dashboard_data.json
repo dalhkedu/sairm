@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-20 07:42 UTC",
+        "last_updated": "2026-08-20 08:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 217.56,
-            "change": "+2.63%"
+            "change": "+1.45%"
         },
         {
             "symbol": "AMD",
             "price": 466.42,
-            "change": "+0.96%"
+            "change": "+2.17%"
         },
         {
             "symbol": "MSFT",
             "price": 484.31,
-            "change": "+3.39%"
+            "change": "-1.06%"
         },
         {
             "symbol": "CEG",
             "price": 274.17,
-            "change": "+2.12%"
+            "change": "-1.54%"
         },
         {
             "symbol": "VST",
             "price": 142.7,
-            "change": "+1.17%"
+            "change": "-2.68%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.53,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
             0.5,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.25,
-            24.1,
-            24.54,
-            24.83,
-            24.87,
-            24.9,
-            25.07,
-            25.18,
-            25.45,
-            25.32,
-            24.93,
-            25.29
+            26.58,
+            26.07,
+            26.46,
+            26.14,
+            26.46,
+            26.09,
+            25.77,
+            25.76,
+            25.62,
+            25.41,
+            25.1,
+            25.42
         ],
         "hsd_history_software": [
-            9.47,
-            9.49,
-            9.68,
             9.73,
-            9.67,
-            9.5,
-            9.64,
-            9.62,
             9.8,
-            9.93,
+            9.74,
             9.79,
-            9.94
+            9.96,
+            10.16,
+            10.14,
+            10.13,
+            10.06,
+            10.0,
+            10.02,
+            10.02
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:05",
-            "tag": "RESULTADOS",
-            "text": "Applied Materials\u2019s Q2 Earnings Call: Our Top 5 Analyst Questions"
+            "time": "08:30",
+            "tag": "MERCADO",
+            "text": "ON Semiconductor stock holds in the upper $70s as fresh Q2 2026 earnings and guidance frame the outl"
         },
         {
-            "time": "07:00",
+            "time": "08:08",
             "tag": "MERCADO",
-            "text": "Jack Henry & Associates, Inc. (NASDAQ:JKHY) Given Average Recommendation of \"Moderate Buy\" by Analysts"
+            "text": "First National Bank of Omaha Buys New Holdings in T-Mobile US, Inc. $TMUS"
         },
         {
-            "time": "06:32",
+            "time": "08:08",
             "tag": "MERCADO",
-            "text": "Temenos Named a Leader in Gartner\u00ae Magic Quadrant for Retail Core Banking Systems, Europe"
+            "text": "9,886 Shares in RTX Corporation $RTX Bought by Foster & Motley Inc."
         },
         {
-            "time": "06:25",
+            "time": "08:08",
             "tag": "MERCADO",
-            "text": "How Investors Are Reacting To Skyworks (SWKS) Diversification Push And Qorvo Merger Execution Risks"
+            "text": "Deutsche Bank AG Purchases Shares of 3,913,595 PayPal Holdings, Inc. $PYPL"
         },
         {
-            "time": "06:10",
+            "time": "08:04",
             "tag": "MERCADO",
-            "text": "Synaptics VP Esther Song sells $45,307 in company stock By Investing.com"
+            "text": "Diversify Advisory Services LLC Makes New Investment in Generac Holdings Inc. $GNRC"
         }
     ]
 }
