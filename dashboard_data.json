@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-20 11:28 UTC",
+        "last_updated": "2026-08-20 12:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 217.56,
-            "change": "+0.32%"
+            "change": "+2.02%"
         },
         {
             "symbol": "AMD",
             "price": 466.42,
-            "change": "-3.08%"
+            "change": "-2.61%"
         },
         {
             "symbol": "MSFT",
             "price": 484.31,
-            "change": "+1.51%"
+            "change": "-1.65%"
         },
         {
             "symbol": "CEG",
             "price": 274.17,
-            "change": "-1.51%"
+            "change": "+3.49%"
         },
         {
             "symbol": "VST",
             "price": 142.7,
-            "change": "+2.27%"
+            "change": "-0.89%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.68,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
             0.5,
             0.49,
             0.5,
             0.5,
             0.51,
             0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            25.35,
-            25.84,
-            26.08,
-            26.39,
-            26.31,
-            25.87,
-            26.01,
-            26.01,
+            25.62,
             26.04,
-            25.74,
-            25.56,
-            25.13
+            26.48,
+            26.16,
+            25.72,
+            25.25,
+            24.98,
+            25.22,
+            25.47,
+            25.68,
+            25.41,
+            25.36
         ],
         "hsd_history_software": [
-            10.04,
-            10.22,
-            10.29,
-            10.11,
-            10.28,
-            10.31,
-            10.3,
-            10.19,
-            10.08,
+            10.05,
+            10.01,
             9.99,
-            10.0,
-            9.85
+            9.97,
+            9.9,
+            9.79,
+            9.72,
+            9.88,
+            9.8,
+            9.7,
+            9.69,
+            9.84
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:30",
-            "tag": "MERCADO",
-            "text": "Daqo New Energy Q2 Loss Narrows to $81.2M | DQ Stock News"
+            "time": "12:06",
+            "tag": "AI",
+            "text": "Sysco adds two directors, targets AI-driven cost savings of $100M"
         },
         {
-            "time": "10:23",
-            "tag": "MERCADO",
-            "text": "Telefonica Chile signs multi-year Amdocs deal to accelerate network modernisation"
+            "time": "12:03",
+            "tag": "AI",
+            "text": "Sysco's AI transformation includes a $100 million cost-savings program"
         },
         {
-            "time": "10:18",
+            "time": "11:32",
             "tag": "MERCADO",
-            "text": "Johnson Financial Group Inc. Makes New $2.52 Million Investment in F5, Inc. $FFIV"
+            "text": "Foresight and VisionWave plan 3D and infrared vision for a driverless military vehicle"
         },
         {
-            "time": "10:15",
+            "time": "11:32",
             "tag": "MERCADO",
-            "text": "Garmin Made a $200 Whoop Rival But Misses Appeal of Screenless Trackers"
+            "text": "Leidos Holdings stock holds in the mid-$140s as Q2 2026 beat and guidance hike frame the outlook"
         },
         {
-            "time": "10:13",
+            "time": "11:30",
             "tag": "MERCADO",
-            "text": "Kentucky Farm Bureau Mutual Insurance Co Invests $1.04 Million in Intuit Inc. $INTU"
+            "text": "S&P 500 Futures Decline in Premarket Trading; Freedom Holding, Paycom Software Lag"
         }
     ]
 }
