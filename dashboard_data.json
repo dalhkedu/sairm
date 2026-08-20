@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-20 21:30 UTC",
+        "last_updated": "2026-08-20 22:29 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 216.85,
-            "change": "+1.41%"
+            "change": "+1.74%"
         },
         {
             "symbol": "AMD",
             "price": 469.45,
-            "change": "-1.33%"
+            "change": "+0.89%"
         },
         {
             "symbol": "MSFT",
-            "price": NaN,
-            "change": "+0.77%"
+            "price": 481.15,
+            "change": "+1.76%"
         },
         {
             "symbol": "CEG",
             "price": 272.92,
-            "change": "-1.95%"
+            "change": "+0.18%"
         },
         {
             "symbol": "VST",
             "price": 138.94,
-            "change": "+1.89%"
+            "change": "-1.97%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.42,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
+            0.55,
+            0.54,
+            0.54,
+            0.54,
+            0.54,
+            0.54,
+            0.54,
+            0.54,
+            0.53,
+            0.52,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.95,
-            24.88,
-            24.48,
+            25.46,
+            25.36,
+            25.08,
+            24.82,
             24.38,
-            24.68,
-            25.05,
-            24.96,
-            24.73,
-            24.84,
-            25.25,
-            25.45,
-            25.29
+            24.72,
+            24.83,
+            24.95,
+            24.56,
+            24.31,
+            24.42,
+            24.77
         ],
         "hsd_history_software": [
-            10.48,
-            10.51,
+            10.75,
+            10.54,
+            10.62,
+            10.44,
+            10.37,
+            10.26,
             10.39,
-            10.34,
-            10.36,
-            10.17,
-            10.01,
-            10.03,
-            9.92,
-            10.0,
-            10.05,
-            9.97
+            10.31,
+            10.23,
+            10.1,
+            10.28,
+            10.14
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:27",
+            "time": "21:29",
             "tag": "MERCADO",
-            "text": "Kimberly-Clark Looks Past Trees for Future Paper Products"
+            "text": "Anthropic Set to Add Citigroup to Top IPO Banks on Mega-Listing"
         },
         {
-            "time": "20:11",
+            "time": "21:27",
             "tag": "MERCADO",
-            "text": "Align Technology stock steadies after Q2 2026 earnings as Invisalign demand supports outlook"
+            "text": "Deere CEO lauds \u2018disciplined execution\u2019 as key to company\u2019s resilience"
         },
         {
-            "time": "20:09",
+            "time": "21:24",
+            "tag": "MERCADO",
+            "text": "VirTra stock rises on $1.5M U.S. Army training contract By Investing.com"
+        },
+        {
+            "time": "21:12",
+            "tag": "MERCADO",
+            "text": "Astera Labs president & COO sells $30.8m in shares"
+        },
+        {
+            "time": "21:11",
             "tag": "AI",
-            "text": "Broadcom Seeks More Than $60 Billion in Latest AI Debt Deal"
-        },
-        {
-            "time": "20:04",
-            "tag": "MERCADO",
-            "text": "Seagate (NASDAQ: STX) officer plans 6,048-share stock sale"
-        },
-        {
-            "time": "20:03",
-            "tag": "MERCADO",
-            "text": "TVA to charge data centers more for power under separate rate"
+            "text": "T-Mobile US network chief touts AI transformation and where telecom is best positioned to lead"
         }
     ]
 }
