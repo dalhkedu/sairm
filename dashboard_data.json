@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-20 19:32 UTC",
+        "last_updated": "2026-08-20 20:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 217.23,
-            "change": "+3.48%"
+            "price": 216.85,
+            "change": "-2.03%"
         },
         {
             "symbol": "AMD",
-            "price": 466.66,
-            "change": "-0.06%"
+            "price": 469.45,
+            "change": "+2.98%"
         },
         {
             "symbol": "MSFT",
-            "price": 481.7,
-            "change": "-1.91%"
+            "price": 481.15,
+            "change": "-3.08%"
         },
         {
             "symbol": "CEG",
-            "price": 272.15,
-            "change": "-0.44%"
+            "price": 272.92,
+            "change": "+1.19%"
         },
         {
             "symbol": "VST",
-            "price": 138.35,
-            "change": "+2.9%"
+            "price": 138.94,
+            "change": "+1.79%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.69,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
+            0.48,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.46,
+            0.47,
+            0.47,
             0.48,
             0.48,
             0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
+            24.87,
+            24.62,
+            24.87,
+            24.45,
+            24.82,
             24.74,
-            24.31,
-            24.29,
-            24.63,
-            24.58,
-            24.19,
-            24.06,
-            24.24,
-            24.61,
-            24.37,
-            24.58,
-            25.0
+            24.93,
+            25.14,
+            25.4,
+            25.35,
+            25.16,
+            25.02
         ],
         "hsd_history_software": [
-            9.61,
-            9.56,
-            9.48,
-            9.61,
-            9.77,
-            9.9,
-            9.75,
-            9.59,
-            9.76,
-            9.91,
-            9.96,
-            9.87
+            10.16,
+            10.21,
+            10.17,
+            10.04,
+            10.23,
+            10.21,
+            10.2,
+            10.11,
+            10.13,
+            10.13,
+            10.11,
+            10.04
         ],
         "rci_data": [
             85.0,
-            21.723
+            21.685
         ],
         "energy_data": [
             1.2,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "19:36",
+            "tag": "MERCADO",
+            "text": "What We Missed: Delta Flight Disrupted With Wi-Fi Hack"
+        },
+        {
+            "time": "19:31",
+            "tag": "MERCADO",
+            "text": "SLB Helps Future Geoscientists Build Digital Skills Through AAPG Competition"
+        },
+        {
+            "time": "19:24",
+            "tag": "MERCADO",
+            "text": "Sandisk: Bulls Are Misjudging Its Valuation And Cyclicality (NASDAQ:SNDK)"
+        },
+        {
             "time": "19:02",
             "tag": "MERCADO",
             "text": "D.E. Shaw owns more than $1 billion stake in Sysco, sources say"
@@ -134,21 +149,6 @@
             "time": "18:45",
             "tag": "MERCADO",
             "text": "A look at HTTP's new QUERY method"
-        },
-        {
-            "time": "18:42",
-            "tag": "MERCADO",
-            "text": "The Options Market Gives Synopsys Room To Fall Two-Fifths Or Rise Two-Thirds"
-        },
-        {
-            "time": "18:41",
-            "tag": "MERCADO",
-            "text": "TE Connectivity stock holds firm as dividend and strong Q3 2026 results underpin outlook"
-        },
-        {
-            "time": "18:33",
-            "tag": "MERCADO",
-            "text": "Ford Drops 4% as Bronco Pickup Rally Fades, Tesla Slips, General Motors Inches Higher: What's Behind the Auto Stock Differential?"
         }
     ]
 }
