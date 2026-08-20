@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-20 02:58 UTC",
+        "last_updated": "2026-08-20 03:52 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 217.56,
-            "change": "-1.89%"
+            "change": "-0.24%"
         },
         {
             "symbol": "AMD",
-            "price": NaN,
-            "change": "-3.37%"
+            "price": 466.42,
+            "change": "-3.02%"
         },
         {
             "symbol": "MSFT",
             "price": 484.31,
-            "change": "-2.6%"
+            "change": "+2.17%"
         },
         {
             "symbol": "CEG",
             "price": 274.17,
-            "change": "+1.84%"
+            "change": "-0.4%"
         },
         {
             "symbol": "VST",
             "price": 142.7,
-            "change": "+1.73%"
+            "change": "-3.49%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.59,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.51,
+            0.52,
+            0.51,
+            0.5,
+            0.51,
+            0.5,
             0.5,
             0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
             0.5,
             0.5,
             0.51,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            26.27,
-            25.98,
-            26.5,
-            26.45,
-            26.35,
-            25.98,
-            25.83,
-            25.63,
-            25.22,
-            24.91,
-            25.14,
-            25.21
+            24.06,
+            23.89,
+            23.57,
+            23.17,
+            23.37,
+            23.68,
+            24.03,
+            24.17,
+            24.54,
+            24.82,
+            24.89,
+            24.69
         ],
         "hsd_history_software": [
-            9.98,
-            9.88,
-            9.93,
-            9.84,
-            9.85,
-            9.86,
-            10.02,
-            9.98,
-            9.89,
-            9.95,
-            9.87,
-            10.05
+            10.09,
+            9.97,
+            9.94,
+            9.82,
+            9.83,
+            9.67,
+            9.75,
+            9.71,
+            9.64,
+            9.63,
+            9.82,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "03:12",
+            "tag": "MERCADO",
+            "text": "Sandisk: We Retain Skepticism on Longer-Term Targets"
+        },
+        {
+            "time": "02:23",
+            "tag": "MERCADO",
+            "text": "HPEUSD.P Charts and Quotes"
+        },
+        {
             "time": "01:42",
             "tag": "MERCADO",
             "text": "Intuitive Surgical (ISRG), What Is Behind The Fresh Attention?"
@@ -139,16 +149,6 @@
             "time": "01:14",
             "tag": "MERCADO",
             "text": "Insider Selling: Cadence Design Systems (NASDAQ:CDNS) VP Sells $646,640.00 in Stock"
-        },
-        {
-            "time": "01:10",
-            "tag": "MERCADO",
-            "text": "MACOM (NASDAQ: MTSI) CFO sells 7,389 shares at $320\u2013$331"
-        },
-        {
-            "time": "00:54",
-            "tag": "MERCADO",
-            "text": "SBA Communications director Krouse sells $54,802 in SBAC shares"
         }
     ]
 }
