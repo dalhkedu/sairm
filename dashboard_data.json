@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-20 18:41 UTC",
+        "last_updated": "2026-08-20 19:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 216.56,
-            "change": "-1.26%"
+            "price": 217.23,
+            "change": "+3.48%"
         },
         {
             "symbol": "AMD",
-            "price": NaN,
-            "change": "+0.9%"
+            "price": 466.66,
+            "change": "-0.06%"
         },
         {
             "symbol": "MSFT",
-            "price": 481.67,
-            "change": "+2.33%"
+            "price": 481.7,
+            "change": "-1.91%"
         },
         {
             "symbol": "CEG",
-            "price": 271.95,
-            "change": "-1.35%"
+            "price": 272.15,
+            "change": "-0.44%"
         },
         {
             "symbol": "VST",
-            "price": 138.92,
-            "change": "+2.59%"
+            "price": 138.35,
+            "change": "+2.9%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.67,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
-            0.51,
-            0.52,
-            0.51,
+            0.5,
+            0.49,
             0.5,
             0.49,
             0.49,
+            0.48,
+            0.48,
             0.49,
             0.49,
-            0.49,
+            0.48,
+            0.48,
             0.49
         ],
         "hsd_history_hardware": [
-            23.73,
-            23.46,
-            23.44,
-            23.61,
-            23.72,
-            24.1,
-            24.52,
+            24.74,
+            24.31,
+            24.29,
+            24.63,
+            24.58,
+            24.19,
             24.06,
-            24.1,
-            24.47,
-            24.66,
-            24.97
+            24.24,
+            24.61,
+            24.37,
+            24.58,
+            25.0
         ],
         "hsd_history_software": [
-            10.45,
-            10.61,
-            10.72,
-            10.57,
-            10.51,
-            10.46,
-            10.38,
-            10.3,
-            10.14,
-            10.32,
-            10.29,
-            10.2
+            9.61,
+            9.56,
+            9.48,
+            9.61,
+            9.77,
+            9.9,
+            9.75,
+            9.59,
+            9.76,
+            9.91,
+            9.96,
+            9.87
         ],
         "rci_data": [
             85.0,
-            21.656
+            21.723
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:03",
+            "time": "19:02",
             "tag": "MERCADO",
-            "text": "Best Buy achieves zero waste goal at supply chain facilities"
+            "text": "D.E. Shaw owns more than $1 billion stake in Sysco, sources say"
         },
         {
-            "time": "17:39",
+            "time": "18:45",
             "tag": "MERCADO",
-            "text": "Columbus Circle Capital Corp II Signs $800M Merger Agreement with Elroy Air"
+            "text": "A look at HTTP's new QUERY method"
         },
         {
-            "time": "17:33",
+            "time": "18:42",
             "tag": "MERCADO",
-            "text": "AT&T Outage Reports Spark Renewed $76 Million Risk Concern; Shares Remain Unchanged"
+            "text": "The Options Market Gives Synopsys Room To Fall Two-Fifths Or Rise Two-Thirds"
         },
         {
-            "time": "17:32",
-            "tag": "AI",
-            "text": "Palo Alto Networks (PANW) Launched A New AI Cyber Defense Program"
+            "time": "18:41",
+            "tag": "MERCADO",
+            "text": "TE Connectivity stock holds firm as dividend and strong Q3 2026 results underpin outlook"
         },
         {
-            "time": "17:30",
+            "time": "18:33",
             "tag": "MERCADO",
-            "text": "US Bank investigates LockBit's claims as ransomware crims set pay-or-leak deadline"
+            "text": "Ford Drops 4% as Bronco Pickup Rally Fades, Tesla Slips, General Motors Inches Higher: What's Behind the Auto Stock Differential?"
         }
     ]
 }
