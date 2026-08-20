@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-20 08:40 UTC",
+        "last_updated": "2026-08-20 09:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 217.56,
-            "change": "+1.45%"
+            "change": "-0.69%"
         },
         {
             "symbol": "AMD",
             "price": 466.42,
-            "change": "+2.17%"
+            "change": "+3.01%"
         },
         {
             "symbol": "MSFT",
             "price": 484.31,
-            "change": "-1.06%"
+            "change": "-3.05%"
         },
         {
             "symbol": "CEG",
             "price": 274.17,
-            "change": "-1.54%"
+            "change": "-1.04%"
         },
         {
             "symbol": "VST",
             "price": 142.7,
-            "change": "-2.68%"
+            "change": "+1.28%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
+        "cer_current": 0.46,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.53,
+            0.52,
+            0.51,
             0.5,
             0.51,
             0.51,
-            0.52,
-            0.52,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
             0.51,
             0.51,
-            0.5
+            0.52,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            26.58,
-            26.07,
-            26.46,
-            26.14,
-            26.46,
-            26.09,
-            25.77,
-            25.76,
-            25.62,
-            25.41,
-            25.1,
-            25.42
+            24.02,
+            23.92,
+            24.35,
+            24.1,
+            23.91,
+            24.35,
+            24.65,
+            24.49,
+            24.01,
+            24.22,
+            24.06,
+            24.55
         ],
         "hsd_history_software": [
-            9.73,
-            9.8,
-            9.74,
-            9.79,
-            9.96,
-            10.16,
-            10.14,
-            10.13,
-            10.06,
-            10.0,
-            10.02,
-            10.02
+            9.29,
+            9.2,
+            9.23,
+            9.18,
+            9.27,
+            9.25,
+            9.25,
+            9.38,
+            9.53,
+            9.62,
+            9.75,
+            9.85
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:30",
+            "time": "09:11",
             "tag": "MERCADO",
-            "text": "ON Semiconductor stock holds in the upper $70s as fresh Q2 2026 earnings and guidance frame the outl"
+            "text": "Bitmine Immersion Technologies (BMNR) Buys More Ethereum And Shares, Is It Undervalued Or Overvalued?"
         },
         {
-            "time": "08:08",
+            "time": "09:06",
             "tag": "MERCADO",
-            "text": "First National Bank of Omaha Buys New Holdings in T-Mobile US, Inc. $TMUS"
+            "text": "Edmond DE Rothschild Holding S.A. Trims Holdings in Cisco Systems, Inc. $CSCO"
         },
         {
-            "time": "08:08",
+            "time": "09:06",
             "tag": "MERCADO",
-            "text": "9,886 Shares in RTX Corporation $RTX Bought by Foster & Motley Inc."
+            "text": "Flossbach Von Storch SE Acquires Shares of 13,989 Fortinet, Inc. $FTNT"
         },
         {
-            "time": "08:08",
+            "time": "09:02",
             "tag": "MERCADO",
-            "text": "Deutsche Bank AG Purchases Shares of 3,913,595 PayPal Holdings, Inc. $PYPL"
+            "text": "Thomasville National Bank Makes New $820,000 Investment in International Business Machines Corporation $IBM"
         },
         {
-            "time": "08:04",
+            "time": "09:02",
             "tag": "MERCADO",
-            "text": "Diversify Advisory Services LLC Makes New Investment in Generac Holdings Inc. $GNRC"
+            "text": "Flossbach Von Storch SE Acquires New Shares in AMETEK, Inc. $AME"
         }
     ]
 }
