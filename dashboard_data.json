@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-21 01:25 UTC",
+        "last_updated": "2026-08-21 03:05 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 216.85,
-            "change": "+1.94%"
+            "change": "+1.89%"
         },
         {
             "symbol": "AMD",
             "price": 469.45,
-            "change": "+3.29%"
+            "change": "-1.22%"
         },
         {
             "symbol": "MSFT",
             "price": 481.15,
-            "change": "-3.06%"
+            "change": "+3.04%"
         },
         {
             "symbol": "CEG",
             "price": 272.92,
-            "change": "-0.5%"
+            "change": "+0.95%"
         },
         {
             "symbol": "VST",
             "price": 138.94,
-            "change": "-3.09%"
+            "change": "-2.56%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.48,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.5,
+            0.49,
+            0.5,
             0.51,
             0.51,
             0.5,
-            0.49
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.32,
-            24.67,
-            24.9,
-            25.35,
-            24.95,
-            25.19,
-            25.18,
-            24.78,
-            24.52,
-            24.89,
+            24.62,
             24.83,
-            25.13
+            25.1,
+            24.93,
+            24.44,
+            24.57,
+            24.56,
+            24.6,
+            24.61,
+            24.99,
+            24.83,
+            25.11
         ],
         "hsd_history_software": [
-            10.12,
-            10.2,
-            10.27,
-            10.2,
-            10.34,
-            10.38,
-            10.22,
-            10.22,
-            10.07,
-            9.87,
+            10.3,
+            10.11,
+            10.01,
+            9.84,
+            9.94,
+            9.77,
+            9.65,
+            9.66,
+            9.83,
             9.97,
-            10.01
+            10.14,
+            10.02
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "23:27",
+            "time": "02:39",
             "tag": "MERCADO",
-            "text": "Equinix (NASDAQ:EQIX) Insider Kurt Pletcher Sells 135 Shares"
+            "text": "Sanjit Biswas (IOT) sells 263,900 shares near $40 over three days"
         },
         {
-            "time": "23:26",
+            "time": "01:57",
             "tag": "AI",
-            "text": "Palo Alto Networks and NTT DATA target $1B in AI security sales by 2029"
+            "text": "Texas Instruments' MSPM0G5187 Mixed-Signal MCUs, Now Available at Mouser, Enable Edge AI in Any Device"
         },
         {
-            "time": "23:25",
-            "tag": "AI",
-            "text": "Lenovo Group Limited (LNVGY) and Intel Corporation (INTC) are Both Riding the AI Hardware Boom. One Just Posted a Loss Anyway"
-        },
-        {
-            "time": "22:55",
-            "tag": "AI",
-            "text": "Can Trane Technologies plc (TT) and Eaton Corporation, PLC (ETN) Become Major Winners from the AI Data Center Boom?"
-        },
-        {
-            "time": "22:55",
+            "time": "01:40",
             "tag": "MERCADO",
-            "text": "Coherent Corp (COHR) CFO Sherri Luther Sells 3,000 Shares"
+            "text": "Intchains H1FY26 revenue, EPS miss analyst estimates"
+        },
+        {
+            "time": "00:59",
+            "tag": "AI",
+            "text": "F5 integrates AI Gateway into AI Security Platform"
+        },
+        {
+            "time": "00:38",
+            "tag": "MERCADO",
+            "text": "Meta platforms chief legal officer Mahoney sells $869,922 in stock"
         }
     ]
 }
