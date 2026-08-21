@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-21 16:37 UTC",
+        "last_updated": "2026-08-21 17:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 215.64,
-            "change": "+2.19%"
+            "price": 215.06,
+            "change": "-2.27%"
         },
         {
             "symbol": "AMD",
-            "price": 469.7,
-            "change": "+2.3%"
+            "price": 469.63,
+            "change": "+2.83%"
         },
         {
             "symbol": "MSFT",
-            "price": 483.47,
-            "change": "+2.57%"
+            "price": 483.86,
+            "change": "+3.04%"
         },
         {
             "symbol": "CEG",
-            "price": 276.07,
-            "change": "+2.75%"
+            "price": 275.9,
+            "change": "-2.19%"
         },
         {
             "symbol": "VST",
-            "price": 137.19,
-            "change": "-1.24%"
+            "price": 137.12,
+            "change": "+2.23%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.67,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
             0.5,
             0.51,
             0.51,
-            0.5,
             0.51,
             0.5,
-            0.5,
+            0.49,
             0.49,
             0.5,
             0.5,
-            0.49
+            0.5,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.81,
-            24.98,
-            25.1,
-            25.22,
-            24.81,
-            24.38,
-            24.35,
-            24.28,
-            24.52,
-            24.77,
-            25.07,
-            25.46
+            24.74,
+            25.0,
+            24.85,
+            24.7,
+            24.86,
+            24.85,
+            24.85,
+            25.03,
+            25.47,
+            25.34,
+            25.49,
+            25.33
         ],
         "hsd_history_software": [
-            9.71,
-            9.66,
-            9.84,
-            9.99,
-            10.07,
-            10.2,
+            10.24,
             10.11,
-            10.2,
-            10.17,
-            10.07,
-            9.98,
-            10.03
+            10.18,
+            10.08,
+            10.05,
+            9.88,
+            9.91,
+            9.87,
+            10.0,
+            9.87,
+            9.76,
+            9.92
         ],
         "rci_data": [
             85.0,
-            21.564
+            21.506
         ],
         "energy_data": [
             1.2,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "16:22",
+            "tag": "MERCADO",
+            "text": "U.S. Bank says breach claims related to fourth-party incident"
+        },
+        {
+            "time": "16:20",
+            "tag": "AI",
+            "text": "IREN Clears Its Biggest AI Test With Microsoft"
+        },
+        {
             "time": "16:05",
             "tag": "MERCADO",
             "text": "Morgan Stanley course-corrects their semiconductor equipment outlook on demand"
@@ -136,19 +146,9 @@
             "text": "DexCom Study Demonstrates CGM Benefits in Type 2 Diabetes"
         },
         {
-            "time": "15:54",
-            "tag": "AI",
-            "text": "Micron Establishes Boise Research Hub for Memory and AI"
-        },
-        {
-            "time": "15:49",
-            "tag": "MERCADO",
-            "text": "JPMorgan hiring Bank of America\u2019s David Fishman as head of technology M&A, memo says"
-        },
-        {
-            "time": "15:31",
-            "tag": "MERCADO",
-            "text": "Delta picks Amazon over Starlink for in-flight Wi-Fi"
+            "time": "15:59",
+            "tag": "RESULTADOS",
+            "text": "HPQ Set to Report Q3 Earnings: What's in Store for the Stock?"
         }
     ]
 }
