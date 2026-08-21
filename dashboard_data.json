@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-21 08:42 UTC",
+        "last_updated": "2026-08-21 09:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": NaN,
-            "change": "-0.83%"
+            "price": 216.85,
+            "change": "-2.87%"
         },
         {
             "symbol": "AMD",
             "price": 469.46,
-            "change": "+2.73%"
+            "change": "+2.15%"
         },
         {
             "symbol": "MSFT",
             "price": 481.15,
-            "change": "+2.26%"
+            "change": "+2.86%"
         },
         {
             "symbol": "CEG",
             "price": 272.92,
-            "change": "-0.14%"
+            "change": "+1.39%"
         },
         {
             "symbol": "VST",
             "price": 138.94,
-            "change": "+1.57%"
+            "change": "+2.51%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
-        "rci_current": NaN,
+        "cer_current": 0.43,
+        "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
+            0.52,
+            0.52,
             0.51,
             0.51,
             0.5,
             0.5,
             0.51,
             0.5,
+            0.51,
+            0.51,
             0.5,
-            0.49,
-            0.49,
-            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            22.96,
-            22.87,
-            23.19,
-            23.59,
-            23.91,
-            24.27,
-            24.19,
-            24.15,
-            24.1,
-            24.36,
-            24.61,
-            24.66
+            23.95,
+            23.86,
+            24.32,
+            24.43,
+            24.72,
+            24.52,
+            24.77,
+            24.37,
+            24.39,
+            24.75,
+            24.89,
+            24.99
         ],
         "hsd_history_software": [
-            9.7,
-            9.86,
-            9.75,
-            9.63,
-            9.51,
-            9.59,
-            9.67,
-            9.83,
-            9.8,
-            9.92,
-            9.95,
-            9.97
+            9.91,
+            9.87,
+            9.87,
+            9.81,
+            9.93,
+            10.02,
+            10.03,
+            9.99,
+            10.1,
+            9.98,
+            9.9,
+            10.11
         ],
         "rci_data": [
             85.0,
-            NaN
+            21.685
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:06",
+            "time": "09:08",
             "tag": "MERCADO",
-            "text": "Great Lakes Advisors LLC Takes $2.91 Million Position in PayPal Holdings, Inc. $PYPL"
+            "text": "AT&T Inc. $T Shares Sold by Russell Investments Group Ltd."
         },
         {
-            "time": "08:03",
+            "time": "09:08",
             "tag": "MERCADO",
-            "text": "Deutsche Bank AG Purchases New Position in Tyler Technologies, Inc. $TYL"
+            "text": "NVIDIA Corporation $NVDA Stake Increased by Paladin Wealth LLC"
         },
         {
-            "time": "08:00",
+            "time": "09:06",
             "tag": "MERCADO",
-            "text": "Bank of America Corp DE Purchases 308,632 Shares of Life360, Inc. $LIF"
+            "text": "KBC Group NV Trims Stock Holdings in AT&T Inc. $T"
         },
         {
-            "time": "07:51",
+            "time": "09:06",
             "tag": "MERCADO",
-            "text": "Advisors Preferred LLC Acquires New Position in Microchip Technology Incorporated $MCHP"
+            "text": "1,437 Shares in Advanced Micro Devices, Inc. $AMD Acquired by Peachtree Investment Partners LLC"
         },
         {
-            "time": "07:50",
+            "time": "09:06",
             "tag": "MERCADO",
-            "text": "Hodges Capital Management Inc. Raises Stake in Alphabet Inc. $GOOGL"
+            "text": "Hara Capital LLC Invests $1.37 Million in Analog Devices, Inc. $ADI"
         }
     ]
 }
