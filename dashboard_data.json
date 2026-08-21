@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-21 19:27 UTC",
+        "last_updated": "2026-08-21 20:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 215.08,
-            "change": "-2.95%"
+            "price": 214.72,
+            "change": "-1.07%"
         },
         {
             "symbol": "AMD",
-            "price": 471.27,
-            "change": "-1.08%"
+            "price": 473.25,
+            "change": "-0.29%"
         },
         {
             "symbol": "MSFT",
-            "price": 483.26,
-            "change": "-2.04%"
+            "price": 483.24,
+            "change": "-0.02%"
         },
         {
             "symbol": "CEG",
-            "price": 272.21,
-            "change": "-0.34%"
+            "price": 272.88,
+            "change": "-3.07%"
         },
         {
             "symbol": "VST",
-            "price": 136.56,
-            "change": "+2.58%"
+            "price": 136.21,
+            "change": "-3.1%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
-        "rci_current": 0.22,
+        "cer_current": 0.64,
+        "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
-            0.51,
             0.52,
             0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            24.78,
-            24.97,
-            25.19,
-            24.95,
-            24.5,
-            24.1,
-            24.48,
-            24.94,
-            25.2,
-            25.24,
-            24.99,
-            24.87
+            26.41,
+            26.67,
+            26.24,
+            26.44,
+            26.13,
+            25.9,
+            25.65,
+            25.37,
+            25.5,
+            25.22,
+            25.08,
+            25.17
         ],
         "hsd_history_software": [
-            10.27,
-            10.39,
-            10.51,
-            10.31,
-            10.14,
-            9.98,
-            9.93,
-            9.92,
-            9.75,
-            9.91,
-            9.76,
-            9.86
+            10.04,
+            9.97,
+            10.08,
+            10.12,
+            10.08,
+            10.13,
+            10.33,
+            10.36,
+            10.21,
+            10.07,
+            10.08,
+            9.97
         ],
         "rci_data": [
             85.0,
-            21.508000000000003
+            21.471999999999998
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:23",
-            "tag": "MERCADO",
-            "text": "Zonda acquired by CoStar Group"
+            "time": "19:58",
+            "tag": "AI",
+            "text": "Resilient CDW stock jumps on strong Q2 2026 earnings and AI demand"
         },
         {
-            "time": "18:22",
+            "time": "19:17",
             "tag": "MERCADO",
-            "text": "Tesla Jumps 3.6% as Semi Launch and Robotaxi Expansion Accelerate"
+            "text": "Here\u2019s when \u2018Tap to Pay\u2019 is coming to Walmart and Sam\u2019s Club locations"
         },
         {
-            "time": "18:15",
-            "tag": "MERCADO",
-            "text": "Synopsys Could Be Set Up To Surprise Investors On August 26th"
+            "time": "19:10",
+            "tag": "AI",
+            "text": "Space Exploration Technologies (SPCX) vs. NVIDIA Corporation (NVDA): SpaceX Beats on Revenue, But AI Spending Steals the Show"
         },
         {
-            "time": "18:15",
-            "tag": "MERCADO",
-            "text": "Arista Networks Inc Stock (ANET) Moved Up by 3.08% on Aug 21: Facts Behind the Movement"
+            "time": "19:01",
+            "tag": "AI",
+            "text": "Zayo Locks Up Corning Fiber Capacity for AI Network Buildout"
         },
         {
-            "time": "18:15",
-            "tag": "MERCADO",
-            "text": "Agilent Technologies stock hits 52-week high at 160.36 USD"
+            "time": "18:34",
+            "tag": "AI",
+            "text": "Is Cigna (CI) Using AI Automation And Rebate\u2011Free Pharmacy To Redefine Its Core Strategy?"
         }
     ]
 }
