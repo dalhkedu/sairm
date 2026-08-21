@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-21 06:51 UTC",
+        "last_updated": "2026-08-21 07:44 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 216.85,
-            "change": "+0.08%"
+            "change": "-2.3%"
         },
         {
             "symbol": "AMD",
             "price": 469.46,
-            "change": "+1.97%"
+            "change": "+0.77%"
         },
         {
             "symbol": "MSFT",
             "price": 481.15,
-            "change": "+3.12%"
+            "change": "+0.71%"
         },
         {
             "symbol": "CEG",
             "price": 272.92,
-            "change": "+0.84%"
+            "change": "-1.31%"
         },
         {
             "symbol": "VST",
             "price": 138.94,
-            "change": "-0.83%"
+            "change": "+1.02%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.48,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.52,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
             0.51,
-            0.52,
-            0.52,
-            0.52,
             0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            26.52,
-            26.43,
-            26.31,
-            26.41,
-            26.58,
-            27.02,
-            26.53,
-            26.02,
-            25.55,
-            25.39,
-            25.03,
-            25.45
+            25.25,
+            24.82,
+            24.66,
+            24.66,
+            24.29,
+            23.97,
+            24.3,
+            24.46,
+            24.76,
+            25.14,
+            25.08,
+            24.89
         ],
         "hsd_history_software": [
-            10.04,
-            10.08,
-            9.88,
-            9.91,
+            9.85,
+            9.75,
             9.81,
-            9.63,
-            9.68,
-            9.74,
-            9.88,
-            9.84,
-            10.02,
-            10.15
+            9.64,
+            9.83,
+            9.87,
+            9.96,
+            9.81,
+            9.92,
+            9.85,
+            10.04,
+            10.2
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:26",
+            "time": "07:07",
             "tag": "MERCADO",
-            "text": "Analog Devices (ADI) Stock Margins Hit 50% As Cash Engine Strengthens"
+            "text": "Advisors Capital Management LLC Invests $27.18 Million in T-Mobile US, Inc. $TMUS"
         },
         {
-            "time": "05:24",
+            "time": "07:07",
             "tag": "MERCADO",
-            "text": "Nissan, Honda team with self-driving startups to chase US and China rivals"
+            "text": "Altman Advisors Inc. Invests $2.07 Million in Uber Technologies, Inc. $UBER"
         },
         {
-            "time": "04:41",
+            "time": "07:07",
             "tag": "MERCADO",
-            "text": "D Wave Quantum (QBTS) Lands Second Production Telecom Application"
+            "text": "Alpine Woods Capital Investors LLC Makes New Investment in Qualcomm Incorporated $QCOM"
         },
         {
-            "time": "04:40",
+            "time": "06:50",
             "tag": "MERCADO",
-            "text": "Rialto Expands Police Surveillance Network With $1.25M Axon Deal, 100+ Intersection Cameras"
+            "text": "KLA Corporation (NASDAQ:KLAC) Receives Consensus Recommendation of \"Moderate Buy\" from Analysts"
         },
         {
-            "time": "04:00",
+            "time": "06:50",
             "tag": "MERCADO",
-            "text": "New infosec products of the week: August 21, 2026"
+            "text": "HP Inc. (NYSE:HPQ) Receives Average Rating of \"Reduce\" from Analysts"
         }
     ]
 }
