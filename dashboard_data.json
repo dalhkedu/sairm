@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-21 03:05 UTC",
+        "last_updated": "2026-08-21 04:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 216.85,
-            "change": "+1.89%"
+            "change": "-2.24%"
         },
         {
             "symbol": "AMD",
-            "price": 469.45,
-            "change": "-1.22%"
+            "price": 469.46,
+            "change": "-2.67%"
         },
         {
             "symbol": "MSFT",
             "price": 481.15,
-            "change": "+3.04%"
+            "change": "+2.55%"
         },
         {
             "symbol": "CEG",
             "price": 272.92,
-            "change": "+0.95%"
+            "change": "+3.04%"
         },
         {
             "symbol": "VST",
             "price": 138.94,
-            "change": "-2.56%"
+            "change": "+3.1%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.51,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
-            0.49,
-            0.49,
             0.5,
-            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.52,
+            0.51,
             0.5,
             0.51,
             0.51,
-            0.5,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            24.62,
-            24.83,
-            25.1,
-            24.93,
-            24.44,
-            24.57,
-            24.56,
-            24.6,
-            24.61,
+            23.44,
+            23.72,
+            24.15,
+            24.55,
+            24.91,
             24.99,
-            24.83,
-            25.11
+            24.89,
+            24.75,
+            24.65,
+            24.85,
+            24.94,
+            24.62
         ],
         "hsd_history_software": [
-            10.3,
-            10.11,
-            10.01,
-            9.84,
-            9.94,
-            9.77,
-            9.65,
-            9.66,
+            9.96,
             9.83,
-            9.97,
-            10.14,
-            10.02
+            9.87,
+            9.79,
+            9.87,
+            9.86,
+            9.96,
+            10.09,
+            10.13,
+            10.32,
+            10.13,
+            10.06
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "04:00",
+            "tag": "MERCADO",
+            "text": "New infosec products of the week: August 21, 2026"
+        },
+        {
+            "time": "03:34",
+            "tag": "MERCADO",
+            "text": "Watch Replay: Welcome to the Agentic Enterprise"
+        },
+        {
+            "time": "03:17",
+            "tag": "MERCADO",
+            "text": "What\u2019s Going On With Jack Henry & Associates (JKHY)?"
+        },
+        {
+            "time": "02:48",
+            "tag": "MERCADO",
+            "text": "Equinix (EQIX) Chief Legal Officer Kurt Pletcher Sells 135 Shares"
+        },
+        {
             "time": "02:39",
             "tag": "MERCADO",
             "text": "Sanjit Biswas (IOT) sells 263,900 shares near $40 over three days"
-        },
-        {
-            "time": "01:57",
-            "tag": "AI",
-            "text": "Texas Instruments' MSPM0G5187 Mixed-Signal MCUs, Now Available at Mouser, Enable Edge AI in Any Device"
-        },
-        {
-            "time": "01:40",
-            "tag": "MERCADO",
-            "text": "Intchains H1FY26 revenue, EPS miss analyst estimates"
-        },
-        {
-            "time": "00:59",
-            "tag": "AI",
-            "text": "F5 integrates AI Gateway into AI Security Platform"
-        },
-        {
-            "time": "00:38",
-            "tag": "MERCADO",
-            "text": "Meta platforms chief legal officer Mahoney sells $869,922 in stock"
         }
     ]
 }
