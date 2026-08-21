@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-21 22:27 UTC",
+        "last_updated": "2026-08-21 23:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.72,
-            "change": "-1.93%"
+            "change": "-1.45%"
         },
         {
             "symbol": "AMD",
-            "price": 473.25,
-            "change": "-3.24%"
+            "price": NaN,
+            "change": "-2.51%"
         },
         {
             "symbol": "MSFT",
             "price": 483.24,
-            "change": "+3.01%"
+            "change": "-3.32%"
         },
         {
             "symbol": "CEG",
             "price": 272.88,
-            "change": "-2.19%"
+            "change": "-1.12%"
         },
         {
             "symbol": "VST",
             "price": 136.21,
-            "change": "-2.91%"
+            "change": "-1.49%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.69,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.5,
             0.5,
             0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            26.07,
-            25.97,
-            25.51,
-            25.94,
-            25.65,
-            25.72,
-            25.31,
-            25.07,
-            24.89,
-            24.93,
-            25.09,
-            25.16
+            24.79,
+            25.11,
+            25.17,
+            25.12,
+            25.34,
+            25.58,
+            25.24,
+            25.53,
+            25.28,
+            25.06,
+            25.01,
+            25.1
         ],
         "hsd_history_software": [
-            9.84,
-            9.94,
-            10.07,
-            10.03,
-            10.18,
-            10.06,
+            10.51,
+            10.4,
+            10.23,
+            10.08,
             10.19,
-            10.0,
-            9.8,
-            9.66,
-            9.66,
-            9.81
+            10.23,
+            10.1,
+            9.98,
+            9.91,
+            10.02,
+            9.83,
+            9.95
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "22:25",
+            "tag": "MERCADO",
+            "text": "Tesla Controls 59% of the U.S. EV Market -- Its Highest Share Since 2023"
+        },
+        {
+            "time": "22:19",
+            "tag": "MERCADO",
+            "text": "Corteva\u2019s Field Trials Didn\u2019t Undermine Its Seed-Patent Rights"
+        },
+        {
+            "time": "21:59",
+            "tag": "AI",
+            "text": "Delta Air Lines Planning To Leverage AI To Increase Profits By 50%, CEO Says"
+        },
+        {
             "time": "21:16",
             "tag": "MERCADO",
             "text": "Roku holders to own 27% of Fox Corp (NASDAQ: FOX) after merger"
@@ -134,21 +149,6 @@
             "time": "21:15",
             "tag": "MERCADO",
             "text": "Gen Digital (NASDAQ:GEN) Director Ondrej Vlcek Sells 100,000 Shares of Stock"
-        },
-        {
-            "time": "21:04",
-            "tag": "MERCADO",
-            "text": "Leidos stock holds at $141 after institutional buying"
-        },
-        {
-            "time": "20:53",
-            "tag": "MERCADO",
-            "text": "ON Semiconductor stock eases from recent highs as chip demand backdrop stays supportive"
-        },
-        {
-            "time": "20:53",
-            "tag": "MERCADO",
-            "text": "Qualcomm Incorporated Announces Appointment of Sergio Buniac to Executive Vice President, Effective September 2, 2026"
         }
     ]
 }
