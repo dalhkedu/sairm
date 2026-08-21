@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-21 07:44 UTC",
+        "last_updated": "2026-08-21 08:42 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 216.85,
-            "change": "-2.3%"
+            "price": NaN,
+            "change": "-0.83%"
         },
         {
             "symbol": "AMD",
             "price": 469.46,
-            "change": "+0.77%"
+            "change": "+2.73%"
         },
         {
             "symbol": "MSFT",
             "price": 481.15,
-            "change": "+0.71%"
+            "change": "+2.26%"
         },
         {
             "symbol": "CEG",
             "price": 272.92,
-            "change": "-1.31%"
+            "change": "-0.14%"
         },
         {
             "symbol": "VST",
             "price": 138.94,
-            "change": "+1.02%"
+            "change": "+1.57%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
-        "rci_current": 0.22,
+        "cer_current": 0.49,
+        "rci_current": NaN,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
             0.51,
             0.51,
             0.51,
-            0.51
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.25,
-            24.82,
-            24.66,
-            24.66,
-            24.29,
-            23.97,
-            24.3,
-            24.46,
-            24.76,
-            25.14,
-            25.08,
-            24.89
+            22.96,
+            22.87,
+            23.19,
+            23.59,
+            23.91,
+            24.27,
+            24.19,
+            24.15,
+            24.1,
+            24.36,
+            24.61,
+            24.66
         ],
         "hsd_history_software": [
-            9.85,
+            9.7,
+            9.86,
             9.75,
-            9.81,
-            9.64,
+            9.63,
+            9.51,
+            9.59,
+            9.67,
             9.83,
-            9.87,
-            9.96,
-            9.81,
+            9.8,
             9.92,
-            9.85,
-            10.04,
-            10.2
+            9.95,
+            9.97
         ],
         "rci_data": [
             85.0,
-            21.685
+            NaN
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:07",
+            "time": "08:06",
             "tag": "MERCADO",
-            "text": "Advisors Capital Management LLC Invests $27.18 Million in T-Mobile US, Inc. $TMUS"
+            "text": "Great Lakes Advisors LLC Takes $2.91 Million Position in PayPal Holdings, Inc. $PYPL"
         },
         {
-            "time": "07:07",
+            "time": "08:03",
             "tag": "MERCADO",
-            "text": "Altman Advisors Inc. Invests $2.07 Million in Uber Technologies, Inc. $UBER"
+            "text": "Deutsche Bank AG Purchases New Position in Tyler Technologies, Inc. $TYL"
         },
         {
-            "time": "07:07",
+            "time": "08:00",
             "tag": "MERCADO",
-            "text": "Alpine Woods Capital Investors LLC Makes New Investment in Qualcomm Incorporated $QCOM"
+            "text": "Bank of America Corp DE Purchases 308,632 Shares of Life360, Inc. $LIF"
         },
         {
-            "time": "06:50",
+            "time": "07:51",
             "tag": "MERCADO",
-            "text": "KLA Corporation (NASDAQ:KLAC) Receives Consensus Recommendation of \"Moderate Buy\" from Analysts"
+            "text": "Advisors Preferred LLC Acquires New Position in Microchip Technology Incorporated $MCHP"
         },
         {
-            "time": "06:50",
+            "time": "07:50",
             "tag": "MERCADO",
-            "text": "HP Inc. (NYSE:HPQ) Receives Average Rating of \"Reduce\" from Analysts"
+            "text": "Hodges Capital Management Inc. Raises Stake in Alphabet Inc. $GOOGL"
         }
     ]
 }
