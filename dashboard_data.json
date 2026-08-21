@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-21 21:26 UTC",
+        "last_updated": "2026-08-21 22:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.72,
-            "change": "-0.81%"
+            "change": "-1.93%"
         },
         {
             "symbol": "AMD",
             "price": 473.25,
-            "change": "-1.92%"
+            "change": "-3.24%"
         },
         {
             "symbol": "MSFT",
             "price": 483.24,
-            "change": "+3.41%"
+            "change": "+3.01%"
         },
         {
             "symbol": "CEG",
             "price": 272.88,
-            "change": "-2.06%"
+            "change": "-2.19%"
         },
         {
             "symbol": "VST",
             "price": 136.21,
-            "change": "+3.35%"
+            "change": "-2.91%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.48,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
             0.5,
             0.5,
-            0.49,
-            0.49,
-            0.49,
+            0.5,
             0.5,
             0.5,
             0.49,
-            0.5,
-            0.5,
-            0.5
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            23.11,
-            23.09,
-            23.49,
-            23.44,
-            23.9,
-            24.01,
-            24.16,
-            23.88,
-            23.81,
-            24.25,
-            24.7,
-            24.84
+            26.07,
+            25.97,
+            25.51,
+            25.94,
+            25.65,
+            25.72,
+            25.31,
+            25.07,
+            24.89,
+            24.93,
+            25.09,
+            25.16
         ],
         "hsd_history_software": [
-            10.05,
+            9.84,
+            9.94,
+            10.07,
             10.03,
-            9.92,
-            10.01,
-            10.14,
-            9.99,
+            10.18,
+            10.06,
             10.19,
-            9.99,
-            9.81,
-            9.92,
-            9.97,
-            10.06
+            10.0,
+            9.8,
+            9.66,
+            9.66,
+            9.81
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "21:16",
+            "tag": "MERCADO",
+            "text": "Roku holders to own 27% of Fox Corp (NASDAQ: FOX) after merger"
+        },
+        {
+            "time": "21:15",
+            "tag": "MERCADO",
+            "text": "Gen Digital (NASDAQ:GEN) Director Ondrej Vlcek Sells 100,000 Shares of Stock"
+        },
+        {
+            "time": "21:04",
+            "tag": "MERCADO",
+            "text": "Leidos stock holds at $141 after institutional buying"
+        },
+        {
             "time": "20:53",
             "tag": "MERCADO",
             "text": "ON Semiconductor stock eases from recent highs as chip demand backdrop stays supportive"
         },
         {
-            "time": "20:37",
+            "time": "20:53",
             "tag": "MERCADO",
-            "text": "Allegion stock holds firm as investors look past recent quarterly results"
-        },
-        {
-            "time": "20:33",
-            "tag": "MERCADO",
-            "text": "Columbus Circle Capital Corp II Announces Elroy Air Was Awarded an Up to $46M Contract with U.S. Army"
-        },
-        {
-            "time": "20:29",
-            "tag": "AI",
-            "text": "Synchrony Financial (SYF) Makes Its AI Move With A New Chief AI Officer"
-        },
-        {
-            "time": "20:26",
-            "tag": "MERCADO",
-            "text": "Paycom Software stock holds firm after Q2 beat"
+            "text": "Qualcomm Incorporated Announces Appointment of Sergio Buniac to Executive Vice President, Effective September 2, 2026"
         }
     ]
 }
