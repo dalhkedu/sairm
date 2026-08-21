@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-21 09:38 UTC",
+        "last_updated": "2026-08-21 10:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 216.85,
-            "change": "-2.87%"
+            "change": "-0.45%"
         },
         {
             "symbol": "AMD",
             "price": 469.46,
-            "change": "+2.15%"
+            "change": "-1.05%"
         },
         {
             "symbol": "MSFT",
             "price": 481.15,
-            "change": "+2.86%"
+            "change": "-0.37%"
         },
         {
             "symbol": "CEG",
             "price": 272.92,
-            "change": "+1.39%"
+            "change": "+1.72%"
         },
         {
             "symbol": "VST",
             "price": 138.94,
-            "change": "+2.51%"
+            "change": "+0.37%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.68,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.51,
-            0.51,
             0.5,
             0.5,
-            0.51,
             0.5,
-            0.51,
-            0.51,
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            23.95,
-            23.86,
-            24.32,
-            24.43,
-            24.72,
-            24.52,
-            24.77,
-            24.37,
+            24.69,
+            24.65,
+            24.3,
             24.39,
-            24.75,
-            24.89,
-            24.99
+            24.51,
+            24.25,
+            24.37,
+            24.63,
+            24.48,
+            24.01,
+            24.47,
+            24.62
         ],
         "hsd_history_software": [
-            9.91,
+            9.52,
+            9.61,
+            9.52,
+            9.45,
+            9.61,
+            9.67,
+            9.8,
+            9.78,
             9.87,
-            9.87,
-            9.81,
-            9.93,
-            10.02,
-            10.03,
-            9.99,
-            10.1,
-            9.98,
-            9.9,
-            10.11
+            9.97,
+            10.11,
+            10.0
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:08",
+            "time": "10:09",
             "tag": "MERCADO",
-            "text": "AT&T Inc. $T Shares Sold by Russell Investments Group Ltd."
+            "text": "13,997 Shares in Western Digital Corporation $WDC Acquired by Vise Technologies Inc."
         },
         {
-            "time": "09:08",
+            "time": "10:09",
             "tag": "MERCADO",
-            "text": "NVIDIA Corporation $NVDA Stake Increased by Paladin Wealth LLC"
+            "text": "Wealthfront Advisers LLC Buys Shares of 5,217 Teledyne Technologies Incorporated $TDY"
         },
         {
-            "time": "09:06",
+            "time": "10:09",
             "tag": "MERCADO",
-            "text": "KBC Group NV Trims Stock Holdings in AT&T Inc. $T"
+            "text": "OVERSEA CHINESE BANKING Corp Ltd Acquires New Shares in Synopsys, Inc. $SNPS"
         },
         {
-            "time": "09:06",
+            "time": "10:09",
             "tag": "MERCADO",
-            "text": "1,437 Shares in Advanced Micro Devices, Inc. $AMD Acquired by Peachtree Investment Partners LLC"
+            "text": "4,899 Shares in Western Digital Corporation $WDC Bought by OVERSEA CHINESE BANKING Corp Ltd"
         },
         {
-            "time": "09:06",
+            "time": "10:06",
             "tag": "MERCADO",
-            "text": "Hara Capital LLC Invests $1.37 Million in Analog Devices, Inc. $ADI"
+            "text": "9,294 Shares in VeriSign, Inc. $VRSN Bought by Wealthfront Advisers LLC"
         }
     ]
 }
