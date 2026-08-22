@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-22 10:26 UTC",
+        "last_updated": "2026-08-22 11:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": NaN,
-            "change": "-0.23%"
+            "price": 214.72,
+            "change": "+3.0%"
         },
         {
             "symbol": "AMD",
-            "price": 473.25,
-            "change": "+0.75%"
+            "price": NaN,
+            "change": "-0.24%"
         },
         {
             "symbol": "MSFT",
             "price": 483.24,
-            "change": "-1.63%"
+            "change": "-1.42%"
         },
         {
             "symbol": "CEG",
             "price": 272.88,
-            "change": "+0.82%"
+            "change": "-1.53%"
         },
         {
             "symbol": "VST",
             "price": 136.21,
-            "change": "-3.23%"
+            "change": "+0.09%"
         }
     ],
     "dashboard_metrics": {
         "cer_current": 0.62,
-        "rci_current": NaN,
+        "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
             0.51,
             0.5,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.5,
-            0.5,
-            0.5,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            24.59,
-            24.82,
-            25.18,
-            25.57,
-            25.53,
-            25.24,
-            25.71,
-            26.1,
-            25.81,
-            25.52,
-            25.27,
-            25.13
+            25.5,
+            25.84,
+            26.29,
+            25.97,
+            25.72,
+            25.89,
+            25.79,
+            25.34,
+            25.79,
+            25.35,
+            24.9,
+            24.8
         ],
         "hsd_history_software": [
-            9.5,
-            9.5,
-            9.52,
-            9.58,
-            9.72,
-            9.83,
-            9.87,
-            10.04,
-            9.88,
-            9.83,
-            9.93,
-            9.82
+            10.25,
+            10.24,
+            10.11,
+            10.29,
+            10.16,
+            10.36,
+            10.25,
+            10.3,
+            10.13,
+            10.02,
+            10.1,
+            9.99
         ],
         "rci_data": [
             85.0,
-            NaN
+            21.471999999999998
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:53",
+            "time": "10:36",
             "tag": "MERCADO",
-            "text": "Match Group stock steadies as analysts see upside from dating app growth"
+            "text": "Landscape Capital Management L.L.C. Makes New Investment in Enphase Energy, Inc. $ENPH"
         },
         {
-            "time": "09:37",
+            "time": "10:35",
             "tag": "MERCADO",
-            "text": "Mitsubishi UFJ Asset Management Co. Ltd. Invests $1.31 Million in Enphase Energy, Inc. $ENPH"
+            "text": "Heron Bay Capital Management Takes $15.20 Million Position in Salesforce Inc. $CRM"
         },
         {
-            "time": "09:31",
+            "time": "10:35",
             "tag": "MERCADO",
-            "text": "Does ETF Closures Plus Record Fee Income Signal a Sharper Strategic Focus for State Street (STT)?"
+            "text": "Ieq Capital LLC Takes Position in Salesforce Inc. $CRM"
         },
         {
-            "time": "09:27",
+            "time": "10:35",
             "tag": "MERCADO",
-            "text": "NewEdge Wealth LLC Buys Shares of 27,257 PayPal Holdings, Inc. $PYPL"
+            "text": "Korea Investment CORP Acquires Shares of 531,527 Salesforce Inc. $CRM"
         },
         {
-            "time": "09:08",
+            "time": "10:34",
             "tag": "MERCADO",
-            "text": "Tesla recalls nearly 3M vehicles over doors that may be difficult to open after crashes"
+            "text": "Microchip Technology (NASDAQ:MCHP) Upgraded at BMO Capital Markets"
         }
     ]
 }
