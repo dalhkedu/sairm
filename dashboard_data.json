@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-22 04:34 UTC",
+        "last_updated": "2026-08-22 05:29 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.72,
-            "change": "-2.81%"
+            "change": "+1.45%"
         },
         {
             "symbol": "AMD",
-            "price": 473.25,
-            "change": "-2.62%"
+            "price": NaN,
+            "change": "-3.17%"
         },
         {
             "symbol": "MSFT",
             "price": 483.24,
-            "change": "+2.63%"
+            "change": "+3.19%"
         },
         {
             "symbol": "CEG",
             "price": 272.88,
-            "change": "+1.3%"
+            "change": "+0.68%"
         },
         {
             "symbol": "VST",
             "price": 136.21,
-            "change": "+2.96%"
+            "change": "-2.98%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.67,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
+            0.51,
+            0.51,
+            0.5,
+            0.49,
             0.49,
             0.49,
             0.5,
             0.49,
+            0.48,
             0.49,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.09,
-            23.72,
-            24.12,
-            23.84,
-            24.0,
-            24.34,
-            24.39,
+            24.96,
+            25.15,
             24.77,
-            24.95,
-            25.1,
-            25.42,
-            24.96
+            24.42,
+            24.9,
+            25.01,
+            25.36,
+            25.69,
+            25.67,
+            25.55,
+            25.05,
+            25.13
         ],
         "hsd_history_software": [
-            9.35,
-            9.46,
-            9.34,
-            9.27,
-            9.38,
-            9.45,
-            9.6,
-            9.53,
-            9.69,
-            9.65,
-            9.72,
-            9.81
+            9.87,
+            9.95,
+            10.11,
+            10.02,
+            10.2,
+            10.02,
+            9.93,
+            10.05,
+            9.85,
+            9.86,
+            9.99,
+            10.17
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "03:49",
+            "tag": "MERCADO",
+            "text": "Why Agilent Technologies (A) Is Up 7.0% After Q2 Beat And Higher 2026 Guidance - And What's Next"
+        },
+        {
             "time": "03:38",
             "tag": "MERCADO",
             "text": "Equinix expands Colombia data center, lifts investment to US$73mn"
@@ -144,11 +149,6 @@
             "time": "02:37",
             "tag": "MERCADO",
             "text": "Does BP\u2019s Shah Deniz Automation Deal Reframe Emerson\u2019s Long\u2011Cycle Energy Narrative (EMR)?"
-        },
-        {
-            "time": "02:09",
-            "tag": "MERCADO",
-            "text": "Yum! Brands (YUM), What Is Behind The Fresh Attention Today?"
         }
     ]
 }
