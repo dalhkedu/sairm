@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-22 09:28 UTC",
+        "last_updated": "2026-08-22 10:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 214.72,
-            "change": "+1.29%"
+            "price": NaN,
+            "change": "-0.23%"
         },
         {
             "symbol": "AMD",
             "price": 473.25,
-            "change": "-1.29%"
+            "change": "+0.75%"
         },
         {
             "symbol": "MSFT",
             "price": 483.24,
-            "change": "-2.82%"
+            "change": "-1.63%"
         },
         {
             "symbol": "CEG",
             "price": 272.88,
-            "change": "-3.05%"
+            "change": "+0.82%"
         },
         {
             "symbol": "VST",
             "price": 136.21,
-            "change": "+3.35%"
+            "change": "-3.23%"
         }
     ],
     "dashboard_metrics": {
         "cer_current": 0.62,
-        "rci_current": 0.21,
+        "rci_current": NaN,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
             0.5,
             0.5,
-            0.51
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.64,
-            25.55,
+            24.59,
+            24.82,
+            25.18,
+            25.57,
+            25.53,
+            25.24,
+            25.71,
+            26.1,
+            25.81,
             25.52,
-            25.83,
-            26.05,
-            25.99,
-            25.58,
-            25.59,
-            25.13,
-            24.99,
-            25.11,
-            25.04
+            25.27,
+            25.13
         ],
         "hsd_history_software": [
-            9.55,
-            9.49,
-            9.63,
-            9.69,
-            9.85,
-            10.03,
-            10.14,
-            9.98,
-            10.05,
-            10.01,
-            9.96,
-            10.1
+            9.5,
+            9.5,
+            9.52,
+            9.58,
+            9.72,
+            9.83,
+            9.87,
+            10.04,
+            9.88,
+            9.83,
+            9.93,
+            9.82
         ],
         "rci_data": [
             85.0,
-            21.471999999999998
+            NaN
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:27",
+            "time": "09:53",
             "tag": "MERCADO",
-            "text": "4,969 Shares in Equinix, Inc. $EQIX Bought by Callan Family Office LLC"
+            "text": "Match Group stock steadies as analysts see upside from dating app growth"
         },
         {
-            "time": "08:26",
+            "time": "09:37",
             "tag": "MERCADO",
-            "text": "Callan Family Office LLC Acquires New Stake in Microchip Technology Incorporated $MCHP"
+            "text": "Mitsubishi UFJ Asset Management Co. Ltd. Invests $1.31 Million in Enphase Energy, Inc. $ENPH"
         },
         {
-            "time": "08:17",
+            "time": "09:31",
             "tag": "MERCADO",
-            "text": "Memory stocks face headwinds as 'smart money' walks out"
+            "text": "Does ETF Closures Plus Record Fee Income Signal a Sharper Strategic Focus for State Street (STT)?"
         },
         {
-            "time": "08:07",
+            "time": "09:27",
             "tag": "MERCADO",
-            "text": "Great Lakes Advisors LLC Buys Shares of 12,636 eBay Inc. $EBAY"
+            "text": "NewEdge Wealth LLC Buys Shares of 27,257 PayPal Holdings, Inc. $PYPL"
         },
         {
-            "time": "08:03",
+            "time": "09:08",
             "tag": "MERCADO",
-            "text": "Crowdstrike, T-Mobile and TCS: Top Tech News"
+            "text": "Tesla recalls nearly 3M vehicles over doors that may be difficult to open after crashes"
         }
     ]
 }
