@@ -1,43 +1,43 @@
 {
     "metadata": {
-        "last_updated": "2026-08-22 11:22 UTC",
+        "last_updated": "2026-08-22 12:42 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.72,
-            "change": "+3.0%"
+            "change": "+2.14%"
         },
         {
             "symbol": "AMD",
-            "price": NaN,
-            "change": "-0.24%"
+            "price": 473.25,
+            "change": "+2.2%"
         },
         {
             "symbol": "MSFT",
             "price": 483.24,
-            "change": "-1.42%"
+            "change": "-0.27%"
         },
         {
             "symbol": "CEG",
             "price": 272.88,
-            "change": "-1.53%"
+            "change": "-1.96%"
         },
         {
             "symbol": "VST",
             "price": 136.21,
-            "change": "+0.09%"
+            "change": "+1.96%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.59,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
             0.51,
+            0.5,
             0.5,
             0.51,
             0.51,
@@ -45,37 +45,37 @@
             0.51,
             0.51,
             0.51,
-            0.51,
+            0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.5,
-            25.84,
-            26.29,
-            25.97,
-            25.72,
-            25.89,
-            25.79,
-            25.34,
-            25.79,
-            25.35,
-            24.9,
-            24.8
+            25.46,
+            25.11,
+            24.67,
+            25.04,
+            24.56,
+            24.2,
+            24.46,
+            24.2,
+            24.63,
+            25.03,
+            25.29,
+            25.47
         ],
         "hsd_history_software": [
-            10.25,
-            10.24,
-            10.11,
-            10.29,
-            10.16,
-            10.36,
-            10.25,
-            10.3,
-            10.13,
-            10.02,
-            10.1,
-            9.99
+            10.77,
+            10.94,
+            10.82,
+            10.69,
+            10.71,
+            10.62,
+            10.59,
+            10.58,
+            10.47,
+            10.38,
+            10.26,
+            10.14
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:36",
+            "time": "11:40",
             "tag": "MERCADO",
-            "text": "Landscape Capital Management L.L.C. Makes New Investment in Enphase Energy, Inc. $ENPH"
+            "text": "SRIVARU Launches PRANA 2.0 Electric Motorcycle in Chennai, India"
         },
         {
-            "time": "10:35",
+            "time": "11:18",
             "tag": "MERCADO",
-            "text": "Heron Bay Capital Management Takes $15.20 Million Position in Salesforce Inc. $CRM"
+            "text": "TE Connectivity stock rises after Q3 sales beat guidance"
         },
         {
-            "time": "10:35",
+            "time": "11:16",
             "tag": "MERCADO",
-            "text": "Ieq Capital LLC Takes Position in Salesforce Inc. $CRM"
+            "text": "Westpac Banking Corp Makes New Investment in Equinix, Inc. $EQIX"
         },
         {
-            "time": "10:35",
+            "time": "11:12",
             "tag": "MERCADO",
-            "text": "Korea Investment CORP Acquires Shares of 531,527 Salesforce Inc. $CRM"
+            "text": "Westpac Banking Corp Makes New $5.41 Million Investment in NetApp, Inc. $NTAP"
         },
         {
-            "time": "10:34",
+            "time": "11:10",
             "tag": "MERCADO",
-            "text": "Microchip Technology (NASDAQ:MCHP) Upgraded at BMO Capital Markets"
+            "text": "Rakuten Securities Inc. Makes New Investment in SoFi Technologies, Inc. $SOFI"
         }
     ]
 }
