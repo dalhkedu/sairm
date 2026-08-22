@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-22 06:42 UTC",
+        "last_updated": "2026-08-22 07:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.72,
-            "change": "+0.51%"
+            "change": "+2.93%"
         },
         {
             "symbol": "AMD",
-            "price": NaN,
-            "change": "+1.32%"
+            "price": 473.25,
+            "change": "+1.13%"
         },
         {
             "symbol": "MSFT",
             "price": 483.24,
-            "change": "+0.75%"
+            "change": "-2.59%"
         },
         {
             "symbol": "CEG",
             "price": 272.88,
-            "change": "+2.88%"
+            "change": "-1.75%"
         },
         {
             "symbol": "VST",
             "price": 136.21,
-            "change": "-0.83%"
+            "change": "-3.19%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.63,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
             0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
+            0.5,
             0.49,
             0.5,
             0.5,
-            0.51
+            0.49,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
+            22.76,
+            22.71,
+            23.17,
+            23.64,
+            23.9,
+            24.34,
+            24.13,
+            24.22,
+            24.68,
+            25.01,
             25.39,
-            25.77,
-            25.88,
-            25.38,
-            25.85,
-            25.54,
-            25.89,
-            26.24,
-            25.97,
-            25.73,
-            25.23,
-            25.1
+            25.02
         ],
         "hsd_history_software": [
-            10.36,
-            10.16,
-            10.27,
-            10.27,
-            10.34,
-            10.31,
-            10.48,
-            10.57,
-            10.52,
-            10.5,
-            10.32,
-            10.18
+            9.79,
+            9.68,
+            9.65,
+            9.78,
+            9.96,
+            9.98,
+            10.07,
+            9.89,
+            10.06,
+            10.02,
+            9.84,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:11",
+            "time": "07:07",
             "tag": "MERCADO",
-            "text": "Hut 8 (NASDAQ:HUT) Stock Price Down 8.8% - Here's What Happened"
+            "text": "Advisors Capital Management LLC Purchases New Position in Salesforce Inc. $CRM"
         },
         {
-            "time": "04:50",
-            "tag": "AI",
-            "text": "Alphabet stock rises as AI users and ad revenue grow"
+            "time": "06:38",
+            "tag": "MERCADO",
+            "text": "Leidos stock holds in low $140s as earnings beat and buyback plan support outlook"
         },
         {
-            "time": "04:33",
+            "time": "06:30",
             "tag": "MERCADO",
-            "text": "Honeywell International stock holds steady as aerospace guidance reset reshapes expectations"
+            "text": "Qualcomm Hires Motorola Veteran Sergio Buniac as Executive Vice President"
         },
         {
-            "time": "03:49",
+            "time": "06:13",
             "tag": "MERCADO",
-            "text": "Why Agilent Technologies (A) Is Up 7.0% After Q2 Beat And Higher 2026 Guidance - And What's Next"
+            "text": "F5 stock holds firm after earnings beat and updated 2026 guidance"
         },
         {
-            "time": "03:38",
+            "time": "06:07",
             "tag": "MERCADO",
-            "text": "Equinix expands Colombia data center, lifts investment to US$73mn"
+            "text": "Advanced Micro Devices (NASDAQ:AMD) Shares Bought Rep. Rick W. Allen"
         }
     ]
 }
