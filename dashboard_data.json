@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-23 04:39 UTC",
+        "last_updated": "2026-08-23 05:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.72,
-            "change": "+0.12%"
+            "change": "-0.61%"
         },
         {
             "symbol": "AMD",
             "price": 473.25,
-            "change": "+1.27%"
+            "change": "-3.47%"
         },
         {
             "symbol": "MSFT",
-            "price": NaN,
-            "change": "+1.47%"
+            "price": 483.24,
+            "change": "+0.29%"
         },
         {
             "symbol": "CEG",
             "price": 272.88,
-            "change": "+2.32%"
+            "change": "-3.26%"
         },
         {
             "symbol": "VST",
             "price": 136.21,
-            "change": "+0.76%"
+            "change": "+2.52%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.43,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.5
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.05,
-            24.41,
-            24.67,
-            24.49,
+            24.93,
+            24.77,
+            24.39,
+            24.79,
+            25.06,
+            24.95,
+            24.48,
+            24.68,
             24.25,
-            24.63,
-            24.42,
-            24.33,
-            24.75,
-            24.56,
-            24.72,
-            24.73
+            24.57,
+            24.67,
+            25.01
         ],
         "hsd_history_software": [
-            9.82,
-            9.65,
-            9.81,
-            9.91,
-            10.01,
-            9.82,
+            9.4,
+            9.48,
+            9.56,
+            9.43,
+            9.57,
             9.73,
-            9.62,
-            9.76,
-            9.67,
-            9.67,
-            9.81
+            9.82,
+            9.74,
+            9.74,
+            9.8,
+            9.88,
+            9.9
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "05:08",
+            "tag": "MERCADO",
+            "text": "Rosen Law urges GoDaddy investors to join securities class action"
+        },
+        {
             "time": "02:23",
             "tag": "AI",
             "text": "Is Freeport-McMoRan (FCX) Becoming a Copper Platform for Electrification and AI Infrastructure?"
@@ -144,11 +149,6 @@
             "time": "02:09",
             "tag": "MERCADO",
             "text": "Tesla Recalls Nearly 3 Million EVs in China Over Door Releases That Could Trap Occupants"
-        },
-        {
-            "time": "01:09",
-            "tag": "MERCADO",
-            "text": "This Teradyne Analyst Is No Longer Bullish; Here Are Top 5 Downgrades For Friday"
         }
     ]
 }
