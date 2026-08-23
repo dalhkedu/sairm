@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-23 13:33 UTC",
+        "last_updated": "2026-08-23 14:25 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.72,
-            "change": "-3.01%"
+            "change": "+0.03%"
         },
         {
             "symbol": "AMD",
             "price": 473.25,
-            "change": "-0.58%"
+            "change": "+2.74%"
         },
         {
             "symbol": "MSFT",
             "price": 483.24,
-            "change": "+0.62%"
+            "change": "-3.25%"
         },
         {
             "symbol": "CEG",
             "price": 272.88,
-            "change": "+1.07%"
+            "change": "+1.73%"
         },
         {
             "symbol": "VST",
             "price": 136.21,
-            "change": "+1.82%"
+            "change": "+2.42%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.42,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
+            0.52,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
             0.51,
             0.5,
             0.5,
-            0.5,
             0.51,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            25.95,
-            25.95,
-            25.73,
-            25.37,
-            24.96,
-            25.13,
-            25.18,
-            24.78,
-            25.02,
-            24.68,
-            25.04,
-            25.14
+            26.08,
+            26.51,
+            26.31,
+            25.97,
+            26.18,
+            25.81,
+            25.45,
+            25.23,
+            24.97,
+            25.26,
+            25.08,
+            25.24
         ],
         "hsd_history_software": [
-            9.95,
-            10.13,
-            10.31,
-            10.45,
-            10.32,
+            10.57,
+            10.48,
+            10.65,
+            10.47,
             10.36,
-            10.2,
-            10.22,
-            10.26,
-            10.1,
+            10.34,
+            10.25,
+            10.38,
+            10.32,
+            10.39,
             10.21,
-            10.15
+            10.09
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "13:17",
+            "tag": "MERCADO",
+            "text": "Ireland gains 17.1bn dollars in Apple tax after state aid escrow release"
+        },
+        {
             "time": "13:08",
             "tag": "MERCADO",
             "text": "Korea Investment CORP builds new $54.73M stake in Hewlett Packard Enterprise after 40% revenue jump"
@@ -141,14 +146,9 @@
             "text": "Varma buys $15.84M Synopsys stake as revenue jumps 42%"
         },
         {
-            "time": "11:24",
-            "tag": "AI",
-            "text": "Does Synchrony\u2019s AI Pivot and OpenAI Partnership Reframe The Bull Case For Synchrony Financial (SYF)?"
-        },
-        {
-            "time": "11:09",
+            "time": "11:39",
             "tag": "MERCADO",
-            "text": "LM Advisors LLC Takes $1.39 Million Position in Netflix, Inc. $NFLX"
+            "text": "Prediction: Nvidia Will Be a $6 Trillion Company Before 2026 Is Over and Its Run Kickstarts This Week"
         }
     ]
 }
