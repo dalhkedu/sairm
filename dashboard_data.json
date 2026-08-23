@@ -1,37 +1,37 @@
 {
     "metadata": {
-        "last_updated": "2026-08-23 15:24 UTC",
+        "last_updated": "2026-08-23 16:28 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.72,
-            "change": "+1.61%"
+            "change": "+2.26%"
         },
         {
             "symbol": "AMD",
             "price": 473.25,
-            "change": "-2.43%"
+            "change": "-0.45%"
         },
         {
             "symbol": "MSFT",
             "price": 483.24,
-            "change": "+0.14%"
+            "change": "-2.88%"
         },
         {
             "symbol": "CEG",
             "price": 272.88,
-            "change": "-2.93%"
+            "change": "-2.04%"
         },
         {
             "symbol": "VST",
             "price": 136.21,
-            "change": "+1.18%"
+            "change": "-2.24%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.62,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
@@ -39,43 +39,43 @@
             0.51,
             0.5,
             0.5,
-            0.49,
             0.5,
             0.5,
+            0.51,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.01,
-            24.06,
-            23.66,
-            24.01,
-            23.95,
-            24.21,
-            24.33,
-            24.11,
-            24.6,
-            24.47,
-            24.9,
-            25.2
+            26.05,
+            25.75,
+            26.11,
+            26.03,
+            26.33,
+            25.84,
+            25.75,
+            25.33,
+            25.57,
+            25.48,
+            25.52,
+            25.36
         ],
         "hsd_history_software": [
-            10.97,
-            10.78,
-            10.68,
-            10.62,
-            10.53,
-            10.41,
-            10.26,
-            10.27,
-            10.08,
-            10.19,
-            10.32,
-            10.19
+            9.43,
+            9.53,
+            9.7,
+            9.73,
+            9.61,
+            9.69,
+            9.6,
+            9.79,
+            9.98,
+            9.97,
+            10.06,
+            10.02
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "14:38",
+            "tag": "AI",
+            "text": "Cisco Systems stock holds above $111 as AI-fueled earnings lift 2027 guidance"
+        },
+        {
             "time": "14:09",
             "tag": "AI",
             "text": "Alphabet stock edges higher as Q2 2026 earnings and AI momentum support valuation"
@@ -144,11 +149,6 @@
             "time": "13:17",
             "tag": "MERCADO",
             "text": "Ireland gains 17.1bn dollars in Apple tax after state aid escrow release"
-        },
-        {
-            "time": "13:08",
-            "tag": "MERCADO",
-            "text": "Korea Investment CORP builds new $54.73M stake in Hewlett Packard Enterprise after 40% revenue jump"
         }
     ]
 }
