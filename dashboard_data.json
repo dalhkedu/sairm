@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-23 06:44 UTC",
+        "last_updated": "2026-08-23 07:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.72,
-            "change": "+0.18%"
+            "change": "+0.37%"
         },
         {
             "symbol": "AMD",
             "price": 473.25,
-            "change": "-0.7%"
+            "change": "+2.06%"
         },
         {
             "symbol": "MSFT",
             "price": 483.24,
-            "change": "-3.2%"
+            "change": "+3.22%"
         },
         {
             "symbol": "CEG",
             "price": 272.88,
-            "change": "+3.01%"
+            "change": "+3.13%"
         },
         {
             "symbol": "VST",
             "price": 136.21,
-            "change": "+0.82%"
+            "change": "+1.78%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.7,
+        "cer_current": 0.4,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.53,
-            0.54,
-            0.53,
-            0.52,
-            0.52,
-            0.53,
-            0.52,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            24.64,
-            24.96,
-            24.98,
-            25.32,
-            24.86,
-            25.31,
-            24.84,
-            24.81,
-            24.75,
-            25.05,
-            25.22,
-            24.94
+            23.85,
+            24.3,
+            23.99,
+            24.03,
+            24.48,
+            24.77,
+            24.46,
+            24.54,
+            24.21,
+            24.48,
+            24.5,
+            24.86
         ],
         "hsd_history_software": [
-            10.37,
-            10.54,
-            10.5,
-            10.31,
-            10.14,
-            10.05,
+            9.78,
+            9.91,
             9.93,
-            9.99,
-            9.95,
-            9.77,
-            9.84,
-            9.85
+            9.76,
+            9.91,
+            9.98,
+            9.89,
+            9.92,
+            10.12,
+            10.12,
+            10.08,
+            9.98
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "06:39",
+            "tag": "MERCADO",
+            "text": "Axon Enterprise, Inc (NASDAQ:AXON) Receives Average Rating of \"Moderate Buy\" from Analysts"
+        },
+        {
+            "time": "06:30",
+            "tag": "AI",
+            "text": "Enphase Energy (ENPH) Unveils AI Assistant For Home Energy Management"
+        },
+        {
+            "time": "06:09",
+            "tag": "MERCADO",
+            "text": "Should You Buy Oracle Stock Before the Huge Investor Update?"
+        },
+        {
             "time": "05:37",
             "tag": "MERCADO",
             "text": "Should You Buy Oracle Stock Before the Huge Investor Update?"
@@ -134,21 +149,6 @@
             "time": "05:32",
             "tag": "MERCADO",
             "text": "Should You Buy Oracle Stock Before the Huge Investor Update?"
-        },
-        {
-            "time": "05:31",
-            "tag": "RESULTADOS",
-            "text": "Analog Devices (ADI) Could Be 17% Undervalued After Earnings Guidance And Dividend Affirmation"
-        },
-        {
-            "time": "05:08",
-            "tag": "MERCADO",
-            "text": "Rosen Law urges GoDaddy investors to join securities class action"
-        },
-        {
-            "time": "03:42",
-            "tag": "AI",
-            "text": "Crocs Taps Infosys For 10-Year AI-Led Technology Transformation"
         }
     ]
 }
