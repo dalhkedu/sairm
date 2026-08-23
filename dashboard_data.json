@@ -1,47 +1,47 @@
 {
     "metadata": {
-        "last_updated": "2026-08-23 16:28 UTC",
+        "last_updated": "2026-08-23 17:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.72,
-            "change": "+2.26%"
+            "change": "-0.9%"
         },
         {
             "symbol": "AMD",
             "price": 473.25,
-            "change": "-0.45%"
+            "change": "-2.91%"
         },
         {
             "symbol": "MSFT",
             "price": 483.24,
-            "change": "-2.88%"
+            "change": "+0.48%"
         },
         {
             "symbol": "CEG",
             "price": 272.88,
-            "change": "-2.04%"
+            "change": "+0.21%"
         },
         {
             "symbol": "VST",
             "price": 136.21,
-            "change": "-2.24%"
+            "change": "-1.79%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.59,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.51,
             0.51,
             0.5,
+            0.49,
             0.5,
-            0.5,
-            0.5,
-            0.51,
             0.5,
             0.51,
             0.51,
@@ -50,32 +50,32 @@
             0.5
         ],
         "hsd_history_hardware": [
-            26.05,
-            25.75,
-            26.11,
-            26.03,
-            26.33,
-            25.84,
-            25.75,
-            25.33,
-            25.57,
-            25.48,
-            25.52,
-            25.36
+            25.06,
+            24.84,
+            25.26,
+            25.47,
+            25.04,
+            24.92,
+            24.81,
+            25.1,
+            25.01,
+            25.25,
+            25.38,
+            24.99
         ],
         "hsd_history_software": [
-            9.43,
-            9.53,
-            9.7,
+            9.86,
+            9.85,
+            10.05,
+            9.99,
+            9.88,
+            9.99,
+            9.9,
             9.73,
-            9.61,
-            9.69,
-            9.6,
             9.79,
-            9.98,
-            9.97,
-            10.06,
-            10.02
+            9.86,
+            9.84,
+            10.01
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "16:29",
+            "tag": "MERCADO",
+            "text": "Musk\u2019s Net Worth Claws Back Up to $851 Billion as Analysts See More Tesla, SpaceX Upside"
+        },
+        {
+            "time": "16:19",
+            "tag": "MERCADO",
+            "text": "Microchip Technology (MCHP) Stock Looks To Trade At A Premium After Its 17% Run"
+        },
+        {
+            "time": "16:19",
+            "tag": "MERCADO",
+            "text": "Why Did Align Technology (ALGN) Move Today?"
+        },
+        {
             "time": "14:38",
             "tag": "AI",
             "text": "Cisco Systems stock holds above $111 as AI-fueled earnings lift 2027 guidance"
@@ -134,21 +149,6 @@
             "time": "14:09",
             "tag": "AI",
             "text": "Alphabet stock edges higher as Q2 2026 earnings and AI momentum support valuation"
-        },
-        {
-            "time": "13:40",
-            "tag": "MERCADO",
-            "text": "Applied Materials Is 33% Off Its High and Analysts Still See $600. Too Cheap or Too Late?"
-        },
-        {
-            "time": "13:24",
-            "tag": "MERCADO",
-            "text": "ServiceNow Jumped 7% on a $150 Analyst Target. Here\u2019s Where the Stock Could Go"
-        },
-        {
-            "time": "13:17",
-            "tag": "MERCADO",
-            "text": "Ireland gains 17.1bn dollars in Apple tax after state aid escrow release"
         }
     ]
 }
