@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-23 12:44 UTC",
+        "last_updated": "2026-08-23 13:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.72,
-            "change": "+1.15%"
+            "change": "-3.01%"
         },
         {
             "symbol": "AMD",
             "price": 473.25,
-            "change": "-0.26%"
+            "change": "-0.58%"
         },
         {
             "symbol": "MSFT",
             "price": 483.24,
-            "change": "+1.87%"
+            "change": "+0.62%"
         },
         {
             "symbol": "CEG",
             "price": 272.88,
-            "change": "-2.12%"
+            "change": "+1.07%"
         },
         {
             "symbol": "VST",
             "price": 136.21,
-            "change": "+1.28%"
+            "change": "+1.82%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.48,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
-            0.51,
             0.51,
             0.51,
             0.5,
-            0.51,
             0.5,
             0.5,
             0.51,
             0.5,
-            0.5
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.87,
-            24.94,
-            25.17,
-            24.9,
-            24.81,
-            24.93,
-            25.15,
-            25.5,
-            25.4,
-            24.94,
-            25.34,
-            25.08
+            25.95,
+            25.95,
+            25.73,
+            25.37,
+            24.96,
+            25.13,
+            25.18,
+            24.78,
+            25.02,
+            24.68,
+            25.04,
+            25.14
         ],
         "hsd_history_software": [
-            9.74,
-            9.86,
-            9.9,
-            10.04,
-            10.01,
             9.95,
-            9.97,
-            10.12,
-            10.03,
-            9.89,
-            9.71,
-            9.81
+            10.13,
+            10.31,
+            10.45,
+            10.32,
+            10.36,
+            10.2,
+            10.22,
+            10.26,
+            10.1,
+            10.21,
+            10.15
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "13:08",
+            "tag": "MERCADO",
+            "text": "Korea Investment CORP builds new $54.73M stake in Hewlett Packard Enterprise after 40% revenue jump"
+        },
+        {
             "time": "12:00",
             "tag": "AI",
             "text": "Micron Technology: Is MU Stock a No-Brainer Buy as AI Memory Demand Surges in 2026?"
@@ -144,11 +149,6 @@
             "time": "11:09",
             "tag": "MERCADO",
             "text": "LM Advisors LLC Takes $1.39 Million Position in Netflix, Inc. $NFLX"
-        },
-        {
-            "time": "11:08",
-            "tag": "MERCADO",
-            "text": "Matters Capital LLC Makes New $1.43 Million Investment in Netflix, Inc. $NFLX"
         }
     ]
 }
