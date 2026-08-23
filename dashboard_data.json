@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-23 17:22 UTC",
+        "last_updated": "2026-08-23 18:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.72,
-            "change": "-0.9%"
+            "change": "-1.48%"
         },
         {
             "symbol": "AMD",
             "price": 473.25,
-            "change": "-2.91%"
+            "change": "-2.19%"
         },
         {
             "symbol": "MSFT",
             "price": 483.24,
-            "change": "+0.48%"
+            "change": "+2.49%"
         },
         {
             "symbol": "CEG",
             "price": 272.88,
-            "change": "+0.21%"
+            "change": "-2.18%"
         },
         {
             "symbol": "VST",
             "price": 136.21,
-            "change": "-1.79%"
+            "change": "+0.59%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.62,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
-            0.51,
-            0.5,
             0.49,
             0.5,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
             0.5,
             0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.5,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.06,
-            24.84,
-            25.26,
-            25.47,
-            25.04,
-            24.92,
-            24.81,
-            25.1,
-            25.01,
-            25.25,
-            25.38,
-            24.99
+            27.63,
+            27.64,
+            27.5,
+            27.39,
+            26.92,
+            26.55,
+            26.27,
+            26.35,
+            26.22,
+            25.7,
+            25.65,
+            25.3
         ],
         "hsd_history_software": [
-            9.86,
+            10.2,
+            10.15,
+            10.23,
+            10.24,
+            10.23,
+            10.13,
+            10.04,
+            9.89,
+            10.02,
             9.85,
-            10.05,
-            9.99,
-            9.88,
-            9.99,
-            9.9,
-            9.73,
-            9.79,
-            9.86,
-            9.84,
-            10.01
+            9.97,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "17:31",
+            "tag": "AI",
+            "text": "SanDisk, Micron, Western Digital Remain Cheap as Cyclical and AI Bubble Concerns Remain"
+        },
+        {
+            "time": "17:26",
+            "tag": "AI",
+            "text": "How NVIDIA AI Infrastructure Financing Deal At KKR (KKR) Has Changed Its Investment Story"
+        },
+        {
+            "time": "16:59",
+            "tag": "MERCADO",
+            "text": "Oracle drops lawsuit challenging Wisconsin data center credit rules"
+        },
+        {
             "time": "16:29",
             "tag": "MERCADO",
             "text": "Musk\u2019s Net Worth Claws Back Up to $851 Billion as Analysts See More Tesla, SpaceX Upside"
@@ -134,21 +149,6 @@
             "time": "16:19",
             "tag": "MERCADO",
             "text": "Microchip Technology (MCHP) Stock Looks To Trade At A Premium After Its 17% Run"
-        },
-        {
-            "time": "16:19",
-            "tag": "MERCADO",
-            "text": "Why Did Align Technology (ALGN) Move Today?"
-        },
-        {
-            "time": "14:38",
-            "tag": "AI",
-            "text": "Cisco Systems stock holds above $111 as AI-fueled earnings lift 2027 guidance"
-        },
-        {
-            "time": "14:09",
-            "tag": "AI",
-            "text": "Alphabet stock edges higher as Q2 2026 earnings and AI momentum support valuation"
         }
     ]
 }
