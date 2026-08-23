@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-23 14:25 UTC",
+        "last_updated": "2026-08-23 15:24 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.72,
-            "change": "+0.03%"
+            "change": "+1.61%"
         },
         {
             "symbol": "AMD",
             "price": 473.25,
-            "change": "+2.74%"
+            "change": "-2.43%"
         },
         {
             "symbol": "MSFT",
             "price": 483.24,
-            "change": "-3.25%"
+            "change": "+0.14%"
         },
         {
             "symbol": "CEG",
             "price": 272.88,
-            "change": "+1.73%"
+            "change": "-2.93%"
         },
         {
             "symbol": "VST",
             "price": 136.21,
-            "change": "+2.42%"
+            "change": "+1.18%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.52,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
             0.5,
             0.5,
-            0.51,
-            0.5
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.08,
-            26.51,
-            26.31,
-            25.97,
-            26.18,
-            25.81,
-            25.45,
-            25.23,
-            24.97,
-            25.26,
-            25.08,
-            25.24
+            24.01,
+            24.06,
+            23.66,
+            24.01,
+            23.95,
+            24.21,
+            24.33,
+            24.11,
+            24.6,
+            24.47,
+            24.9,
+            25.2
         ],
         "hsd_history_software": [
-            10.57,
-            10.48,
-            10.65,
-            10.47,
-            10.36,
-            10.34,
-            10.25,
-            10.38,
+            10.97,
+            10.78,
+            10.68,
+            10.62,
+            10.53,
+            10.41,
+            10.26,
+            10.27,
+            10.08,
+            10.19,
             10.32,
-            10.39,
-            10.21,
-            10.09
+            10.19
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "14:09",
+            "tag": "AI",
+            "text": "Alphabet stock edges higher as Q2 2026 earnings and AI momentum support valuation"
+        },
+        {
+            "time": "13:40",
+            "tag": "MERCADO",
+            "text": "Applied Materials Is 33% Off Its High and Analysts Still See $600. Too Cheap or Too Late?"
+        },
+        {
+            "time": "13:24",
+            "tag": "MERCADO",
+            "text": "ServiceNow Jumped 7% on a $150 Analyst Target. Here\u2019s Where the Stock Could Go"
+        },
+        {
             "time": "13:17",
             "tag": "MERCADO",
             "text": "Ireland gains 17.1bn dollars in Apple tax after state aid escrow release"
@@ -134,21 +149,6 @@
             "time": "13:08",
             "tag": "MERCADO",
             "text": "Korea Investment CORP builds new $54.73M stake in Hewlett Packard Enterprise after 40% revenue jump"
-        },
-        {
-            "time": "12:00",
-            "tag": "AI",
-            "text": "Micron Technology: Is MU Stock a No-Brainer Buy as AI Memory Demand Surges in 2026?"
-        },
-        {
-            "time": "11:50",
-            "tag": "MERCADO",
-            "text": "Varma buys $15.84M Synopsys stake as revenue jumps 42%"
-        },
-        {
-            "time": "11:39",
-            "tag": "MERCADO",
-            "text": "Prediction: Nvidia Will Be a $6 Trillion Company Before 2026 Is Over and Its Run Kickstarts This Week"
         }
     ]
 }
