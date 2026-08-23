@@ -1,37 +1,37 @@
 {
     "metadata": {
-        "last_updated": "2026-08-23 10:26 UTC",
+        "last_updated": "2026-08-23 11:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.72,
-            "change": "+2.14%"
+            "change": "-1.92%"
         },
         {
             "symbol": "AMD",
-            "price": 473.25,
-            "change": "-0.82%"
+            "price": NaN,
+            "change": "+0.53%"
         },
         {
             "symbol": "MSFT",
             "price": 483.24,
-            "change": "+2.03%"
+            "change": "+2.24%"
         },
         {
             "symbol": "CEG",
             "price": 272.88,
-            "change": "-1.08%"
+            "change": "-3.44%"
         },
         {
             "symbol": "VST",
             "price": 136.21,
-            "change": "+0.01%"
+            "change": "+0.67%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
+        "cer_current": 0.61,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
@@ -39,43 +39,43 @@
             0.54,
             0.54,
             0.53,
-            0.53,
+            0.52,
             0.52,
             0.51,
-            0.52,
-            0.52,
+            0.51,
             0.51,
             0.51,
             0.5,
-            0.5
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.92,
-            25.55,
-            25.75,
-            25.46,
-            25.06,
-            25.01,
-            25.48,
-            25.48,
-            25.73,
-            25.52,
-            25.16,
-            25.41
+            23.91,
+            24.11,
+            24.19,
+            24.03,
+            24.18,
+            24.43,
+            24.05,
+            24.38,
+            24.59,
+            24.61,
+            24.68,
+            24.9
         ],
         "hsd_history_software": [
-            9.94,
-            9.94,
-            10.06,
-            10.04,
-            10.22,
-            10.08,
-            10.15,
-            10.22,
-            10.37,
-            10.18,
+            10.32,
+            10.52,
+            10.43,
+            10.33,
+            10.32,
+            10.28,
+            10.11,
             10.03,
-            9.91
+            9.94,
+            9.95,
+            10.08,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:34",
+            "time": "10:29",
             "tag": "MERCADO",
-            "text": "Vise Technologies Inc. Makes New $993,000 Investment in NetApp, Inc. $NTAP"
+            "text": "Haverford Trust Co Takes Position in Intuit Inc. $INTU"
         },
         {
-            "time": "09:14",
+            "time": "10:28",
             "tag": "MERCADO",
-            "text": "Wealthcare Advisory Partners LLC Sells 12,804 Shares of Amazon.com, Inc. $AMZN"
+            "text": "Kendall Capital Management Takes Position in Gen Digital Inc. $GEN"
         },
         {
-            "time": "09:14",
+            "time": "10:25",
             "tag": "MERCADO",
-            "text": "RHS Financial LLC Takes $710,000 Position in Advanced Micro Devices, Inc. $AMD"
+            "text": "Greenland Capital Management LP Takes Position in Analog Devices, Inc. $ADI"
         },
         {
-            "time": "09:14",
+            "time": "10:16",
             "tag": "MERCADO",
-            "text": "Meeder Advisory Services Inc. Grows Position in Advanced Micro Devices, Inc. $AMD"
+            "text": "WealthShield Partners LLC Buys Shares of 9,842 Digital Realty Trust, Inc. $DLR"
         },
         {
-            "time": "09:14",
+            "time": "10:16",
             "tag": "MERCADO",
-            "text": "Lee Johnson Capital Management LLC Takes Position in Advanced Micro Devices, Inc. $AMD"
+            "text": "Martin & Co. Inc. TN Makes New Investment in Gen Digital Inc. $GEN"
         }
     ]
 }
