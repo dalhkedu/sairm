@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-23 18:32 UTC",
+        "last_updated": "2026-08-23 19:23 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.72,
-            "change": "-1.48%"
+            "change": "+0.7%"
         },
         {
             "symbol": "AMD",
             "price": 473.25,
-            "change": "-2.19%"
+            "change": "-0.73%"
         },
         {
             "symbol": "MSFT",
             "price": 483.24,
-            "change": "+2.49%"
+            "change": "-3.43%"
         },
         {
             "symbol": "CEG",
             "price": 272.88,
-            "change": "-2.18%"
+            "change": "-2.62%"
         },
         {
             "symbol": "VST",
             "price": 136.21,
-            "change": "+0.59%"
+            "change": "-2.43%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.56,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.5,
+            0.48,
             0.49,
             0.48,
             0.48,
-            0.48,
+            0.49,
             0.49,
             0.5,
-            0.51,
             0.5,
             0.5,
-            0.5
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            27.63,
-            27.64,
-            27.5,
-            27.39,
-            26.92,
-            26.55,
-            26.27,
-            26.35,
-            26.22,
-            25.7,
-            25.65,
-            25.3
+            24.54,
+            24.52,
+            24.63,
+            24.72,
+            24.6,
+            24.39,
+            24.6,
+            24.73,
+            24.9,
+            25.05,
+            24.82,
+            25.26
         ],
         "hsd_history_software": [
-            10.2,
-            10.15,
-            10.23,
-            10.24,
-            10.23,
-            10.13,
-            10.04,
+            9.84,
+            9.79,
+            9.66,
+            9.63,
+            9.62,
+            9.59,
+            9.68,
+            9.82,
+            9.75,
             9.89,
-            10.02,
-            9.85,
-            9.97,
-            10.07
+            9.71,
+            9.89
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "18:31",
+            "tag": "MERCADO",
+            "text": "Does Teradyne\u2019s (TER) New Credit Line Hint at a Shift in Capital Allocation Priorities?"
+        },
+        {
             "time": "17:31",
             "tag": "AI",
             "text": "SanDisk, Micron, Western Digital Remain Cheap as Cyclical and AI Bubble Concerns Remain"
@@ -144,11 +149,6 @@
             "time": "16:29",
             "tag": "MERCADO",
             "text": "Musk\u2019s Net Worth Claws Back Up to $851 Billion as Analysts See More Tesla, SpaceX Upside"
-        },
-        {
-            "time": "16:19",
-            "tag": "MERCADO",
-            "text": "Microchip Technology (MCHP) Stock Looks To Trade At A Premium After Its 17% Run"
         }
     ]
 }
