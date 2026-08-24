@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-24 08:50 UTC",
+        "last_updated": "2026-08-24 09:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.72,
-            "change": "+2.15%"
+            "change": "-1.3%"
         },
         {
             "symbol": "AMD",
             "price": 473.25,
-            "change": "+3.45%"
+            "change": "-2.66%"
         },
         {
             "symbol": "MSFT",
             "price": 483.24,
-            "change": "+2.15%"
+            "change": "+0.32%"
         },
         {
             "symbol": "CEG",
             "price": 272.88,
-            "change": "-1.32%"
+            "change": "-2.13%"
         },
         {
             "symbol": "VST",
             "price": 136.21,
-            "change": "-0.74%"
+            "change": "-2.64%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.57,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
             0.49,
             0.49,
             0.5,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
             0.5,
             0.5,
             0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            23.85,
-            24.11,
-            24.58,
+            24.37,
+            24.25,
+            24.55,
             24.4,
-            24.31,
-            23.92,
-            23.91,
-            24.35,
-            24.47,
-            24.91,
+            24.64,
+            25.03,
+            24.66,
+            24.42,
+            24.71,
             24.95,
-            24.87
+            24.93,
+            24.74
         ],
         "hsd_history_software": [
-            9.54,
-            9.6,
-            9.46,
-            9.61,
-            9.74,
-            9.86,
-            9.94,
-            9.88,
-            10.07,
-            9.91,
-            9.93,
-            9.85
+            10.31,
+            10.37,
+            10.35,
+            10.21,
+            10.05,
+            10.1,
+            10.11,
+            9.95,
+            9.95,
+            10.11,
+            10.14,
+            10.16
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:00",
+            "time": "09:09",
             "tag": "MERCADO",
-            "text": "Ally Financial Inc. Invests $1.67 Million in Fidelity National Information Services, Inc. $FIS"
+            "text": "Sivia Capital Partners LLC Purchases 2,708 Shares of International Business Machines Corporation $IBM"
         },
         {
-            "time": "08:00",
+            "time": "09:02",
             "tag": "MERCADO",
-            "text": "Fifth Third Bancorp Reduces Holdings in Intel Corporation $INTC"
+            "text": "R Squared Ltd Takes $899,000 Position in Intel Corporation $INTC"
         },
         {
-            "time": "08:00",
+            "time": "09:02",
             "tag": "MERCADO",
-            "text": "Bank of New York Mellon Corp Purchases New Position in F5, Inc. $FFIV"
+            "text": "10 Stocks Top Fund Managers Have Been Buying Amid Market Uncertainty"
         },
         {
-            "time": "08:00",
+            "time": "09:00",
             "tag": "MERCADO",
-            "text": "Barrow Hanley Mewhinney & Strauss LLC Has $336.50 Million Stake in American Tower Corporation $AMT"
+            "text": "EP Wealth Advisors LLC Invests $1.05 Million in Take-Two Interactive Software, Inc. $TTWO"
         },
         {
-            "time": "08:00",
+            "time": "09:00",
             "tag": "MERCADO",
-            "text": "Amazon.com, Inc. $AMZN is Generali Investments Management Co LLC's 3rd Largest Position"
+            "text": "Elevation Point Wealth Partners LLC Purchases New Shares in Take-Two Interactive Software, Inc. $TTWO"
         }
     ]
 }
