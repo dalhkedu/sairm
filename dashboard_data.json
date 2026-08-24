@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-24 10:39 UTC",
+        "last_updated": "2026-08-24 11:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.72,
-            "change": "+2.9%"
+            "change": "+2.59%"
         },
         {
             "symbol": "AMD",
             "price": 473.25,
-            "change": "-1.06%"
+            "change": "-2.57%"
         },
         {
             "symbol": "MSFT",
             "price": 483.24,
-            "change": "+2.54%"
+            "change": "-0.59%"
         },
         {
             "symbol": "CEG",
             "price": 272.88,
-            "change": "+2.37%"
+            "change": "+3.49%"
         },
         {
             "symbol": "VST",
-            "price": 136.21,
-            "change": "-3.31%"
+            "price": NaN,
+            "change": "+2.23%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.54,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
+            0.52,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
             0.52,
             0.52,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
+            25.74,
+            25.35,
+            24.89,
+            25.23,
+            24.81,
+            24.47,
+            24.44,
+            24.28,
+            23.97,
+            24.4,
             24.74,
-            24.53,
-            25.03,
-            25.08,
-            24.63,
-            24.48,
-            24.49,
-            24.35,
-            24.58,
-            24.94,
-            25.41,
-            25.43
+            24.53
         ],
         "hsd_history_software": [
-            9.74,
-            9.63,
-            9.6,
-            9.69,
-            9.81,
-            9.87,
-            9.72,
-            9.91,
+            10.47,
+            10.41,
+            10.24,
+            10.07,
+            9.97,
+            9.86,
+            9.85,
             10.05,
-            9.94,
+            10.18,
             10.11,
-            9.97
+            10.07,
+            10.04
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:09",
-            "tag": "AI",
-            "text": "Corning stock holds steady as dividend and AI infrastructure story support valuation"
+            "time": "11:00",
+            "tag": "MERCADO",
+            "text": "IBM is designing a chip so its mainframes and servers can run software built for Arm chips too"
         },
         {
-            "time": "10:07",
+            "time": "11:00",
             "tag": "MERCADO",
-            "text": "Take-Two Interactive has issued subpoenas to Microsoft, Discord, and X in connection with the ongoing leaks related to GTA 6"
+            "text": "Intel, Micron, Nvidia lead tech\u2019s growth rankings with A+ grades (XLK:NYSEARCA)"
         },
         {
-            "time": "10:00",
+            "time": "11:00",
             "tag": "MERCADO",
-            "text": "Korea Investment CORP Invests $17.70 Million in NetApp, Inc. $NTAP"
+            "text": "News - US Bank investigates LockBit claim of data theft, faces September 3 deadline"
         },
         {
-            "time": "10:00",
+            "time": "10:59",
             "tag": "MERCADO",
-            "text": "Northwestern Mutual Wealth Management Co. Takes $6.96 Million Position in Synopsys, Inc. $SNPS"
+            "text": "Osmosis Investment Management UK Ltd Acquires Shares of 10,336 Synopsys, Inc. $SNPS"
         },
         {
-            "time": "09:59",
+            "time": "10:58",
             "tag": "MERCADO",
-            "text": "William Blair Investment Management LLC Makes New Investment in Netflix, Inc. $NFLX"
+            "text": "Sanctuary Advisors LLC Acquires New Position in Digital Realty Trust, Inc. $DLR"
         }
     ]
 }
