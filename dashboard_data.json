@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-24 04:47 UTC",
+        "last_updated": "2026-08-24 05:40 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.72,
-            "change": "-1.13%"
+            "change": "+2.21%"
         },
         {
             "symbol": "AMD",
             "price": 473.25,
-            "change": "+2.86%"
+            "change": "+0.33%"
         },
         {
             "symbol": "MSFT",
-            "price": 483.24,
-            "change": "-2.63%"
+            "price": NaN,
+            "change": "-1.91%"
         },
         {
             "symbol": "CEG",
             "price": 272.88,
-            "change": "+0.46%"
+            "change": "+1.19%"
         },
         {
             "symbol": "VST",
             "price": 136.21,
-            "change": "+0.26%"
+            "change": "-0.39%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.55,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
             0.5,
-            0.5,
-            0.5,
-            0.51,
             0.51,
             0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            26.25,
-            25.84,
-            26.32,
-            25.84,
-            26.32,
-            25.83,
-            25.76,
-            25.71,
-            26.11,
-            25.68,
-            25.44,
-            25.27
+            24.46,
+            24.25,
+            24.26,
+            24.72,
+            24.39,
+            24.21,
+            24.5,
+            24.98,
+            24.73,
+            24.91,
+            24.73,
+            24.84
         ],
         "hsd_history_software": [
-            10.63,
-            10.55,
-            10.73,
-            10.73,
-            10.78,
-            10.62,
-            10.45,
-            10.26,
-            10.09,
-            9.92,
+            9.87,
+            9.98,
+            10.15,
+            10.13,
+            10.13,
+            10.06,
+            10.18,
+            10.17,
+            10.13,
             10.07,
-            9.88
+            9.98,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "04:18",
+            "tag": "AI",
+            "text": "IBM's new AI tools for the US Open will generate roughly 1.2 billion data points"
+        },
+        {
+            "time": "04:10",
+            "tag": "AI",
+            "text": "Rockwell Automation, Actemium Deploy AI to Cut Refrigeration Energy Use by 17% in Frozen Food Production"
+        },
+        {
+            "time": "04:03",
+            "tag": "MERCADO",
+            "text": "IBM Study: Nearly Half of Sports Fans Want One App\u2014But Few Would Pay"
+        },
+        {
             "time": "04:02",
             "tag": "AI",
             "text": "Hershey is using AI to strategize for s\u2019mores season"
@@ -134,21 +149,6 @@
             "time": "03:30",
             "tag": "MERCADO",
             "text": "[News] Hot Chips 2026: Samsung\u2019s zHBM Claims 70% Power-Efficiency Gain; SK hynix Evaluates Intel EMIB"
-        },
-        {
-            "time": "02:21",
-            "tag": "MERCADO",
-            "text": "Michael Burry Dumps Alibaba Stock, Moves Entire Position Into JD - Alibaba Gr Hldgs (NYSE:BABA)"
-        },
-        {
-            "time": "02:19",
-            "tag": "MERCADO",
-            "text": "INV Investors Have Opportunity to Join Innventure, Inc. Fraud Investigation with SBS Law"
-        },
-        {
-            "time": "02:11",
-            "tag": "MERCADO",
-            "text": "ETFs Investing in CDW Corporation Stocks"
         }
     ]
 }
