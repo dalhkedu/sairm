@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-24 03:05 UTC",
+        "last_updated": "2026-08-24 04:47 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.72,
-            "change": "+1.19%"
+            "change": "-1.13%"
         },
         {
             "symbol": "AMD",
             "price": 473.25,
-            "change": "+2.06%"
+            "change": "+2.86%"
         },
         {
             "symbol": "MSFT",
             "price": 483.24,
-            "change": "-0.95%"
+            "change": "-2.63%"
         },
         {
             "symbol": "CEG",
             "price": 272.88,
-            "change": "-0.72%"
+            "change": "+0.46%"
         },
         {
             "symbol": "VST",
             "price": 136.21,
-            "change": "-1.14%"
+            "change": "+0.26%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.44,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
-            0.5,
             0.5,
             0.5,
             0.5,
             0.51,
+            0.51,
             0.5,
             0.5,
-            0.5,
-            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            25.56,
-            25.62,
-            25.49,
-            25.65,
-            25.18,
-            25.15,
-            24.77,
-            24.89,
-            25.31,
-            24.98,
-            24.83,
-            25.08
+            26.25,
+            25.84,
+            26.32,
+            25.84,
+            26.32,
+            25.83,
+            25.76,
+            25.71,
+            26.11,
+            25.68,
+            25.44,
+            25.27
         ],
         "hsd_history_software": [
-            10.29,
-            10.31,
-            10.29,
-            10.1,
-            10.24,
-            10.4,
-            10.21,
-            10.08,
-            9.91,
-            9.8,
-            9.68,
-            9.81
+            10.63,
+            10.55,
+            10.73,
+            10.73,
+            10.78,
+            10.62,
+            10.45,
+            10.26,
+            10.09,
+            9.92,
+            10.07,
+            9.88
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "04:02",
+            "tag": "AI",
+            "text": "Hershey is using AI to strategize for s\u2019mores season"
+        },
+        {
+            "time": "03:30",
+            "tag": "MERCADO",
+            "text": "[News] Hot Chips 2026: Samsung\u2019s zHBM Claims 70% Power-Efficiency Gain; SK hynix Evaluates Intel EMIB"
+        },
+        {
             "time": "02:21",
             "tag": "MERCADO",
             "text": "Michael Burry Dumps Alibaba Stock, Moves Entire Position Into JD - Alibaba Gr Hldgs (NYSE:BABA)"
@@ -136,19 +146,9 @@
             "text": "INV Investors Have Opportunity to Join Innventure, Inc. Fraud Investigation with SBS Law"
         },
         {
-            "time": "01:35",
-            "tag": "RESULTADOS",
-            "text": "Jim Cramer Defends Apple Inc. (NASDAQ: AAPL) Amid Memory Shortage Pressure And Mixed Earnings Results"
-        },
-        {
-            "time": "00:34",
-            "tag": "AI",
-            "text": "KT Corp accelerates AI-native 'Next IT' push to strengthen AX platform strategy"
-        },
-        {
-            "time": "00:33",
+            "time": "02:11",
             "tag": "MERCADO",
-            "text": "Michael Burry Dumps Alibaba on Valuation Concerns, Says Stock Must Halve Before He Returns"
+            "text": "ETFs Investing in CDW Corporation Stocks"
         }
     ]
 }
