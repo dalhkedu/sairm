@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-24 07:02 UTC",
+        "last_updated": "2026-08-24 08:50 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.72,
-            "change": "+2.28%"
+            "change": "+2.15%"
         },
         {
             "symbol": "AMD",
             "price": 473.25,
-            "change": "+1.24%"
+            "change": "+3.45%"
         },
         {
             "symbol": "MSFT",
             "price": 483.24,
-            "change": "-2.26%"
+            "change": "+2.15%"
         },
         {
             "symbol": "CEG",
             "price": 272.88,
-            "change": "+2.93%"
+            "change": "-1.32%"
         },
         {
             "symbol": "VST",
             "price": 136.21,
-            "change": "-2.56%"
+            "change": "-0.74%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.47,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
             0.49,
             0.5,
             0.5,
-            0.5
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.85,
-            25.77,
-            25.35,
-            25.28,
-            25.31,
-            25.73,
-            25.82,
-            25.86,
-            25.38,
-            25.87,
-            25.43,
-            25.16
+            23.85,
+            24.11,
+            24.58,
+            24.4,
+            24.31,
+            23.92,
+            23.91,
+            24.35,
+            24.47,
+            24.91,
+            24.95,
+            24.87
         ],
         "hsd_history_software": [
-            9.51,
-            9.7,
+            9.54,
+            9.6,
+            9.46,
+            9.61,
             9.74,
-            9.85,
-            9.77,
-            9.73,
-            9.84,
-            9.9,
-            9.8,
-            9.66,
-            9.73,
-            9.87
+            9.86,
+            9.94,
+            9.88,
+            10.07,
+            9.91,
+            9.93,
+            9.85
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:44",
+            "time": "08:00",
             "tag": "MERCADO",
-            "text": "CHRN Price Today: ChronoScale Holdings Corporation Stock Price, Quote & Chart | MEXC"
+            "text": "Ally Financial Inc. Invests $1.67 Million in Fidelity National Information Services, Inc. $FIS"
         },
         {
-            "time": "06:26",
-            "tag": "AI",
-            "text": "United Airlines CEO Scott Kirby eyes JFK expansion, global growth, and AI capabilities: report (UAL:NASDAQ)"
-        },
-        {
-            "time": "06:08",
+            "time": "08:00",
             "tag": "MERCADO",
-            "text": "Alphabet stock climbs after earnings beat on ads and costs"
+            "text": "Fifth Third Bancorp Reduces Holdings in Intel Corporation $INTC"
         },
         {
-            "time": "05:41",
+            "time": "08:00",
             "tag": "MERCADO",
-            "text": "MKDWELL Tech Inc. (MKDW) stock price, news, quote and history"
+            "text": "Bank of New York Mellon Corp Purchases New Position in F5, Inc. $FFIV"
         },
         {
-            "time": "05:35",
-            "tag": "AI",
-            "text": "Micron CEO Says He Sees 'No End' To AI Memory Demand - Micron Technology (NASDAQ:MU)"
+            "time": "08:00",
+            "tag": "MERCADO",
+            "text": "Barrow Hanley Mewhinney & Strauss LLC Has $336.50 Million Stake in American Tower Corporation $AMT"
+        },
+        {
+            "time": "08:00",
+            "tag": "MERCADO",
+            "text": "Amazon.com, Inc. $AMZN is Generali Investments Management Co LLC's 3rd Largest Position"
         }
     ]
 }
