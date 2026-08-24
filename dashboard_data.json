@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-24 05:40 UTC",
+        "last_updated": "2026-08-24 07:02 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 214.72,
-            "change": "+2.21%"
+            "change": "+2.28%"
         },
         {
             "symbol": "AMD",
             "price": 473.25,
-            "change": "+0.33%"
+            "change": "+1.24%"
         },
         {
             "symbol": "MSFT",
-            "price": NaN,
-            "change": "-1.91%"
+            "price": 483.24,
+            "change": "-2.26%"
         },
         {
             "symbol": "CEG",
             "price": 272.88,
-            "change": "+1.19%"
+            "change": "+2.93%"
         },
         {
             "symbol": "VST",
             "price": 136.21,
-            "change": "-0.39%"
+            "change": "-2.56%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.57,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
             0.49,
-            0.49,
+            0.5,
             0.5,
             0.51,
+            0.51,
+            0.51,
             0.5,
-            0.51
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.46,
-            24.25,
-            24.26,
-            24.72,
-            24.39,
-            24.21,
-            24.5,
-            24.98,
-            24.73,
-            24.91,
-            24.73,
-            24.84
+            25.85,
+            25.77,
+            25.35,
+            25.28,
+            25.31,
+            25.73,
+            25.82,
+            25.86,
+            25.38,
+            25.87,
+            25.43,
+            25.16
         ],
         "hsd_history_software": [
-            9.87,
-            9.98,
-            10.15,
-            10.13,
-            10.13,
-            10.06,
-            10.18,
-            10.17,
-            10.13,
-            10.07,
-            9.98,
-            10.05
+            9.51,
+            9.7,
+            9.74,
+            9.85,
+            9.77,
+            9.73,
+            9.84,
+            9.9,
+            9.8,
+            9.66,
+            9.73,
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:18",
-            "tag": "AI",
-            "text": "IBM's new AI tools for the US Open will generate roughly 1.2 billion data points"
-        },
-        {
-            "time": "04:10",
-            "tag": "AI",
-            "text": "Rockwell Automation, Actemium Deploy AI to Cut Refrigeration Energy Use by 17% in Frozen Food Production"
-        },
-        {
-            "time": "04:03",
+            "time": "06:44",
             "tag": "MERCADO",
-            "text": "IBM Study: Nearly Half of Sports Fans Want One App\u2014But Few Would Pay"
+            "text": "CHRN Price Today: ChronoScale Holdings Corporation Stock Price, Quote & Chart | MEXC"
         },
         {
-            "time": "04:02",
+            "time": "06:26",
             "tag": "AI",
-            "text": "Hershey is using AI to strategize for s\u2019mores season"
+            "text": "United Airlines CEO Scott Kirby eyes JFK expansion, global growth, and AI capabilities: report (UAL:NASDAQ)"
         },
         {
-            "time": "03:30",
+            "time": "06:08",
             "tag": "MERCADO",
-            "text": "[News] Hot Chips 2026: Samsung\u2019s zHBM Claims 70% Power-Efficiency Gain; SK hynix Evaluates Intel EMIB"
+            "text": "Alphabet stock climbs after earnings beat on ads and costs"
+        },
+        {
+            "time": "05:41",
+            "tag": "MERCADO",
+            "text": "MKDWELL Tech Inc. (MKDW) stock price, news, quote and history"
+        },
+        {
+            "time": "05:35",
+            "tag": "AI",
+            "text": "Micron CEO Says He Sees 'No End' To AI Memory Demand - Micron Technology (NASDAQ:MU)"
         }
     ]
 }
