@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-24 19:31 UTC",
+        "last_updated": "2026-08-24 20:32 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 209.39,
-            "change": "-1.35%"
+            "price": 208.48,
+            "change": "-0.41%"
         },
         {
             "symbol": "AMD",
-            "price": 457.2,
-            "change": "+0.66%"
+            "price": 456.74,
+            "change": "-0.28%"
         },
         {
             "symbol": "MSFT",
-            "price": 488.67,
-            "change": "-3.04%"
+            "price": 487.31,
+            "change": "+3.27%"
         },
         {
             "symbol": "CEG",
-            "price": 274.67,
-            "change": "-0.86%"
+            "price": 273.43,
+            "change": "-2.22%"
         },
         {
             "symbol": "VST",
-            "price": 136.28,
-            "change": "+1.47%"
+            "price": 135.66,
+            "change": "-0.04%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.66,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.47,
+            0.48,
+            0.47,
+            0.47,
+            0.46,
+            0.46,
+            0.46,
+            0.47,
             0.48,
             0.48,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.5,
-            0.49,
-            0.5,
-            0.49,
             0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            24.5,
-            24.15,
-            24.36,
-            24.52,
-            24.99,
-            24.95,
-            25.32,
-            25.83,
+            25.77,
+            25.47,
+            25.46,
+            25.8,
+            25.34,
             25.58,
-            25.21,
-            24.74,
-            24.84
+            25.33,
+            24.88,
+            25.03,
+            24.59,
+            25.03,
+            24.99
         ],
         "hsd_history_software": [
-            10.03,
-            10.13,
-            10.02,
-            10.11,
-            10.11,
-            9.96,
+            10.26,
+            10.24,
+            10.3,
+            10.18,
             10.08,
-            10.11,
+            10.08,
+            10.24,
+            10.37,
+            10.49,
+            10.32,
             10.15,
-            10.14,
-            10.0,
-            10.18
+            10.08
         ],
         "rci_data": [
             85.0,
-            20.939
+            20.848
         ],
         "energy_data": [
             1.2,
@@ -131,6 +131,11 @@
             "text": "SunCar Technology Group Inc. Class A Trade Ideas \u2014 NASDAQ:SDA"
         },
         {
+            "time": "19:07",
+            "tag": "MERCADO",
+            "text": "Utica City Council approves police purchase of drone through state grant"
+        },
+        {
             "time": "19:05",
             "tag": "MERCADO",
             "text": "Teradyne Declares Quarterly Cash Dividend, Payable on September 25, 2026"
@@ -141,14 +146,9 @@
             "text": "UAW and Deere are set to clash amid AI sales boom"
         },
         {
-            "time": "19:00",
+            "time": "19:04",
             "tag": "MERCADO",
-            "text": "For These Three Interns, the Medtronic Mission Is Personal"
-        },
-        {
-            "time": "18:36",
-            "tag": "MERCADO",
-            "text": "Rocket Lab Stock And 2 Aerospace Picks For Defense Focused Portfolios"
+            "text": "Microsoft's plans for 8-acre Redmond site revealed in permits"
         }
     ]
 }
