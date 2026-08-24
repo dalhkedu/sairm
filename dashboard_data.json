@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-24 14:44 UTC",
+        "last_updated": "2026-08-24 15:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 209.76,
-            "change": "+0.59%"
+            "price": 210.3,
+            "change": "-3.19%"
         },
         {
             "symbol": "AMD",
-            "price": 457.13,
-            "change": "+0.97%"
+            "price": 461.52,
+            "change": "+1.7%"
         },
         {
             "symbol": "MSFT",
-            "price": NaN,
-            "change": "+2.76%"
+            "price": 489.12,
+            "change": "-2.46%"
         },
         {
             "symbol": "CEG",
-            "price": 272.36,
-            "change": "+2.71%"
+            "price": 272.75,
+            "change": "+2.86%"
         },
         {
             "symbol": "VST",
-            "price": 135.8,
-            "change": "-0.21%"
+            "price": 136.61,
+            "change": "+0.89%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.49,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.47,
-            0.47,
-            0.47,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.48,
             0.49,
             0.49,
-            0.49
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.88,
-            25.23,
-            24.82,
-            24.55,
-            24.81,
-            24.38,
-            24.69,
-            24.82,
+            24.4,
+            24.85,
+            24.95,
             25.09,
-            24.98,
-            24.87,
-            25.3
+            25.07,
+            24.63,
+            24.94,
+            25.06,
+            24.86,
+            24.89,
+            24.78,
+            24.63
         ],
         "hsd_history_software": [
-            9.54,
-            9.71,
-            9.59,
-            9.57,
-            9.56,
-            9.56,
-            9.57,
-            9.69,
-            9.8,
-            9.94,
-            10.08,
-            10.02
+            10.01,
+            10.14,
+            10.22,
+            10.3,
+            10.14,
+            10.35,
+            10.32,
+            10.4,
+            10.4,
+            10.5,
+            10.3,
+            10.16
         ],
         "rci_data": [
             85.0,
-            20.976
+            21.03
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "14:05",
+            "time": "15:04",
             "tag": "MERCADO",
-            "text": "Seagate stock trades softer as tech sector slides ahead of key Nvidia earnings"
+            "text": "DA Davidson reiterates Jack Henry stock Buy rating on strong results"
         },
         {
-            "time": "14:00",
+            "time": "15:03",
             "tag": "MERCADO",
-            "text": "Leidos will monitor U.S. military networks around the clock for five years"
+            "text": "Nordson stock price target raised to $375 by DA Davidson on growth"
         },
         {
-            "time": "14:00",
+            "time": "14:54",
             "tag": "MERCADO",
-            "text": "Leidos to strengthen cyber defenses across Department of War networks"
+            "text": "Walmart\u2019s OnePay Expands Apple Pay Wallet Support"
         },
         {
-            "time": "13:58",
+            "time": "14:50",
             "tag": "MERCADO",
-            "text": "Everpure, HPE, and Huawei navigate storage volatility to top Gartner Magic Quadrant"
+            "text": "Gartner Announces Gartner HR Symposium/Xpo Conference 2026, Orlando"
         },
         {
-            "time": "13:51",
+            "time": "14:30",
             "tag": "AI",
-            "text": "Buy 2 High-Flying AI Construction Giants for Solid Short-Term Upside"
+            "text": "Can IBM's New AI-Powered 2026 US Open Innovations Drive Growth?"
         }
     ]
 }
