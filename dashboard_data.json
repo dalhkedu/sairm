@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-24 18:42 UTC",
+        "last_updated": "2026-08-24 19:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 209.74,
-            "change": "-2.88%"
+            "price": 209.39,
+            "change": "-1.35%"
         },
         {
             "symbol": "AMD",
-            "price": 459.12,
-            "change": "-2.45%"
+            "price": 457.2,
+            "change": "+0.66%"
         },
         {
             "symbol": "MSFT",
-            "price": 487.54,
-            "change": "-3.0%"
+            "price": 488.67,
+            "change": "-3.04%"
         },
         {
             "symbol": "CEG",
-            "price": 274.3,
-            "change": "+3.06%"
+            "price": 274.67,
+            "change": "-0.86%"
         },
         {
             "symbol": "VST",
-            "price": 136.26,
-            "change": "-0.94%"
+            "price": 136.28,
+            "change": "+1.47%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.42,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.47,
             0.48,
             0.48,
             0.49,
+            0.49,
+            0.48,
+            0.49,
             0.5,
-            0.5
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.51,
-            25.68,
-            25.71,
-            25.53,
-            25.89,
-            25.93,
-            25.6,
-            25.49,
-            25.61,
-            25.29,
-            25.48,
-            25.43
+            24.5,
+            24.15,
+            24.36,
+            24.52,
+            24.99,
+            24.95,
+            25.32,
+            25.83,
+            25.58,
+            25.21,
+            24.74,
+            24.84
         ],
         "hsd_history_software": [
+            10.03,
+            10.13,
             10.02,
+            10.11,
+            10.11,
+            9.96,
             10.08,
-            10.07,
-            10.16,
-            10.07,
-            10.24,
-            10.28,
-            10.22,
-            10.24,
-            10.05,
-            9.88,
-            9.98
+            10.11,
+            10.15,
+            10.14,
+            10.0,
+            10.18
         ],
         "rci_data": [
             85.0,
-            20.974
+            20.939
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:09",
+            "time": "19:12",
             "tag": "MERCADO",
-            "text": "World\u2019s First 2,200-V GaN Tech Eyes Next-Gen High-Voltage EVs, Data Centers"
+            "text": "SunCar Technology Group Inc. Class A Trade Ideas \u2014 NASDAQ:SDA"
         },
         {
-            "time": "18:03",
+            "time": "19:05",
             "tag": "MERCADO",
-            "text": "One Kroger order can now bring groceries and prescriptions to your door"
+            "text": "Teradyne Declares Quarterly Cash Dividend, Payable on September 25, 2026"
         },
         {
-            "time": "18:01",
-            "tag": "MERCADO",
-            "text": "Analog Semiconductors Stocks Q2 Teardown: Microchip Technology (NASDAQ:MCHP) Vs The Rest"
+            "time": "19:05",
+            "tag": "AI",
+            "text": "UAW and Deere are set to clash amid AI sales boom"
         },
         {
-            "time": "17:37",
+            "time": "19:00",
             "tag": "MERCADO",
-            "text": "Arista Networks (ANET) Shares Just Moved, What Is Driving Attention Now?"
+            "text": "For These Three Interns, the Medtronic Mission Is Personal"
         },
         {
-            "time": "17:35",
+            "time": "18:36",
             "tag": "MERCADO",
-            "text": "Plug Power Falls 4%, Bloom Energy Moves Up as the Hydrogen Trade Divides"
+            "text": "Rocket Lab Stock And 2 Aerospace Picks For Defense Focused Portfolios"
         }
     ]
 }
