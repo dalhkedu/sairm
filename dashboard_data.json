@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-24 12:54 UTC",
+        "last_updated": "2026-08-24 13:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 214.72,
-            "change": "+0.22%"
+            "price": 209.16,
+            "change": "+0.07%"
         },
         {
             "symbol": "AMD",
-            "price": 473.25,
-            "change": "+3.02%"
+            "price": 453.13,
+            "change": "-2.82%"
         },
         {
             "symbol": "MSFT",
-            "price": 483.24,
-            "change": "-1.39%"
+            "price": 485.86,
+            "change": "-2.95%"
         },
         {
             "symbol": "CEG",
-            "price": 272.88,
-            "change": "-1.5%"
+            "price": 270.38,
+            "change": "+1.07%"
         },
         {
             "symbol": "VST",
-            "price": 136.21,
-            "change": "-3.44%"
+            "price": NaN,
+            "change": "-2.23%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.41,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
             0.5,
             0.5,
-            0.51,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            23.46,
-            23.54,
-            23.93,
-            23.46,
-            23.87,
-            24.32,
-            24.62,
-            24.79,
-            24.91,
-            24.68,
-            24.87,
-            24.61
+            23.65,
+            23.68,
+            23.4,
+            23.3,
+            23.65,
+            23.4,
+            23.67,
+            24.12,
+            24.33,
+            24.69,
+            24.86,
+            25.35
         ],
         "hsd_history_software": [
-            9.75,
-            9.82,
-            9.82,
-            10.02,
-            10.19,
-            10.33,
-            10.34,
-            10.18,
-            10.07,
-            10.11,
-            9.96,
-            9.91
+            9.3,
+            9.14,
+            9.24,
+            9.32,
+            9.33,
+            9.25,
+            9.44,
+            9.63,
+            9.79,
+            9.94,
+            9.84,
+            9.93
         ],
         "rci_data": [
             85.0,
-            21.471999999999998
+            20.915999999999997
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:09",
-            "tag": "MERCADO",
-            "text": "Nvidia earnings face a frustrating reality"
-        },
-        {
-            "time": "12:06",
-            "tag": "MERCADO",
-            "text": "SLB Launches Exact Electrical Downhole Ct Control System"
-        },
-        {
-            "time": "12:04",
-            "tag": "MERCADO",
-            "text": "Fortinet stock trades above consensus target as institutions add exposure"
-        },
-        {
-            "time": "11:41",
-            "tag": "MERCADO",
-            "text": "SLB Launches ExaCT Electrical Downhole CT Control System"
-        },
-        {
-            "time": "11:22",
+            "time": "13:04",
             "tag": "AI",
-            "text": "Weekly Recap: AI powering 60% of top Q1 deals and 4th Singapore solar PPA"
+            "text": "This Fund Exits Intuit (INTU) Amid Concerns of AI Disruption to TurboTax\u2019s Moat"
+        },
+        {
+            "time": "13:02",
+            "tag": "AI",
+            "text": "Datavault AI's WiSA Association Certifies Optoma Projectors for WiSA SoundSend :: Datavault AI Inc. (DVLT)"
+        },
+        {
+            "time": "13:00",
+            "tag": "MERCADO",
+            "text": "An electric car could become a home battery as PG&E expands its options"
+        },
+        {
+            "time": "13:00",
+            "tag": "MERCADO",
+            "text": "Jack Henry maintains quarterly dividend at 61 cents per share"
+        },
+        {
+            "time": "13:00",
+            "tag": "MERCADO",
+            "text": "66 more Optoma projectors can now connect to wireless speakers"
         }
     ]
 }
