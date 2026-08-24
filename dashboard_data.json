@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-24 20:32 UTC",
+        "last_updated": "2026-08-24 21:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 208.48,
-            "change": "-0.41%"
+            "change": "+2.16%"
         },
         {
             "symbol": "AMD",
             "price": 456.74,
-            "change": "-0.28%"
+            "change": "-2.65%"
         },
         {
             "symbol": "MSFT",
             "price": 487.31,
-            "change": "+3.27%"
+            "change": "+2.72%"
         },
         {
             "symbol": "CEG",
-            "price": 273.43,
-            "change": "-2.22%"
+            "price": NaN,
+            "change": "+1.44%"
         },
         {
             "symbol": "VST",
             "price": 135.66,
-            "change": "-0.04%"
+            "change": "+1.11%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.65,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
-            0.47,
-            0.47,
-            0.46,
-            0.46,
-            0.46,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.49
+            0.54,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.77,
-            25.47,
-            25.46,
-            25.8,
-            25.34,
-            25.58,
-            25.33,
-            24.88,
-            25.03,
+            23.93,
+            24.09,
+            24.54,
+            24.96,
+            24.63,
             24.59,
-            25.03,
-            24.99
+            24.99,
+            25.07,
+            24.68,
+            24.7,
+            25.02,
+            25.22
         ],
         "hsd_history_software": [
-            10.26,
-            10.24,
-            10.3,
-            10.18,
-            10.08,
-            10.08,
-            10.24,
-            10.37,
-            10.49,
-            10.32,
-            10.15,
-            10.08
+            10.88,
+            10.9,
+            10.92,
+            10.84,
+            10.65,
+            10.54,
+            10.52,
+            10.42,
+            10.39,
+            10.41,
+            10.27,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:12",
+            "time": "21:08",
             "tag": "MERCADO",
-            "text": "SunCar Technology Group Inc. Class A Trade Ideas \u2014 NASDAQ:SDA"
+            "text": "TER Looks 71.3% Overvalued on GF Value\u2122"
         },
         {
-            "time": "19:07",
+            "time": "20:59",
             "tag": "MERCADO",
-            "text": "Utica City Council approves police purchase of drone through state grant"
+            "text": "State Street ETF Turns Tech Volatility Into Income"
         },
         {
-            "time": "19:05",
+            "time": "20:52",
             "tag": "MERCADO",
-            "text": "Teradyne Declares Quarterly Cash Dividend, Payable on September 25, 2026"
+            "text": "Autodesk stock holds ahead of Q2 earnings as analysts expect stronger growth"
         },
         {
-            "time": "19:05",
-            "tag": "AI",
-            "text": "UAW and Deere are set to clash amid AI sales boom"
+            "time": "20:48",
+            "tag": "MERCADO",
+            "text": "Richard Preece Appointed to Jack Henry Board of Directors"
         },
         {
-            "time": "19:04",
+            "time": "20:46",
             "tag": "MERCADO",
-            "text": "Microsoft's plans for 8-acre Redmond site revealed in permits"
+            "text": "Jack Henry names Richard N. Preece to board, Wes Brown to retire at November meeting"
         }
     ]
 }
