@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-25 16:39 UTC",
+        "last_updated": "2026-08-25 17:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 212.35,
-            "change": "+0.74%"
+            "price": 212.31,
+            "change": "+0.06%"
         },
         {
             "symbol": "AMD",
-            "price": 477.37,
-            "change": "-1.79%"
+            "price": 476.56,
+            "change": "-2.62%"
         },
         {
             "symbol": "MSFT",
-            "price": 489.61,
-            "change": "-0.41%"
+            "price": 489.29,
+            "change": "-2.87%"
         },
         {
             "symbol": "CEG",
-            "price": 276.67,
-            "change": "-2.3%"
+            "price": NaN,
+            "change": "-1.96%"
         },
         {
             "symbol": "VST",
-            "price": 138.9,
-            "change": "+0.77%"
+            "price": 139.03,
+            "change": "+2.39%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.42,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.52,
-            0.53,
-            0.52,
-            0.52,
+            0.51,
+            0.5,
+            0.5,
+            0.51,
             0.51,
             0.51,
             0.51,
             0.5,
             0.49,
+            0.5,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.93,
-            24.56,
-            24.3,
-            24.75,
-            24.71,
-            24.45,
-            24.61,
-            24.57,
-            24.69,
-            24.31,
-            24.23,
-            24.63
+            24.42,
+            24.74,
+            25.06,
+            25.45,
+            25.86,
+            25.82,
+            25.8,
+            25.35,
+            25.04,
+            25.36,
+            24.99,
+            24.53
         ],
         "hsd_history_software": [
-            9.92,
-            9.85,
-            9.72,
-            9.77,
-            9.77,
-            9.94,
-            10.03,
-            10.12,
-            9.98,
-            9.84,
+            9.63,
+            9.56,
+            9.75,
+            9.9,
+            9.96,
+            10.14,
+            10.23,
+            10.26,
+            10.23,
+            10.09,
             9.95,
-            9.81
+            10.14
         ],
         "rci_data": [
             85.0,
-            21.235
+            21.231
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:01",
+            "time": "16:45",
+            "tag": "AI",
+            "text": "Alphabet stock holds strong as Q2 cloud growth and AI demand reshape the outlook"
+        },
+        {
+            "time": "16:38",
+            "tag": "RESULTADOS",
+            "text": "Q2 Earnings Highs And Lows: CoStar (NASDAQ:CSGP) Vs The Rest Of The Data & Business Process Services Stocks"
+        },
+        {
+            "time": "16:31",
+            "tag": "AI",
+            "text": "Builders FirstSource and Digs Partner to Offer AI Homebuilding Platform"
+        },
+        {
+            "time": "16:23",
             "tag": "MERCADO",
-            "text": "FIS Maintains Outperform Rating -- Price Target Raised to $54.00"
+            "text": "BetMGM Alberta Now Streams Live Casino Games from Las Vegas"
         },
         {
-            "time": "16:00",
+            "time": "16:18",
             "tag": "MERCADO",
-            "text": "Bronstein, Gewirtz & Grossman LLC Urges Intuit Inc. Investors to Act: Class Action Filed Alleging Investor Harm"
-        },
-        {
-            "time": "16:00",
-            "tag": "AI",
-            "text": "AI vs. SaaS: Will vibe-coded apps replace Salesforce and ServiceNow?"
-        },
-        {
-            "time": "15:59",
-            "tag": "AI",
-            "text": "Teledyne LeCroy Accelerates Ultra Ethernet\u2122 Validation for AI and HPC Infrastructure"
-        },
-        {
-            "time": "15:59",
-            "tag": "AI",
-            "text": "Teledyne LeCroy tools test AI networks with traffic, error checks and debugging"
+            "text": "Skyworks Solutions Falls as Chip Selloff Adds Pressure to Qorvo Deal Financing Overhang"
         }
     ]
 }
