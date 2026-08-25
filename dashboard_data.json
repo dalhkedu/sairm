@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-25 03:00 UTC",
+        "last_updated": "2026-08-25 03:55 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 208.48,
-            "change": "-3.39%"
+            "change": "+3.01%"
         },
         {
             "symbol": "AMD",
             "price": 456.74,
-            "change": "+3.48%"
+            "change": "+3.01%"
         },
         {
             "symbol": "MSFT",
             "price": 487.31,
-            "change": "+1.14%"
+            "change": "-0.29%"
         },
         {
             "symbol": "CEG",
             "price": 273.43,
-            "change": "-1.8%"
+            "change": "-1.03%"
         },
         {
             "symbol": "VST",
             "price": 135.66,
-            "change": "+0.08%"
+            "change": "-0.23%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.43,
+        "cer_current": 0.46,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.51,
-            0.52,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.5,
+            0.49,
+            0.49,
+            0.49,
             0.49,
             0.5,
-            0.5,
-            0.5
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            23.9,
-            23.75,
-            23.68,
-            24.04,
-            24.38,
-            24.72,
-            24.71,
-            24.39,
-            24.64,
-            24.63,
-            25.09,
-            25.12
+            25.47,
+            25.0,
+            25.51,
+            25.08,
+            25.07,
+            25.19,
+            25.15,
+            25.51,
+            25.83,
+            25.5,
+            25.42,
+            25.31
         ],
         "hsd_history_software": [
-            9.8,
-            9.86,
-            9.73,
-            9.61,
-            9.48,
-            9.58,
+            9.78,
+            9.85,
             9.67,
-            9.51,
-            9.66,
-            9.59,
-            9.65,
-            9.82
+            9.87,
+            9.78,
+            9.93,
+            9.85,
+            10.02,
+            10.01,
+            10.12,
+            9.99,
+            10.13
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:13",
+            "time": "03:17",
             "tag": "MERCADO",
-            "text": "Coda Octopus Group Announces Fiscal Third Quarter 2026"
+            "text": "FuelCell Energy surges on UBS upgrade, Siemens deal"
         },
         {
-            "time": "02:07",
+            "time": "02:59",
             "tag": "MERCADO",
-            "text": "Who\u2019s Most Likely to Put Daktronics on the Acquisition Scoreboard?"
+            "text": "Walmart and Target are buying robots at record numbers. Here's why your job is safe"
         },
         {
-            "time": "01:43",
+            "time": "02:36",
             "tag": "MERCADO",
-            "text": "BTC Digital Jumps 53% as Georgia Mining Site Nears Launch"
+            "text": "Evertec Inc (EVTC) Director Aldo Polak Sells 1,000 Shares"
         },
         {
-            "time": "01:40",
-            "tag": "MERCADO",
-            "text": "Tesla (TSLA)\u2019s Solar Roof Shutdown Raises Questions About its Energy Ambitions"
+            "time": "02:31",
+            "tag": "AI",
+            "text": "AI Drives Copper-Clad Laminate Shortage; Citigroup Lifts Kingboard Laminates Target Price to HK$95"
         },
         {
-            "time": "01:40",
+            "time": "02:20",
             "tag": "MERCADO",
-            "text": "Wearable Devices H1FY26 net loss widens 49% to $5.5 million"
+            "text": "Digital Realty Trust, L.P. Selects to Develop 50 Megawatts of New Data Center Capacity in Singapore"
         }
     ]
 }
