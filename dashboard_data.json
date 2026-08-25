@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-25 06:52 UTC",
+        "last_updated": "2026-08-25 07:45 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 208.48,
-            "change": "+2.86%"
+            "change": "-2.26%"
         },
         {
             "symbol": "AMD",
             "price": 456.75,
-            "change": "+3.07%"
+            "change": "-3.4%"
         },
         {
             "symbol": "MSFT",
-            "price": 487.31,
-            "change": "-2.15%"
+            "price": NaN,
+            "change": "-1.77%"
         },
         {
             "symbol": "CEG",
             "price": 273.43,
-            "change": "+0.48%"
+            "change": "+1.72%"
         },
         {
             "symbol": "VST",
             "price": 135.66,
-            "change": "-3.2%"
+            "change": "-0.98%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.69,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5
+            0.48,
+            0.47,
+            0.47,
+            0.46,
+            0.46,
+            0.46,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.53,
-            24.21,
-            24.18,
-            24.59,
-            24.56,
-            24.25,
-            23.9,
-            24.2,
-            24.44,
-            24.52,
-            24.63,
-            24.68
+            26.12,
+            25.8,
+            25.66,
+            25.51,
+            25.1,
+            25.26,
+            25.24,
+            25.19,
+            24.84,
+            25.28,
+            25.2,
+            24.79
         ],
         "hsd_history_software": [
-            10.17,
-            10.22,
-            10.2,
-            10.03,
+            9.52,
+            9.69,
             9.87,
-            10.01,
+            9.95,
+            10.13,
+            10.06,
             9.86,
-            9.94,
-            10.03,
-            10.03,
-            10.03,
-            10.05
+            9.8,
+            9.85,
+            9.86,
+            9.72,
+            9.81
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:52",
+            "time": "07:06",
             "tag": "MERCADO",
-            "text": "Littelfuse Launches TPSMD-FL TVS Diodes for Simplified ISO 7637 Load-Dump Protection"
+            "text": "AMG National Trust Bank Cuts Stock Holdings in Verizon Communications Inc. $VZ"
         },
         {
-            "time": "05:39",
+            "time": "07:02",
             "tag": "MERCADO",
-            "text": "Myriad Genetics and Moderna Shares Plummet, What You Need To Know"
+            "text": "Configit Named as a Sample Vendor in the Gartner\u00ae Hype Cycle\u2122 for Revenue and Sales Technology, 2026"
         },
         {
-            "time": "05:19",
+            "time": "07:00",
             "tag": "MERCADO",
-            "text": "Nordson's new system is built for larger panels used in advanced chip packaging"
+            "text": "Rockwell Automation Announces Indinvest LT Strengthens Industrial Cybersecurity Strategy Through Risk Assessment Initiative"
         },
         {
-            "time": "05:02",
-            "tag": "AI",
-            "text": "Sony to offer drivers cute AI agent for self-driving age"
+            "time": "06:37",
+            "tag": "MERCADO",
+            "text": "Does Cboe (CBOE)\u02bcs Sharply Higher Dividend Reveal a Deeper Shift in Its Capital Allocation Strategy?"
         },
         {
-            "time": "04:54",
+            "time": "06:21",
             "tag": "MERCADO",
-            "text": "Ericsson Teams Up with MediaTek and AT&T to Complete North America's First Live-Network LTM Test"
+            "text": "Digital Realty Trust, Inc. (NYSE:DLR) Given Average Rating of \"Moderate Buy\" by Brokerages"
         }
     ]
 }
