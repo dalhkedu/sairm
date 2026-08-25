@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-25 15:43 UTC",
+        "last_updated": "2026-08-25 16:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 211.28,
-            "change": "-0.72%"
+            "price": 212.35,
+            "change": "+0.74%"
         },
         {
             "symbol": "AMD",
-            "price": 476.65,
-            "change": "-3.33%"
+            "price": 477.37,
+            "change": "-1.79%"
         },
         {
             "symbol": "MSFT",
-            "price": 489.11,
-            "change": "-2.82%"
+            "price": 489.61,
+            "change": "-0.41%"
         },
         {
             "symbol": "CEG",
-            "price": 274.61,
-            "change": "+1.03%"
+            "price": 276.67,
+            "change": "-2.3%"
         },
         {
             "symbol": "VST",
-            "price": 137.76,
-            "change": "+2.35%"
+            "price": 138.9,
+            "change": "+0.77%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.43,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.52,
+            0.52,
             0.53,
             0.52,
             0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.53,
-            0.52,
             0.51,
             0.51,
-            0.51
+            0.51,
+            0.5,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.53,
-            25.15,
-            25.21,
-            24.94,
-            25.09,
-            25.48,
-            25.02,
-            25.17,
+            24.93,
+            24.56,
+            24.3,
+            24.75,
+            24.71,
+            24.45,
+            24.61,
+            24.57,
             24.69,
-            24.43,
-            24.68,
-            25.0
+            24.31,
+            24.23,
+            24.63
         ],
         "hsd_history_software": [
-            9.39,
-            9.51,
-            9.42,
-            9.54,
-            9.71,
-            9.56,
-            9.58,
-            9.71,
+            9.92,
+            9.85,
+            9.72,
             9.77,
-            9.7,
-            9.62,
-            9.82
+            9.77,
+            9.94,
+            10.03,
+            10.12,
+            9.98,
+            9.84,
+            9.95,
+            9.81
         ],
         "rci_data": [
             85.0,
-            21.128
+            21.235
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:01",
+            "time": "16:01",
             "tag": "MERCADO",
-            "text": "James C. Lee Executes Sell Order: Offloads $3.35M In Seagate Technology Hldgs Stock"
+            "text": "FIS Maintains Outperform Rating -- Price Target Raised to $54.00"
         },
         {
-            "time": "14:55",
+            "time": "16:00",
             "tag": "MERCADO",
-            "text": "Asymmetry Is The Reason I Will Not Stop Buying Oracle"
+            "text": "Bronstein, Gewirtz & Grossman LLC Urges Intuit Inc. Investors to Act: Class Action Filed Alleging Investor Harm"
         },
         {
-            "time": "14:52",
-            "tag": "MERCADO",
-            "text": "Paychex stock trades above $126 as fresh earnings and guidance test valuation"
-        },
-        {
-            "time": "14:52",
-            "tag": "MERCADO",
-            "text": "Aptiv stock hits 52-week low at 46.13 USD By Investing.com"
-        },
-        {
-            "time": "14:45",
+            "time": "16:00",
             "tag": "AI",
-            "text": "Cisco Expands Rack-Scale AI Computing With Nvidia, Supermicro"
+            "text": "AI vs. SaaS: Will vibe-coded apps replace Salesforce and ServiceNow?"
+        },
+        {
+            "time": "15:59",
+            "tag": "AI",
+            "text": "Teledyne LeCroy Accelerates Ultra Ethernet\u2122 Validation for AI and HPC Infrastructure"
+        },
+        {
+            "time": "15:59",
+            "tag": "AI",
+            "text": "Teledyne LeCroy tools test AI networks with traffic, error checks and debugging"
         }
     ]
 }
