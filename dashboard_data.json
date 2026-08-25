@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-25 20:31 UTC",
+        "last_updated": "2026-08-25 21:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 213.05,
-            "change": "-1.14%"
+            "change": "-0.26%"
         },
         {
             "symbol": "AMD",
             "price": 479.18,
-            "change": "-0.82%"
+            "change": "+1.77%"
         },
         {
             "symbol": "MSFT",
             "price": 491.71,
-            "change": "-2.37%"
+            "change": "+2.7%"
         },
         {
             "symbol": "CEG",
             "price": 278.42,
-            "change": "+2.89%"
+            "change": "+2.03%"
         },
         {
             "symbol": "VST",
             "price": 139.03,
-            "change": "-1.94%"
+            "change": "+1.07%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.42,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
+            0.53,
+            0.52,
+            0.52,
+            0.53,
+            0.52,
             0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            25.4,
-            25.09,
-            25.18,
-            25.53,
-            25.18,
-            24.89,
-            25.21,
-            25.4,
-            25.19,
-            25.41,
-            25.39,
-            24.93
+            22.6,
+            22.83,
+            23.02,
+            23.27,
+            23.33,
+            23.2,
+            23.66,
+            23.78,
+            23.84,
+            24.21,
+            24.62,
+            24.78
         ],
         "hsd_history_software": [
-            10.51,
-            10.39,
-            10.5,
-            10.37,
-            10.2,
-            10.03,
-            9.9,
-            10.03,
-            10.19,
-            10.03,
-            10.03,
-            9.99
+            9.84,
+            9.81,
+            9.79,
+            9.64,
+            9.55,
+            9.72,
+            9.78,
+            9.87,
+            10.01,
+            9.93,
+            9.85,
+            9.94
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:06",
+            "time": "20:43",
             "tag": "MERCADO",
-            "text": "Zillow Group to present at Goldman Sachs Communacopia + Technology Conference"
+            "text": "Gorilla Technology Doubles H1 2026 Revenue as Cash Position Swells Amid Heavy Infrastructure Spend"
         },
         {
-            "time": "20:03",
-            "tag": "RESULTADOS",
-            "text": "Earnings Flash (INTU) Intuit Inc. Reports Q4 Revenue $4.35B, vs. FactSet Est of $4.27B"
+            "time": "20:16",
+            "tag": "MERCADO",
+            "text": "Western Digital Corp Stock (WDC) Closed Up by 3.53% on Aug 25: Key Drivers Unveiled"
         },
         {
-            "time": "20:01",
+            "time": "20:15",
             "tag": "MERCADO",
-            "text": "What PG&E has learned in two years of flexible interconnection"
+            "text": "Rubrik (NYSE: RBRK) CFO sells 10,000 shares in 10b5-1 trades"
         },
         {
-            "time": "20:00",
+            "time": "20:15",
             "tag": "MERCADO",
-            "text": "SLB Launches Artificial Lift Technologies to Enhance Production Efficiency"
+            "text": "Cadence Design Systems Inc Stock (CDNS) Closed Up by 5.06% on Aug 25: What Investors Need To Know"
         },
         {
-            "time": "19:55",
+            "time": "20:12",
             "tag": "MERCADO",
-            "text": "Carrier eyes DFW for $433 million manufacturing plant as data center business booms"
+            "text": "Arista Networks Stock Looks Strong. One Number Says Be Careful."
         }
     ]
 }
