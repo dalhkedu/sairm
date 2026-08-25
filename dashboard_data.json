@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-25 05:33 UTC",
+        "last_updated": "2026-08-25 06:52 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 208.48,
-            "change": "-0.56%"
+            "change": "+2.86%"
         },
         {
             "symbol": "AMD",
             "price": 456.75,
-            "change": "+3.3%"
+            "change": "+3.07%"
         },
         {
             "symbol": "MSFT",
             "price": 487.31,
-            "change": "-1.18%"
+            "change": "-2.15%"
         },
         {
             "symbol": "CEG",
             "price": 273.43,
-            "change": "+2.42%"
+            "change": "+0.48%"
         },
         {
             "symbol": "VST",
             "price": 135.66,
-            "change": "-3.42%"
+            "change": "-3.2%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.49,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.54,
-            0.55,
-            0.54,
-            0.54,
-            0.54,
-            0.53,
-            0.53,
+            0.52,
+            0.51,
+            0.51,
             0.52,
             0.52,
-            0.52,
-            0.51
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.42,
-            26.52,
-            26.25,
-            26.77,
-            26.27,
-            26.17,
-            26.04,
-            25.75,
-            25.78,
-            25.77,
-            25.62,
-            25.33
+            24.53,
+            24.21,
+            24.18,
+            24.59,
+            24.56,
+            24.25,
+            23.9,
+            24.2,
+            24.44,
+            24.52,
+            24.63,
+            24.68
         ],
         "hsd_history_software": [
-            10.73,
-            10.82,
-            10.97,
-            10.88,
-            10.7,
-            10.49,
-            10.47,
-            10.41,
-            10.26,
-            10.41,
-            10.37,
-            10.19
+            10.17,
+            10.22,
+            10.2,
+            10.03,
+            9.87,
+            10.01,
+            9.86,
+            9.94,
+            10.03,
+            10.03,
+            10.03,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "05:52",
+            "tag": "MERCADO",
+            "text": "Littelfuse Launches TPSMD-FL TVS Diodes for Simplified ISO 7637 Load-Dump Protection"
+        },
+        {
+            "time": "05:39",
+            "tag": "MERCADO",
+            "text": "Myriad Genetics and Moderna Shares Plummet, What You Need To Know"
+        },
+        {
+            "time": "05:19",
+            "tag": "MERCADO",
+            "text": "Nordson's new system is built for larger panels used in advanced chip packaging"
+        },
+        {
             "time": "05:02",
             "tag": "AI",
             "text": "Sony to offer drivers cute AI agent for self-driving age"
@@ -134,21 +149,6 @@
             "time": "04:54",
             "tag": "MERCADO",
             "text": "Ericsson Teams Up with MediaTek and AT&T to Complete North America's First Live-Network LTM Test"
-        },
-        {
-            "time": "04:53",
-            "tag": "MERCADO",
-            "text": "Tesla raises prices of Cybertrucks in the US"
-        },
-        {
-            "time": "04:46",
-            "tag": "MERCADO",
-            "text": "H-1B Visa Fee Proposal: Infosys, TCS, other IT stocks in focus"
-        },
-        {
-            "time": "04:15",
-            "tag": "AI",
-            "text": "Renovaro Secures Key AI Patents, Strengthening Market Position in $20B Biomedical AI Sector"
         }
     ]
 }
