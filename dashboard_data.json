@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-26 12:56 UTC",
+        "last_updated": "2026-08-26 13:57 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 213.05,
-            "change": "+3.26%"
+            "price": 212.37,
+            "change": "-2.95%"
         },
         {
             "symbol": "AMD",
-            "price": 479.18,
-            "change": "-1.55%"
+            "price": 490.06,
+            "change": "-1.81%"
         },
         {
             "symbol": "MSFT",
-            "price": 491.71,
-            "change": "+3.22%"
+            "price": 494.62,
+            "change": "+3.42%"
         },
         {
             "symbol": "CEG",
-            "price": NaN,
-            "change": "-0.46%"
+            "price": 282.55,
+            "change": "-3.18%"
         },
         {
             "symbol": "VST",
-            "price": 139.03,
-            "change": "-0.63%"
+            "price": 141.79,
+            "change": "-0.64%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.41,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.48,
-            0.48,
             0.47,
             0.47,
             0.48,
+            0.48,
             0.49,
             0.49,
-            0.49,
-            0.49,
-            0.49,
+            0.5,
+            0.51,
+            0.5,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            26.91,
-            26.61,
-            26.4,
-            26.04,
-            25.81,
-            26.05,
-            25.97,
-            25.56,
-            25.91,
-            26.02,
-            25.73,
-            25.41
+            23.65,
+            23.24,
+            23.38,
+            23.65,
+            23.62,
+            23.45,
+            23.89,
+            23.97,
+            24.44,
+            24.91,
+            25.03,
+            25.2
         ],
         "hsd_history_software": [
-            9.59,
-            9.74,
-            9.91,
             9.79,
-            9.94,
-            9.94,
-            9.88,
-            9.93,
-            10.08,
-            10.02,
-            10.05,
-            10.03
+            9.81,
+            9.62,
+            9.81,
+            9.96,
+            9.89,
+            9.7,
+            9.68,
+            9.78,
+            9.83,
+            9.98,
+            10.09
         ],
         "rci_data": [
             85.0,
-            21.305000000000003
+            21.237000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:07",
-            "tag": "MERCADO",
-            "text": "GUSS Automation, a wholly owned John Deere Subsidiary, Plans to Advance Precision Autonomy in High-Value Crops with Ouster's Next-Generation REV8 Digital Lidar"
+            "time": "13:07",
+            "tag": "RESULTADOS",
+            "text": "Palo Alto Networks Stock Earns Target Price Raise At JPMorgan Ahead Of Earnings Report"
         },
         {
-            "time": "12:03",
+            "time": "13:04",
             "tag": "MERCADO",
-            "text": "Everpure Named a Leader in the 2026 Gartner Magic Quadrant for Enterprise Storage Platforms"
+            "text": "CoStar Report Shows Data Centers Fueling Increasing Share of U.S. Industrial Demand"
         },
         {
-            "time": "12:00",
+            "time": "13:00",
             "tag": "MERCADO",
-            "text": "Gartner ranks NetApp first for storing data across clouds in 2026 report"
+            "text": "OpenTable Launches Its Largest Suite of New and Updated Product Features for Restaurants"
         },
         {
-            "time": "12:00",
+            "time": "12:52",
             "tag": "MERCADO",
-            "text": "IBM expects its Starling quantum computer to perform 100 million operations by 2029"
+            "text": "Boeing\u2019s Overwing Strut and the Open Fan"
         },
         {
-            "time": "12:00",
-            "tag": "AI",
-            "text": "EVA LIVE SIGNS WHITE-LABEL AGREEMENT TO DEPLOY EVABRAIN ACROSS DDC DIGITAL PROPERTIES"
+            "time": "12:45",
+            "tag": "MERCADO",
+            "text": "Event: 3D Basecamp Trimble Dimensions\u2014Early November"
         }
     ]
 }
