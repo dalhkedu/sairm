@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-26 01:26 UTC",
+        "last_updated": "2026-08-26 03:07 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 213.05,
-            "change": "+3.23%"
+            "change": "-1.91%"
         },
         {
             "symbol": "AMD",
             "price": 479.18,
-            "change": "+0.25%"
+            "change": "+2.27%"
         },
         {
             "symbol": "MSFT",
             "price": 491.71,
-            "change": "+2.89%"
+            "change": "-2.98%"
         },
         {
             "symbol": "CEG",
             "price": 278.42,
-            "change": "+2.96%"
+            "change": "+1.07%"
         },
         {
             "symbol": "VST",
             "price": 139.03,
-            "change": "+1.88%"
+            "change": "-1.95%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.52,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.48,
+            0.48,
+            0.47,
+            0.47,
+            0.48,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.36,
-            24.6,
-            24.73,
-            24.71,
-            24.62,
-            24.41,
-            24.65,
-            24.76,
+            24.9,
+            24.57,
             24.37,
-            24.15,
-            24.03,
-            24.51
+            24.72,
+            24.28,
+            24.48,
+            24.7,
+            25.15,
+            25.49,
+            25.41,
+            25.0,
+            24.57
         ],
         "hsd_history_software": [
-            10.18,
-            10.32,
-            10.3,
-            10.24,
-            10.3,
-            10.15,
-            9.98,
-            9.85,
-            10.03,
+            10.05,
             10.01,
-            10.1,
-            9.92
+            9.89,
+            9.8,
+            9.71,
+            9.89,
+            10.04,
+            9.9,
+            9.9,
+            10.02,
+            10.01,
+            9.95
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "00:09",
+            "time": "02:44",
             "tag": "MERCADO",
-            "text": "Walmart makes changes to how millions of customers can pay at checkout"
+            "text": "A10 Networks (ATEN) director sells shares under 10b5-1 plan"
         },
         {
-            "time": "23:41",
+            "time": "02:42",
             "tag": "AI",
-            "text": "AROC - AI Needs Power. Power Needs Gas. Gas Needs Compression: The Archrock Investment Thesis"
+            "text": "AI Trade at Risk From US Voter Ire Over Buildout, Barclays Says"
         },
         {
-            "time": "23:38",
-            "tag": "AI",
-            "text": "3verest Builds Sovereign AI for Healthcare with Equinix Fabric Geo Zones"
-        },
-        {
-            "time": "23:28",
+            "time": "02:39",
             "tag": "MERCADO",
-            "text": "Oracle Near Multi-Year Lows: The $638 Billion Backlog Now Depends on a Gas Pipeline"
+            "text": "PTC Inc. stock underperforms Tuesday when compared to competitors"
         },
         {
-            "time": "23:27",
+            "time": "02:11",
             "tag": "MERCADO",
-            "text": "Verizon Just Signed Its Second Google Deal. Is the Stock Still a Buy Near Its High?"
+            "text": "Contractor to lay off multiple workers at Chandler Intel facility"
+        },
+        {
+            "time": "02:01",
+            "tag": "MERCADO",
+            "text": "Huawei, HP Ink Global Patent Cross-Licensing Deal Covering Wi-Fi Patents"
         }
     ]
 }
