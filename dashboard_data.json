@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-26 06:53 UTC",
+        "last_updated": "2026-08-26 07:49 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 213.05,
-            "change": "-2.67%"
+            "change": "-2.97%"
         },
         {
             "symbol": "AMD",
             "price": 479.18,
-            "change": "+0.05%"
+            "change": "-0.59%"
         },
         {
             "symbol": "MSFT",
             "price": 491.71,
-            "change": "+3.28%"
+            "change": "+1.49%"
         },
         {
             "symbol": "CEG",
             "price": 278.42,
-            "change": "-0.22%"
+            "change": "+2.49%"
         },
         {
             "symbol": "VST",
             "price": 139.03,
-            "change": "+2.33%"
+            "change": "+1.05%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.42,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
-            0.51,
-            0.52,
-            0.52,
-            0.53,
-            0.52,
-            0.53,
-            0.52,
-            0.52,
+            0.5,
             0.51,
             0.5,
-            0.5
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.76,
-            26.27,
-            26.14,
-            25.77,
-            25.64,
-            25.83,
-            25.44,
-            25.67,
+            25.09,
+            25.29,
+            25.59,
             25.19,
-            24.7,
+            25.04,
+            25.02,
+            24.98,
+            24.85,
             25.19,
-            24.92
+            25.42,
+            25.11,
+            24.66
         ],
         "hsd_history_software": [
-            9.76,
-            9.75,
+            10.09,
+            10.11,
+            10.07,
+            9.89,
+            9.77,
             9.78,
+            9.94,
+            10.08,
+            10.09,
+            10.06,
             9.87,
-            9.95,
-            10.03,
-            10.05,
-            9.95,
-            10.1,
-            10.19,
-            10.23,
-            10.19
+            9.88
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:31",
-            "tag": "MERCADO",
-            "text": "Arista Networks (ANET) director sells $79,057 in stock"
+            "time": "07:04",
+            "tag": "RESULTADOS",
+            "text": "5 Insightful Analyst Questions From Analog Devices\u2019s Q2 Earnings Call"
         },
         {
-            "time": "05:25",
+            "time": "06:51",
             "tag": "MERCADO",
-            "text": "Huawei and HP Inc. Sign Global Patent Cross-Licensing Agreement"
+            "text": "JPMorgan downgrades EPAM Systems stock rating on reorganization By Investing.com"
         },
         {
-            "time": "05:21",
-            "tag": "MERCADO",
-            "text": "Arista Networks (ANET) director sells $79,057 in stock By Investing.com"
-        },
-        {
-            "time": "05:04",
+            "time": "06:36",
             "tag": "AI",
-            "text": "Alphabet stock draws fresh attention as Berkshire deal and rapid cloud growth reshape the AI story"
+            "text": "Fortinet expands FortiEndpoint with new capabilities for the AI era"
         },
         {
-            "time": "04:55",
+            "time": "06:28",
+            "tag": "MERCADO",
+            "text": "Citi Expects Record Korea Capital Issuance in 2026 as Deals Jump"
+        },
+        {
+            "time": "06:21",
             "tag": "AI",
-            "text": "Alphabet A stock steadies in the mid-$340s as AI-driven capex reshapes the Q2 2026 story"
+            "text": "CNBC Daily Open: Nvidia carries world of AI on its shoulders"
         }
     ]
 }
