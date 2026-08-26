@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-26 07:49 UTC",
+        "last_updated": "2026-08-26 08:46 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 213.05,
-            "change": "-2.97%"
+            "change": "-2.33%"
         },
         {
             "symbol": "AMD",
             "price": 479.18,
-            "change": "-0.59%"
+            "change": "+0.94%"
         },
         {
             "symbol": "MSFT",
             "price": 491.71,
-            "change": "+1.49%"
+            "change": "-2.05%"
         },
         {
             "symbol": "CEG",
             "price": 278.42,
-            "change": "+2.49%"
+            "change": "+0.15%"
         },
         {
             "symbol": "VST",
             "price": 139.03,
-            "change": "+1.05%"
+            "change": "+0.91%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.48,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
             0.5,
             0.5,
-            0.51,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            25.09,
-            25.29,
-            25.59,
-            25.19,
-            25.04,
-            25.02,
-            24.98,
+            25.12,
             24.85,
-            25.19,
-            25.42,
-            25.11,
-            24.66
+            24.65,
+            25.05,
+            25.23,
+            24.9,
+            24.82,
+            24.55,
+            24.8,
+            25.1,
+            24.96,
+            25.13
         ],
         "hsd_history_software": [
-            10.09,
-            10.11,
-            10.07,
-            9.89,
-            9.77,
             9.78,
-            9.94,
-            10.08,
+            9.93,
+            10.0,
+            9.95,
+            10.05,
+            9.95,
+            10.04,
             10.09,
-            10.06,
+            9.99,
+            9.85,
             9.87,
-            9.88
+            9.97
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:04",
-            "tag": "RESULTADOS",
-            "text": "5 Insightful Analyst Questions From Analog Devices\u2019s Q2 Earnings Call"
-        },
-        {
-            "time": "06:51",
+            "time": "08:10",
             "tag": "MERCADO",
-            "text": "JPMorgan downgrades EPAM Systems stock rating on reorganization By Investing.com"
+            "text": "Akamai stock holds above $105 after Deloitte Canada deal"
         },
         {
-            "time": "06:36",
-            "tag": "AI",
-            "text": "Fortinet expands FortiEndpoint with new capabilities for the AI era"
-        },
-        {
-            "time": "06:28",
+            "time": "07:52",
             "tag": "MERCADO",
-            "text": "Citi Expects Record Korea Capital Issuance in 2026 as Deals Jump"
+            "text": "Callan Family Office LLC Raises Stake in Advanced Micro Devices, Inc. $AMD"
         },
         {
-            "time": "06:21",
-            "tag": "AI",
-            "text": "CNBC Daily Open: Nvidia carries world of AI on its shoulders"
+            "time": "07:50",
+            "tag": "MERCADO",
+            "text": "6,406 Shares in Axon Enterprise, Inc $AXON Bought by Bank of Nova Scotia"
+        },
+        {
+            "time": "07:46",
+            "tag": "MERCADO",
+            "text": "Deutsche Bank AG Grows Holdings in Verizon Communications Inc. $VZ"
+        },
+        {
+            "time": "07:32",
+            "tag": "MERCADO",
+            "text": "Bank of Nova Scotia Invests $4.60 Million in Take-Two Interactive Software, Inc. $TTWO"
         }
     ]
 }
