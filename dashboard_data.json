@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-26 05:36 UTC",
+        "last_updated": "2026-08-26 06:53 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 213.05,
-            "change": "+2.12%"
+            "change": "-2.67%"
         },
         {
             "symbol": "AMD",
             "price": 479.18,
-            "change": "+1.81%"
+            "change": "+0.05%"
         },
         {
             "symbol": "MSFT",
             "price": 491.71,
-            "change": "-1.39%"
+            "change": "+3.28%"
         },
         {
             "symbol": "CEG",
             "price": 278.42,
-            "change": "+1.41%"
+            "change": "-0.22%"
         },
         {
             "symbol": "VST",
             "price": 139.03,
-            "change": "-2.43%"
+            "change": "+2.33%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.45,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.5,
             0.51,
+            0.52,
+            0.52,
+            0.53,
+            0.52,
+            0.53,
+            0.52,
             0.52,
             0.51,
             0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.49,
-            0.48,
-            0.49,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            22.76,
-            22.9,
-            22.87,
-            23.1,
-            23.53,
-            23.94,
-            24.41,
-            24.72,
-            25.21,
-            25.2,
-            24.91,
-            25.35
+            25.76,
+            26.27,
+            26.14,
+            25.77,
+            25.64,
+            25.83,
+            25.44,
+            25.67,
+            25.19,
+            24.7,
+            25.19,
+            24.92
         ],
         "hsd_history_software": [
-            10.27,
-            10.4,
-            10.31,
-            10.4,
+            9.76,
+            9.75,
+            9.78,
+            9.87,
+            9.95,
+            10.03,
+            10.05,
+            9.95,
+            10.1,
+            10.19,
             10.23,
-            10.24,
-            10.44,
-            10.32,
-            10.29,
-            10.15,
-            9.99,
-            10.04
+            10.19
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "05:31",
+            "tag": "MERCADO",
+            "text": "Arista Networks (ANET) director sells $79,057 in stock"
+        },
+        {
+            "time": "05:25",
+            "tag": "MERCADO",
+            "text": "Huawei and HP Inc. Sign Global Patent Cross-Licensing Agreement"
+        },
+        {
+            "time": "05:21",
+            "tag": "MERCADO",
+            "text": "Arista Networks (ANET) director sells $79,057 in stock By Investing.com"
+        },
+        {
             "time": "05:04",
             "tag": "AI",
             "text": "Alphabet stock draws fresh attention as Berkshire deal and rapid cloud growth reshape the AI story"
@@ -134,21 +149,6 @@
             "time": "04:55",
             "tag": "AI",
             "text": "Alphabet A stock steadies in the mid-$340s as AI-driven capex reshapes the Q2 2026 story"
-        },
-        {
-            "time": "04:33",
-            "tag": "MERCADO",
-            "text": "Amazon.com Inc (AMZN) Senior Vice President David Zapolsky Sells 15,430 Shares"
-        },
-        {
-            "time": "03:59",
-            "tag": "MERCADO",
-            "text": "China\u2019s Huawei, US PC maker HP sign multi-year Wi-Fi patent deal"
-        },
-        {
-            "time": "03:14",
-            "tag": "RESULTADOS",
-            "text": "Earnings To Watch: Elastic (ESTC) Reports Q2 Results Tomorrow"
         }
     ]
 }
