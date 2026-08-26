@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-26 14:51 UTC",
+        "last_updated": "2026-08-26 16:19 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 211.38,
-            "change": "+1.89%"
+            "price": 210.18,
+            "change": "+0.55%"
         },
         {
             "symbol": "AMD",
-            "price": 485.96,
-            "change": "+0.08%"
+            "price": 482.42,
+            "change": "-2.74%"
         },
         {
             "symbol": "MSFT",
-            "price": 494.6,
-            "change": "-0.23%"
+            "price": 494.33,
+            "change": "+2.57%"
         },
         {
             "symbol": "CEG",
-            "price": 282.63,
-            "change": "-3.43%"
+            "price": 281.11,
+            "change": "-3.36%"
         },
         {
             "symbol": "VST",
-            "price": 141.11,
-            "change": "+2.04%"
+            "price": NaN,
+            "change": "+3.41%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.51,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
             0.51,
             0.5,
-            0.5,
-            0.5,
+            0.51,
             0.5,
             0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.31,
-            24.45,
-            24.78,
-            24.56,
-            24.36,
-            24.81,
-            24.76,
-            24.57,
-            24.41,
-            24.09,
-            24.42,
-            24.9
+            24.67,
+            24.62,
+            24.9,
+            24.91,
+            24.94,
+            24.75,
+            24.48,
+            24.8,
+            24.99,
+            24.87,
+            25.33,
+            25.23
         ],
         "hsd_history_software": [
-            9.87,
-            9.85,
-            9.91,
-            9.82,
-            10.01,
-            9.86,
-            9.9,
-            9.72,
+            9.68,
+            9.53,
+            9.65,
+            9.76,
             9.89,
-            10.08,
-            9.98,
-            10.13
+            10.02,
+            10.21,
+            10.05,
+            9.9,
+            9.85,
+            9.99,
+            9.81
         ],
         "rci_data": [
             85.0,
-            21.137999999999998
+            21.018
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:53",
+            "time": "15:27",
             "tag": "MERCADO",
-            "text": "Teledyne Technologies stock gets Army lift as shares hold above $625"
+            "text": "Apple Shares Gain 1.1% as Mac mini M6 Launches with 12.5% Price Increase to $899"
         },
         {
-            "time": "13:49",
+            "time": "15:19",
             "tag": "MERCADO",
-            "text": "TTM Technologies CEO Edwin Roks Buys 10,000 Shares for $1.1 Million. What Is He Telling Investors?"
+            "text": "Truist cuts Intuit stock price target on weak guidance outlook"
         },
         {
-            "time": "13:47",
+            "time": "15:15",
             "tag": "MERCADO",
-            "text": "Oracle Corp Stock (ORCL) Opened Up by 4.55% on Aug 26: A Full Analysis"
+            "text": "Arista Networks Inc Stock (ANET) Moved Up by 3.15% on Aug 26: Drivers Behind the Movement"
         },
         {
-            "time": "13:46",
-            "tag": "AI",
-            "text": "HP Inc earnings ahead: AI PC momentum meets margin headwinds"
+            "time": "15:15",
+            "tag": "MERCADO",
+            "text": "Zoom Communications Inc Stock (ZM) Moved Down by 7.20% on Aug 26: What Investors Need To Know"
         },
         {
-            "time": "13:46",
+            "time": "15:04",
             "tag": "MERCADO",
-            "text": "Corning stock holds firm after a Q2 beat and higher outlook"
+            "text": "Boston Scientific says cyberattack disrupted order processing, shipping"
         }
     ]
 }
