@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-26 11:31 UTC",
+        "last_updated": "2026-08-26 12:56 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 213.05,
-            "change": "-2.93%"
+            "change": "+3.26%"
         },
         {
             "symbol": "AMD",
             "price": 479.18,
-            "change": "+2.39%"
+            "change": "-1.55%"
         },
         {
             "symbol": "MSFT",
             "price": 491.71,
-            "change": "-0.16%"
+            "change": "+3.22%"
         },
         {
             "symbol": "CEG",
-            "price": 278.42,
-            "change": "+0.43%"
+            "price": NaN,
+            "change": "-0.46%"
         },
         {
             "symbol": "VST",
             "price": 139.03,
-            "change": "+0.59%"
+            "change": "-0.63%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.42,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.52,
-            0.53,
-            0.52,
-            0.51,
-            0.52,
-            0.53,
-            0.52,
-            0.51,
-            0.51,
-            0.51
+            0.48,
+            0.48,
+            0.47,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.52,
-            24.36,
-            24.68,
-            24.65,
-            25.05,
-            25.25,
-            25.74,
-            25.51,
-            25.93,
-            25.47,
-            25.59,
-            25.17
+            26.91,
+            26.61,
+            26.4,
+            26.04,
+            25.81,
+            26.05,
+            25.97,
+            25.56,
+            25.91,
+            26.02,
+            25.73,
+            25.41
         ],
         "hsd_history_software": [
-            9.85,
-            9.71,
-            9.76,
-            9.75,
-            9.92,
+            9.59,
+            9.74,
+            9.91,
             9.79,
-            9.76,
-            9.8,
-            9.85,
-            9.69,
-            9.69,
-            9.83
+            9.94,
+            9.94,
+            9.88,
+            9.93,
+            10.08,
+            10.02,
+            10.05,
+            10.03
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:30",
+            "time": "12:07",
             "tag": "MERCADO",
-            "text": "Alphabet\u2019s Buyback vs. Singtel\u2019s Payout: Two Different Ways to Reward Shareholders"
+            "text": "GUSS Automation, a wholly owned John Deere Subsidiary, Plans to Advance Precision Autonomy in High-Value Crops with Ouster's Next-Generation REV8 Digital Lidar"
         },
         {
-            "time": "11:09",
+            "time": "12:03",
             "tag": "MERCADO",
-            "text": "Elon Musk Teases Tesla Vehicle 'Way Cooler Than a Minivan'\u2014Is the Robovan Finally Coming?"
+            "text": "Everpure Named a Leader in the 2026 Gartner Magic Quadrant for Enterprise Storage Platforms"
         },
         {
-            "time": "11:03",
+            "time": "12:00",
             "tag": "MERCADO",
-            "text": "Iowa backs ADM\u2019s $55.5m precision fermentation expansion"
+            "text": "Gartner ranks NetApp first for storing data across clouds in 2026 report"
         },
         {
-            "time": "10:55",
+            "time": "12:00",
             "tag": "MERCADO",
-            "text": "Odyssean LLC Buys New Shares in Advanced Micro Devices, Inc. $AMD"
+            "text": "IBM expects its Starling quantum computer to perform 100 million operations by 2029"
         },
         {
-            "time": "10:41",
-            "tag": "MERCADO",
-            "text": "Texas Instruments stock holds at $260 as institutions boost stakes"
+            "time": "12:00",
+            "tag": "AI",
+            "text": "EVA LIVE SIGNS WHITE-LABEL AGREEMENT TO DEPLOY EVABRAIN ACROSS DDC DIGITAL PROPERTIES"
         }
     ]
 }
