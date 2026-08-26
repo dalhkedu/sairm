@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-26 13:57 UTC",
+        "last_updated": "2026-08-26 14:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 212.37,
-            "change": "-2.95%"
+            "price": 211.38,
+            "change": "+1.89%"
         },
         {
             "symbol": "AMD",
-            "price": 490.06,
-            "change": "-1.81%"
+            "price": 485.96,
+            "change": "+0.08%"
         },
         {
             "symbol": "MSFT",
-            "price": 494.62,
-            "change": "+3.42%"
+            "price": 494.6,
+            "change": "-0.23%"
         },
         {
             "symbol": "CEG",
-            "price": 282.55,
-            "change": "-3.18%"
+            "price": 282.63,
+            "change": "-3.43%"
         },
         {
             "symbol": "VST",
-            "price": 141.79,
-            "change": "-0.64%"
+            "price": 141.11,
+            "change": "+2.04%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.45,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.5,
             0.51,
             0.5,
             0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            23.65,
-            23.24,
-            23.38,
-            23.65,
-            23.62,
-            23.45,
-            23.89,
-            23.97,
-            24.44,
-            24.91,
-            25.03,
-            25.2
+            24.31,
+            24.45,
+            24.78,
+            24.56,
+            24.36,
+            24.81,
+            24.76,
+            24.57,
+            24.41,
+            24.09,
+            24.42,
+            24.9
         ],
         "hsd_history_software": [
-            9.79,
-            9.81,
-            9.62,
-            9.81,
-            9.96,
+            9.87,
+            9.85,
+            9.91,
+            9.82,
+            10.01,
+            9.86,
+            9.9,
+            9.72,
             9.89,
-            9.7,
-            9.68,
-            9.78,
-            9.83,
+            10.08,
             9.98,
-            10.09
+            10.13
         ],
         "rci_data": [
             85.0,
-            21.237000000000002
+            21.137999999999998
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:07",
-            "tag": "RESULTADOS",
-            "text": "Palo Alto Networks Stock Earns Target Price Raise At JPMorgan Ahead Of Earnings Report"
+            "time": "13:53",
+            "tag": "MERCADO",
+            "text": "Teledyne Technologies stock gets Army lift as shares hold above $625"
         },
         {
-            "time": "13:04",
+            "time": "13:49",
             "tag": "MERCADO",
-            "text": "CoStar Report Shows Data Centers Fueling Increasing Share of U.S. Industrial Demand"
+            "text": "TTM Technologies CEO Edwin Roks Buys 10,000 Shares for $1.1 Million. What Is He Telling Investors?"
         },
         {
-            "time": "13:00",
+            "time": "13:47",
             "tag": "MERCADO",
-            "text": "OpenTable Launches Its Largest Suite of New and Updated Product Features for Restaurants"
+            "text": "Oracle Corp Stock (ORCL) Opened Up by 4.55% on Aug 26: A Full Analysis"
         },
         {
-            "time": "12:52",
-            "tag": "MERCADO",
-            "text": "Boeing\u2019s Overwing Strut and the Open Fan"
+            "time": "13:46",
+            "tag": "AI",
+            "text": "HP Inc earnings ahead: AI PC momentum meets margin headwinds"
         },
         {
-            "time": "12:45",
+            "time": "13:46",
             "tag": "MERCADO",
-            "text": "Event: 3D Basecamp Trimble Dimensions\u2014Early November"
+            "text": "Corning stock holds firm after a Q2 beat and higher outlook"
         }
     ]
 }
