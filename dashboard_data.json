@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-26 04:41 UTC",
+        "last_updated": "2026-08-26 05:36 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 213.05,
-            "change": "+1.48%"
+            "change": "+2.12%"
         },
         {
             "symbol": "AMD",
             "price": 479.18,
-            "change": "+3.0%"
+            "change": "+1.81%"
         },
         {
             "symbol": "MSFT",
             "price": 491.71,
-            "change": "-0.97%"
+            "change": "-1.39%"
         },
         {
             "symbol": "CEG",
             "price": 278.42,
-            "change": "-2.76%"
+            "change": "+1.41%"
         },
         {
             "symbol": "VST",
             "price": 139.03,
-            "change": "-2.65%"
+            "change": "-2.43%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.66,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
             0.51,
             0.52,
             0.51,
+            0.5,
             0.51,
             0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5
+            0.5,
+            0.5,
+            0.49,
+            0.48,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            26.13,
-            25.81,
-            26.31,
-            26.13,
-            25.78,
-            25.38,
-            25.66,
-            25.56,
-            25.16,
-            24.96,
-            24.65,
-            24.5
+            22.76,
+            22.9,
+            22.87,
+            23.1,
+            23.53,
+            23.94,
+            24.41,
+            24.72,
+            25.21,
+            25.2,
+            24.91,
+            25.35
         ],
         "hsd_history_software": [
-            9.74,
-            9.89,
-            10.09,
-            10.0,
-            9.95,
-            10.12,
-            10.17,
-            10.06,
-            9.93,
-            10.02,
-            9.83,
-            9.97
+            10.27,
+            10.4,
+            10.31,
+            10.4,
+            10.23,
+            10.24,
+            10.44,
+            10.32,
+            10.29,
+            10.15,
+            9.99,
+            10.04
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "05:04",
+            "tag": "AI",
+            "text": "Alphabet stock draws fresh attention as Berkshire deal and rapid cloud growth reshape the AI story"
+        },
+        {
+            "time": "04:55",
+            "tag": "AI",
+            "text": "Alphabet A stock steadies in the mid-$340s as AI-driven capex reshapes the Q2 2026 story"
+        },
+        {
+            "time": "04:33",
+            "tag": "MERCADO",
+            "text": "Amazon.com Inc (AMZN) Senior Vice President David Zapolsky Sells 15,430 Shares"
+        },
+        {
             "time": "03:59",
             "tag": "MERCADO",
             "text": "China\u2019s Huawei, US PC maker HP sign multi-year Wi-Fi patent deal"
         },
         {
-            "time": "03:13",
-            "tag": "MERCADO",
-            "text": "Is Ballard Power Systems (BLDP) Stock Outpacing Its Utilities Peers This Year?"
-        },
-        {
-            "time": "03:08",
-            "tag": "MERCADO",
-            "text": "Huawei And HP Ink A Multi-Year Wi\u2011Fi Patent Cross-License"
-        },
-        {
-            "time": "03:06",
+            "time": "03:14",
             "tag": "RESULTADOS",
-            "text": "Autodesk (ADSK) To Report Earnings Tomorrow: Here Is What To Expect"
-        },
-        {
-            "time": "03:02",
-            "tag": "RESULTADOS",
-            "text": "Autodesk (ADSK) To Report Earnings Tomorrow: Here Is What To Expect"
+            "text": "Earnings To Watch: Elastic (ESTC) Reports Q2 Results Tomorrow"
         }
     ]
 }
