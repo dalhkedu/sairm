@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-27 04:23 UTC",
+        "last_updated": "2026-08-27 16:13 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 209.66,
-            "change": "+0.55%"
+            "price": 227.49,
+            "change": "+0.44%"
         },
         {
             "symbol": "AMD",
-            "price": 480.93,
-            "change": "-1.25%"
+            "price": 473.08,
+            "change": "+1.1%"
         },
         {
             "symbol": "MSFT",
-            "price": 496.37,
-            "change": "+2.82%"
+            "price": 500.31,
+            "change": "-2.83%"
         },
         {
             "symbol": "CEG",
-            "price": 279.52,
-            "change": "+2.36%"
+            "price": 280.17,
+            "change": "+0.64%"
         },
         {
             "symbol": "VST",
-            "price": 140.03,
-            "change": "+0.5%"
+            "price": 139.2,
+            "change": "-3.44%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
-        "rci_current": 0.21,
+        "cer_current": 0.63,
+        "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
             0.5,
             0.5,
             0.5,
             0.5,
             0.49,
+            0.48,
+            0.49,
             0.5,
             0.5,
-            0.5,
-            0.5,
+            0.51,
             0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            25.08,
-            24.83,
-            24.97,
-            25.09,
-            25.36,
-            25.53,
-            25.29,
+            24.96,
+            24.64,
             25.04,
-            25.13,
-            24.78,
-            25.16,
-            25.0
+            24.62,
+            24.51,
+            24.99,
+            24.93,
+            24.94,
+            24.73,
+            24.71,
+            24.73,
+            25.04
         ],
         "hsd_history_software": [
-            10.32,
-            10.12,
-            10.13,
-            10.07,
-            10.07,
-            10.11,
-            10.05,
-            10.07,
-            10.16,
-            10.17,
-            10.21,
-            10.09
+            9.9,
+            9.9,
+            10.09,
+            10.04,
+            9.85,
+            10.02,
+            9.94,
+            9.8,
+            9.84,
+            9.93,
+            10.0,
+            9.85
         ],
         "rci_data": [
             85.0,
-            20.965999999999998
+            22.749
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:14",
+            "time": "12:12",
             "tag": "MERCADO",
-            "text": "Grainger spends $210 million on technology expected to lower customers' inventory costs"
+            "text": "Equinix Foundation Doubles Investment to Expand Digital Inclusion and Workforce Development"
         },
         {
-            "time": "20:14",
+            "time": "12:12",
             "tag": "MERCADO",
-            "text": "Grainger acquires tech assets from Adroit for $210 million"
+            "text": "Equinix Commits Additional $50 Million to the Equinix Foundation, Doubling Its Investment in Communities Worldwide"
         },
         {
-            "time": "19:37",
-            "tag": "MERCADO",
-            "text": "TE Connectivity stock holds near $204 as investors digest latest earnings outlook"
+            "time": "10:31",
+            "tag": "AI",
+            "text": "Lam Research Breaks Ground on New Oregon Lab to Accelerate AI Era Semiconductor Research & Development Locally, Globally"
         },
         {
-            "time": "19:32",
+            "time": "10:14",
             "tag": "MERCADO",
-            "text": "Google's Gemini 3.5 Transcribe enters the voice API market at 2.6% error rate"
+            "text": "Hsbc Holdings PLC Buys Shares of 912,590 Global Payments Inc. $GPN"
         },
         {
-            "time": "19:15",
+            "time": "09:12",
             "tag": "MERCADO",
-            "text": "Palantir Technologies Inc Stock (PLTR) Moved Up by 3.03% on Aug 26: Drivers Behind the Movement"
+            "text": "Jupiter Topco LLC Invests $115.68 Million in Equinix, Inc. $EQIX"
         }
     ]
 }
