@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-27 16:13 UTC",
+        "last_updated": "2026-08-28 01:20 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 227.49,
-            "change": "+0.44%"
+            "price": 227.98,
+            "change": "+1.91%"
         },
         {
             "symbol": "AMD",
-            "price": 473.08,
-            "change": "+1.1%"
+            "price": 476.67,
+            "change": "+3.24%"
         },
         {
             "symbol": "MSFT",
-            "price": 500.31,
-            "change": "-2.83%"
+            "price": 505.06,
+            "change": "+2.37%"
         },
         {
             "symbol": "CEG",
-            "price": 280.17,
-            "change": "+0.64%"
+            "price": 282.41,
+            "change": "+0.12%"
         },
         {
             "symbol": "VST",
-            "price": 139.2,
-            "change": "-3.44%"
+            "price": 139.81,
+            "change": "+0.47%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.66,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
             0.48,
             0.49,
+            0.48,
+            0.47,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.51
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.96,
-            24.64,
-            25.04,
-            24.62,
-            24.51,
-            24.99,
-            24.93,
-            24.94,
-            24.73,
-            24.71,
-            24.73,
-            25.04
+            24.78,
+            24.35,
+            24.77,
+            24.77,
+            24.33,
+            24.11,
+            24.11,
+            24.37,
+            24.85,
+            25.13,
+            25.1,
+            24.69
         ],
         "hsd_history_software": [
-            9.9,
-            9.9,
-            10.09,
-            10.04,
-            9.85,
-            10.02,
-            9.94,
-            9.8,
-            9.84,
-            9.93,
-            10.0,
-            9.85
+            9.78,
+            9.97,
+            9.88,
+            10.01,
+            10.19,
+            10.11,
+            10.03,
+            10.17,
+            10.23,
+            10.4,
+            10.26,
+            10.14
         ],
         "rci_data": [
             85.0,
-            22.749
+            22.798
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:12",
+            "time": "00:42",
             "tag": "MERCADO",
-            "text": "Equinix Foundation Doubles Investment to Expand Digital Inclusion and Workforce Development"
+            "text": "Roundhill Ball Metaverse ETF (METV) holdings"
         },
         {
-            "time": "12:12",
+            "time": "20:38",
             "tag": "MERCADO",
-            "text": "Equinix Commits Additional $50 Million to the Equinix Foundation, Doubling Its Investment in Communities Worldwide"
+            "text": "Applied Materials (NASDAQ: AMAT) adds Qualcomm CFO Akash Palkhiwala to its board"
         },
         {
-            "time": "10:31",
+            "time": "20:38",
+            "tag": "MERCADO",
+            "text": "Applied Materials Adds Qualcomm Executive to Board"
+        },
+        {
+            "time": "19:15",
             "tag": "AI",
-            "text": "Lam Research Breaks Ground on New Oregon Lab to Accelerate AI Era Semiconductor Research & Development Locally, Globally"
+            "text": "AI needs more power. Stephanie Link is buying this natural gas stock while it's cheap"
         },
         {
-            "time": "10:14",
+            "time": "17:45",
             "tag": "MERCADO",
-            "text": "Hsbc Holdings PLC Buys Shares of 912,590 Global Payments Inc. $GPN"
-        },
-        {
-            "time": "09:12",
-            "tag": "MERCADO",
-            "text": "Jupiter Topco LLC Invests $115.68 Million in Equinix, Inc. $EQIX"
+            "text": "KLA Gains From Advanced Packaging: Can it Outpace ONTO & AMAT?"
         }
     ]
 }
