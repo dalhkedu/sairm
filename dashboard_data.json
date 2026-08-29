@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-29 06:15 UTC",
+        "last_updated": "2026-08-29 13:01 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 217.55,
-            "change": "-3.45%"
+            "change": "-2.32%"
         },
         {
             "symbol": "AMD",
             "price": 465.58,
-            "change": "+2.7%"
+            "change": "+3.22%"
         },
         {
             "symbol": "MSFT",
             "price": 513.53,
-            "change": "+2.63%"
+            "change": "+2.88%"
         },
         {
             "symbol": "CEG",
             "price": 276.75,
-            "change": "-3.44%"
+            "change": "+2.03%"
         },
         {
             "symbol": "VST",
             "price": 137.09,
-            "change": "+1.21%"
+            "change": "+2.62%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.66,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.49,
             0.5,
             0.5,
             0.5,
             0.49,
-            0.5,
+            0.48,
             0.49,
-            0.5,
-            0.5,
             0.49,
-            0.5,
-            0.51,
-            0.5
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.01,
-            24.57,
-            24.35,
-            24.35,
-            24.16,
-            24.28,
-            24.7,
-            24.84,
-            24.4,
-            24.89,
-            25.07,
-            25.3
+            25.84,
+            25.52,
+            25.29,
+            25.52,
+            25.75,
+            25.89,
+            25.43,
+            25.21,
+            25.08,
+            24.59,
+            24.94,
+            24.79
         ],
         "hsd_history_software": [
-            10.29,
-            10.45,
-            10.25,
-            10.28,
-            10.36,
-            10.27,
-            10.31,
-            10.28,
-            10.19,
-            10.17,
-            10.15,
-            10.0
+            9.9,
+            10.05,
+            9.92,
+            10.01,
+            10.05,
+            9.9,
+            9.81,
+            9.74,
+            9.94,
+            10.08,
+            10.08,
+            9.93
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:10",
+            "time": "09:29",
             "tag": "MERCADO",
-            "text": "Autodesk, Inc. 2026: Revenue $2.05B, EPS $2.33\u2014 10-Q Summary"
+            "text": "Freestone Grove Partners LP Makes New $3.55 Million Investment in Gen Digital Inc. $GEN"
         },
         {
-            "time": "17:44",
+            "time": "09:29",
             "tag": "MERCADO",
-            "text": "Digital Realty Expands Swiss Campus With 15MW ZUR4 Data Center"
+            "text": "510,452 Shares in Gen Digital Inc. $GEN Bought by Empowered Funds LLC"
         },
         {
-            "time": "17:07",
-            "tag": "AI",
-            "text": "Amazon Just Locked In More Power for Its AI Buildout"
+            "time": "09:28",
+            "tag": "MERCADO",
+            "text": "Fair Isaac stock consolidates near $1,150 as earnings beat and bullish targets frame upside"
         },
         {
-            "time": "15:58",
+            "time": "07:46",
             "tag": "MERCADO",
-            "text": "C.H. Robinson stock holds high after Q2 2026 earnings beat"
+            "text": "Corning stock holds its Q2 2026 gains as guidance points to steady earnings"
         },
         {
-            "time": "15:15",
+            "time": "07:45",
             "tag": "MERCADO",
-            "text": "Amazon.com Inc Stock (AMZN) Moved Up by 3.69% on Aug 28: A Full Analysis"
+            "text": "Precision Trading with Factset Research Systems Inc. (FDS) Risk Zones"
         }
     ]
 }
