@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-08-30 04:24 UTC",
+        "last_updated": "2026-08-30 10:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 217.55,
-            "change": "-1.44%"
+            "price": NaN,
+            "change": "-2.21%"
         },
         {
             "symbol": "AMD",
             "price": 465.58,
-            "change": "-1.06%"
+            "change": "-3.05%"
         },
         {
             "symbol": "MSFT",
             "price": 513.53,
-            "change": "+2.39%"
+            "change": "-0.71%"
         },
         {
             "symbol": "CEG",
             "price": 276.75,
-            "change": "+1.4%"
+            "change": "+0.38%"
         },
         {
             "symbol": "VST",
             "price": 137.09,
-            "change": "-2.04%"
+            "change": "+1.2%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
-        "rci_current": 0.22,
+        "cer_current": 0.5,
+        "rci_current": NaN,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.48,
             0.49,
             0.49,
+            0.5,
             0.49,
+            0.5,
             0.49,
+            0.5,
+            0.5,
+            0.5,
             0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
+            0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            23.83,
-            23.85,
-            23.65,
-            23.67,
-            24.01,
-            24.06,
-            24.12,
+            25.54,
+            25.95,
+            25.48,
+            25.5,
+            25.87,
+            25.64,
+            25.25,
+            25.51,
+            25.38,
+            25.01,
             24.53,
-            24.63,
-            24.8,
-            25.14,
-            25.36
+            24.95
         ],
         "hsd_history_software": [
-            9.83,
-            9.94,
-            10.04,
-            9.85,
-            9.77,
-            9.83,
-            10.02,
-            10.05,
-            10.19,
-            10.37,
-            10.31,
-            10.13
+            9.65,
+            9.46,
+            9.53,
+            9.54,
+            9.73,
+            9.86,
+            9.74,
+            9.84,
+            9.81,
+            9.64,
+            9.73,
+            9.85
         ],
         "rci_data": [
             85.0,
-            21.755000000000003
+            NaN
         ],
         "energy_data": [
             1.2,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "09:30",
+            "tag": "MERCADO",
+            "text": "48,661 Shares in Iron Mountain Incorporated $IRM Bought by Rakuten Investment Management Inc."
+        },
+        {
+            "time": "13:10",
+            "tag": "MERCADO",
+            "text": "CDW stock holds firm after a $6.57 billion quarter"
+        },
+        {
             "time": "11:41",
             "tag": "MERCADO",
             "text": "Best Buy (BBY) Raises Full Year Guidance As Ad Network Sales Near $1 Billion"
@@ -136,19 +146,9 @@
             "text": "Van ECK Associates Corp Cuts Holdings in Tyler Technologies, Inc. $TYL"
         },
         {
-            "time": "10:13",
+            "time": "10:44",
             "tag": "MERCADO",
-            "text": "GDDY Investors Have Opportunity to Lead GoDaddy Inc. Securities Fraud Lawsuit"
-        },
-        {
-            "time": "09:38",
-            "tag": "MERCADO",
-            "text": "Legal & General Group Plc Acquires Shares of 188,444 Tyler Technologies, Inc. $TYL"
-        },
-        {
-            "time": "09:38",
-            "tag": "MERCADO",
-            "text": "Jupiter Topco LLC Purchases Shares of 79,008 Tyler Technologies, Inc. $TYL"
+            "text": "Glenview Trust Co Invests $1.39 Million in Iron Mountain Incorporated $IRM"
         }
     ]
 }
