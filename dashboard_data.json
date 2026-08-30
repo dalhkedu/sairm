@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-30 19:08 UTC",
+        "last_updated": "2026-08-30 22:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 217.55,
-            "change": "-1.65%"
+            "change": "-2.27%"
         },
         {
             "symbol": "AMD",
             "price": 465.58,
-            "change": "-0.75%"
+            "change": "+0.29%"
         },
         {
             "symbol": "MSFT",
             "price": 513.53,
-            "change": "+2.23%"
+            "change": "-1.72%"
         },
         {
             "symbol": "CEG",
             "price": 276.75,
-            "change": "+2.15%"
+            "change": "-2.65%"
         },
         {
             "symbol": "VST",
             "price": 137.09,
-            "change": "-2.89%"
+            "change": "+3.37%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.41,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.5
+            0.54,
+            0.54,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.99,
-            24.55,
-            24.4,
-            24.33,
-            24.8,
-            24.99,
+            25.96,
+            26.22,
+            25.75,
+            25.78,
+            25.47,
+            25.27,
+            25.44,
+            25.46,
             25.04,
-            25.32,
-            24.95,
-            25.07,
-            25.06,
-            25.18
+            25.14,
+            24.85,
+            24.74
         ],
         "hsd_history_software": [
             10.28,
-            10.22,
-            10.23,
-            10.08,
+            10.39,
+            10.3,
+            10.11,
             10.14,
-            9.96,
+            10.05,
+            10.11,
+            9.99,
+            10.13,
+            9.99,
             9.95,
-            10.03,
-            10.22,
-            10.09,
-            10.08,
-            10.0
+            9.91
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,11 @@
     ],
     "news_feed": [
         {
+            "time": "14:03",
+            "tag": "MERCADO",
+            "text": "Qualcomm stock holds steady as guidance anchors earnings outlook"
+        },
+        {
             "time": "10:28",
             "tag": "MERCADO",
             "text": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Has $1.29 Billion Stock Holdings in Equinix, Inc. $EQIX"
@@ -144,11 +149,6 @@
             "time": "09:28",
             "tag": "MERCADO",
             "text": "2,058 Shares in Equinix, Inc. $EQIX Purchased by Jefferies Financial Group Inc."
-        },
-        {
-            "time": "09:28",
-            "tag": "MERCADO",
-            "text": "Wellington Management Group LLP Has $893.74 Million Holdings in Equinix, Inc. $EQIX"
         }
     ]
 }
