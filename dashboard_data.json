@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-08-31 01:11 UTC",
+        "last_updated": "2026-08-31 08:18 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 217.55,
-            "change": "+2.17%"
+            "change": "-2.51%"
         },
         {
             "symbol": "AMD",
             "price": 465.58,
-            "change": "-0.56%"
+            "change": "+3.24%"
         },
         {
             "symbol": "MSFT",
             "price": 513.53,
-            "change": "-3.03%"
+            "change": "-0.5%"
         },
         {
             "symbol": "CEG",
             "price": 276.75,
-            "change": "-0.09%"
+            "change": "-2.05%"
         },
         {
             "symbol": "VST",
             "price": 137.09,
-            "change": "-3.49%"
+            "change": "+0.79%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.66,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.49
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
+            0.53,
+            0.54,
+            0.52,
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            24.05,
-            24.26,
-            24.53,
-            24.38,
-            24.48,
-            24.82,
-            24.39,
-            24.39,
-            24.22,
-            24.49,
-            24.4,
-            24.59
+            25.02,
+            24.74,
+            24.67,
+            24.8,
+            24.99,
+            25.37,
+            25.84,
+            26.34,
+            25.86,
+            25.94,
+            25.61,
+            25.29
         ],
         "hsd_history_software": [
-            9.77,
-            9.95,
-            10.05,
             10.06,
-            10.16,
-            10.16,
-            10.04,
-            10.03,
-            9.91,
+            10.19,
+            10.3,
             10.11,
-            10.16,
-            10.15
+            10.08,
+            9.91,
+            9.9,
+            10.03,
+            10.05,
+            9.86,
+            10.0,
+            10.11
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "05:53",
+            "tag": "MERCADO",
+            "text": "Qualcomm stock holds steady as guidance sets the tone"
+        },
+        {
+            "time": "03:53",
+            "tag": "MERCADO",
+            "text": "Historical Data for Adobe Inc. Tokenized Stock (Robinhood) in USD"
+        },
+        {
+            "time": "03:06",
+            "tag": "AI",
+            "text": "Qualcomm Expands Dragonwing Ecosystem in Korea, Accelerating Push into Industrial AI and Robotics"
+        },
+        {
             "time": "14:03",
             "tag": "MERCADO",
             "text": "Qualcomm stock holds steady as guidance anchors earnings outlook"
@@ -134,21 +149,6 @@
             "time": "10:28",
             "tag": "MERCADO",
             "text": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Has $1.29 Billion Stock Holdings in Equinix, Inc. $EQIX"
-        },
-        {
-            "time": "10:21",
-            "tag": "AI",
-            "text": "Microsoft Security Chief Taesoo Kim: \"AI Advancement Shifts the Game in Favor of Defense Over Cyberattacks\""
-        },
-        {
-            "time": "09:30",
-            "tag": "MERCADO",
-            "text": "48,661 Shares in Iron Mountain Incorporated $IRM Bought by Rakuten Investment Management Inc."
-        },
-        {
-            "time": "09:28",
-            "tag": "MERCADO",
-            "text": "2,058 Shares in Equinix, Inc. $EQIX Purchased by Jefferies Financial Group Inc."
         }
     ]
 }
