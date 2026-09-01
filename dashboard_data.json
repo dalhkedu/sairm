@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-01 07:27 UTC",
+        "last_updated": "2026-09-01 13:14 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 220.78,
-            "change": "-2.1%"
+            "change": "-0.07%"
         },
         {
             "symbol": "AMD",
             "price": 470.72,
-            "change": "-0.01%"
+            "change": "+2.52%"
         },
         {
             "symbol": "MSFT",
             "price": 507.29,
-            "change": "-0.24%"
+            "change": "+2.28%"
         },
         {
             "symbol": "CEG",
-            "price": NaN,
-            "change": "+2.45%"
+            "price": 274.77,
+            "change": "-2.66%"
         },
         {
             "symbol": "VST",
             "price": 137.37,
-            "change": "-2.34%"
+            "change": "+2.4%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.48,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.49,
+            0.49,
             0.5,
             0.5,
             0.51,
             0.51,
             0.5,
-            0.51,
-            0.51,
+            0.5,
             0.51,
             0.5,
-            0.5,
-            0.5
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.94,
-            25.18,
-            25.34,
+            25.41,
             25.53,
-            25.4,
-            25.32,
-            24.97,
-            25.08,
-            25.42,
+            25.47,
+            25.16,
+            25.22,
+            24.98,
+            24.78,
+            25.02,
+            24.99,
+            25.13,
             25.0,
-            25.1,
-            25.43
+            24.64
         ],
         "hsd_history_software": [
-            9.77,
-            9.64,
-            9.59,
-            9.61,
+            9.76,
+            9.6,
+            9.6,
+            9.67,
+            9.67,
+            9.51,
+            9.68,
             9.7,
-            9.8,
-            9.97,
-            9.98,
-            10.03,
-            9.95,
-            10.02,
-            10.17
+            9.88,
+            9.81,
+            9.83,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:47",
+            "time": "11:29",
             "tag": "MERCADO",
-            "text": "Jim Cramer Tells Mad Money Caller Why Netflix (NFLX) Is Worth a Moderate Buy"
+            "text": "Alphabet (NASDAQ: GOOG) director sale under 10b5-1 plan"
         },
         {
-            "time": "02:33",
+            "time": "11:23",
             "tag": "MERCADO",
-            "text": "Apple Watch will reportedly get a big redesign, but not this year"
+            "text": "Arista Networks (NYSE: ANET) insider sells 300K shares in plan trades"
         },
         {
-            "time": "02:00",
+            "time": "11:07",
             "tag": "MERCADO",
-            "text": "15 Years Ago, Steve Jobs Bet on Tim Cook's Competence. It Paid Off to the Tune of $4 Trillion"
+            "text": "14,427 Shares in Analog Devices, Inc. $ADI Bought by Two Sigma Securities LLC"
         },
         {
-            "time": "00:44",
+            "time": "10:29",
             "tag": "MERCADO",
-            "text": "CrowdStrike CEO sells 19,800 shares under plan"
+            "text": "Alphabet director Frances Arnold sells $27,692 in class C shares"
         },
         {
-            "time": "21:36",
+            "time": "10:07",
             "tag": "MERCADO",
-            "text": "Iron Mountain stock trades steady as institutional buying supports recent gains"
+            "text": "Analog Devices, Inc. (NASDAQ:ADI) Given Consensus Rating of \"Buy\" by Brokerages"
         }
     ]
 }
