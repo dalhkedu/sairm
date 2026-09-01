@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-09-01 13:14 UTC",
+        "last_updated": "2026-09-01 17:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 220.78,
-            "change": "-0.07%"
+            "price": 218.31,
+            "change": "-1.34%"
         },
         {
             "symbol": "AMD",
-            "price": 470.72,
-            "change": "+2.52%"
+            "price": 457.08,
+            "change": "-1.98%"
         },
         {
             "symbol": "MSFT",
-            "price": 507.29,
-            "change": "+2.28%"
+            "price": 501.34,
+            "change": "-1.67%"
         },
         {
             "symbol": "CEG",
-            "price": 274.77,
-            "change": "-2.66%"
+            "price": 279.68,
+            "change": "-3.44%"
         },
         {
             "symbol": "VST",
-            "price": 137.37,
-            "change": "+2.4%"
+            "price": 137.55,
+            "change": "+1.19%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.68,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
-            0.49,
-            0.5,
             0.5,
             0.51,
             0.51,
-            0.5,
-            0.5,
             0.51,
             0.5,
             0.49,
-            0.49
+            0.5,
+            0.5,
+            0.49,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.41,
-            25.53,
-            25.47,
-            25.16,
-            25.22,
-            24.98,
-            24.78,
-            25.02,
+            27.26,
+            27.4,
+            26.97,
+            26.56,
+            26.18,
+            25.85,
+            25.49,
+            25.26,
+            25.18,
             24.99,
-            25.13,
-            25.0,
-            24.64
+            25.08,
+            25.27
         ],
         "hsd_history_software": [
-            9.76,
-            9.6,
-            9.6,
-            9.67,
-            9.67,
-            9.51,
-            9.68,
-            9.7,
-            9.88,
-            9.81,
-            9.83,
-            9.82
+            10.46,
+            10.6,
+            10.55,
+            10.35,
+            10.15,
+            10.0,
+            10.16,
+            10.08,
+            10.18,
+            10.36,
+            10.22,
+            10.04
         ],
         "rci_data": [
             85.0,
-            22.078
+            21.831
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "11:29",
+            "time": "17:00",
             "tag": "MERCADO",
-            "text": "Alphabet (NASDAQ: GOOG) director sale under 10b5-1 plan"
+            "text": "Avnet Moves Into New Tempe Headquarters"
         },
         {
-            "time": "11:23",
+            "time": "16:36",
             "tag": "MERCADO",
-            "text": "Arista Networks (NYSE: ANET) insider sells 300K shares in plan trades"
+            "text": "Wells, BofA, Citi back upcoming stablecoin"
         },
         {
-            "time": "11:07",
-            "tag": "MERCADO",
-            "text": "14,427 Shares in Analog Devices, Inc. $ADI Bought by Two Sigma Securities LLC"
+            "time": "16:15",
+            "tag": "AI",
+            "text": "The Home Depot extends AI assistance in local stores"
         },
         {
-            "time": "10:29",
-            "tag": "MERCADO",
-            "text": "Alphabet director Frances Arnold sells $27,692 in class C shares"
+            "time": "16:08",
+            "tag": "RESULTADOS",
+            "text": "Dell Falls 4% Ahead of Earnings as Its 266% Rally Raises the Bar, Super Micro and Hewlett Packard Enterprise Slip"
         },
         {
-            "time": "10:07",
+            "time": "15:54",
             "tag": "MERCADO",
-            "text": "Analog Devices, Inc. (NASDAQ:ADI) Given Consensus Rating of \"Buy\" by Brokerages"
+            "text": "Will Fortinet Stock Gain on Cybersecurity Demand and Education Push?"
         }
     ]
 }
