@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-09-02 13:23 UTC",
+        "last_updated": "2026-09-02 17:42 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 217.44,
-            "change": "-1.13%"
+            "price": 225.05,
+            "change": "+2.07%"
         },
         {
             "symbol": "AMD",
-            "price": 459.61,
-            "change": "+1.45%"
+            "price": 456.96,
+            "change": "-2.91%"
         },
         {
             "symbol": "MSFT",
-            "price": 501.02,
-            "change": "-0.38%"
+            "price": NaN,
+            "change": "+2.37%"
         },
         {
             "symbol": "CEG",
-            "price": 280.31,
-            "change": "-3.32%"
+            "price": 283.9,
+            "change": "-2.26%"
         },
         {
             "symbol": "VST",
-            "price": 138.08,
-            "change": "-1.8%"
+            "price": 140.91,
+            "change": "+3.0%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
-        "rci_current": 0.22,
+        "cer_current": 0.53,
+        "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.48,
-            0.49,
+            0.54,
+            0.55,
+            0.54,
+            0.54,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
+            0.51,
             0.5,
-            0.49,
-            0.48,
-            0.48,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
+            0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            23.89,
-            24.24,
-            24.15,
-            24.01,
-            24.43,
-            24.32,
-            24.21,
-            24.42,
-            23.97,
-            23.97,
-            24.09,
-            24.58
+            26.04,
+            25.64,
+            26.11,
+            25.87,
+            26.15,
+            26.57,
+            26.1,
+            26.03,
+            25.55,
+            25.18,
+            25.55,
+            25.48
         ],
         "hsd_history_software": [
-            10.5,
-            10.44,
-            10.32,
-            10.21,
-            10.38,
-            10.24,
-            10.08,
-            10.26,
-            10.26,
-            10.13,
-            10.16,
-            9.98
+            9.3,
+            9.3,
+            9.15,
+            9.3,
+            9.46,
+            9.43,
+            9.49,
+            9.54,
+            9.69,
+            9.73,
+            9.87,
+            10.02
         ],
         "rci_data": [
             85.0,
-            21.744
+            22.505
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:32",
-            "tag": "MERCADO",
-            "text": "Influential Women Features Cathleen Ryan Reneer: Managing Director At JPMorgan Chase & Co."
-        },
-        {
-            "time": "12:23",
-            "tag": "MERCADO",
-            "text": "ChronoScale and Microsoft partner on 50MW deployment in North America"
-        },
-        {
-            "time": "12:19",
-            "tag": "MERCADO",
-            "text": "Why Did Alphabet (NASDAQ:GOOGL) Shares Just Tumble on Executive News?"
-        },
-        {
-            "time": "12:15",
+            "time": "17:17",
             "tag": "AI",
-            "text": "Equinix stock rises after AI inference program launch with Nvidia By Investing.com"
+            "text": "AIG Executive Chair Zaffino to exit, will join Palantir next year"
         },
         {
-            "time": "12:08",
-            "tag": "AI",
-            "text": "Equinix Accelerates AI Inference for Enterprises with NVIDIA and Together AI"
+            "time": "17:14",
+            "tag": "MERCADO",
+            "text": "Kevin Hern Makes Series of Stock Transactions in Companies Including Adobe and Boeing By Investing.com"
+        },
+        {
+            "time": "17:09",
+            "tag": "MERCADO",
+            "text": "HP stock hits 52-week high, reaching 32.19 USD By Investing.com"
+        },
+        {
+            "time": "16:33",
+            "tag": "MERCADO",
+            "text": "Jim Cramer has a strong message for Nvidia stock investors"
+        },
+        {
+            "time": "16:11",
+            "tag": "RESULTADOS",
+            "text": "How Will NetApp Stock React To Its Upcoming Earnings?"
         }
     ]
 }
