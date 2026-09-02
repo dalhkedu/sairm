@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-01 23:07 UTC",
+        "last_updated": "2026-09-02 03:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 217.44,
-            "change": "-0.23%"
+            "change": "+3.38%"
         },
         {
             "symbol": "AMD",
             "price": 459.61,
-            "change": "+2.88%"
+            "change": "+1.2%"
         },
         {
             "symbol": "MSFT",
             "price": 501.02,
-            "change": "-3.15%"
+            "change": "+1.4%"
         },
         {
             "symbol": "CEG",
             "price": 280.31,
-            "change": "+2.1%"
+            "change": "-1.66%"
         },
         {
             "symbol": "VST",
             "price": 138.08,
-            "change": "-2.45%"
+            "change": "-1.05%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.66,
+        "cer_current": 0.49,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.46,
+            0.47,
+            0.47,
+            0.48,
             0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
             0.49,
-            0.5,
-            0.5,
+            0.48,
             0.49,
-            0.5,
-            0.5,
-            0.5
+            0.48,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.15,
-            24.64,
-            25.13,
-            24.76,
-            24.64,
-            24.92,
-            24.56,
-            24.47,
-            24.66,
-            24.79,
-            25.15,
-            24.84
+            25.52,
+            25.17,
+            25.1,
+            25.22,
+            25.42,
+            25.3,
+            25.33,
+            25.08,
+            25.59,
+            25.51,
+            25.37,
+            25.1
         ],
         "hsd_history_software": [
-            9.98,
-            10.18,
-            10.03,
-            9.93,
-            10.13,
-            10.05,
+            9.84,
+            9.86,
             9.97,
-            9.96,
-            10.09,
-            10.16,
-            10.08,
-            10.11
+            9.84,
+            9.86,
+            10.02,
+            9.99,
+            10.07,
+            10.17,
+            10.2,
+            10.01,
+            9.86
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:47",
+            "time": "01:40",
             "tag": "MERCADO",
-            "text": "Ashland to host Innovation Day for analysts and investors"
+            "text": "Dexcom Announces Upcoming Conference Presentation"
         },
         {
-            "time": "22:40",
-            "tag": "MERCADO",
-            "text": "Healthcare cyberattacks hit pacemakers and millions of patient records"
+            "time": "00:51",
+            "tag": "AI",
+            "text": "Palo Alto Networks\u2019 stock falls despite strong AI cybersecurity demand"
         },
         {
-            "time": "21:55",
+            "time": "00:26",
             "tag": "MERCADO",
-            "text": "Entegris, Penguin Solutions, Teradyne, Applied Materials, and KLA Corporation Stocks Trade Down, What You Need To Know"
+            "text": "ServiceNow president Paul Fipps sells $300,777 in shares"
         },
         {
-            "time": "21:50",
-            "tag": "MERCADO",
-            "text": "Cadence Design Systems (CDNS) Falls More Steeply Than Broader Market: What Investors Need to Know"
+            "time": "23:50",
+            "tag": "AI",
+            "text": "IBM (NYSE:IBM) Builds AI Momentum As Software Franchise Expands"
         },
         {
-            "time": "21:37",
-            "tag": "MERCADO",
-            "text": "Doximity Director Kevin Spain Granted 8,084 RSUs as Reported in SEC Filing"
+            "time": "23:37",
+            "tag": "AI",
+            "text": "ServiceNow chief people & AI enblmt. off. sells $1.08m stock"
         }
     ]
 }
