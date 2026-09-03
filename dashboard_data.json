@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-03 08:41 UTC",
+        "last_updated": "2026-09-03 13:21 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 224.41,
-            "change": "-1.81%"
+            "change": "-0.15%"
         },
         {
             "symbol": "AMD",
             "price": 457.06,
-            "change": "-1.04%"
+            "change": "+0.69%"
         },
         {
             "symbol": "MSFT",
             "price": 496.82,
-            "change": "-0.03%"
+            "change": "-1.0%"
         },
         {
             "symbol": "CEG",
             "price": 290.04,
-            "change": "+2.33%"
+            "change": "+2.89%"
         },
         {
             "symbol": "VST",
             "price": 143.46,
-            "change": "+3.17%"
+            "change": "-0.56%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.57,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.55,
-            0.54,
-            0.54,
-            0.53,
-            0.52,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.51,
-            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.48,
+            0.48,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.5,
-            24.63,
-            25.06,
-            25.25,
+            25.96,
+            25.62,
+            25.24,
+            24.92,
             24.88,
-            24.7,
-            24.89,
-            25.22,
-            25.35,
-            25.23,
-            24.99,
-            25.4
+            25.32,
+            25.56,
+            25.7,
+            25.8,
+            26.04,
+            25.66,
+            25.48
         ],
         "hsd_history_software": [
-            9.86,
-            10.04,
-            10.16,
-            10.21,
-            10.12,
-            10.2,
-            10.09,
-            10.0,
-            10.18,
-            10.23,
-            10.16,
-            10.16
+            9.63,
+            9.65,
+            9.79,
+            9.7,
+            9.54,
+            9.59,
+            9.51,
+            9.7,
+            9.82,
+            9.78,
+            9.68,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:07",
-            "tag": "MERCADO",
-            "text": "Coppell Advisory Solutions LLC Buys Shares of 50,796 Verizon Communications Inc. $VZ"
+            "time": "12:33",
+            "tag": "AI",
+            "text": "Unusual Machines Strengthens Supply Chain Intelligence Through Strategic Partnership with Altana"
         },
         {
-            "time": "07:56",
+            "time": "12:05",
             "tag": "MERCADO",
-            "text": "Headlands Technologies LLC Has $13.46 Million Holdings in Advanced Micro Devices, Inc. $AMD"
+            "text": "Here Are Thursday\u2019s Top Wall Street Analyst Research Calls: Broadcom, Deere & Company, Dell Technologies, Devon Energy, Moderna, Permian Resources, PG&E, Thermo Fisher, Viper Energy, and More"
         },
         {
-            "time": "07:56",
+            "time": "12:01",
             "tag": "MERCADO",
-            "text": "GTS Securities LLC Grows Stake in Advanced Micro Devices, Inc. $AMD"
+            "text": "Microchip and Marelli Pioneer Open-Standard Display Connectivity Solution for Software-Defined Vehicles"
         },
         {
-            "time": "07:52",
+            "time": "11:41",
             "tag": "MERCADO",
-            "text": "Cannon Wealth Management Services LLC Makes New $1.51 Million Investment in Tesla, Inc. $TSLA"
+            "text": "Digital Realty Appoints Guilherme Reis as Managing Director for Iberia"
         },
         {
-            "time": "07:52",
-            "tag": "MERCADO",
-            "text": "Fischer Financial Services Inc. Purchases Shares of 2,722 Tesla, Inc. $TSLA"
+            "time": "11:38",
+            "tag": "RESULTADOS",
+            "text": "Atlassian (TEAM) Q1 2026 Earnings: Results, Market Reaction & History"
         }
     ]
 }
