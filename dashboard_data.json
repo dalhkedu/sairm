@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-02 23:05 UTC",
+        "last_updated": "2026-09-03 03:34 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 224.41,
-            "change": "-3.24%"
+            "change": "+1.34%"
         },
         {
             "symbol": "AMD",
             "price": 457.06,
-            "change": "+2.53%"
+            "change": "+2.41%"
         },
         {
             "symbol": "MSFT",
             "price": 496.82,
-            "change": "+0.31%"
+            "change": "-0.69%"
         },
         {
             "symbol": "CEG",
             "price": 290.04,
-            "change": "+3.18%"
+            "change": "+3.25%"
         },
         {
             "symbol": "VST",
             "price": 143.46,
-            "change": "-1.6%"
+            "change": "-1.7%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.64,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
+            0.5,
             0.49,
             0.5,
             0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.5
+            0.5,
+            0.51,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            26.02,
+            25.09,
+            24.87,
+            25.06,
+            25.2,
+            25.12,
+            25.16,
             25.64,
-            25.72,
-            26.07,
-            25.65,
-            25.29,
-            24.8,
-            24.52,
-            24.82,
-            24.78,
-            24.51,
-            24.91
+            25.36,
+            25.87,
+            26.0,
+            25.5,
+            25.12
         ],
         "hsd_history_software": [
-            10.1,
-            10.27,
-            10.16,
-            10.13,
-            10.12,
-            10.19,
-            10.35,
-            10.32,
+            10.67,
+            10.65,
+            10.49,
+            10.46,
             10.29,
-            10.12,
-            10.17,
-            10.01
+            10.22,
+            10.28,
+            10.26,
+            10.25,
+            10.22,
+            10.14,
+            10.15
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:17",
+            "time": "03:14",
             "tag": "MERCADO",
-            "text": "HPE stack serves Spurs stadium refit: VMware out, Juniper pending"
+            "text": "Synopsys executive chair Aart de Geus sells $21.3m in stock"
         },
         {
-            "time": "21:38",
-            "tag": "RESULTADOS",
-            "text": "NetApp Earnings Beat Estimates. The Stock Is Falling Anyway."
-        },
-        {
-            "time": "21:22",
-            "tag": "RESULTADOS",
-            "text": "Oracle Sets the Date for its First Quarter Fiscal Year 2027 Earnings Announcement"
-        },
-        {
-            "time": "21:10",
+            "time": "01:15",
             "tag": "MERCADO",
-            "text": "Insider Selling: Synopsys (NASDAQ:SNPS) Insider Sells $11,044,000.00 in Stock"
+            "text": "Elliott built stake in Deutsche Telekom and opposes T-Mobile merger, Bloomberg News reports"
         },
         {
-            "time": "20:36",
-            "tag": "RESULTADOS",
-            "text": "NetApp Earnings Beat Estimates. The Stock is Falling Anyway."
+            "time": "01:14",
+            "tag": "AI",
+            "text": "Southern Company\u2019s SCOUT: Completing the Storm Intelligence Story"
+        },
+        {
+            "time": "00:24",
+            "tag": "AI",
+            "text": "Capsule Security fine-tunes Nvidia Nemotron models to stop rogue AI agents"
+        },
+        {
+            "time": "00:23",
+            "tag": "MERCADO",
+            "text": "QUALCOMM (QCOM) Stock May Be Undervalued On Its 58% Three Year Run"
         }
     ]
 }
