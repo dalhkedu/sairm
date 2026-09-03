@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-09-03 13:21 UTC",
+        "last_updated": "2026-09-03 17:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 224.41,
-            "change": "-0.15%"
+            "price": 228.32,
+            "change": "-1.88%"
         },
         {
             "symbol": "AMD",
-            "price": 457.06,
-            "change": "+0.69%"
+            "price": 457.57,
+            "change": "+1.8%"
         },
         {
             "symbol": "MSFT",
-            "price": 496.82,
-            "change": "-1.0%"
+            "price": 510.11,
+            "change": "-1.77%"
         },
         {
             "symbol": "CEG",
-            "price": 290.04,
-            "change": "+2.89%"
+            "price": 284.82,
+            "change": "+0.94%"
         },
         {
             "symbol": "VST",
-            "price": 143.46,
-            "change": "-0.56%"
+            "price": 143.75,
+            "change": "+3.36%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
-        "rci_current": 0.22,
+        "cer_current": 0.62,
+        "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
             0.5,
-            0.5,
-            0.49,
-            0.48,
-            0.48,
-            0.47,
-            0.48,
-            0.49,
-            0.49,
-            0.5,
-            0.5
+            0.51,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.96,
-            25.62,
-            25.24,
-            24.92,
-            24.88,
-            25.32,
-            25.56,
-            25.7,
-            25.8,
-            26.04,
-            25.66,
-            25.48
+            25.18,
+            25.47,
+            25.48,
+            25.89,
+            26.09,
+            25.84,
+            25.43,
+            25.74,
+            26.09,
+            26.15,
+            25.68,
+            25.25
         ],
         "hsd_history_software": [
-            9.63,
-            9.65,
-            9.79,
-            9.7,
-            9.54,
-            9.59,
-            9.51,
-            9.7,
-            9.82,
-            9.78,
-            9.68,
-            9.82
+            10.55,
+            10.35,
+            10.37,
+            10.39,
+            10.22,
+            10.37,
+            10.42,
+            10.29,
+            10.24,
+            10.21,
+            10.01,
+            10.06
         ],
         "rci_data": [
             85.0,
-            22.441
+            22.832
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:33",
+            "time": "16:26",
+            "tag": "MERCADO",
+            "text": "Here's How Many Shares of Booking Holdings (BKNG) Stock You'd Need for $1,000 in Yearly Dividends"
+        },
+        {
+            "time": "16:24",
+            "tag": "MERCADO",
+            "text": "Celigo Named a 2026 Gartner\u00ae Peer Insights\u2122 Customers\u2019 Choice for Integration Platform as a Service, Marking Second Consecutive Year of Recognition"
+        },
+        {
+            "time": "16:24",
             "tag": "AI",
-            "text": "Unusual Machines Strengthens Supply Chain Intelligence Through Strategic Partnership with Altana"
+            "text": "Cramer Warns Broadcom\u2019s $30 Billion AI Bet Depends on a Stock You Cannot Buy"
         },
         {
-            "time": "12:05",
+            "time": "16:12",
+            "tag": "AI",
+            "text": "ServiceNow acquires Israeli AI startup Sweep in deal estimated at hundreds of millions"
+        },
+        {
+            "time": "16:12",
             "tag": "MERCADO",
-            "text": "Here Are Thursday\u2019s Top Wall Street Analyst Research Calls: Broadcom, Deere & Company, Dell Technologies, Devon Energy, Moderna, Permian Resources, PG&E, Thermo Fisher, Viper Energy, and More"
-        },
-        {
-            "time": "12:01",
-            "tag": "MERCADO",
-            "text": "Microchip and Marelli Pioneer Open-Standard Display Connectivity Solution for Software-Defined Vehicles"
-        },
-        {
-            "time": "11:41",
-            "tag": "MERCADO",
-            "text": "Digital Realty Appoints Guilherme Reis as Managing Director for Iberia"
-        },
-        {
-            "time": "11:38",
-            "tag": "RESULTADOS",
-            "text": "Atlassian (TEAM) Q1 2026 Earnings: Results, Market Reaction & History"
+            "text": "ASML Japan to Expand Workforce to 700 From 500 by 2030"
         }
     ]
 }
