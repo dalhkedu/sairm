@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-09-03 17:37 UTC",
+        "last_updated": "2026-09-03 20:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 228.32,
-            "change": "-1.88%"
+            "price": 228.45,
+            "change": "+0.28%"
         },
         {
             "symbol": "AMD",
-            "price": 457.57,
-            "change": "+1.8%"
+            "price": 456.16,
+            "change": "+1.92%"
         },
         {
             "symbol": "MSFT",
-            "price": 510.11,
-            "change": "-1.77%"
+            "price": 510.12,
+            "change": "+1.1%"
         },
         {
             "symbol": "CEG",
-            "price": 284.82,
-            "change": "+0.94%"
+            "price": 285.05,
+            "change": "+0.31%"
         },
         {
             "symbol": "VST",
-            "price": 143.75,
-            "change": "+3.36%"
+            "price": 144.22,
+            "change": "-0.81%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.44,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
             0.5,
             0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            25.18,
-            25.47,
-            25.48,
-            25.89,
-            26.09,
-            25.84,
-            25.43,
-            25.74,
-            26.09,
-            26.15,
-            25.68,
-            25.25
+            25.63,
+            25.26,
+            24.97,
+            25.04,
+            25.11,
+            24.88,
+            24.69,
+            24.63,
+            24.68,
+            24.99,
+            24.96,
+            25.21
         ],
         "hsd_history_software": [
-            10.55,
-            10.35,
-            10.37,
-            10.39,
-            10.22,
-            10.37,
-            10.42,
-            10.29,
-            10.24,
-            10.21,
-            10.01,
-            10.06
+            9.15,
+            9.31,
+            9.37,
+            9.42,
+            9.37,
+            9.41,
+            9.57,
+            9.55,
+            9.67,
+            9.82,
+            9.8,
+            9.97
         ],
         "rci_data": [
             85.0,
-            22.832
+            22.845
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:26",
+            "time": "20:30",
             "tag": "MERCADO",
-            "text": "Here's How Many Shares of Booking Holdings (BKNG) Stock You'd Need for $1,000 in Yearly Dividends"
+            "text": "ServiceNow Just Rallied 28% in a Month: Take Profits, or Buy More?"
         },
         {
-            "time": "16:24",
+            "time": "20:30",
             "tag": "MERCADO",
-            "text": "Celigo Named a 2026 Gartner\u00ae Peer Insights\u2122 Customers\u2019 Choice for Integration Platform as a Service, Marking Second Consecutive Year of Recognition"
+            "text": "ServiceNow Just Rallied 28% in a Month: Take Profits, or Buy More?"
         },
         {
-            "time": "16:24",
+            "time": "19:27",
+            "tag": "MERCADO",
+            "text": "Lam Research SVP Varadarajan Seshasayee sells $17.4m LRCX shares By Investing.com"
+        },
+        {
+            "time": "19:18",
             "tag": "AI",
-            "text": "Cramer Warns Broadcom\u2019s $30 Billion AI Bet Depends on a Stock You Cannot Buy"
+            "text": "Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment"
         },
         {
-            "time": "16:12",
-            "tag": "AI",
-            "text": "ServiceNow acquires Israeli AI startup Sweep in deal estimated at hundreds of millions"
-        },
-        {
-            "time": "16:12",
+            "time": "19:16",
             "tag": "MERCADO",
-            "text": "ASML Japan to Expand Workforce to 700 From 500 by 2030"
+            "text": "Adobe back on the hook over subscription plan terms"
         }
     ]
 }
