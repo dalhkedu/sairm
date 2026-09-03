@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-03 03:34 UTC",
+        "last_updated": "2026-09-03 08:41 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 224.41,
-            "change": "+1.34%"
+            "change": "-1.81%"
         },
         {
             "symbol": "AMD",
             "price": 457.06,
-            "change": "+2.41%"
+            "change": "-1.04%"
         },
         {
             "symbol": "MSFT",
             "price": 496.82,
-            "change": "-0.69%"
+            "change": "-0.03%"
         },
         {
             "symbol": "CEG",
             "price": 290.04,
-            "change": "+3.25%"
+            "change": "+2.33%"
         },
         {
             "symbol": "VST",
             "price": 143.46,
-            "change": "-1.7%"
+            "change": "+3.17%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.5,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.5,
-            0.49,
-            0.5,
-            0.49,
-            0.5,
+            0.55,
+            0.54,
+            0.54,
+            0.53,
+            0.52,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
             0.51,
-            0.5,
             0.51,
-            0.5,
-            0.5,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            25.09,
-            24.87,
+            24.5,
+            24.63,
             25.06,
-            25.2,
-            25.12,
-            25.16,
-            25.64,
-            25.36,
-            25.87,
-            26.0,
-            25.5,
-            25.12
+            25.25,
+            24.88,
+            24.7,
+            24.89,
+            25.22,
+            25.35,
+            25.23,
+            24.99,
+            25.4
         ],
         "hsd_history_software": [
-            10.67,
-            10.65,
-            10.49,
-            10.46,
-            10.29,
-            10.22,
-            10.28,
-            10.26,
-            10.25,
-            10.22,
-            10.14,
-            10.15
+            9.86,
+            10.04,
+            10.16,
+            10.21,
+            10.12,
+            10.2,
+            10.09,
+            10.0,
+            10.18,
+            10.23,
+            10.16,
+            10.16
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "03:14",
+            "time": "08:07",
             "tag": "MERCADO",
-            "text": "Synopsys executive chair Aart de Geus sells $21.3m in stock"
+            "text": "Coppell Advisory Solutions LLC Buys Shares of 50,796 Verizon Communications Inc. $VZ"
         },
         {
-            "time": "01:15",
+            "time": "07:56",
             "tag": "MERCADO",
-            "text": "Elliott built stake in Deutsche Telekom and opposes T-Mobile merger, Bloomberg News reports"
+            "text": "Headlands Technologies LLC Has $13.46 Million Holdings in Advanced Micro Devices, Inc. $AMD"
         },
         {
-            "time": "01:14",
-            "tag": "AI",
-            "text": "Southern Company\u2019s SCOUT: Completing the Storm Intelligence Story"
-        },
-        {
-            "time": "00:24",
-            "tag": "AI",
-            "text": "Capsule Security fine-tunes Nvidia Nemotron models to stop rogue AI agents"
-        },
-        {
-            "time": "00:23",
+            "time": "07:56",
             "tag": "MERCADO",
-            "text": "QUALCOMM (QCOM) Stock May Be Undervalued On Its 58% Three Year Run"
+            "text": "GTS Securities LLC Grows Stake in Advanced Micro Devices, Inc. $AMD"
+        },
+        {
+            "time": "07:52",
+            "tag": "MERCADO",
+            "text": "Cannon Wealth Management Services LLC Makes New $1.51 Million Investment in Tesla, Inc. $TSLA"
+        },
+        {
+            "time": "07:52",
+            "tag": "MERCADO",
+            "text": "Fischer Financial Services Inc. Purchases Shares of 2,722 Tesla, Inc. $TSLA"
         }
     ]
 }
