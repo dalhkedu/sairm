@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-04 03:34 UTC",
+        "last_updated": "2026-09-04 08:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 228.45,
-            "change": "-2.11%"
+            "change": "+2.06%"
         },
         {
             "symbol": "AMD",
             "price": 456.16,
-            "change": "-3.04%"
+            "change": "-2.01%"
         },
         {
             "symbol": "MSFT",
             "price": 510.12,
-            "change": "-2.44%"
+            "change": "+0.63%"
         },
         {
             "symbol": "CEG",
             "price": 285.05,
-            "change": "+0.88%"
+            "change": "+1.67%"
         },
         {
             "symbol": "VST",
             "price": 144.22,
-            "change": "+0.53%"
+            "change": "+0.88%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.47,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
+            0.53,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
+            0.52,
             0.52,
             0.51,
             0.51,
+            0.5,
             0.51,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            25.15,
-            25.44,
-            25.76,
+            26.31,
+            26.01,
+            26.13,
+            25.74,
             25.36,
-            25.43,
-            25.14,
-            25.08,
-            24.74,
-            25.11,
-            25.01,
-            25.02,
-            24.84
+            25.09,
+            25.39,
+            25.67,
+            25.17,
+            24.98,
+            25.4,
+            25.46
         ],
         "hsd_history_software": [
-            10.11,
-            10.19,
-            10.21,
-            10.05,
+            9.92,
             9.87,
-            10.0,
-            10.16,
+            9.85,
+            9.73,
+            9.85,
+            9.85,
+            9.79,
+            9.63,
+            9.82,
             10.02,
-            10.11,
-            9.96,
-            9.98,
-            9.85
+            10.2,
+            10.16
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:47",
+            "time": "08:19",
             "tag": "MERCADO",
-            "text": "Tesla starts Cybercab rides in Austin, prompting US safety agency evaluation"
+            "text": "denkapparat Operations GmbH Buys New Position in Citigroup Inc. $C"
         },
         {
-            "time": "01:31",
+            "time": "07:34",
             "tag": "MERCADO",
-            "text": "Intapp Chief Product Officer Thad Jampol Sells 25,000 Shares"
+            "text": "Johnson Investment Counsel Inc. Decreases Stake in Amazon.com, Inc. $AMZN"
         },
         {
-            "time": "23:39",
+            "time": "07:33",
             "tag": "MERCADO",
-            "text": "Ann Mcdaniel Sells 3,531 Shares of Match Group (NASDAQ:MTCH) Stock"
+            "text": "B. Metzler seel. Sohn & Co. AG Cuts Position in Synopsys, Inc. $SNPS"
         },
         {
-            "time": "23:19",
-            "tag": "RESULTADOS",
-            "text": "Q2 Earnings Outperformers: Align Technology (NASDAQ:ALGN) And The Rest Of The Dental Equipment & Technology Stocks"
+            "time": "07:17",
+            "tag": "MERCADO",
+            "text": "Barlow Wealth Partners LLC Acquires 27,111 Shares of Intuit Inc. $INTU"
         },
         {
-            "time": "23:14",
+            "time": "07:09",
             "tag": "MERCADO",
-            "text": "Jim Cramer issues bullish call on Robinhood after Morgan Stanley upgrade"
+            "text": "Intuit Inc. $INTU Stake Decreased by B. Metzler seel. Sohn & Co. AG"
         }
     ]
 }
