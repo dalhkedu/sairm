@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-09-04 17:26 UTC",
+        "last_updated": "2026-09-04 20:28 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 230.88,
-            "change": "-3.08%"
+            "price": 230.36,
+            "change": "-3.34%"
         },
         {
             "symbol": "AMD",
-            "price": 474.21,
-            "change": "+2.52%"
+            "price": 477.57,
+            "change": "-1.96%"
         },
         {
             "symbol": "MSFT",
-            "price": 501.02,
-            "change": "-2.54%"
+            "price": 499.7,
+            "change": "+0.03%"
         },
         {
             "symbol": "CEG",
-            "price": 294.41,
-            "change": "-0.07%"
+            "price": 298.96,
+            "change": "+2.12%"
         },
         {
             "symbol": "VST",
-            "price": 147.83,
-            "change": "+1.22%"
+            "price": 149.3,
+            "change": "-3.41%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.53,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
             0.49,
             0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            26.75,
-            26.77,
-            26.57,
-            26.17,
-            26.39,
-            26.33,
-            26.15,
-            26.1,
-            25.7,
-            25.65,
-            25.16,
-            25.05
+            24.18,
+            24.57,
+            24.87,
+            24.6,
+            24.78,
+            24.33,
+            24.29,
+            24.35,
+            24.26,
+            24.69,
+            24.26,
+            24.67
         ],
         "hsd_history_software": [
-            9.76,
-            9.76,
-            9.62,
-            9.54,
-            9.46,
-            9.46,
-            9.61,
-            9.47,
-            9.66,
-            9.76,
-            9.75,
-            9.81
+            9.86,
+            9.92,
+            10.07,
+            10.11,
+            9.92,
+            10.04,
+            9.99,
+            9.88,
+            10.06,
+            9.89,
+            9.98,
+            10.04
         ],
         "rci_data": [
             85.0,
-            23.088
+            23.036
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "16:14",
+            "time": "18:15",
             "tag": "MERCADO",
-            "text": "Intel '100% committed' to getting New Albany fab completed, Moreno says"
+            "text": "Super Micro Surges 7% as Semiconductors Lead a Flat Tape; Hewlett Packard Enterprise Falls 3%, Dell Edges Higher"
         },
         {
-            "time": "15:49",
-            "tag": "MERCADO",
-            "text": "Tesla Cybercabs face safety probe as regulators question driverless taxi compliance"
+            "time": "18:13",
+            "tag": "AI",
+            "text": "HP unveils AI-powered OmniBook laptops and OmniDesk desktop"
         },
         {
-            "time": "15:41",
+            "time": "18:05",
             "tag": "MERCADO",
-            "text": "BASF Units Bring Patent Suit Against Apple Over Face ID Tech"
+            "text": "Eaton to Boost U.S. Power Capacity With $242M Arkansas Plant"
         },
         {
-            "time": "15:33",
-            "tag": "MERCADO",
-            "text": "Mobile Connectivity Expert GlocalMe Showcases All-Around, Always-On Connectivity at IFA 2026"
+            "time": "18:00",
+            "tag": "AI",
+            "text": "HP Announces New OmniBook PCs to Help Build the Next Generation of AI Experiences"
         },
         {
-            "time": "15:32",
-            "tag": "MERCADO",
-            "text": "A system trained on millions of animal sounds reads pets' cues. uCloudlink showed it in Berlin."
+            "time": "17:32",
+            "tag": "AI",
+            "text": "Final Trades: FTAI Aviation, KLA Corp, Nvidia and Oracle"
         }
     ]
 }
