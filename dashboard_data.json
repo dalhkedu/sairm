@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-04 20:28 UTC",
+        "last_updated": "2026-09-04 22:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 230.36,
-            "change": "-3.34%"
+            "change": "+1.11%"
         },
         {
             "symbol": "AMD",
             "price": 477.57,
-            "change": "-1.96%"
+            "change": "-1.11%"
         },
         {
             "symbol": "MSFT",
             "price": 499.7,
-            "change": "+0.03%"
+            "change": "-3.28%"
         },
         {
             "symbol": "CEG",
             "price": 298.96,
-            "change": "+2.12%"
+            "change": "-1.57%"
         },
         {
             "symbol": "VST",
             "price": 149.3,
-            "change": "-3.41%"
+            "change": "+1.58%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
+        "cer_current": 0.59,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.5,
-            0.5,
+            0.46,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
             0.49,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            24.18,
-            24.57,
-            24.87,
-            24.6,
-            24.78,
-            24.33,
-            24.29,
-            24.35,
-            24.26,
-            24.69,
-            24.26,
-            24.67
+            24.92,
+            25.26,
+            25.49,
+            25.07,
+            25.2,
+            24.76,
+            25.2,
+            25.62,
+            25.29,
+            25.25,
+            25.48,
+            25.17
         ],
         "hsd_history_software": [
-            9.86,
-            9.92,
+            9.91,
+            9.9,
+            10.09,
+            10.09,
+            10.13,
+            10.16,
+            10.25,
             10.07,
-            10.11,
-            9.92,
-            10.04,
-            9.99,
-            9.88,
+            10.24,
             10.06,
-            9.89,
-            9.98,
-            10.04
+            10.13,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:15",
+            "time": "21:30",
+            "tag": "RESULTADOS",
+            "text": "DocuSign (DOCU) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates"
+        },
+        {
+            "time": "21:11",
             "tag": "MERCADO",
-            "text": "Super Micro Surges 7% as Semiconductors Lead a Flat Tape; Hewlett Packard Enterprise Falls 3%, Dell Edges Higher"
+            "text": "Insider Selling: Take-Two Interactive Software (NASDAQ:TTWO) Insider Sells $199,585.05 in Stock"
         },
         {
-            "time": "18:13",
+            "time": "20:38",
             "tag": "AI",
-            "text": "HP unveils AI-powered OmniBook laptops and OmniDesk desktop"
+            "text": "Edge computing platforms power AI: Cisco's approach"
         },
         {
-            "time": "18:05",
+            "time": "20:29",
             "tag": "MERCADO",
-            "text": "Eaton to Boost U.S. Power Capacity With $242M Arkansas Plant"
+            "text": "T-Mobile appoints Shell veteran as next CFO"
         },
         {
-            "time": "18:00",
-            "tag": "AI",
-            "text": "HP Announces New OmniBook PCs to Help Build the Next Generation of AI Experiences"
-        },
-        {
-            "time": "17:32",
-            "tag": "AI",
-            "text": "Final Trades: FTAI Aviation, KLA Corp, Nvidia and Oracle"
+            "time": "20:22",
+            "tag": "MERCADO",
+            "text": "Adobe Stock Sinks After Company Names Insider as New CEO"
         }
     ]
 }
