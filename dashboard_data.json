@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-04 08:37 UTC",
+        "last_updated": "2026-09-04 13:15 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 228.45,
-            "change": "+2.06%"
+            "change": "-1.79%"
         },
         {
             "symbol": "AMD",
             "price": 456.16,
-            "change": "-2.01%"
+            "change": "+1.83%"
         },
         {
             "symbol": "MSFT",
             "price": 510.12,
-            "change": "+0.63%"
+            "change": "+1.93%"
         },
         {
             "symbol": "CEG",
             "price": 285.05,
-            "change": "+1.67%"
+            "change": "+1.03%"
         },
         {
             "symbol": "VST",
             "price": 144.22,
-            "change": "+0.88%"
+            "change": "+0.78%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.47,
+        "cer_current": 0.56,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
+            0.48,
+            0.47,
+            0.48,
+            0.48,
+            0.49,
+            0.5,
             0.5,
             0.51,
+            0.5,
+            0.5,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            26.31,
-            26.01,
-            26.13,
-            25.74,
-            25.36,
-            25.09,
-            25.39,
-            25.67,
-            25.17,
-            24.98,
-            25.4,
-            25.46
+            24.93,
+            25.25,
+            24.9,
+            24.57,
+            24.73,
+            24.57,
+            24.65,
+            24.49,
+            24.7,
+            25.08,
+            25.24,
+            24.95
         ],
         "hsd_history_software": [
-            9.92,
-            9.87,
-            9.85,
-            9.73,
-            9.85,
-            9.85,
-            9.79,
-            9.63,
-            9.82,
-            10.02,
-            10.2,
-            10.16
+            10.07,
+            10.18,
+            10.35,
+            10.3,
+            10.19,
+            10.09,
+            9.93,
+            10.14,
+            10.11,
+            10.05,
+            10.01,
+            10.11
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:19",
+            "time": "12:14",
             "tag": "MERCADO",
-            "text": "denkapparat Operations GmbH Buys New Position in Citigroup Inc. $C"
+            "text": "US auto safety regulator opens probe into nearly 1,000 Tesla Cybercabs"
         },
         {
-            "time": "07:34",
+            "time": "12:12",
             "tag": "MERCADO",
-            "text": "Johnson Investment Counsel Inc. Decreases Stake in Amazon.com, Inc. $AMZN"
+            "text": "'Some of These Lasers Were the Size of Buildings': Now They Need 12 Minerals China Cut Off"
         },
         {
-            "time": "07:33",
+            "time": "11:08",
             "tag": "MERCADO",
-            "text": "B. Metzler seel. Sohn & Co. AG Cuts Position in Synopsys, Inc. $SNPS"
+            "text": "Tyler Technologies (NYSE:TYL) Stock Rating Lowered by Zacks Research"
         },
         {
-            "time": "07:17",
+            "time": "11:00",
             "tag": "MERCADO",
-            "text": "Barlow Wealth Partners LLC Acquires 27,111 Shares of Intuit Inc. $INTU"
+            "text": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips"
         },
         {
-            "time": "07:09",
+            "time": "10:56",
             "tag": "MERCADO",
-            "text": "Intuit Inc. $INTU Stake Decreased by B. Metzler seel. Sohn & Co. AG"
+            "text": "Docusign stock price target raised to $60 by Wells Fargo on IAM growth"
         }
     ]
 }
