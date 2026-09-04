@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-09-04 13:15 UTC",
+        "last_updated": "2026-09-04 17:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 228.45,
-            "change": "-1.79%"
+            "price": 230.88,
+            "change": "-3.08%"
         },
         {
             "symbol": "AMD",
-            "price": 456.16,
-            "change": "+1.83%"
+            "price": 474.21,
+            "change": "+2.52%"
         },
         {
             "symbol": "MSFT",
-            "price": 510.12,
-            "change": "+1.93%"
+            "price": 501.02,
+            "change": "-2.54%"
         },
         {
             "symbol": "CEG",
-            "price": 285.05,
-            "change": "+1.03%"
+            "price": 294.41,
+            "change": "-0.07%"
         },
         {
             "symbol": "VST",
-            "price": 144.22,
-            "change": "+0.78%"
+            "price": 147.83,
+            "change": "+1.22%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.61,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.48,
+            0.48,
+            0.47,
+            0.47,
             0.47,
             0.48,
             0.48,
+            0.48,
             0.49,
-            0.5,
             0.5,
             0.51,
-            0.5,
-            0.5,
-            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.93,
-            25.25,
-            24.9,
-            24.57,
-            24.73,
-            24.57,
-            24.65,
-            24.49,
-            24.7,
-            25.08,
-            25.24,
-            24.95
+            26.75,
+            26.77,
+            26.57,
+            26.17,
+            26.39,
+            26.33,
+            26.15,
+            26.1,
+            25.7,
+            25.65,
+            25.16,
+            25.05
         ],
         "hsd_history_software": [
-            10.07,
-            10.18,
-            10.35,
-            10.3,
-            10.19,
-            10.09,
-            9.93,
-            10.14,
-            10.11,
-            10.05,
-            10.01,
-            10.11
+            9.76,
+            9.76,
+            9.62,
+            9.54,
+            9.46,
+            9.46,
+            9.61,
+            9.47,
+            9.66,
+            9.76,
+            9.75,
+            9.81
         ],
         "rci_data": [
             85.0,
-            22.845
+            23.088
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "12:14",
+            "time": "16:14",
             "tag": "MERCADO",
-            "text": "US auto safety regulator opens probe into nearly 1,000 Tesla Cybercabs"
+            "text": "Intel '100% committed' to getting New Albany fab completed, Moreno says"
         },
         {
-            "time": "12:12",
+            "time": "15:49",
             "tag": "MERCADO",
-            "text": "'Some of These Lasers Were the Size of Buildings': Now They Need 12 Minerals China Cut Off"
+            "text": "Tesla Cybercabs face safety probe as regulators question driverless taxi compliance"
         },
         {
-            "time": "11:08",
+            "time": "15:41",
             "tag": "MERCADO",
-            "text": "Tyler Technologies (NYSE:TYL) Stock Rating Lowered by Zacks Research"
+            "text": "BASF Units Bring Patent Suit Against Apple Over Face ID Tech"
         },
         {
-            "time": "11:00",
+            "time": "15:33",
             "tag": "MERCADO",
-            "text": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips"
+            "text": "Mobile Connectivity Expert GlocalMe Showcases All-Around, Always-On Connectivity at IFA 2026"
         },
         {
-            "time": "10:56",
+            "time": "15:32",
             "tag": "MERCADO",
-            "text": "Docusign stock price target raised to $60 by Wells Fargo on IAM growth"
+            "text": "A system trained on millions of animal sounds reads pets' cues. uCloudlink showed it in Berlin."
         }
     ]
 }
