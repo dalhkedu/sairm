@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-05 00:42 UTC",
+        "last_updated": "2026-09-05 05:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 230.36,
-            "change": "-1.04%"
+            "change": "+0.41%"
         },
         {
             "symbol": "AMD",
             "price": 477.57,
-            "change": "-2.32%"
+            "change": "+1.56%"
         },
         {
             "symbol": "MSFT",
             "price": 499.7,
-            "change": "-3.27%"
+            "change": "-2.83%"
         },
         {
             "symbol": "CEG",
             "price": 298.96,
-            "change": "+3.26%"
+            "change": "+0.67%"
         },
         {
             "symbol": "VST",
             "price": 149.3,
-            "change": "+0.18%"
+            "change": "+3.39%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.6,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
             0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.11,
-            24.22,
-            24.47,
-            24.41,
-            24.17,
-            24.31,
-            24.69,
-            24.82,
-            25.19,
-            25.21,
-            25.09,
-            24.94
+            23.11,
+            23.19,
+            23.48,
+            23.4,
+            23.15,
+            23.23,
+            23.46,
+            23.4,
+            23.78,
+            23.76,
+            24.16,
+            24.64
         ],
         "hsd_history_software": [
-            10.5,
+            10.44,
+            10.49,
+            10.65,
+            10.45,
             10.47,
-            10.29,
-            10.17,
-            10.36,
-            10.24,
-            10.08,
-            10.05,
-            10.08,
-            10.09,
-            10.02,
-            9.91
+            10.3,
+            10.15,
+            10.0,
+            9.98,
+            9.87,
+            9.93,
+            9.96
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:30",
-            "tag": "RESULTADOS",
-            "text": "DocuSign (DOCU) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates"
+            "time": "04:50",
+            "tag": "AI",
+            "text": "Rail Vision Advances AI-Powered Tech in MxV Rail's U.S. Locomotive Sensor Testing Program (NASDAQ: RVSN)"
         },
         {
-            "time": "21:11",
+            "time": "02:39",
             "tag": "MERCADO",
-            "text": "Insider Selling: Take-Two Interactive Software (NASDAQ:TTWO) Insider Sells $199,585.05 in Stock"
+            "text": "$100 Invested In Keysight Techs 10 Years Ago Would Be Worth This Much Today"
         },
         {
-            "time": "20:53",
+            "time": "02:13",
             "tag": "MERCADO",
-            "text": "JFrog (NASDAQ:FROG) CFO Eduard Grabscheid Sells 8,780 Shares"
+            "text": "FormFactor, Entegris, Penguin Solutions, Teradyne, and Marvell Technology Stocks Trade Up, What You Need To Know"
         },
         {
-            "time": "20:53",
+            "time": "01:13",
             "tag": "MERCADO",
-            "text": "Tali Notman Sells 19,157 Shares of JFrog (NASDAQ:FROG) Stock"
+            "text": "Bloom Energy, Illumina, and Everpure Set to Join S&P 500; Others to Join S&P 100, S&P MidCap 400, and S&P SmallCap 600"
         },
         {
-            "time": "20:49",
-            "tag": "MERCADO",
-            "text": "Insider Selling: FormFactor (NASDAQ:FORM) Director Sells $201,810.00 in Stock"
+            "time": "00:17",
+            "tag": "AI",
+            "text": "Alphabet raises its dividend 4.8% as AI spending leaves room for cash returns"
         }
     ]
 }
