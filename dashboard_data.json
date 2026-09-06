@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-06 05:39 UTC",
+        "last_updated": "2026-09-06 10:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 230.36,
-            "change": "-0.17%"
+            "change": "-0.51%"
         },
         {
             "symbol": "AMD",
             "price": 477.57,
-            "change": "+0.9%"
+            "change": "+2.95%"
         },
         {
             "symbol": "MSFT",
             "price": 499.7,
-            "change": "-1.08%"
+            "change": "+1.43%"
         },
         {
             "symbol": "CEG",
             "price": 298.96,
-            "change": "+1.62%"
+            "change": "-1.95%"
         },
         {
             "symbol": "VST",
             "price": 149.3,
-            "change": "-1.45%"
+            "change": "-2.02%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.66,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
             0.49,
             0.5,
-            0.5,
             0.49,
+            0.49,
+            0.48,
             0.49,
             0.5,
             0.51,
+            0.5,
             0.51,
-            0.5,
-            0.5,
-            0.49
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.65,
-            25.07,
-            25.57,
-            25.41,
-            25.45,
+            25.83,
             25.84,
-            25.46,
-            25.55,
-            25.69,
+            25.66,
+            25.66,
+            25.56,
+            25.09,
+            24.89,
             25.35,
-            25.29,
-            25.21
+            25.0,
+            24.71,
+            24.64,
+            24.67
         ],
         "hsd_history_software": [
-            9.32,
-            9.24,
-            9.31,
-            9.33,
-            9.44,
-            9.6,
-            9.56,
-            9.57,
-            9.52,
-            9.68,
-            9.78,
-            9.86
+            10.24,
+            10.35,
+            10.39,
+            10.33,
+            10.46,
+            10.26,
+            10.44,
+            10.26,
+            10.14,
+            10.28,
+            10.2,
+            10.09
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "02:13",
+            "time": "09:56",
             "tag": "MERCADO",
-            "text": "What Does Align Technology (ALGN) Gain From Its Board Change?"
+            "text": "Saudi Central Bank Buys 15,346 Shares of American Tower Corporation $AMT"
         },
         {
-            "time": "22:11",
+            "time": "09:42",
             "tag": "MERCADO",
-            "text": "Verizon Waives Charges for Hurricane Lowell, Prepares Network in Hawai'i"
+            "text": "TDAQ ETF Holdings List \u2014 CBOE:TDAQ"
         },
         {
-            "time": "21:39",
+            "time": "09:41",
             "tag": "MERCADO",
-            "text": "Verizon Waives Charges for Hurricane Lowell, Prepares Network in Hawai'i"
+            "text": "Salesforce Inc. $CRM Shares Acquired by Riverview Capital Advisers LLC"
         },
         {
-            "time": "19:16",
-            "tag": "AI",
-            "text": "Did Aptiv's (APTV) Deeper NVIDIA Jetson Orin Nano 2 Tie-Up Just Reframe Its Edge AI Ambitions?"
+            "time": "09:40",
+            "tag": "MERCADO",
+            "text": "Teledyne Technologies Incorporated $TDY Shares Bought by Maren Capital LLC"
         },
         {
-            "time": "19:00",
+            "time": "09:26",
             "tag": "MERCADO",
-            "text": "Tampa Defense Firm Joins NYSE After $110M Raise"
+            "text": "Munich Reinsurance Co Stock Corp in Munich Lowers Position in Analog Devices, Inc. $ADI"
         }
     ]
 }
