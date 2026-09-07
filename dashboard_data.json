@@ -1,80 +1,80 @@
 {
     "metadata": {
-        "last_updated": "2026-09-07 11:55 UTC",
+        "last_updated": "2026-09-07 17:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 230.36,
-            "change": "+1.76%"
+            "change": "-1.35%"
         },
         {
             "symbol": "AMD",
             "price": 477.57,
-            "change": "+2.82%"
+            "change": "-0.99%"
         },
         {
             "symbol": "MSFT",
             "price": 499.7,
-            "change": "-1.51%"
+            "change": "-1.03%"
         },
         {
             "symbol": "CEG",
             "price": 298.96,
-            "change": "-0.04%"
+            "change": "+1.17%"
         },
         {
             "symbol": "VST",
             "price": 149.3,
-            "change": "+1.59%"
+            "change": "+3.24%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.41,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.48,
+            0.49,
+            0.49,
             0.49,
             0.49,
             0.5,
-            0.51,
             0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5
+            0.5,
+            0.49,
+            0.5,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.74,
-            24.54,
-            24.39,
-            24.39,
-            24.78,
-            24.37,
-            24.53,
-            24.61,
-            24.63,
-            24.28,
-            24.77,
-            24.91
+            25.19,
+            24.72,
+            24.98,
+            25.38,
+            25.64,
+            26.14,
+            25.92,
+            25.72,
+            25.67,
+            25.2,
+            24.87,
+            25.0
         ],
         "hsd_history_software": [
-            9.84,
-            10.03,
-            10.23,
-            10.1,
-            10.18,
-            10.14,
-            10.25,
+            10.61,
+            10.51,
+            10.41,
+            10.34,
+            10.42,
+            10.29,
+            10.35,
+            10.24,
             10.07,
-            9.97,
-            9.95,
-            9.9,
+            9.91,
+            9.86,
             10.01
         ],
         "rci_data": [
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:18",
+            "time": "15:50",
             "tag": "MERCADO",
-            "text": "Philips launches eV14-2v transvaginal transducer"
+            "text": "Super Micro Has Gained 35% in 2026. What Would It Take to Get SMCI Stock Up to $50?"
         },
         {
-            "time": "10:06",
+            "time": "15:45",
             "tag": "MERCADO",
-            "text": "CDW Corporation $CDW Shares Sold by Vancity Investment Management Ltd"
+            "text": "Microsoft Is Close to a New All-Time High. This Number Will Determine If It Keeps Climbing"
         },
         {
-            "time": "09:56",
+            "time": "15:43",
             "tag": "MERCADO",
-            "text": "Readystate Asset Management LP Invests $12.58 Million in LiveRamp Holdings, Inc. $RAMP"
+            "text": "Strength in Transportation & Electronics Unit Drives 3M: A Sign of More Upside?"
         },
         {
-            "time": "09:50",
+            "time": "14:44",
             "tag": "MERCADO",
-            "text": "Public Employees Retirement System of Ohio Buys New Position in Enphase Energy, Inc. $ENPH"
+            "text": "Walmart's Ad Business Expands: Can High-Margin Growth Lift Profits?"
         },
         {
-            "time": "09:50",
+            "time": "14:39",
             "tag": "MERCADO",
-            "text": "Varenne Capital Partners Lowers Stake in Analog Devices, Inc. $ADI"
+            "text": "Roblox Has Collapsed 47% This Year: Is It Time to Switch to Take-Two or GameStop?"
         }
     ]
 }
