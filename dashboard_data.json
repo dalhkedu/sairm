@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-07 17:31 UTC",
+        "last_updated": "2026-09-07 21:16 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 230.36,
-            "change": "-1.35%"
+            "change": "+2.65%"
         },
         {
             "symbol": "AMD",
             "price": 477.57,
-            "change": "-0.99%"
+            "change": "-3.22%"
         },
         {
             "symbol": "MSFT",
             "price": 499.7,
-            "change": "-1.03%"
+            "change": "-0.79%"
         },
         {
             "symbol": "CEG",
             "price": 298.96,
-            "change": "+1.17%"
+            "change": "-3.07%"
         },
         {
             "symbol": "VST",
             "price": 149.3,
-            "change": "+3.24%"
+            "change": "+0.67%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.55,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.48,
+            0.48,
+            0.47,
             0.48,
             0.48,
             0.49,
             0.49,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            25.19,
-            24.72,
-            24.98,
-            25.38,
-            25.64,
-            26.14,
-            25.92,
-            25.72,
-            25.67,
-            25.2,
+            24.89,
             24.87,
-            25.0
+            25.19,
+            25.46,
+            25.13,
+            25.11,
+            25.62,
+            25.5,
+            25.61,
+            25.72,
+            25.7,
+            25.25
         ],
         "hsd_history_software": [
-            10.61,
-            10.51,
-            10.41,
-            10.34,
-            10.42,
-            10.29,
+            10.22,
+            10.16,
+            10.08,
+            10.21,
+            10.18,
+            10.22,
             10.35,
-            10.24,
-            10.07,
-            9.91,
-            9.86,
-            10.01
+            10.17,
+            10.08,
+            10.0,
+            10.0,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:50",
+            "time": "20:34",
             "tag": "MERCADO",
-            "text": "Super Micro Has Gained 35% in 2026. What Would It Take to Get SMCI Stock Up to $50?"
+            "text": "Jim Cramer Wants Nvidia to Buy Back $500 Billion. Can Apple\u2019s Playbook Work?"
         },
         {
-            "time": "15:45",
+            "time": "20:01",
             "tag": "MERCADO",
-            "text": "Microsoft Is Close to a New All-Time High. This Number Will Determine If It Keeps Climbing"
+            "text": "Apple's first foldable iPhone is set to debut Wednesday -- and all eyes are on new CEO John Ternus"
         },
         {
-            "time": "15:43",
-            "tag": "MERCADO",
-            "text": "Strength in Transportation & Electronics Unit Drives 3M: A Sign of More Upside?"
+            "time": "17:58",
+            "tag": "AI",
+            "text": "Mate Security, Palo Alto Networks, and ServiceNow Join OpenAI\u2019s First-Day Cyber Defense Signatories"
         },
         {
-            "time": "14:44",
+            "time": "17:30",
             "tag": "MERCADO",
-            "text": "Walmart's Ad Business Expands: Can High-Margin Growth Lift Profits?"
+            "text": "Wall Street Is Worried About AMD. Here\u2019s Why Long-Term Investors Shouldn\u2019t Be"
         },
         {
-            "time": "14:39",
+            "time": "17:20",
             "tag": "MERCADO",
-            "text": "Roblox Has Collapsed 47% This Year: Is It Time to Switch to Take-Two or GameStop?"
+            "text": "Nvidia (NVDA) Board Member Sells $410 Million of Company Stock"
         }
     ]
 }
