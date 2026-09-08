@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-07 21:16 UTC",
+        "last_updated": "2026-09-08 00:02 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 230.36,
-            "change": "+2.65%"
+            "change": "-0.19%"
         },
         {
             "symbol": "AMD",
             "price": 477.57,
-            "change": "-3.22%"
+            "change": "+2.83%"
         },
         {
             "symbol": "MSFT",
             "price": 499.7,
-            "change": "-0.79%"
+            "change": "-0.29%"
         },
         {
             "symbol": "CEG",
             "price": 298.96,
-            "change": "-3.07%"
+            "change": "+2.18%"
         },
         {
             "symbol": "VST",
             "price": 149.3,
-            "change": "+0.67%"
+            "change": "-1.6%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.65,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.48,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
+            0.54,
+            0.54,
+            0.53,
+            0.53,
+            0.52,
+            0.53,
+            0.52,
+            0.52,
+            0.51,
+            0.52,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            24.89,
-            24.87,
-            25.19,
-            25.46,
-            25.13,
-            25.11,
+            25.02,
+            24.97,
+            25.04,
+            24.88,
+            24.98,
+            25.48,
+            25.93,
+            25.85,
+            26.01,
             25.62,
-            25.5,
-            25.61,
-            25.72,
-            25.7,
-            25.25
+            25.42,
+            25.1
         ],
         "hsd_history_software": [
-            10.22,
+            10.0,
+            10.15,
+            10.14,
+            9.95,
+            10.08,
             10.16,
-            10.08,
-            10.21,
-            10.18,
-            10.22,
-            10.35,
-            10.17,
-            10.08,
+            10.01,
+            10.06,
+            10.01,
             10.0,
-            10.0,
-            10.1
+            10.13,
+            10.02
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:34",
+            "time": "21:52",
             "tag": "MERCADO",
-            "text": "Jim Cramer Wants Nvidia to Buy Back $500 Billion. Can Apple\u2019s Playbook Work?"
+            "text": "Paylocity Director Kenneth Robinson Sells 800 Shares for $127,000"
         },
         {
-            "time": "20:01",
+            "time": "21:23",
             "tag": "MERCADO",
-            "text": "Apple's first foldable iPhone is set to debut Wednesday -- and all eyes are on new CEO John Ternus"
+            "text": "KBR lands the front-end engineering job for a 250 MW Nebraska project designed to turn renewable hydrogen into e-methane"
         },
         {
-            "time": "17:58",
+            "time": "21:09",
+            "tag": "MERCADO",
+            "text": "NXP Semiconductors stock gains on strong market value"
+        },
+        {
+            "time": "20:44",
+            "tag": "MERCADO",
+            "text": "Digital Realty (NYSE:DLR): Can Data Center Demand Beat Rate Fears?"
+        },
+        {
+            "time": "20:42",
             "tag": "AI",
-            "text": "Mate Security, Palo Alto Networks, and ServiceNow Join OpenAI\u2019s First-Day Cyber Defense Signatories"
-        },
-        {
-            "time": "17:30",
-            "tag": "MERCADO",
-            "text": "Wall Street Is Worried About AMD. Here\u2019s Why Long-Term Investors Shouldn\u2019t Be"
-        },
-        {
-            "time": "17:20",
-            "tag": "MERCADO",
-            "text": "Nvidia (NVDA) Board Member Sells $410 Million of Company Stock"
+            "text": "SLB Bets $4.1 Billion on the AI Data Center Boom"
         }
     ]
 }
