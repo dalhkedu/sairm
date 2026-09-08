@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-08 05:41 UTC",
+        "last_updated": "2026-09-08 10:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 230.36,
-            "change": "+1.17%"
+            "change": "+3.21%"
         },
         {
             "symbol": "AMD",
             "price": 477.57,
-            "change": "-3.2%"
+            "change": "+2.25%"
         },
         {
             "symbol": "MSFT",
             "price": 499.7,
-            "change": "-0.07%"
+            "change": "+1.64%"
         },
         {
             "symbol": "CEG",
             "price": 298.96,
-            "change": "+1.64%"
+            "change": "+3.49%"
         },
         {
             "symbol": "VST",
             "price": 149.3,
-            "change": "-0.38%"
+            "change": "+0.57%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.65,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.52,
-            0.53,
-            0.52,
-            0.52,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.51,
             0.51,
             0.51,
             0.51,
             0.5,
-            0.49
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            26.59,
-            26.26,
-            26.29,
-            26.27,
-            26.02,
-            25.53,
-            25.8,
-            25.59,
-            25.56,
-            25.42,
-            24.99,
-            24.94
+            24.19,
+            24.54,
+            24.3,
+            24.48,
+            24.13,
+            24.39,
+            24.2,
+            24.61,
+            24.64,
+            24.33,
+            24.32,
+            24.56
         ],
         "hsd_history_software": [
-            9.91,
-            9.74,
-            9.6,
-            9.77,
-            9.8,
-            9.77,
-            9.77,
-            9.79,
-            9.89,
-            9.98,
+            9.55,
+            9.57,
+            9.69,
             9.88,
-            10.08
+            9.98,
+            9.99,
+            10.16,
+            10.18,
+            10.04,
+            10.12,
+            10.14,
+            10.0
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "04:41",
+            "time": "09:30",
             "tag": "MERCADO",
-            "text": "JPMorgan names APAC, EMEA tech investment banking chiefs as international co-heads"
+            "text": "VIRGINIA RETIREMENT SYSTEMS ET Al Acquires New Shares in Analog Devices, Inc. $ADI"
         },
         {
-            "time": "03:54",
+            "time": "09:30",
             "tag": "MERCADO",
-            "text": "United Community execs, ScanSource acquisition and BBQ: In the Know"
+            "text": "VIRGINIA RETIREMENT SYSTEMS ET Al Buys New Stake in Fidelity National Information Services, Inc. $FIS"
         },
         {
-            "time": "03:14",
-            "tag": "RESULTADOS",
-            "text": "CooperCompanies (COO) To Report Earnings Tomorrow: Here Is What To Expect"
+            "time": "09:29",
+            "tag": "MERCADO",
+            "text": "98,533 Shares in Digital Realty Trust, Inc. $DLR Bought by VIRGINIA RETIREMENT SYSTEMS ET Al"
         },
         {
-            "time": "03:13",
+            "time": "09:18",
             "tag": "MERCADO",
-            "text": "GM's Breakup With CarPlay And Android Auto Has One Exception"
+            "text": "Citizens reiterates Genius Sports stock rating on betting market dynamics"
         },
         {
-            "time": "03:11",
+            "time": "09:15",
             "tag": "MERCADO",
-            "text": "Nvidia's 3-Year-Old H100 Chip Is Still Getting the Market to Pay Up, Jensen Huang Says Compute Is 'Fungible, Durable and Highly Rentable'"
+            "text": "Wealth Advisory Solutions LLC Has $15.48 Million Position in Amazon.com, Inc. $AMZN"
         }
     ]
 }
