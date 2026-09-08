@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-09-08 10:51 UTC",
+        "last_updated": "2026-09-08 14:58 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 230.36,
-            "change": "+3.21%"
+            "price": 226.95,
+            "change": "-2.54%"
         },
         {
             "symbol": "AMD",
-            "price": 477.57,
-            "change": "+2.25%"
+            "price": 500.61,
+            "change": "-1.55%"
         },
         {
             "symbol": "MSFT",
-            "price": 499.7,
-            "change": "+1.64%"
+            "price": 491.67,
+            "change": "-0.88%"
         },
         {
             "symbol": "CEG",
-            "price": 298.96,
-            "change": "+3.49%"
+            "price": 302.63,
+            "change": "+1.26%"
         },
         {
             "symbol": "VST",
-            "price": 149.3,
-            "change": "+0.57%"
+            "price": 153.74,
+            "change": "+0.84%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.59,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.49,
+            0.49,
             0.5,
             0.5,
+            0.49,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
             0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            24.19,
-            24.54,
-            24.3,
-            24.48,
-            24.13,
-            24.39,
-            24.2,
-            24.61,
-            24.64,
-            24.33,
-            24.32,
-            24.56
+            25.82,
+            26.12,
+            25.64,
+            25.77,
+            25.71,
+            25.72,
+            26.09,
+            25.65,
+            25.25,
+            25.46,
+            25.17,
+            25.15
         ],
         "hsd_history_software": [
-            9.55,
+            9.26,
+            9.42,
+            9.53,
             9.57,
-            9.69,
-            9.88,
-            9.98,
-            9.99,
-            10.16,
-            10.18,
-            10.04,
-            10.12,
-            10.14,
-            10.0
+            9.66,
+            9.51,
+            9.58,
+            9.48,
+            9.51,
+            9.67,
+            9.78,
+            9.94
         ],
         "rci_data": [
             85.0,
-            23.036
+            22.695
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "09:30",
-            "tag": "MERCADO",
-            "text": "VIRGINIA RETIREMENT SYSTEMS ET Al Acquires New Shares in Analog Devices, Inc. $ADI"
+            "time": "13:47",
+            "tag": "AI",
+            "text": "Short Sellers Are Betting Against 3 AI Infrastructure Stocks\u2014What Could Turn the Tide?"
         },
         {
-            "time": "09:30",
+            "time": "13:37",
             "tag": "MERCADO",
-            "text": "VIRGINIA RETIREMENT SYSTEMS ET Al Buys New Stake in Fidelity National Information Services, Inc. $FIS"
+            "text": "Qualcomm Issues Warrant to Amazon for Up to 25 Million Shares"
         },
         {
-            "time": "09:29",
+            "time": "13:30",
             "tag": "MERCADO",
-            "text": "98,533 Shares in Digital Realty Trust, Inc. $DLR Bought by VIRGINIA RETIREMENT SYSTEMS ET Al"
+            "text": "Verizon Stock Is Near a 52-Week High. Here\u2019s Why I\u2019m Still Bullish."
         },
         {
-            "time": "09:18",
+            "time": "13:24",
             "tag": "MERCADO",
-            "text": "Citizens reiterates Genius Sports stock rating on betting market dynamics"
+            "text": "Ticketmaster Employees Named Among Inaugural Ticketing Stars"
         },
         {
-            "time": "09:15",
+            "time": "13:16",
             "tag": "MERCADO",
-            "text": "Wealth Advisory Solutions LLC Has $15.48 Million Position in Amazon.com, Inc. $AMZN"
+            "text": "Oracle Rallies 5% as Morgan Stanley Lifts Its Price Target, CoreWeave Advances 3%"
         }
     ]
 }
