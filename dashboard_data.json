@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-09-08 14:58 UTC",
+        "last_updated": "2026-09-08 18:30 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 226.95,
-            "change": "-2.54%"
+            "price": 226.05,
+            "change": "-1.47%"
         },
         {
             "symbol": "AMD",
-            "price": 500.61,
-            "change": "-1.55%"
+            "price": 507.72,
+            "change": "+0.05%"
         },
         {
             "symbol": "MSFT",
-            "price": 491.67,
-            "change": "-0.88%"
+            "price": 491.78,
+            "change": "+2.26%"
         },
         {
             "symbol": "CEG",
-            "price": 302.63,
-            "change": "+1.26%"
+            "price": 301.23,
+            "change": "-1.59%"
         },
         {
             "symbol": "VST",
-            "price": 153.74,
-            "change": "+0.84%"
+            "price": 153.6,
+            "change": "+3.31%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.59,
+        "cer_current": 0.58,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
             0.49,
             0.5,
             0.5,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
+            0.5,
             0.49,
             0.5,
-            0.49
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.82,
-            26.12,
-            25.64,
-            25.77,
-            25.71,
-            25.72,
-            26.09,
-            25.65,
-            25.25,
-            25.46,
-            25.17,
-            25.15
+            24.67,
+            25.11,
+            25.35,
+            25.23,
+            24.76,
+            24.48,
+            24.36,
+            24.19,
+            23.97,
+            24.38,
+            24.76,
+            25.26
         ],
         "hsd_history_software": [
-            9.26,
-            9.42,
-            9.53,
-            9.57,
-            9.66,
-            9.51,
-            9.58,
-            9.48,
-            9.51,
-            9.67,
-            9.78,
-            9.94
+            10.03,
+            10.15,
+            10.12,
+            10.11,
+            10.19,
+            10.02,
+            9.89,
+            9.91,
+            9.75,
+            9.93,
+            9.89,
+            10.02
         ],
         "rci_data": [
             85.0,
-            22.695
+            22.605
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "13:47",
+            "time": "17:22",
+            "tag": "MERCADO",
+            "text": "Is Super Micro Computer (NASDAQ:SMCI) Stock At A Turning Point?"
+        },
+        {
+            "time": "17:22",
+            "tag": "MERCADO",
+            "text": "Intel Stock Rises 5% on Reported 10% CPU Price Increase"
+        },
+        {
+            "time": "17:06",
+            "tag": "MERCADO",
+            "text": "Cboe data suggests bullish flow in Sandisk Corporation with shares up 2.51%"
+        },
+        {
+            "time": "17:06",
             "tag": "AI",
-            "text": "Short Sellers Are Betting Against 3 AI Infrastructure Stocks\u2014What Could Turn the Tide?"
+            "text": "Ford Motor Bets on BlueCruise, AI and Ford Pro to Drive Digital Revenue"
         },
         {
-            "time": "13:37",
-            "tag": "MERCADO",
-            "text": "Qualcomm Issues Warrant to Amazon for Up to 25 Million Shares"
-        },
-        {
-            "time": "13:30",
-            "tag": "MERCADO",
-            "text": "Verizon Stock Is Near a 52-Week High. Here\u2019s Why I\u2019m Still Bullish."
-        },
-        {
-            "time": "13:24",
-            "tag": "MERCADO",
-            "text": "Ticketmaster Employees Named Among Inaugural Ticketing Stars"
-        },
-        {
-            "time": "13:16",
-            "tag": "MERCADO",
-            "text": "Oracle Rallies 5% as Morgan Stanley Lifts Its Price Target, CoreWeave Advances 3%"
+            "time": "16:58",
+            "tag": "AI",
+            "text": "Microsoft's Project Zenith Turns Windows 11 Into a Ready-to-Code AI Workstation -- Redmondmag.com"
         }
     ]
 }
