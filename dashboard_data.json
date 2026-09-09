@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-09 20:39 UTC",
+        "last_updated": "2026-09-09 23:02 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 223.67,
-            "change": "-0.16%"
+            "change": "+1.27%"
         },
         {
             "symbol": "AMD",
             "price": 521.09,
-            "change": "-2.93%"
+            "change": "-2.18%"
         },
         {
             "symbol": "MSFT",
             "price": 491.65,
-            "change": "+2.98%"
+            "change": "+0.76%"
         },
         {
             "symbol": "CEG",
             "price": 293.9,
-            "change": "+0.52%"
+            "change": "+1.39%"
         },
         {
             "symbol": "VST",
             "price": 151.1,
-            "change": "+2.74%"
+            "change": "+2.08%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.48,
+        "cer_current": 0.64,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.46,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
+            0.51,
+            0.5,
+            0.5,
             0.49,
+            0.5,
+            0.51,
             0.5,
             0.51,
             0.51,
             0.51,
-            0.51
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.27,
-            25.15,
-            25.6,
-            25.44,
-            25.19,
-            25.19,
-            24.73,
-            25.17,
-            24.88,
-            24.56,
-            24.12,
+            25.64,
+            25.68,
+            25.54,
+            25.84,
+            25.56,
+            25.73,
+            25.73,
+            25.3,
+            25.53,
+            25.31,
+            24.96,
             24.59
         ],
         "hsd_history_software": [
-            10.93,
-            10.76,
-            10.62,
-            10.46,
-            10.3,
-            10.33,
-            10.24,
-            10.33,
-            10.21,
-            10.07,
-            9.92,
-            9.85
+            9.88,
+            9.74,
+            9.8,
+            9.99,
+            10.05,
+            10.17,
+            10.23,
+            10.16,
+            10.02,
+            10.11,
+            9.91,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:07",
-            "tag": "MERCADO",
-            "text": "Could Tesla\u2019s (TSLA) Cybercab Unlock a New Growth Driver?"
+            "time": "22:27",
+            "tag": "RESULTADOS",
+            "text": "Q2 Earnings Highs And Lows: Broadridge (NYSE:BR) Vs The Rest Of The Data & Business Process Services Stocks"
         },
         {
-            "time": "19:42",
-            "tag": "MERCADO",
-            "text": "Optivels Launches New Integration Tools Connecting Shopify, Amazon, and Walmart Stores"
-        },
-        {
-            "time": "19:22",
+            "time": "22:07",
             "tag": "AI",
-            "text": "Microsoft (NASDAQ: MSFT) \"Useful Yield\" Push Puts NVIDIA's (NASDAQ: NVDA) AI Economics To The Test"
+            "text": "Could Advanced Micro Devices (AMD)\u2019s Partnership With Cisco Systems (CSCO) Unlock a Massive Middle East AI Opportunity?"
         },
         {
-            "time": "19:14",
-            "tag": "MERCADO",
-            "text": "Crown Castle at Goldman Sachs conference: focus shifts to tower growth"
+            "time": "21:57",
+            "tag": "AI",
+            "text": "Is Salesforce (CRM)\u2019s Agentforce Growth Enough to Outpace F5 (FFIV)\u2019s AI Security Momentum?"
         },
         {
-            "time": "19:13",
+            "time": "21:45",
             "tag": "MERCADO",
-            "text": "Charles Schwab, Bitwise\u2019s First $1B ETF, and SGP-0002: Solana\u2019s Wall Street August 2026"
+            "text": "Super Micro Computer (SMCI) Dips More Than Broader Market: What You Should Know"
+        },
+        {
+            "time": "21:40",
+            "tag": "MERCADO",
+            "text": "Trimble buys Japanese positioning firm"
         }
     ]
 }
