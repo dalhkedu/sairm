@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-09-09 08:48 UTC",
+        "last_updated": "2026-09-09 13:33 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 225.73,
-            "change": "+1.34%"
+            "price": 224.76,
+            "change": "-3.1%"
         },
         {
             "symbol": "AMD",
-            "price": 505.74,
-            "change": "+0.63%"
+            "price": 512.42,
+            "change": "+2.11%"
         },
         {
             "symbol": "MSFT",
-            "price": 493.95,
-            "change": "+2.33%"
+            "price": 492.23,
+            "change": "-3.11%"
         },
         {
             "symbol": "CEG",
-            "price": 299.05,
-            "change": "+1.43%"
+            "price": 297.14,
+            "change": "-3.33%"
         },
         {
             "symbol": "VST",
-            "price": 151.72,
-            "change": "+1.6%"
+            "price": 151.01,
+            "change": "-0.76%"
         }
     ],
     "dashboard_metrics": {
         "cer_current": 0.43,
-        "rci_current": 0.23,
+        "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
+            0.48,
             0.49,
             0.49,
             0.5,
             0.5,
-            0.5
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            24.19,
-            24.56,
-            24.32,
-            24.69,
-            24.61,
-            25.01,
-            24.91,
-            24.79,
-            24.5,
-            24.87,
-            24.65,
-            25.1
+            25.61,
+            25.5,
+            25.18,
+            24.86,
+            25.18,
+            25.59,
+            25.11,
+            24.77,
+            24.33,
+            24.59,
+            24.64,
+            25.06
         ],
         "hsd_history_software": [
-            10.19,
-            10.26,
-            10.33,
+            9.95,
+            9.82,
+            9.79,
+            9.97,
+            10.05,
             10.24,
-            10.31,
             10.34,
+            10.21,
             10.18,
+            10.25,
             10.1,
-            10.0,
-            10.1,
-            10.04,
-            10.15
+            10.09
         ],
         "rci_data": [
             85.0,
-            22.573
+            22.476
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:05",
+            "time": "13:06",
             "tag": "MERCADO",
-            "text": "HighTower Advisors LLC Raises Position in eBay Inc. $EBAY"
+            "text": "Analog Devices to Acquire Alif Semiconductor for $1.35 Billion"
         },
         {
-            "time": "08:05",
-            "tag": "MERCADO",
-            "text": "HighTower Advisors LLC Boosts Holdings in Teledyne Technologies Incorporated $TDY"
+            "time": "13:06",
+            "tag": "AI",
+            "text": "HP Extends Data-Center AI Architecture to the Edge"
         },
         {
-            "time": "08:05",
+            "time": "12:59",
             "tag": "MERCADO",
-            "text": "Intuit Inc. $INTU Shares Sold by Groupe la Francaise"
+            "text": "StoneX reiterates Qualcomm stock buy rating on Amazon partnership"
         },
         {
-            "time": "08:05",
-            "tag": "MERCADO",
-            "text": "California State Teachers Retirement System Boosts Holdings in First Solar, Inc. $FSLR"
+            "time": "12:41",
+            "tag": "AI",
+            "text": "Analog Devices buys Alif Semiconductor for $1.35B to push AI into physical systems"
         },
         {
-            "time": "08:05",
+            "time": "12:26",
             "tag": "MERCADO",
-            "text": "Baird Financial Group Inc. Sells 9,182 Shares of Lam Research Corporation $LRCX"
+            "text": "Analog Devices to Acquire Alif Semiconductor in $1.35 Billion All-Cash Deal"
         }
     ]
 }
