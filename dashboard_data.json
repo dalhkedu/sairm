@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-09-09 17:40 UTC",
+        "last_updated": "2026-09-09 20:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 224.37,
-            "change": "+2.58%"
+            "price": 223.67,
+            "change": "-0.16%"
         },
         {
             "symbol": "AMD",
-            "price": 521.96,
-            "change": "+1.7%"
+            "price": 521.09,
+            "change": "-2.93%"
         },
         {
             "symbol": "MSFT",
-            "price": 492.89,
-            "change": "-2.13%"
+            "price": 491.65,
+            "change": "+2.98%"
         },
         {
             "symbol": "CEG",
-            "price": 294.4,
-            "change": "+2.3%"
+            "price": 293.9,
+            "change": "+0.52%"
         },
         {
             "symbol": "VST",
-            "price": 150.18,
-            "change": "-0.71%"
+            "price": 151.1,
+            "change": "+2.74%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.48,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
+            0.47,
+            0.46,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
             0.49,
             0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.5
+            0.51,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.8,
-            25.74,
-            25.38,
-            25.14,
-            24.95,
-            25.38,
-            25.23,
-            24.91,
-            24.91,
-            24.71,
-            25.07,
-            25.24
+            25.27,
+            25.15,
+            25.6,
+            25.44,
+            25.19,
+            25.19,
+            24.73,
+            25.17,
+            24.88,
+            24.56,
+            24.12,
+            24.59
         ],
         "hsd_history_software": [
-            9.91,
-            9.76,
-            9.82,
-            9.94,
-            9.95,
-            9.93,
-            9.9,
-            9.89,
-            9.84,
-            10.03,
-            9.86,
-            10.04
+            10.93,
+            10.76,
+            10.62,
+            10.46,
+            10.3,
+            10.33,
+            10.24,
+            10.33,
+            10.21,
+            10.07,
+            9.92,
+            9.85
         ],
         "rci_data": [
             85.0,
-            22.437
+            22.366999999999997
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:07",
+            "time": "20:07",
             "tag": "MERCADO",
-            "text": "Akamai Technologies Jumps 5.3% After Citigroup Maintains Neutral"
+            "text": "Could Tesla\u2019s (TSLA) Cybercab Unlock a New Growth Driver?"
         },
         {
-            "time": "16:46",
+            "time": "19:42",
             "tag": "MERCADO",
-            "text": "Verizon declares quarterly dividend on September 9, 2026"
+            "text": "Optivels Launches New Integration Tools Connecting Shopify, Amazon, and Walmart Stores"
         },
         {
-            "time": "16:39",
-            "tag": "MERCADO",
-            "text": "Rozlynn Yong, Sparq Partners | Intuit Customer Stories"
+            "time": "19:22",
+            "tag": "AI",
+            "text": "Microsoft (NASDAQ: MSFT) \"Useful Yield\" Push Puts NVIDIA's (NASDAQ: NVDA) AI Economics To The Test"
         },
         {
-            "time": "16:30",
+            "time": "19:14",
             "tag": "MERCADO",
-            "text": "How eBay and Law Enforcement Work Together to Combat Illegal Ghost Gun Sales"
+            "text": "Crown Castle at Goldman Sachs conference: focus shifts to tower growth"
         },
         {
-            "time": "16:15",
+            "time": "19:13",
             "tag": "MERCADO",
-            "text": "Datadog Inc Stock (DDOG) Moved Up by 6.79% on Sep 9: Facts Behind the Movement"
+            "text": "Charles Schwab, Bitwise\u2019s First $1B ETF, and SGP-0002: Solana\u2019s Wall Street August 2026"
         }
     ]
 }
