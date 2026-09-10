@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-09 23:02 UTC",
+        "last_updated": "2026-09-10 03:43 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 223.67,
-            "change": "+1.27%"
+            "change": "-1.06%"
         },
         {
             "symbol": "AMD",
-            "price": 521.09,
-            "change": "-2.18%"
+            "price": 521.1,
+            "change": "-2.84%"
         },
         {
             "symbol": "MSFT",
             "price": 491.65,
-            "change": "+0.76%"
+            "change": "+2.29%"
         },
         {
             "symbol": "CEG",
             "price": 293.9,
-            "change": "+1.39%"
+            "change": "-1.97%"
         },
         {
             "symbol": "VST",
             "price": 151.1,
-            "change": "+2.08%"
+            "change": "+0.89%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.63,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.51,
             0.5,
             0.51,
             0.51,
             0.51,
+            0.52,
             0.51,
-            0.5
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.64,
-            25.68,
-            25.54,
-            25.84,
-            25.56,
-            25.73,
-            25.73,
-            25.3,
-            25.53,
-            25.31,
-            24.96,
-            24.59
+            24.43,
+            23.97,
+            24.09,
+            24.04,
+            24.23,
+            24.18,
+            24.4,
+            24.34,
+            24.81,
+            25.26,
+            25.04,
+            25.28
         ],
         "hsd_history_software": [
-            9.88,
-            9.74,
-            9.8,
-            9.99,
-            10.05,
-            10.17,
-            10.23,
-            10.16,
-            10.02,
+            10.39,
+            10.25,
+            10.22,
+            10.12,
             10.11,
-            9.91,
-            10.1
+            10.07,
+            10.19,
+            10.03,
+            10.14,
+            10.21,
+            10.17,
+            10.09
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:27",
-            "tag": "RESULTADOS",
-            "text": "Q2 Earnings Highs And Lows: Broadridge (NYSE:BR) Vs The Rest Of The Data & Business Process Services Stocks"
-        },
-        {
-            "time": "22:07",
+            "time": "02:27",
             "tag": "AI",
-            "text": "Could Advanced Micro Devices (AMD)\u2019s Partnership With Cisco Systems (CSCO) Unlock a Massive Middle East AI Opportunity?"
+            "text": "Analog Devices Strengthening Edge AI Capabilities by Acquiring Alif Semiconductor"
         },
         {
-            "time": "21:57",
-            "tag": "AI",
-            "text": "Is Salesforce (CRM)\u2019s Agentforce Growth Enough to Outpace F5 (FFIV)\u2019s AI Security Momentum?"
-        },
-        {
-            "time": "21:45",
+            "time": "01:52",
             "tag": "MERCADO",
-            "text": "Super Micro Computer (SMCI) Dips More Than Broader Market: What You Should Know"
+            "text": "Circle internet group chief product & tech officer sells $2.68M shares"
         },
         {
-            "time": "21:40",
+            "time": "01:44",
             "tag": "MERCADO",
-            "text": "Trimble buys Japanese positioning firm"
+            "text": "Insider Selling: Intuit (NASDAQ:INTU) Director Sells $92,727.60 in Stock"
+        },
+        {
+            "time": "01:41",
+            "tag": "MERCADO",
+            "text": "CNBC Daily Open: Apple's new iPhone bends. Bond vigilantes, not so much"
+        },
+        {
+            "time": "01:15",
+            "tag": "MERCADO",
+            "text": "Bryan Seuk Ko Sells 28,248 Shares of Gen Digital (NASDAQ:GEN) Stock"
         }
     ]
 }
