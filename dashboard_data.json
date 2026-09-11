@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-11 00:56 UTC",
+        "last_updated": "2026-09-11 05:46 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 218.36,
-            "change": "+1.33%"
+            "change": "+3.24%"
         },
         {
             "symbol": "AMD",
             "price": 503.6,
-            "change": "-2.35%"
+            "change": "+2.97%"
         },
         {
             "symbol": "MSFT",
             "price": 492.44,
-            "change": "-1.21%"
+            "change": "-1.3%"
         },
         {
             "symbol": "CEG",
             "price": 285.97,
-            "change": "-2.39%"
+            "change": "-1.43%"
         },
         {
             "symbol": "VST",
             "price": 147.05,
-            "change": "+1.0%"
+            "change": "+1.07%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.58,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.51,
-            0.51,
-            0.5,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
             0.5,
             0.5,
             0.49,
-            0.48,
-            0.48,
+            0.49,
             0.49,
             0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            25.35,
-            25.59,
-            25.33,
-            24.92,
-            24.82,
-            25.24,
-            25.16,
-            25.0,
-            25.19,
-            25.39,
-            25.79,
-            25.34
+            23.47,
+            23.83,
+            23.89,
+            24.19,
+            24.62,
+            24.68,
+            25.17,
+            24.87,
+            25.23,
+            25.46,
+            24.98,
+            24.86
         ],
         "hsd_history_software": [
-            9.57,
-            9.76,
-            9.77,
-            9.64,
-            9.76,
-            9.75,
-            9.6,
-            9.69,
-            9.82,
-            9.63,
-            9.72,
-            9.85
+            9.1,
+            9.23,
+            9.36,
+            9.35,
+            9.5,
+            9.36,
+            9.43,
+            9.51,
+            9.67,
+            9.74,
+            9.86,
+            10.01
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "23:14",
+            "time": "03:24",
             "tag": "MERCADO",
-            "text": "Insider Selling: Analog Devices (NASDAQ:ADI) Director Sells $513,795.60 in Stock"
+            "text": "Why Did HP, SHEL, ET Stocks Hit 52-Week Highs Today?"
         },
         {
-            "time": "22:53",
-            "tag": "AI",
-            "text": "Blackstone Stock Slips As AI Infrastructure Pivot Raises Questions"
-        },
-        {
-            "time": "22:32",
-            "tag": "AI",
-            "text": "Needham initiates Kodiak AI stock with buy rating on autonomous trucking outlook By Investing.com"
-        },
-        {
-            "time": "22:22",
+            "time": "02:56",
             "tag": "MERCADO",
-            "text": "IBM (IBM) Dips More Than Broader Market: What You Should Know"
+            "text": "Switch to Verizon and get the new iPhone 18 Pro now. No trade-in needed. And get the latest iPhone every year."
         },
         {
-            "time": "22:12",
+            "time": "02:37",
             "tag": "MERCADO",
-            "text": "Microsoft plans 38 gigawatts of data center capacity by 2032, Bloomberg News reports"
+            "text": "Bending Spoons to Buy Miro for $1.36B"
+        },
+        {
+            "time": "01:57",
+            "tag": "MERCADO",
+            "text": "Silver Lake Technology Investors IV sells $589,787 in Dell Technologies stock By Investing.com"
+        },
+        {
+            "time": "01:49",
+            "tag": "MERCADO",
+            "text": "Dell Technologies director SL SPV-2, L.P. sells $26.3 million in shares"
         }
     ]
 }
