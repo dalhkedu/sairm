@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-09-11 18:15 UTC",
+        "last_updated": "2026-09-11 21:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 219.22,
-            "change": "+3.0%"
+            "price": 218.29,
+            "change": "+1.48%"
         },
         {
             "symbol": "AMD",
-            "price": 516.78,
-            "change": "+2.07%"
+            "price": 516.13,
+            "change": "-0.46%"
         },
         {
             "symbol": "MSFT",
-            "price": 495.75,
-            "change": "-2.82%"
+            "price": 495.63,
+            "change": "-1.45%"
         },
         {
             "symbol": "CEG",
-            "price": 285.81,
-            "change": "+2.9%"
+            "price": 284.75,
+            "change": "-1.53%"
         },
         {
             "symbol": "VST",
-            "price": 148.62,
-            "change": "-2.97%"
+            "price": 148.38,
+            "change": "+2.81%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.53,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
             0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.49
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.46,
-            24.36,
-            24.43,
-            24.87,
-            24.53,
+            24.77,
+            25.06,
+            25.22,
+            24.98,
+            24.68,
+            24.3,
+            24.7,
             24.27,
-            24.59,
-            24.36,
-            24.13,
-            24.48,
-            24.86,
-            25.08
+            24.33,
+            24.81,
+            25.29,
+            25.31
         ],
         "hsd_history_software": [
-            9.87,
-            9.97,
-            9.78,
-            9.78,
+            9.6,
+            9.75,
+            9.76,
+            9.79,
+            9.8,
+            9.73,
+            9.85,
+            9.75,
+            9.64,
             9.71,
-            9.83,
-            9.86,
-            9.67,
-            9.51,
-            9.53,
-            9.68,
-            9.83
+            9.76,
+            9.85
         ],
         "rci_data": [
             85.0,
-            21.922
+            21.828999999999997
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:36",
+            "time": "21:26",
             "tag": "MERCADO",
-            "text": "TeraWulf Drops 4% on Profit Taking After a 44% YTD Run; Applied Digital Falls 3%, IREN Pulls Back"
+            "text": "Enphase Energy (ENPH) Stock Looks Fairly Valued Despite New Product Hopes"
         },
         {
-            "time": "17:00",
+            "time": "21:10",
+            "tag": "MERCADO",
+            "text": "Adobe Beats on Both Lines But Guides Below Consensus"
+        },
+        {
+            "time": "21:08",
             "tag": "AI",
-            "text": "New Mexico restaurants face authenticity debate as small business AI adoption speeds up - Albuquerque Business First"
+            "text": "JPMorgan cut off Situational Awareness lending after AI losses, FT reports"
         },
         {
-            "time": "16:49",
-            "tag": "AI",
-            "text": "AI fears have hit this data stock. Investor Sarat Sethi sees a buying opportunity"
-        },
-        {
-            "time": "16:48",
+            "time": "20:56",
             "tag": "MERCADO",
-            "text": "Tungsten Automation Named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Intelligent Document Processing"
+            "text": "Goldman Sachs, BofA compete for Anthropic employee wealth management - Bloomberg"
         },
         {
-            "time": "16:26",
+            "time": "20:42",
             "tag": "MERCADO",
-            "text": "NetApp (NASDAQ:NTAP) Stock Price Up 6% - Here's What Happened"
+            "text": "Best Buy (NYSE:BBY) Sets New 52-Week High - Should You Buy?"
         }
     ]
 }
