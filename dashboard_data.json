@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-12 21:59 UTC",
+        "last_updated": "2026-09-12 23:56 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 218.29,
-            "change": "-1.14%"
+            "change": "+2.13%"
         },
         {
             "symbol": "AMD",
             "price": 516.13,
-            "change": "+0.74%"
+            "change": "-0.12%"
         },
         {
             "symbol": "MSFT",
             "price": 495.63,
-            "change": "-0.5%"
+            "change": "+1.83%"
         },
         {
             "symbol": "CEG",
             "price": 284.75,
-            "change": "-2.49%"
+            "change": "+2.23%"
         },
         {
             "symbol": "VST",
             "price": 148.38,
-            "change": "-3.23%"
+            "change": "-1.63%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.5,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
             0.48,
+            0.49,
+            0.49,
+            0.5,
+            0.49,
             0.49,
             0.5,
             0.49,
             0.49,
             0.49,
-            0.49,
-            0.49,
             0.48,
-            0.49,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            24.84,
-            24.9,
-            24.46,
-            24.82,
-            25.25,
-            25.16,
-            24.73,
-            24.83,
-            24.99,
-            24.82,
-            24.91,
-            25.32
+            25.47,
+            25.38,
+            25.55,
+            26.03,
+            25.87,
+            25.65,
+            26.12,
+            26.3,
+            26.22,
+            25.92,
+            25.44,
+            25.25
         ],
         "hsd_history_software": [
-            9.72,
-            9.79,
-            9.87,
-            10.04,
-            10.03,
-            10.04,
-            10.2,
-            10.12,
+            9.73,
+            9.76,
+            9.78,
             9.93,
-            9.82,
-            9.84,
-            9.82
+            10.07,
+            10.13,
+            10.14,
+            10.11,
+            10.05,
+            10.07,
+            10.01,
+            10.11
         ],
         "rci_data": [
             85.0,
@@ -126,6 +126,16 @@
     ],
     "news_feed": [
         {
+            "time": "21:23",
+            "tag": "MERCADO",
+            "text": "Consumer Tech (Sep 7-11): Apple Launches First Foldable iPhone, XPeng Commissioned IRON Humanoid Robot Pr"
+        },
+        {
+            "time": "21:11",
+            "tag": "AI",
+            "text": "Nvidia (NVDA)\u2019s 2 GW Australia AI Push Could Deepen Its Infrastructure Advantage"
+        },
+        {
             "time": "20:18",
             "tag": "MERCADO",
             "text": "Tesla signals Oct 1 launch for long-delayed Roadster"
@@ -139,16 +149,6 @@
             "time": "18:20",
             "tag": "AI",
             "text": "Nvidia-Digital Realty AI Factory Buildout Runs Into Grid-Level Financing Test"
-        },
-        {
-            "time": "16:09",
-            "tag": "MERCADO",
-            "text": "Larry Ellison Cancels His Plan to Sell Oracle Stock"
-        },
-        {
-            "time": "15:24",
-            "tag": "MERCADO",
-            "text": "Costco fixed the one thing members hated about shopping there"
         }
     ]
 }
