@@ -1,80 +1,80 @@
 {
     "metadata": {
-        "last_updated": "2026-09-12 04:22 UTC",
+        "last_updated": "2026-09-12 09:04 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 218.29,
-            "change": "+3.45%"
+            "change": "+1.74%"
         },
         {
             "symbol": "AMD",
             "price": 516.13,
-            "change": "+0.2%"
+            "change": "+1.72%"
         },
         {
             "symbol": "MSFT",
             "price": 495.63,
-            "change": "-1.42%"
+            "change": "-3.04%"
         },
         {
             "symbol": "CEG",
             "price": 284.75,
-            "change": "-1.56%"
+            "change": "-2.63%"
         },
         {
             "symbol": "VST",
             "price": 148.38,
-            "change": "-3.45%"
+            "change": "-1.76%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.57,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.54,
-            0.53,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.52,
             0.52,
             0.52,
             0.51,
-            0.5,
-            0.5,
-            0.5,
             0.51,
             0.51,
             0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            24.11,
-            23.92,
-            23.94,
-            24.36,
-            23.88,
-            23.83,
-            23.81,
-            24.06,
-            24.2,
-            24.26,
-            24.71,
-            24.67
+            26.1,
+            26.51,
+            26.47,
+            26.27,
+            26.06,
+            25.58,
+            25.3,
+            25.6,
+            25.26,
+            24.84,
+            24.52,
+            24.52
         ],
         "hsd_history_software": [
-            10.4,
-            10.2,
-            10.0,
-            10.0,
-            9.81,
-            9.8,
+            9.67,
+            9.57,
+            9.49,
+            9.47,
+            9.6,
+            9.66,
+            9.73,
+            9.91,
+            9.99,
+            9.91,
             9.93,
-            10.12,
-            9.94,
-            9.88,
-            9.95,
             9.87
         ],
         "rci_data": [
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "00:01",
+            "time": "08:36",
             "tag": "MERCADO",
-            "text": "Qualcomm EVP, CFO & COO Palkhiwala sells $457,129 in QCOM stock"
+            "text": "Pursue Wealth Partners LLC Makes New Investment in Amazon.com, Inc. $AMZN"
         },
         {
-            "time": "23:46",
-            "tag": "AI",
-            "text": "Palo Alto (PANW)\u2019s CEO Puts a Trillion-Dollar Number on the AI Security Gap"
+            "time": "08:36",
+            "tag": "MERCADO",
+            "text": "341,911 Shares in Amazon.com, Inc. $AMZN Bought by Trust Co. of Vermont"
         },
         {
-            "time": "23:35",
+            "time": "08:30",
             "tag": "MERCADO",
-            "text": "Silver Lake Partners IV sells $29.5m of Dell Technologies stock"
+            "text": "3,229 Shares in Amazon.com, Inc. $AMZN Purchased by Phillips Wealth Planners LLC"
         },
         {
-            "time": "23:30",
+            "time": "08:30",
             "tag": "MERCADO",
-            "text": "Talon Private Wealth LLC Acquires New Position in Advanced Micro Devices, Inc. $AMD"
+            "text": "Occidental Asset Management LLC Invests $13.13 Million in Amazon.com, Inc. $AMZN"
         },
         {
-            "time": "23:30",
+            "time": "08:30",
             "tag": "MERCADO",
-            "text": "Patent dispute: InterDigital demands 101.7 million euros from Disney"
+            "text": "Performance Wealth Partners LLC Takes $239.64 Million Position in Amazon.com, Inc. $AMZN"
         }
     ]
 }
