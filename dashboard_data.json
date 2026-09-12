@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-12 19:01 UTC",
+        "last_updated": "2026-09-12 21:59 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 218.29,
-            "change": "+1.37%"
+            "change": "-1.14%"
         },
         {
             "symbol": "AMD",
             "price": 516.13,
-            "change": "+0.57%"
+            "change": "+0.74%"
         },
         {
             "symbol": "MSFT",
             "price": 495.63,
-            "change": "+3.22%"
+            "change": "-0.5%"
         },
         {
             "symbol": "CEG",
             "price": 284.75,
-            "change": "+0.63%"
+            "change": "-2.49%"
         },
         {
             "symbol": "VST",
             "price": 148.38,
-            "change": "-1.73%"
+            "change": "-3.23%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.6,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.51,
-            0.52,
-            0.51,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
+            0.49,
+            0.48,
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.11,
-            23.98,
-            23.9,
-            24.01,
-            24.1,
-            24.38,
-            24.39,
-            24.1,
-            24.56,
-            24.45,
-            24.28,
-            24.51
+            24.84,
+            24.9,
+            24.46,
+            24.82,
+            25.25,
+            25.16,
+            24.73,
+            24.83,
+            24.99,
+            24.82,
+            24.91,
+            25.32
         ],
         "hsd_history_software": [
-            9.56,
             9.72,
-            9.6,
-            9.51,
-            9.49,
-            9.62,
-            9.69,
-            9.56,
-            9.68,
+            9.79,
             9.87,
-            9.89,
-            10.04
+            10.04,
+            10.03,
+            10.04,
+            10.2,
+            10.12,
+            9.93,
+            9.82,
+            9.84,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,9 +126,19 @@
     ],
     "news_feed": [
         {
+            "time": "20:18",
+            "tag": "MERCADO",
+            "text": "Tesla signals Oct 1 launch for long-delayed Roadster"
+        },
+        {
             "time": "18:33",
             "tag": "MERCADO",
             "text": "Can Fabrinet (NYSE:FN) Turn Scale Into an Advantage?"
+        },
+        {
+            "time": "18:20",
+            "tag": "AI",
+            "text": "Nvidia-Digital Realty AI Factory Buildout Runs Into Grid-Level Financing Test"
         },
         {
             "time": "16:09",
@@ -139,16 +149,6 @@
             "time": "15:24",
             "tag": "MERCADO",
             "text": "Costco fixed the one thing members hated about shopping there"
-        },
-        {
-            "time": "15:04",
-            "tag": "MERCADO",
-            "text": "Meta accused in class action of profiting from scam cryptocurrency ads"
-        },
-        {
-            "time": "15:00",
-            "tag": "AI",
-            "text": "Prediction: Synopsys Could Be The Next AI Winner"
         }
     ]
 }
