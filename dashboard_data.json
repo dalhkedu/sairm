@@ -1,80 +1,80 @@
 {
     "metadata": {
-        "last_updated": "2026-09-12 23:56 UTC",
+        "last_updated": "2026-09-13 04:17 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 218.29,
-            "change": "+2.13%"
+            "change": "+2.82%"
         },
         {
             "symbol": "AMD",
             "price": 516.13,
-            "change": "-0.12%"
+            "change": "+3.35%"
         },
         {
             "symbol": "MSFT",
             "price": 495.63,
-            "change": "+1.83%"
+            "change": "-2.53%"
         },
         {
             "symbol": "CEG",
             "price": 284.75,
-            "change": "+2.23%"
+            "change": "-1.91%"
         },
         {
             "symbol": "VST",
             "price": 148.38,
-            "change": "-1.63%"
+            "change": "-2.86%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.5,
+        "cer_current": 0.48,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.47,
+            0.48,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
             0.48,
             0.49,
             0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
             0.49
         ],
         "hsd_history_hardware": [
-            25.47,
+            25.6,
+            25.66,
+            25.5,
+            25.51,
+            25.78,
+            25.48,
             25.38,
-            25.55,
-            26.03,
-            25.87,
-            25.65,
-            26.12,
-            26.3,
-            26.22,
-            25.92,
-            25.44,
-            25.25
+            25.82,
+            25.57,
+            25.29,
+            25.59,
+            25.45
         ],
         "hsd_history_software": [
-            9.73,
-            9.76,
-            9.78,
-            9.93,
-            10.07,
-            10.13,
-            10.14,
-            10.11,
-            10.05,
-            10.07,
-            10.01,
+            10.55,
+            10.74,
+            10.66,
+            10.74,
+            10.6,
+            10.69,
+            10.75,
+            10.66,
+            10.5,
+            10.3,
+            10.23,
             10.11
         ],
         "rci_data": [
@@ -126,6 +126,21 @@
     ],
     "news_feed": [
         {
+            "time": "01:10",
+            "tag": "MERCADO",
+            "text": "Super Micro Computer (NASDAQ: SMCI) Sits On $60B Order Book As Fiscal 2027 Guidance Reaches $72B"
+        },
+        {
+            "time": "00:35",
+            "tag": "MERCADO",
+            "text": "SLB agrees to acquire thermal management company Kelvion for $3.4 billion to expand its data center infrastructure business"
+        },
+        {
+            "time": "22:15",
+            "tag": "AI",
+            "text": "Palo Alto Networks (PANW)\u2019s AI Growth Faces a Higher Valuation Bar"
+        },
+        {
             "time": "21:23",
             "tag": "MERCADO",
             "text": "Consumer Tech (Sep 7-11): Apple Launches First Foldable iPhone, XPeng Commissioned IRON Humanoid Robot Pr"
@@ -134,21 +149,6 @@
             "time": "21:11",
             "tag": "AI",
             "text": "Nvidia (NVDA)\u2019s 2 GW Australia AI Push Could Deepen Its Infrastructure Advantage"
-        },
-        {
-            "time": "20:18",
-            "tag": "MERCADO",
-            "text": "Tesla signals Oct 1 launch for long-delayed Roadster"
-        },
-        {
-            "time": "18:33",
-            "tag": "MERCADO",
-            "text": "Can Fabrinet (NYSE:FN) Turn Scale Into an Advantage?"
-        },
-        {
-            "time": "18:20",
-            "tag": "AI",
-            "text": "Nvidia-Digital Realty AI Factory Buildout Runs Into Grid-Level Financing Test"
         }
     ]
 }
