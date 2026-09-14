@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-09-14 18:25 UTC",
+        "last_updated": "2026-09-14 22:20 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 212.17,
-            "change": "+1.31%"
+            "price": 210.96,
+            "change": "-2.42%"
         },
         {
             "symbol": "AMD",
-            "price": 498.35,
-            "change": "-1.56%"
+            "price": 493.41,
+            "change": "+2.86%"
         },
         {
             "symbol": "MSFT",
-            "price": 507.8,
-            "change": "-2.64%"
+            "price": 505.41,
+            "change": "+1.06%"
         },
         {
             "symbol": "CEG",
-            "price": 265.01,
-            "change": "+2.5%"
+            "price": 264.57,
+            "change": "-1.79%"
         },
         {
             "symbol": "VST",
-            "price": 141.02,
-            "change": "-1.86%"
+            "price": 140.73,
+            "change": "+3.38%"
         }
     ],
     "dashboard_metrics": {
@@ -36,50 +36,50 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.55,
+            0.54,
+            0.55,
+            0.54,
+            0.54,
             0.53,
-            0.53,
+            0.52,
             0.52,
             0.52,
             0.52,
             0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.49
+            0.5
         ],
         "hsd_history_hardware": [
-            24.35,
-            24.68,
-            25.03,
-            24.64,
-            24.39,
-            24.22,
-            24.67,
-            24.85,
-            24.5,
-            24.64,
-            24.86,
-            24.86
+            25.19,
+            25.69,
+            26.1,
+            25.82,
+            25.47,
+            25.1,
+            24.74,
+            24.6,
+            24.61,
+            24.82,
+            25.19,
+            24.88
         ],
         "hsd_history_software": [
-            9.77,
-            9.67,
-            9.8,
-            9.83,
-            9.63,
-            9.54,
-            9.69,
-            9.7,
-            9.78,
+            10.11,
+            10.23,
+            10.14,
+            10.18,
+            10.01,
             9.96,
-            9.78,
-            9.81
+            10.11,
+            10.17,
+            10.29,
+            10.34,
+            10.2,
+            10.02
         ],
         "rci_data": [
             85.0,
-            21.217
+            21.096
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:04",
+            "time": "21:12",
+            "tag": "MERCADO",
+            "text": "Insider Selling: NetApp (NASDAQ:NTAP) EVP Sells $184,740.00 in Stock"
+        },
+        {
+            "time": "20:59",
+            "tag": "MERCADO",
+            "text": "Adobe (ADBE): A Billion Users, But Wall Street Wants Proof It Pays"
+        },
+        {
+            "time": "20:51",
+            "tag": "MERCADO",
+            "text": "Adyen N.V. Joins Guidewire Software, Inc. Marketplace As An Approved Global Payment Partner For Insurers"
+        },
+        {
+            "time": "20:48",
             "tag": "AI",
-            "text": "PNC at Barclays conference: growth, AI and branch push By Investing.com"
+            "text": "AI trade is important, 'but not the only thing', says Morgan Stanley's Adam Carlin"
         },
         {
-            "time": "17:00",
-            "tag": "MERCADO",
-            "text": "Intel Upgraded, CVS Health Downgraded: Updated Rankings on Top Blue-Chip Stocks"
-        },
-        {
-            "time": "16:48",
-            "tag": "AI",
-            "text": "Nvidia, Palantir Pull Back From Anthropic Models Over Fears AI Could Expose Corporate Secrets"
-        },
-        {
-            "time": "16:47",
-            "tag": "MERCADO",
-            "text": "Match Group (NASDAQ:MTCH) Reaches New 12-Month High - Here's What Happened"
-        },
-        {
-            "time": "16:41",
-            "tag": "MERCADO",
-            "text": "Caterpillar Falls 4% While Deere Edges Higher: Is the Data Center Power Trade Unwinding?"
+            "time": "20:28",
+            "tag": "RESULTADOS",
+            "text": "HR Software Q2 Earnings: Paycom (NYSE:PAYC) is the Best in the Biz"
         }
     ]
 }
