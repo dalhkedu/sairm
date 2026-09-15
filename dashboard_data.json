@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-14 22:20 UTC",
+        "last_updated": "2026-09-15 01:15 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 210.96,
-            "change": "-2.42%"
+            "change": "+1.92%"
         },
         {
             "symbol": "AMD",
             "price": 493.41,
-            "change": "+2.86%"
+            "change": "+0.68%"
         },
         {
             "symbol": "MSFT",
             "price": 505.41,
-            "change": "+1.06%"
+            "change": "+2.14%"
         },
         {
             "symbol": "CEG",
             "price": 264.57,
-            "change": "-1.79%"
+            "change": "+0.29%"
         },
         {
             "symbol": "VST",
             "price": 140.73,
-            "change": "+3.38%"
+            "change": "-1.16%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.69,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.55,
-            0.54,
-            0.55,
-            0.54,
-            0.54,
-            0.53,
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
-            0.5
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.19,
-            25.69,
-            26.1,
-            25.82,
+            26.18,
+            26.24,
+            26.2,
+            26.33,
+            26.39,
+            26.44,
+            26.02,
+            25.63,
+            25.92,
             25.47,
-            25.1,
-            24.74,
-            24.6,
-            24.61,
-            24.82,
-            25.19,
-            24.88
+            25.23,
+            25.25
         ],
         "hsd_history_software": [
-            10.11,
-            10.23,
+            9.68,
+            9.79,
+            9.98,
+            10.05,
+            10.21,
             10.14,
-            10.18,
-            10.01,
-            9.96,
-            10.11,
-            10.17,
-            10.29,
-            10.34,
-            10.2,
-            10.02
+            10.16,
+            10.04,
+            9.89,
+            9.91,
+            9.86,
+            9.95
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:12",
+            "time": "23:53",
             "tag": "MERCADO",
-            "text": "Insider Selling: NetApp (NASDAQ:NTAP) EVP Sells $184,740.00 in Stock"
+            "text": "Cadence design systems director Ita M. Brennan sells $51,391 in shares"
         },
         {
-            "time": "20:59",
+            "time": "23:39",
             "tag": "MERCADO",
-            "text": "Adobe (ADBE): A Billion Users, But Wall Street Wants Proof It Pays"
+            "text": "Pacer Nasdaq 100 Top 50 Cash Cows Growth Leaders ETF (QQQG) stock price, news, quote and history"
         },
         {
-            "time": "20:51",
+            "time": "22:22",
             "tag": "MERCADO",
-            "text": "Adyen N.V. Joins Guidewire Software, Inc. Marketplace As An Approved Global Payment Partner For Insurers"
+            "text": "SmartPM Expands Integration with Autodesk Forma\u00ae Build\u2019s RFI and Submittal Data"
         },
         {
-            "time": "20:48",
+            "time": "22:10",
+            "tag": "MERCADO",
+            "text": "CenterPoint Energy discloses customer data breach in SEC filing"
+        },
+        {
+            "time": "21:30",
             "tag": "AI",
-            "text": "AI trade is important, 'but not the only thing', says Morgan Stanley's Adam Carlin"
-        },
-        {
-            "time": "20:28",
-            "tag": "RESULTADOS",
-            "text": "HR Software Q2 Earnings: Paycom (NYSE:PAYC) is the Best in the Biz"
+            "text": "Big Tech Issued About $220 Billion of Bonds. Alphabet and Meta Show How AI Is Warping the Credit Market"
         }
     ]
 }
