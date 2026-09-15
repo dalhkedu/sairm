@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-15 01:15 UTC",
+        "last_updated": "2026-09-15 07:25 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 210.96,
-            "change": "+1.92%"
+            "change": "-2.86%"
         },
         {
             "symbol": "AMD",
             "price": 493.41,
-            "change": "+0.68%"
+            "change": "-2.44%"
         },
         {
             "symbol": "MSFT",
             "price": 505.41,
-            "change": "+2.14%"
+            "change": "-0.36%"
         },
         {
             "symbol": "CEG",
             "price": 264.57,
-            "change": "+0.29%"
+            "change": "-2.97%"
         },
         {
             "symbol": "VST",
             "price": 140.73,
-            "change": "-1.16%"
+            "change": "-2.02%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.69,
+        "cer_current": 0.66,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.5,
+            0.5,
+            0.51
         ],
         "hsd_history_hardware": [
-            26.18,
-            26.24,
-            26.2,
-            26.33,
-            26.39,
-            26.44,
-            26.02,
-            25.63,
-            25.92,
-            25.47,
+            25.36,
+            25.83,
+            25.36,
+            25.61,
             25.23,
-            25.25
+            24.96,
+            25.46,
+            25.04,
+            25.1,
+            25.09,
+            24.7,
+            24.79
         ],
         "hsd_history_software": [
-            9.68,
-            9.79,
-            9.98,
-            10.05,
-            10.21,
-            10.14,
-            10.16,
-            10.04,
-            9.89,
-            9.91,
-            9.86,
-            9.95
+            10.28,
+            10.2,
+            10.32,
+            10.37,
+            10.27,
+            10.46,
+            10.45,
+            10.27,
+            10.24,
+            10.09,
+            9.99,
+            10.16
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "23:53",
+            "time": "06:02",
             "tag": "MERCADO",
-            "text": "Cadence design systems director Ita M. Brennan sells $51,391 in shares"
+            "text": "Teledyne e2v Expands 3D Imaging Portfolio with New Perciva ToF Camera"
         },
         {
-            "time": "23:39",
+            "time": "04:31",
             "tag": "MERCADO",
-            "text": "Pacer Nasdaq 100 Top 50 Cash Cows Growth Leaders ETF (QQQG) stock price, news, quote and history"
+            "text": "Intuit (INTU) Could Be 39% Below Fair Value After Software Rotation"
         },
         {
-            "time": "22:22",
+            "time": "04:13",
             "tag": "MERCADO",
-            "text": "SmartPM Expands Integration with Autodesk Forma\u00ae Build\u2019s RFI and Submittal Data"
+            "text": "Does VICI Properties' (VICI) Modest Dividend Hike Reveal Its True Capital Allocation Priorities?"
         },
         {
-            "time": "22:10",
-            "tag": "MERCADO",
-            "text": "CenterPoint Energy discloses customer data breach in SEC filing"
-        },
-        {
-            "time": "21:30",
+            "time": "03:25",
             "tag": "AI",
-            "text": "Big Tech Issued About $220 Billion of Bonds. Alphabet and Meta Show How AI Is Warping the Credit Market"
+            "text": "F5 expands AI Security Platform with F5 Workforce AI Security"
+        },
+        {
+            "time": "03:07",
+            "tag": "MERCADO",
+            "text": "Navitas Extending GaN and SiC Strategy with Claros Acquisition"
         }
     ]
 }
