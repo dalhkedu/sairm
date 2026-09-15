@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-09-15 18:01 UTC",
+        "last_updated": "2026-09-15 21:57 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 212.02,
-            "change": "+0.5%"
+            "price": 212.17,
+            "change": "+1.69%"
         },
         {
             "symbol": "AMD",
-            "price": 503.58,
-            "change": "+3.0%"
+            "price": 504.2,
+            "change": "+0.61%"
         },
         {
             "symbol": "MSFT",
-            "price": 498.3,
-            "change": "-3.23%"
+            "price": 497.12,
+            "change": "-3.48%"
         },
         {
             "symbol": "CEG",
-            "price": 262.13,
-            "change": "-0.74%"
+            "price": 259.89,
+            "change": "-1.97%"
         },
         {
             "symbol": "VST",
-            "price": 142.03,
-            "change": "-0.55%"
+            "price": 141.53,
+            "change": "+1.97%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.61,
+        "cer_current": 0.6,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.48,
+            0.48,
+            0.47,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.49,
+            0.49,
             0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            23.28,
-            23.62,
-            24.01,
-            23.94,
-            23.79,
-            24.24,
-            23.87,
-            24.18,
-            24.32,
-            24.68,
-            24.74,
-            24.93
+            23.42,
+            23.53,
+            23.24,
+            23.22,
+            23.41,
+            23.76,
+            23.93,
+            24.04,
+            24.28,
+            24.33,
+            24.34,
+            24.77
         ],
         "hsd_history_software": [
-            9.81,
-            9.91,
-            9.98,
-            10.12,
-            10.14,
-            10.17,
-            10.15,
-            10.07,
-            9.96,
-            10.04,
+            9.76,
+            9.69,
+            9.69,
+            9.73,
+            9.57,
+            9.75,
+            9.85,
             9.88,
-            9.87
+            10.07,
+            10.24,
+            10.09,
+            10.09
         ],
         "rci_data": [
             85.0,
-            21.202
+            21.217
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:12",
+            "time": "20:29",
             "tag": "MERCADO",
-            "text": "Synopsys stock hits 52-week low at 365.87 USD"
+            "text": "Jim Cramer Says Adobe (ADBE) Could Be a Short-Squeeze Candidate"
         },
         {
-            "time": "17:09",
+            "time": "20:12",
             "tag": "MERCADO",
-            "text": "Teledyne Space Imaging Sensors Launch on ESA\u2019s Sentinel-3C and FLEX Missions"
+            "text": "FIS stock hits 52-week low at 37.4 USD"
         },
         {
-            "time": "16:27",
+            "time": "20:11",
             "tag": "MERCADO",
-            "text": "Chubb Sued by Call Center Over Adidas Cyber Breach Settlement"
+            "text": "Why is Jack Henry & Associates stock sliding today? By Investing.com"
         },
         {
-            "time": "16:06",
+            "time": "20:10",
             "tag": "MERCADO",
-            "text": "Skyworks Solutions Stock Tops S&P 500. The Apple Supplier Picks Up Where It Left Off."
+            "text": "Amex accelerates its encroachment on business banking"
         },
         {
-            "time": "15:55",
-            "tag": "AI",
-            "text": "Microsoft Adds Brand Kit and New AI Skills to Copilot in PowerPoint"
+            "time": "20:01",
+            "tag": "MERCADO",
+            "text": "Micron Appoints Deirdre Hanford to Lead Micron Research Labs"
         }
     ]
 }
