@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-16 05:44 UTC",
+        "last_updated": "2026-09-16 11:04 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 212.17,
-            "change": "-1.7%"
+            "change": "+2.06%"
         },
         {
             "symbol": "AMD",
             "price": 504.2,
-            "change": "+2.82%"
+            "change": "+3.04%"
         },
         {
             "symbol": "MSFT",
             "price": 497.12,
-            "change": "-2.68%"
+            "change": "-2.63%"
         },
         {
             "symbol": "CEG",
             "price": 259.89,
-            "change": "+0.7%"
+            "change": "+0.5%"
         },
         {
             "symbol": "VST",
             "price": 141.53,
-            "change": "+1.21%"
+            "change": "-1.06%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.49,
+        "cer_current": 0.65,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.51,
             0.5,
             0.5,
             0.51,
             0.5,
-            0.5
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.21,
-            25.08,
-            24.83,
-            24.64,
-            25.0,
-            25.09,
-            25.07,
-            24.94,
-            24.8,
-            24.54,
-            25.04,
-            25.42
+            25.93,
+            26.26,
+            25.91,
+            25.46,
+            25.7,
+            25.87,
+            25.4,
+            25.2,
+            25.01,
+            24.82,
+            24.99,
+            24.68
         ],
         "hsd_history_software": [
-            10.02,
-            10.01,
-            9.89,
-            9.84,
-            9.84,
-            9.83,
-            9.92,
-            10.01,
-            10.07,
-            10.01,
-            9.93,
-            9.81
+            9.08,
+            9.2,
+            9.36,
+            9.54,
+            9.66,
+            9.79,
+            9.72,
+            9.75,
+            9.57,
+            9.66,
+            9.76,
+            9.88
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:27",
+            "time": "10:33",
             "tag": "MERCADO",
-            "text": "Akamai Technologies stock heads into the open after a 0.2% dip"
+            "text": "Medtronic announces FDA clearance for LigaSure\u2122 RAS Maryland instrument on the Hugo\u2122 RAS system"
         },
         {
-            "time": "05:00",
+            "time": "10:28",
+            "tag": "MERCADO",
+            "text": "Microsoft files to build data center campus in Prince William County, Virginia"
+        },
+        {
+            "time": "09:56",
             "tag": "AI",
-            "text": "CTM360 Set to Showcase Next-Gen Cyber Threat Intelligence at Gartner\u00ae Security & Risk Management Summit 2026"
+            "text": "Qualcomm (NASDAQ: QCOM) Hits Two-Month High As Amazon AI Chip Deal Reshapes Growth Outlook"
         },
         {
-            "time": "04:15",
+            "time": "09:52",
             "tag": "MERCADO",
-            "text": "Teledyne e2v Launches Perciva ToF 3D Camera"
+            "text": "The Zacks Analyst Blog Highlights S&P Global, Cloudflare, Canadian Natural Resources, Star Group and Hour Loop"
         },
         {
-            "time": "03:20",
-            "tag": "RESULTADOS",
-            "text": "Should Upbeat Earnings Revisions and Zacks Rank Upgrade Require Action From Emerson Electric (EMR) Investors?"
-        },
-        {
-            "time": "02:55",
+            "time": "09:49",
             "tag": "MERCADO",
-            "text": "D-Wave Quantum Inc. (QBTS) Investigation: Bronstein, Gewirtz & Grossman, LLC Encourages Investors to Contact the Firm to Learn More About the Investigation"
+            "text": "Raymond James Adjusts PT on Jack Henry & Associates to $199 From $192, Keeps Strong Buy Rating"
         }
     ]
 }
