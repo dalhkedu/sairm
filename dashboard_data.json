@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-09-16 11:04 UTC",
+        "last_updated": "2026-09-16 16:24 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 212.17,
-            "change": "+2.06%"
+            "price": 215.74,
+            "change": "+1.83%"
         },
         {
             "symbol": "AMD",
-            "price": 504.2,
-            "change": "+3.04%"
+            "price": 523.16,
+            "change": "+2.83%"
         },
         {
             "symbol": "MSFT",
-            "price": 497.12,
-            "change": "-2.63%"
+            "price": 493.51,
+            "change": "+1.96%"
         },
         {
             "symbol": "CEG",
-            "price": 259.89,
-            "change": "+0.5%"
+            "price": 257.56,
+            "change": "-1.87%"
         },
         {
             "symbol": "VST",
-            "price": 141.53,
-            "change": "-1.06%"
+            "price": 141.54,
+            "change": "+2.68%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
-        "rci_current": 0.21,
+        "cer_current": 0.44,
+        "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.5,
+            0.5,
+            0.49,
+            0.5,
             0.51,
             0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
             0.49,
             0.49,
             0.49,
-            0.49,
+            0.48,
+            0.48,
             0.49
         ],
         "hsd_history_hardware": [
-            25.93,
-            26.26,
-            25.91,
-            25.46,
-            25.7,
-            25.87,
-            25.4,
-            25.2,
-            25.01,
-            24.82,
+            23.78,
+            23.85,
+            24.32,
+            24.79,
+            24.53,
+            24.1,
+            24.51,
+            24.76,
+            24.37,
+            24.59,
             24.99,
-            24.68
+            24.79
         ],
         "hsd_history_software": [
-            9.08,
-            9.2,
-            9.36,
+            9.3,
+            9.32,
+            9.47,
+            9.34,
+            9.37,
             9.54,
-            9.66,
-            9.79,
-            9.72,
+            9.52,
+            9.6,
+            9.7,
             9.75,
-            9.57,
-            9.66,
-            9.76,
-            9.88
+            9.94,
+            10.09
         ],
         "rci_data": [
             85.0,
-            21.217
+            21.574
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:33",
-            "tag": "MERCADO",
-            "text": "Medtronic announces FDA clearance for LigaSure\u2122 RAS Maryland instrument on the Hugo\u2122 RAS system"
-        },
-        {
-            "time": "10:28",
-            "tag": "MERCADO",
-            "text": "Microsoft files to build data center campus in Prince William County, Virginia"
-        },
-        {
-            "time": "09:56",
+            "time": "15:23",
             "tag": "AI",
-            "text": "Qualcomm (NASDAQ: QCOM) Hits Two-Month High As Amazon AI Chip Deal Reshapes Growth Outlook"
+            "text": "Keysight's 56% Order Jump Puts AI Demand and Q4 Guidance in Focus"
         },
         {
-            "time": "09:52",
-            "tag": "MERCADO",
-            "text": "The Zacks Analyst Blog Highlights S&P Global, Cloudflare, Canadian Natural Resources, Star Group and Hour Loop"
+            "time": "15:18",
+            "tag": "AI",
+            "text": "Keysight Falls 11.1% in 3 Months While AI Demand Keeps Accelerating"
         },
         {
-            "time": "09:49",
+            "time": "15:03",
             "tag": "MERCADO",
-            "text": "Raymond James Adjusts PT on Jack Henry & Associates to $199 From $192, Keeps Strong Buy Rating"
+            "text": "Uber stock adds nationwide Costco delivery, waives fees on orders over $60"
+        },
+        {
+            "time": "15:02",
+            "tag": "MERCADO",
+            "text": "William D Mosley Implements A Sell Strategy: Offloads $1.46M In Seagate Technology Hldgs Stock"
+        },
+        {
+            "time": "14:59",
+            "tag": "AI",
+            "text": "GEHC Launches CareIntellect AI Tool to Optimize Hospital Operations"
         }
     ]
 }
