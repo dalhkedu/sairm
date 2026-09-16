@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-15 21:57 UTC",
+        "last_updated": "2026-09-16 00:07 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 212.17,
-            "change": "+1.69%"
+            "change": "-2.24%"
         },
         {
             "symbol": "AMD",
             "price": 504.2,
-            "change": "+0.61%"
+            "change": "-1.52%"
         },
         {
             "symbol": "MSFT",
             "price": 497.12,
-            "change": "-3.48%"
+            "change": "-1.9%"
         },
         {
             "symbol": "CEG",
             "price": 259.89,
-            "change": "-1.97%"
+            "change": "+1.08%"
         },
         {
             "symbol": "VST",
             "price": 141.53,
-            "change": "+1.97%"
+            "change": "+0.03%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.6,
+        "cer_current": 0.59,
         "rci_current": 0.21,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.48,
-            0.48,
-            0.47,
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
+            0.51,
             0.5,
-            0.51
+            0.51,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.42,
-            23.53,
-            23.24,
-            23.22,
-            23.41,
-            23.76,
-            23.93,
-            24.04,
-            24.28,
-            24.33,
-            24.34,
-            24.77
+            25.48,
+            25.5,
+            25.2,
+            24.76,
+            24.64,
+            25.03,
+            25.26,
+            24.93,
+            24.63,
+            24.76,
+            24.74,
+            24.86
         ],
         "hsd_history_software": [
-            9.76,
-            9.69,
-            9.69,
-            9.73,
-            9.57,
-            9.75,
-            9.85,
-            9.88,
-            10.07,
+            10.36,
+            10.38,
+            10.53,
+            10.45,
             10.24,
-            10.09,
-            10.09
+            10.12,
+            9.97,
+            9.98,
+            9.98,
+            10.08,
+            10.0,
+            9.88
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:29",
+            "time": "23:26",
             "tag": "MERCADO",
-            "text": "Jim Cramer Says Adobe (ADBE) Could Be a Short-Squeeze Candidate"
+            "text": "Reynders McVeigh Capital Management LLC Sells 4,424 Shares of Analog Devices, Inc. $ADI"
         },
         {
-            "time": "20:12",
+            "time": "22:26",
             "tag": "MERCADO",
-            "text": "FIS stock hits 52-week low at 37.4 USD"
+            "text": "F5 chief product marketing officer sells $82,872 of common stock By Investing.com"
         },
         {
-            "time": "20:11",
+            "time": "21:52",
             "tag": "MERCADO",
-            "text": "Why is Jack Henry & Associates stock sliding today? By Investing.com"
+            "text": "CenterPoint Energy confirms customer information exposed in data breach"
         },
         {
-            "time": "20:10",
+            "time": "21:44",
             "tag": "MERCADO",
-            "text": "Amex accelerates its encroachment on business banking"
+            "text": "Align Technology stock gains as estimates hold at USD 11.31"
         },
         {
-            "time": "20:01",
+            "time": "21:40",
             "tag": "MERCADO",
-            "text": "Micron Appoints Deirdre Hanford to Lead Micron Research Labs"
+            "text": "Form 8K Uber Technologies Inc For: 15 September By Investing.com"
         }
     ]
 }
