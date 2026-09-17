@@ -1,33 +1,33 @@
 {
     "metadata": {
-        "last_updated": "2026-09-16 22:43 UTC",
+        "last_updated": "2026-09-17 01:09 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 213.9,
-            "change": "+0.46%"
+            "change": "-1.97%"
         },
         {
             "symbol": "AMD",
             "price": 512.5,
-            "change": "-1.03%"
+            "change": "+0.98%"
         },
         {
             "symbol": "MSFT",
             "price": 490.3,
-            "change": "+3.08%"
+            "change": "-2.91%"
         },
         {
             "symbol": "CEG",
             "price": 259.53,
-            "change": "-2.29%"
+            "change": "+1.13%"
         },
         {
             "symbol": "VST",
             "price": 140.39,
-            "change": "-0.68%"
+            "change": "-1.91%"
         }
     ],
     "dashboard_metrics": {
@@ -36,46 +36,46 @@
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.47,
-            0.47,
-            0.48,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
-            0.5,
-            0.5,
             0.51,
-            0.52,
-            0.51
+            0.5,
+            0.5,
+            0.49,
+            0.48,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            27.72,
-            27.67,
-            27.21,
-            26.84,
-            26.8,
-            26.48,
+            25.9,
+            26.25,
             26.34,
-            26.14,
-            25.64,
-            25.28,
-            25.11,
-            25.27
+            26.75,
+            26.64,
+            26.58,
+            26.2,
+            25.75,
+            25.58,
+            25.19,
+            25.59,
+            25.25
         ],
         "hsd_history_software": [
-            10.74,
-            10.86,
-            10.65,
-            10.47,
-            10.58,
-            10.42,
             10.34,
-            10.16,
-            10.11,
+            10.38,
+            10.27,
             10.08,
-            10.03,
-            10.12
+            10.19,
+            10.13,
+            10.06,
+            10.02,
+            9.88,
+            9.76,
+            9.9,
+            10.06
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:30",
+            "time": "00:11",
             "tag": "MERCADO",
-            "text": "International Business Machines (NYSE:IBM) Trading Down 4.3% - Here's Why"
+            "text": "eBay Launches UK Fitment Plus Auto, Adds Watch Authentication In Australia"
         },
         {
-            "time": "21:30",
-            "tag": "MERCADO",
-            "text": "Ellen Siminoff Sells 334 Shares of Take-Two Interactive Software (NASDAQ:TTWO) Stock"
-        },
-        {
-            "time": "21:14",
-            "tag": "MERCADO",
-            "text": "Synopsys (NASDAQ:SNPS) CEO Sassine Ghazi Sells 14,604 Shares of Stock"
-        },
-        {
-            "time": "20:58",
-            "tag": "MERCADO",
-            "text": "Generac Enters Strategic Equity-Linked Supply Deal With Amazon"
-        },
-        {
-            "time": "20:52",
+            "time": "23:58",
             "tag": "AI",
-            "text": "KKR Doubles Private Debt Deals to $80 Billion as AI Spending Explodes"
+            "text": "SailPoint (SAIL) Reaches $1.2 Billion ARR. Can AI Growth Lift Revenue and Cash Flow?"
+        },
+        {
+            "time": "23:41",
+            "tag": "MERCADO",
+            "text": "Snap\u2019s losses set to shrink as revenue growth and cost cuts take hold"
+        },
+        {
+            "time": "23:10",
+            "tag": "MERCADO",
+            "text": "NetApp (NASDAQ:NTAP) Director Sells $684,185.04 in Stock"
+        },
+        {
+            "time": "22:43",
+            "tag": "MERCADO",
+            "text": "Seagate (STX) Retired its 2028 Notes. Was the Cash and Share Cost Worth it?"
         }
     ]
 }
