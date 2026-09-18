@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-09-18 09:28 UTC",
+        "last_updated": "2026-09-18 14:12 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 219.34,
-            "change": "+2.61%"
+            "price": 220.55,
+            "change": "-2.34%"
         },
         {
             "symbol": "AMD",
-            "price": 545.09,
-            "change": "+3.49%"
+            "price": 549.12,
+            "change": "+1.67%"
         },
         {
             "symbol": "MSFT",
-            "price": 497.75,
-            "change": "+0.86%"
+            "price": 492.95,
+            "change": "-2.23%"
         },
         {
             "symbol": "CEG",
-            "price": 262.8,
-            "change": "-0.25%"
+            "price": 258.38,
+            "change": "-3.2%"
         },
         {
             "symbol": "VST",
-            "price": 143.56,
-            "change": "+2.74%"
+            "price": 141.71,
+            "change": "-2.86%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.56,
+        "cer_current": 0.57,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
+            0.53,
+            0.54,
+            0.53,
+            0.52,
+            0.52,
             0.51,
-            0.5,
+            0.51,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            22.51,
-            22.82,
-            23.28,
-            23.54,
-            23.98,
-            24.45,
-            24.58,
-            24.69,
-            25.05,
-            25.22,
-            25.14,
-            24.88
+            24.68,
+            24.4,
+            24.37,
+            24.65,
+            24.26,
+            24.39,
+            24.48,
+            24.15,
+            24.48,
+            24.35,
+            24.39,
+            24.54
         ],
         "hsd_history_software": [
-            9.47,
-            9.47,
-            9.56,
-            9.62,
-            9.61,
-            9.65,
-            9.8,
-            9.8,
-            9.74,
-            9.82,
-            9.95,
-            9.99
+            8.92,
+            9.03,
+            9.12,
+            9.27,
+            9.33,
+            9.45,
+            9.63,
+            9.57,
+            9.51,
+            9.69,
+            9.88,
+            9.8
         ],
         "rci_data": [
             85.0,
-            21.934
+            22.055000000000003
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:04",
+            "time": "12:35",
             "tag": "MERCADO",
-            "text": "Emerson Simplifies Liquid Analysis to Improve Operational Efficiency"
+            "text": "CrowdStrike and Palo Alto Networks Are Soaring, but Is the Rally Already Priced In?"
         },
         {
-            "time": "07:56",
+            "time": "12:33",
             "tag": "MERCADO",
-            "text": "Van Hulzen Asset Management LLC Has $31.69 Million Stock Holdings in International Business Machines Corporation $IBM"
+            "text": "Joby Says it Completed First Fully Autonomous Flight Across the U.S."
         },
         {
-            "time": "07:42",
+            "time": "12:30",
             "tag": "MERCADO",
-            "text": "SLB lands North Sea production surveillance work"
+            "text": "Joby Completes First-Ever Fully Autonomous Flight Across the United States"
         },
         {
-            "time": "07:40",
-            "tag": "MERCADO",
-            "text": "Mystic Asset Management Inc. Makes New Investment in Amazon.com, Inc. $AMZN"
+            "time": "12:05",
+            "tag": "AI",
+            "text": "AI Server Stocks Surge In Hardware Rotation: Hewlett Packard Enterprise (NYSE: HPE) Jumps 9%, Super Micro (NASDAQ: SMCI) Climbs 6%, Dell (NYSE: DELL) Rises 3%"
         },
         {
-            "time": "07:40",
+            "time": "11:51",
             "tag": "MERCADO",
-            "text": "Corient Private Wealth LP Purchases 5,484 Shares of Take-Two Interactive Software, Inc. $TTWO"
+            "text": "Jim Cramer Says Hewlett Packard Enterprise (HPE) Has the \u201cHorses\u201d but Remains a Dell (DELL) \u201cFan\u201d"
         }
     ]
 }
