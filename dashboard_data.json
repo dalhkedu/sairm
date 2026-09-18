@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-09-18 14:12 UTC",
+        "last_updated": "2026-09-18 18:09 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 220.55,
-            "change": "-2.34%"
+            "price": 219.48,
+            "change": "-3.1%"
         },
         {
             "symbol": "AMD",
-            "price": 549.12,
-            "change": "+1.67%"
+            "price": 544.81,
+            "change": "+2.61%"
         },
         {
             "symbol": "MSFT",
-            "price": 492.95,
-            "change": "-2.23%"
+            "price": 494.63,
+            "change": "+0.18%"
         },
         {
             "symbol": "CEG",
-            "price": 258.38,
-            "change": "-3.2%"
+            "price": 256.88,
+            "change": "+2.57%"
         },
         {
             "symbol": "VST",
-            "price": 141.71,
-            "change": "-2.86%"
+            "price": 142.13,
+            "change": "-0.08%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.57,
+        "cer_current": 0.53,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.54,
-            0.53,
-            0.52,
-            0.52,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.5,
             0.51,
-            0.51,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.68,
-            24.4,
-            24.37,
-            24.65,
-            24.26,
-            24.39,
-            24.48,
+            24.16,
+            24.28,
             24.15,
-            24.48,
-            24.35,
-            24.39,
-            24.54
+            24.24,
+            24.73,
+            24.63,
+            25.06,
+            24.82,
+            24.78,
+            24.54,
+            24.89,
+            25.23
         ],
         "hsd_history_software": [
-            8.92,
-            9.03,
-            9.12,
-            9.27,
-            9.33,
-            9.45,
-            9.63,
-            9.57,
-            9.51,
-            9.69,
-            9.88,
-            9.8
+            10.36,
+            10.24,
+            10.18,
+            10.04,
+            9.93,
+            9.74,
+            9.73,
+            9.92,
+            9.86,
+            10.02,
+            10.01,
+            9.96
         ],
         "rci_data": [
             85.0,
-            22.055000000000003
+            21.947999999999997
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,9 @@
     ],
     "news_feed": [
         {
-            "time": "12:35",
-            "tag": "MERCADO",
-            "text": "CrowdStrike and Palo Alto Networks Are Soaring, but Is the Rally Already Priced In?"
-        },
-        {
-            "time": "12:33",
-            "tag": "MERCADO",
-            "text": "Joby Says it Completed First Fully Autonomous Flight Across the U.S."
-        },
-        {
-            "time": "12:30",
-            "tag": "MERCADO",
-            "text": "Joby Completes First-Ever Fully Autonomous Flight Across the United States"
-        },
-        {
-            "time": "12:05",
-            "tag": "AI",
-            "text": "AI Server Stocks Surge In Hardware Rotation: Hewlett Packard Enterprise (NYSE: HPE) Jumps 9%, Super Micro (NASDAQ: SMCI) Climbs 6%, Dell (NYSE: DELL) Rises 3%"
-        },
-        {
-            "time": "11:51",
-            "tag": "MERCADO",
-            "text": "Jim Cramer Says Hewlett Packard Enterprise (HPE) Has the \u201cHorses\u201d but Remains a Dell (DELL) \u201cFan\u201d"
+            "time": "INFO",
+            "tag": "LIMIT",
+            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
         }
     ]
 }
