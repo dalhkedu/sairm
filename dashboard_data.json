@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-20 00:47 UTC",
+        "last_updated": "2026-09-20 05:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 222.27,
-            "change": "-2.88%"
+            "change": "-3.15%"
         },
         {
             "symbol": "AMD",
             "price": 559.82,
-            "change": "-2.15%"
+            "change": "-2.54%"
         },
         {
             "symbol": "MSFT",
             "price": 493.78,
-            "change": "-1.61%"
+            "change": "+0.11%"
         },
         {
             "symbol": "CEG",
             "price": 254.71,
-            "change": "-2.04%"
+            "change": "+3.42%"
         },
         {
             "symbol": "VST",
             "price": 140.67,
-            "change": "+2.2%"
+            "change": "-0.77%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.54,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.5,
+            0.52,
             0.51,
+            0.52,
+            0.52,
             0.51,
+            0.52,
+            0.53,
+            0.53,
+            0.52,
             0.51,
             0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            27.54,
-            27.2,
-            26.78,
-            26.47,
-            26.36,
-            26.02,
+            25.72,
+            26.2,
+            26.2,
+            26.1,
+            26.14,
+            25.63,
+            25.73,
+            25.66,
+            25.45,
             25.61,
-            25.55,
-            25.77,
-            25.49,
-            25.14,
-            24.87
+            25.65,
+            25.23
         ],
         "hsd_history_software": [
-            9.51,
+            9.49,
+            9.62,
+            9.58,
+            9.65,
+            9.54,
+            9.45,
+            9.54,
+            9.61,
             9.66,
+            9.6,
             9.78,
-            9.83,
-            9.99,
-            9.9,
-            9.77,
-            9.85,
-            9.91,
-            10.05,
-            10.24,
-            10.17
+            9.93
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "04:21",
+            "tag": "MERCADO",
+            "text": "New Mountain Capital takes control of 3E from Verisk with Endicott"
+        },
+        {
+            "time": "02:48",
+            "tag": "MERCADO",
+            "text": "Is Novanta (NOVT) A Bargain Following Strong Growth And Demand Outlook?"
+        },
+        {
+            "time": "01:10",
+            "tag": "AI",
+            "text": "Synopsys Senior VP: \"AI Chip Thermal Challenges Must Be Solved Through System-Level Simulation\""
+        },
+        {
+            "time": "21:09",
+            "tag": "MERCADO",
+            "text": "Akamai Technologies stock edges lower despite solid Q2 2026 earnings"
+        },
+        {
             "time": "20:52",
             "tag": "MERCADO",
             "text": "Accel-KKR completes Accertify carve-out from American Express"
-        },
-        {
-            "time": "20:39",
-            "tag": "MERCADO",
-            "text": "Netflix Stock Gets Downgraded by Wells Fargo on \u2018Worrying\u2019 Engagement Trends"
-        },
-        {
-            "time": "20:12",
-            "tag": "CRYPTO",
-            "text": "Massive Crypto Acquisition: Why S&P Global Is Buying Blockchain Security Giant OpenZeppelin"
-        },
-        {
-            "time": "20:11",
-            "tag": "MERCADO",
-            "text": "Tesla Killed Its Solar Roof. Now Elon Musk Wants 100 GW of Solar"
-        },
-        {
-            "time": "20:06",
-            "tag": "AI",
-            "text": "Equinix Sees AI Driving Data Center Demand, Interconnection Growth"
         }
     ]
 }
