@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-20 21:15 UTC",
+        "last_updated": "2026-09-20 23:56 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 222.27,
-            "change": "+1.01%"
+            "change": "-1.07%"
         },
         {
             "symbol": "AMD",
             "price": 559.82,
-            "change": "+0.51%"
+            "change": "+0.08%"
         },
         {
             "symbol": "MSFT",
             "price": 493.78,
-            "change": "+1.89%"
+            "change": "+0.14%"
         },
         {
             "symbol": "CEG",
             "price": 254.71,
-            "change": "-1.9%"
+            "change": "-0.7%"
         },
         {
             "symbol": "VST",
             "price": 140.67,
-            "change": "+0.88%"
+            "change": "+3.15%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
+        "cer_current": 0.6,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.51,
-            0.51,
-            0.52,
-            0.52,
             0.52,
             0.51,
-            0.51,
+            0.5,
             0.51,
             0.51,
             0.5,
+            0.5,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            25.02,
-            25.39,
-            25.05,
-            25.04,
-            25.17,
-            24.89,
-            24.56,
-            24.16,
-            24.39,
-            24.22,
-            24.68,
-            24.87
+            24.45,
+            24.85,
+            24.9,
+            25.01,
+            25.28,
+            24.88,
+            24.66,
+            24.36,
+            24.17,
+            24.01,
+            24.37,
+            24.59
         ],
         "hsd_history_software": [
-            9.72,
-            9.59,
+            9.67,
+            9.52,
+            9.62,
+            9.56,
+            9.66,
+            9.68,
             9.5,
-            9.46,
-            9.65,
-            9.82,
-            9.76,
-            9.89,
-            9.78,
-            9.7,
-            9.86,
-            9.87
+            9.57,
+            9.43,
+            9.5,
+            9.69,
+            9.82
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
+            "time": "22:19",
+            "tag": "MERCADO",
+            "text": "InvestingPro predicted Quantum Computing\u2019s 48% drop 11 months early By Investing.com"
+        },
+        {
+            "time": "21:23",
+            "tag": "AI",
+            "text": "The AI Slowdown Trade Has Some Winners: CrowdStrike and Palo Alto Rally While Chips Fall"
+        },
+        {
+            "time": "21:18",
+            "tag": "MERCADO",
+            "text": "Claim Form Open: $250 million Apple iPhone false advertising class action settlement"
+        },
+        {
+            "time": "20:56",
+            "tag": "MERCADO",
+            "text": "Oregon Woman\u2019s Lawsuit Alleges Apple AirTag Enabled Stalking by Ex-Boyfriend"
+        },
+        {
             "time": "20:13",
             "tag": "MERCADO",
             "text": "L3Harris says digital KC-135 cockpit upgrade can keep U.S. tanker fleet mission-ready beyond 2050 and reduce sustainment costs"
-        },
-        {
-            "time": "16:47",
-            "tag": "MERCADO",
-            "text": "Joby Aviation's Electric Air Taxi Prospects"
-        },
-        {
-            "time": "14:30",
-            "tag": "MERCADO",
-            "text": "Dig: Alif Semiconductor \u2014 ADI ACQ premature (to-acquire \u2260 closed)"
-        },
-        {
-            "time": "14:28",
-            "tag": "MERCADO",
-            "text": "Could Diodes (NASDAQ:DIOD) Spark A New Semiconductor Story?"
-        },
-        {
-            "time": "12:39",
-            "tag": "MERCADO",
-            "text": "Qualcomm completes Modular acquisition \u2014 SEC close EV ~$3.1B (Class A Dig from $4.0B)"
         }
     ]
 }
