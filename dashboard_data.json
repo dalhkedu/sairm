@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-20 10:54 UTC",
+        "last_updated": "2026-09-20 14:35 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 222.27,
-            "change": "-2.96%"
+            "change": "-0.72%"
         },
         {
             "symbol": "AMD",
             "price": 559.82,
-            "change": "-1.15%"
+            "change": "-2.26%"
         },
         {
             "symbol": "MSFT",
             "price": 493.78,
-            "change": "-2.57%"
+            "change": "+1.5%"
         },
         {
             "symbol": "CEG",
             "price": 254.71,
-            "change": "+1.87%"
+            "change": "+0.17%"
         },
         {
             "symbol": "VST",
             "price": 140.67,
-            "change": "+2.8%"
+            "change": "-0.56%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.54,
+        "cer_current": 0.58,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
+            0.52,
+            0.52,
             0.51,
             0.52,
             0.51,
+            0.5,
+            0.5,
+            0.51,
+            0.52,
             0.51,
             0.5,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            25.26,
-            25.11,
-            24.9,
-            24.85,
-            24.44,
-            24.93,
-            24.76,
-            25.21,
+            24.58,
+            24.88,
+            24.97,
+            25.44,
             25.17,
+            24.8,
+            24.49,
+            24.87,
+            25.26,
+            25.19,
             25.24,
-            25.32,
-            24.86
+            24.87
         ],
         "hsd_history_software": [
-            10.33,
-            10.37,
-            10.45,
-            10.34,
-            10.37,
-            10.34,
-            10.2,
+            9.57,
+            9.43,
+            9.43,
+            9.6,
+            9.58,
+            9.76,
+            9.86,
+            9.94,
             10.03,
-            9.84,
-            9.91,
-            9.89,
-            10.05
+            10.09,
+            9.97,
+            9.87
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:09",
+            "time": "12:39",
             "tag": "MERCADO",
-            "text": "51,916 Shares in Synopsys, Inc. $SNPS Acquired by Nykredit A S"
+            "text": "Qualcomm completes Modular acquisition \u2014 SEC close EV ~$3.1B (Class A Dig from $4.0B)"
         },
         {
-            "time": "08:07",
+            "time": "12:15",
             "tag": "MERCADO",
-            "text": "Bank of America Corp DE Buys Shares of 2,046,240 Match Group Inc. $MTCH"
+            "text": "Morgan Stanley says stocks like Warner Music are a table-pounding buy right now"
         },
         {
-            "time": "07:45",
+            "time": "11:59",
             "tag": "MERCADO",
-            "text": "Baird Financial Group Inc. Has $962,000 Stake in eBay Inc. $EBAY"
+            "text": "3 Buy-Rated REITs Collecting Rent From Warehouses, Data Centers and Shopping Centers"
         },
         {
-            "time": "07:44",
+            "time": "10:33",
             "tag": "MERCADO",
-            "text": "Nykredit A S Purchases New Shares in Intuit Inc. $INTU"
+            "text": "Vulkan 1.4.363 Released With New VK_INTEL_device_info Extension"
         },
         {
-            "time": "07:41",
+            "time": "09:56",
             "tag": "MERCADO",
-            "text": "Quantbot Technologies LP Makes New $14.69 Million Investment in Amazon.com, Inc. $AMZN"
+            "text": "Paycom Software stock holds steady as investors watch post-earnings trajectory"
         }
     ]
 }
