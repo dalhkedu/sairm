@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-21 20:51 UTC",
+        "last_updated": "2026-09-21 23:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 227.38,
-            "change": "+2.42%"
+            "change": "+3.08%"
         },
         {
             "symbol": "AMD",
             "price": 615.52,
-            "change": "-2.8%"
+            "change": "-3.4%"
         },
         {
             "symbol": "MSFT",
-            "price": NaN,
-            "change": "+2.55%"
+            "price": 501.61,
+            "change": "-3.2%"
         },
         {
             "symbol": "CEG",
             "price": 262.11,
-            "change": "-2.01%"
+            "change": "-2.35%"
         },
         {
             "symbol": "VST",
             "price": 140.78,
-            "change": "-0.23%"
+            "change": "-0.19%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.62,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
+            0.51,
+            0.51,
             0.51,
             0.52,
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            24.04,
+            23.5,
+            23.91,
+            24.17,
             24.36,
-            23.89,
-            24.0,
-            23.81,
-            24.16,
+            23.96,
+            23.91,
+            23.56,
+            23.88,
+            24.08,
             24.43,
-            24.82,
-            24.62,
-            25.08,
-            25.43,
-            25.34
+            24.08,
+            24.52
         ],
         "hsd_history_software": [
-            10.06,
-            9.98,
-            10.18,
+            9.45,
+            9.46,
+            9.64,
+            9.82,
+            9.71,
+            9.84,
+            9.94,
+            9.89,
+            9.91,
+            10.09,
             10.13,
-            9.98,
-            10.15,
-            10.13,
-            10.17,
-            9.97,
-            10.15,
-            10.26,
-            10.06
+            10.03
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:19",
+            "time": "22:40",
             "tag": "MERCADO",
-            "text": "Meta\u2019s Muse is outpacing ChatGPT\u2019s early mobile launch"
+            "text": "Amazon blocks Meta\u2019s Muse agent from shopping on users\u2019 behalf"
         },
         {
-            "time": "19:15",
+            "time": "21:59",
             "tag": "MERCADO",
-            "text": "Could Enphase Energy (NASDAQ:ENPH) Redefine Solar Tech?"
+            "text": "Morgan Stanley Cuts Expedia (EXPE) to Underweight as Rivals Pull Ahead on Users"
         },
         {
-            "time": "19:14",
+            "time": "21:57",
             "tag": "MERCADO",
-            "text": "SanDisk Falls 2% Despite Memory Rally; Micron Advances 3%, Western Digital Nudges Higher"
+            "text": "Dell Technologies CFO David Alan Kennedy Sells Nearly 24,000 Class C Shares in September 2026"
         },
         {
-            "time": "19:11",
+            "time": "21:56",
             "tag": "MERCADO",
-            "text": "Marvell Stock (MRVL) Rises as Morgan Stanley Lifts Price Target Ahead of Oct. 6 Investor Day"
+            "text": "Southern Co unit signs deal with Google to add nuclear capacity"
         },
         {
-            "time": "18:56",
-            "tag": "AI",
-            "text": "Meta's Muse personal AI agent tops ChatGPT, Grok and Claude for post-launch downloads"
+            "time": "21:45",
+            "tag": "MERCADO",
+            "text": "Micron (MU) Beats Stock Market Upswing: What Investors Need to Know"
         }
     ]
 }
