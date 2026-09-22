@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-09-22 09:13 UTC",
+        "last_updated": "2026-09-22 14:27 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 227.38,
-            "change": "-2.79%"
+            "price": 228.27,
+            "change": "+2.45%"
         },
         {
             "symbol": "AMD",
-            "price": 615.52,
-            "change": "+1.79%"
+            "price": 618.49,
+            "change": "-2.88%"
         },
         {
             "symbol": "MSFT",
-            "price": 501.61,
-            "change": "-3.17%"
+            "price": 497.18,
+            "change": "-0.77%"
         },
         {
             "symbol": "CEG",
-            "price": 262.11,
-            "change": "+2.43%"
+            "price": 263.5,
+            "change": "+2.53%"
         },
         {
             "symbol": "VST",
-            "price": 140.78,
-            "change": "-0.16%"
+            "price": 141.14,
+            "change": "+0.28%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.4,
+        "cer_current": 0.42,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
             0.52,
             0.52,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
             0.5,
             0.49,
-            0.5
+            0.49,
+            0.48,
+            0.47,
+            0.48,
+            0.49,
+            0.49,
+            0.49
         ],
         "hsd_history_hardware": [
-            25.96,
-            25.53,
-            25.62,
-            25.12,
-            25.45,
-            25.69,
-            25.62,
-            25.34,
-            25.71,
-            25.33,
-            25.16,
-            25.12
+            25.51,
+            25.87,
+            26.04,
+            25.55,
+            25.39,
+            25.23,
+            25.19,
+            25.15,
+            25.63,
+            25.42,
+            25.14,
+            24.9
         ],
         "hsd_history_software": [
-            9.95,
-            10.07,
-            10.05,
-            10.11,
+            9.93,
+            10.13,
+            10.04,
             10.02,
-            10.2,
-            10.14,
-            10.23,
-            10.4,
-            10.24,
-            10.3,
-            10.11
+            9.89,
+            9.89,
+            9.71,
+            9.86,
+            9.95,
+            10.12,
+            9.93,
+            9.8
         ],
         "rci_data": [
             85.0,
-            22.738
+            22.827
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "08:35",
+            "time": "13:15",
             "tag": "MERCADO",
-            "text": "NetApp, Inc. (NASDAQ:NTAP) Receives Average Rating of \"Hold\" from Analysts"
+            "text": "This Marathon Petroleum Analyst Is No Longer Bullish; Here Are Top 4 Downgrades For Tuesday"
         },
         {
-            "time": "08:05",
+            "time": "13:10",
+            "tag": "MERCADO",
+            "text": "Itron partners with Crytica to enhance grid cybersecurity By Investing.com"
+        },
+        {
+            "time": "13:05",
+            "tag": "MERCADO",
+            "text": "Analog Devices at U.S. All Stars Conference: recovery broadens"
+        },
+        {
+            "time": "12:45",
+            "tag": "MERCADO",
+            "text": "Prediction: Broadcom Will Be a $3 Trillion Company by the End of 2030"
+        },
+        {
+            "time": "12:45",
             "tag": "AI",
-            "text": "Alibaba Just Supercharged its AI Ambitions: New Zhenwu V900 AI Chip Promises 3X Performance, Targets 20GW"
-        },
-        {
-            "time": "07:42",
-            "tag": "MERCADO",
-            "text": "Front Street Capital Management Inc. Takes Position in Amazon.com, Inc. $AMZN"
-        },
-        {
-            "time": "07:42",
-            "tag": "MERCADO",
-            "text": "Vega Investment Solutions Acquires New Position in Amazon.com, Inc. $AMZN"
-        },
-        {
-            "time": "07:42",
-            "tag": "MERCADO",
-            "text": "110,000 Shares in Amazon.com, Inc. $AMZN Purchased by Wishbone Management LP"
+            "text": "Apple May Return to Servers With Its Own AI Chips. Nvidia Could Still Get Paid"
         }
     ]
 }
