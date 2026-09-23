@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-23 00:07 UTC",
+        "last_updated": "2026-09-23 05:37 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 228.87,
-            "change": "+3.1%"
+            "change": "-1.62%"
         },
         {
             "symbol": "AMD",
             "price": 623.77,
-            "change": "+0.32%"
+            "change": "+0.48%"
         },
         {
             "symbol": "MSFT",
             "price": 498.0,
-            "change": "-1.7%"
+            "change": "-1.08%"
         },
         {
             "symbol": "CEG",
-            "price": NaN,
-            "change": "-1.69%"
+            "price": 263.46,
+            "change": "-1.79%"
         },
         {
             "symbol": "VST",
             "price": 140.41,
-            "change": "+2.25%"
+            "change": "+1.86%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.51,
+        "cer_current": 0.42,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.49,
-            0.5,
+            0.53,
+            0.54,
+            0.53,
+            0.52,
+            0.53,
+            0.52,
             0.51,
+            0.51,
+            0.5,
+            0.49,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.31,
-            24.92,
-            24.93,
-            25.31,
-            24.82,
-            24.76,
-            24.85,
-            25.11,
+            25.12,
             25.02,
-            24.83,
-            24.5,
-            24.76
+            25.35,
+            24.95,
+            25.21,
+            24.8,
+            24.87,
+            25.12,
+            25.21,
+            24.75,
+            24.98,
+            24.5
         ],
         "hsd_history_software": [
-            9.61,
-            9.53,
-            9.69,
-            9.58,
-            9.77,
-            9.91,
-            10.05,
-            9.91,
-            9.8,
-            9.94,
-            9.77,
-            9.82
+            10.19,
+            10.13,
+            10.29,
+            10.24,
+            10.35,
+            10.16,
+            10.24,
+            10.12,
+            10.04,
+            9.87,
+            9.95,
+            9.84
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "22:45",
+            "time": "05:17",
             "tag": "MERCADO",
-            "text": "Nvidia\u2019s Cooling Stock Valuations Are Being Looked At As A Warning Signal"
+            "text": "FIS stock heads into the open after a 52-week low"
         },
         {
-            "time": "21:46",
+            "time": "05:16",
             "tag": "MERCADO",
-            "text": "Applied Materials (AMAT) Stock Moves 1.77%: What You Should Know"
+            "text": "How iPhone users can file to get up to $95 from a $250 million settlement"
         },
         {
-            "time": "21:45",
+            "time": "04:54",
             "tag": "MERCADO",
-            "text": "Uber Technologies (UBER) Stock Moves -1.34%: What You Should Know"
+            "text": "What Is Shaping Sentiment Around Rockwell Automation (ROK)?"
         },
         {
-            "time": "21:45",
+            "time": "04:52",
             "tag": "MERCADO",
-            "text": "AT&T (T) Stock Moves -1.38%: What You Should Know"
+            "text": "Analog Devices stock heads into the open after a 1.9 percent rise"
         },
         {
-            "time": "21:38",
+            "time": "04:30",
             "tag": "MERCADO",
-            "text": "Bloom Energy vs. NextEra Energy: Which Renewable Energy Stock Is a Better Buy in 2026?"
+            "text": "Aptiv plc stock heads into the open after a 2.39 percent gain"
         }
     ]
 }
