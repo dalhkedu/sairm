@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-09-23 11:01 UTC",
+        "last_updated": "2026-09-23 16:23 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 228.87,
-            "change": "-0.71%"
+            "price": 224.72,
+            "change": "-2.67%"
         },
         {
             "symbol": "AMD",
-            "price": 623.77,
-            "change": "-3.2%"
+            "price": 613.1,
+            "change": "-0.2%"
         },
         {
             "symbol": "MSFT",
-            "price": 498.0,
-            "change": "-1.08%"
+            "price": 498.83,
+            "change": "+2.24%"
         },
         {
             "symbol": "CEG",
-            "price": 263.46,
-            "change": "-2.49%"
+            "price": 263.08,
+            "change": "-3.34%"
         },
         {
             "symbol": "VST",
-            "price": 140.41,
-            "change": "+2.71%"
+            "price": 139.36,
+            "change": "-0.9%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.52,
-        "rci_current": 0.23,
+        "cer_current": 0.58,
+        "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.51,
+            0.5,
+            0.51,
+            0.5,
             0.49,
             0.49,
-            0.48,
             0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
             0.49,
             0.49,
             0.5,
-            0.49
+            0.51,
+            0.5
         ],
         "hsd_history_hardware": [
-            23.39,
-            22.97,
-            23.35,
-            23.47,
-            23.35,
-            23.73,
+            23.97,
+            24.07,
+            24.18,
+            24.47,
+            24.05,
             23.99,
-            24.27,
-            24.27,
+            23.77,
+            24.2,
+            24.21,
             24.57,
-            25.05,
-            24.69
+            24.68,
+            25.11
         ],
         "hsd_history_software": [
-            9.33,
-            9.5,
-            9.63,
-            9.73,
-            9.63,
-            9.78,
-            9.8,
-            9.72,
-            9.71,
-            9.77,
-            9.94,
-            9.94
+            10.47,
+            10.27,
+            10.09,
+            10.12,
+            10.05,
+            10.02,
+            10.17,
+            10.09,
+            9.9,
+            9.91,
+            9.96,
+            10.15
         ],
         "rci_data": [
             85.0,
-            22.887
+            22.472
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "10:40",
+            "time": "15:47",
             "tag": "MERCADO",
-            "text": "State Street Corp Buys 1,493,179 Shares of Palo Alto Networks, Inc. $PANW"
+            "text": "Northland Securities Maintains Terrestrial Energy(IMSR.US) With Buy Rating, Cuts Target Price to $8"
         },
         {
-            "time": "10:22",
+            "time": "15:38",
             "tag": "MERCADO",
-            "text": "Attackers hit Check Point Management Servers and Spark firewalls, F5 BIG-IP APM instances"
+            "text": "Texas Instruments stock gains 1.68 percent as earnings beat estimates"
         },
         {
-            "time": "10:19",
+            "time": "15:06",
             "tag": "MERCADO",
-            "text": "JOYY (NASDAQ:JOYY) Hits New 1-Year High - Still a Buy?"
+            "text": "PPG Low Temperature Cure automotive coating technology showcased at SURCAR Asia 2026"
         },
         {
-            "time": "10:06",
+            "time": "14:41",
             "tag": "MERCADO",
-            "text": "LG Display (NYSE:LPL) Upgraded to \"Hold\" at Zacks Research"
+            "text": "Corning Inc Stock (GLW) Moved Down by 3.63% on Sep 23: What Investors Need To Know"
         },
         {
-            "time": "09:56",
+            "time": "14:09",
             "tag": "MERCADO",
-            "text": "Why is Verizon Communications (NYSE:VZ) in focus amid today\u2019s communication stocks discussion?"
+            "text": "Skyworks Solutions stock hits 52-week high at 92.36 USD"
         }
     ]
 }
