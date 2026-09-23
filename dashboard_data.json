@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-09-23 20:00 UTC",
+        "last_updated": "2026-09-23 22:54 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 225.66,
-            "change": "+1.43%"
+            "price": NaN,
+            "change": "-1.18%"
         },
         {
             "symbol": "AMD",
-            "price": 614.78,
-            "change": "+0.91%"
+            "price": 614.61,
+            "change": "-1.7%"
         },
         {
             "symbol": "MSFT",
-            "price": 500.78,
-            "change": "-0.65%"
+            "price": 500.59,
+            "change": "-3.12%"
         },
         {
             "symbol": "CEG",
-            "price": 263.89,
-            "change": "-1.95%"
+            "price": 263.88,
+            "change": "-0.03%"
         },
         {
             "symbol": "VST",
-            "price": 137.91,
-            "change": "-1.74%"
+            "price": 137.97,
+            "change": "+2.97%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.67,
-        "rci_current": 0.23,
+        "cer_current": 0.5,
+        "rci_current": NaN,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.48,
             0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.48,
             0.49,
             0.5,
+            0.5,
             0.51,
-            0.52,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5
+            0.51
         ],
         "hsd_history_hardware": [
-            25.39,
-            25.4,
-            25.54,
+            25.29,
             25.74,
-            25.7,
-            25.72,
-            25.32,
-            25.15,
-            24.86,
-            24.81,
-            25.19,
-            24.79
+            25.87,
+            26.37,
+            25.92,
+            26.15,
+            25.93,
+            25.42,
+            25.4,
+            25.49,
+            25.13,
+            24.85
         ],
         "hsd_history_software": [
-            9.28,
-            9.37,
-            9.52,
-            9.57,
-            9.74,
+            9.73,
+            9.87,
+            9.7,
+            9.7,
+            9.87,
+            9.85,
             9.91,
-            9.99,
-            10.04,
-            10.22,
-            10.18,
-            10.26,
-            10.16
+            9.97,
+            9.84,
+            9.88,
+            10.07,
+            9.93
         ],
         "rci_data": [
             85.0,
-            22.566
+            NaN
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:05",
+            "time": "22:19",
+            "tag": "MERCADO",
+            "text": "Cisco Systems Inc (CSCO) Stock Down 4.5% but Still Overvalued -- GF Score: 85/100"
+        },
+        {
+            "time": "22:14",
             "tag": "AI",
-            "text": "Synopsys and TSMC Partner to Accelerate AI Systems Innovation with Agentic AI and Advanced Design"
+            "text": "\u2018A phone is unique to you, it\u2019s not going anywhere\u2019: Qualcomm CEO\u2019s big bet on Agentic AI as company unveils new mobile chips"
         },
         {
-            "time": "18:55",
-            "tag": "MERCADO",
-            "text": "Bumble Inc. (BMBL) stock price, news, quote and history"
-        },
-        {
-            "time": "18:43",
+            "time": "22:02",
             "tag": "AI",
-            "text": "Nvidia Backed This AI Drug Startup. AbbVie Just Became a Partner Before Its IPO"
+            "text": "Oracle puts database security controls beneath AI agents"
         },
         {
-            "time": "18:30",
+            "time": "21:44",
             "tag": "MERCADO",
-            "text": "Intel Falls 2.24% as Muse Keeps the CPU Thesis Alive"
+            "text": "Oracle shifts agent controls toward data-layer security"
         },
         {
-            "time": "18:28",
-            "tag": "MERCADO",
-            "text": "Akamai Technologies stock reports 5 percent Q2 revenue growth"
+            "time": "21:35",
+            "tag": "AI",
+            "text": "3 AI Stocks To Watch With Up To 68% Revenue Growth"
         }
     ]
 }
