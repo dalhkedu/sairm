@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-24 07:23 UTC",
+        "last_updated": "2026-09-24 13:22 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.51,
-            "change": "-0.85%"
+            "change": "-2.24%"
         },
         {
             "symbol": "AMD",
             "price": 614.61,
-            "change": "-1.05%"
+            "change": "+2.74%"
         },
         {
             "symbol": "MSFT",
             "price": 500.59,
-            "change": "-1.37%"
+            "change": "-0.11%"
         },
         {
             "symbol": "CEG",
-            "price": NaN,
-            "change": "-2.46%"
+            "price": 263.88,
+            "change": "-1.17%"
         },
         {
             "symbol": "VST",
             "price": 137.97,
-            "change": "-3.44%"
+            "change": "+3.37%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.41,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
             0.5,
             0.5,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.5,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
             0.49
         ],
         "hsd_history_hardware": [
-            24.51,
-            24.63,
-            24.92,
-            24.58,
-            24.43,
+            23.99,
+            23.53,
+            23.25,
+            23.67,
+            24.13,
+            23.96,
+            24.04,
+            23.87,
+            24.1,
+            24.0,
             24.32,
-            24.77,
-            24.9,
-            24.43,
-            24.88,
-            25.19,
-            24.86
+            24.69
         ],
         "hsd_history_software": [
-            9.64,
-            9.82,
-            9.92,
-            9.85,
-            9.82,
-            9.91,
-            9.87,
-            9.92,
-            9.91,
-            9.9,
-            9.97,
-            9.92
+            10.68,
+            10.47,
+            10.63,
+            10.49,
+            10.4,
+            10.26,
+            10.1,
+            10.05,
+            10.0,
+            9.86,
+            9.99,
+            9.97
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "05:38",
+            "time": "12:38",
             "tag": "MERCADO",
-            "text": "Form 4 NetApp Inc For: 23 September By Investing.com"
+            "text": "Trimble (TRMB) Unveiled Maxwell 8 GNSS Modules With Anti Jamming Protection"
         },
         {
-            "time": "05:38",
+            "time": "12:30",
             "tag": "MERCADO",
-            "text": "Keysight Technologies stock heads into the open after a 1.54 percent gain"
+            "text": "What Does the Ericsson Wallet Partnership Mean for FIS (NYSE:FIS)?"
         },
         {
-            "time": "05:09",
-            "tag": "MERCADO",
-            "text": "How (TBB) Movements Inform Risk Allocation Models"
+            "time": "11:43",
+            "tag": "AI",
+            "text": "Intapp (INTA) Lands AI Client Win, Is The Stock Still Cheap?"
         },
         {
-            "time": "03:38",
+            "time": "11:38",
             "tag": "MERCADO",
-            "text": "NetApp stock rises 1.8 percent ahead of the open"
+            "text": "Teradyne stock falls 2.40 percent despite strong Q2 results"
         },
         {
-            "time": "03:37",
+            "time": "11:38",
             "tag": "MERCADO",
-            "text": "Synopsys stock heads into the open after a 0.93 percent gain"
+            "text": "Qualcomm Renews Global Licensing Pact with Apple Starting 2027"
         }
     ]
 }
