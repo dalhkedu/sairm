@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-09-24 18:19 UTC",
+        "last_updated": "2026-09-24 22:05 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 223.82,
-            "change": "+1.97%"
+            "price": 224.58,
+            "change": "-2.4%"
         },
         {
             "symbol": "AMD",
-            "price": 620.07,
-            "change": "-0.54%"
+            "price": 629.26,
+            "change": "+0.56%"
         },
         {
             "symbol": "MSFT",
-            "price": 496.4,
-            "change": "+2.37%"
+            "price": 497.93,
+            "change": "-0.91%"
         },
         {
             "symbol": "CEG",
-            "price": 262.19,
-            "change": "-2.66%"
+            "price": 261.62,
+            "change": "-3.04%"
         },
         {
             "symbol": "VST",
-            "price": 138.73,
-            "change": "-1.88%"
+            "price": 137.94,
+            "change": "-1.24%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.53,
+        "cer_current": 0.45,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.5,
-            0.51,
-            0.5,
-            0.51,
             0.5,
             0.5,
             0.49,
-            0.49
+            0.5,
+            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            25.66,
-            25.95,
-            26.13,
-            26.32,
-            26.02,
-            25.59,
-            25.27,
+            25.12,
+            25.52,
+            25.71,
+            25.65,
+            25.34,
+            25.2,
+            24.8,
+            24.77,
             24.91,
-            24.75,
-            25.11,
-            24.67,
-            24.55
+            24.51,
+            24.79,
+            24.83
         ],
         "hsd_history_software": [
-            10.37,
-            10.38,
-            10.36,
-            10.24,
-            10.16,
-            9.99,
-            10.19,
-            10.18,
-            10.05,
-            9.9,
+            9.73,
+            9.86,
+            9.76,
+            9.89,
+            9.76,
+            9.6,
+            9.69,
+            9.86,
+            10.04,
+            10.01,
             10.0,
-            10.15
+            9.95
         ],
         "rci_data": [
             85.0,
-            22.381999999999998
+            22.458
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:46",
+            "time": "21:57",
             "tag": "MERCADO",
-            "text": "Hewlett Packard Enterprise stock reports 34% revenue growth"
+            "text": "HP Inc. stock falls 3.03 percent as PC outlook weighs"
         },
         {
-            "time": "16:58",
+            "time": "21:19",
             "tag": "MERCADO",
-            "text": "Fidelity National Information Services stock reports Q2 growth"
+            "text": "Sequans Communications receives NYSE noncompliance notice"
         },
         {
-            "time": "16:56",
-            "tag": "MERCADO",
-            "text": "Fair Isaac stock falls 1.16 percent as mortgage concerns persist"
+            "time": "21:17",
+            "tag": "AI",
+            "text": "Micron (MU) Stock Looks Cheap. But Is AI Growth Already Priced In?"
         },
         {
-            "time": "16:39",
+            "time": "21:00",
             "tag": "MERCADO",
-            "text": "IMAX Stock\u2019s Rally May Be Just The Start, Morgan Stanley Says \u2014 Why \u2018The Odyssey\u2019 Is Reshaping The Moviegoing Experience"
+            "text": "$1000 Invested In Lam Research 5 Years Ago Would Be Worth This Much Today"
         },
         {
-            "time": "16:38",
+            "time": "21:00",
             "tag": "MERCADO",
-            "text": "Skyworks Solutions and Universal Display Stocks Trade Down, What You Need To Know"
+            "text": "Zscaler Promotes Ross Tackett to Chief Revenue Officer"
         }
     ]
 }
