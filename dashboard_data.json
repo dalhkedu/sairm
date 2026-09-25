@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-24 22:05 UTC",
+        "last_updated": "2026-09-25 01:14 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 224.58,
-            "change": "-2.4%"
+            "change": "+2.54%"
         },
         {
             "symbol": "AMD",
             "price": 629.26,
-            "change": "+0.56%"
+            "change": "-0.76%"
         },
         {
             "symbol": "MSFT",
             "price": 497.93,
-            "change": "-0.91%"
+            "change": "-1.37%"
         },
         {
             "symbol": "CEG",
             "price": 261.62,
-            "change": "-3.04%"
+            "change": "+1.1%"
         },
         {
             "symbol": "VST",
             "price": 137.94,
-            "change": "-1.24%"
+            "change": "-0.17%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.45,
+        "cer_current": 0.69,
         "rci_current": 0.22,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.5,
+            0.49,
+            0.49,
+            0.49,
+            0.49,
             0.5,
             0.5,
             0.49,
             0.5,
-            0.49,
             0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.51,
-            0.51,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            25.12,
-            25.52,
-            25.71,
-            25.65,
-            25.34,
-            25.2,
+            23.63,
+            24.09,
+            23.89,
+            24.34,
+            24.69,
+            24.35,
+            24.74,
+            25.14,
             24.8,
-            24.77,
-            24.91,
-            24.51,
-            24.79,
-            24.83
+            25.11,
+            25.1,
+            24.97
         ],
         "hsd_history_software": [
-            9.73,
-            9.86,
-            9.76,
-            9.89,
-            9.76,
-            9.6,
-            9.69,
-            9.86,
-            10.04,
-            10.01,
-            10.0,
-            9.95
+            9.45,
+            9.56,
+            9.66,
+            9.77,
+            9.59,
+            9.67,
+            9.74,
+            9.87,
+            10.06,
+            10.13,
+            10.11,
+            10.08
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:57",
+            "time": "00:41",
             "tag": "MERCADO",
-            "text": "HP Inc. stock falls 3.03 percent as PC outlook weighs"
+            "text": "Google vs. Meta: A 38.7% Gap That Cost Investors $3,633"
         },
         {
-            "time": "21:19",
+            "time": "00:29",
             "tag": "MERCADO",
-            "text": "Sequans Communications receives NYSE noncompliance notice"
+            "text": "Tyler Technologies stock slips before the bell after September 24 close"
         },
         {
-            "time": "21:17",
+            "time": "00:09",
+            "tag": "MERCADO",
+            "text": "Enphase Energy, Inc. (ENPH) latest stock news and headlines"
+        },
+        {
+            "time": "23:46",
+            "tag": "MERCADO",
+            "text": "What Arizona Packaging Expansion Means For Amkor Technology (AMKR) Shareholders"
+        },
+        {
+            "time": "23:42",
             "tag": "AI",
-            "text": "Micron (MU) Stock Looks Cheap. But Is AI Growth Already Priced In?"
-        },
-        {
-            "time": "21:00",
-            "tag": "MERCADO",
-            "text": "$1000 Invested In Lam Research 5 Years Ago Would Be Worth This Much Today"
-        },
-        {
-            "time": "21:00",
-            "tag": "MERCADO",
-            "text": "Zscaler Promotes Ross Tackett to Chief Revenue Officer"
+            "text": "Market Chatter: Goldman Sachs Group's Rosner Says Firm Underweight AI Borrowers on Issuance Flood"
         }
     ]
 }
