@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-26 01:16 UTC",
+        "last_updated": "2026-09-26 07:14 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.07,
-            "change": "-3.27%"
+            "change": "+2.05%"
         },
         {
             "symbol": "AMD",
             "price": 630.63,
-            "change": "+2.7%"
+            "change": "+0.57%"
         },
         {
             "symbol": "MSFT",
             "price": 516.17,
-            "change": "+2.71%"
+            "change": "-2.0%"
         },
         {
             "symbol": "CEG",
             "price": 263.27,
-            "change": "-1.94%"
+            "change": "+1.13%"
         },
         {
             "symbol": "VST",
             "price": 138.46,
-            "change": "+1.75%"
+            "change": "+0.21%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.44,
+        "cer_current": 0.65,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
             0.53,
-            0.52,
-            0.52,
-            0.52,
             0.53,
-            0.52,
+            0.54,
+            0.55,
+            0.54,
             0.53,
             0.52,
             0.51,
-            0.51,
-            0.51
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.33,
-            25.28,
-            25.5,
-            25.26,
-            25.27,
-            25.4,
+            24.85,
             24.98,
-            25.2,
-            25.54,
-            25.05,
-            24.76,
-            25.16
+            25.18,
+            25.06,
+            24.77,
+            24.72,
+            25.1,
+            25.49,
+            25.01,
+            24.75,
+            25.1,
+            25.46
         ],
         "hsd_history_software": [
-            9.97,
-            9.84,
-            9.71,
-            9.71,
-            9.82,
-            9.87,
+            9.47,
+            9.39,
+            9.34,
+            9.51,
+            9.69,
+            9.83,
             9.89,
-            9.99,
-            9.96,
+            10.04,
+            10.24,
             10.13,
-            10.2,
-            10.11
+            10.18,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "00:23",
+            "time": "06:46",
             "tag": "MERCADO",
-            "text": "Newport Beach Police Department to expand drone program"
+            "text": "Form 4 Fortinet Inc For: 25 September By Investing.com"
         },
         {
-            "time": "23:30",
+            "time": "05:52",
             "tag": "MERCADO",
-            "text": "Apple Owes $5.7 Billion to Litigation-Funded Firm in Patent Case"
+            "text": "A Look at HubSpot Inc (HUBS) After 3.5% Decline -- GF Value $753"
         },
         {
-            "time": "23:23",
+            "time": "05:15",
             "tag": "MERCADO",
-            "text": "TrueBlue: Beneficiary Of Energy Infrastructure And Data Center Buildouts (NYSE:TBI)"
+            "text": "GSI Technology (NASDAQ:GSIT) Stock Rating Lowered by Wall Street Zen"
         },
         {
-            "time": "23:20",
+            "time": "05:03",
+            "tag": "MERCADO",
+            "text": "Is Tesla\u2019s (TSLA) Stock Really Priced Like a Car Company?"
+        },
+        {
+            "time": "04:12",
             "tag": "AI",
-            "text": "Let\u2019s Take a Closer Look at Amazon\u2019s (AMZN) Debt-Fueled AI Buildout"
-        },
-        {
-            "time": "22:55",
-            "tag": "MERCADO",
-            "text": "Braze, Inc. (BRZE) Stock Price, News, Quote & History"
+            "text": "Can Caterpillar (CAT) Keep Growing as Construction Slows? AI May Hold the Key"
         }
     ]
 }
