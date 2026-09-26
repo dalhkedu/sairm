@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-25 22:03 UTC",
+        "last_updated": "2026-09-26 01:16 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.07,
-            "change": "-1.59%"
+            "change": "-3.27%"
         },
         {
             "symbol": "AMD",
             "price": 630.63,
-            "change": "-3.09%"
+            "change": "+2.7%"
         },
         {
             "symbol": "MSFT",
             "price": 516.17,
-            "change": "+0.19%"
+            "change": "+2.71%"
         },
         {
             "symbol": "CEG",
             "price": 263.27,
-            "change": "-2.7%"
+            "change": "-1.94%"
         },
         {
             "symbol": "VST",
             "price": 138.46,
-            "change": "-0.02%"
+            "change": "+1.75%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.44,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
             0.52,
             0.53,
             0.52,
+            0.52,
+            0.52,
+            0.53,
+            0.52,
+            0.53,
+            0.52,
             0.51,
-            0.51,
-            0.51,
-            0.5,
-            0.5,
-            0.5,
             0.51,
             0.51
         ],
         "hsd_history_hardware": [
-            25.52,
-            26.01,
-            26.28,
-            26.27,
-            26.25,
-            26.14,
-            26.02,
-            25.83,
-            25.46,
-            25.85,
-            25.66,
-            25.19
+            25.33,
+            25.28,
+            25.5,
+            25.26,
+            25.27,
+            25.4,
+            24.98,
+            25.2,
+            25.54,
+            25.05,
+            24.76,
+            25.16
         ],
         "hsd_history_software": [
-            9.9,
-            10.02,
-            9.87,
-            10.06,
-            9.91,
-            9.99,
-            9.98,
             9.97,
-            9.83,
-            9.74,
-            9.73,
-            9.88
+            9.84,
+            9.71,
+            9.71,
+            9.82,
+            9.87,
+            9.89,
+            9.99,
+            9.96,
+            10.13,
+            10.2,
+            10.11
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "21:28",
+            "time": "00:23",
             "tag": "MERCADO",
-            "text": "Western Digital, FormFactor, Penguin Solutions, Himax, and Power Integrations Shares Are Falling, What You Need To Know"
+            "text": "Newport Beach Police Department to expand drone program"
         },
         {
-            "time": "21:20",
+            "time": "23:30",
             "tag": "MERCADO",
-            "text": "NICE Ltd. (NICE) stock price, news, quote and history"
+            "text": "Apple Owes $5.7 Billion to Litigation-Funded Firm in Patent Case"
         },
         {
-            "time": "21:19",
+            "time": "23:23",
             "tag": "MERCADO",
-            "text": "Oklo\u2019s Isotope Test Reactor achieves criticality"
+            "text": "TrueBlue: Beneficiary Of Energy Infrastructure And Data Center Buildouts (NYSE:TBI)"
         },
         {
-            "time": "20:59",
-            "tag": "MERCADO",
-            "text": "Apple reaches $250 million iPhone settlement. Who\u2019s eligible to get money in WA?"
+            "time": "23:20",
+            "tag": "AI",
+            "text": "Let\u2019s Take a Closer Look at Amazon\u2019s (AMZN) Debt-Fueled AI Buildout"
         },
         {
-            "time": "20:56",
+            "time": "22:55",
             "tag": "MERCADO",
-            "text": "Tyler Technologies stock last at USD 328.76, up 0.58 percent in New York trading"
+            "text": "Braze, Inc. (BRZE) Stock Price, News, Quote & History"
         }
     ]
 }
