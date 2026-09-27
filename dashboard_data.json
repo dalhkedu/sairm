@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-27 07:46 UTC",
+        "last_updated": "2026-09-27 13:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.07,
-            "change": "-2.89%"
+            "change": "+1.25%"
         },
         {
             "symbol": "AMD",
             "price": 630.63,
-            "change": "-0.38%"
+            "change": "+0.26%"
         },
         {
             "symbol": "MSFT",
             "price": 516.17,
-            "change": "-1.74%"
+            "change": "+2.79%"
         },
         {
             "symbol": "CEG",
             "price": 263.27,
-            "change": "+1.94%"
+            "change": "+0.1%"
         },
         {
             "symbol": "VST",
             "price": 138.46,
-            "change": "-2.48%"
+            "change": "+2.59%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.68,
+        "cer_current": 0.62,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.55,
+            0.55,
+            0.54,
             0.53,
-            0.52,
-            0.52,
-            0.51,
+            0.53,
             0.52,
             0.51,
             0.51,
             0.5,
             0.51,
-            0.52,
-            0.52,
-            0.51
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.36,
-            24.76,
-            24.84,
-            24.5,
-            24.49,
-            24.89,
-            24.93,
-            25.04,
-            24.66,
-            24.7,
-            24.98,
-            25.43
+            24.06,
+            23.86,
+            24.01,
+            23.97,
+            23.97,
+            23.55,
+            23.76,
+            24.16,
+            24.6,
+            25.09,
+            24.9,
+            24.72
         ],
         "hsd_history_software": [
-            10.96,
-            10.78,
-            10.75,
-            10.59,
-            10.5,
-            10.52,
-            10.57,
-            10.37,
-            10.23,
-            10.04,
-            10.04,
-            10.16
+            10.3,
+            10.15,
+            10.09,
+            10.19,
+            10.06,
+            10.16,
+            10.19,
+            10.22,
+            10.19,
+            10.34,
+            10.14,
+            10.1
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:12",
+            "time": "12:26",
             "tag": "MERCADO",
-            "text": "York Space Systems Inc. $YSS Shares Bought by Bank of America Corp DE"
+            "text": "Fidelity National Information Services (FIS) Launched A New Retirement Platform, Is The Stock 29% Undervalued?"
         },
         {
-            "time": "07:12",
+            "time": "11:45",
             "tag": "MERCADO",
-            "text": "117,693 Shares of ePlus inc. $PLUS Acquired by Bank of America Corp DE"
+            "text": "Greg Abel Deployed $10 Billion Into Alphabet's Private Placement, Building a $38 Billion Stake That's Now Berkshire Hathaway's Third-Largest Holding. Is Alphabet Becoming Berkshire's New Apple?"
         },
         {
-            "time": "07:12",
+            "time": "10:59",
             "tag": "MERCADO",
-            "text": "Bank of America Corp DE Purchases New Holdings in Enovix Corporation $ENVX"
+            "text": "Qualcomm Takes on Apple's New Chip, Fitness Tracker, Updated Macs and More: This Week in Appleverse"
         },
         {
-            "time": "07:11",
+            "time": "10:52",
             "tag": "MERCADO",
-            "text": "Bridger Management LLC Buys New Holdings in Amazon.com, Inc. $AMZN"
+            "text": "Nio and Geely Rumoured to Announce Agreement on September 28"
         },
         {
-            "time": "07:11",
+            "time": "09:46",
             "tag": "MERCADO",
-            "text": "Capasso Planning Partners LLC Purchases New Shares in Amazon.com, Inc. $AMZN"
+            "text": "Apple Hit With $5.7 Billion Patent Verdict Over iPhone, Apple Watch Haptics"
         }
     ]
 }
