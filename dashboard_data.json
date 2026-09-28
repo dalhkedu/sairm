@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-28 00:23 UTC",
+        "last_updated": "2026-09-28 06:26 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.07,
-            "change": "+3.4%"
+            "change": "+1.8%"
         },
         {
             "symbol": "AMD",
-            "price": NaN,
-            "change": "-2.96%"
+            "price": 630.63,
+            "change": "-2.14%"
         },
         {
             "symbol": "MSFT",
             "price": 516.17,
-            "change": "+2.23%"
+            "change": "-1.63%"
         },
         {
             "symbol": "CEG",
             "price": 263.27,
-            "change": "+1.02%"
+            "change": "-0.63%"
         },
         {
             "symbol": "VST",
             "price": 138.46,
-            "change": "-3.41%"
+            "change": "+2.18%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.46,
+        "cer_current": 0.48,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
+            0.48,
+            0.47,
             0.48,
             0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.49,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.5,
+            0.49,
             0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            23.2,
-            23.56,
-            23.6,
-            23.47,
-            23.28,
-            23.4,
-            23.43,
-            23.72,
-            23.79,
-            23.97,
-            24.21,
-            24.53
+            23.95,
+            23.91,
+            24.15,
+            24.09,
+            24.46,
+            24.34,
+            24.7,
+            24.47,
+            24.45,
+            24.95,
+            25.35,
+            24.87
         ],
         "hsd_history_software": [
-            10.19,
-            10.04,
-            9.98,
-            9.92,
-            9.86,
-            9.71,
-            9.86,
-            9.93,
-            9.76,
-            9.92,
-            9.97,
-            10.09
+            9.82,
+            9.89,
+            10.0,
+            10.07,
+            9.9,
+            9.82,
+            10.0,
+            9.83,
+            9.88,
+            9.88,
+            10.0,
+            10.07
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "23:21",
+            "time": "05:39",
             "tag": "MERCADO",
-            "text": "Jim Cramer: Apple, Microsoft, and Meta prove stock picking for individuals is not a fool's errand"
+            "text": "SLB Wins Four Integrated Well Construction Contracts from Aramco"
         },
         {
-            "time": "22:31",
-            "tag": "AI",
-            "text": "Musk\u2019s X Corp and SpaceXAI Drop Apple From AI Antitrust Fight. Is One Legal Headache Gone for the iPhone Maker?"
+            "time": "04:41",
+            "tag": "RESULTADOS",
+            "text": "Micron Earnings: What to Expect as AI Demand Drives Growth"
         },
         {
-            "time": "22:25",
+            "time": "03:24",
             "tag": "MERCADO",
-            "text": "IonQ (NYSE: IONQ) Lands Nvidia Partnership Less Than Two Years After Jensen Huang's 30-Year Quantum Warning"
+            "text": "US jury says Apple owes record $5.7 billion in haptic technology patent case"
         },
         {
-            "time": "21:57",
+            "time": "03:12",
             "tag": "MERCADO",
-            "text": "Why is Intel Corporation (INTC) up over 33%? Is the Rally Sustainable?"
+            "text": "TD Synnex: Morgan Stanley lifts price target after strong quarter"
         },
         {
-            "time": "21:49",
+            "time": "02:42",
             "tag": "MERCADO",
-            "text": "Should Long Term Growth Targets Require Action From Charles River Labs Stock Investors?"
+            "text": "TD Synnex: Morgan Stanley lifts price target after strong quarter"
         }
     ]
 }
