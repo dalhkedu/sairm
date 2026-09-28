@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-27 21:53 UTC",
+        "last_updated": "2026-09-28 00:23 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 225.07,
-            "change": "-3.43%"
+            "change": "+3.4%"
         },
         {
             "symbol": "AMD",
-            "price": 630.63,
-            "change": "-3.09%"
+            "price": NaN,
+            "change": "-2.96%"
         },
         {
             "symbol": "MSFT",
             "price": 516.17,
-            "change": "-2.71%"
+            "change": "+2.23%"
         },
         {
             "symbol": "CEG",
             "price": 263.27,
-            "change": "+1.87%"
+            "change": "+1.02%"
         },
         {
             "symbol": "VST",
             "price": 138.46,
-            "change": "-0.77%"
+            "change": "-3.41%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.64,
+        "cer_current": 0.46,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.52,
-            0.52,
-            0.52,
-            0.52,
-            0.51,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
             0.5,
             0.5,
-            0.51,
-            0.51,
-            0.51,
             0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            25.96,
-            25.62,
-            25.67,
-            25.49,
-            25.52,
-            25.37,
-            24.95,
-            24.84,
-            25.1,
-            24.85,
-            24.76,
-            25.26
+            23.2,
+            23.56,
+            23.6,
+            23.47,
+            23.28,
+            23.4,
+            23.43,
+            23.72,
+            23.79,
+            23.97,
+            24.21,
+            24.53
         ],
         "hsd_history_software": [
-            9.53,
-            9.72,
-            9.89,
-            9.81,
-            9.93,
-            9.81,
-            9.97,
-            10.15,
+            10.19,
+            10.04,
             9.98,
-            9.88,
-            9.81,
-            10.01
+            9.92,
+            9.86,
+            9.71,
+            9.86,
+            9.93,
+            9.76,
+            9.92,
+            9.97,
+            10.09
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:20",
+            "time": "23:21",
             "tag": "MERCADO",
-            "text": "Texas Instruments Extends Dividend Growth Streak to 23 Years with 7% Raise"
+            "text": "Jim Cramer: Apple, Microsoft, and Meta prove stock picking for individuals is not a fool's errand"
         },
         {
-            "time": "20:18",
-            "tag": "MERCADO",
-            "text": "Walmart says it's not using personal information to set prices as it expands digital shelf labels"
+            "time": "22:31",
+            "tag": "AI",
+            "text": "Musk\u2019s X Corp and SpaceXAI Drop Apple From AI Antitrust Fight. Is One Legal Headache Gone for the iPhone Maker?"
         },
         {
-            "time": "20:17",
+            "time": "22:25",
             "tag": "MERCADO",
-            "text": "S&P Global Expands into Onchain Finance with OpenZeppelin Deal"
+            "text": "IonQ (NYSE: IONQ) Lands Nvidia Partnership Less Than Two Years After Jensen Huang's 30-Year Quantum Warning"
         },
         {
-            "time": "20:11",
+            "time": "21:57",
             "tag": "MERCADO",
-            "text": "Walmart says it's not using personal information to set prices as it expands digital shelf labels"
+            "text": "Why is Intel Corporation (INTC) up over 33%? Is the Rally Sustainable?"
         },
         {
-            "time": "19:59",
+            "time": "21:49",
             "tag": "MERCADO",
-            "text": "Walmart says it's not using personal information to set prices as it expands digital shelf labels"
+            "text": "Should Long Term Growth Targets Require Action From Charles River Labs Stock Investors?"
         }
     ]
 }
