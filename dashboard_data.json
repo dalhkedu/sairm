@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-29 20:31 UTC",
+        "last_updated": "2026-09-30 00:07 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 227.21,
-            "change": "-3.07%"
+            "change": "+1.68%"
         },
         {
             "symbol": "AMD",
-            "price": 607.57,
-            "change": "-0.09%"
+            "price": NaN,
+            "change": "-0.02%"
         },
         {
             "symbol": "MSFT",
             "price": 508.96,
-            "change": "+1.17%"
+            "change": "+2.16%"
         },
         {
             "symbol": "CEG",
             "price": 264.58,
-            "change": "+0.11%"
+            "change": "-0.73%"
         },
         {
             "symbol": "VST",
             "price": 140.83,
-            "change": "-0.6%"
+            "change": "-3.11%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.65,
+        "cer_current": 0.4,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
-            0.49,
-            0.5,
-            0.5,
-            0.5,
+            0.53,
+            0.53,
+            0.53,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
             0.51,
             0.5,
             0.5,
-            0.5,
-            0.5,
-            0.5,
-            0.51
+            0.49,
+            0.5
         ],
         "hsd_history_hardware": [
-            25.25,
-            25.56,
-            25.36,
-            25.85,
-            25.39,
-            25.1,
-            25.46,
-            25.33,
-            25.09,
-            25.6,
-            25.71,
-            25.46
+            24.38,
+            24.3,
+            24.77,
+            25.06,
+            24.75,
+            24.57,
+            24.32,
+            24.14,
+            24.28,
+            24.43,
+            24.48,
+            24.68
         ],
         "hsd_history_software": [
-            10.17,
-            10.26,
-            10.14,
-            10.08,
-            10.15,
-            9.99,
-            10.11,
-            9.93,
-            9.94,
-            10.13,
-            9.97,
-            9.96
+            9.77,
+            9.92,
+            10.07,
+            10.21,
+            10.29,
+            10.12,
+            10.1,
+            10.12,
+            9.95,
+            9.86,
+            10.0,
+            9.93
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "20:25",
+            "time": "23:30",
             "tag": "MERCADO",
-            "text": "Cisco Systems stock after-hours at EUR 94.27: plus 0.50 percent versus prior close"
+            "text": "TD Synnex posts record Q3 revenue of $21.6 billion as Hyve business more than doubles"
         },
         {
-            "time": "20:14",
+            "time": "23:10",
             "tag": "MERCADO",
-            "text": "21 Tranche 1, Transport Layer Satellites Delivered to Vandenberg, Northrop Grumman Says"
+            "text": "Advanced Micro Devices, Inc. $AMD Shares Sold by Cim Investment Management Inc."
         },
         {
-            "time": "20:04",
+            "time": "23:05",
             "tag": "MERCADO",
-            "text": "Bullish on Agilent Technologies Inc"
+            "text": "Three trusts sell shares under Arista Networks (ANET) CEO Jayshree Ullal\u2019s trading plan."
         },
         {
-            "time": "19:57",
+            "time": "22:36",
             "tag": "MERCADO",
-            "text": "Truepic Announces Availability of Its Image and Video Authentication Capabilities Within Verisk?S Claimsearch\u00ae Platform"
+            "text": "Form 144 Hewlett Packard Enterprise Company For: 29 September By Investing.com"
         },
         {
-            "time": "19:39",
+            "time": "22:28",
             "tag": "MERCADO",
-            "text": "Licensable picture: GE Healthcare brand logo"
+            "text": "How Cash Reserves And Lumilens Deal At POET Technologies (POET) Have Changed Its Investment Story"
         }
     ]
 }
