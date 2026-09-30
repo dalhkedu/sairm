@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-09-30 00:07 UTC",
+        "last_updated": "2026-09-30 06:23 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 227.21,
-            "change": "+1.68%"
+            "change": "+1.64%"
         },
         {
             "symbol": "AMD",
-            "price": NaN,
-            "change": "-0.02%"
+            "price": 607.57,
+            "change": "+3.43%"
         },
         {
             "symbol": "MSFT",
             "price": 508.96,
-            "change": "+2.16%"
+            "change": "+1.7%"
         },
         {
             "symbol": "CEG",
             "price": 264.58,
-            "change": "-0.73%"
+            "change": "-1.25%"
         },
         {
             "symbol": "VST",
             "price": 140.83,
-            "change": "-3.11%"
+            "change": "-1.59%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.4,
+        "cer_current": 0.6,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.53,
-            0.53,
-            0.53,
-            0.52,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
+            0.49,
+            0.49,
+            0.49,
             0.5,
-            0.5,
+            0.49,
+            0.48,
+            0.49,
+            0.48,
+            0.49,
+            0.49,
             0.49,
             0.5
         ],
         "hsd_history_hardware": [
-            24.38,
-            24.3,
-            24.77,
+            25.31,
+            24.89,
+            24.99,
+            24.63,
             25.06,
-            24.75,
-            24.57,
-            24.32,
-            24.14,
-            24.28,
-            24.43,
-            24.48,
-            24.68
+            25.42,
+            25.84,
+            25.77,
+            26.03,
+            25.92,
+            25.94,
+            25.49
         ],
         "hsd_history_software": [
-            9.77,
-            9.92,
-            10.07,
-            10.21,
-            10.29,
-            10.12,
-            10.1,
-            10.12,
-            9.95,
+            9.62,
+            9.81,
+            9.9,
+            9.99,
+            9.91,
             9.86,
+            9.96,
+            9.89,
             10.0,
-            9.93
+            9.86,
+            9.84,
+            9.84
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "23:30",
+            "time": "05:35",
             "tag": "MERCADO",
-            "text": "TD Synnex posts record Q3 revenue of $21.6 billion as Hyve business more than doubles"
+            "text": "Elon Musk Doubles Down on Delta, Says CEO Ed Bastian Will \u2018Lose His Job\u2019 Over Starlink Snub"
         },
         {
-            "time": "23:10",
-            "tag": "MERCADO",
-            "text": "Advanced Micro Devices, Inc. $AMD Shares Sold by Cim Investment Management Inc."
+            "time": "05:21",
+            "tag": "AI",
+            "text": "Will New AI Integrations Change ZoomInfo Technologies' (GTM) Narrative"
         },
         {
-            "time": "23:05",
+            "time": "05:07",
             "tag": "MERCADO",
-            "text": "Three trusts sell shares under Arista Networks (ANET) CEO Jayshree Ullal\u2019s trading plan."
+            "text": "AAPL Stock Retreats From All-Time High: Research Firm Says Apple Could Sell 6M iPhone Duos This Year"
         },
         {
-            "time": "22:36",
+            "time": "05:06",
             "tag": "MERCADO",
-            "text": "Form 144 Hewlett Packard Enterprise Company For: 29 September By Investing.com"
+            "text": "AAPL Stock Retreats From All-Time High: Research Firm Says Apple Could Sell 6M iPhone Duos This Year"
         },
         {
-            "time": "22:28",
+            "time": "04:57",
             "tag": "MERCADO",
-            "text": "How Cash Reserves And Lumilens Deal At POET Technologies (POET) Have Changed Its Investment Story"
+            "text": "Harmonic stock reports 53.50 percent revenue growth in Q2"
         }
     ]
 }
