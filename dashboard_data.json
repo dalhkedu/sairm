@@ -1,37 +1,37 @@
 {
     "metadata": {
-        "last_updated": "2026-09-30 18:53 UTC",
+        "last_updated": "2026-09-30 22:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 230.38,
-            "change": "+0.31%"
+            "price": 228.38,
+            "change": "+3.13%"
         },
         {
             "symbol": "AMD",
-            "price": 608.79,
-            "change": "+2.67%"
+            "price": 611.76,
+            "change": "+3.07%"
         },
         {
             "symbol": "MSFT",
-            "price": 517.64,
-            "change": "+1.34%"
+            "price": NaN,
+            "change": "+0.19%"
         },
         {
             "symbol": "CEG",
-            "price": 252.41,
-            "change": "-1.16%"
+            "price": 254.02,
+            "change": "-0.15%"
         },
         {
             "symbol": "VST",
-            "price": 137.86,
-            "change": "-1.17%"
+            "price": 138.35,
+            "change": "-1.15%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.48,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
@@ -39,47 +39,47 @@
             0.49,
             0.48,
             0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
+            0.5,
+            0.5,
             0.49,
             0.48,
-            0.48,
+            0.49,
+            0.49,
+            0.49,
+            0.5,
             0.49
         ],
         "hsd_history_hardware": [
-            24.85,
-            24.59,
-            24.83,
-            24.84,
-            25.06,
-            25.31,
-            25.81,
-            25.62,
-            25.35,
-            25.35,
-            25.03,
-            24.56
+            25.36,
+            24.97,
+            25.4,
+            25.61,
+            25.4,
+            25.42,
+            25.53,
+            25.41,
+            25.47,
+            25.53,
+            25.36,
+            25.03
         ],
         "hsd_history_software": [
-            9.86,
-            9.67,
-            9.61,
-            9.54,
-            9.55,
-            9.5,
-            9.5,
-            9.58,
-            9.74,
+            9.83,
+            9.91,
+            9.91,
+            9.93,
+            9.78,
             9.84,
+            9.75,
+            9.56,
+            9.53,
             9.7,
-            9.81
+            9.83,
+            9.88
         ],
         "rci_data": [
             85.0,
-            23.038
+            22.838
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "18:02",
+            "time": "21:43",
             "tag": "MERCADO",
-            "text": "Amazon Signs Up As Synopsys' Lead Customer In $1B Chip Pact - Synopsys (NASDAQ:SNPS)"
+            "text": "Live Nation Legal Chief Michael Rowles Strikes Long Post-Departure Advisory Role"
         },
         {
-            "time": "17:55",
+            "time": "21:30",
             "tag": "MERCADO",
-            "text": "Curtiss-Wright secures $40 million Leidos contract for US Army IFPC system"
+            "text": "Monolithic Power Systems Insider Sold Shares Worth $40,349,047, According to a Recent SEC Filing"
         },
         {
-            "time": "17:25",
+            "time": "21:27",
             "tag": "MERCADO",
-            "text": "Long term debt to total assets ratio of Celestica Inc. \u2013 HAN:CTW0"
+            "text": "Hewlett Packard Enterprise (NYSE:HPE) Stock Jumps 4.1% - Here's Why"
         },
         {
-            "time": "17:18",
+            "time": "21:20",
             "tag": "MERCADO",
-            "text": "Prologis (NYSE:PLD) Pays Quarterly Dividend Today as Warehouse Demand and Rate Worries Collide"
+            "text": "Data resiliency: how Oracle protects enterprise data"
         },
         {
-            "time": "17:17",
-            "tag": "AI",
-            "text": "Freeport-McMoRan (NYSE:FCX) in Focus as Copper Nears Record Highs on AI Data Center Demand"
+            "time": "21:17",
+            "tag": "MERCADO",
+            "text": "Meta Partners with Best Buy to Give Shoppers an Immersive and Interactive In-Store Shopping Experience"
         }
     ]
 }
