@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-10-01 01:51 UTC",
+        "last_updated": "2026-10-01 08:31 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 228.38,
-            "change": "-0.21%"
+            "change": "-1.0%"
         },
         {
             "symbol": "AMD",
             "price": 611.76,
-            "change": "+2.19%"
+            "change": "-2.31%"
         },
         {
             "symbol": "MSFT",
             "price": 512.9,
-            "change": "-1.37%"
+            "change": "-3.18%"
         },
         {
             "symbol": "CEG",
             "price": 254.02,
-            "change": "-1.89%"
+            "change": "-2.71%"
         },
         {
             "symbol": "VST",
             "price": 138.35,
-            "change": "-3.04%"
+            "change": "-0.12%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.55,
+        "cer_current": 0.61,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.49,
-            0.5,
-            0.49,
-            0.5,
-            0.51,
-            0.5,
-            0.5,
             0.51,
             0.51,
             0.52,
             0.51,
-            0.51
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5
         ],
         "hsd_history_hardware": [
-            24.8,
-            24.66,
-            24.95,
-            24.86,
+            24.65,
+            24.99,
             24.72,
-            25.09,
-            25.56,
-            25.93,
-            25.91,
-            25.63,
-            25.34,
-            25.45
+            24.86,
+            24.75,
+            24.32,
+            24.61,
+            24.81,
+            24.43,
+            24.05,
+            24.19,
+            24.51
         ],
         "hsd_history_software": [
+            9.29,
+            9.41,
+            9.59,
+            9.48,
+            9.49,
+            9.6,
+            9.67,
+            9.82,
+            9.95,
             10.04,
             10.16,
-            10.07,
-            9.88,
-            9.89,
-            9.75,
-            9.92,
-            10.05,
-            10.11,
-            10.27,
-            10.21,
-            10.19
+            9.99
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "01:23",
+            "time": "07:56",
             "tag": "MERCADO",
-            "text": "Brazil\u2019s largest energy giant tests Cardano to fix carbon double-counting"
+            "text": "RBC Capital initiates Digital Turbine stock with outperform rating By Investing.com"
         },
         {
-            "time": "01:23",
+            "time": "07:53",
             "tag": "MERCADO",
-            "text": "Petrobras Tests Cardano Blockchain To Track Cleaner Jet Fuel And Diesel R: 11 outlets compared"
+            "text": "HP Inc. stock pre-market at EUR 27.76: minus 0.11 percent"
         },
         {
-            "time": "00:42",
+            "time": "07:46",
             "tag": "MERCADO",
-            "text": "Is Best Buy\u2019s (BBY) Moat Narrowing as Electronics Move Online for Good?"
+            "text": "How Claims Fraud Tool Integration Will Impact Verisk Analytics Stock"
         },
         {
-            "time": "00:41",
+            "time": "07:34",
             "tag": "MERCADO",
-            "text": "Skyworks Solutions Extends Qorvo Note Exchange Offers to Oct. 5 as Merger Nears Closing"
+            "text": "5,269 Amazon.com, Inc. $AMZN Shares Acquired by Symphony Financial Ltd. Co."
         },
         {
-            "time": "00:23",
+            "time": "07:19",
             "tag": "MERCADO",
-            "text": "Hewlett Packard Enterprise (HPE) Lands $1.2b Vultr Order, Is The Stock Already Expensive?"
+            "text": "Form 4 Alphabet Inc Class C For: 1 October By Investing.com"
         }
     ]
 }
