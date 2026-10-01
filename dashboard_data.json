@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-10-01 16:07 UTC",
+        "last_updated": "2026-10-01 21:38 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 229.94,
-            "change": "-1.44%"
+            "price": 230.86,
+            "change": "+1.81%"
         },
         {
             "symbol": "AMD",
-            "price": 611.33,
-            "change": "-3.42%"
+            "price": 615.73,
+            "change": "-0.57%"
         },
         {
             "symbol": "MSFT",
-            "price": 513.78,
-            "change": "-3.24%"
+            "price": 512.8,
+            "change": "-1.03%"
         },
         {
             "symbol": "CEG",
-            "price": 260.03,
-            "change": "+0.86%"
+            "price": 258.92,
+            "change": "+3.24%"
         },
         {
             "symbol": "VST",
-            "price": 139.76,
-            "change": "+2.63%"
+            "price": 139.75,
+            "change": "-1.86%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.41,
+        "cer_current": 0.61,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.5,
+            0.47,
+            0.46,
+            0.46,
+            0.47,
+            0.47,
+            0.48,
+            0.48,
+            0.49,
             0.5,
             0.51,
             0.51,
-            0.5,
-            0.5,
-            0.5,
-            0.51,
-            0.5,
-            0.51,
-            0.51,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            25.25,
-            25.49,
-            25.02,
-            25.02,
-            25.04,
-            24.67,
-            24.3,
-            24.53,
-            24.99,
-            25.29,
-            24.91,
-            25.41
+            24.28,
+            24.52,
+            24.65,
+            24.58,
+            24.9,
+            25.21,
+            25.37,
+            25.44,
+            25.3,
+            25.46,
+            25.0,
+            25.48
         ],
         "hsd_history_software": [
-            9.9,
-            9.96,
-            10.09,
-            10.24,
-            10.19,
-            10.11,
-            10.08,
-            10.08,
-            10.02,
-            9.96,
-            10.12,
-            9.99
+            9.8,
+            9.95,
+            9.79,
+            9.62,
+            9.51,
+            9.52,
+            9.67,
+            9.64,
+            9.51,
+            9.56,
+            9.71,
+            9.88
         ],
         "rci_data": [
             85.0,
-            22.994
+            23.086000000000002
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:31",
+            "time": "21:24",
             "tag": "MERCADO",
-            "text": "Hewlett Packard Analysis: Will HPE Break Out? - Hewlett Packard (NYSE:HPE)"
+            "text": "Equinix stock after-hours at EUR 901.40: plus 1.05 percent versus prior close"
         },
         {
-            "time": "15:28",
+            "time": "21:04",
             "tag": "MERCADO",
-            "text": "Broadridge Financial Solutions, Inc. Announces Resignation of Amit Zavery as A Non-Executive Director, Effective November 9, 2026"
+            "text": "GOOGL Sheds $160 Billion in Value in a Single After-Hours Session"
         },
         {
-            "time": "15:25",
+            "time": "20:30",
             "tag": "MERCADO",
-            "text": "Medtronic reveals cardiac mapping and ablation software clearances"
+            "text": "McDonald\u2019s (MCD) Launches a Media Network and Starts Selling Drive-Thru Ads"
         },
         {
-            "time": "15:24",
+            "time": "20:27",
             "tag": "MERCADO",
-            "text": "WSPC ETF Price and Chart \u2014 NASDAQ:WSPC"
+            "text": "Agilent Introduces NovoStation Sample Prep System to Automate Flow Cytometry Workflows"
         },
         {
-            "time": "15:09",
-            "tag": "MERCADO",
-            "text": "2026 The Most Powerful Women in Finance, #12, Martina Cheung, S&P Global"
+            "time": "20:20",
+            "tag": "AI",
+            "text": "Hewlett Packard Enterprise (HPE) Stock Gets Fair Value Bump As Analysts Split On AI Momentum"
         }
     ]
 }
