@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-10-02 01:23 UTC",
+        "last_updated": "2026-10-02 08:06 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 230.86,
-            "change": "-3.29%"
+            "change": "+2.78%"
         },
         {
             "symbol": "AMD",
             "price": 615.73,
-            "change": "-0.96%"
+            "change": "-2.62%"
         },
         {
             "symbol": "MSFT",
             "price": 512.8,
-            "change": "-1.73%"
+            "change": "+2.79%"
         },
         {
             "symbol": "CEG",
             "price": 258.92,
-            "change": "-1.52%"
+            "change": "-2.08%"
         },
         {
             "symbol": "VST",
             "price": 139.75,
-            "change": "+2.86%"
+            "change": "+1.94%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.4,
+        "cer_current": 0.48,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.48,
-            0.49,
-            0.49,
-            0.49,
-            0.48,
-            0.48,
-            0.49,
-            0.48,
-            0.49,
-            0.49,
-            0.49,
+            0.5,
+            0.5,
+            0.5,
+            0.51,
+            0.52,
+            0.51,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
-            25.27,
-            25.21,
-            25.17,
-            24.85,
-            24.37,
+            25.34,
+            24.87,
+            24.48,
+            24.08,
             24.38,
-            24.85,
-            24.91,
-            24.54,
-            24.27,
-            24.52,
-            24.94
+            24.8,
+            24.58,
+            24.84,
+            24.67,
+            24.53,
+            25.02,
+            25.47
         ],
         "hsd_history_software": [
-            9.8,
-            9.71,
-            9.74,
-            9.81,
-            9.78,
-            9.93,
-            9.98,
+            10.47,
+            10.37,
+            10.24,
+            10.06,
+            10.25,
+            10.11,
+            9.96,
             10.05,
-            10.03,
-            9.91,
-            10.08,
-            9.96
+            9.89,
+            10.05,
+            9.93,
+            10.05
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,9 @@
     ],
     "news_feed": [
         {
-            "time": "00:07",
-            "tag": "MERCADO",
-            "text": "Stock awards deliver 459 shares to Fortinet (FTNT) director Derek T. Kan on September 30."
-        },
-        {
-            "time": "00:00",
-            "tag": "MERCADO",
-            "text": "Arista Stocks Rise Higher as Bernstein Sees 23% Ethernet Upside"
-        },
-        {
-            "time": "00:00",
-            "tag": "MERCADO",
-            "text": "Keysight Technologies (KEYS) Reaches a Fresh 52-Week High at $373.88"
-        },
-        {
-            "time": "23:53",
-            "tag": "MERCADO",
-            "text": "Janet Napolitano acquires 459 Fortinet (FTNT) shares, bringing direct holdings to 4,733."
-        },
-        {
-            "time": "23:21",
-            "tag": "MERCADO",
-            "text": "Montecito Bank & Trust Purchases 18,450 Shares of Digital Realty Trust, Inc. $DLR"
+            "time": "INFO",
+            "tag": "LIMIT",
+            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
         }
     ]
 }
