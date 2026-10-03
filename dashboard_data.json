@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-10-03 17:04 UTC",
+        "last_updated": "2026-10-03 20:45 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 233.95,
-            "change": "+1.61%"
+            "change": "+2.87%"
         },
         {
             "symbol": "AMD",
             "price": 633.91,
-            "change": "+3.35%"
+            "change": "-3.45%"
         },
         {
             "symbol": "MSFT",
             "price": 517.53,
-            "change": "+3.34%"
+            "change": "-2.75%"
         },
         {
             "symbol": "CEG",
             "price": 257.49,
-            "change": "-1.2%"
+            "change": "-0.62%"
         },
         {
             "symbol": "VST",
             "price": 140.02,
-            "change": "+2.37%"
+            "change": "-1.5%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.64,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.48,
+            0.49,
             0.5,
             0.5,
+            0.49,
             0.5,
-            0.51,
-            0.51,
-            0.5,
-            0.51,
-            0.52,
-            0.51,
-            0.51,
-            0.51,
-            0.51
+            0.5
         ],
         "hsd_history_hardware": [
-            24.8,
-            25.2,
-            25.24,
-            25.24,
-            25.29,
-            25.31,
-            24.95,
-            24.76,
-            24.74,
-            24.9,
-            24.64,
-            24.6
+            24.79,
+            24.81,
+            24.69,
+            24.5,
+            24.88,
+            24.51,
+            24.72,
+            24.28,
+            24.63,
+            25.0,
+            24.69,
+            25.03
         ],
         "hsd_history_software": [
-            10.36,
-            10.38,
-            10.32,
-            10.23,
-            10.12,
-            10.02,
-            10.2,
-            10.13,
-            10.08,
-            10.12,
+            10.34,
+            10.3,
+            10.19,
+            10.19,
             10.17,
-            10.01
+            10.21,
+            10.14,
+            10.32,
+            10.19,
+            10.06,
+            9.99,
+            9.98
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "15:46",
+            "time": "19:13",
+            "tag": "AI",
+            "text": "3 AI-Power Stocks Riding the Same Data Center Boom, Ranked By Risk"
+        },
+        {
+            "time": "18:12",
             "tag": "MERCADO",
-            "text": "Fortinet Turned $1,000 Into $24,579 in a Decade While the S&P 500 Delivered $3,585"
+            "text": "Apple Says iPhone 18 Pro Max Units That Lost AT&T Service Need Replacement, Not a Fix"
+        },
+        {
+            "time": "17:15",
+            "tag": "MERCADO",
+            "text": "T-Mobile vs. Verizon: Two Very Different Ways to Own the Same Industry"
+        },
+        {
+            "time": "16:20",
+            "tag": "MERCADO",
+            "text": "F5, Inc. (FFV) Analyse de l'\u00e9quipe de direction et de gestion"
         },
         {
             "time": "15:46",
             "tag": "MERCADO",
             "text": "Fortinet Turned $1,000 Into $24,579 in a Decade While the S&P 500 Delivered $3,585"
-        },
-        {
-            "time": "14:42",
-            "tag": "MERCADO",
-            "text": "Bond Volatility Could Determine How S&P 500 Breadth Gap Closes, Morgan Stanley Says"
-        },
-        {
-            "time": "13:56",
-            "tag": "MERCADO",
-            "text": "CTO acquires shares at $6.6725 under Aehr Test Systems (AEHR)'s employee stock purchase plan."
-        },
-        {
-            "time": "13:52",
-            "tag": "MERCADO",
-            "text": "Technical Analysis of eBay Inc. (CRYPTOCOM:EBAYUSD.P)"
         }
     ]
 }
