@@ -1,81 +1,81 @@
 {
     "metadata": {
-        "last_updated": "2026-10-02 20:27 UTC",
+        "last_updated": "2026-10-03 00:14 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
             "price": 233.95,
-            "change": "-2.75%"
+            "change": "+2.01%"
         },
         {
             "symbol": "AMD",
             "price": 633.91,
-            "change": "-3.19%"
+            "change": "+0.2%"
         },
         {
             "symbol": "MSFT",
             "price": 517.53,
-            "change": "+2.0%"
+            "change": "+0.64%"
         },
         {
             "symbol": "CEG",
             "price": 257.49,
-            "change": "+2.46%"
+            "change": "-1.74%"
         },
         {
             "symbol": "VST",
             "price": 140.02,
-            "change": "-3.02%"
+            "change": "-2.93%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.62,
+        "cer_current": 0.51,
         "rci_current": 0.23,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
+            0.49,
+            0.49,
+            0.49,
+            0.48,
             0.48,
             0.48,
             0.48,
             0.48,
             0.49,
             0.49,
-            0.48,
-            0.48,
             0.49,
-            0.49,
-            0.5,
-            0.5
+            0.49
         ],
         "hsd_history_hardware": [
-            25.93,
-            26.26,
-            26.13,
-            26.49,
-            26.56,
-            26.41,
-            26.42,
-            26.04,
-            26.03,
-            26.39,
-            25.97,
-            25.49
+            25.02,
+            25.52,
+            25.89,
+            25.66,
+            25.21,
+            25.15,
+            25.18,
+            24.71,
+            25.19,
+            24.95,
+            24.63,
+            24.8
         ],
         "hsd_history_software": [
+            10.51,
+            10.62,
             10.42,
-            10.37,
-            10.4,
-            10.23,
-            10.1,
-            10.17,
-            10.1,
-            10.21,
-            10.23,
-            10.26,
-            10.1,
-            10.0
+            10.52,
+            10.36,
+            10.2,
+            10.31,
+            10.38,
+            10.28,
+            10.49,
+            10.32,
+            10.14
         ],
         "rci_data": [
             85.0,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "19:37",
-            "tag": "AI",
-            "text": "Adobe (ADBE) Tests Its AI Story Following NHL Deal And Undervalued Narrative"
+            "time": "23:28",
+            "tag": "MERCADO",
+            "text": "Amkor (AMKR) Stock Could Be 45% Undervalued On Cash Flow"
         },
         {
-            "time": "19:13",
+            "time": "23:21",
             "tag": "MERCADO",
-            "text": "Former Tesla President Says Car Sales Are Funding the Longer Road to Robots and Cybercabs"
+            "text": "Arista Networks, Inc. $ANET Shares Bought by CX Institutional"
         },
         {
-            "time": "19:10",
+            "time": "23:20",
             "tag": "MERCADO",
-            "text": "Intuit Wasn\u2019t on Cramer\u2019s Muse Casualty List, and Traders Just Piled Into Its October Calls"
+            "text": "CX Institutional Grows Stock Position in Analog Devices, Inc. $ADI"
         },
         {
-            "time": "19:03",
+            "time": "23:20",
             "tag": "MERCADO",
-            "text": "Seagate Sinks 12%, Western Digital Down 10% as Toshiba Plans to Double Hard Disk Output"
+            "text": "CX Institutional Buys 47,059 Shares of Intuit Inc. $INTU"
         },
         {
-            "time": "18:40",
+            "time": "23:20",
             "tag": "MERCADO",
-            "text": "Air Products stock after-hours at EUR 246.75: plus 1.44 percent versus prior close"
+            "text": "CX Institutional Buys 40,802 Shares of NXP Semiconductors N.V. $NXPI"
         }
     ]
 }
