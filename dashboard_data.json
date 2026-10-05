@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-10-05 08:36 UTC",
+        "last_updated": "2026-10-05 18:05 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 233.95,
-            "change": "-2.8%"
+            "price": 237.57,
+            "change": "+0.83%"
         },
         {
             "symbol": "AMD",
-            "price": 633.91,
-            "change": "-3.33%"
+            "price": 631.9,
+            "change": "+1.03%"
         },
         {
             "symbol": "MSFT",
-            "price": 517.53,
-            "change": "+1.47%"
+            "price": 524.89,
+            "change": "+1.1%"
         },
         {
             "symbol": "CEG",
-            "price": 257.49,
-            "change": "+2.31%"
+            "price": 269.65,
+            "change": "-0.22%"
         },
         {
             "symbol": "VST",
-            "price": 140.02,
-            "change": "+0.7%"
+            "price": 145.06,
+            "change": "+1.86%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
-        "rci_current": 0.23,
+        "cer_current": 0.63,
+        "rci_current": 0.24,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
-            0.46,
-            0.46,
-            0.47,
-            0.47,
-            0.48,
-            0.47,
-            0.48,
-            0.48,
-            0.49,
-            0.49,
+            0.52,
+            0.52,
+            0.51,
+            0.51,
+            0.51,
+            0.51,
+            0.52,
+            0.51,
             0.5,
-            0.5
+            0.51,
+            0.51,
+            0.51
         ],
         "hsd_history_hardware": [
-            23.65,
-            23.96,
-            23.54,
-            23.74,
-            24.03,
-            24.51,
-            24.76,
-            24.33,
-            24.08,
-            24.56,
-            24.4,
-            24.79
+            23.18,
+            22.96,
+            23.39,
+            23.77,
+            24.23,
+            24.46,
+            24.85,
+            25.32,
+            25.25,
+            25.41,
+            25.1,
+            25.29
         ],
         "hsd_history_software": [
-            10.65,
-            10.51,
-            10.4,
-            10.24,
-            10.19,
-            10.07,
-            10.09,
-            10.01,
+            10.78,
+            10.8,
+            10.62,
+            10.52,
+            10.7,
+            10.6,
+            10.54,
+            10.46,
+            10.29,
             10.14,
-            10.09,
-            10.07,
+            10.18,
             10.14
         ],
         "rci_data": [
             85.0,
-            23.395
+            23.757
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "07:59",
-            "tag": "AI",
-            "text": "Michael Burry Raises Red Flag on Oracle\u2019s $664B Backlog and AI Spending: \u2018The Customer Is Now the Lender\u2019"
-        },
-        {
-            "time": "07:40",
-            "tag": "AI",
-            "text": "QCOM Gains Overnight After Patent Deal With China\u2019s Huawei Covering AI Chip Tech"
-        },
-        {
-            "time": "07:38",
-            "tag": "AI",
-            "text": "Roper Technologies adds AI leader and Roper Technologies stock trades at EUR 314.85"
-        },
-        {
-            "time": "07:32",
+            "time": "17:35",
             "tag": "MERCADO",
-            "text": "Stocktwits M&A Watch: Paramount-Warner Bros Combination, Skyworks-Qorvo Merger, AMD\u2019s World Labs Acquisition In Focus"
+            "text": "Hyland Joins the Jack Henry & Associates, Inc. Fintech Integration Network to Close the Gap Between Core Banking and Governed Content"
         },
         {
-            "time": "07:30",
+            "time": "17:30",
             "tag": "MERCADO",
-            "text": "HP withholds 2027 outlook: 8 analysts hold HP Inc. stock"
+            "text": "Uber Stock Rises: What's Going On?"
+        },
+        {
+            "time": "17:28",
+            "tag": "MERCADO",
+            "text": "Fortinet, Inc. $FTNT Stock Sold by Argent Capital Management LLC"
+        },
+        {
+            "time": "17:28",
+            "tag": "MERCADO",
+            "text": "13,886 Palo Alto Networks, Inc. $PANW Shares Sold by Ferguson Wellman Capital Management Inc."
+        },
+        {
+            "time": "17:28",
+            "tag": "MERCADO",
+            "text": "60,000 Shares of Cisco Systems, Inc. $CSCO Acquired by Bright Rock Capital Management LLC"
         }
     ]
 }
