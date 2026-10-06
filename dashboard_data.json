@@ -1,37 +1,37 @@
 {
     "metadata": {
-        "last_updated": "2026-10-06 07:19 UTC",
+        "last_updated": "2026-10-06 14:51 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 238.9,
-            "change": "-3.04%"
+            "price": 242.21,
+            "change": "-1.44%"
         },
         {
             "symbol": "AMD",
-            "price": 631.75,
-            "change": "-1.09%"
+            "price": 650.47,
+            "change": "-3.19%"
         },
         {
             "symbol": "MSFT",
-            "price": 525.18,
-            "change": "-0.87%"
+            "price": 534.31,
+            "change": "-0.31%"
         },
         {
             "symbol": "CEG",
-            "price": 267.62,
-            "change": "-2.22%"
+            "price": 301.95,
+            "change": "+1.49%"
         },
         {
             "symbol": "VST",
-            "price": 144.89,
-            "change": "+0.46%"
+            "price": 158.6,
+            "change": "+1.95%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.58,
+        "cer_current": 0.42,
         "rci_current": 0.24,
         "hsd_current": 24.5,
         "energy_price": 128.4,
@@ -40,46 +40,46 @@
             0.52,
             0.52,
             0.53,
-            0.53,
             0.52,
             0.51,
             0.51,
             0.51,
             0.51,
-            0.5,
+            0.51,
+            0.51,
             0.5
         ],
         "hsd_history_hardware": [
-            27.91,
-            27.54,
-            27.7,
-            27.29,
-            26.84,
-            26.32,
-            25.89,
-            25.76,
-            25.49,
-            25.45,
-            25.41,
-            24.92
+            25.57,
+            25.53,
+            25.73,
+            25.32,
+            25.23,
+            25.0,
+            25.34,
+            24.95,
+            24.57,
+            24.38,
+            24.8,
+            25.21
         ],
         "hsd_history_software": [
-            10.32,
-            10.17,
-            9.97,
-            10.03,
+            10.27,
+            10.29,
+            10.22,
             10.13,
-            10.05,
-            9.9,
-            9.89,
-            9.99,
-            9.96,
-            9.9,
-            9.94
+            10.32,
+            10.26,
+            10.08,
+            10.09,
+            9.91,
+            9.8,
+            9.88,
+            10.05
         ],
         "rci_data": [
             85.0,
-            23.89
+            24.221
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "06:33",
-            "tag": "AI",
-            "text": "Nokia CEO Discusses AI Infrastructure Demand"
+            "time": "14:15",
+            "tag": "MERCADO",
+            "text": "Corning Inc Stock (GLW) Moved Up by 4.18% on Oct 6: A Full Analysis"
         },
         {
-            "time": "06:33",
+            "time": "14:08",
             "tag": "MERCADO",
-            "text": "Nokia CEO says data centers would be built '2x faster' without supply constraints"
+            "text": "Are Copilot and Azure Driving the Latest Climb in Microsoft (NASDAQ:MSFT)?"
         },
         {
-            "time": "06:33",
+            "time": "14:08",
             "tag": "MERCADO",
-            "text": "Nokia's CEO says data centers could go up twice as fast if parts and power weren't in the way"
+            "text": "JPMorgan raises target for Jabil Inc stock as Jabil forecasts USD 44.5 billion"
         },
         {
-            "time": "06:26",
+            "time": "14:04",
             "tag": "MERCADO",
-            "text": "At $300 a share, MACOM (MTSI) general counsel sells 653 shares under a sales plan."
+            "text": "Palo Alto Networks (NASDAQ:PANW) Sets New 52-Week High - Here's What Happened"
         },
         {
-            "time": "06:14",
+            "time": "14:03",
             "tag": "MERCADO",
-            "text": "Microsoft slashes internal Claude spending by a third as Meta halves staff using it"
+            "text": "MotionMaker in Maya named to Fast Company's 2026 Next Big Things in Tech list"
         }
     ]
 }
