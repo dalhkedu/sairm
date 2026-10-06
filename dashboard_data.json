@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-10-06 14:51 UTC",
+        "last_updated": "2026-10-06 20:03 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 242.21,
-            "change": "-1.44%"
+            "price": 239.24,
+            "change": "+3.35%"
         },
         {
             "symbol": "AMD",
-            "price": 650.47,
-            "change": "-3.19%"
+            "price": 649.42,
+            "change": "-0.8%"
         },
         {
             "symbol": "MSFT",
-            "price": 534.31,
-            "change": "-0.31%"
+            "price": 529.3,
+            "change": "+1.85%"
         },
         {
             "symbol": "CEG",
-            "price": 301.95,
-            "change": "+1.49%"
+            "price": 300.4,
+            "change": "+2.12%"
         },
         {
             "symbol": "VST",
-            "price": 158.6,
-            "change": "+1.95%"
+            "price": 160.48,
+            "change": "+3.04%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.42,
+        "cer_current": 0.64,
         "rci_current": 0.24,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.51,
-            0.52,
-            0.52,
-            0.53,
-            0.52,
+            0.5,
             0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.51,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
             0.5
         ],
         "hsd_history_hardware": [
+            25.4,
+            25.16,
             25.57,
-            25.53,
-            25.73,
+            25.89,
+            25.92,
+            25.6,
             25.32,
-            25.23,
-            25.0,
-            25.34,
-            24.95,
-            24.57,
-            24.38,
-            24.8,
-            25.21
+            25.66,
+            25.54,
+            25.65,
+            25.17,
+            24.88
         ],
         "hsd_history_software": [
-            10.27,
-            10.29,
-            10.22,
-            10.13,
-            10.32,
-            10.26,
-            10.08,
-            10.09,
-            9.91,
+            9.59,
+            9.73,
+            9.76,
+            9.64,
             9.8,
-            9.88,
-            10.05
+            9.67,
+            9.6,
+            9.54,
+            9.65,
+            9.83,
+            9.72,
+            9.86
         ],
         "rci_data": [
             85.0,
-            24.221
+            23.924
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,9 @@
     ],
     "news_feed": [
         {
-            "time": "14:15",
-            "tag": "MERCADO",
-            "text": "Corning Inc Stock (GLW) Moved Up by 4.18% on Oct 6: A Full Analysis"
-        },
-        {
-            "time": "14:08",
-            "tag": "MERCADO",
-            "text": "Are Copilot and Azure Driving the Latest Climb in Microsoft (NASDAQ:MSFT)?"
-        },
-        {
-            "time": "14:08",
-            "tag": "MERCADO",
-            "text": "JPMorgan raises target for Jabil Inc stock as Jabil forecasts USD 44.5 billion"
-        },
-        {
-            "time": "14:04",
-            "tag": "MERCADO",
-            "text": "Palo Alto Networks (NASDAQ:PANW) Sets New 52-Week High - Here's What Happened"
-        },
-        {
-            "time": "14:03",
-            "tag": "MERCADO",
-            "text": "MotionMaker in Maya named to Fast Company's 2026 Next Big Things in Tech list"
+            "time": "INFO",
+            "tag": "LIMIT",
+            "text": "Limite de API di\u00e1rio atingido (Mocking news...)"
         }
     ]
 }
