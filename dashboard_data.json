@@ -1,85 +1,85 @@
 {
     "metadata": {
-        "last_updated": "2026-10-05 18:05 UTC",
+        "last_updated": "2026-10-06 00:39 UTC",
         "status": "MARKET LIVE"
     },
     "market_ticker": [
         {
             "symbol": "NVDA",
-            "price": 237.57,
-            "change": "+0.83%"
+            "price": 238.9,
+            "change": "-1.9%"
         },
         {
             "symbol": "AMD",
-            "price": 631.9,
-            "change": "+1.03%"
+            "price": 631.75,
+            "change": "+0.94%"
         },
         {
             "symbol": "MSFT",
-            "price": 524.89,
-            "change": "+1.1%"
+            "price": 525.18,
+            "change": "+0.92%"
         },
         {
             "symbol": "CEG",
-            "price": 269.65,
-            "change": "-0.22%"
+            "price": 267.62,
+            "change": "+1.69%"
         },
         {
             "symbol": "VST",
-            "price": 145.06,
-            "change": "+1.86%"
+            "price": 144.89,
+            "change": "+2.99%"
         }
     ],
     "dashboard_metrics": {
-        "cer_current": 0.63,
+        "cer_current": 0.57,
         "rci_current": 0.24,
         "hsd_current": 24.5,
         "energy_price": 128.4,
         "cer_history": [
             0.52,
+            0.53,
+            0.54,
+            0.54,
+            0.53,
+            0.53,
             0.52,
             0.51,
-            0.51,
-            0.51,
-            0.51,
-            0.52,
             0.51,
             0.5,
-            0.51,
-            0.51,
+            0.5,
             0.51
         ],
         "hsd_history_hardware": [
-            23.18,
-            22.96,
-            23.39,
-            23.77,
-            24.23,
-            24.46,
-            24.85,
-            25.32,
-            25.25,
-            25.41,
-            25.1,
-            25.29
+            24.68,
+            24.67,
+            25.0,
+            24.6,
+            24.61,
+            24.84,
+            25.06,
+            24.95,
+            24.83,
+            24.97,
+            25.37,
+            24.93
         ],
         "hsd_history_software": [
-            10.78,
-            10.8,
-            10.62,
-            10.52,
-            10.7,
-            10.6,
-            10.54,
-            10.46,
-            10.29,
-            10.14,
+            10.02,
+            10.11,
+            9.97,
+            10.13,
             10.18,
-            10.14
+            10.24,
+            10.24,
+            10.43,
+            10.51,
+            10.35,
+            10.19,
+            10.09
         ],
         "rci_data": [
             85.0,
-            23.757
+            23.89
         ],
         "energy_data": [
             1.2,
@@ -126,29 +126,29 @@
     ],
     "news_feed": [
         {
-            "time": "17:35",
+            "time": "23:49",
             "tag": "MERCADO",
-            "text": "Hyland Joins the Jack Henry & Associates, Inc. Fintech Integration Network to Close the Gap Between Core Banking and Governed Content"
+            "text": "Hyland Joins Jack Henry's FIN Integration Network"
         },
         {
-            "time": "17:30",
+            "time": "23:36",
             "tag": "MERCADO",
-            "text": "Uber Stock Rises: What's Going On?"
+            "text": "ACCO Brands completes Trust acquisition: what it means for ACCO Brands stock"
         },
         {
-            "time": "17:28",
+            "time": "23:34",
             "tag": "MERCADO",
-            "text": "Fortinet, Inc. $FTNT Stock Sold by Argent Capital Management LLC"
+            "text": "What Ericsson Holders Had To Stomach, And Where That Fight Is Live Now"
         },
         {
-            "time": "17:28",
+            "time": "23:26",
             "tag": "MERCADO",
-            "text": "13,886 Palo Alto Networks, Inc. $PANW Shares Sold by Ferguson Wellman Capital Management Inc."
+            "text": "Lightning Round: Avery Dennison is a winner, says Jim Cramer"
         },
         {
-            "time": "17:28",
+            "time": "23:25",
             "tag": "MERCADO",
-            "text": "60,000 Shares of Cisco Systems, Inc. $CSCO Acquired by Bright Rock Capital Management LLC"
+            "text": "Apple (NASDAQ:AAPL) CEO John Ternus Sells 25,412 Shares of Company Stock"
         }
     ]
 }
